@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG661: [Finite akac ending anudātta and blocked cit accent](research/panini_grammar/finite_akac_ending_anudatta_and_blocked_cit_accent/README.md). Kāśikā 6.1.186 explicitly overrides 6.1.163 cit-final accent on the original l-sārvadhātuka ending of PG533's `pacataki/jalpataki/svapitaki/śvasitaki`. One accent construction/four records; zero word, morphology or source credits. Exact non-ending accent remains Open. Census unchanged at 51,819 finite and 8,012 nominal/9,271 readings.
+
 PG660: [Sarvakaḥ cit accent and the blocked plain-sarva route](research/panini_grammar/sarvaka_nomsg_cit_accent_and_sarva_sup_block/README.md). Kāśikā 6.1.191 explicitly restricts the initial accent of plain `sarva` before sup to the an-akac branch, then selects cit-final accent for exact `sarvakaḥ`. One accent construction/one record; zero word, morphology or source credits. Census unchanged at 51,819 finite and 8,012 nominal/9,271 readings.
 
 PG659: [Akac degree-avyaya final accent](research/panini_grammar/akac_degree_avyaya_final_accent/README.md). Kāśikā 5.3.71/6.1.163 and Nyāsa's cit explanation compose on exact `uccakaiḥ/nīcakaiḥ/śanakaiḥ`: one new `śanakaiḥ` morphology interface and one whole-complex final-udātta construction/three records. Zero finite/nominal/source credits; census unchanged at 51,819 finite and 8,012 nominal/9,271 readings.
@@ -5271,3 +5273,7 @@ Existing RH, Yang-Mills, continuum and empirical claim boundaries remain in forc
 ## PG659 · Cit-owned whole-complex accent
 
 [Akac degree-avyaya accent](research/panini_grammar/akac_degree_avyaya_final_accent/DERIVATION_AND_NATIVE_RECOVERY.md) types c_IT as the trigger and the whole prakṛti+affix complex as accent recipient for `uccakaiḥ/nīcakaiḥ/śanakaiḥ`. Full PG14 recovery keeps lexical ai+s, inserted ak, pause visarga and accent credit distinct. One morphology readout and one accent/three records; word census unchanged. Nominal/finite competition remains Open.
+
+## PG661 · Later-rule ownership of the retained finite ending
+
+[Finite akac ending accent](research/panini_grammar/finite_akac_ending_anudatta_and_blocked_cit_accent/DERIVATION_AND_NATIVE_RECOVERY.md) keeps root/sense, śap or śap-luk, rudādi iṭ, original `tip`, akac placement and both accent routes in the full PG14 carrier. Typed zero-specialization selects 6.1.186 anudātta on the retained `i_ENDING` without merging it with the inner iṭ or declaring the word accentless. One accent/four records; census unchanged and complete non-ending placement Open.

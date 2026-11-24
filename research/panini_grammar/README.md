@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG661: [Finite akac ending anudātta and blocked cit accent](finite_akac_ending_anudatta_and_blocked_cit_accent/README.md). Kāśikā 6.1.186 explicitly overrides 6.1.163 cit-final accent on the original l-sārvadhātuka ending of PG533's `pacataki/jalpataki/svapitaki/śvasitaki`. One accent construction/four records; zero word, morphology or source credits. Exact non-ending accent remains Open. Census unchanged at 51,819 finite and 8,012 nominal/9,271 readings.
+
 PG660: [Sarvakaḥ cit accent and the blocked plain-sarva route](sarvaka_nomsg_cit_accent_and_sarva_sup_block/README.md). Kāśikā 6.1.191 explicitly restricts the initial accent of plain `sarva` before sup to the an-akac branch, then selects cit-final accent for exact `sarvakaḥ`. One accent construction/one record; zero word, morphology or source credits. Census unchanged at 51,819 finite and 8,012 nominal/9,271 readings.
 
 PG659: [Akac degree-avyaya final accent](akac_degree_avyaya_final_accent/README.md). Kāśikā 5.3.71/6.1.163 and Nyāsa's cit explanation compose on exact `uccakaiḥ/nīcakaiḥ/śanakaiḥ`: one new `śanakaiḥ` morphology interface and one whole-complex final-udātta construction/three records. Zero finite/nominal/source credits; census unchanged at 51,819 finite and 8,012 nominal/9,271 readings.
@@ -3039,3 +3041,7 @@ padas, outer lakāras and exhaustive phonetic/accent alternatives stay open.
 ## PG659 · Akac degree-avyaya final accent
 
 [PG659](akac_degree_avyaya_final_accent/README.md) composes the three exact Kāśikā akac avyayas with 6.1.163 whole-complex final udātta. PG553's `uccakaiḥ/nīcakaiḥ` morphology is not recredited; `śanakaiḥ` adds one interface. One accent construction/three records, zero word/source credits; census remains 51,819 finite and 8,012 nominal/9,271 readings. Wider accent competition remains Open.
+
+## PG661 · Finite akac ending anudātta and blocked cit accent
+
+[PG661](finite_akac_ending_anudatta_and_blocked_cit_accent/README.md) resolves one exact rule-order conflict across four PG533 words. The original `tip` vowel remains the final vowel after akac insertion, but Kāśikā 6.1.186 explicitly makes the l-sārvadhātuka ending anudātta and blocks even the later-visible cit-final route. One accent construction/four records, zero word/morphology/source credits; census unchanged. Complete non-ending accent remains Open rather than being inferred.

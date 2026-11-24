@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG660
+# Pāṇini grammar · current written coverage at PG661
+
+PG661: [Finite akac ending anudātta and blocked cit accent](finite_akac_ending_anudatta_and_blocked_cit_accent/README.md). Kāśikā 6.1.186 explicitly overrides 6.1.163 cit-final accent on the original l-sārvadhātuka ending of PG533's `pacataki/jalpataki/svapitaki/śvasitaki`. One accent construction/four records; zero word, morphology or source credits. Exact non-ending accent remains Open. Census unchanged at 51,819 finite and 8,012 nominal/9,271 readings.
 
 PG660: [Sarvakaḥ cit accent and the blocked plain-sarva route](sarvaka_nomsg_cit_accent_and_sarva_sup_block/README.md). Kāśikā 6.1.191 explicitly restricts the initial accent of plain `sarva` before sup to the an-akac branch, then selects cit-final accent for exact `sarvakaḥ`. One accent construction/one record; zero word, morphology or source credits. Census unchanged at 51,819 finite and 8,012 nominal/9,271 readings.
 

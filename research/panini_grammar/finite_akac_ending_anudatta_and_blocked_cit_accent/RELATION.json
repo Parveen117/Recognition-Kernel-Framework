@@ -1,0 +1,63 @@
+{
+  "schema": "rkf.panini.pg661.relation.v1",
+  "scope": "Exact PG533 finite-akac P3sg final-ending accent conflict",
+  "records": [
+    {
+      "request": "pac|1011151|pāka|laṭ|P|3|sg|active|5.3.74 kutsita|akac",
+      "word": "pacataki",
+      "placement": "pacat|ak_AK|i_ENDING",
+      "morphology_owner": "PG533 control; zero repeated word/morphology credit",
+      "candidate_route": "akac c_IT plus 6.1.163 whole-complex final udātta",
+      "selected_route": "6.1.186 a-ending-upadeśa l-sārvadhātuka anudātta",
+      "selected_feature": "original tip i_ENDING anudātta; cit-final route blocked",
+      "nonending_accent": "Open outside this fixed-vowel decision",
+      "status": "Accepted source-explicit rule-order result"
+    },
+    {
+      "request": "jalp|1010464|vyaktā-vāc|laṭ|P|3|sg|active|5.3.74 kutsita|akac",
+      "word": "jalpataki",
+      "placement": "jalpat|ak_AK|i_ENDING",
+      "morphology_owner": "PG533 control; zero repeated word/morphology credit",
+      "candidate_route": "akac c_IT plus 6.1.163 whole-complex final udātta",
+      "selected_route": "6.1.186 a-ending-upadeśa l-sārvadhātuka anudātta",
+      "selected_feature": "original tip i_ENDING anudātta; cit-final route blocked",
+      "nonending_accent": "Open outside this fixed-vowel decision",
+      "status": "Accepted source-explicit rule-order result"
+    },
+    {
+      "request": "svap|1020063|śaya|laṭ|P|3|sg|active|5.3.76 anukampā|akac",
+      "word": "svapitaki",
+      "placement": "svap_i_FROM_IT_AUGMENT_t|ak_AK|i_ENDING",
+      "morphology_owner": "PG533 control; zero repeated word/morphology credit",
+      "candidate_route": "akac c_IT plus 6.1.163 whole-complex final udātta",
+      "selected_route": "6.1.186 anudātta-it-root l-sārvadhātuka anudātta",
+      "selected_feature": "original tip i_ENDING anudātta; cit-final route blocked",
+      "guard": "6.1.188 optional initial accent excluded on this fixed request because 7.2.76 supplies iṭ",
+      "nonending_accent": "Open outside this fixed-vowel decision",
+      "status": "Accepted source-explicit rule-order result"
+    },
+    {
+      "request": "śvas|1020064|prāṇana|laṭ|P|3|sg|active|5.3.76 anukampā|akac",
+      "word": "śvasitaki",
+      "placement": "śvas_i_FROM_IT_AUGMENT_t|ak_AK|i_ENDING",
+      "morphology_owner": "PG533 control; zero repeated word/morphology credit",
+      "candidate_route": "akac c_IT plus 6.1.163 whole-complex final udātta",
+      "selected_route": "6.1.186 anudātta-it-root l-sārvadhātuka anudātta",
+      "selected_feature": "original tip i_ENDING anudātta; cit-final route blocked",
+      "guard": "6.1.188 optional initial accent excluded on this fixed request because 7.2.76 supplies iṭ",
+      "nonending_accent": "Open outside this fixed-vowel decision",
+      "status": "Accepted source-explicit rule-order result"
+    }
+  ],
+  "open": [
+    "Exact surviving non-ending accent placement and complete accented Unicode transcription",
+    "Recitation, sentence sandhi, independent Vedic traditions and other finite-akac cells",
+    "Nine padī meanings, patradatam/128 and wider C2-C5/S1-S7/native/global gates"
+  ],
+  "excluded": [
+    "Applying 6.1.163 final udātta to the original tip i_ENDING after 6.1.186",
+    "Treating the blocked cit route as deletion of every word accent",
+    "Applying 6.1.188 to the fixed svapiti/śvasiti requests despite their explicit 7.2.76 iṭ",
+    "Crediting any of the four PG533 words or morphology paths again"
+  ]
+}

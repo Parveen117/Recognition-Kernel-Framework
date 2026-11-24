@@ -1,6 +1,8 @@
-# Written-development backlog at PG660
+# Written-development backlog at PG661
 
-Monty · 2026-11-24 · reviewed current parent e0f8ffa0b663fa25f69751e0710d39124376dfde; historical closures below retain their exact original pins.
+Monty · 2026-11-24 · reviewed current parent b537a417ca0ae50a15023f3f3ee78d44555df900; historical closures below retain their exact original pins.
+
+PG661 closes the final-ending accent conflict for the four fixed PG533 finite-akac words. Kāśikā 6.1.186 makes their original l-sārvadhātuka `i_ENDING` anudātta and explicitly overrides the 6.1.163 cit-final route. One accent construction/four records; no word/morphology/source recredit. Exact non-ending accent, other finite/nominal akac cells and wider gates remain Open. Census unchanged at 51,819 finite; 8,012 nominal positions/9,271 readings.
 
 PG660 closes one exact nominal akac accent conflict: Kāśikā 6.1.191 blocks the ordinary initial `sarva` accent when akac is present and explicitly selects 6.1.163 cit-final accent for `sarvakaḥ`. One accent construction/one record; no word/source recredit. Other PG432 cells and all other nominal/finite akac competitions remain Open. Census unchanged at 51,819 finite; 8,012 nominal positions/9,271 readings.
 

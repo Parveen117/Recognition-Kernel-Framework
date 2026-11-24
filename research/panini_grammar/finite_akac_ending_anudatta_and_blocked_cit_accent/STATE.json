@@ -1,0 +1,68 @@
+{
+  "schema": "rkf.panini.pg661.state.v1",
+  "author": "Monty",
+  "date": "2026-11-24",
+  "publication_parent": "b537a417ca0ae50a15023f3f3ee78d44555df900",
+  "baseline": {
+    "commit": "b537a417ca0ae50a15023f3f3ee78d44555df900",
+    "path": "research/panini_grammar/sarvaka_nomsg_cit_accent_and_sarva_sup_block/STATE.json"
+  },
+  "finite_positions": 51819,
+  "nominal_positions": 8012,
+  "nominal_readings": 9271,
+  "runtime_policy": {
+    "python": "3.12 only",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "old_suites": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE",
+    "document_check_status": "PASS",
+    "document_check_runtime": "3.12.14",
+    "document_check_attempts": 3,
+    "document_check_assertions": 169
+  },
+  "grammar_executions": [],
+  "open_obligations": [
+    "Exact surviving non-ending accent placement, recitational transcription and other nominal/finite akac accent cells remain Open.",
+    "Six K139 and three extended Vasu139 meanings, patradatam/128, C2-C5/S1-S7/native/global obligations remain Open.",
+    "Claude execution separate; PG335 correction and PG357-PG363 CLOSED preserved."
+  ],
+  "authorization": {
+    "completion_status": "OPEN wider gates",
+    "PG335": "-9 finite/-12 readings correction preserved",
+    "PG357_PG363": "CLOSED preserved",
+    "continuous_executed_hours_claimed": false
+  },
+  "local_closure": "Exact final tip-i cit versus l-sārvadhātuka accent conflict CLOSED for four PG533 words; non-ending accent and wider gates Open.",
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 0,
+  "new_morphological_constructions": 0,
+  "new_morphological_readouts": 0,
+  "new_compound_constructions": 0,
+  "new_compound_readouts": 0,
+  "new_semantic_constructions": 0,
+  "new_semantic_readouts": 0,
+  "new_syntactic_constructions": 0,
+  "new_syntactic_readouts": 0,
+  "new_source_policy_decisions": 0,
+  "new_source_observations": 0,
+  "new_source_analysis_records": 0,
+  "new_accent_constructions": 1,
+  "new_accent_readouts": 4,
+  "new_nonfinite_constructions": 0,
+  "new_nonfinite_readings": 0,
+  "new_provenance_corrections": 0,
+  "new_proof_addenda": 0,
+  "new_accounting_corrections": 0,
+  "new_morphological_permission_readouts": 0,
+  "new_positions": 0,
+  "new_position_readings": 0,
+  "inherited_accounting_guard": {
+    "PG335": "Frozen -9 finite/-12 readings duplicate correction; never restore PG334 duplicates.",
+    "PG357_PG363": "CLOSED historical results preserved",
+    "baseline_state": "PG660 exact baseline carries all earlier corrections unchanged",
+    "PG533": "Four words and morphology paths are frozen controls; zero repeated position or morphology credit."
+  }
+}

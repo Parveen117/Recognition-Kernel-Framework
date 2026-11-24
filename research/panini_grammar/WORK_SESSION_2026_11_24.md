@@ -3,6 +3,19 @@
 Monty. Dates follow Asia/Kolkata.
 
 
+## PG661 · Finite akac ending anudātta and blocked cit accent
+
+Previous publication: b537a417ca0ae50a15023f3f3ee78d44555df900; tree dfb859ac170dc0011de5c712dc0a81db08c26407. Necessary check: Python 3.12.14, 169 assertions, 3 attempts; attempts 1–2 stopped at exact cached-literal sandhi/punctuation assertions and attempt 3 passed without a grammatical-result change.
+
+PG661: [Finite akac ending anudātta and blocked cit accent](finite_akac_ending_anudatta_and_blocked_cit_accent/README.md). Across exact PG533 `pacataki/jalpataki/svapitaki/śvasitaki`, Kāśikā 6.1.186 selects anudātta for the retained l-sārvadhātuka ending and expressly overrides the competing 6.1.163 cit-final route. One accent construction/four records; zero finite/nominal/morphology/source credits. Census unchanged at 51,819 finite; 8,012 nominal/9,271 readings.
+
+PG521–661 cumulative: 2,234 nominal positions/2,528 readings, zero finite; 238 morphology/1,040 interfaces; 122 compound/583 plans; 11 accent/53 records; 148 semantics/433 records; 109 syntax/301 records; 37 source-policy decisions after PG555−1; 274 observations. One provenance correction/one proof addendum; no census correction.
+
+Exact final-ending conflict locally CLOSED. The surviving non-ending accent, other finite/nominal akac cells, recitation/sandhi, nine padī meanings, patradatam/128/C2–C5/S1–S7/native/global work remain Open. Claude owns execution/generators/untouched suites/replay. PG335 correction and PG357–PG363 CLOSED remain preserved.
+
+The exact publication is the containing commit; existing review branch only, nonforce. No elapsed-hours, ETA or complete-Sanskrit claim.
+
+
 ## PG660 · Sarvakaḥ cit accent and the blocked plain-sarva route
 
 Previous publication: e0f8ffa0b663fa25f69751e0710d39124376dfde; tree b817848b22098a062301f87db40d01e655841e25. Necessary check: Python 3.12.14, 131 assertions, 2 attempts; attempt 1 stopped at one tracker-literal assertion and attempt 2 passed without a grammatical-result change.
