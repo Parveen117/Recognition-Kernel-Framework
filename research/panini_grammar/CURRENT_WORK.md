@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG724
+# Pāṇini grammar · current written coverage at PG725
+
+PG725 · [Merchandise, salt and the aromatic suffixes](merchandise_salt_and_aromatic_affix_variants/README.md). Writes the food and salt merchants and the named aromatic series. The Kāśikā and expanded Vasu lists retain their own membership. Śalālu takes two scope-limited suffix and accent histories. Census 52,341 finite positions and 12,589 nominal positions with 14,493 nominal readings.
 
 PG724 · [The seventh Uṇādi suffix and the actor noun’s second gender](unadi_seventh_suffix_and_nat_ac_gender/README.md). Direct print collation separates 1844 ṣaṇṭha, 1859 śaṇṭha and the Kaumudī ṣaṇḍha. The Vyutpattiratnākara identifies the actor’s pacādi ac and supports its known masculine and newly written neuter cases. Census 52,341 finite positions and 11,869 nominal positions with 13,658 nominal readings.
 

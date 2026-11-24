@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG725 · [Merchandise, salt and the aromatic suffixes](research/panini_grammar/merchandise_salt_and_aromatic_affix_variants/README.md). The 720 nominal positions and 835 readings distinguish the scope of the default, salt exception and aromatic gaṇa. The owned first-vowel grades, two feminine affix routes and source accent records commute with typed PG14 specialization.
+
 PG724 · [The seventh Uṇādi suffix and the actor noun’s second gender](research/panini_grammar/unadi_seventh_suffix_and_nat_ac_gender/README.md). The rule keeps the seventh affix and the sound boundary independent of textual spelling, and adds 48 case positions and 50 readings for printed śaṇṭha and neuter naṭa. The alternative act-root history is admitted at its own precisely supported lexical scope.
 
 PG723 · [Named acts of seeing, customary duties and levies](research/panini_grammar/named_seeing_customary_entitlement_and_avakraya/README.md). The written operator tracks named denotation, customary support, gaṇa and ṛ-final routing, special deletion, and payment. Its 696 nominal positions and 725 readings retain the source-specific histories through typed zero specialization.

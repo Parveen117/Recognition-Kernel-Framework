@@ -2,6 +2,16 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG725 · Merchandise, salt and the aromatic suffixes
+
+PG725 · [Merchandise, salt and the aromatic suffixes](merchandise_salt_and_aromatic_affix_variants/README.md). Writes the food and salt merchants and the named aromatic series. The Kāśikā and expanded Vasu lists retain their own membership. Śalālu takes two scope-limited suffix and accent histories. Census 52,341 finite positions and 12,589 nominal positions with 14,493 nominal readings.
+
+Finite increments 0 positions/0 readings. Nominal increments 720 positions/835 readings. One morphology construction/35 interfaces, one syntax construction/8 readouts, one semantic construction/5 readouts, one accent construction/9 records and one junction construction/4 readouts. 15 source observations and 13 source-policy decisions. Publication parent 29f2249c3fa715cf7d42e5364a8584dc5b5ac9c5. The containing commit pins the documents and evidence.
+
+PG521–725 cumulative: 522 finite positions/1,440 net finite readings, 6,811 nominal positions/7,750 readings, 299 morphology constructions/3,130 interfaces, 135 compound constructions/618 plans, 33 accent constructions/135 records, 157 semantics constructions/475 records, 146 syntax constructions/547 records, 261 source-policy decisions after PG555−1 and 624 observations. Twenty-nine junction constructions/91 readouts since PG680 and 22 nonfinite constructions/28 paths since PG700. PG335 and PG357–363 CLOSED results are preserved.
+
+Selected 4.4.51–54 merchandise cases are locally CLOSED, including the nine Kāśikā heads, the three additional named Vasu operands and the two śalālu alternatives. The exact printed provenance of expanded members, niradika in one text layer and unlisted feminine and pitch senses remain Open. 4.4.55–62 craft, instrument and opinion frames require their own construction. Wider C2–C5/S1–S7 and Claude execution retain their obligations.
+
 ## PG724 · The seventh Uṇādi suffix and the actor noun’s second gender
 
 PG724 · [The seventh Uṇādi suffix and the actor noun’s second gender](unadi_seventh_suffix_and_nat_ac_gender/README.md). Direct print collation separates 1844 ṣaṇṭha, 1859 śaṇṭha and the Kaumudī ṣaṇḍha. The Vyutpattiratnākara identifies the actor’s pacādi ac and supports its known masculine and newly written neuter cases. Census 52,341 finite positions and 11,869 nominal positions with 13,658 nominal readings.

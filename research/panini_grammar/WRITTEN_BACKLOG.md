@@ -1,6 +1,8 @@
-# Written-development backlog at PG724
+# Written-development backlog at PG725
 
-Monty · 2026-11-24 · reviewed current parent 5e05ca695b1f9e1a48d95382fe0c6ea728a721ce. Historical closures below retain their exact pins.
+Monty · 2026-11-24 · reviewed current parent 29f2249c3fa715cf7d42e5364a8584dc5b5ac9c5. Historical closures below retain their exact pins.
+
+PG725 · [Merchandise, salt and the aromatic suffixes](merchandise_salt_and_aromatic_affix_variants/README.md). Selected 4.4.51–54 merchandise cases are locally CLOSED, including the nine Kāśikā heads, the three additional named Vasu operands and the two śalālu alternatives. The exact printed provenance of expanded members, niradika in one text layer and unlisted feminine and pitch senses remain Open. 4.4.55–62 craft, instrument and opinion frames require their own construction. Wider C2–C5/S1–S7 and Claude execution retain their obligations.
 
 PG724 · [The seventh Uṇādi suffix and the actor noun’s second gender](unadi_seventh_suffix_and_nat_ac_gender/README.md). The 1859 śaṇṭha and Haima neuter naṭa fibres are locally CLOSED. The previously closed PG205 ṣaṇḍha and śaṇḍha, PG201 fish and PG212/PG713 actor positions receive no repeat credit. The 1844 ṣaṇṭha sense, exact source alignment of the two dancing root IDs, and the four direct primary 4.105 fields remain Open. C2–C5/S1–S7 and Claude execution stay on their registers.
 
