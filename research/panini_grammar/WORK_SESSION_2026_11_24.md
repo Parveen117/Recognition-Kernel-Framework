@@ -2,6 +2,16 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG708 · The printed dhi ca debate, pada boundary and Vedic sagdhiḥ
+
+PG708 · [The printed dhi ca debate, pada boundary and Vedic sagdhiḥ](dhi_ca_printed_debate_pada_boundary_and_sagdhi/README.md). Kielhorn’s 1885 print shows the sic proposal, seṭ objection and broad reply. Osmania Kāśikā independently prints both policies. Nyāsa and Padamañjarī each protect payo dhāvati. One new nominal position and reading derives sagdhiḥ from the directly witnessed common-meal context. Census 52,332 finite positions and 9,359 nominal positions with 10,957 nominal readings.
+
+0 new nonfinite constructions/0 retained paths. Accent 1/3, syntax 1/1, phonological junction 1/3 constructions/readouts. 9 source observations and 6 source-policy decisions. One morphology construction/1 interfaces. One compound construction/one plan. Finite increments 0 positions and 0 readings. Nominal increments 1 positions and 1 readings. The publication parent is dab2f833c7ed4d33a02fff0932c21725852d2586. The containing commit pins the documents and evidence.
+
+PG521–708 cumulative: 513 finite positions/1,429 net finite readings, 3,581 nominal positions/4,214 readings, 282 morphology constructions/2,934 interfaces, 127 compound constructions/591 plans, 24 accent constructions/96 records, 153 semantics constructions/454 records, 131 syntax constructions/423 records, 115 source-policy decisions after PG555−1 and 425 observations. Fifteen junction constructions/39 readouts since PG680 and 20 nonfinite constructions/26 paths since PG700. Four provenance corrections and one proof addendum. PG335 and PG357–363 CLOSED results are preserved.
+
+Named primary-work print collation CLOSED locally for S2. The two explanations of external payo dhāvati and the named Vedic sagdhiḥ nominative are now constructed. Original manuscripts, exact transmission and raw repair still require evidence. The bhas/bandh debate and the recensional maker-word formations remain separate Open constructions. S1–S7 and C2–C5 remain active. Claude retains execution.
+
 ## PG707 · Vedic stoṣam and the Aśvins’ dual aorists
 
 PG707 · [Vedic stoṣam and the Aśvins’ dual aorists](vedic_stosam_and_ashvin_dual_aorist_owners/README.md). The short stoṣam has four recensional addresses. Sāyaṇa derives mṛkṣatam from mṛś plus ksa and tāriṣṭam from tṝ plus siC. Mahīdhara’s competing mṛj leṭ keeps its grade question Open. His printed 34.8 itself has the divergent 3.2.34 locator. Three new finite positions and readings. Census 52,332 finite positions and 9,358 nominal positions with 10,956 nominal readings.

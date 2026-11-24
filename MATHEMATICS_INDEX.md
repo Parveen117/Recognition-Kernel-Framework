@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG708 · [The printed dhi ca debate, pada boundary and Vedic sagdhiḥ](research/panini_grammar/dhi_ca_printed_debate_pada_boundary_and_sagdhi/README.md). The same-pada guard and the question whether jaś sees the deleted root vowel have different, explicit readout addresses. PG14 specialization preserves both views and the recorded s owners.
+
 PG707 · [Vedic stoṣam and the Aśvins’ dual aorists](research/panini_grammar/vedic_stosam_and_ashvin_dual_aorist_owners/README.md). The same surface remains addressable by separate historical root and mood claims. Typed specialization preserves the attestation, ownership, Open grade and precise accent or contact grades.
 
 PG706 · [Two printed Kāśikā witnesses for anadyatana laṅ](research/panini_grammar/anadyatana_two_printed_kasika_prescriptions/README.md). The witness grade carries edition, article address and direct or reported evidence through the PG14 specialization. The existing temporal and root histories retain their typed interfaces with zero word recredit.

@@ -1,0 +1,190 @@
+{
+  "publication_parent": "dab2f833c7ed4d33a02fff0932c21725852d2586",
+  "date": "2026-11-24",
+  "project_dependencies": [
+    {
+      "commit": "dab2f833c7ed4d33a02fff0932c21725852d2586",
+      "path": "research/panini_grammar/vedic_stosam_and_ashvin_dual_aorist_owners/STATE.json",
+      "git_blob_sha": "a80a3e49f9f53baf56046e7e6139dae4c1574058",
+      "bytes": 2627,
+      "sha256": "c1304920ccb9ee0fa46581d0d0f8d02ef2469899056e2a7839addc4f84d8c63d",
+      "use": "Inherited census"
+    },
+    {
+      "commit": "b05e46bf78f165e17c4766d6d1179a1699a72fcf",
+      "path": "research/panini_grammar/grammar_construction/NATIVE_OPERATOR_LIFT.md",
+      "git_blob_sha": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+      "bytes": 11855,
+      "sha256": "f52e7f5cf539ef56859b890669ef738848491e4005e73be75baa49c899b5dafd",
+      "use": "Full native history and cut algebra"
+    },
+    {
+      "commit": "e0fa93fbfa1403ed37d9ddc27b21617b0b9f2a0a",
+      "path": "research/panini_grammar/bhasya_dhi_ca_primary_dialogue_and_scope/WITNESS_EXCERPTS.json",
+      "git_blob_sha": "33df86c59633aeb6c5cf2feb044c573edfd89916",
+      "bytes": 13803,
+      "sha256": "2f645397d80e5a4ca478fdd11a942dd45dfcea307d5c65cdf3f6a2727a598df2",
+      "use": "Exact earlier rendition of the dialogue at 8.2.25"
+    },
+    {
+      "commit": "e0fa93fbfa1403ed37d9ddc27b21617b0b9f2a0a",
+      "path": "research/panini_grammar/dhi_ca_printed_tattva_policy_retrospective/PRINTED_SOURCE_AND_NATIVE_RECOVERY.md",
+      "git_blob_sha": "4fb4f6574557fec7dbbdbd984532e37ea6338a0f",
+      "bytes": 8530,
+      "sha256": "f885d238c9b1df5ccaec98adc7f431bcf934b24df6cf0efc4cd35dd03b63386f",
+      "use": "The previous printed attribution to Vāmana and Bhāṣya, replayed as a dependency"
+    },
+    {
+      "commit": "dab2f833c7ed4d33a02fff0932c21725852d2586",
+      "path": "research/panini_grammar/narrow_lut_tas_retention_and_owned_jashtva/STATE.json",
+      "git_blob_sha": "c8fe46f9e39c76ac17b12e45d05b9980ef67ced5",
+      "bytes": 5376,
+      "sha256": "8548d9c09137fb8001aaef83a16fa0fb12a079526b4d32749d6d6795affe6aeb",
+      "use": "PG462 locally complete narrow-policy requests carry zero repeat credit"
+    },
+    {
+      "commit": "dab2f833c7ed4d33a02fff0932c21725852d2586",
+      "path": "research/panini_grammar/abhyasta_modals/OWNED_READOUT.md",
+      "git_blob_sha": "eb5734fffb91be7c8008ffa47922b2236791f977",
+      "bytes": 4503,
+      "sha256": "563e6a950cf51ac2e769ca87916ba9ea47a5dac31123443da0adac2932938bdf",
+      "use": "Existing cakās root/hi→dhi and root-s policies carry zero repeat credit"
+    },
+    {
+      "commit": "dab2f833c7ed4d33a02fff0932c21725852d2586",
+      "path": "research/panini_grammar/verification/ORACLE_CASES.json",
+      "git_blob_sha": "33b3cd159a60ef11f21588725fd2d8e2933e5147",
+      "bytes": 57570,
+      "sha256": "663b0a2ce6fcccef2726ad54cdba3a1a66e9326e420d97361a31f18ffd54ede7",
+      "use": "sagdhi-jas remains the prior one-rule written oracle, inspected without execution"
+    },
+    {
+      "commit": "ada439f6ba3109d798b41c216fe7cedc79e60afb",
+      "path": "research/panini_grammar/SUTRAPATHA.tsv",
+      "git_blob_sha": "1840f3b5349b21112ac05a7efaa59705fd4efee0",
+      "bytes": 270179,
+      "sha256": "70dfdfe6ba433b6e211f0f01b078c1b6d13a1ad0938e06fd5789298a04583634",
+      "use": "Stable rule numbering for 8.2.25/26, 6.1.114, 6.3.84 and 8.4.53"
+    }
+  ],
+  "web_evidence": [
+    {
+      "id": "K402",
+      "url": "https://archive.org/download/patanjali-mahabhasya-kielhorn-1880-85/Patanjali%2C%20Mahabhasya%2C%20Kielhorn_1885%20Vol.3.pdf#page=410",
+      "locator": "Bombay Government Central Book Depôt, Kielhorn v. III, 1885, title leaf 1 and printed page 402/PDF leaf 410",
+      "use": "Original print of sic-only proposal, cakāddhi, jaś suggestion and seṭ objection"
+    },
+    {
+      "id": "K403",
+      "url": "https://archive.org/download/patanjali-mahabhasya-kielhorn-1880-85/Patanjali%2C%20Mahabhasya%2C%20Kielhorn_1885%20Vol.3.pdf#page=411",
+      "locator": "Same edition, printed page 403/PDF leaf 411",
+      "use": "Original print of the counterexamples, alternate roots, broad cakādhi reply and separate 8.2.32 heading"
+    },
+    {
+      "id": "O915",
+      "url": "https://www.sanskritlibrary.org/kasikaImages/kasika-p915.pdf",
+      "locator": "Osmania Kāśikā vol. II, printed p. 915, 8.2.25 lower section",
+      "use": "Narrow operative rule, source quote supporting cakādhi and separate external safeguard"
+    },
+    {
+      "id": "O916",
+      "url": "https://www.sanskritlibrary.org/kasikaImages/kasika-p916.pdf",
+      "locator": "Osmania Kāśikā vol. II, printed p. 916, above 8.2.26",
+      "use": "Recap and labeled Taittirīya niṣkartāram comparison"
+    },
+    {
+      "id": "PT",
+      "url": "https://www.uccik.in/ab_files/Peters./V1-Peters.%20Report%20on%20the%20search%20for%20Sanskrit%20manuscripts%20in%20Bombay%20Circle%20by%20Peterson%20Vol%201%20%281882-83%29.pdf",
+      "locator": "Peterson's report p. 80, manuscript colophons at the end of the seventh and eighth adhyāyas, lines 1786–1808 in the rendered scan",
+      "use": "Two reported witnesses of chapter-level attribution to Vāmana"
+    },
+    {
+      "id": "N",
+      "url": "https://akshara.ru/sutraani/8/2/25",
+      "locator": "Nyāsa, lines 173–175, under payo dhāvati and sagdhi/babdhām",
+      "use": "Same-pada restriction, actual boundary derivation and comparative root/accent options"
+    },
+    {
+      "id": "PM",
+      "url": "https://akshara.ru/sutraani/8/2/25",
+      "locator": "Padamañjarī, lines 176–178, under yatnāntaram and the Vedic examples",
+      "use": "Ru-first visibility reasoning and Śākala/Taittirīya variant"
+    },
+    {
+      "id": "K100",
+      "url": "https://sanskritdocuments.org/~sanskrit/learning_tools/ashtadhyayi/vyakhya/6/6.4.100.htm",
+      "locator": "Kāśikā on 6.4.100, main 12–13",
+      "use": "Ad→ghas, ktin, upadhā-lopa and jhalo jhali before the observed gdh sequence"
+    },
+    {
+      "id": "K158",
+      "url": "https://sanskritdocuments.org/~sanskrit/learning_tools/ashtadhyayi/vyakhya/1/1.1.58.htm",
+      "locator": "Kāśikā 1.1.58, jaś exception at sagdhi/cited dual",
+      "use": "The deleted vowel remains historically accessible while the jaś test sees its absence"
+    },
+    {
+      "id": "K114",
+      "url": "https://sanskritdocuments.org/~sanskrit/learning_tools/ashtadhyayi/vyakhya/6/6.1.114.htm",
+      "locator": "Kāśikā's operative gloss explicitly labels 6.1.114",
+      "use": "u of ru after a before haś, and equivalent puruṣo hásati control"
+    },
+    {
+      "id": "VS",
+      "url": "https://vishvasa.github.io/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/sarva-prastutiH/18/",
+      "locator": "18.9 text, pada and Mahīdhara (rendered lines 420–427)",
+      "use": "Received common-meal nominal, initial tone and exact ad/ghas analysis"
+    },
+    {
+      "id": "TS",
+      "url": "https://vishvasa.github.io/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/4/7/04_vasordhArA_homamantrAH/",
+      "locator": "TS 4.7.4 lines 78–97, including Sāyaṇa",
+      "use": "Accented collocation and common-meal gloss"
+    },
+    {
+      "id": "RV",
+      "url": "https://vmlt.in/rigveda/10/140",
+      "locator": "Śākala 10.140.5 text, pada and Sāyaṇa",
+      "use": "Direct iṣkartāram and explicit restoration to niṣkartāram"
+    },
+    {
+      "id": "TSP",
+      "url": "https://vedshala.org/taittiriya-samhita/4/2/7/3",
+      "locator": "Taittirīya 4.2.7.3, corresponding ritual maker phrase",
+      "use": "Direct retained niṣkartāram"
+    }
+  ],
+  "scanned_pdf_pins": [
+    {
+      "file": "pg708_kielhorn_1885.pdf",
+      "url": "https://archive.org/download/patanjali-mahabhasya-kielhorn-1880-85/Patanjali%2C%20Mahabhasya%2C%20Kielhorn_1885%20Vol.3.pdf",
+      "bytes": 38300644,
+      "sha256": "93936a312f91f58d05b19aaa27b8a8fe74cb3bd48cc2ea530e1a6f7a72e52fb7",
+      "git_blob_sha": "6c0a038827a9c45271afd7d9c77d33d7888630ae",
+      "addresses": [
+        "1=1885 title",
+        "410=printed 402",
+        "411=printed 403"
+      ]
+    },
+    {
+      "file": "pg708_osmania_915.pdf",
+      "url": "https://www.sanskritlibrary.org/kasikaImages/kasika-p915.pdf",
+      "bytes": 460281,
+      "sha256": "9022d40e45e8a4900c3ffaf290e0c4606db0380d72d6f907fa9a4cba453a86b4",
+      "git_blob_sha": "fd83746372d804724b951fa96980537e025a9fa0",
+      "addresses": [
+        "1=printed 915"
+      ]
+    },
+    {
+      "file": "pg708_osmania_916.pdf",
+      "url": "https://www.sanskritlibrary.org/kasikaImages/kasika-p916.pdf",
+      "bytes": 328514,
+      "sha256": "e8e694a8fbc392077e901078c456bf68355ceef246665dd12a883a4ba5e72459",
+      "git_blob_sha": "26b3de2640576d9f3c5899466304d882bb74e14c",
+      "addresses": [
+        "1=printed 916"
+      ]
+    }
+  ]
+}
