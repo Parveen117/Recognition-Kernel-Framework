@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG753 · [The price instrumental, three royal predicates and sowing capacity](research/panini_grammar/price_as_instrument_royal_predicates_and_field_capacity/README.md). Typed PG14 recovery preserves the support case and semantic request through equal royal predicates and separately sourced feminine affixes.
+
 PG752 · [Coin and vessel compounds, owned elision and a Vedic dual](research/panini_grammar/price_compounds_owned_elision_and_vedic_satamana_dual/README.md). Typed PG14 recovery retains the causal affix identity, lexical replacement, result name and ritual case after specialization.
 
 PG751 · [Prices, two kinds of hundred and the history of a numeral suffix](research/panini_grammar/price_measure_hundreds_and_numeral_affix_history/README.md). Typed PG14 recovery preserves the measure, prior luk, numeral affix and name status at every case readout.

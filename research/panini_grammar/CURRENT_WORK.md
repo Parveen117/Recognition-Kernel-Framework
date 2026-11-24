@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG752
+# Pāṇini grammar · current written coverage at PG753
+
+PG753 · [The price instrumental, three royal predicates and sowing capacity](price_as_instrument_royal_predicates_and_field_capacity/README.md). Derives 5.1.37–46 price, occasion, sovereignty, local renown and seed-capacity predicates with Rāmāyaṇa, Aitareya and Kālidāsa witnesses. Census: 52,345 finite positions, 20,539 nominal positions and 23,208 nominal readings.
 
 PG752 · [Coin and vessel compounds, owned elision and a Vedic dual](price_compounds_owned_elision_and_vedic_satamana_dual/README.md). Derives the selected 5.1.25–36 coin and measure compounds and distinguishes the two grammatical cases of the Śatapatha śatamānau. Census: 52,345 finite positions, 20,512 nominal positions and 23,178 nominal readings.
 

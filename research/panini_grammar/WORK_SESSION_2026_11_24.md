@@ -2,6 +2,12 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG753 · The price instrumental, three royal predicates and sowing capacity
+
+PG753 · [The price instrumental, three royal predicates and sowing capacity](price_as_instrument_royal_predicates_and_field_capacity/README.md). Derives 5.1.37–46 price, occasion, sovereignty, local renown and seed-capacity predicates with Rāmāyaṇa, Aitareya and Kālidāsa witnesses. 27 new nominal positions and 30 readings. Finite positions and readings both increased by zero. One written morphology construction with 25 interfaces, 17 source observations and 6 source decisions. Census: 52,345 finite positions, 20,539 nominal positions and 23,208 nominal readings.
+
+Parent 379fe3da2caec03fa23b164916e66fc80d9a3172. The containing commit pins this packet. The general ground-relative outer analysis for RV 1.154.1, further senses of laukika and the detailed text history of the Kālidāsa display remain Open. No new case is claimed for those controls. Continue 5.1.47–54, including monetary increment, source of the dative recipient, fractions, and the two analyses of the burden clause. Investigate attested monetary expressions separately. C2–C5 and S1–S7 remain Open. Claude retains execution.
+
 ## PG752 · Coin and vessel compounds, owned elision and a Vedic dual
 
 PG752 · [Coin and vessel compounds, owned elision and a Vedic dual](price_compounds_owned_elision_and_vedic_satamana_dual/README.md). Derives the selected 5.1.25–36 coin and measure compounds and distinguishes the two grammatical cases of the Śatapatha śatamānau. 42 new nominal positions and 62 readings. Finite positions and readings both increased by zero. One written morphology construction with 39 interfaces, 18 source observations and 7 source decisions. Census: 52,345 finite positions, 20,512 nominal positions and 23,178 nominal readings.

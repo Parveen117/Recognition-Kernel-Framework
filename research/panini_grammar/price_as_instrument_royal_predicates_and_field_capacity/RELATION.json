@@ -1,0 +1,430 @@
+{
+  "stage": "PG753",
+  "morphology_interfaces": [
+    {
+      "id": "EIGHTY",
+      "base": "aśīti",
+      "guard": "payment",
+      "affix": "ṭhañ",
+      "result": "āśītika"
+    },
+    {
+      "id": "GRAIN",
+      "base": "mudga",
+      "guard": "beans collectively as payment",
+      "affix": "ṭhak",
+      "result": "maudgika"
+    },
+    {
+      "id": "TWO",
+      "base": "dvi",
+      "guard": "two as price",
+      "affix": "kan",
+      "result": "dvika"
+    },
+    {
+      "id": "THREE",
+      "base": "tri",
+      "guard": "three as price",
+      "affix": "kan",
+      "result": "trika"
+    },
+    {
+      "id": "ASSOC",
+      "base": "śata",
+      "guard": "person association",
+      "affix": "yat or ṭhan",
+      "result": "śatya / śatika"
+    },
+    {
+      "id": "OMEN",
+      "base": "śata",
+      "guard": "physical sign under traditional reading",
+      "affix": "yat or ṭhan",
+      "result": "śatya / śatika"
+    },
+    {
+      "id": "GAV",
+      "base": "go",
+      "guard": "occasion, explicit one-vowel base",
+      "affix": "yat",
+      "result": "gavya"
+    },
+    {
+      "id": "DHA",
+      "base": "dhana",
+      "guard": "occasion",
+      "affix": "yat",
+      "result": "dhanya"
+    },
+    {
+      "id": "YAS",
+      "base": "yaśas",
+      "guard": "occasion",
+      "affix": "yat",
+      "result": "yaśasya"
+    },
+    {
+      "id": "AYU",
+      "base": "āyus",
+      "guard": "occasion",
+      "affix": "yat",
+      "result": "āyuṣya"
+    },
+    {
+      "id": "HORSE",
+      "base": "aśva",
+      "guard": "aśvādi exception",
+      "affix": "ṭhak",
+      "result": "āśvika"
+    },
+    {
+      "id": "BRAH",
+      "base": "brahmavarcas",
+      "guard": "specifically supplemented",
+      "affix": "yat",
+      "result": "brahmavarcasya"
+    },
+    {
+      "id": "SON",
+      "base": "putra",
+      "guard": "occasion of obtaining a son",
+      "affix": "cha or yat",
+      "result": "putrīya / putrya"
+    },
+    {
+      "id": "SOIL1",
+      "base": "sarvabhūmi",
+      "guard": "genitive occasion",
+      "affix": "aṇ",
+      "result": "sārvabhauma"
+    },
+    {
+      "id": "EARTH1",
+      "base": "pṛthivī",
+      "guard": "genitive occasion",
+      "affix": "añ",
+      "result": "pārthiva"
+    },
+    {
+      "id": "KING1",
+      "base": "sarvabhūmi",
+      "guard": "genitive rulership",
+      "affix": "aṇ",
+      "result": "sārvabhauma"
+    },
+    {
+      "id": "KING2",
+      "base": "pṛthivī",
+      "guard": "genitive rulership",
+      "affix": "añ",
+      "result": "pārthiva"
+    },
+    {
+      "id": "FAME1",
+      "base": "sarvabhūmi",
+      "guard": "locative reputation",
+      "affix": "aṇ",
+      "result": "sārvabhauma"
+    },
+    {
+      "id": "FAME2",
+      "base": "pṛthivī",
+      "guard": "locative reputation",
+      "affix": "añ",
+      "result": "pārthiva"
+    },
+    {
+      "id": "LOKA",
+      "base": "loka",
+      "guard": "known in",
+      "affix": "ṭhañ",
+      "result": "laukika"
+    },
+    {
+      "id": "ALL",
+      "base": "sarvaloka",
+      "guard": "known throughout",
+      "affix": "ṭhañ",
+      "result": "sārvalaukika"
+    },
+    {
+      "id": "FIELD1",
+      "base": "prastha",
+      "guard": "land on which quantity is sown",
+      "affix": "ṭhañ",
+      "result": "prāsthika"
+    },
+    {
+      "id": "FIELD2",
+      "base": "droṇa",
+      "guard": "uncompounded niṣkādi seed measure",
+      "affix": "ṭhak",
+      "result": "drauṇika"
+    },
+    {
+      "id": "FIELD3",
+      "base": "khārī",
+      "guard": "bare unit specifically admitted",
+      "affix": "īkan",
+      "result": "khārīka"
+    },
+    {
+      "id": "FIELD4",
+      "base": "pātra",
+      "guard": "seed measure on field or portion",
+      "affix": "ṣṭhan; feminine ṅīṣ",
+      "result": "pātrika / pātrikī"
+    }
+  ],
+  "nominal_positions": [
+    {
+      "id": "EIGHTY",
+      "source": "K37",
+      "input_history": "EIGHTY",
+      "case_number": "N NOMsg",
+      "word": "āśītikam",
+      "interpretation": "Eighty as the payment for the article."
+    },
+    {
+      "id": "GRAIN",
+      "source": "K37",
+      "input_history": "GRAIN",
+      "case_number": "N NOMsg",
+      "word": "maudgikam",
+      "interpretation": "Bought with mung beans; plural units understood."
+    },
+    {
+      "id": "TWO",
+      "source": "K37",
+      "input_history": "TWO",
+      "case_number": "N NOMsg",
+      "word": "dvikam",
+      "interpretation": "Bought for two."
+    },
+    {
+      "id": "THREE",
+      "source": "K37",
+      "input_history": "THREE",
+      "case_number": "N NOMsg",
+      "word": "trikam",
+      "interpretation": "Bought for three."
+    },
+    {
+      "id": "ASSOC",
+      "source": "K38",
+      "input_history": "ASSOC",
+      "case_number": "M NOMsg",
+      "word": "śatyaḥ / śatikaḥ",
+      "interpretation": "Association with a wealthy person, related to acquiring a hundred."
+    },
+    {
+      "id": "OMEN",
+      "source": "K38",
+      "input_history": "OMEN",
+      "case_number": "N NOMsg",
+      "word": "śatyam / śatikam",
+      "interpretation": "The eye movement is classified as a sign of a hundred."
+    },
+    {
+      "id": "GAV",
+      "source": "K39",
+      "input_history": "GAV",
+      "case_number": "M NOMsg",
+      "word": "gavyaḥ",
+      "interpretation": "Go is admitted by name."
+    },
+    {
+      "id": "DHA",
+      "source": "K39",
+      "input_history": "DHA",
+      "case_number": "N NOMsg",
+      "word": "dhanyam",
+      "interpretation": "Wealth as the desired result."
+    },
+    {
+      "id": "YAS",
+      "source": "K39",
+      "input_history": "YAS",
+      "case_number": "N NOMsg",
+      "word": "yaśasyam",
+      "interpretation": "Renown as the result."
+    },
+    {
+      "id": "AYU",
+      "source": "K39",
+      "input_history": "AYU",
+      "case_number": "N NOMsg",
+      "word": "āyuṣyam",
+      "interpretation": "Life as the result."
+    },
+    {
+      "id": "HORSE",
+      "source": "K39",
+      "input_history": "HORSE",
+      "case_number": "M NOMsg",
+      "word": "āśvikaḥ",
+      "interpretation": "Aśva explicitly excluded from the yat selection, retained in the ārhīya domain."
+    },
+    {
+      "id": "BRAH",
+      "source": "K39",
+      "input_history": "BRAH",
+      "case_number": "N NOMsg",
+      "word": "brahmavarcasyam",
+      "interpretation": "Teacher association with acquisition of sacred learning or lustre."
+    },
+    {
+      "id": "SON",
+      "source": "K40",
+      "input_history": "SON",
+      "case_number": "N NOMsg",
+      "word": "putrīyam / putryam",
+      "interpretation": "The two permitted suffixes on the grammatical example."
+    },
+    {
+      "id": "RITE",
+      "source": "RAM",
+      "input_history": "SON",
+      "case_number": "F ACCsg",
+      "word": "putrīyām",
+      "interpretation": "Qualifies the offering; the accompanying commentary explicitly selects cha."
+    },
+    {
+      "id": "SOIL1",
+      "source": "K41",
+      "input_history": "SOIL1",
+      "case_number": "M NOMsg",
+      "word": "sārvabhaumaḥ",
+      "interpretation": "Occasion predicting or associated with acquisition of all land."
+    },
+    {
+      "id": "EARTH1",
+      "source": "K41",
+      "input_history": "EARTH1",
+      "case_number": "M NOMsg",
+      "word": "pārthivaḥ",
+      "interpretation": "Occasion associated with obtaining the earth."
+    },
+    {
+      "id": "KING1",
+      "source": "AB",
+      "input_history": "KING1",
+      "case_number": "M NOMsg",
+      "word": "sārvabhaumaḥ",
+      "interpretation": "Predicative designation of the sovereign."
+    },
+    {
+      "id": "KING2",
+      "source": "RG",
+      "input_history": "KING2",
+      "case_number": "M NOMsg",
+      "word": "pārthivaḥ",
+      "interpretation": "Earth-lord as the subject giving the order."
+    },
+    {
+      "id": "FAME1",
+      "source": "K43",
+      "input_history": "FAME1",
+      "case_number": "M NOMsg",
+      "word": "sārvabhaumaḥ",
+      "interpretation": "Known throughout all the earth."
+    },
+    {
+      "id": "FAME2",
+      "source": "K43",
+      "input_history": "FAME2",
+      "case_number": "M NOMsg",
+      "word": "pārthivaḥ",
+      "interpretation": "Known in the earth as locus."
+    },
+    {
+      "id": "LOKA",
+      "source": "K44",
+      "input_history": "LOKA",
+      "case_number": "M NOMsg",
+      "word": "laukikaḥ",
+      "interpretation": "Known in the world."
+    },
+    {
+      "id": "ALL",
+      "source": "K44",
+      "input_history": "ALL",
+      "case_number": "M NOMsg",
+      "word": "sārvalaukikaḥ",
+      "interpretation": "Known in every world."
+    },
+    {
+      "id": "FIELD1",
+      "source": "K45",
+      "input_history": "FIELD1",
+      "case_number": "N NOMsg",
+      "word": "prāsthikam",
+      "interpretation": "Field that takes a prastha of seed."
+    },
+    {
+      "id": "FIELD2",
+      "source": "K45",
+      "input_history": "FIELD2",
+      "case_number": "N NOMsg",
+      "word": "drauṇikam",
+      "interpretation": "Field that takes a droṇa of seed."
+    },
+    {
+      "id": "FIELD3",
+      "source": "K45",
+      "input_history": "FIELD3",
+      "case_number": "N NOMsg",
+      "word": "khārīkam",
+      "interpretation": "Field that takes a khārī of seed."
+    },
+    {
+      "id": "FIELD4",
+      "source": "K46",
+      "input_history": "FIELD4",
+      "case_number": "N NOMsg",
+      "word": "pātrikam",
+      "interpretation": "Whole field measured by a pātra for sowing."
+    },
+    {
+      "id": "PART",
+      "source": "K46",
+      "input_history": "FIELD4",
+      "case_number": "F NOMsg",
+      "word": "pātrikī",
+      "interpretation": "Portion of a field, under the ṣit feminine rule."
+    }
+  ],
+  "source_policy_decisions": [
+    {
+      "id": "PAY",
+      "sources": "K37",
+      "decision": "A plural number of beans can constitute payment. Neither the instrumental agent nor the buyer's hand does. A bare dual of a capacity word is not automatically a numbered-price compound."
+    },
+    {
+      "id": "SIGN",
+      "sources": "K38,K39",
+      "decision": "Connection and perceived omen are separately typed. The medical vocabulary is a traditional supplement on pacification or aggravation, with no clinical inference and no new cases credited."
+    },
+    {
+      "id": "EPIC",
+      "sources": "K40,RAM,RC,R14",
+      "decision": "The feminine accusative has explicit commentary assigning cha. Both verses and numbering traditions support one position."
+    },
+    {
+      "id": "ROYAL",
+      "sources": "K41,K42,K43,AB,RG,ML",
+      "decision": "Six requests, two lexical bases and three senses. Source attestations corroborate the two royal cases and add no duplicate cases on the same histories."
+    },
+    {
+      "id": "EARTH",
+      "sources": "RV",
+      "decision": "The Vedic neuter adjective concerns earth-related regions. Exclude this occurrence from the sovereign, occasion and fame branches. Leave its precise general outer rule Open here."
+    },
+    {
+      "id": "FIELD",
+      "sources": "K44,K45,K46",
+      "decision": "A world as locus of fame, seed-measure for a field and a paid measure are distinct predicates. Preserve the ṅīṣ of the field portion separately from PG752’s ṅīp."
+    }
+  ]
+}
