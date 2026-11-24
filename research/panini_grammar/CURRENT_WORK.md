@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG701
+# Pāṇini grammar · current written coverage at PG702
+
+PG702 · [Vedic nipātana, owned suffixes and the vasā offering parallel](vedic_nipatana_kai_isyai_ke_and_yajurveda_parallel/README.md). Kāṭhaka and Kapiṣṭhala Kāṭha join avyathiṣyai between ūṣmaṇaḥ and apām in the ritual text. Taittirīya retains rohiṣyai, Maitrāyaṇī has avyathiṣe, and Mādhyandina has finite vyathiṣat. Direct Ṛgvedic prayái and dṛśé establish exact suffix outcomes. Five new nonfinite constructions retain six paths. The finite and nominal census is unchanged. Census 52,323 finite positions and 9,358 nominal positions with 10,956 nominal readings.
 
 PG701 · [Competing se and adhyai assignments with direct witnesses](vedic_se_adhyai_owned_markers_and_recensional_witnesses/README.md). Kāśikā's two eṣe analyses converge in letters. Received initial tone selects the named sen path. Bhoja's specific jīv assignment and Taittirīya terminal e retain separate evidence. Eight nonfinite constructions add 12 path readouts and zero finite or nominal positions. Census 52,323 finite and 9,358 nominal positions with 10,956 nominal readings.
 

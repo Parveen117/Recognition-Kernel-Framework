@@ -2,6 +2,16 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG702 · Vedic nipātana, owned suffixes and the vasā offering parallel
+
+PG702 · [Vedic nipātana, owned suffixes and the vasā offering parallel](vedic_nipatana_kai_isyai_ke_and_yajurveda_parallel/README.md). Kāṭhaka and Kapiṣṭhala Kāṭha join avyathiṣyai between ūṣmaṇaḥ and apām in the ritual text. Taittirīya retains rohiṣyai, Maitrāyaṇī has avyathiṣe, and Mādhyandina has finite vyathiṣat. Direct Ṛgvedic prayái and dṛśé establish exact suffix outcomes. Five new nonfinite constructions retain six paths. The finite and nominal census is unchanged. Census 52,323 finite positions and 9,358 nominal positions with 10,956 nominal readings.
+
+5 new nonfinite constructions/6 retained paths. Accent 1/4, syntax 1/7, phonological junction 1/3 constructions/readouts. 12 source observations and 7 source-policy decisions. Finite increments 0 positions and 0 readings. Nominal increments 0 positions and 0 readings. The publication parent is 440b29fcadbafe012b77d0cfab7f4f45babcbdf9. The containing commit pins the documents and evidence.
+
+PG521–702 cumulative: 504 finite positions/1,420 net finite readings, 3,580 nominal positions/4,213 readings, 277 morphology constructions/2,922 interfaces, 126 compound constructions/590 plans, 19 accent constructions/84 records, 153 semantics constructions/454 records, 126 syntax constructions/402 records, 87 source-policy decisions after PG555−1, and 380 observations. Twelve junction constructions/25 readouts since PG680 and 20 nonfinite constructions/26 paths since PG700. Four provenance corrections and one proof addendum. PG335 and PG357–363 CLOSED preserved.
+
+The named kai, iṣyai and ke forms, two Kāṭha contacts, the separate Maitrāyaṇī surface and the concordant Ṛgvedic tokens are addressed. Source-derived rohiṣyai tone, original e-series glyphs and history, the direct vikhye address and the exact finite and e-ending derivations remain Open. C2–C5 and S1–S7 stay active. Claude retains execution.
+
 ## PG701 · Vedic se and adhyai assignments with exact competing witnesses
 
 PG701 · [Competing se and adhyai assignments with direct witnesses](vedic_se_adhyai_owned_markers_and_recensional_witnesses/README.md). Kāśikā's two eṣe analyses converge in letters. Received initial tone selects the named sen path. Bhoja's specific jīv assignment and Taittirīya terminal e retain separate evidence. Eight nonfinite constructions add 12 path readouts and zero finite or nominal positions. Census 52,323 finite and 9,358 nominal positions with 10,956 nominal readings.

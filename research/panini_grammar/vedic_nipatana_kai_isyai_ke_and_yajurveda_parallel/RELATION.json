@@ -1,0 +1,289 @@
+{
+  "forms": [
+    {
+      "id": "PRAYAI",
+      "rule": "3.4.10",
+      "paths": [
+        {
+          "root": "1020044",
+          "meaning": "yā reaching or going onward",
+          "preverbs": [
+            "pra"
+          ],
+          "affix": "kai",
+          "markers": [
+            "k"
+          ],
+          "segment": "prayai",
+          "tone": "prayái",
+          "status": "Accepted on named Kāśikā path and exact RV tone"
+        }
+      ]
+    },
+    {
+      "id": "ROHISYAI",
+      "rule": "3.4.10",
+      "paths": [
+        {
+          "root": "1010995",
+          "meaning": "ruh sprout/grow",
+          "preverbs": [],
+          "affix": "iṣyai",
+          "markers": [],
+          "segment": "rohiṣyai",
+          "tone": "róhiṣyai (received TS)",
+          "status": "Accepted segmentally; source of initial tone Open"
+        }
+      ]
+    },
+    {
+      "id": "AVYATHISYAI",
+      "rule": "3.4.10",
+      "paths": [
+        {
+          "root": "1010868",
+          "meaning": "vyath disturbance with separate nañ scope",
+          "preverbs": [],
+          "prior_negative": "nañ",
+          "affix": "iṣyai",
+          "markers": [],
+          "segment": "avyathiṣyai",
+          "status": "Accepted in Kāśikā and reconstructed at two exact continuous-text addresses. Accent Open"
+        }
+      ]
+    },
+    {
+      "id": "DRSE",
+      "rule": "3.4.11",
+      "paths": [
+        {
+          "root": "1011143",
+          "meaning": "dṛś seeing/perception",
+          "preverbs": [],
+          "affix": "ke",
+          "markers": [
+            "k"
+          ],
+          "segment": "dṛśe",
+          "tone": "dṛśé",
+          "status": "Accepted under Kāśikā and Sāyaṇa at both named verse addresses"
+        }
+      ]
+    },
+    {
+      "id": "VIKHYE",
+      "rule": "3.4.11",
+      "paths": [
+        {
+          "root": "1020055",
+          "meaning": "khyā uttering/making known, specific context Open",
+          "preverbs": [
+            "vi"
+          ],
+          "affix": "ke",
+          "markers": [
+            "k"
+          ],
+          "segment": "vikhye",
+          "status": "Accepted in Nyāsa as alternative lexical-root path, verse and accent Open"
+        },
+        {
+          "root": "1020007",
+          "meaning": "cakṣiṅ speaking/seeing, specific context Open",
+          "preverbs": [
+            "vi"
+          ],
+          "substitute": "2.4.54 khyāñ",
+          "affix": "ke",
+          "markers": [
+            "k"
+          ],
+          "segment": "vikhye",
+          "status": "Accepted in Nyāsa as substitute-root path, verse and accent Open"
+        }
+      ]
+    }
+  ],
+  "accent": [
+    [
+      "PRAYAI",
+      "prayái",
+      "Source and simple suffix U",
+      "P,K,NY"
+    ],
+    [
+      "ROHI",
+      "róhiṣyai",
+      "Actual TS initial U; grade independent and accent derivation Open",
+      "R,W"
+    ],
+    [
+      "DRSE",
+      "dṛśé",
+      "Source and suffix U in RV 1.50.1 and .5",
+      "D,K"
+    ],
+    [
+      "MS",
+      "avyáthiṣe",
+      "Actual MS root tone on its separate form; suffix assignment Open",
+      "MS,W"
+    ]
+  ],
+  "syntax": [
+    [
+      "P",
+      "RV 1.142.6",
+      "Purpose of opening for passage, devébhyaḥ plural beneficiaries or goers in the divine-door clause"
+    ],
+    [
+      "D1",
+      "RV 1.50.1",
+      "All the world sees Sūrya. The seeing-event object has the same referent as the carried sun"
+    ],
+    [
+      "D5",
+      "RV 1.50.5",
+      "Sāyaṇa interprets facing heaven-dwellers so the sun may be seen. The contextual controller differs"
+    ],
+    [
+      "TS_R",
+      "TS 1.3.10",
+      "Purpose of growth with water and herbs addressed by the genitive phrase"
+    ],
+    [
+      "KS_NEG",
+      "KS 3.7d/Kap II.14d",
+      "Negative purpose with heat in the same ritual sequence"
+    ],
+    [
+      "KS_GROW",
+      "KS 3.7d/Kap II.14d",
+      "Subsequent separate growth event, with apām oṣadhīnām as retained complement"
+    ],
+    [
+      "MS_RASA",
+      "MS I.2.17f",
+      "Following apām oṣadhīnām is tied to rasas in the named comparison. No imported rohiṣyai"
+    ]
+  ],
+  "contact": [
+    [
+      "KS_FIRST",
+      "ūṣmaṇaḥ + avyathiṣyai",
+      "ūṣmaṇo 'vyathiṣyai",
+      "6.1.113/109 with the original visarga path"
+    ],
+    [
+      "KS_LAST",
+      "avyathiṣyai + apām",
+      "avyathiṣyā apām",
+      "6.1.78 then 8.3.19"
+    ],
+    [
+      "MS_LAST",
+      "avyathiṣe + apām",
+      "avyathiṣe 'pām",
+      "6.1.109 e-edge comparison"
+    ]
+  ],
+  "observations": [
+    [
+      "O1",
+      "K",
+      "Explicit Vedic purpose list gives pra+yā+kai, ruh+iṣyai, nañ+vyath+iṣyai, and dṛś+ke"
+    ],
+    [
+      "O2",
+      "P",
+      "Actual Śākala 1.142.6 final ai and internal pra boundary"
+    ],
+    [
+      "O3",
+      "R,RS",
+      "TS continuous and recited rohiṣyai, with root tone and exact formula"
+    ],
+    [
+      "O4",
+      "KS",
+      "Exact Kāṭhaka joined non-disturbance and separate bare growth"
+    ],
+    [
+      "O5",
+      "KAP",
+      "Exact distinct Kapiṣṭhala Kāṭha parallel"
+    ],
+    [
+      "O6",
+      "MS",
+      "Actual 'vyáthiṣe 'pā́m and the different rasas phrase"
+    ],
+    [
+      "O7",
+      "VS",
+      "Actual finite-looking vyathiṣat at the parallel position. VSG's leṭ analysis is tracked separately"
+    ],
+    [
+      "O8",
+      "D",
+      "RV 1.50.1 actual dṛśé and explicit Sāyaṇa 3.4.11 attribution"
+    ],
+    [
+      "O9",
+      "D",
+      "RV 1.50.5 actual dṛśé in a different purpose frame"
+    ],
+    [
+      "O10",
+      "NY",
+      "Exact two input roots for commentary vikhye"
+    ],
+    [
+      "O11",
+      "SD,PD",
+      "Direct e/ai extraction problem: ai in HTML, e in the searchable PDF text with nearby corruption"
+    ],
+    [
+      "O12",
+      "KT",
+      "Modern report explicitly associates the e series and a distinct haro viṣaye form with Kātantra teaching"
+    ]
+  ],
+  "decisions": [
+    [
+      "D1",
+      "K,NY,P",
+      "Admit yā and root-owned ā-lopa before kai, retaining received final ai"
+    ],
+    [
+      "D2",
+      "R,W,K,RNUM",
+      "Accept 7.3.86 for ruh grade with direct initial tone, and preserve differing segment locators"
+    ],
+    [
+      "D3",
+      "K,KS,KAP",
+      "Reconstruct nañ+iṣyai at the joint Kāṭha contacts with original owners"
+    ],
+    [
+      "D4",
+      "KS,MS,VS,VSG",
+      "Retain the recensional e-form and the separately analyzed finite reading within the comparable ritual context"
+    ],
+    [
+      "D5",
+      "D,K",
+      "Accept the same dṛś+ke word in two separately witnessed purpose clauses"
+    ],
+    [
+      "D6",
+      "NY,C,DP",
+      "Accept both khyā and substituted cakṣiṅ under vi+ke; do not assign a generated verse locus"
+    ],
+    [
+      "D7",
+      "SD,PD,KT",
+      "Retain ai in the Pāṇinian local policy, the e-series extraction and secondary other-school report with explicit evidence levels"
+    ]
+  ]
+}

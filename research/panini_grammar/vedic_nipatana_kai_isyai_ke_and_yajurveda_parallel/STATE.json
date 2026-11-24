@@ -1,0 +1,53 @@
+{
+  "schema": "rkf.panini.pg702.state.v1",
+  "author": "Monty",
+  "date": "2026-11-24",
+  "publication_parent": "440b29fcadbafe012b77d0cfab7f4f45babcbdf9",
+  "baseline": {
+    "commit": "440b29fcadbafe012b77d0cfab7f4f45babcbdf9",
+    "path": "research/panini_grammar/vedic_se_adhyai_owned_markers_and_recensional_witnesses/STATE.json"
+  },
+  "finite_positions": 52323,
+  "nominal_positions": 9358,
+  "nominal_readings": 10956,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 0,
+  "new_positions": 0,
+  "new_position_readings": 0,
+  "new_nonfinite_constructions": 5,
+  "new_nonfinite_readouts": 6,
+  "new_accent_constructions": 1,
+  "new_accent_readouts": 4,
+  "new_syntactic_constructions": 1,
+  "new_syntactic_readouts": 7,
+  "new_phonological_constructions": 1,
+  "new_phonological_readouts": 3,
+  "new_source_observations": 12,
+  "new_source_policy_decisions": 7,
+  "local_closure": "CLOSED for five selected nonfinite inputs and the delimited recensional projections. Original tonal, finite and textual links stay Open where named.",
+  "open_obligations": [
+    "Exact primary Kātantra/Candrakānta page and Sanskrit Documents PDF glyph collation for the reported e-series, including textual ancestry.",
+    "Rohiṣyai initial accent licensing beyond a received-token record, MS avyáthiṣe suffix and derivation, Kāṭha accent and Vedic recitation policy.",
+    "Direct vikhye tvā harāmi locus and sense/tonal adjudication across two root histories.",
+    "Independent written Mādhava/Mahīdhara and Uvaṭa treatment of VS vyathiṣat, and other 3.4.9 or 3.4.12–15 domains.",
+    "C2–C5 and S1–S7 wider written gates. Claude retains grammar execution, generators, untouched suites and certificate replay."
+  ],
+  "authorization": {
+    "completion_status": "OPEN wider gates",
+    "PG335": "-9 finite/-12 readings preserved",
+    "PG357_PG363": "CLOSED preserved",
+    "continuous_executed_hours_claimed": false
+  },
+  "runtime_policy": {
+    "python": "3.12 only",
+    "document_check_status": "PASS",
+    "document_check_attempts": 1,
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "old_suites": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE"
+  },
+  "grammar_executions": []
+}
