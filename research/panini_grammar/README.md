@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG768 · [Three sevens and five accent readings in the Ṛbhu hymn](three_sevens_and_accent_in_the_rbhu_hymn/README.md). Adds the commentator’s singular group definition and three contextual case forms, with five explicitly attributed accent readings. 4 new nominal positions and 4 readings. Finite positions and readings both increased by zero.
+
 PG767 · [Vati in comparisons, and the Vedic words for high and low places](vati_comparison_actions_and_vedic_high_and_low_places/README.md). Builds the vati comparisons and the case-bearing Vedic preverb nouns, with separately attested object, subject and locative plural profiles. 7 new nominal positions and 7 readings. Finite positions and readings both increased by zero.
 
 PG766 · [Ritual purpose, the ascetic’s staff, and two senses of ākālika](ritual_purpose_staff_and_duration_of_study_interruption/README.md). Constructs 5.1.109–114 and distinguishes staff from bearer, rite from food, and instantaneous lightning from the next-day endpoint of an interruption of study. 35 new nominal positions and 36 readings. Finite positions and readings both increased by zero.

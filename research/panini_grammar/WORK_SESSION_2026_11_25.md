@@ -2,6 +2,12 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG768 · Three sevens and five accent readings in the Ṛbhu hymn
+
+PG768 · [Three sevens and five accent readings in the Ṛbhu hymn](three_sevens_and_accent_in_the_rbhu_hymn/README.md). Adds the commentator’s singular group definition and three contextual case forms, with five explicitly attributed accent readings. 4 new nominal positions and 4 readings. Finite positions and readings both increased by zero. One accent construction with [five readings](three_sevens_and_accent_in_the_rbhu_hymn/ACCENT_READOUTS.json). One written morphology construction with 6 interfaces, 13 source observations and 6 source decisions. Census: 52,345 finite positions, 20,890 nominal positions and 23,606 nominal readings.
+
+Parent 08b5344c50306f7e5a5bfd080519239f7be06f86. The containing commit pins this packet. PG755's exact Vedic source for the creation wording and a unique interpretation of the counted groups in RV 1.20.7 remain Open. Continue the distinct abstract-noun constructions at 5.1.119–136. S5 still needs the four exact Uṇādi 4.105 assignments and S6 the independent 5.56 k-it effect. C2–C5 and S1–S7 remain Open. Claude retains execution.
+
 ## PG767 · Vati in comparisons, and the Vedic words for high and low places
 
 PG767 · [Vati in comparisons, and the Vedic words for high and low places](vati_comparison_actions_and_vedic_high_and_low_places/README.md). Builds the vati comparisons and the case-bearing Vedic preverb nouns, with separately attested object, subject and locative plural profiles. 7 new nominal positions and 7 readings. Finite positions and readings both increased by zero. One syntax construction with 17 readouts. One written morphology construction with 15 interfaces, 12 source observations and 5 source decisions. Census: 52,345 finite positions, 20,886 nominal positions and 23,602 nominal readings.

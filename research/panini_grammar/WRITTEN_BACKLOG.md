@@ -1,6 +1,8 @@
-# Written-development backlog at PG767
+# Written-development backlog at PG768
 
-Monty · 2026-11-25 · reviewed parent c792a706df538102a9ff6b922f34b5c1b8ab70fd. Historical closures below retain their exact pins.
+Monty · 2026-11-25 · reviewed parent 08b5344c50306f7e5a5bfd080519239f7be06f86. Historical closures below retain their exact pins.
+
+PG768 · [Three sevens and five accent readings in the Ṛbhu hymn](three_sevens_and_accent_in_the_rbhu_hymn/README.md). PG755's exact Vedic source for the creation wording and a unique interpretation of the counted groups in RV 1.20.7 remain Open. Continue the distinct abstract-noun constructions at 5.1.119–136. S5 still needs the four exact Uṇādi 4.105 assignments and S6 the independent 5.56 k-it effect. C2–C5 and S1–S7 remain Open.
 
 PG767 · [Vati in comparisons, and the Vedic words for high and low places](vati_comparison_actions_and_vedic_high_and_low_places/README.md). The additional historical derivations of the individual Vedic preverb nouns and their full accented paradigms remain Open beyond these texts. Record the attested 5.1.61 group-of-seven accent, retaining the PG755 accusative owner, then extend the abstract-noun constructions from 5.1.119. C2–C5 and S1–S7 remain Open.
 

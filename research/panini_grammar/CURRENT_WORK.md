@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG767
+# Pāṇini grammar · current written coverage at PG768
+
+PG768 · [Three sevens and five accent readings in the Ṛbhu hymn](three_sevens_and_accent_in_the_rbhu_hymn/README.md). Adds the commentator’s singular group definition and three contextual case forms, with five explicitly attributed accent readings. Census: 52,345 finite positions, 20,890 nominal positions and 23,606 nominal readings.
 
 PG767 · [Vati in comparisons, and the Vedic words for high and low places](vati_comparison_actions_and_vedic_high_and_low_places/README.md). Builds the vati comparisons and the case-bearing Vedic preverb nouns, with separately attested object, subject and locative plural profiles. Census: 52,345 finite positions, 20,886 nominal positions and 23,602 nominal readings.
 

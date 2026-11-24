@@ -1,0 +1,113 @@
+{
+  "stage": "PG768",
+  "morphology_interfaces": [
+    {
+      "id": "SEV",
+      "base": "saptan",
+      "guard": "size of a class of seven in the Vedic register",
+      "affix": "añ with ṭi loss and initial vṛddhi",
+      "result": "sāpta"
+    },
+    {
+      "id": "RAT",
+      "base": "ram",
+      "guard": "pinned Uṇādi rule, inherited n marker in the commentary",
+      "affix": "na joined to substitution m → t",
+      "result": "ratna"
+    },
+    {
+      "id": "SUN",
+      "base": "su with present śatṛ",
+      "guard": "recipient engaged in pressing",
+      "affix": "weak sunvat plus dative singular",
+      "result": "sunvate"
+    },
+    {
+      "id": "PRA",
+      "base": "su plus śasti",
+      "guard": "instrumental praise, second member formed in ktin",
+      "affix": "stem-final accent of the second member, then bhis",
+      "result": "suśastibhiḥ"
+    },
+    {
+      "id": "REP",
+      "base": "eka",
+      "guard": "distribution over items",
+      "affix": "8.1.4 repetition and loss of the second word's accent",
+      "result": "ekam-ekam"
+    },
+    {
+      "id": "IMP",
+      "base": "dhā",
+      "guard": "address to the Ṛbhus, imperative plural",
+      "affix": "Vedic tana for ta under 7.1.45",
+      "result": "dhattana"
+    }
+  ],
+  "nominal_positions": [
+    {
+      "id": "GDEF",
+      "source": "SAY",
+      "input_history": "SEV",
+      "case_number": "N NOMsg",
+      "word": "sāptam",
+      "interpretation": "Citation predicated of a group in the commentator's definition. The metalinguistic singular differs from the verse plural."
+    },
+    {
+      "id": "ROBJ",
+      "source": "SAY",
+      "input_history": "RAT",
+      "case_number": "N ACCpl",
+      "word": "ratnāni",
+      "interpretation": "Wealth to be given under Sāyaṇa's explicit address. Hellwig concurs on the case."
+    },
+    {
+      "id": "RECIP",
+      "source": "SAY",
+      "input_history": "SUN",
+      "case_number": "M DATsg",
+      "word": "sunvate",
+      "interpretation": "Participle referring to the sacrificer pressing Soma, the recipient of the gift."
+    },
+    {
+      "id": "PRAISE",
+      "source": "SAY",
+      "input_history": "PRA",
+      "case_number": "F INSpl",
+      "word": "suśastibhiḥ",
+      "interpretation": "Hymns of praise with which the addressees are associated."
+    }
+  ],
+  "source_policy_decisions": [
+    {
+      "id": "OWNER",
+      "sources": "RV,TS,AB,K",
+      "decision": "Transfer the accent evidence to PG755 AGN. The new verse, ritual prescription and grammatical quotation have three different predicate environments."
+    },
+    {
+      "id": "CASE",
+      "sources": "SAY,TAG,PAD",
+      "decision": "Keep the disputed nominative tags as annotations. In the requested act of giving, Sāyaṇa's object and the recipient justify the counted cases. The distributive phrase and its components add no new case positions here."
+    },
+    {
+      "id": "UNIT",
+      "sources": "SAY,TRANS,AB",
+      "decision": "The commentator distinguishes three grades of treasures and three classes of rites. Other translations attach three times seven to a different constituent. The Brāhmaṇa's ritual function leaves that choice open."
+    },
+    {
+      "id": "MARK",
+      "sources": "SAY,U,N",
+      "decision": "Join the Uṇādi forms across numberings by the rule wording and by its stated operation. The n-it and ñ-it histories have distinct carriers."
+    },
+    {
+      "id": "COMP",
+      "sources": "SAY,CMP,REP,P",
+      "decision": "Final stem accent in the praise noun, final ending accent in the dative, and the unaccented repeated member each retain their own locus."
+    },
+    {
+      "id": "KIT",
+      "sources": "SAY,U,CMP",
+      "decision": "The independently stated k effect on ktin in the praise word concerns another affix and rule. It cannot supply the S6 Uṇādi 5.56 witness."
+    }
+  ]
+}

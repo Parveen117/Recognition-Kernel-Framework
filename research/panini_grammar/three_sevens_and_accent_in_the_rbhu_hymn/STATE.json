@@ -1,0 +1,38 @@
+{
+  "stage": "PG768",
+  "date": "2026-11-25",
+  "publication_parent": "08b5344c50306f7e5a5bfd080519239f7be06f86",
+  "baseline": {
+    "commit": "08b5344c50306f7e5a5bfd080519239f7be06f86",
+    "path": "research/panini_grammar/vati_comparison_actions_and_vedic_high_and_low_places/STATE.json"
+  },
+  "finite_positions": 52345,
+  "nominal_positions": 20890,
+  "nominal_readings": 23606,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 4,
+  "new_nominal_readings": 4,
+  "new_morphology_constructions": 1,
+  "new_morphology_interfaces": 6,
+  "new_source_observations": 13,
+  "new_source_policy_decisions": 6,
+  "new_accent_constructions": 1,
+  "new_accent_readouts": 5,
+  "open_obligations": [
+    "PG755's exact Vedic source for the creation wording and a unique interpretation of the counted groups in RV 1.20.7 remain Open.",
+    "Continue the distinct abstract-noun constructions at 5.1.119–136. S5 still needs the four exact Uṇādi 4.105 assignments and S6 the independent 5.56 k-it effect."
+  ],
+  "local_closure": "The group accusative remains PG755’s. PG14 distinguishes the affix, inflection, compound and repetition that own each accent.",
+  "global_gates": {
+    "C2–C5": "Open",
+    "S1–S7": "Open",
+    "S5_direct_fields": "99/103",
+    "S6": "Independent 5.56 k-it effect Open"
+  },
+  "protected_registers": {
+    "PG335": "-9 finite positions and -12 readings already applied",
+    "PG340/346, PG349–352, PG355–360, PG357–363": "CLOSED on registered scopes"
+  },
+  "runtime_policy": "Written derivation. Only changed-document, source and count checks. Claude owns grammar execution, generators, untouched suites and replay."
+}

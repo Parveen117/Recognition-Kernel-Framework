@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG768 · [Three sevens and five accent readings in the Ṛbhu hymn](research/panini_grammar/three_sevens_and_accent_in_the_rbhu_hymn/README.md). The group accusative remains PG755’s. PG14 distinguishes the affix, inflection, compound and repetition that own each accent.
+
 PG767 · [Vati in comparisons, and the Vedic words for high and low places](research/panini_grammar/vati_comparison_actions_and_vedic_high_and_low_places/README.md). PG14 separates invariant comparison readouts and the seven inflected Vedic positions.
 
 PG766 · [Ritual purpose, the ascetic’s staff, and two senses of ākālika](research/panini_grammar/ritual_purpose_staff_and_duration_of_study_interruption/README.md). PG14 histories retain each goal, ritual role, explicit or deleted affix and pair of temporal endpoints.

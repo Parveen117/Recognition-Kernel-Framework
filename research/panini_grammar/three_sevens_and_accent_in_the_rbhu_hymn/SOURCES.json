@@ -1,0 +1,119 @@
+{
+  "project_dependencies": [
+    {
+      "commit": "08b5344c50306f7e5a5bfd080519239f7be06f86",
+      "path": "research/panini_grammar/vati_comparison_actions_and_vedic_high_and_low_places/STATE.json",
+      "git_blob_sha": "1b6cf7350c0f9e118f843edf18238ef1211976ad",
+      "sha256": "08b7b232cadf035fdeb13c37ca00b338d422d78f35499e1ceec57cacdb71ea36",
+      "use": "Published baseline"
+    },
+    {
+      "commit": "08b5344c50306f7e5a5bfd080519239f7be06f86",
+      "path": "research/panini_grammar/measured_study_calendar_months_and_twenty_angiras_seers/RELATION.json",
+      "git_blob_sha": "e7e2980422e6ec39e899e7e039e63999f8fac7c0",
+      "sha256": "dac578ebee52527b07e1e222256855f939b47a9cf2e9965a0dc1a26c8b1b9c7a",
+      "use": "PG755 AGN owns the neuter accusative plural sāptāni."
+    },
+    {
+      "commit": "08b5344c50306f7e5a5bfd080519239f7be06f86",
+      "path": "research/panini_grammar/unadi_third_pada_readings/LEXICAL_READINGS.tsv",
+      "git_blob_sha": "030e9bec00e2bc3cb94afd75f88896c2491580d9",
+      "sha256": "d09fc2bf46a1da97a3c20d0ac434a7967e068a64d9425eaa3b2d5ddb776954c6",
+      "use": "3.14 lexical ratna and t instruction already owned."
+    },
+    {
+      "commit": "08b5344c50306f7e5a5bfd080519239f7be06f86",
+      "path": "research/panini_grammar/SUTRAPATHA.tsv",
+      "git_blob_sha": "1840f3b5349b21112ac05a7efaa59705fd4efee0",
+      "sha256": "70dfdfe6ba433b6e211f0f01b078c1b6d13a1ad0938e06fd5789298a04583634",
+      "use": "Canonical rule keys for numeral derivation, marker accents, repetition and the compound."
+    },
+    {
+      "commit": "08b5344c50306f7e5a5bfd080519239f7be06f86",
+      "path": "research/panini_grammar/grammar_construction/NATIVE_OPERATOR_LIFT.md",
+      "git_blob_sha": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+      "sha256": "f52e7f5cf539ef56859b890669ef738848491e4005e73be75baa49c899b5dafd",
+      "use": "PG14 full graded operator."
+    }
+  ],
+  "source_observations": [
+    {
+      "id": "RV",
+      "locator": "Śākala RV 1.20.7, Vedic Heritage Portal",
+      "url": "https://vedicheritage.gov.in/hi/samhitas/rigveda/shakala-samhita/rigveda-shakala-samhitas-mandal-01-sukta-020/",
+      "observation": "Joined verse with the measured groups, treasures, their recipient, distribution and praise."
+    },
+    {
+      "id": "PAD",
+      "locator": "RV 1.20.7 Padapāṭha",
+      "url": "https://vishvasa.github.io/vedAH_Rk/shAkalam/saMhitA/sarva-prastutiH/01/020/",
+      "observation": "Separates tris and ā, gives the distributive pair and segments the praise word."
+    },
+    {
+      "id": "SAY",
+      "locator": "Sāyaṇa on RV 1.20.7, textual and grammatical exposition",
+      "url": "https://vishvasa.github.io/vedAH_Rk/shAkalam/saMhitA/sarva-prastutiH/01/020/",
+      "observation": "His singular group definition, concrete threefold ritual classification and five accent explanations have different functions."
+    },
+    {
+      "id": "TAG",
+      "locator": "Vedaweb and Hellwig annotations, RV 1.20.7",
+      "url": "https://vishvasa.github.io/vedAH_Rk/shAkalam/saMhitA/sarva-prastutiH/01/020/",
+      "observation": "The two annotators disagree on the cases of the syncretic neuters. Both identify the presser as dative and praise as instrumental."
+    },
+    {
+      "id": "TRANS",
+      "locator": "Jamison–Brereton, Griffith and Wilson, RV 1.20.7",
+      "url": "https://vishvasa.github.io/vedAH_Rk/shAkalam/saMhitA/sarva-prastutiH/01/020/",
+      "observation": "The number can be attached to the wealth, the libations of the presser, or the additional rites, depending on the interpretation."
+    },
+    {
+      "id": "AB",
+      "locator": "Aitareya Brāhmaṇa 5.21.12, TITUS",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/ind/aind/ved/rv/ab/ab174.htm",
+      "observation": "The opening and the line with three and seven identify a Ṛbhu recitation and a feature of the ninth day."
+    },
+    {
+      "id": "TS",
+      "locator": "TS 5.4.7.5, Saṃhitā and commentary",
+      "url": "https://vishvasa.github.io/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/5/4/07/",
+      "observation": "PG755 direct parallel under the verb of gratifying. The creation of offspring belongs to a following clause."
+    },
+    {
+      "id": "K",
+      "locator": "Kāśikā and Siddhāntakaumudī at 5.1.61",
+      "url": "https://ashtadhyayi-lite.github.io/sutra/5.1.61.html",
+      "observation": "The grammatical creation wording has the seven groups as object. The modern exposition separately cites RV 1.20.7."
+    },
+    {
+      "id": "U",
+      "locator": "Pañcapādī digital row 3014, frozen source file",
+      "url": "https://github.com/ashtadhyayi-com/data/blob/db9a7f1dba06159e6bcd6efb92c9d01857939947/unaadi/data.txt",
+      "observation": "3.14 gives ram, na and t. Sāyaṇa's printed numbering 3.294 identifies the same rule by wording."
+    },
+    {
+      "id": "N",
+      "locator": "6.1.197, initial accent with marked affixes",
+      "url": "https://ashtadhyayi.com/sutraani/6/1/197",
+      "observation": "The ñ or n marker can converge on the same position of accent."
+    },
+    {
+      "id": "P",
+      "locator": "6.1.173, accent on the ending after the specified śatṛ stem",
+      "url": "https://ashtadhyayi.com/sutraani/6/1/173",
+      "observation": "Sāyaṇa invokes this rule for the dative of the soma-presser."
+    },
+    {
+      "id": "CMP",
+      "locator": "6.2.151, accent of the second member",
+      "url": "https://ashtadhyayi.com/sutraani/6/2/151",
+      "observation": "The special rule for the ktin member takes precedence in the praise compound."
+    },
+    {
+      "id": "REP",
+      "locator": "8.1.2–4, designation, accent and distributive repetition",
+      "url": "https://ashtadhyayi.com/sutraani/8/1/4",
+      "observation": "The distributive repetition designates the later item as āmreḍita, with its own accent consequence."
+    }
+  ]
+}
