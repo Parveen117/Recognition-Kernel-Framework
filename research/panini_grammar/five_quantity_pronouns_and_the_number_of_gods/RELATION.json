@@ -1,0 +1,199 @@
+{
+  "stage": "PG788",
+  "morphology_interfaces": [
+    {
+      "id": "REL",
+      "base": "yad",
+      "guard": "relative quantity of a bearer",
+      "affix": "vatup 5.2.39",
+      "result": "yāvat"
+    },
+    {
+      "id": "COR",
+      "base": "tad",
+      "guard": "quantity referred back to a relative",
+      "affix": "vatup 5.2.39",
+      "result": "tāvat"
+    },
+    {
+      "id": "NEAR",
+      "base": "etad",
+      "guard": "deictic quantity",
+      "affix": "vatup 5.2.39",
+      "result": "etāvat"
+    },
+    {
+      "id": "YOU",
+      "base": "yuṣmad",
+      "guard": "Vedic likeness to addressee",
+      "affix": "supplementary vatup",
+      "result": "tvāvat"
+    },
+    {
+      "id": "SELF",
+      "base": "asmad",
+      "guard": "Vedic likeness to speaker",
+      "affix": "supplementary vatup",
+      "result": "māvat"
+    },
+    {
+      "id": "HOW",
+      "base": "kim",
+      "guard": "general extent queried",
+      "affix": "vatup with v replaced by gha, then iy",
+      "result": "kiyat"
+    },
+    {
+      "id": "SO",
+      "base": "idam",
+      "guard": "extent pointed out",
+      "affix": "vatup with v replaced by gha, then iy",
+      "result": "iyat"
+    },
+    {
+      "id": "COUNT",
+      "base": "kim",
+      "guard": "numerical delimitation queried",
+      "affix": "ḍati, ṣaṭ status and loss of jas",
+      "result": "kati"
+    },
+    {
+      "id": "COUNTALT",
+      "base": "kim",
+      "guard": "same numerical inquiry, alternative expression",
+      "affix": "vatup, replacement in 5.2.40",
+      "result": "kiyat"
+    },
+    {
+      "id": "VEDEND",
+      "base": "as 02.0060",
+      "guard": "Vedic ending in the inherited first plural",
+      "affix": "mas with final i under 7.1.46",
+      "result": "smasi"
+    },
+    {
+      "id": "NEST",
+      "base": "yāvat",
+      "guard": "quantity already given now used as a standard",
+      "affix": "5.2.37 mātrac on an existing vatup base",
+      "result": "yāvanmātra"
+    }
+  ],
+  "nominal_positions": [
+    {
+      "id": "REL",
+      "source": "GITA",
+      "input_history": "REL",
+      "case_number": "M NOMsg",
+      "word": "yāvān",
+      "interpretation": "Quantity qualifying the benefit spoken of with the well."
+    },
+    {
+      "id": "COR",
+      "source": "GITA",
+      "input_history": "COR",
+      "case_number": "M NOMsg",
+      "word": "tāvān",
+      "interpretation": "Correlative benefit in relation to the Vedas and the knower."
+    },
+    {
+      "id": "THIS",
+      "source": "COSMOS",
+      "input_history": "NEAR",
+      "case_number": "M NOMsg",
+      "word": "etāvān",
+      "interpretation": "Extent of his greatness before the contrast with Puruṣa."
+    },
+    {
+      "id": "LIKE",
+      "source": "LIKEN",
+      "input_history": "YOU",
+      "case_number": "M NOMsg",
+      "word": "tvāvān",
+      "interpretation": "One comparable to the addressee, agreeing with anyaḥ."
+    },
+    {
+      "id": "YOURS",
+      "source": "THINE",
+      "input_history": "YOU",
+      "case_number": "M GENsg",
+      "word": "tvāvataḥ",
+      "interpretation": "The speaker group belongs to one like the addressee."
+    },
+    {
+      "id": "MINE",
+      "source": "MINE",
+      "input_history": "SELF",
+      "case_number": "M GENsg",
+      "word": "māvataḥ",
+      "interpretation": "A sacrificer like the speaker, with viprasya."
+    },
+    {
+      "id": "HOW",
+      "source": "ASK",
+      "input_history": "HOW",
+      "case_number": "M NOMsg",
+      "word": "kiyān",
+      "interpretation": "Question about the value denoted by arthaḥ."
+    },
+    {
+      "id": "SO",
+      "source": "SHOW",
+      "input_history": "SO",
+      "case_number": "M NOMsg",
+      "word": "iyān",
+      "interpretation": "The stated extent of an end or purpose."
+    },
+    {
+      "id": "COUNT",
+      "source": "GODS",
+      "input_history": "COUNT",
+      "case_number": "M NOMpl",
+      "word": "kati",
+      "interpretation": "An inquiry into the number of gods, including its repeated sandhi form katy."
+    },
+    {
+      "id": "MANY",
+      "source": "GODS",
+      "input_history": "REL",
+      "case_number": "M NOMpl",
+      "word": "yāvantaḥ",
+      "interpretation": "Plural relative agreeing with the gods named in the Vaiśvadeva litany."
+    },
+    {
+      "id": "HOWMANY",
+      "source": "K41",
+      "input_history": "COUNTALT",
+      "case_number": "M NOMpl",
+      "word": "kiyantaḥ",
+      "interpretation": "The grammatical alternative agreeing with brāhmaṇāḥ in a numerical inquiry."
+    }
+  ],
+  "source_policy_decisions": [
+    {
+      "id": "QUANTITY",
+      "sources": "K39,GITA,COSMOS",
+      "decision": "Separate parimāṇa, an overall quantity, from the measure standard licensed in PG785. The relative and correlative have separate bases. The nested example is credited as an interface only."
+    },
+    {
+      "id": "LIKENESS",
+      "sources": "K39,LIKEN,THINE,MINE",
+      "decision": "Admit only the Vedic personal-pronoun resemblance extension here. Resolve the genitives from the clauses and the commentary, and the nominative from the Pada."
+    },
+    {
+      "id": "ANALYSES",
+      "sources": "K40,BASE,ASK,SHOW,ALTAR",
+      "decision": "Store both arguments for admitting vatup on kim/idam. Exclude the altar’s iyāt from nominal evidence."
+    },
+    {
+      "id": "NUMBER",
+      "sources": "K41,GODS,ASK",
+      "decision": "Retain both numerical options, the independent relative and the later change from how many to which. A general value question does not license the count suffix."
+    },
+    {
+      "id": "FINITE",
+      "sources": "THINE,ENDING",
+      "decision": "The Vedic i-final plural adds one reading to PG8’s existing position. Sāyaṇa’s explanatory smaḥ and unchanged lexical ownership earn zero additional positions."
+    }
+  ]
+}

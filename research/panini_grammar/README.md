@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG788 · [Five quantity pronouns, three Vedic comparisons and a question about the gods](five_quantity_pronouns_and_the_number_of_gods/README.md). Distinguishes quantity from likeness and numerical inquiry, verifies the three Ṛgvedic quotations, and attaches the Vedic smasi reading to PG8’s existing first plural. 11 new nominal positions and 11 readings. 0 new finite positions and 1 finite readings.
+
 PG787 · [The accent of vínā between four pits and Vaṃśīdhara’s two butter forms](an_accented_span_between_pits_and_the_two_butter_forms/README.md). Reads Weber’s accent sign, distinguishes the span between pits from their size, and locates Vaṃśīdhara’s explicit explanation of the short butter word. 2 new nominal positions and 2 readings. 2 new finite positions and 2 finite readings.
 
 PG786 · [Two Haima middle perfects of kṛp on one first-person request](two_haima_middle_perfects_of_krp/README.md). Locates both kṛp primary histories in adjacent first-singular middle rows and identifies the person of PG405’s older vṛdh and vṛt witnesses. 0 new nominal positions and 0 readings. Finite positions and readings both increased by zero.

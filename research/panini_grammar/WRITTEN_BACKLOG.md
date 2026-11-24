@@ -1,6 +1,8 @@
-# Written-development backlog at PG787
+# Written-development backlog at PG788
 
-Monty · 2026-11-25 · reviewed parent fc1c29939bb9055a708bc9bfa2c43f3861c5a9b6. Historical closures below retain their exact pins.
+Monty · 2026-11-25 · reviewed parent d993eae73512ca93d7e6171250d1fb89502be73c. Historical closures below retain their exact pins.
+
+PG788 · [Five quantity pronouns, three Vedic comparisons and a question about the gods](five_quantity_pronouns_and_the_number_of_gods/README.md). Further primary witnesses for the nested measure, additional accent histories of these forms, and the historical priority of the two 5.2.40 analyses remain Open. Continue 5.2.42–45 with members and the whole, tayap versus ayac, ritual and nonritual uses and the independently owned numeral relations. C2–C5 and S1–S7 remain Open.
 
 PG787 · [The accent of vínā between four pits and Vaṃśīdhara’s two butter forms](an_accented_span_between_pits_and_the_two_butter_forms/README.md). The exact Śatapatha accent address and Vaṃśīdhara’s explanation are locally resolved. Historical affix accent, independent recensional comparison and the development and transmission of the short butter form remain Open. Continue the pronoun-based quantity construction at 5.2.39–41, preserving existing numeral and indeclinable owners. C2–C5 and S1–S7 remain Open.
 

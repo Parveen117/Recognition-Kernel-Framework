@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG787
+# Pāṇini grammar · current written coverage at PG788
+
+PG788 · [Five quantity pronouns, three Vedic comparisons and a question about the gods](five_quantity_pronouns_and_the_number_of_gods/README.md). Distinguishes quantity from likeness and numerical inquiry, verifies the three Ṛgvedic quotations, and attaches the Vedic smasi reading to PG8’s existing first plural. Census: 52,357 finite positions, 21,316 nominal positions and 24,107 nominal readings.
 
 PG787 · [The accent of vínā between four pits and Vaṃśīdhara’s two butter forms](an_accented_span_between_pits_and_the_two_butter_forms/README.md). Reads Weber’s accent sign, distinguishes the span between pits from their size, and locates Vaṃśīdhara’s explicit explanation of the short butter word. Census: 52,357 finite positions, 21,305 nominal positions and 24,096 nominal readings.
 

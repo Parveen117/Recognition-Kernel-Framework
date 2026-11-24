@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG788 · [Five quantity pronouns, three Vedic comparisons and a question about the gods](research/panini_grammar/five_quantity_pronouns_and_the_number_of_gods/README.md). Three rules, with the old as position and prior samāvat register retained.
+
 PG787 · [The accent of vínā between four pits and Vaṃśīdhara’s two butter forms](research/panini_grammar/an_accented_span_between_pits_and_the_two_butter_forms/README.md). Two finite requests and two measured case positions accompany the located indeclinable accent.
 
 PG786 · [Two Haima middle perfects of kṛp on one first-person request](research/panini_grammar/two_haima_middle_perfects_of_krp/README.md). Source collation on existing PG175, PG189 and PG405 requests.
