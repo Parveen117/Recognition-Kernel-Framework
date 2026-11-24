@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG736 · [Footprint visibility, uprooting and the two gārhapatya histories](research/panini_grammar/footprint_uprooting_and_two_garhapatya_histories/README.md). The PG14 lift keeps the actual NOM/LOC and NOM/GEN supports, finite strength, the named fire and household abstract in separate typed grades. The case and finite readouts commute with their typed zero projections.
+
 PG735 · [Piercing conditions and the two cases governed by labdhā](research/panini_grammar/piercing_instrument_guards_and_labdha_case_government/README.md). The PG14 histories keep separate P and Haima instrument masks and the tṛn and tṛc government edges. Typed zero specialization recovers the two different object cases on one segmental labdhā.
 
 PG734 · [The yoke’s lexical r and the wedding readings of janya](research/panini_grammar/dhur_lexical_r_and_janya_wedding_witnesses/README.md). Separates lexical r and ru at locative su, including the two source presentations of the Vedic slot, and derives named janya case fibres with separate lexical and textual policies. PG14 zero specialization retains the original r owner and witness.

@@ -2,6 +2,16 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG736 · Footprint visibility, uprooting and the two gārhapatya histories
+
+PG736 · [Footprint visibility, uprooting and the two gārhapatya histories](footprint_uprooting_and_two_garhapatya_histories/README.md). Derives the visible footprint and uprooted crop conditions, distinguishes the three qualified milk-pledge or caretaker profiles, and gives four attested ud-vṛh forms. The Dvivedī Manu leaf confirms the two v letters where two other editions give b. The ritual fire and householder abstract preserve separate affixes and Vedic witnesses. Census 52,345 finite positions and 17,853 nominal positions with 20,272 nominal readings.
+
+Four new finite positions and four readings. 294 new nominal positions and 303 readings, including five source-qualified Vedic nominal positions and one Classical neuter condition. One morphology construction with 21 interfaces (17 nominal, including typed supports, and four finite), one compound construction with one plan, one accent construction with three records, one semantic construction with ten readouts, one syntax construction with twelve readouts and one junction construction with eleven readouts. 19 source observations and 14 source-policy decisions. Publication parent 62e98a2fb6c0771a03b96bf25a75e76d2ffb0132. The containing commit pins the documents and evidence.
+
+PG521–736 cumulative adds 526 finite positions and 1,444 net finite readings, and 12,075 nominal positions with 13,529 readings. 310 morphology constructions with 3,440 interfaces, 142 compound constructions with 657 plans, 42 accent constructions with 166 records, 168 semantic constructions with 567 readouts, and 157 syntax constructions with 660 readouts. Source-policy decisions total 423 after PG555−1 and observations 846. The PG680 onward junction total is 40 constructions with 178 readouts. The PG700 onward nonfinite total remains 22 constructions with 28 paths. PG335 and PG357–363 CLOSED results retain their pins.
+
+The written stage closes P 4.4.86–90 on the selected case fibres and four vṛh witness cells. The b readings, expanded lexicon, Vedic accent and additional root or case domains retain the precise Open obligations enumerated in the stage. P 4.4.91 and the Haima monetary distinctions are next concrete derivational work. Earlier C2–C5 and S1–S7 remain Open, including S5 99/103 and S6 5.56 k-it positive effect. Claude owns the deferred implementation work.
+
 ## PG735 · Piercing conditions and the two cases governed by labdhā
 
 PG735 · [Piercing conditions and the two cases governed by labdhā](piercing_instrument_guards_and_labdha_case_government/README.md). Constructs the named 4.4.83–85 and Haima 7.1.8–10 forms. The P possibility-of-bow test stays distinct from Haima’s self-instrument condition. The two labdhā agents have different governed cases and an exact Kaṭha witness anchors the genitive. Census 52,341 finite positions and 17,559 nominal positions with 19,969 nominal readings.

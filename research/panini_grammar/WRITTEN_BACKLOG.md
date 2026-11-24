@@ -1,6 +1,8 @@
-# Written-development backlog at PG735
+# Written-development backlog at PG736
 
-Monty · 2026-11-24 · reviewed current parent 5071150f130cc321b74ecc29d90f23f48af35476. Historical closures below retain their exact pins.
+Monty · 2026-11-24 · reviewed current parent 62e98a2fb6c0771a03b96bf25a75e76d2ffb0132. Historical closures below retain their exact pins.
+
+PG736 · [Footprint visibility, uprooting and the two gārhapatya histories](footprint_uprooting_and_two_garhapatya_histories/README.md). The written stage closes P 4.4.86–90 on the selected case fibres and four vṛh witness cells. The b readings, expanded lexicon, Vedic accent and additional root or case domains retain the precise Open obligations enumerated in the stage. P 4.4.91 and the Haima monetary distinctions are next concrete derivational work. Earlier C2–C5 and S1–S7 remain Open, including S5 99/103 and S6 5.56 k-it positive effect. Claude owns the deferred implementation work.
 
 PG735 · [Piercing conditions and the two cases governed by labdhā](piercing_instrument_guards_and_labdha_case_government/README.md). The named piercing cases, ordinary tṛn/tṛc receiving agents and selected wealth, group and food recipients are locally CLOSED. Vasu confirms the actual rules and the potential-bow control. The genitive Kaṭha use has direct evidence and a source-qualified parse. Ānna feminine, wider double-source instrument conditions, the dhanuṣ etymology, other recitations and 4.4.86 onward remain constructive or Open as addressed. C2–C5/S1–S7 and Claude execution retain their standing obligations.
 

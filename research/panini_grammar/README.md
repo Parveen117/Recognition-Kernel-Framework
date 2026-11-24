@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG736 · [Footprint visibility, uprooting and the two gārhapatya histories](footprint_uprooting_and_two_garhapatya_histories/README.md). Derives the visible footprint and uprooted crop conditions, distinguishes the three qualified milk-pledge or caretaker profiles, and gives four attested ud-vṛh forms. The Dvivedī Manu leaf confirms the two v letters where two other editions give b. The ritual fire and householder abstract preserve separate affixes and Vedic witnesses. Census 52,345 finite positions and 17,853 nominal positions with 20,272 nominal readings.
+
 PG735 · [Piercing conditions and the two cases governed by labdhā](piercing_instrument_guards_and_labdha_case_government/README.md). Constructs the named 4.4.83–85 and Haima 7.1.8–10 forms. The P possibility-of-bow test stays distinct from Haima’s self-instrument condition. The two labdhā agents have different governed cases and an exact Kaṭha witness anchors the genitive. Census 52,341 finite positions and 17,559 nominal positions with 19,969 nominal readings.
 
 PG734 · [The yoke’s lexical r and the wedding readings of janya](dhur_lexical_r_and_janya_wedding_witnesses/README.md). Derives the ordinary consonantal dhur cases and the distinct lexical and poetic wedding roles. The 1928 Bhaṭṭi print proves suffixal ṣ. Mallinātha’s distinct singular/plural analyses and Hemacandra’s exact printed alternative keep their own witness histories. Census 52,341 finite positions and 17,222 nominal positions with 19,625 nominal readings.
