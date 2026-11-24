@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG701 · [Typed marker alternatives and verse-tone recovery](research/panini_grammar/vedic_se_adhyai_owned_markers_and_recensional_witnesses/README.md). The PG14 history projection preserves convergent suffix paths, supplied stem types, received tone, source admissions and the separate boundary of the following pada.
+
 PG700: [Grade and accent owners in Vedic tumartha](research/panini_grammar/vedic_tumartha_marker_grade_and_direct_accent/README.md). Typed recovery keeps source-specific marker and history events, two simultaneous vowel tones, and the distinct status of received and derived accent.
 
 PG699: [Mixture overrides and typed affix deletion](research/panini_grammar/curna_lavana_mudga_mixture_overrides/README.md). Zero specialization keeps a witnessed possessive alternative, the silent suffix’s deletion cause and blocked grade, head agreement and the separate aṇ history.

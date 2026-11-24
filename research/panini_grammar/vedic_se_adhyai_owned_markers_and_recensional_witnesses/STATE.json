@@ -1,0 +1,53 @@
+{
+  "schema": "rkf.panini.pg701.state.v1",
+  "author": "Monty",
+  "date": "2026-11-24",
+  "publication_parent": "79c70b5db635234e0f3074823b20330625751199",
+  "baseline": {
+    "commit": "79c70b5db635234e0f3074823b20330625751199",
+    "path": "research/panini_grammar/vedic_tumartha_marker_grade_and_direct_accent/STATE.json"
+  },
+  "finite_positions": 52323,
+  "nominal_positions": 9358,
+  "nominal_readings": 10956,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 0,
+  "new_positions": 0,
+  "new_position_readings": 0,
+  "new_nonfinite_constructions": 8,
+  "new_nonfinite_readouts": 12,
+  "new_accent_constructions": 1,
+  "new_accent_readouts": 8,
+  "new_syntactic_constructions": 1,
+  "new_syntactic_readouts": 7,
+  "new_phonological_constructions": 1,
+  "new_phonological_readouts": 3,
+  "new_source_observations": 12,
+  "new_source_policy_decisions": 6,
+  "local_closure": "CLOSED for the eight selected forms on named input and source types; rival or unconstructed analyses remain Open",
+  "open_obligations": [
+    "Bhoja asen versus actual jīváse, its possible accent tradition and kse/śriyase mechanics; PG700's exact śriyáse and sū́tave analyses and textual lineage.",
+    "Verse addresses for vakṣe rāyaḥ, kāmam upācaradhyai, śriyadhyai and exact inflectional or context claims at those commentary forms.",
+    "Weak pṛṇ upstream identity/formation, classical pṛṇ overlap, strong jar's jṛ/gṛ identity and n-tone projection when prefixed.",
+    "Original Nyāsa manuscript displacement and Taittirīya gamadhye derivation/transmission; no renaming into exclusions.",
+    "Additional 3.4.9 assignments, 3.4.10–14 and the remaining C2–C5/S1–S7 gates. Executable work is Claude-deferred."
+  ],
+  "authorization": {
+    "completion_status": "OPEN wider gates",
+    "PG335": "-9 finite/-12 readings preserved",
+    "PG357_PG363": "CLOSED preserved",
+    "continuous_executed_hours_claimed": false
+  },
+  "runtime_policy": {
+    "python": "3.12 only",
+    "document_check_status": "PASS",
+    "document_check_attempts": 1,
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "old_suites": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE"
+  },
+  "grammar_executions": []
+}

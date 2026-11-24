@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG701 · [Competing se and adhyai assignments with direct witnesses](vedic_se_adhyai_owned_markers_and_recensional_witnesses/README.md). Kāśikā's two eṣe analyses converge in letters. Received initial tone selects the named sen path. Bhoja's specific jīv assignment and Taittirīya terminal e retain separate evidence. Eight nonfinite constructions add 12 path readouts and zero finite or nominal positions. Census 52,323 finite and 9,358 nominal positions with 10,956 nominal readings.
+
 PG700: [Vedic tumartha markers, grade and direct accents](vedic_tumartha_marker_grade_and_direct_accent/README.md). Actual jīváse and śriyáse delimit the ordinary n-it accent. The Ṛgveda and Sāyaṇa preserve an exact sū́tave and a rival taven label. The dual accent of étavái has a witnessed saṃhitā path. Seven nonfinite constructions add eight written readouts and zero finite or nominal positions. Census 52,323 finite and 9,358 nominal positions/10,956 readings.
 
 PG699: [Powder, salt and mudga mixture exceptions](curna_lavana_mudga_mixture_overrides/README.md). Mahābhāṣya and Kāśikā retain different ini licenses. Salt uses whole-ṭhak luk with head agreement. Mudga uses actual aṇ and has a direct masculine plural in Suśruta, with a lexical gloss from Ḍalhaṇa. Six fibres add 144 nominal positions and 147 readings. Census 52,323 finite and 9,358 nominal positions/10,956 readings.

@@ -1,0 +1,200 @@
+{
+  "publication_parent": "79c70b5db635234e0f3074823b20330625751199",
+  "date": "2026-11-24",
+  "project_dependencies": [
+    {
+      "commit": "79c70b5db635234e0f3074823b20330625751199",
+      "path": "research/panini_grammar/vedic_tumartha_marker_grade_and_direct_accent/STATE.json",
+      "git_blob_sha": "e16dbd6852f03bf84c4455a11bedd20632cd9285",
+      "bytes": 1941,
+      "sha256": "de3082fbf171751b2379ced837e1bd12eb7a708c1ac352342dbcc554dbf631b2",
+      "use": "Previous absolute census"
+    },
+    {
+      "commit": "79c70b5db635234e0f3074823b20330625751199",
+      "path": "research/panini_grammar/vedic_tumartha_marker_grade_and_direct_accent/RELATION.json",
+      "git_blob_sha": "e6cd888d226daa307a52920f5065202f699867fa",
+      "bytes": 8207,
+      "sha256": "9cc9fc426e93d28548f5426278302849e7a891b01e5b8e7dddae995236494523",
+      "use": "Original jīv and śri predicate outputs and held accent conflicts"
+    },
+    {
+      "commit": "c7055b67612a367658568cd94821ee0441846a18",
+      "path": "research/panini_grammar/krt_temporal_relations/SOURCE_EXCERPTS.json",
+      "git_blob_sha": "e643ab85689e0805320565c5fb2c9f78dc609234",
+      "bytes": 1112131,
+      "sha256": "45f5908cf79ca75ecc5db5e0ae719333565142fc01867e89ce3d46f3d22faeb5",
+      "use": "Frozen 3.4.9 readings with different example pairings"
+    },
+    {
+      "commit": "0f359becc91f843ae32bc7f2ad2a9318497d2a5f",
+      "path": "research/panini_grammar/contextual_car/SOURCE_EXCERPTS.json",
+      "git_blob_sha": "e38a0c763358d4affb715db221f1b90576a66ee9",
+      "bytes": 83227,
+      "sha256": "1071f57605e6ffb443b5c02644dcd1359c10bdb345d87896d79850a6e23697c2",
+      "use": "Stable car 01.0640 gati/bhakṣaṇa key"
+    },
+    {
+      "commit": "c510487b9ed3e80819f363768bcb9fd430b0aa46",
+      "path": "research/panini_grammar/pibadhyai_bhava_and_deleted_yak/RELATION.json",
+      "git_blob_sha": "6be49bb660ae246da0ed5ef14113a02d22177b8e",
+      "bytes": 3379,
+      "sha256": "8415d1b52f511d23f0d5c377071872780b1e7c1d94e22043ede63515e81ff822",
+      "use": "Existing piba derivation and damaged Nyāsa record"
+    },
+    {
+      "commit": "5433f61fd25984b518289496790304d2da3fbe7b",
+      "path": "research/panini_grammar/pibadhyai_rigveda_witness_and_nit_accent/RELATION.json",
+      "git_blob_sha": "2f57467897b5615bea12a2b57cc8839895bda06e",
+      "bytes": 3236,
+      "sha256": "17f0170c8599cd51c3842541c0eb559425ceb90feea01d9b237411a43e9bd32b",
+      "use": "Existing piba accent with śadhyain"
+    },
+    {
+      "commit": "403d20f288f60da41eaa0877dcb1004f94729617",
+      "path": "research/panini_grammar/madayadhyai_vs313_commentary_and_purpose/RELATION.json",
+      "git_blob_sha": "159e5e87b81adf0c86d4b3b5323de20a0f4b057e",
+      "bytes": 3449,
+      "sha256": "0992e26c3284054c7bcec73fd6d4e3d0015f74dcfab35d91d19c423db8eb1fed",
+      "use": "Existing Uvaṭa and Mahīdhara 3.13 clause credit"
+    },
+    {
+      "commit": "b05e46bf78f165e17c4766d6d1179a1699a72fcf",
+      "path": "research/panini_grammar/grammar_construction/NATIVE_OPERATOR_LIFT.md",
+      "git_blob_sha": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+      "bytes": 11855,
+      "sha256": "f52e7f5cf539ef56859b890669ef738848491e4005e73be75baa49c899b5dafd",
+      "use": "PG14 full operator/history and typed proof"
+    },
+    {
+      "commit": "ada439f6ba3109d798b41c216fe7cedc79e60afb",
+      "path": "research/panini_grammar/SUTRAPATHA.tsv",
+      "git_blob_sha": "1840f3b5349b21112ac05a7efaa59705fd4efee0",
+      "bytes": 270179,
+      "sha256": "70dfdfe6ba433b6e211f0f01b078c1b6d13a1ad0938e06fd5789298a04583634",
+      "use": "Pinned project rule numbering"
+    }
+  ],
+  "web_evidence": [
+    {
+      "id": "K",
+      "url": "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/1_gram/jvkasipu.htm",
+      "locator": "1.1.39 lines 814–819 and 3.4.9 lines 15831–15841",
+      "use": "Both se assignments, explicit sen and -adhyai pairings"
+    },
+    {
+      "id": "B",
+      "url": "https://www.poorvam.com/pore/corpus/shringaraprakash/chapter/1/verse/831",
+      "locator": "Śṛṅgāraprakāśa ch. 1 PORE record 831 items 2–15",
+      "use": "Bhoja's differentiated assignments and literal kse/śriyase"
+    },
+    {
+      "id": "JIV",
+      "url": "https://vmlt.in/rigveda/10/058",
+      "locator": "Śākala 10.58.1 lines 353 and 364",
+      "use": "Actual jīváse in the restoration refrain"
+    },
+    {
+      "id": "E",
+      "url": "https://vmlt.in/rigveda/05/066",
+      "locator": "Śākala 5.66.3 saṃhitā and pada, lines 219 and 228",
+      "use": "Initial e of éṣe as separate pada from vām"
+    },
+    {
+      "id": "SK",
+      "url": "https://sa.wikisource.org/wiki/सिद्धान्तकौमुदी/प्रकरण‌६१-७१",
+      "locator": "Siddhāntakaumudī Vaidika, 3.4.9, line 2828",
+      "use": "Weak pṛṇ example, optional n accent and optional hve branch"
+    },
+    {
+      "id": "P",
+      "url": "https://vmlt.in/rigveda/06/067",
+      "locator": "Śākala 6.67.7 lines 308, 318 and Sāyaṇa on this verse",
+      "use": "Pada pṛṇádhyai, separate ā, belly-filling purpose"
+    },
+    {
+      "id": "W",
+      "url": "https://en.wikisource.org/wiki/Sanskrit_Grammar_(Whitney)/Chapter_XIII",
+      "locator": "§976 and §976a, lines 264–266",
+      "use": "Weak pṛṇ, strong jar, root-accented gam and reported TS terminal e"
+    },
+    {
+      "id": "J",
+      "url": "https://vmlt.in/rigveda/07/067",
+      "locator": "Śākala 7.67.1 lines 186–199",
+      "use": "Actual separate práti and jar-strong suffix tone"
+    },
+    {
+      "id": "JS",
+      "url": "https://akshara.ru/sutraani/3/4/9",
+      "locator": "Prakriyāsarvasva 3.4.9 transcription lines 200–202",
+      "use": "Explicit adhyai with RV 7.67.1 allusion"
+    },
+    {
+      "id": "JV",
+      "url": "https://vishvasa.github.io/vedAH_Rk/shAkalam/saMhitA/sarva-prastutiH/07/067/",
+      "locator": "7.67.1, lemmatized presentation line 72",
+      "use": "Different √gṛ lexical assignment"
+    },
+    {
+      "id": "H",
+      "url": "https://vmlt.in/rigveda/06/060",
+      "locator": "Śākala 6.60.13 lines 475, 485, 649",
+      "use": "Calling purpose, separate final ubhā, joined ā+hve"
+    },
+    {
+      "id": "VS",
+      "url": "https://sa.wikisource.org/wiki/शुक्लयजुर्वेदसंहिता_उवट-महीधर-भाष्ये",
+      "locator": "Mādhyandina 3.13 lines 753–755 and 6.3 lines 1485–1490",
+      "use": "Distinct gloss roles, kadhyai for hve and kadhyain/initial tone for gam"
+    },
+    {
+      "id": "G",
+      "url": "https://vmlt.in/rigveda/01/154",
+      "locator": "Śākala 1.154.6 lines 396 and 406",
+      "use": "gámadhyai and the destination vā́stūni"
+    },
+    {
+      "id": "TS",
+      "url": "https://dharmamitra.org/zh-hant/db/sa/SA_GV00_anon_Taittir%C4%AByasa%E1%B9%83hit%C4%81/text",
+      "locator": "TS 1.3.6.2 and previous continuation, line 2178",
+      "use": "Documentary gamadhye"
+    },
+    {
+      "id": "TS2",
+      "url": "https://vedshala.org/taittiriya-samhita/1/3/6/2",
+      "locator": "TS 1.3.6.2 displayed Devanagari",
+      "use": "Independent transcription with written e. Genealogy unadjudicated"
+    },
+    {
+      "id": "NY",
+      "url": "https://sa.wikisource.org/wiki/काशिकाविवरणपञ्जिका/तृतीयोऽध्यायः/चतुर्थः_पादः",
+      "locator": "Nyāsa 3.4.9 line 123",
+      "use": "Literal displacement of āhuvadhyai label and piba explanation"
+    },
+    {
+      "id": "DVac",
+      "url": "https://ashtadhyayi.com/dhatu/2.58",
+      "locator": "02.0058 vacã paribhāṣaṇe",
+      "use": "Stable teaching record for vaceḥ"
+    },
+    {
+      "id": "DH",
+      "url": "https://sanskritdocuments.org/doc_z_misc_major_works/dhatupatha.html",
+      "locator": "01.1044, 01.1137, 01.1163, 02.0040; 01.0640 is also pinned in PG85",
+      "use": "Root/sense address control"
+    },
+    {
+      "id": "JP",
+      "url": "https://vishvasa.github.io/vedAH_Rk/shAkalam/saMhitA/sarva-prastutiH/06/067/",
+      "locator": "6.67.7, Jamison–Brereton note near line 2028",
+      "use": "Filling as soma-drinking purpose"
+    },
+    {
+      "id": "TONE",
+      "url": "https://sanskritdictionary.com/panini/6-1-197",
+      "locator": "6.1.197 and Kāśikā gloss",
+      "use": "Marker-owned initial udātta exception"
+    }
+  ]
+}

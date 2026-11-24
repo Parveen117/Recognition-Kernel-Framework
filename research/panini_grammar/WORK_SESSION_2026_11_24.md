@@ -2,6 +2,16 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG701 · Vedic se and adhyai assignments with exact competing witnesses
+
+PG701 · [Competing se and adhyai assignments with direct witnesses](vedic_se_adhyai_owned_markers_and_recensional_witnesses/README.md). Kāśikā's two eṣe analyses converge in letters. Received initial tone selects the named sen path. Bhoja's specific jīv assignment and Taittirīya terminal e retain separate evidence. Eight nonfinite constructions add 12 path readouts and zero finite or nominal positions. Census 52,323 finite and 9,358 nominal positions with 10,956 nominal readings.
+
+Eight new nonfinite constructions and 12 retained path readouts. One accent construction/eight records, one syntax construction/seven records, one junction construction/three records, 12 source observations and six policy decisions. Zero new finite or nominal positions or readings. PG700 jīv and PG394–397 piba/mādaya retain their earlier credits. This packet's publication parent is 79c70b5db635234e0f3074823b20330625751199. The containing commit pins the sources, relation and PG14 proof.
+
+PG521–701 cumulative: 504 finite positions/1,420 net credited finite readings, 3,580 nominal positions/4,213 readings, 277 morphology constructions/2,922 interfaces, 126 compound constructions/590 plans, 18 accent constructions/80 records, 153 semantics constructions/454 records, 125 syntax constructions/395 records, 80 source-policy decisions after PG555−1, and 368 observations. Eleven junction constructions/22 readouts since PG680, 15 nonfinite constructions/20 paths since PG700, four provenance corrections and one proof addendum. PG335 and PG357–363 CLOSED preserved.
+
+The source-qualified comparisons retain Open text, stem formation and the recensional e gate. C2–C5 and S1–S7 remain active overall. Sanskrit execution stays with Claude.
+
 ## PG700 · Actual Vedic tumartha accents and competing marker decisions
 
 PG700: [Vedic tumartha markers, grade and direct accents](vedic_tumartha_marker_grade_and_direct_accent/README.md). Actual jīváse and śriyáse delimit the ordinary n-it accent. The Ṛgveda and Sāyaṇa preserve an exact sū́tave and a rival taven label. The dual accent of étavái has a witnessed saṃhitā path. Seven nonfinite constructions add eight written readouts and zero finite or nominal positions. Census 52,323 finite and 9,358 nominal positions/10,956 readings.
