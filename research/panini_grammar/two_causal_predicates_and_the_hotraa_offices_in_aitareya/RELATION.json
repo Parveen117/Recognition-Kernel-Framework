@@ -1,0 +1,111 @@
+{
+  "stage": "PG772",
+  "morphology_interfaces": [
+    {
+      "id": "DUAL",
+      "base": "hotrā",
+      "guard": "two functions marked by ime, in quoted direct speech",
+      "affix": "feminine dual nominative/accusative ending selected as object",
+      "result": "hotre"
+    },
+    {
+      "id": "GEN",
+      "base": "āgnīdhrīyā",
+      "guard": "associated uktha, Sāyaṇa's activity paraphrase",
+      "affix": "feminine genitive singular",
+      "result": "āgnīdhrīyāyāḥ"
+    },
+    {
+      "id": "ROOT",
+      "base": "pra plus bhū 01.0001",
+      "guard": "increasing/enabling the named office, primary causation",
+      "affix": "ṇic with ū → au → āv",
+      "result": "pra-bhāv-i"
+    },
+    {
+      "id": "HORT",
+      "base": "pra-bhāv-i",
+      "guard": "gods propose a joint act, first person plural P",
+      "affix": "śap; guṇa of i; first-person loṭ āṭ and mas with s loss",
+      "result": "prabhāvayāma"
+    },
+    {
+      "id": "PERF",
+      "base": "pra-bhāv-i",
+      "guard": "non-mantra narrative of the gods' completed act",
+      "affix": "6.4.55 ay then ām, primary liṭ-luk and kṛ-liṭ",
+      "result": "prabhāvayāṃ cakruḥ"
+    },
+    {
+      "id": "AUX",
+      "base": "kṛ",
+      "guard": "perfect active third plural of the causers",
+      "affix": "independent reduplication, us, yaṇ to r",
+      "result": "cakruḥ"
+    },
+    {
+      "id": "GIVE",
+      "base": "hotṛ",
+      "guard": "Indra as giver and the priest as recipient of ukthas",
+      "affix": "ordinary masculine dative, old nominal key",
+      "result": "hotre"
+    },
+    {
+      "id": "MEANS",
+      "base": "vāc or ṛc",
+      "guard": "the means of enabling the offices",
+      "affix": "instrumental singular",
+      "result": "vācā or ṛcā"
+    }
+  ],
+  "nominal_positions": [
+    {
+      "id": "DU",
+      "source": "AB",
+      "input_history": "DUAL",
+      "case_number": "F ACCdu",
+      "word": "hotre",
+      "interpretation": "After ime, the two offices are the objects of the deities' proposal. Sāyaṇa also explains with the two priests as recipients of favour."
+    },
+    {
+      "id": "GEN",
+      "source": "SAY2",
+      "input_history": "GEN",
+      "case_number": "F GENsg",
+      "word": "āgnīdhrīyāyāḥ",
+      "interpretation": "The source's -yāyā before uktham is read as specifying whose uktha it is, with Sāyaṇa's genitive activity paraphrase. His dative explanation describes the allocation, not a second surface spelling."
+    }
+  ],
+  "source_policy_decisions": [
+    {
+      "id": "GOV",
+      "sources": "AB,SAY4",
+      "decision": "The prior dative recipient and later dual patient have identical letters. The old masculine dative remains credited only in its existing register."
+    },
+    {
+      "id": "FIRST",
+      "sources": "SAY4,PIT,SLOSS,WHIT",
+      "decision": "Count the single witnessed proposal under its declared construction. Retain the wider comparative mood question without another finite slot."
+    },
+    {
+      "id": "LIT",
+      "sources": "AB,CH,AM,NIC,PADA",
+      "decision": "The secondary predicate is prose reporting a past event. Its first word has no personal ending and its second word agrees with the gods. The mantra exclusion cannot be triggered just by the ritual genre."
+    },
+    {
+      "id": "SOURCE",
+      "sources": "AB,SAY2",
+      "decision": "Record a source-qualified genitive for the first oblique. Preserve the independent role and form of the two overt -yai datives and the digital transcription limitation."
+    },
+    {
+      "id": "ROLE",
+      "sources": "SAY4,AB",
+      "decision": "The first gloss can construe the human officers while the second explicitly names the function made more abundant. Keep their participant types and the benefit separate from an automatic voice claim."
+    },
+    {
+      "id": "MA",
+      "sources": "AB,SAY4",
+      "decision": "Sāyaṇa interprets the nearby mā with prohibitive force in his explanation of Indra's words. This passage is separate from the pronominal mā in the independently discussed S1 quotation."
+    }
+  ]
+}

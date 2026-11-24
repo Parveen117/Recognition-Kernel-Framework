@@ -1,6 +1,8 @@
-# Written-development backlog at PG771
+# Written-development backlog at PG772
 
-Monty · 2026-11-25 · reviewed parent 55e75a781e9de41a408b4721a628b8aeeadd482a. Historical closures below retain their exact pins.
+Monty · 2026-11-25 · reviewed parent 8b80a9224a1dfb98439f33459671dfd28fedcf5f. Historical closures below retain their exact pins.
+
+PG772 · [Two causal predicates and the changing cases of hotrā in Aitareya 6.14](two_causal_predicates_and_the_hotraa_offices_in_aitareya/README.md). The critical text of the earlier first oblique and unique comparative-historical mood classification of the proposal remain Open. No whole paradigm or unwitnessed auxiliary alternatives are credited. Continue with the rice-field, crop and land relations at 5.2.1 onward, checking prior measured-field owners. S1–S7 retain their separate evidence requirements. C2–C5 and S1–S7 remain Open.
 
 PG771 · [School affiliation and the grammatical cases of priestly offices](school_affiliation_and_the_case_forms_of_priestly_offices/README.md). The source history of the differing priest lists, and the exact syntactic analysis of the first oblique in AB 6.14.2 across editions, remain Open. Aitareya 6.14.4 supplies a causal pra-bhū construction with two numbers of role participant. Return to its finite and syntactic history, then continue 5.2.1 onward. The open C and S gates retain their individual criteria. C2–C5 and S1–S7 remain Open.
 

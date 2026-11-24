@@ -2,6 +2,12 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG772 · Two causal predicates and the changing cases of hotrā in Aitareya 6.14
+
+PG772 · [Two causal predicates and the changing cases of hotrā in Aitareya 6.14](two_causal_predicates_and_the_hotraa_offices_in_aitareya/README.md). Builds the two finite pra-bhū causal forms of Aitareya 6.14.4 and resolves the first oblique of 6.14.2 on Sāyaṇa’s explanation. 2 new nominal positions and 2 readings. 2 new finite positions and 2 finite readings. One syntax construction with three readouts. One written morphology construction with 8 interfaces, 10 source observations and 6 source decisions. Census: 52,347 finite positions, 21,040 nominal positions and 23,756 nominal readings.
+
+Parent 8b80a9224a1dfb98439f33459671dfd28fedcf5f. The containing commit pins this packet. The critical text of the earlier first oblique and unique comparative-historical mood classification of the proposal remain Open. No whole paradigm or unwitnessed auxiliary alternatives are credited. Continue with the rice-field, crop and land relations at 5.2.1 onward, checking prior measured-field owners. S1–S7 retain their separate evidence requirements. C2–C5 and S1–S7 remain Open. Claude retains execution.
+
 ## PG771 · School affiliation and the grammatical cases of priestly offices
 
 PG771 · [School affiliation and the grammatical cases of priestly offices](school_affiliation_and_the_case_forms_of_priestly_offices/README.md). Completes the selected 5.1.131–136 case constructions and locates four priestly functions in a single Gopatha question. 54 new nominal positions and 54 readings. Finite positions and readings both increased by zero. One written morphology construction with 16 interfaces, 14 source observations and 6 source decisions. Census: 52,345 finite positions, 21,038 nominal positions and 23,754 nominal readings.

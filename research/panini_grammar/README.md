@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG772 · [Two causal predicates and the changing cases of hotrā in Aitareya 6.14](two_causal_predicates_and_the_hotraa_offices_in_aitareya/README.md). Builds the two finite pra-bhū causal forms of Aitareya 6.14.4 and resolves the first oblique of 6.14.2 on Sāyaṇa’s explanation. 2 new nominal positions and 2 readings. 2 new finite positions and 2 finite readings.
+
 PG771 · [School affiliation and the grammatical cases of priestly offices](school_affiliation_and_the_case_forms_of_priestly_offices/README.md). Completes the selected 5.1.131–136 case constructions and locates four priestly functions in a single Gopatha question. 54 new nominal positions and 54 readings. Finite positions and readings both increased by zero.
 
 PG770 · [Friendship, occupation and the two purposes in a wedding verse](friendship_trade_and_good_fortune_in_the_wedding_verse/README.md). Writes the state, conduct and own-sense cases at 5.1.124–130, including two governors of sakhyam in one verse and separate ritual explanations of the wedding datives. 43 new nominal positions and 43 readings. Finite positions and readings both increased by zero.

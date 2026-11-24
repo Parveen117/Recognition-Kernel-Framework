@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG771
+# Pāṇini grammar · current written coverage at PG772
+
+PG772 · [Two causal predicates and the changing cases of hotrā in Aitareya 6.14](two_causal_predicates_and_the_hotraa_offices_in_aitareya/README.md). Builds the two finite pra-bhū causal forms of Aitareya 6.14.4 and resolves the first oblique of 6.14.2 on Sāyaṇa’s explanation. Census: 52,347 finite positions, 21,040 nominal positions and 23,756 nominal readings.
 
 PG771 · [School affiliation and the grammatical cases of priestly offices](school_affiliation_and_the_case_forms_of_priestly_offices/README.md). Completes the selected 5.1.131–136 case constructions and locates four priestly functions in a single Gopatha question. Census: 52,345 finite positions, 21,038 nominal positions and 23,754 nominal readings.
 
