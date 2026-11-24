@@ -1,7 +1,12 @@
+Warning: truncated output (original token count: 20098)
+Total output lines: 581
+
 Warning: truncated output (original token count: 95731)
 Total output lines: 3333
 
 # PG1 — Pāṇini: grammar before implementation
+
+PG801 · [Named valac, nipātana and selected ini-ṭhan classes](named_valac_nipatana_and_selected_ini_than_classes/README.md). Constructs selected 5.2.113–117 outputs: 31 new nominal positions and 57 readings, seventeen constructions/31 interfaces and ten source decisions.
 
 PG800 · [R, m and v possession histories, named bows and valac roles](r_m_v_and_valac_possession_histories/README.md). Constructs selected 5.2.107–112 outputs: 41 new nominal positions and 48 readings, fourteen constructions/41 interfaces and ten source decisions.
 
@@ -195,9 +200,7 @@ PG706 · [Two printed Kāśikā witnesses for anadyatana laṅ](anadyatana_two_p
 
 PG705 · [Second-singular tāriṣaḥ and the Anumati and donor witnesses](vedic_let_tarisah_two_sip_addresses_and_paippalada/README.md). Mahīdhara’s second singular uses two differently owned siP records. The Anumati and donor formulas support one new finite position and reading. The Śukla repeated preverb and the Taittirīya nominal prefix remain distinct, and the Paippalāda readings retain their manuscript and conjectural statuses. Census 52,329 finite positions and 9,358 nominal positions with 10,956 nominal readings.
 
-PG704 · [Two grade histories for tāriṣat and the no-siP patāti control](vedic_let_tarisat_marker_grade_and_patati_control/README.md). Two source policies produce the long vowel in tāriṣat. The exact patāti control has śaP and retains finite i, while Nyāsa’s padāti follows its own source-qualified d-root history. Three new finite positions and readings are credited, two directly attested and one constructed from a named commentary example. Census 52,328 finite positions and 9,358 nominal positions with 10,956 nominal readings.
-
-PG703 · [Two source-qualified Vedic leṭ predicates](vedic_let_vyath_jus_owned_sip_and_hi_accent/README.md). Mahīdhara’s vyathiṣat and the Ṛgvedic jóṣiṣat now have written leṭ derivations. The retroflexed siP, inserted iṭ and t-ending retain separate owners. The received …75731 tokens truncated…hip, with kṛ-specific transfer
+PG704 · [Two grade histories for tāriṣat and the no-siP patāti control](vedic_let_tarisat_marker_grade_and_patati_control/README.md). Two source policies produce the long vowel in tāriṣat. The exact patāti control has śaP and retains finite i, while Nyāsa’s padāti follows its own source-qualified d-root history. Three new finite positions and readings are credited, two directly attested and one constructed from a named commentary example. Census 52,328 finit…98 tokens truncated…hip, with kṛ-specific transfer
 and bhū/as kartari P. San s/ṣ survives the addressed outer sic-lopa;
 initial aṭ, outer iṭ and ending īṭ remain separate. The native
 construction proves the surface-word/auxiliary-family obstruction and

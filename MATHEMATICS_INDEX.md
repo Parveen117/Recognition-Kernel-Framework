@@ -1,7 +1,12 @@
+Warning: truncated output (original token count: 20109)
+Total output lines: 609
+
 Warning: truncated output (original token count: 129617)
 Total output lines: 5565
 
 # Canonical Mathematics Index
+
+PG801 · [Named valac, nipātana and selected ini-ṭhan classes](research/panini_grammar/named_valac_nipatana_and_selected_ini_than_classes/README.md). PG14 retains base, possession/name/enlargement relation, referent guard, affix/augment/lopa owner, roster boundary, source and outcome through typed zero specialization.
 
 PG800 · [R, m and v possession histories, named bows and valac roles](research/panini_grammar/r_m_v_and_valac_possession_histories/README.md). PG14 retains base, possession/name relation, referent/register guard, affix/augment/lopa owner, ordered history, source and outcome through typed zero specialization.
 
@@ -251,9 +256,7 @@ PG678: [Atharvaveda sam–gam tmesis and PG672 witness-scope correction](researc
 
 PG677: [Nested gam passive blessing and aorist completion](research/panini_grammar/nested_gam_passive_blessing_aorist_completion/README.md). The inherited inner `gamay` blocks a bare-gam mit branch after H2-lopa. Āśīrliṅ adds 9 positions/19 readings; luṅ adds 9/18, with actual ciṇ 3sg and dependent 2pl dh/ḍh ownership. Two morphology adapters/37 interfaces. The selected passive ten-lakāra layer is locally CLOSED. Census 51,873 finite and 8,012 nominal/9,271 readings.
 
-PG676: [Nested gam passive perfect policy completion](research/panini_grammar/nested_gam_passive_perfect_policy_completion/README.md). Primary `gamayām` retains H1 lopa and H2-owned ay; passive Y-agreement transfers Ā to kṛ/bhū/as. Nine new liṭ positions carry 49 distinct readings/65 correlated policy paths, one morphology adapter/65 interfaces. Census 51,855 finite and 8,012 nominal/9,271 readings.
-
-PG675: [Nest…109617 tokens truncated…(papers/rkf_completed_weil_endpoint/development/SE19_SE18_AUDIT.md)
+PG676: [Nested g…109 tokens truncated…(papers/rkf_completed_weil_endpoint/development/SE19_SE18_AUDIT.md)
 withdraws its inferred eta_pw>=0.58938/tightness and its finite-stage
 max-only local-to-global conclusion. The audit repairs the slope proof,
 auxiliary-row limit, pole polynomial and exterior majorant, and restores

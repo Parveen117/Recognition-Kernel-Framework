@@ -2,6 +2,12 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG801 · Named valac, nipātana and selected ini-ṭhan classes
+
+PG801 · [Named valac, nipātana and selected ini-ṭhan classes](named_valac_nipatana_and_selected_ini_than_classes/README.md). Constructs selected 5.2.113–117 outputs with 31 new nominal positions and 57 readings. Finite positions/readings increase by zero. Seventeen constructions/31 interfaces, zero new source observations and ten decisions. Census: 52,357 finite positions, 21,642 nominal positions and 24,522 nominal readings.
+
+Parent `226b57bd20ee8e2f9edcef9664b319eba5a4cb99`. The containing commit pins this packet. Displayed outputs and controls are CLOSED. Undisplayed vṛīhyādi/tuṇḍādi members, complete paradigms and accent, and source priority for the sthūṇā gender and `sva` vowel remain Open. Continue from 5.2.118. C2–C5 and S1–S7 remain Open; S5 is 99/103 and S6 retains the independent 5.56 k-it effect. Claude retains execution, generators, untouched suites and replay.
+
 ## PG800 · R, m and v possession histories, named bows and valac roles
 
 PG800 · [R, m and v possession histories, named bows and valac roles](r_m_v_and_valac_possession_histories/README.md). Constructs selected 5.2.107–112 outputs with 41 new nominal positions and 48 readings. Finite positions/readings increase by zero. Fourteen constructions/41 interfaces, zero new source observations and ten decisions. Census: 52,357 finite positions, 21,611 nominal positions and 24,465 nominal readings.

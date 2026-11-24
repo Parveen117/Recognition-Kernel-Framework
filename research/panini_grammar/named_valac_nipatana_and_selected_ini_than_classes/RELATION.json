@@ -1,0 +1,43 @@
+{
+  "stage":"PG801",
+  "morphology_constructions":[
+    {"id":"DANTA_NAMES","rule":"5.2.113","interfaces":["DS113","DG113"]},
+    {"id":"SHIKHA_NAMES","rule":"5.2.113","interfaces":["SN113","SS113"]},
+    {"id":"JYOTIS_N","rule":"5.2.114","interfaces":["J114"]},
+    {"id":"TAMAS_R","rule":"5.2.114","interfaces":["TF114","TN114"]},
+    {"id":"SHRNGA_INAC","rule":"5.2.114","interfaces":["SR114"]},
+    {"id":"URJ_ASUK_PAIR","rule":"5.2.114","interfaces":["UI114","UL114"]},
+    {"id":"GO_MINI","rule":"5.2.114","interfaces":["GO114"]},
+    {"id":"MALA_PAIR","rule":"5.2.114","interfaces":["MI114","MM114"]},
+    {"id":"SHORT_A_ALTERNATIVES","rule":"5.2.115","interfaces":["DN115","CH115"]},
+    {"id":"MATUP_CONTROLS","rule":"5.2.115","interfaces":["SV115","KH115","KA115","VY115","SI115","DL115"]},
+    {"id":"LITERAL_EXCEPTIONS","rule":"5.2.115","interfaces":["KR115","HR115","TD115"]},
+    {"id":"VRIHI_MAYA","rule":"5.2.116","interfaces":["VR116","MY116"]},
+    {"id":"SHALI_QUARTET","rule":"5.2.116","interfaces":["SL116"]},
+    {"id":"NEGATIVE_SHIRSA","rule":"5.2.116","interfaces":["AS116"]},
+    {"id":"TUNDA_PROFILE","rule":"5.2.117","interfaces":["TU117"]},
+    {"id":"UDARA_PROFILE","rule":"5.2.117","interfaces":["UD117"]},
+    {"id":"ENLARGED_EAR_PROFILE","rule":"5.2.117","interfaces":["KN117"]}
+  ],
+  "nominal_positions":[
+    {"id":"DS113","readings":["dantāvalaḥ sainyaḥ"]},{"id":"DG113","readings":["dantāvalo gajaḥ"]},{"id":"SN113","readings":["śikhāvalaṃ nagaram"]},{"id":"SS113","readings":["śikhāvalā sthūṇā [K]","śikhāvalo sthūṇā [Vasu]"]},
+    {"id":"J114","readings":["jyotsnā candraprabhā"]},{"id":"TF114","readings":["tamisrā rātriḥ"]},{"id":"TN114","readings":["tamisraṃ nabhaḥ"]},{"id":"SR114","readings":["śṛṅgiṇaḥ"]},{"id":"UI114","readings":["ūrjasvī"]},{"id":"UL114","readings":["ūrjasvalaḥ"]},{"id":"GO114","readings":["gomī"]},{"id":"MI114","readings":["malinaḥ"]},{"id":"MM114","readings":["malīmasaḥ"]},
+    {"id":"DN115","readings":["daṇḍī","daṇḍikaḥ","daṇḍavān"]},{"id":"CH115","readings":["chatrī","chatrikaḥ","chatravān"]},
+    {"id":"SV115","readings":["svavān [K]","svāvān [Vasu]"]},{"id":"KH115","readings":["khavān"]},{"id":"KA115","readings":["kārakavān"]},{"id":"VY115","readings":["vyāghravān"]},{"id":"SI115","readings":["siṃhavān"]},{"id":"DL115","readings":["daṇḍavatī śālā"]},
+    {"id":"KR115","readings":["kāryī","kāryikaḥ [Vasu only]"]},{"id":"HR115","readings":["hāryī","hāryikaḥ [Vasu only]"]},{"id":"TD115","readings":["taṇḍulī","taṇḍulikaḥ"]},
+    {"id":"VR116","readings":["vrīhī","vrīhikaḥ","vrīhimān"]},{"id":"MY116","readings":["māyī","māyikaḥ","māyāvān"]},{"id":"SL116","readings":["śālilaḥ","śālī","śālikaḥ","śālimān"]},{"id":"AS116","readings":["aśīrṣī","aśīrṣikaḥ"]},
+    {"id":"TU117","readings":["tundilaḥ","tundī","tundikaḥ","tundavān"]},{"id":"UD117","readings":["udarilaḥ","udarī","udarikaḥ","udaravān"]},{"id":"KN117","readings":["kārṇalaḥ","karṇī","karṇikaḥ","karṇavān"]}
+  ],
+  "source_policy_decisions":[
+    {"id":"NAMED_VALAC","status":"Accepted","decision":"Accept the four displayed name-domain referents and keep army, elephant, town and pillar positions distinct."},
+    {"id":"STHUNA_GENDER","status":"Accepted/Open","decision":"Retain Kāśikā feminine and Vasu masculine pillar displays; critical priority remains Open."},
+    {"id":"NIPATANA_OWNERS","status":"Accepted","decision":"Retain the six distinct internal operation families instead of treating eight outputs as one unanalyzed list."},
+    {"id":"TAMISRA_GENDER","status":"Accepted","decision":"Accept both the named night and displayed neuter sky referents without changing the affix owner."},
+    {"id":"SHORT_A_CHOICES","status":"Accepted","decision":"Retain ini, ṭhan and matup as alternatives on the two displayed short-a bases."},
+    {"id":"CONTROL_BOUNDARIES","status":"Accepted/Excluded","decision":"Select matup on the displayed one-syllable, kṛt, genus and locative controls; ini/ṭhan are excluded only on those guarded requests."},
+    {"id":"SVA_FORK","status":"Accepted/Open","decision":"Retain Kāśikā svavān and Vasu svāvān under source labels."},
+    {"id":"VASU_EXCEPTION_FORMS","status":"Accepted/Open","decision":"Accept kāryika and hāryika on Vasu only; their shared-source status remains Open."},
+    {"id":"VRIHYADI_SELECTION","status":"Accepted/Open","decision":"Construct four explicit requests; undisplayed roster members remain unconstructed, not excluded."},
+    {"id":"TUNDADI_SELECTION","status":"Accepted/Open","decision":"Construct tunda, udara and the displayed enlarged-ear profile; other roster members remain unconstructed."}
+  ]
+}
