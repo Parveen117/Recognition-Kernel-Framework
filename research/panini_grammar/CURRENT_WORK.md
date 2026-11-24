@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG798
+# Pāṇini grammar · current written coverage at PG799
+
+PG799 · [Paired possession affixes, locality and projecting teeth](paired_possession_affixes_locality_and_projecting_teeth/README.md). Constructs selected 5.2.101–106 alternatives, locality branches and the guarded `dantura` contrast. Census: 52,357 finite positions, 21,570 nominal positions and 24,417 nominal readings.
 
 PG798 · [Sidhmādi conditioned lac and three possession classes](sidhmadi_conditioned_lac_and_three_possession_classes/README.md). Constructs selected 5.2.97–100 surfaces with separately owned alternatives, augment/lengthening operations and semantic controls. Census: 52,357 finite positions, 21,552 nominal positions and 24,385 nominal readings.
 

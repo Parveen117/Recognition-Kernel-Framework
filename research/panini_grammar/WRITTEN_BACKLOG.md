@@ -1,6 +1,8 @@
-# Written-development backlog at PG798
+# Written-development backlog at PG799
 
-Monty · 2026-11-25 · reviewed parent 2328e410f3e9d45b978bbaf5429eb6300cdc8b84. Historical closures below retain their exact pins.
+Monty · 2026-11-25 · reviewed parent 35d6cca0ada6765bcdc1ac1e0db471185008397f. Historical closures below retain their exact pins.
+
+PG799 · [Paired possession affixes, locality and projecting teeth](paired_possession_affixes_locality_and_projecting_teeth/README.md). Selected 5.2.101–106 alternatives, locality branches and guard are CLOSED. Source priorities, full membership, paradigms and accent remain Open. Continue from 5.2.107. C2–C5 and S1–S7 remain Open; S5 is 99/103 and S6 retains the 5.56 k-it effect.
 
 PG798 · [Sidhmādi conditioned lac and three possession classes](sidhmadi_conditioned_lac_and_three_possession_classes/README.md). Selected 5.2.97–100 outputs, alternatives, conditioned operations and controls are CLOSED. Unselected class members, roster/spelling divergences, full paradigms and accent remain Open. Continue from 5.2.101. Matup controls are Excluded only from guarded special-affix branches. S5 remains 99/103; S6 retains the independent 5.56 k-it effect. C2–C5 and S1–S7 remain Open.
 

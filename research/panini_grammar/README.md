@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG799 · [Paired possession affixes, locality and projecting teeth](paired_possession_affixes_locality_and_projecting_teeth/README.md). Constructs selected 5.2.101–106 outputs: 18 new nominal positions and 32 readings, eight constructions/18 interfaces and seven source decisions.
+
 PG798 · [Sidhmādi conditioned lac and three possession classes](sidhmadi_conditioned_lac_and_three_possession_classes/README.md). Constructs selected 5.2.97–100 outputs: 38 new nominal positions and 48 readings, thirteen constructions/38 interfaces and nine source decisions.
 
 PG797 · [Possession, perceptible qualities and optional body-lac](possession_perceptible_qualities_and_optional_body_lac/README.md). Constructs selected 5.2.94–96 outputs: 32 new nominal positions and 36 readings, seven constructions/32 interfaces and seven source decisions.

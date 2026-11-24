@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG799 · [Paired possession affixes, locality and projecting teeth](research/panini_grammar/paired_possession_affixes_locality_and_projecting_teeth/README.md). PG14 retains possession/locality relation, affix/lup owner, semantic guard and source outcome through typed zero specialization.
+
 PG798 · [Sidhmādi conditioned lac and three possession classes](research/panini_grammar/sidhmadi_conditioned_lac_and_three_possession_classes/README.md). PG14 retains base/class, semantic guard, affix owner and ordered lengthening, augmentation, shortening, lopa and sandhi histories through typed zero specialization.
 
 PG797 · [Possession, perceptible qualities and optional body-lac](research/panini_grammar/possession_perceptible_qualities_and_optional_body_lac/README.md). PG14 retains bearer/locus relation, licensing motive, affix or lopa owner, animacy/body/final-vowel guard and source outcome through typed zero specialization.

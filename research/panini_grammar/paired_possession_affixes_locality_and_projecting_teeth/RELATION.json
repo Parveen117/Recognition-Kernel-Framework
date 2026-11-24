@@ -1,0 +1,30 @@
+{
+  "stage":"PG799",
+  "morphology_constructions":[
+    {"id":"NA_MATUP_PAIRS","rule":"5.2.101","interfaces":["PR101","SR101","AR101","VR101"]},
+    {"id":"TAPAS_SAHASRA","rule":"5.2.102–103","interfaces":["T102","S102"]},
+    {"id":"JYOTSNADI_AN","rule":"5.2.103 vārttika","interfaces":["J103","TM103","KD103","KT103","VS103","VP103"]},
+    {"id":"NONLOCAL_AN","rule":"5.2.104","interfaces":["SI104","SH104"]},
+    {"id":"SIKATA_LOCALITY","rule":"5.2.105","interfaces":["SD105"]},
+    {"id":"SHARKARA_LOCALITY","rule":"5.2.105","interfaces":["SHD105"]},
+    {"id":"PROJECTING_TEETH","rule":"5.2.106","interfaces":["DU106"]},
+    {"id":"TEETH_CONTROL","rule":"5.2.106","interfaces":["DV106"]}
+  ],
+  "nominal_positions":[
+    {"id":"PR101","readings":["prājñaḥ","prajñāvān"]},{"id":"SR101","readings":["śrāddhaḥ","śraddhāvān"]},{"id":"AR101","readings":["ārcaḥ","arcāvān"]},{"id":"VR101","readings":["vārttaḥ","vṛttimān"]},
+    {"id":"T102","readings":["tapasvī","tāpasaḥ"]},{"id":"S102","readings":["sahasrī [K]","sahasrā [Vasu]","sāhasraḥ"]},
+    {"id":"J103","readings":["jyautsnaḥ pakṣaḥ"]},{"id":"TM103","readings":["tāmisraḥ"]},{"id":"KD103","readings":["kauṇḍalaḥ"]},{"id":"KT103","readings":["kautapaḥ"]},{"id":"VS103","readings":["vaisarpaḥ"]},{"id":"VP103","readings":["vaipādikaḥ"]},
+    {"id":"SI104","readings":["saikato ghaṭaḥ"]},{"id":"SH104","readings":["śārkaraṃ madhu"]},
+    {"id":"SD105","readings":["sikatā deśaḥ","sikatilaḥ","saikataḥ [K]","sakataḥ [Vasu]","sikatāvān"]},{"id":"SHD105","readings":["śarkarā deśaḥ","śarkarilaḥ","śārkaraḥ","śarkarāvān"]},
+    {"id":"DU106","readings":["danturaḥ"]},{"id":"DV106","readings":["dantavān"]}
+  ],
+  "source_policy_decisions":[
+    {"id":"PAIRED_AFFIXES","status":"Accepted/Open","decision":"Retain ṇa/matup pairs and vārttika vṛtti; wider class productivity remains Open."},
+    {"id":"PROTECTED_HISTORIES","status":"Accepted/Open","decision":"Keep vini/ini and aṇ alternatives distinct; retain sahasrī/sahasrā priority Open."},
+    {"id":"JYOTSNADI","status":"Accepted/Open","decision":"Accept six displayed outputs without claiming full list closure."},
+    {"id":"NONLOCALITY","status":"Accepted","decision":"Restrict rule 104 examples to nonlocal possession."},
+    {"id":"LOCALITY_CHOICES","status":"Accepted/Open","decision":"Correlate lup, ilac, aṇ and matup in locality; retain saikata/sakata source priority Open."},
+    {"id":"LUP_OWNER","status":"Accepted","decision":"Preserve gender and number under affix-lup rather than treating the base as unanalysed."},
+    {"id":"DANTURA_GUARD","status":"Accepted/Excluded","decision":"Accept dantura only for projecting teeth; dantavān remains accepted outside that urac branch."}
+  ]
+}
