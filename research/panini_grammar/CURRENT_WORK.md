@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG775
+# Pāṇini grammar · current written coverage at PG776
+
+PG776 · [Annual birth, two travellers and the length of a horse’s day](annual_birth_two_travellers_and_the_horseday_measure/README.md). Writes the two annual-birth histories, the road and approach suffixes, and two directly located Vedic horse-day measures at 5.2.12–19. Census: 52,349 finite positions, 21,163 nominal positions and 23,947 nominal readings.
 
 PG775 · [Two middle verbs and the Rāma epithet in Bhaṭṭi 7.101](two_middle_predicates_and_the_raghuttama_address_in_bhatti_7_101/README.md). Checks Bhaṭṭi 7.101 against S1 and writes its hope of meeting and its causal command to gladden Rāma. Census: 52,349 finite positions, 21,123 nominal positions and 23,895 nominal readings.
 

@@ -1,6 +1,8 @@
-# Written-development backlog at PG775
+# Written-development backlog at PG776
 
-Monty · 2026-11-25 · reviewed parent b8137aca3ae784aab7e4c19671d51ecd41c0d32a. Historical closures below retain their exact pins.
+Monty · 2026-11-25 · reviewed parent f3435bd46829a88f40b292f059273de85c5f58d4. Historical closures below retain their exact pins.
+
+PG776 · [Annual birth, two travellers and the length of a horse’s day](annual_birth_two_travellers_and_the_horseday_measure/README.md). The primary location of the one-hundred flight quotation, the historical relationship of the two annual-birth analyses and wider accented use remain Open. Continue 5.2.20–23 with the named shy and shameful uses, group occupation, seven-step friendship and the previous milking. C2–C5 and S1–S7 remain Open.
 
 PG775 · [Two middle verbs and the Rāma epithet in Bhaṭṭi 7.101](two_middle_predicates_and_the_raghuttama_address_in_bhatti_7_101/README.md). S1 retains its exact independent poem address and actual mood requirement. The internal prefix/pada account of the signalling clause and the precise motivation for the causal middle remain Open. Continue the written extent and movement sequence from 5.2.12. C2–C5 and S1–S7 remain Open.
 

@@ -2,6 +2,12 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG776 · Annual birth, two travellers and the length of a horse’s day
+
+PG776 · [Annual birth, two travellers and the length of a horse’s day](annual_birth_two_travellers_and_the_horseday_measure/README.md). Writes the two annual-birth histories, the road and approach suffixes, and two directly located Vedic horse-day measures at 5.2.12–19. 40 new nominal positions and 52 readings. Finite positions and readings both increased by zero. One written morphology construction with 13 interfaces, 14 source observations and 5 source decisions. Census: 52,349 finite positions, 21,163 nominal positions and 23,947 nominal readings.
+
+Parent f3435bd46829a88f40b292f059273de85c5f58d4. The containing commit pins this packet. The primary location of the one-hundred flight quotation, the historical relationship of the two annual-birth analyses and wider accented use remain Open. Continue 5.2.20–23 with the named shy and shameful uses, group occupation, seven-step friendship and the previous milking. C2–C5 and S1–S7 remain Open. Claude retains execution.
+
 ## PG775 · Two middle verbs and the Rāma epithet in Bhaṭṭi 7.101
 
 PG775 · [Two middle verbs and the Rāma epithet in Bhaṭṭi 7.101](two_middle_predicates_and_the_raghuttama_address_in_bhatti_7_101/README.md). Checks Bhaṭṭi 7.101 against S1 and writes its hope of meeting and its causal command to gladden Rāma. 0 new nominal positions and 0 readings. 2 new finite positions and 2 finite readings. One syntax construction with four clause readouts. One written morphology construction with 5 interfaces, 12 source observations and 5 source decisions. Census: 52,349 finite positions, 21,123 nominal positions and 23,895 nominal readings.

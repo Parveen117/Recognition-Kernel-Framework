@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG776 · [Annual birth, two travellers and the length of a horse’s day](annual_birth_two_travellers_and_the_horseday_measure/README.md). Writes the two annual-birth histories, the road and approach suffixes, and two directly located Vedic horse-day measures at 5.2.12–19. 40 new nominal positions and 52 readings. Finite positions and readings both increased by zero.
+
 PG775 · [Two middle verbs and the Rāma epithet in Bhaṭṭi 7.101](two_middle_predicates_and_the_raghuttama_address_in_bhatti_7_101/README.md). Checks Bhaṭṭi 7.101 against S1 and writes its hope of meeting and its causal command to gladden Rāma. 0 new nominal positions and 0 readings. 2 new finite positions and 2 finite readings.
 
 PG774 · [The extent of a wingspan and a chain of counsellors](extent_of_a_wingspan_and_a_chain_of_counsellors/README.md). Writes 5.2.7–11 and identifies the literary wingspan and the independent counsellor-chain quotation. 20 new nominal positions and 20 readings. Finite positions and readings both increased by zero.

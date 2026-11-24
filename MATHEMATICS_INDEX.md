@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG776 · [Annual birth, two travellers and the length of a horse’s day](research/panini_grammar/annual_birth_two_travellers_and_the_horseday_measure/README.md). PG14 retains the inner case and the owner of each nasal through outer inflection.
+
 PG775 · [Two middle verbs and the Rāma epithet in Bhaṭṭi 7.101](research/panini_grammar/two_middle_predicates_and_the_raghuttama_address_in_bhatti_7_101/README.md). PG14 distinguishes a shared case spelling from the verb and speaker that license it.
 
 PG774 · [The extent of a wingspan and a chain of counsellors](research/panini_grammar/extent_of_a_wingspan_and_a_chain_of_counsellors/README.md). PG14 retains the governor, the operand and both competing vowel histories through zero specialization.
