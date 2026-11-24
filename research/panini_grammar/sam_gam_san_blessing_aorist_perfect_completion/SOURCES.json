@@ -1,0 +1,84 @@
+{
+  "publication_parent": "e27e5a39f750fad441543d6f973d3c05db28d7df",
+  "date": "2026-11-24",
+  "project_dependencies": [
+    {
+      "commit": "e27e5a39f750fad441543d6f973d3c05db28d7df",
+      "path": "research/panini_grammar/paippalada_cang_roles_and_ayam_parallel/STATE.json",
+      "git_blob_sha": "40bc98b1b0f67dab985a2b585cb08efc50ca14d6",
+      "bytes": 2106,
+      "sha256": "276b4300cc8922408fbff57f022503758e65043f26fdcf139b73f74050c1b334",
+      "use": "PG684 exact parent census and independent source comparison"
+    },
+    {
+      "commit": "832e9e2a282907fb4fb9d44727ffe512168c1dbc",
+      "path": "research/panini_grammar/sam_gam_san_companion_and_destination_panels/RELATION.json",
+      "git_blob_sha": "6d3fa312bb3965708d4c5dc52295ba85531c29a8",
+      "bytes": 11572,
+      "sha256": "84b766fa5a828c6713913ac212fd1b04857544e75304c1f979712de36ebccc52",
+      "use": "PG683 distinct key profiles, current seven labels and prefix policies"
+    },
+    {
+      "commit": "85edab51dcbbcb468ad0251876f33ef10eececb9",
+      "path": "research/panini_grammar/san_final_continuations/DERIVATIONS.md",
+      "git_blob_sha": "dcca7eeb1b7bf4ba80bc83df956df7b21fbf0cae",
+      "bytes": 7602,
+      "sha256": "3ef24a51c9e8c718969d3c917008c2063407aeb7b0a2b187e75282888ff779fe",
+      "use": "PG88 blessing, sIC and auxiliary ending factorizations"
+    },
+    {
+      "commit": "82d7a1f162f2a6f600d05aa7f2018dd73b56bf36",
+      "path": "research/panini_grammar/desiderative_perfect_primary_word_policy/SOURCES.json",
+      "git_blob_sha": "dd2668d3dfe2bb65944a48b6b0100f2426766518",
+      "bytes": 38344,
+      "sha256": "e2300eae0d4fb2f04c520e7b6f28d637a889fe46cc034646798660f4732b07f0",
+      "use": "Exact upstream 5744762 Bhāṣya 24081, Padamañjarī 13063 and Kāśikā evidence"
+    },
+    {
+      "commit": "d242745c6f105981b887b481bad5a36f201e44f9",
+      "path": "research/panini_grammar/agent_noun_and_outer_middle/SOURCES.json",
+      "git_blob_sha": "69871363b0fa612fd8ebcd3edbe77a0904f0f4ec",
+      "bytes": 56213,
+      "sha256": "1b2e1175d35230fe9274dc148cbe25b2ef4c631873fdfb73a29dcd1248c63edd",
+      "use": "PG184 Bhāṣya/Kāśikā 7.2.58 finite vs nonfinite and delayed taṅ"
+    },
+    {
+      "commit": "4f7451502fd3bbef5e43f84e273f9c65f3f92b26",
+      "path": "research/panini_grammar/anga_affix_abhyasa/SOURCE_EXCERPTS.json",
+      "git_blob_sha": "5deccfa3a413c5721d902714f4c3de35891cadae",
+      "bytes": 1639658,
+      "sha256": "e4eadb5573832ae88192d5c1fe9c2f5f18b0bafe427b5af571c9bdce178fcb7b",
+      "use": "Exact 7.2.58 report and separate Pādaśeṣa policy"
+    },
+    {
+      "commit": "b05e46bf78f165e17c4766d6d1179a1699a72fcf",
+      "path": "research/panini_grammar/grammar_construction/NATIVE_OPERATOR_LIFT.md",
+      "git_blob_sha": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+      "bytes": 11855,
+      "sha256": "f52e7f5cf539ef56859b890669ef738848491e4005e73be75baa49c899b5dafd",
+      "use": "PG14 N1–N5 full carrier"
+    }
+  ],
+  "primary_sources": [
+    {
+      "rule": "7.2.58",
+      "witness": "Kāśikā same-word middle restriction and Padamañjarī nonfinite/delayed A comparison",
+      "pin": "PG184 / PG40 source excerpts in project_dependencies",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/7/7.2.58.htm"
+    },
+    {
+      "rule": "2.4.81",
+      "witness": "Mahābhāṣya 24081 as transcribed in PG189; Kāśikā examples and Nyāsa first-word nominal provenance",
+      "pin": "PG189 SOURCES.json embeds upstream version and byte identities",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/2/2.4.81.htm"
+    },
+    {
+      "rule": "1.3.63",
+      "witness": "Kāśikā and Padamañjarī A comparison tied to the dhātu selecting ām, with explicit kṛ scope",
+      "pin": "PG189 SOURCES.json fields 13063",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/1/1.3.63.htm"
+    }
+  ],
+  "observation_units": [],
+  "decision": "Apply the exact PG189 same-word test to 7.2.58 on the selected gam perfect: iṭ at inner san for both requests after primary liṭ-luk, with request A surviving for kṛ's 1.3.63. This is an inference from already pinned primary arguments, with the competing early-entitlement policy and direct attestation still Open."
+}

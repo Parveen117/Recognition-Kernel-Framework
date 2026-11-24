@@ -1,0 +1,322 @@
+{
+  "schema": "rkf.panini.pg685.relation.v1",
+  "scope": {
+    "root_id": 1011137,
+    "root": "gam",
+    "preverb": "sam",
+    "formation": "san",
+    "voice": "kartari",
+    "profiles": {
+      "COMPANION": "A with instrumental companion and 1.3.29/62 cause",
+      "DESTINATION": "P with accusative destination and 1.3.78 cause"
+    },
+    "lakara": [
+      "āśīrliṅ",
+      "luṅ",
+      "liṭ"
+    ],
+    "context_guards": [
+      "benefactive benediction directed to desire",
+      "ordinary admitted past desire, active luṅ",
+      "periphrastic perfect of the san-derived desire predicate"
+    ]
+  },
+  "primary_histories": {
+    "finite_A": {
+      "word": "jigaṃsa",
+      "inner_it": false,
+      "scope": [
+        "āśīrliṅ",
+        "luṅ"
+      ]
+    },
+    "finite_P": {
+      "word": "jigamiṣa",
+      "inner_it": true,
+      "scope": [
+        "āśīrliṅ",
+        "luṅ"
+      ]
+    },
+    "perfect_A": {
+      "word": "jigamiṣām",
+      "inner_it": true,
+      "taṅ_in_primary": false,
+      "request_entitlement": "A",
+      "auxiliary_kṛ": "A",
+      "scope": [
+        "liṭ"
+      ]
+    },
+    "perfect_P": {
+      "word": "jigamiṣām",
+      "inner_it": true,
+      "taṅ_in_primary": false,
+      "request_entitlement": "P",
+      "auxiliary_kṛ": "P",
+      "scope": [
+        "liṭ"
+      ]
+    }
+  },
+  "blessing": {
+    "prefix": [
+      "saṃ",
+      "sañ"
+    ],
+    "rows": [
+      {
+        "slot": "3sg",
+        "A": "jigaṃsiṣīṣṭa",
+        "P": "jigamiṣyāt"
+      },
+      {
+        "slot": "3du",
+        "A": "jigaṃsiṣīyāstām",
+        "P": "jigamiṣyāstām"
+      },
+      {
+        "slot": "3pl",
+        "A": "jigaṃsiṣīran",
+        "P": "jigamiṣyāsuḥ"
+      },
+      {
+        "slot": "2sg",
+        "A": "jigaṃsiṣīṣṭhāḥ",
+        "P": "jigamiṣyāḥ"
+      },
+      {
+        "slot": "2du",
+        "A": "jigaṃsiṣīyāsthām",
+        "P": "jigamiṣyāstam"
+      },
+      {
+        "slot": "2pl",
+        "A": "jigaṃsiṣīdhvam",
+        "P": "jigamiṣyāsta"
+      },
+      {
+        "slot": "1sg",
+        "A": "jigaṃsiṣīya",
+        "P": "jigamiṣyāsam"
+      },
+      {
+        "slot": "1du",
+        "A": "jigaṃsiṣīvahi",
+        "P": "jigamiṣyāsva"
+      },
+      {
+        "slot": "1pl",
+        "A": "jigaṃsiṣīmahi",
+        "P": "jigamiṣyāsma"
+      }
+    ]
+  },
+  "aorist": {
+    "prefix": [
+      "sam"
+    ],
+    "rows": [
+      {
+        "slot": "3sg",
+        "A": "ajigaṃsiṣṭa",
+        "P": "ajigamiṣīt"
+      },
+      {
+        "slot": "3du",
+        "A": "ajigaṃsiṣātām",
+        "P": "ajigamiṣiṣṭām"
+      },
+      {
+        "slot": "3pl",
+        "A": "ajigaṃsiṣata",
+        "P": "ajigamiṣiṣuḥ"
+      },
+      {
+        "slot": "2sg",
+        "A": "ajigaṃsiṣṭhāḥ",
+        "P": "ajigamiṣīḥ"
+      },
+      {
+        "slot": "2du",
+        "A": "ajigaṃsiṣāthām",
+        "P": "ajigamiṣiṣṭam"
+      },
+      {
+        "slot": "2pl",
+        "A": "ajigaṃsidhvam",
+        "P": "ajigamiṣiṣṭa"
+      },
+      {
+        "slot": "1sg",
+        "A": "ajigaṃsiṣi",
+        "P": "ajigamiṣiṣam"
+      },
+      {
+        "slot": "1du",
+        "A": "ajigaṃsiṣvahi",
+        "P": "ajigamiṣiṣva"
+      },
+      {
+        "slot": "1pl",
+        "A": "ajigaṃsiṣmahi",
+        "P": "ajigamiṣiṣma"
+      }
+    ]
+  },
+  "perfect": {
+    "prefix": [
+      "saṃ",
+      "sañ"
+    ],
+    "primary_prefix_tail": "jigamiṣā",
+    "junction": {
+      "kr": [
+        "ṃ",
+        "ñ"
+      ],
+      "bhu": [
+        "ṃ",
+        "m"
+      ],
+      "as": [
+        "m"
+      ]
+    },
+    "auxiliary": [
+      {
+        "slot": "3sg",
+        "kr_A": "cakre",
+        "kr_P": [
+          "cakāra"
+        ],
+        "bhu_P": "babhūva",
+        "as_P": "āsa"
+      },
+      {
+        "slot": "3du",
+        "kr_A": "cakrāte",
+        "kr_P": [
+          "cakratuḥ"
+        ],
+        "bhu_P": "babhūvatuḥ",
+        "as_P": "āsatuḥ"
+      },
+      {
+        "slot": "3pl",
+        "kr_A": "cakrire",
+        "kr_P": [
+          "cakruḥ"
+        ],
+        "bhu_P": "babhūvuḥ",
+        "as_P": "āsuḥ"
+      },
+      {
+        "slot": "2sg",
+        "kr_A": "cakṛṣe",
+        "kr_P": [
+          "cakartha"
+        ],
+        "bhu_P": "babhūvitha",
+        "as_P": "āsitha"
+      },
+      {
+        "slot": "2du",
+        "kr_A": "cakrāthe",
+        "kr_P": [
+          "cakrathuḥ"
+        ],
+        "bhu_P": "babhūvathuḥ",
+        "as_P": "āsathuḥ"
+      },
+      {
+        "slot": "2pl",
+        "kr_A": "cakṛḍhve",
+        "kr_P": [
+          "cakra"
+        ],
+        "bhu_P": "babhūva",
+        "as_P": "āsa"
+      },
+      {
+        "slot": "1sg",
+        "kr_A": "cakre",
+        "kr_P": [
+          "cakara",
+          "cakāra"
+        ],
+        "bhu_P": "babhūva",
+        "as_P": "āsa"
+      },
+      {
+        "slot": "1du",
+        "kr_A": "cakṛvahe",
+        "kr_P": [
+          "cakṛva"
+        ],
+        "bhu_P": "babhūviva",
+        "as_P": "āsiva"
+      },
+      {
+        "slot": "1pl",
+        "kr_A": "cakṛmahe",
+        "kr_P": [
+          "cakṛma"
+        ],
+        "bhu_P": "babhūvima",
+        "as_P": "āsima"
+      }
+    ]
+  },
+  "coverage": {
+    "selected_total_positions": 180,
+    "selected_total_readings": 454,
+    "previously_closed_positions": 126,
+    "previously_closed_readings": 216,
+    "added": {
+      "blessing": {
+        "positions": 18,
+        "readings": 36
+      },
+      "aorist": {
+        "positions": 18,
+        "readings": 18
+      },
+      "perfect": {
+        "positions": 18,
+        "readings": 184
+      }
+    }
+  },
+  "excluded": [
+    "making a separate-word kṛ Ā ending block inner iṭ in the selected PG189 policy",
+    "selecting a second san on a desire",
+    "removing the P sIC of a non-apṛkta slot or merging its s with san-owned ṣ",
+    "using a Vedic quotation to add a Classical finite word"
+  ],
+  "open": [
+    "Direct independent attestation of the new whole words and traditional evidence for a rival effective-early-A primary ām policy on this exact gam domain",
+    "Exact primary Vedic citation of the long lexical-motion desiderative reported under 6.4.16, and recensional/accent data retained by PG684",
+    "Independent ordinary joined sam–gam caṅ A entitlement, other san roles, voices, roots or preverbs, and wider C2–C5/S1–S7"
+  ],
+  "credit": {
+    "finite_positions": 54,
+    "finite_readings": 238,
+    "nominal_positions": 0,
+    "nominal_readings": 0,
+    "morphological_constructions": 1,
+    "morphological_readouts": 238,
+    "syntactic_constructions": 0,
+    "syntactic_readouts": 0,
+    "phonological_constructions": 0,
+    "phonological_readouts": 0,
+    "accent_constructions": 0,
+    "accent_readouts": 0,
+    "compound_constructions": 0,
+    "compound_readouts": 0,
+    "semantic_constructions": 0,
+    "semantic_readouts": 0,
+    "source_observations": 0,
+    "source_policy_decisions": 1
+  }
+}

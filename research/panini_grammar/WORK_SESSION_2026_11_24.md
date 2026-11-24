@@ -2,6 +2,16 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG685 · Selected sam–gam san active-grid completion
+
+PG685: [Complete selected sam–gam san active grid](sam_gam_san_blessing_aorist_perfect_completion/README.md). The last three lakāras add 54 new positions/238 readings. Primary liṭ-luk precedes tiṅ, so both perfect first words take inner iṭ under the selected 7.2.58 policy. Companion A transfers only to auxiliary kṛ. The two ten-lakāra profiles close at 180 positions/454 readings. Census 52,062 finite and 8,012 nominal positions/9,271 readings.
+
+One morphology construction/238 readouts and one bounded source-policy decision. Zero nominal increments and zero new source observations. PG683's 126 positions/216 readings receive no repeated credit.
+
+PG521–685 cumulative: 243 finite positions/576 readings, 2,234 nominal positions/2,528 readings, 257 morphology constructions/1,976 interfaces, 122 compound constructions/583 plans, 15 accent constructions/61 records, 150 semantics constructions/437 records, 113 syntax constructions/329 records, 46 source-policy decisions after PG555−1, and 290 observations. Dedicated junction count since PG680 is three constructions/nine readouts. Two provenance corrections and one proof addendum. PG335 and PG357–363 CLOSED preserved.
+
+Local written closure covers the selected two active san profiles. Traditional evidence for a rival early-A policy, independently attested full words, the Vedic text collation, independently governed ordinary caṅ A-pada and C2–C5/S1–S7 stay Open. Claude retains generators, grammar execution, untouched suites and replay. The containing commit is the publication pin.
+
 ## PG684 · Direct Paippalāda clause and junction comparisons
 
 PG684: [Direct Paippalāda gam clauses and retained ayam](paippalada_cang_roles_and_ayam_parallel/README.md). PS 16.57.19 has bare P3pl `ajīgaman` in the rice-dish parallel. PS 19.11.7 has adjacent sam with the death instrumental. PS 19.15.9 has a bare two-accusative clause. PS 2.27.5 confirms retention in the parallel jewel verse. Zero new word positions or readings.

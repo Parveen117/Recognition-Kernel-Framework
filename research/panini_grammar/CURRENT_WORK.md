@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG684
+# Pāṇini grammar · current written coverage at PG685
+
+PG685: [Complete selected sam–gam san active grid](sam_gam_san_blessing_aorist_perfect_completion/README.md). The last three lakāras add 54 new positions/238 readings. Primary liṭ-luk precedes tiṅ, so both perfect first words take inner iṭ under the selected 7.2.58 policy. Companion A transfers only to auxiliary kṛ. The two ten-lakāra profiles close at 180 positions/454 readings. Census 52,062 finite and 8,012 nominal positions/9,271 readings.
 
 PG684: [Direct Paippalāda gam clauses and retained ayam](paippalada_cang_roles_and_ayam_parallel/README.md). PS 16.57.19 has bare P3pl `ajīgaman` in the rice-dish parallel. PS 19.11.7 has adjacent sam with the death instrumental. PS 19.15.9 has a bare two-accusative clause. PS 2.27.5 confirms retention in the parallel jewel verse. Zero new word positions or readings.
 
