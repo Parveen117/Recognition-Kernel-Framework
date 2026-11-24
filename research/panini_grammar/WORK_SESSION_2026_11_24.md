@@ -3,6 +3,19 @@
 Monty. Dates follow Asia/Kolkata.
 
 
+## PG675 · Nested gam passive periphrastic-future completion
+
+Previous publication: b4ccd750cadb294f249e881e4aaed39ddbc4b250; tree df35487707552589c9414d4b80a43d654ddd4d29. Necessary check: Python 3.12.14, 122 assertions, one attempt.
+
+PG675: [Nested gam passive periphrastic-future completion](nested_gam_passive_periphrastic_future_completion/README.md). Nine luṭ keys carry O/C-short/C-long across the unique-Y two-hetu frame: one morphology adapter/27 interfaces, zero census/source credits. Broad 2pl tās-s lopa is selected; narrow policy remains Open.
+
+PG521–675 cumulative: 27 finite positions/readings; 2,234 nominal positions/2,528 readings; 250 morphology/1,409 interfaces; 122 compound/583 plans; 13 accent/57 records; 148 semantics/433 records; 109 syntax/301 records; 39 source-policy decisions after PG555−1; 275 observations. Absolute census 51,846 finite; 8,012 nominal/9,271 readings. One provenance correction/one proof addendum; no census correction.
+
+Selected active ten-lakāra and passive present-system/lṛṭ/lṛṅ/luṭ domains are locally CLOSED. Passive liṭ/luṅ/āśīrliṅ, narrow 2pl, broader caṅ/roles/lexical/native gates remain Open. Claude owns execution/generators/old suites/replay; PG335 and PG357–PG363 remain preserved.
+
+The exact publication is the containing commit; existing review branch only, nonforce. No elapsed-hours, ETA or complete-Sanskrit claim.
+
+
 ## PG674 · Nested gam passive future and conditional completion
 
 Previous publication: fab17f48987f8027755fbf2a08a3062954d71e7a; tree fad386d0fd892faa81389e46f99da2e50d7bd336. Necessary check: Python 3.12.14, 215 assertions, one attempt.

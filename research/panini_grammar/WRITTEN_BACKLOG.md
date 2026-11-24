@@ -1,6 +1,8 @@
-# Written-development backlog at PG674
+# Written-development backlog at PG675
 
-Monty · 2026-11-24 · reviewed current parent fab17f48987f8027755fbf2a08a3062954d71e7a; historical closures below retain their exact original pins.
+Monty · 2026-11-24 · reviewed current parent b4ccd750cadb294f249e881e4aaed39ddbc4b250; historical closures below retain their exact original pins.
+
+PG675 closes [selected nested-gam passive luṭ](nested_gam_passive_periphrastic_future_completion/README.md): nine keys/27 O/C-short/C-long interfaces, with distinct H1/H2 histories and Y/D/V ownership. The broad 2pl tās-s-lopa policy is selected; the competing narrow full request remains Open. All surfaces are frozen controls, so no census/source recredit. Passive liṭ/luṅ/āśīrliṅ and wider obligations remain unconstructed. Census 51,846 finite; 8,012 nominal/9,271 readings.
 
 PG674 closes [selected nested-gam passive lṛṭ/lṛṅ](nested_gam_passive_future_conditional_completion/README.md): 18 keys/54 O/C-short/C-long history interfaces. H1 remains the earlier owned lopa; O retains H2, while C deletes H2 and keeps the source-qualified short/long mit branch. All 54 surfaces are frozen causal-passive controls, so no finite/readings/source credit is repeated. Passive luṭ/liṭ/luṅ/āśīrliṅ, wider caṅ/roles/lexical/native work remain genuine Open obligations. Census remains 51,846 finite; 8,012 nominal positions/9,271 readings.
 
