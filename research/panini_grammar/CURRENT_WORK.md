@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG676
+# Pāṇini grammar · current written coverage at PG677
+
+PG677: [Nested gam passive blessing and aorist completion](nested_gam_passive_blessing_aorist_completion/README.md). The inherited inner `gamay` blocks a bare-gam mit branch after H2-lopa. Āśīrliṅ adds 9 positions/19 readings; luṅ adds 9/18, with actual ciṇ 3sg and dependent 2pl dh/ḍh ownership. Two morphology adapters/37 interfaces. The selected passive ten-lakāra layer is locally CLOSED. Census 51,873 finite and 8,012 nominal/9,271 readings.
 
 PG676: [Nested gam passive perfect policy completion](nested_gam_passive_perfect_policy_completion/README.md). Primary `gamayām` retains H1 lopa and H2-owned ay; passive Y-agreement transfers Ā to kṛ/bhū/as. Nine new liṭ positions carry 49 distinct readings/65 correlated policy paths, one morphology adapter/65 interfaces. Census 51,855 finite and 8,012 nominal/9,271 readings.
 

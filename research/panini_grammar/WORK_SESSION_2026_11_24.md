@@ -3,6 +3,19 @@
 Monty. Dates follow Asia/Kolkata.
 
 
+## PG677 · Nested gam passive blessing and aorist completion
+
+Previous publication: 5822c60fe4294be7bb11af7412dcba3a7b2ac14a; tree e584ce5f43099a892f77abd7e79f4d067652394a. Necessary check: Python 3.12.14, 155 assertions, one attempt.
+
+PG677: [Nested gam passive blessing and aorist completion](nested_gam_passive_blessing_aorist_completion/README.md). Āśīrliṅ adds 9 positions/19 readings and luṅ 9/18. H2-lopa exposes inherited `gamay`; actual ciṇ, sic/ciṇvat and 2pl dh histories remain typed. Two morphology adapters/37 interfaces.
+
+PG521–677 cumulative: 54 finite positions/113 readings; 2,234 nominal positions/2,528 readings; 253 morphology/1,511 interfaces; 122 compound/583 plans; 13 accent/57 records; 148 semantics/433 records; 109 syntax/301 records; 39 source-policy decisions after PG555−1; 275 observations. Absolute census 51,873 finite; 8,012 nominal/9,271 readings. One provenance correction/one proof addendum; no census correction.
+
+Selected active and selected passive nested-gam ten-lakāra layers are locally CLOSED. Broader caṅ, additional karmans, lexical/semantic/accent/attestation/automatic-recognition and wider native/global gates remain Open. Claude owns execution/generators/old suites/replay; PG335 and PG357–PG363 remain preserved.
+
+The exact publication is the containing commit; existing review branch only, nonforce. No elapsed-hours, ETA or complete-Sanskrit claim.
+
+
 ## PG676 · Nested gam passive perfect policy completion
 
 Previous publication: b7775b10d3b00720648da3530dedeb10dd6029b4; tree 445eb2a71e61d762afacc3a8b41ca4fde9b4a9a8. Necessary check: Python 3.12.14, 137 assertions, one attempt.

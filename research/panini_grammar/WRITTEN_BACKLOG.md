@@ -1,6 +1,8 @@
-# Written-development backlog at PG676
+# Written-development backlog at PG677
 
-Monty · 2026-11-24 · reviewed current parent b7775b10d3b00720648da3530dedeb10dd6029b4; historical closures below retain their exact original pins.
+Monty · 2026-11-24 · reviewed current parent 5822c60fe4294be7bb11af7412dcba3a7b2ac14a; historical closures below retain their exact original pins.
+
+PG677 closes [selected nested-gam passive āśīrliṅ/luṅ](nested_gam_passive_blessing_aorist_completion/README.md): 18 positions/37 readings, two morphology adapters/37 interfaces. H2-lopa exposes inherited `gamay`, not bare `gam`; luṅ 3sg uses actual ciṇ, and O alone owns 2pl dh/ḍh. The selected passive ten-lakāra layer is locally CLOSED. Broader caṅ, additional karmans and wider gates remain Open. Census 51,873 finite; 8,012 nominal/9,271 readings.
 
 PG676 closes [selected nested-gam passive liṭ](nested_gam_passive_perfect_policy_completion/README.md): nine new positions/49 readings/65 policy paths. Primary `gamayām` preserves H1/H2 ownership; passive Y-agreement gives kṛ/bhū/as Ā. H/I/S remain correlated policies, not free per-cell toggles. Passive luṅ/āśīrliṅ and wider obligations remain Open. Census 51,855 finite; 8,012 nominal/9,271 readings.
 
