@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG677
+# Pāṇini grammar · current written coverage at PG678
+
+PG678: [Atharvaveda sam–gam tmesis and PG672 witness-scope correction](atharvaveda_sam_gam_tmesis_and_pg672_scope_correction/README.md). AVŚ 6.74.1 and its pada segmentation positively order `sam < vaḥ < ajīgamat`: the caṅ factor remains valid, but the verse is not an independent null-preverb clause witness. PG672's 18 interfaces and zero credits remain CLOSED. One syntax construction/four readouts, one source analysis/decision and one provenance correction; census unchanged at 51,873 finite and 8,012 nominal/9,271 readings.
 
 PG677: [Nested gam passive blessing and aorist completion](nested_gam_passive_blessing_aorist_completion/README.md). The inherited inner `gamay` blocks a bare-gam mit branch after H2-lopa. Āśīrliṅ adds 9 positions/19 readings; luṅ adds 9/18, with actual ciṇ 3sg and dependent 2pl dh/ḍh ownership. Two morphology adapters/37 interfaces. The selected passive ten-lakāra layer is locally CLOSED. Census 51,873 finite and 8,012 nominal/9,271 readings.
 

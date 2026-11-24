@@ -1,6 +1,8 @@
-# Written-development backlog at PG677
+# Written-development backlog at PG678
 
-Monty · 2026-11-24 · reviewed current parent 5822c60fe4294be7bb11af7412dcba3a7b2ac14a; historical closures below retain their exact original pins.
+Monty · 2026-11-24 · reviewed current parent 2ee707a1ae94e1ea12f5d1024ded61a8e8b3df65; historical closures below retain their exact original pins.
+
+PG678 closes the exact AVŚ 6.74.1 [separated sam–gam witness scope](atharvaveda_sam_gam_tmesis_and_pg672_scope_correction/README.md). `sam < vaḥ < ajīgamat` is a typed Vedic tmesis history: PG672's caṅ factor and 18 closed interfaces remain valid, but the verse is not an independent null-preverb request witness. One syntax construction/four readouts, one source-analysis record/decision and one provenance correction; zero census change. Joined `samajīgamat`, wider preverbs/caṅ/karmans and global gates remain Open. Census 51,873 finite; 8,012 nominal/9,271 readings.
 
 PG677 closes [selected nested-gam passive āśīrliṅ/luṅ](nested_gam_passive_blessing_aorist_completion/README.md): 18 positions/37 readings, two morphology adapters/37 interfaces. H2-lopa exposes inherited `gamay`, not bare `gam`; luṅ 3sg uses actual ciṇ, and O alone owns 2pl dh/ḍh. The selected passive ten-lakāra layer is locally CLOSED. Broader caṅ, additional karmans and wider gates remain Open. Census 51,873 finite; 8,012 nominal/9,271 readings.
 

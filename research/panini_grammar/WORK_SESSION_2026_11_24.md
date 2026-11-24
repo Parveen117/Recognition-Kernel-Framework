@@ -3,6 +3,15 @@
 Monty. Dates follow Asia/Kolkata.
 
 
+## PG678 · Atharvaveda sam–gam tmesis and PG672 witness-scope correction
+
+PG678: [source-order packet](atharvaveda_sam_gam_tmesis_and_pg672_scope_correction/README.md). AVŚ 6.74.1 and its pada segmentation positively give `sam < vaḥ < ajīgamat`. PG672's `ajīgamat` remains a gam-caṅ factor control, but the verse no longer counts as a direct null-preverb clause witness. Frozen PG672 files and all 18 interfaces remain intact; no census correction is needed.
+
+New work: zero finite/nominal positions/readings; zero morphology; one syntax construction/four readouts; one source-analysis record; one source-policy decision; one provenance correction. PG521–678 cumulative: 54 finite positions/113 readings; 2,234 nominal positions/2,528 readings; 253 morphology constructions/1,511 interfaces; 122 compound constructions/583 plans; 13 accent constructions/57 records; 148 semantic constructions/433 records; 110 syntax constructions/305 records; 40 source-policy decisions after PG555−1; 275 observations; two provenance corrections/one proof addendum; no new census correction.
+
+Exact separated witness scope is locally CLOSED. Joined `samajīgamat`, exact Vedic accent dependency, broader caṅ/preverbs, additional karmans and C2–C5/S1–S7/native/global work remain Open. Claude execution separate; PG335 and PG357–363 CLOSED preserved. The exact publication is the containing commit.
+
+
 ## PG677 · Nested gam passive blessing and aorist completion
 
 Previous publication: 5822c60fe4294be7bb11af7412dcba3a7b2ac14a; tree e584ce5f43099a892f77abd7e79f4d067652394a. Necessary check: Python 3.12.14, 155 assertions, one attempt.
