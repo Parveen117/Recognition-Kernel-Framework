@@ -1,6 +1,8 @@
-# Written-development backlog at PG726
+# Written-development backlog at PG727
 
-Monty · 2026-11-24 · reviewed current parent f9f12c162ce484bfb33bd0f50563a4897b385b3c. Historical closures below retain their exact pins.
+Monty · 2026-11-24 · reviewed current parent aae0ce4ee06ad6ec05fbb7ee9f506c2637df04ac. Historical closures below retain their exact pins.
+
+PG727 · [Quoted belief, habitual acts and two feminine affix routes](belief_habit_feminine_and_mallinatha_readings/README.md). Selected 4.4.60–62 case fibres, the named 4.4.57 Bhāṣāvṛtti addition, and the two long 4.4.59 feminines are locally CLOSED. The original Bhāṣāvṛtti short female glyph, the primary transmission of Māgha's alternate lexical readings and the remaining qualified chattrādi members retain their own work. Follow the separate Kāśikā and Vasu lists, then 4.4.63–65. Wider C2–C5/S1–S7 and Claude execution retain their obligations.
 
 PG726 · [Craft, implement suffixes and Bhaṭṭi’s short readings](craft_and_implement_affix_and_bhatti_policies/README.md). Selected 4.4.55–59 case fibres and the 1928 printed short vowel and lexical-head collation are locally CLOSED. The print basis for the extra Mahābhāṣya craft examples, exact primary paiṭharika interpretation, and authority and derivation for the two short Bhaṭṭi spellings outside their actual compound addresses remain Open. 4.4.60–62 belief, habit and the qualified chattrādi roster require construction. Wider C2–C5/S1–S7 and Claude execution retain their obligations.
 

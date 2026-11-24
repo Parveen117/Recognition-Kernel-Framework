@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG726
+# Pāṇini grammar · current written coverage at PG727
+
+PG727 · [Quoted belief, habitual acts and two feminine affix routes](belief_habit_feminine_and_mallinatha_readings/README.md). Writes the named belief and habit cases, including the marked habitual ṇa exception and the direct feminine īkak list. The fate reading of Māgha 2.86 and the rival naiṣṭhikatā reading keep distinct witness histories. Census 52,341 finite positions and 13,405 nominal positions with 15,413 nominal readings.
 
 PG726 · [Craft, implement suffixes and Bhaṭṭi’s short readings](craft_and_implement_affix_and_bhatti_policies/README.md). Derives fourteen case fibres for 4.4.55–59. The two craft affixes and the two homophonous paraśvadha histories keep their own conditions. Direct collation identifies a short śakti form in the verse and a short yaṣṭi form in the printed commentary. Census 52,341 finite positions and 12,925 nominal positions with 14,893 nominal readings.
 

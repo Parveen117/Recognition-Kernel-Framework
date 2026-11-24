@@ -1,0 +1,61 @@
+{
+  "schema": "rkf.panini.pg727.state.v1",
+  "author": "Monty",
+  "date": "2026-11-24",
+  "publication_parent": "aae0ce4ee06ad6ec05fbb7ee9f506c2637df04ac",
+  "baseline": {
+    "commit": "aae0ce4ee06ad6ec05fbb7ee9f506c2637df04ac",
+    "path": "research/panini_grammar/craft_and_implement_affix_and_bhatti_policies/STATE.json"
+  },
+  "finite_positions": 52341,
+  "nominal_positions": 13405,
+  "nominal_readings": 15413,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 480,
+  "new_nominal_readings": 520,
+  "new_positions": 480,
+  "new_position_readings": 520,
+  "new_morphology_constructions": 1,
+  "new_morphology_interfaces": 25,
+  "new_compound_constructions": 0,
+  "new_compound_plans": 0,
+  "new_semantic_constructions": 1,
+  "new_semantic_readouts": 8,
+  "new_accent_constructions": 0,
+  "new_accent_readouts": 0,
+  "new_phonological_constructions": 1,
+  "new_phonological_readouts": 5,
+  "new_syntactic_constructions": 1,
+  "new_syntactic_readouts": 10,
+  "new_nonfinite_constructions": 0,
+  "new_nonfinite_readouts": 0,
+  "new_source_observations": 19,
+  "new_source_policy_decisions": 15,
+  "direct_multiple_affix_fields": 99,
+  "open_fields": 4,
+  "local_closure": "CLOSED for the twenty specified nominal case fibres and the localized cross-source decisions, including the direct Kāśikā long feminine forms. Source print and the remaining group work are Open.",
+  "open_obligations": [
+    "Exact scanned glyphs at the 1933 Māgha edition on 2.86, editorial history of naiṣṭhikatām versus daiṣṭikatām, and a separate semantic/lexical derivation of the naiṣṭhika abstract.",
+    "Exact printed Bhāṣāvṛtti at its short feminine yāṣṭikī and a licensed history at that specific quantity. PG726's two short compound readings have independent addresses.",
+    "Unconstructed chattrādi heads, named prefixed sthā cases, the additional list transmitted under Vasu and the open qualified list-lineage decisions.",
+    "Additional clear gender and pitch documentation, remaining 4.4.63–65 constructions, wider C2–C5/S1–S7 and the execution register retained by Claude."
+  ],
+  "authorization": {
+    "completion_status": "OPEN wider gates",
+    "PG335": "-9 finite/-12 readings preserved",
+    "PG357_PG363": "CLOSED preserved",
+    "continuous_executed_hours_claimed": false
+  },
+  "runtime_policy": {
+    "python": "3.12 only",
+    "document_check_status": "PASS",
+    "document_check_attempts": 2,
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "old_suites": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE",
+    "document_check_retry_reason": "Removed an inherited lookup for the absent accent table after the first documentary check stopped before writing any files."
+  },
+  "grammar_executions": []
+}

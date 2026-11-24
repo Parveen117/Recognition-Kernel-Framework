@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG727 · [Quoted belief, habitual acts and two feminine affix routes](research/panini_grammar/belief_habit_feminine_and_mallinatha_readings/README.md). Typed quotations and semantic conditions lift separately from lexical affixes and gender. The written PG14 proof preserves named meanings, both student spellings, the two feminine scope extensions and the incompatible Māgha witness branches.
+
 PG726 · [Craft, implement suffixes and Bhaṭṭi’s short readings](research/panini_grammar/craft_and_implement_affix_and_bhatti_policies/README.md). Fourteen nominal case fibres, with independent craft licensing, affix/phonology schedules and witness-specific compound histories. The PG14 cut-path lift specializes to the source-qualified relation, preserving homophonous morphology and short compound forms.
 
 PG725 · [Merchandise, salt and the aromatic suffixes](research/panini_grammar/merchandise_salt_and_aromatic_affix_variants/README.md). The 720 nominal positions and 835 readings distinguish the scope of the default, salt exception and aromatic gaṇa. The owned first-vowel grades, two feminine affix routes and source accent records commute with typed PG14 specialization.

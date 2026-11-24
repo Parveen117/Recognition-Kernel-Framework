@@ -2,6 +2,16 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG727 · Quoted belief, habitual acts and two feminine affix routes
+
+PG727 · [Quoted belief, habitual acts and two feminine affix routes](belief_habit_feminine_and_mallinatha_readings/README.md). Writes the named belief and habit cases, including the marked habitual ṇa exception and the direct feminine īkak list. The fate reading of Māgha 2.86 and the rival naiṣṭhikatā reading keep distinct witness histories. Census 52,341 finite positions and 13,405 nominal positions with 15,413 nominal readings.
+
+Finite increments 0 positions/0 readings. Nominal increments 480 positions/520 readings. One morphology construction/25 interfaces, one syntax construction/10 readouts, one semantic construction/8 readouts and one junction construction/5 readouts. 19 source observations and 15 source-policy decisions. Publication parent aae0ce4ee06ad6ec05fbb7ee9f506c2637df04ac. The containing commit pins the documents and evidence.
+
+PG521–727 cumulative: 522 finite positions/1,440 net finite readings, 7,627 nominal positions/8,670 readings, 301 morphology constructions/3,173 interfaces, 136 compound constructions/621 plans, 34 accent constructions/137 records, 159 semantics constructions/489 records, 148 syntax constructions/565 records, 289 source-policy decisions after PG555−1 and 659 observations. Thirty-one junction constructions/101 readouts since PG680 and 22 nonfinite constructions/28 paths since PG700. PG335 and PG357–363 CLOSED results are preserved.
+
+Selected 4.4.60–62 case fibres, the named 4.4.57 Bhāṣāvṛtti addition, and the two long 4.4.59 feminines are locally CLOSED. The original Bhāṣāvṛtti short female glyph, the primary transmission of Māgha's alternate lexical readings and the remaining qualified chattrādi members retain their own work. Follow the separate Kāśikā and Vasu lists, then 4.4.63–65. Wider C2–C5/S1–S7 and Claude execution retain their obligations.
+
 ## PG726 · Craft, implement suffixes and Bhaṭṭi’s short readings
 
 PG726 · [Craft, implement suffixes and Bhaṭṭi’s short readings](craft_and_implement_affix_and_bhatti_policies/README.md). Derives fourteen case fibres for 4.4.55–59. The two craft affixes and the two homophonous paraśvadha histories keep their own conditions. Direct collation identifies a short śakti form in the verse and a short yaṣṭi form in the printed commentary. Census 52,341 finite positions and 12,925 nominal positions with 14,893 nominal readings.
