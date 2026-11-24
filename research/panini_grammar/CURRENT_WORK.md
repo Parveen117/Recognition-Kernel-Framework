@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG773
+# Pāṇini grammar · current written coverage at PG774
+
+PG774 · [The extent of a wingspan and a chain of counsellors](extent_of_a_wingspan_and_a_chain_of_counsellors/README.md). Writes 5.2.7–11 and identifies the literary wingspan and the independent counsellor-chain quotation. Census: 52,347 finite positions, 21,123 nominal positions and 23,895 nominal readings.
 
 PG773 · [Crop fields, the scope of “entirely,” and what a mirror shows](fields_for_specific_crops_and_two_markers_on_a_leather_object/README.md). Builds 5.2.1–6 with two complete neuter crop-field panels and separate accounts of whole leather objects and mirror reflections. Census: 52,347 finite positions, 21,103 nominal positions and 23,875 nominal readings.
 

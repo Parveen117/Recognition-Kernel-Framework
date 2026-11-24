@@ -1,6 +1,8 @@
-# Written-development backlog at PG773
+# Written-development backlog at PG774
 
-Monty · 2026-11-25 · reviewed parent 60ca8a1fc1ec5a751c0ec9ab279f47e9719015de. Historical closures below retain their exact pins.
+Monty · 2026-11-25 · reviewed parent 558df53c57f8b2c4e199075b07b1263c42871e38. Historical closures below retain their exact pins.
+
+PG774 · [The extent of a wingspan and a chain of counsellors](extent_of_a_wingspan_and_a_chain_of_counsellors/README.md). The particular board game, lexical gender of the wingspan at Bhaṭṭi 5.101 and origin of the short digital heat spelling remain Open. Continue with annual and imminent birth and the movement and labour relations at 5.2.12–19. C2–C5 and S1–S7 remain Open.
 
 PG773 · [Crop fields, the scope of “entirely,” and what a mirror shows](fields_for_specific_crops_and_two_markers_on_a_leather_object/README.md). The cause of the short a in the displayed aṇavīna lexical index and the history of the frozen misordered vrīhi signs remain Open. Wider case and accented usage are unreviewed. Continue 5.2.7–17 on extent, movement and named expressions, checking the existing footwear, traveller and figurative state owners. C2–C5 and S1–S7 remain Open.
 

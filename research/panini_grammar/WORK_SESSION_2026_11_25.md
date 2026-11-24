@@ -2,6 +2,12 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG774 · The extent of a wingspan and a chain of counsellors
+
+PG774 · [The extent of a wingspan and a chain of counsellors](extent_of_a_wingspan_and_a_chain_of_counsellors/README.md). Writes 5.2.7–11 and identifies the literary wingspan and the independent counsellor-chain quotation. 20 new nominal positions and 20 readings. Finite positions and readings both increased by zero. One written morphology construction with 19 interfaces, 12 source observations and 6 source decisions. Census: 52,347 finite positions, 21,123 nominal positions and 23,895 nominal readings.
+
+Parent 558df53c57f8b2c4e199075b07b1263c42871e38. The containing commit pins this packet. The particular board game, lexical gender of the wingspan at Bhaṭṭi 5.101 and origin of the short digital heat spelling remain Open. Continue with annual and imminent birth and the movement and labour relations at 5.2.12–19. C2–C5 and S1–S7 remain Open. Claude retains execution.
+
 ## PG773 · Crop fields, the scope of “entirely,” and what a mirror shows
 
 PG773 · [Crop fields, the scope of “entirely,” and what a mirror shows](fields_for_specific_crops_and_two_markers_on_a_leather_object/README.md). Builds 5.2.1–6 with two complete neuter crop-field panels and separate accounts of whole leather objects and mirror reflections. 63 new nominal positions and 119 readings. Finite positions and readings both increased by zero. One written morphology construction with 14 interfaces, 11 source observations and 5 source decisions. Census: 52,347 finite positions, 21,103 nominal positions and 23,875 nominal readings.
@@ -40,7 +46,7 @@ The starting census at [PG746](https://github.com/Parveen117/Recognition-Kernel-
 | PG770 | [55e75a781e9de41a408b4721a628b8aeeadd482a](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/55e75a781e9de41a408b4721a628b8aeeadd482a) | 0 | 0 | 43 | 43 | 1 | 21 | 17 | 6 | — |
 | PG771 | [8b80a9224a1dfb98439f33459671dfd28fedcf5f](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/8b80a9224a1dfb98439f33459671dfd28fedcf5f) | 0 | 0 | 54 | 54 | 1 | 16 | 14 | 6 | — |
 | PG772 | [60ca8a1fc1ec5a751c0ec9ab279f47e9719015de](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/60ca8a1fc1ec5a751c0ec9ab279f47e9719015de) | 2 | 2 | 2 | 2 | 1 | 8 | 10 | 6 | 1 syntax constructions, 3 syntax readouts |
-| PG773 | Containing commit | 0 | 0 | 63 | 119 | 1 | 14 | 11 | 5 | — |
+| PG773 | [558df53c57f8b2c4e199075b07b1263c42871e38](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/558df53c57f8b2c4e199075b07b1263c42871e38) | 0 | 0 | 63 | 119 | 1 | 14 | 11 | 5 | — |
 
 Through PG773 the census is 52,347 finite positions, 21,103 nominal positions and 23,875 nominal readings. The PG335 correction is carried through the baseline. Protected registers contribute no new units here.
 

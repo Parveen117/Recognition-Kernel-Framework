@@ -1,0 +1,332 @@
+{
+  "stage": "PG774",
+  "morphology_interfaces": [
+    {
+      "id": "ROAD",
+      "base": "sarva plus pathin",
+      "guard": "whole road occupied",
+      "affix": "kha after compound-final a",
+      "result": "sarvapathīna"
+    },
+    {
+      "id": "BODY",
+      "base": "sarva plus aṅga",
+      "guard": "whole body affected",
+      "affix": "kha",
+      "result": "sarvāṅgīṇa"
+    },
+    {
+      "id": "WORK",
+      "base": "sarva plus karman",
+      "guard": "all tasks",
+      "affix": "kha",
+      "result": "sarvakarmīṇa"
+    },
+    {
+      "id": "VEH",
+      "base": "sarva plus patra",
+      "guard": "charioteer example",
+      "affix": "kha",
+      "result": "sarvapatrīṇa"
+    },
+    {
+      "id": "DISH",
+      "base": "sarva plus pātra",
+      "guard": "entire vessel filled",
+      "affix": "kha",
+      "result": "sarvapātrīṇa"
+    },
+    {
+      "id": "END",
+      "base": "āṅ plus prapada",
+      "guard": "length capable of reaching boundary",
+      "affix": "kha on indeclinable compound",
+      "result": "āprapadīna"
+    },
+    {
+      "id": "FIT",
+      "base": "anu plus pada",
+      "guard": "bound to the foot measure",
+      "affix": "kha and feminine ā",
+      "result": "anupadīnā"
+    },
+    {
+      "id": "MEAL",
+      "base": "sarva plus anna",
+      "guard": "eats the food",
+      "affix": "kha",
+      "result": "sarvānnīna"
+    },
+    {
+      "id": "GAME",
+      "base": "ayanaya",
+      "guard": "destination to which the piece should be taken",
+      "affix": "kha",
+      "result": "ayanayīna"
+    },
+    {
+      "id": "LEVEL1",
+      "base": "para and avara",
+      "guard": "higher and lower experienced",
+      "affix": "avara-initial u with kha",
+      "result": "parovarīṇa"
+    },
+    {
+      "id": "LEVEL2",
+      "base": "same two members",
+      "guard": "alternative reported by Tattva",
+      "affix": "para-final o with kha and pūrvarūpa",
+      "result": "parovarīṇa"
+    },
+    {
+      "id": "SERIES",
+      "base": "para and paratara",
+      "guard": "successive orders experienced",
+      "affix": "stipulated parampara with kha",
+      "result": "paramparīṇa"
+    },
+    {
+      "id": "FAMILY",
+      "base": "putra and pautra",
+      "guard": "descendants experienced",
+      "affix": "kha",
+      "result": "putrapautrīṇa"
+    },
+    {
+      "id": "LEX",
+      "base": "mantrin and lexical paramparā",
+      "guard": "a chain of advisers",
+      "affix": "compound, independent feminine final member",
+      "result": "mantriparamparā"
+    },
+    {
+      "id": "BANK",
+      "base": "avāra plus pāra",
+      "guard": "future travel over both",
+      "affix": "kha",
+      "result": "avārapārīṇa"
+    },
+    {
+      "id": "ONE",
+      "base": "avāra or pāra",
+      "guard": "one separate destination",
+      "affix": "kha by supplement",
+      "result": "avārīṇa or pārīṇa"
+    },
+    {
+      "id": "REVERSE",
+      "base": "pāra plus avāra",
+      "guard": "reversed pair of shores",
+      "affix": "kha by supplement",
+      "result": "pārāvārīṇa"
+    },
+    {
+      "id": "EXTREME",
+      "base": "atyanta",
+      "guard": "intensity of future travel",
+      "affix": "kha",
+      "result": "atyantīna"
+    },
+    {
+      "id": "WILL",
+      "base": "anukāma",
+      "guard": "as one wishes to travel",
+      "affix": "kha",
+      "result": "anukāmīna"
+    }
+  ],
+  "nominal_positions": [
+    {
+      "id": "ROAD",
+      "source": "K7",
+      "input_history": "ROAD",
+      "case_number": "M NOMsg",
+      "word": "sarvapathīnaḥ",
+      "interpretation": "Chariot occupying the road."
+    },
+    {
+      "id": "BIRD",
+      "source": "BK",
+      "input_history": "ROAD",
+      "case_number": "M/N ACCsg",
+      "word": "sarvapathīnam",
+      "interpretation": "Object adjective of vitānam under dhunvan. One accusative token. Gender unresolved within the compatible pair."
+    },
+    {
+      "id": "LIMBS",
+      "source": "K7",
+      "input_history": "BODY",
+      "case_number": "M NOMsg",
+      "word": "sarvāṅgīṇaḥ",
+      "interpretation": "Heat throughout the body."
+    },
+    {
+      "id": "WORK",
+      "source": "K7",
+      "input_history": "WORK",
+      "case_number": "M NOMsg",
+      "word": "sarvakarmīṇaḥ",
+      "interpretation": "Man whose reach covers all the tasks."
+    },
+    {
+      "id": "VEH",
+      "source": "K7",
+      "input_history": "VEH",
+      "case_number": "M NOMsg",
+      "word": "sarvapatrīṇaḥ",
+      "interpretation": "The grammarian’s charioteer."
+    },
+    {
+      "id": "BOWL",
+      "source": "K7",
+      "input_history": "DISH",
+      "case_number": "M NOMsg",
+      "word": "sarvapātrīṇaḥ",
+      "interpretation": "Cooked rice filling the vessel."
+    },
+    {
+      "id": "CLOTH",
+      "source": "K8",
+      "input_history": "END",
+      "case_number": "M NOMsg",
+      "word": "āprapadīnaḥ",
+      "interpretation": "Cloth measured as capable of reaching the forefoot."
+    },
+    {
+      "id": "SHOE",
+      "source": "K9",
+      "input_history": "FIT",
+      "case_number": "F NOMsg",
+      "word": "anupadīnā",
+      "interpretation": "Footwear made to the dimensions of the foot."
+    },
+    {
+      "id": "MEND",
+      "source": "K9",
+      "input_history": "MEAL",
+      "case_number": "M NOMsg",
+      "word": "sarvānnīnaḥ",
+      "interpretation": "Mendicant who eats all kinds of food."
+    },
+    {
+      "id": "PIECE",
+      "source": "K9",
+      "input_history": "GAME",
+      "case_number": "M NOMsg",
+      "word": "ayanayīnaḥ",
+      "interpretation": "Piece to be moved to its specified board position."
+    },
+    {
+      "id": "LEVEL",
+      "source": "K10",
+      "input_history": "LEVEL1/LEVEL2",
+      "case_number": "M NOMsg",
+      "word": "parovarīṇaḥ",
+      "interpretation": "Higher and lower as objects experienced. Two accounts of the inner vowel give the same word."
+    },
+    {
+      "id": "SUCCESS",
+      "source": "K10",
+      "input_history": "SERIES",
+      "case_number": "M NOMsg",
+      "word": "paramparīṇaḥ",
+      "interpretation": "One who experiences successive higher orders."
+    },
+    {
+      "id": "DESC",
+      "source": "K10",
+      "input_history": "FAMILY",
+      "case_number": "M NOMsg",
+      "word": "putrapautrīṇaḥ",
+      "interpretation": "One who lives to see sons and grandsons."
+    },
+    {
+      "id": "MIN",
+      "source": "KAU",
+      "input_history": "LEX",
+      "case_number": "F NOMsg",
+      "word": "mantriparamparā",
+      "interpretation": "Series of counsellors as the personified subject that divulges the secret."
+    },
+    {
+      "id": "BOTH",
+      "source": "K11",
+      "input_history": "BANK",
+      "case_number": "M NOMsg",
+      "word": "avārapārīṇaḥ",
+      "interpretation": "Traveller going to near and far shores, with this constituent order."
+    },
+    {
+      "id": "SINGLE1",
+      "source": "K11",
+      "input_history": "ONE",
+      "case_number": "M NOMsg",
+      "word": "avārīṇaḥ",
+      "interpretation": "Traveller destined for the near shore."
+    },
+    {
+      "id": "SINGLE2",
+      "source": "K11",
+      "input_history": "ONE",
+      "case_number": "M NOMsg",
+      "word": "pārīṇaḥ",
+      "interpretation": "Traveller destined for the far shore."
+    },
+    {
+      "id": "REV",
+      "source": "K11",
+      "input_history": "REVERSE",
+      "case_number": "M NOMsg",
+      "word": "pārāvārīṇaḥ",
+      "interpretation": "Both shores in the reversed compound."
+    },
+    {
+      "id": "EXTR",
+      "source": "K11",
+      "input_history": "EXTREME",
+      "case_number": "M NOMsg",
+      "word": "atyantīnaḥ",
+      "interpretation": "One who will travel exceedingly."
+    },
+    {
+      "id": "WILL",
+      "source": "K11",
+      "input_history": "WILL",
+      "case_number": "M NOMsg",
+      "word": "anukāmīnaḥ",
+      "interpretation": "One who will go as he wishes."
+    }
+  ],
+  "source_policy_decisions": [
+    {
+      "id": "WING",
+      "sources": "K7,N7,BK,JAY,AP",
+      "decision": "The case follows from the participle. Record one position with unresolved lexical gender. PG720 retains the next verse."
+    },
+    {
+      "id": "READ",
+      "sources": "K7,N7",
+      "decision": "Retain the Puṣpā-prati long ī readout. Preserve the short digital spelling in the apparatus with zero variant credit."
+    },
+    {
+      "id": "EXTENT",
+      "sources": "K7,K8",
+      "decision": "Separate full coverage from the capacity to reach a limit. A cloth may be measured off the body."
+    },
+    {
+      "id": "ORDER",
+      "sources": "K9,HE",
+      "decision": "Keep three ordered pairs. The local game-board description supplies no unique historical game identification."
+    },
+    {
+      "id": "INNER",
+      "sources": "K10,KAU,CH",
+      "decision": "Distinguish the two vowel histories, independent feminine series and Upaniṣadic comparative. Only the first pair gives the experience derivative."
+    },
+    {
+      "id": "GO",
+      "sources": "K11,HE",
+      "decision": "Separate destination, manner and intensity. The Haima list has its own yathākāma entry."
+    }
+  ]
+}
