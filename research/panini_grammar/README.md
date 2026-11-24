@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG742 · [Vedic locative existence, water cases and the three srotas choices](vedic_locative_cloud_water_and_stream_affixes/README.md). Constructs 30 attested Vedic nominal positions. Distinguishes ḍyaṇ from ḍhak river forms, quotes the actually attested forms of the Himavat and stream labels, and preserves three srotas histories. Census 52,345 finite positions and 20,215 nominal positions with 22,848 nominal readings.
+
 PG741 · [Travel, hospitality, the Vedic assembly and shared residence relations](eya_hospitality_vedic_assembly_and_shared_womb/README.md). Writes the named ḍhañ words and the contrasting guest-purpose ātithya. The Vedic verses and Brāhmaṇa explanations verify four source-qualified sabheya positions. Same teacher and same womb have separate rules, including the two precise sibling accent locations. Census 52,345 finite positions and 20,185 nominal positions with 22,818 nominal readings.
 
 PG740 · [The two suitability rosters and Haima’s ploughed-path forms](kathadi_gudadi_markers_and_haima_plough_paths/README.md). Writes the selected kathādi and guḍādi fibres with distinct ṭhak and ṭhañ markers, and derives the positively attested Vācaspatyam specialist. Haima gives seven ploughed-path profiles and an independent formation for four already written furrow forms. Census 52,345 finite positions and 19,966 nominal positions with 22,566 nominal readings.

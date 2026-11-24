@@ -1,6 +1,8 @@
-# Written-development backlog at PG741
+# Written-development backlog at PG742
 
-Monty · 2026-11-24 · reviewed current parent 68f0490c01616d63f112df7dc51d422f4b362be6. Historical closures below retain their exact pins.
+Monty · 2026-11-24 · reviewed current parent 2ac51bf2a2ea1a181bda95178f6cd9768ff3d2bd. Historical closures below retain their exact pins.
+
+PG742 · [Vedic locative existence, water cases and the three srotas choices](vedic_locative_cloud_water_and_stream_affixes/README.md). 4.4.110–113’s thirty exact Vedic addresses and the named marker/readout relations are locally CLOSED. The short ḍyat primary context, independent haimavatī DATpl witness, nasal mauñjavata and wider accent/text scope stay Open. PG737 pathya and PG741 pātheya retain their own credits. 4.4.114–118 and the subsequent Vedic relation register remain constructible. C2–C5/S1–S7 remain Open and Claude owns deferred execution.
 
 PG741 · [Travel, hospitality, the Vedic assembly and shared residence relations](eya_hospitality_vedic_assembly_and_shared_womb/README.md). 4.4.104–109’s selected ordinary panels and four attested Vedic assembly positions are locally CLOSED. PG574, PG737 and the two already addressed Vasu discrepancies retain their respective credits. The independently unresolved manuscript, root and Vedic recitation details are stated in the stage, together with the next 4.4.110–118 reserve. C2–C5/S1–S7 remain Open and Claude owns deferred execution.
 

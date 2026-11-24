@@ -2,6 +2,16 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG742 · Vedic locative existence, water cases and the three srotas choices
+
+PG742 · [Vedic locative existence, water cases and the three srotas choices](vedic_locative_cloud_water_and_stream_affixes/README.md). Constructs 30 attested Vedic nominal positions. Distinguishes ḍyaṇ from ḍhak river forms, quotes the actually attested forms of the Himavat and stream labels, and preserves three srotas histories. Census 52,345 finite positions and 20,215 nominal positions with 22,848 nominal readings.
+
+Zero new finite positions or readings. Thirty new Vedic nominal positions and thirty readings. One morphology construction with 15 interfaces, one compound construction with one plan, one accent construction with 11 records, one semantic construction with eight readouts, one syntax construction with eight readouts and one junction construction with ten readouts. Sixteen source observations and thirteen source-policy decisions. Publication parent 2ac51bf2a2ea1a181bda95178f6cd9768ff3d2bd. The containing commit pins the documents and evidence.
+
+PG521–742 cumulative adds 526 finite positions and 1,444 net finite readings, and 14,437 nominal positions with 16,105 readings. 316 morphology constructions with 3,599 interfaces, 148 compound constructions with 679 plans, 48 accent constructions with 198 records, 174 semantic constructions with 618 readouts, 163 syntax constructions with 714 readouts, and 492 source-policy decisions after PG555−1 with 942 observations. The PG680 onward junction total is 46 constructions with 236 readouts. PG700 onward nonfinite remains 22 constructions with 28 paths. PG335 and PG357–363 CLOSED results retain their exact histories.
+
+4.4.110–113’s thirty exact Vedic addresses and the named marker/readout relations are locally CLOSED. The short ḍyat primary context, independent haimavatī DATpl witness, nasal mauñjavata and wider accent/text scope stay Open. PG737 pathya and PG741 pātheya retain their own credits. 4.4.114–118 and the subsequent Vedic relation register remain constructible. C2–C5/S1–S7 remain Open and Claude owns deferred execution.
+
 ## PG741 · Travel, hospitality, the Vedic assembly and shared residence relations
 
 PG741 · [Travel, hospitality, the Vedic assembly and shared residence relations](eya_hospitality_vedic_assembly_and_shared_womb/README.md). Writes the named ḍhañ words and the contrasting guest-purpose ātithya. The Vedic verses and Brāhmaṇa explanations verify four source-qualified sabheya positions. Same teacher and same womb have separate rules, including the two precise sibling accent locations. Census 52,345 finite positions and 20,185 nominal positions with 22,818 nominal readings.

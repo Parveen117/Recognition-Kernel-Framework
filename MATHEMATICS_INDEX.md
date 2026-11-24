@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG742 · [Vedic locative existence, water cases and the three srotas choices](research/panini_grammar/vedic_locative_cloud_water_and_stream_affixes/README.md). The PG14 history lift retains ṭi ownership, affix accent priority and the source-qualified case readouts. Its augmentation commutes with eligibility, source conditioning and case realization.
+
 PG741 · [Travel, hospitality, the Vedic assembly and shared residence relations](research/panini_grammar/eya_hospitality_vedic_assembly_and_shared_womb/README.md). The PG14 lift retains separate recipient, Vedic-register, teacher and optional companion histories. Typed zero specialization commutes with the case and accent consumers on their declared grades.
 
 PG740 · [The two suitability rosters and Haima’s ploughed-path forms](research/panini_grammar/kathadi_gudadi_markers_and_haima_plough_paths/README.md). The PG14 lift retains kit versus ñit, conditioned ṭha payload, Vācaspatyam gender and the physical Haima paths through distinct typed case maps.
