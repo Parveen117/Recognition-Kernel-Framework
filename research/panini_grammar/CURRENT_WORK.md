@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG765
+# Pāṇini grammar · current written coverage at PG766
+
+PG766 · [Ritual purpose, the ascetic’s staff, and two senses of ākālika](ritual_purpose_staff_and_duration_of_study_interruption/README.md). Constructs 5.1.109–114 and distinguishes staff from bearer, rite from food, and instantaneous lightning from the next-day endpoint of an interruption of study. Census: 52,345 finite positions, 20,879 nominal positions and 23,595 nominal readings.
 
 PG765 · [Means, capability, and the time that has come for an offering](means_capability_and_time_arrived_for_an_offering/README.md). Constructs the means, capability and arrived-time domains of 5.1.98–108, with direct evidence for the bow's case, the seasonal fire-stick adjective and three ritual-portion cases. Census: 52,345 finite positions, 20,844 nominal positions and 23,559 nominal readings.
 

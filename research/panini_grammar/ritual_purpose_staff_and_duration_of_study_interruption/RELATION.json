@@ -1,0 +1,447 @@
+{
+  "stage": "PG766",
+  "morphology_interfaces": [
+    {
+      "id": "FEST",
+      "base": "indramaha, gaṅgāmaha or utsava",
+      "guard": "nominative base is purpose of the referent",
+      "affix": "ṭhañ",
+      "result": "aindramahika, gāṅgāmahika or autsavika"
+    },
+    {
+      "id": "MANTH",
+      "base": "viśākhā",
+      "guard": "the preparation mantha",
+      "affix": "aṇ",
+      "result": "vaiśākha"
+    },
+    {
+      "id": "STIR",
+      "base": "viśākhā",
+      "guard": "mantha read as stirring stick in Nyāsa",
+      "affix": "aṇ",
+      "result": "vaiśākha"
+    },
+    {
+      "id": "STAFF",
+      "base": "āṣāḍhā",
+      "guard": "the staff",
+      "affix": "aṇ",
+      "result": "āṣāḍha"
+    },
+    {
+      "id": "CARRY",
+      "base": "ajina and the aṇ-derived āṣāḍha, plus dhara",
+      "guard": "the disguised ascetic bears both",
+      "affix": "source-witnessed compound",
+      "result": "ajināṣāḍhadhara"
+    },
+    {
+      "id": "SUP",
+      "base": "cūḍā or śraddhā",
+      "guard": "named supplement on the purpose relation",
+      "affix": "aṇ",
+      "result": "cauḍa or śrāddha"
+    },
+    {
+      "id": "CH",
+      "base": "anupravacana, anuprayojana or utthāpana",
+      "guard": "listed purpose",
+      "affix": "cha",
+      "result": "anupravacanīya, anuprayojanīya or utthāpanīya"
+    },
+    {
+      "id": "PFX",
+      "base": "four compound-final action nouns based on viś, pūr, pat and ruh",
+      "guard": "prior lexical member and stipulated formation",
+      "affix": "cha",
+      "result": "specified purpose adjective"
+    },
+    {
+      "id": "RIT",
+      "base": "anupravacana",
+      "guard": "food or ceremonies connected with post-recitation rite",
+      "affix": "admitted form, source-specific referent and case",
+      "result": "anupravacanīya"
+    },
+    {
+      "id": "YAT",
+      "base": "svarga, yaśas, āyus, kāma or dhana",
+      "guard": "listed purpose",
+      "affix": "yat",
+      "result": "five cited purpose adjectives"
+    },
+    {
+      "id": "BEN",
+      "base": "āyuṣya or yaśasya",
+      "guard": "food or eating and desired benefit in Manu",
+      "affix": "textual use and benefit paraphrase",
+      "result": "āyuṣya or yaśasya"
+    },
+    {
+      "id": "LUK",
+      "base": "three named recitation actions",
+      "guard": "given purpose",
+      "affix": "prescribed luk",
+      "result": "base-shaped action noun"
+    },
+    {
+      "id": "END",
+      "base": "specified member and samāpana",
+      "guard": "preceding pada denotes subject completed",
+      "affix": "cha",
+      "result": "compound in -samāpanīya"
+    },
+    {
+      "id": "LEX",
+      "base": "ekāgāra",
+      "guard": "thief exclusively",
+      "affix": "ṭhañ with specified ṭ behaviour and feminine ṅīp",
+      "result": "aikāgārika or aikāgārikī"
+    },
+    {
+      "id": "LEX2",
+      "base": "ekāgāra",
+      "guard": "alternative account, same thief",
+      "affix": "ikaṭ with stipulated strengthening",
+      "result": "aikāgārika or aikāgārikī"
+    },
+    {
+      "id": "INSTANT",
+      "base": "samānakāla",
+      "guard": "onset and ending together",
+      "affix": "substitution ākāla and stipulated ikaṭ",
+      "result": "ākālika, feminine ākālikī"
+    },
+    {
+      "id": "ALT",
+      "base": "ākāla",
+      "guard": "the supplementary account",
+      "affix": "ṭhan and ṭhañ kept as separate histories",
+      "result": "ākālikā in the illustrated supplementary reading"
+    },
+    {
+      "id": "UNSEASON",
+      "base": "akāla",
+      "guard": "arising out of season, attributed alternative",
+      "affix": "ṭhak in bhava sense",
+      "result": "ākālikī"
+    },
+    {
+      "id": "BREAK",
+      "base": "ākālika",
+      "guard": "interruption of study measured until the next corresponding time",
+      "affix": "independent temporal interpretation",
+      "result": "ākālika"
+    }
+  ],
+  "nominal_positions": [
+    {
+      "id": "F1",
+      "source": "K109",
+      "input_history": "FEST",
+      "case_number": "N NOMsg",
+      "word": "aindramahikam",
+      "interpretation": "Purpose is the Indra festival."
+    },
+    {
+      "id": "F2",
+      "source": "K109",
+      "input_history": "FEST",
+      "case_number": "N NOMsg",
+      "word": "gāṅgāmahikam",
+      "interpretation": "Purpose is the Gaṅgā festival."
+    },
+    {
+      "id": "MAN",
+      "source": "K110",
+      "input_history": "MANTH/STIR",
+      "case_number": "M NOMsg",
+      "word": "vaiśākhaḥ",
+      "interpretation": "Mantha linked to Viśākhā with both Nyāsa senses preserved."
+    },
+    {
+      "id": "ROD",
+      "source": "K110",
+      "input_history": "STAFF",
+      "case_number": "M NOMsg",
+      "word": "āṣāḍhaḥ",
+      "interpretation": "The staff under the second ordered pairing."
+    },
+    {
+      "id": "CARRY",
+      "source": "KUM",
+      "input_history": "CARRY",
+      "case_number": "M NOMsg",
+      "word": "ajināṣāḍhadharaḥ",
+      "interpretation": "Complete bearer compound in the poem, with its inner word explained by the commentator."
+    },
+    {
+      "id": "TON",
+      "source": "K110",
+      "input_history": "SUP",
+      "case_number": "N NOMsg",
+      "word": "cauḍam",
+      "interpretation": "Cūḍā as purpose."
+    },
+    {
+      "id": "FAITH",
+      "source": "K110",
+      "input_history": "SUP",
+      "case_number": "N NOMsg",
+      "word": "śrāddham",
+      "interpretation": "Śraddhā as purpose."
+    },
+    {
+      "id": "V1",
+      "source": "K111",
+      "input_history": "CH",
+      "case_number": "N NOMsg",
+      "word": "anupravacanīyam",
+      "interpretation": "Grammatical citation form."
+    },
+    {
+      "id": "V2",
+      "source": "BV",
+      "input_history": "CH",
+      "case_number": "N NOMsg",
+      "word": "utthāpanīyam",
+      "interpretation": "Positive Bhāṣāvṛtti spelling. The frozen witness with an extra t receives documentary credit only."
+    },
+    {
+      "id": "EX",
+      "source": "BV",
+      "input_history": "CH",
+      "case_number": "N NOMsg",
+      "word": "anuprayojanīyam",
+      "interpretation": "Second explicitly cited Bhāṣāvṛtti purpose example."
+    },
+    {
+      "id": "UT",
+      "source": "BV",
+      "input_history": "FEST",
+      "case_number": "N NOMsg",
+      "word": "autsavikam",
+      "interpretation": "Festival as purpose in this separate commentary."
+    },
+    {
+      "id": "V3",
+      "source": "K111",
+      "input_history": "PFX",
+      "case_number": "N NOMsg",
+      "word": "gṛhapraveśanīyam",
+      "interpretation": "Entering a house as purpose."
+    },
+    {
+      "id": "V4",
+      "source": "K111",
+      "input_history": "PFX",
+      "case_number": "N NOMsg",
+      "word": "prapāpūraṇīyam",
+      "interpretation": "Filling the water station as purpose."
+    },
+    {
+      "id": "V5",
+      "source": "K111",
+      "input_history": "PFX",
+      "case_number": "N NOMsg",
+      "word": "aśvaprapatanīyam",
+      "interpretation": "The specified compound ending with the pat-derived action noun."
+    },
+    {
+      "id": "V6",
+      "source": "K111",
+      "input_history": "PFX",
+      "case_number": "N NOMsg",
+      "word": "prāsādārohaṇīyam",
+      "interpretation": "Ascending a palace as purpose."
+    },
+    {
+      "id": "FOOD",
+      "source": "ASV",
+      "input_history": "RIT",
+      "case_number": "ACCsg",
+      "word": "anupravacanīyam",
+      "interpretation": "Begged and subsequently cooked food. Case established; the bare request independently leaves gender unspecified."
+    },
+    {
+      "id": "RITES",
+      "source": "GOB",
+      "input_history": "RIT",
+      "case_number": "LOCpl",
+      "word": "anupravacanīyeṣu",
+      "interpretation": "Post-recitation ceremonies. Locative plural is unambiguous even with an unexpressed head."
+    },
+    {
+      "id": "SV",
+      "source": "K111",
+      "input_history": "YAT",
+      "case_number": "N NOMsg",
+      "word": "svargyam",
+      "interpretation": "Heaven as purpose."
+    },
+    {
+      "id": "YAS",
+      "source": "K111",
+      "input_history": "YAT",
+      "case_number": "N NOMsg",
+      "word": "yaśasyam",
+      "interpretation": "Fame as purpose."
+    },
+    {
+      "id": "AYU",
+      "source": "K111",
+      "input_history": "YAT",
+      "case_number": "N NOMsg",
+      "word": "āyuṣyam",
+      "interpretation": "Life as purpose."
+    },
+    {
+      "id": "KAM",
+      "source": "K111",
+      "input_history": "YAT",
+      "case_number": "N NOMsg",
+      "word": "kāmyam",
+      "interpretation": "Desire as purpose."
+    },
+    {
+      "id": "DHA",
+      "source": "K111",
+      "input_history": "YAT",
+      "case_number": "N NOMsg",
+      "word": "dhanyam",
+      "interpretation": "Wealth as purpose."
+    },
+    {
+      "id": "YASM",
+      "source": "MAN2",
+      "input_history": "BEN",
+      "case_number": "N ACCsg",
+      "word": "yaśasyam",
+      "interpretation": "Fame-oriented eating in the verse."
+    },
+    {
+      "id": "AYUM",
+      "source": "MAN2",
+      "input_history": "BEN",
+      "case_number": "N ACCsg",
+      "word": "āyuṣyam",
+      "interpretation": "Life-oriented eating, glossed with hita by the commentator."
+    },
+    {
+      "id": "G1",
+      "source": "K111",
+      "input_history": "LUK",
+      "case_number": "N NOMsg",
+      "word": "puṇyāhavācanam",
+      "interpretation": "Purpose path with elided suffix."
+    },
+    {
+      "id": "G2",
+      "source": "K111",
+      "input_history": "LUK",
+      "case_number": "N NOMsg",
+      "word": "svastivācanam",
+      "interpretation": "Auspicious recitation as purpose."
+    },
+    {
+      "id": "G3",
+      "source": "K111",
+      "input_history": "LUK",
+      "case_number": "N NOMsg",
+      "word": "śāntivācanam",
+      "interpretation": "Recitation for peace as purpose."
+    },
+    {
+      "id": "C1",
+      "source": "K112",
+      "input_history": "END",
+      "case_number": "N NOMsg",
+      "word": "chandaḥsamāpanīyam",
+      "interpretation": "Completion of the Vedic curriculum."
+    },
+    {
+      "id": "C2",
+      "source": "K112",
+      "input_history": "END",
+      "case_number": "N NOMsg",
+      "word": "vyākaraṇasamāpanīyam",
+      "interpretation": "Completion of grammar study."
+    },
+    {
+      "id": "THIEF",
+      "source": "K113",
+      "input_history": "LEX/LEX2",
+      "case_number": "M NOMsg",
+      "word": "aikāgārikaḥ",
+      "interpretation": "Thief, shared across the two explanations."
+    },
+    {
+      "id": "THIEFF",
+      "source": "K113",
+      "input_history": "LEX/LEX2",
+      "case_number": "F NOMsg",
+      "word": "aikāgārikī",
+      "interpretation": "Named feminine, preserving the ṭ condition."
+    },
+    {
+      "id": "THUN",
+      "source": "K114",
+      "input_history": "INSTANT",
+      "case_number": "M NOMsg",
+      "word": "ākālikaḥ",
+      "interpretation": "Thunder construed with its beginning and end together."
+    },
+    {
+      "id": "FLASH",
+      "source": "K114",
+      "input_history": "INSTANT/ALT",
+      "case_number": "F NOMsg",
+      "word": "ākālikī / ākālikā",
+      "interpretation": "The two explicit feminine spellings."
+    },
+    {
+      "id": "BLOOM",
+      "source": "SPRING",
+      "input_history": "INSTANT/UNSEASON",
+      "case_number": "F ACCsg",
+      "word": "ākālikīm",
+      "interpretation": "The transient or unseasonal onset of spring, one word across two analyses."
+    },
+    {
+      "id": "BREAK",
+      "source": "MAN4",
+      "input_history": "BREAK",
+      "case_number": "M ACCsg",
+      "word": "ākālikam",
+      "interpretation": "Study interruption measured up to the same time on the following day."
+    }
+  ],
+  "source_policy_decisions": [
+    {
+      "id": "ORDER",
+      "sources": "K109,K110,KUM,NY,BV,MAG",
+      "decision": "Respect the two ordered pairs. The Nyāsa admits both the preparation and the stirring implement in the first pair. Count the attested compound separately from its inner member."
+    },
+    {
+      "id": "FOOD",
+      "sources": "K111,ASV,GOB,GOB2",
+      "decision": "A ritual request and the name of the oblations license distinct cases. The rite itself and its associated foods keep different referents and editorial numbering."
+    },
+    {
+      "id": "BEN",
+      "sources": "K111,MAN2",
+      "decision": "Purpose is licensed in the grammar. Medhātithi supplies a benefit and desired-result reading, with no independent marker decision for the verse."
+    },
+    {
+      "id": "LIMIT",
+      "sources": "K111,K112,K113",
+      "decision": "Carry deletion and controller history through the readout. Mere existence of a prior segment or a single house as an aim is insufficient for the two later prescriptions."
+    },
+    {
+      "id": "TIME",
+      "sources": "K114,MAN4,DEV,GOB2,SPRING,BV",
+      "decision": "The flash and its consequence for study have different durations even in the same meteorological setting. Preserve the scope of ṭhañ ending at 114."
+    }
+  ]
+}
