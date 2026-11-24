@@ -1,6 +1,8 @@
-# Written-development backlog at PG722
+# Written-development backlog at PG723
 
-Monty · 2026-11-24 · reviewed current parent 0bdd99d35e457df57c6ec1110c35987c04adf738. Historical closures below retain their exact pins.
+Monty · 2026-11-24 · reviewed current parent 10c6c94401d4ff3178bc4738469ce8d63087cc02. Historical closures below retain their exact pins.
+
+PG723 · [Named acts of seeing, customary duties and levies](named_seeing_customary_entitlement_and_avakraya/README.md). The named 4.4.46–50 case frames, ten listed mahiṣyādi inputs, source-qualified ritual and action hotṛ histories, and the two Mahābhāṣya agent-form deletions are locally CLOSED. The 4.4.46 predicate is seeing, correcting the teaching gloss in the preceding work queue. Open evidence includes the provenance of Amara's short a and its other inflections, finer gaṇa-holder meanings and exact accent. The adjacent 4.4.51–62 commodity, craft and disposition frames remain in the construction queue. Wider C2–C5 and S1–S7 retain their outstanding registers. Claude owns execution.
 
 PG722 · [Habitual conduct and the two pratipatha suffixes](habitual_conduct_and_pratipatha_affix_policies/README.md). Selected 4.4.41–42 cases and the directly parallel Haima 6.4.39 outputs are locally CLOSED. Both Mahābhāṣya grounds and Nyāsa’s independent ca scope remain addressable. The raw Nyāsa path spellings, additional cited gender and pitch witnesses, and the case placement of Haima 6.4.33 stay Open. The 4.4.46–50 teaching, entitlement and levy construction and parallel Haima 6.4.37, 6.4.40–41 remain live. Wider C2–C5/S1–S7 and Claude execution stay on their registers.
 

@@ -2,6 +2,16 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG723 · Named acts of seeing, customary duties and levies
+
+PG723 · [Named acts of seeing, customary duties and levies](named_seeing_customary_entitlement_and_avakraya/README.md). Constructs 29 source-qualified case fibres for 4.4.46–50. Padamañjarī preserves the ritual and action-based hotṛ accounts. The distinct customary-duty and avakraya queries share stems but keep their meanings and gender separate. Census 52,341 finite positions and 11,821 nominal positions with 13,608 nominal readings.
+
+Finite increments 0 positions/0 readings. Nominal increments 696 positions/725 readings. One morphology construction/34 interfaces, one compound construction/one plan, one syntax construction/11 readouts, one semantic construction/7 readouts and one junction construction/4 readouts. 16 source observations and 13 source-policy decisions. Publication parent 10c6c94401d4ff3178bc4738469ce8d63087cc02. The containing commit pins the documents and evidence.
+
+PG521–723 cumulative: 522 finite positions/1,440 net finite readings, 6,043 nominal positions/6,865 readings, 297 morphology constructions/3,091 interfaces, 135 compound constructions/618 plans, 32 accent constructions/126 records, 155 semantics constructions/466 records, 145 syntax constructions/539 records, 240 source-policy decisions after PG555−1 and 599 observations. Twenty-seven junction constructions/84 readouts since PG680 and 22 nonfinite constructions/28 paths since PG700. Four earlier provenance corrections and one proof addendum. PG335 and PG357–363 CLOSED results are preserved.
+
+The named 4.4.46–50 case frames, ten listed mahiṣyādi inputs, source-qualified ritual and action hotṛ histories, and the two Mahābhāṣya agent-form deletions are locally CLOSED. The 4.4.46 predicate is seeing, correcting the teaching gloss in the preceding work queue. Open evidence includes the provenance of Amara's short a and its other inflections, finer gaṇa-holder meanings and exact accent. The adjacent 4.4.51–62 commodity, craft and disposition frames remain in the construction queue. Wider C2–C5 and S1–S7 retain their outstanding registers. Claude owns execution.
+
 ## PG722 · Habitual conduct and the two pratipatha suffixes
 
 PG722 · [Habitual conduct and the two pratipatha suffixes](habitual_conduct_and_pratipatha_affix_policies/README.md). Writes four masculine case fibres. The two Mahābhāṣya passages and Nyāsa supply three authorization paths for ādharmika. Paired Pāṇinian and Haima suffixes agree in the sounds of pratipathika and prātipathika. Census 52,341 finite positions and 11,125 nominal positions with 12,883 nominal readings.

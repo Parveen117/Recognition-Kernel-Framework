@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG722
+# Pāṇini grammar · current written coverage at PG723
+
+PG723 · [Named acts of seeing, customary duties and levies](named_seeing_customary_entitlement_and_avakraya/README.md). Constructs 29 source-qualified case fibres for 4.4.46–50. Padamañjarī preserves the ritual and action-based hotṛ accounts. The distinct customary-duty and avakraya queries share stems but keep their meanings and gender separate. Census 52,341 finite positions and 11,821 nominal positions with 13,608 nominal readings.
 
 PG722 · [Habitual conduct and the two pratipatha suffixes](habitual_conduct_and_pratipatha_affix_policies/README.md). Writes four masculine case fibres. The two Mahābhāṣya passages and Nyāsa supply three authorization paths for ādharmika. Paired Pāṇinian and Haima suffixes agree in the sounds of pratipathika and prātipathika. Census 52,341 finite positions and 11,125 nominal positions with 12,883 nominal readings.
 
