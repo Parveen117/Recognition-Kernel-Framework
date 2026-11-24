@@ -2,6 +2,16 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG699 · Mixture exceptions and the Suśruta mung-broth witness
+
+PG699: [Powder, salt and mudga mixture exceptions](curna_lavana_mudga_mixture_overrides/README.md). Mahābhāṣya and Kāśikā retain different ini licenses. Salt uses whole-ṭhak luk with head agreement. Mudga uses actual aṇ and has a direct masculine plural in Suśruta, with a lexical gloss from Ḍalhaṇa. Six fibres add 144 nominal positions and 147 readings. Census 52,323 finite and 9,358 nominal positions/10,956 readings.
+
+Three morphology constructions/four affix interfaces, one semantic construction/six records, one syntax construction/seven records, one junction construction/three records, seven observations and three decisions. Zero finite positions or readings. The two ini policies occupy shared nominal readings. The containing commit pins this packet.
+
+PG521–699 cumulative: 504 finite positions/1,420 net credited finite readings, 3,580 nominal positions/4,213 readings, 277 morphology constructions/2,922 operative interfaces, 126 compound constructions/590 plans, 16 accent constructions/64 records, 153 semantics constructions/454 records, 123 syntax constructions/374 records, 70 source-policy decisions after PG555−1, and 345 observations. Seven junction constructions/18 readouts since PG680, four provenance corrections and one proof addendum. PG335 and PG357–363 CLOSED preserved.
+
+The exact contribution of 4.4.25 at the medical verse, the printed grain-agreement variants, other genders and 4.4.27 onward remain Open. The written C2–C5/S1–S7 gates and Claude’s executable work retain their separate obligations.
+
 ## PG698 · Five curd roles and the attested locative feminine
 
 PG698: [Curd case roles, seasoning and Aruṇadatta’s dādhikī](dadhi_locative_and_seasoning_roles/README.md). Five curd licenses retain distinct support and target roles. Aruṇadatta assigns the feminine porridge to preparation in curd with leaves. Takra belongs to the preceding preparation. Nine selected case fibres add 216 nominal positions and 223 readings on 298 histories. Census 52,323 finite and 9,214 nominal positions/10,809 readings.

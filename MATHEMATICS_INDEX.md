@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG699: [Mixture overrides and typed affix deletion](research/panini_grammar/curna_lavana_mudga_mixture_overrides/README.md). Zero specialization keeps a witnessed possessive alternative, the silent suffix’s deletion cause and blocked grade, head agreement and the separate aṇ history.
+
 PG698: [Typed curd-role, case and seasoning histories](research/panini_grammar/dadhi_locative_and_seasoning_roles/README.md). Ordered specialization preserves distinct instruments and substratum, original taddhita ownership, the gender and case projections, and the exact Aruṇadatta clause and word contact.
 
 PG697: [Debt nominal and source-specific borrowing roles](research/panini_grammar/atharva_exchange_absolutive_and_debt_sources/README.md). Typed specialization preserves the witnessed absolutive order, editorial and recensional choices, noun case and exact utterance contacts.

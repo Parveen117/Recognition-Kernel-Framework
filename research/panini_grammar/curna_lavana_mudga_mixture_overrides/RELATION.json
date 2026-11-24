@@ -1,0 +1,481 @@
+{
+  "schema": "rkf.panini.pg699.relation.v1",
+  "context_predicate": {
+    "root": "1060150",
+    "preverb": "sam",
+    "affix": "kta",
+    "orientation": "patient-result"
+  },
+  "nominal_voice": null,
+  "formation": [
+    {
+      "id": "CURNA_MIX",
+      "source": "Kāśikā/Nyāsa/Padamañjarī 4.4.23",
+      "relation": "integrated powder as INS substance",
+      "selected_affix": "ini",
+      "default_displaced": "ṭhak",
+      "surface": "cūrṇin"
+    },
+    {
+      "id": "CURNA_POSSESSION",
+      "source": "Mahābhāṣya 4.4.23, 5.2.115",
+      "relation": "possessing powder",
+      "selected_affix": "ini",
+      "surface": "cūrṇin"
+    },
+    {
+      "id": "LAVANA_LUK",
+      "source": "Kāśikā 4.4.24 and 1.2.51, Nyāsa and Padamañjarī",
+      "relation": "integrated salt as INS substance",
+      "selected_affix": "ṭhak",
+      "deletion": "luk",
+      "visible_suffix": "",
+      "surface": "lavaṇa",
+      "grade": "base preserved",
+      "feminine": "ṭāp",
+      "agreement": "head serves as controller"
+    },
+    {
+      "id": "MUDGA_AN",
+      "source": "Kāśikā 4.4.25 and Bālamanoramā",
+      "relation": "integrated mudga as INS substance",
+      "selected_affix": "aṇ",
+      "default_displaced": "ṭhak",
+      "surface": "maudga",
+      "grade": "u→au",
+      "feminine": "ṅīp"
+    }
+  ],
+  "semantic_roles": [
+    {
+      "id": "CURNA_MIX",
+      "meaning": "integrated powder as INS substance",
+      "outcome": "Accepted"
+    },
+    {
+      "id": "CURNA_POSSESSION",
+      "meaning": "possessing powder",
+      "outcome": "Accepted"
+    },
+    {
+      "id": "LAVANA_LUK",
+      "meaning": "integrated salt as INS substance",
+      "outcome": "Accepted"
+    },
+    {
+      "id": "MUDGA_AN",
+      "meaning": "integrated mudga as INS substance",
+      "outcome": "Accepted"
+    },
+    {
+      "id": "TASTE_ALONE",
+      "meaning": "mere quality or taste, without salt substance",
+      "outcome": "Excluded for 4.4.24 luk, ordinary attribution separate"
+    },
+    {
+      "id": "GROWING_FIELD",
+      "meaning": "field bearing mung plants",
+      "outcome": "Excluded from the 4.4.25 mixture condition, separate agricultural rule"
+    }
+  ],
+  "fibres": [
+    {
+      "id": "CURNA_M",
+      "body": "cūrṇ",
+      "gender": "m",
+      "tail": "in",
+      "histories": [
+        "CURNA_MIX",
+        "CURNA_POSSESSION"
+      ]
+    },
+    {
+      "id": "LAVANA_M",
+      "body": "lavaṇ",
+      "gender": "m",
+      "tail": "m",
+      "histories": [
+        "LAVANA_LUK"
+      ]
+    },
+    {
+      "id": "LAVANA_F",
+      "body": "lavaṇ",
+      "gender": "f",
+      "tail": "aa",
+      "histories": [
+        "LAVANA_LUK"
+      ]
+    },
+    {
+      "id": "LAVANA_N",
+      "body": "lavaṇ",
+      "gender": "n",
+      "tail": "n",
+      "histories": [
+        "LAVANA_LUK"
+      ]
+    },
+    {
+      "id": "MUDGA_M",
+      "body": "maudg",
+      "gender": "m",
+      "tail": "m",
+      "histories": [
+        "MUDGA_AN"
+      ]
+    },
+    {
+      "id": "MUDGA_F",
+      "body": "maudg",
+      "gender": "f",
+      "tail": "ii",
+      "histories": [
+        "MUDGA_AN"
+      ]
+    }
+  ],
+  "case_order": [
+    "nom",
+    "acc",
+    "ins",
+    "dat",
+    "abl",
+    "gen",
+    "loc",
+    "voc"
+  ],
+  "number_order": [
+    "sg",
+    "du",
+    "pl"
+  ],
+  "tails": {
+    "m": [
+      [
+        "aḥ",
+        "au",
+        "āḥ"
+      ],
+      [
+        "am",
+        "au",
+        "ān"
+      ],
+      [
+        "ena",
+        "ābhyām",
+        "aiḥ"
+      ],
+      [
+        "āya",
+        "ābhyām",
+        "ebhyaḥ"
+      ],
+      [
+        "āt/ād",
+        "ābhyām",
+        "ebhyaḥ"
+      ],
+      [
+        "asya",
+        "ayoḥ",
+        "ānām"
+      ],
+      [
+        "e",
+        "ayoḥ",
+        "eṣu"
+      ],
+      [
+        "a",
+        "au",
+        "āḥ"
+      ]
+    ],
+    "n": [
+      [
+        "am",
+        "e",
+        "āni"
+      ],
+      [
+        "am",
+        "e",
+        "āni"
+      ],
+      [
+        "ena",
+        "ābhyām",
+        "aiḥ"
+      ],
+      [
+        "āya",
+        "ābhyām",
+        "ebhyaḥ"
+      ],
+      [
+        "āt/ād",
+        "ābhyām",
+        "ebhyaḥ"
+      ],
+      [
+        "asya",
+        "ayoḥ",
+        "ānām"
+      ],
+      [
+        "e",
+        "ayoḥ",
+        "eṣu"
+      ],
+      [
+        "a",
+        "e",
+        "āni"
+      ]
+    ],
+    "aa": [
+      [
+        "ā",
+        "e",
+        "āḥ"
+      ],
+      [
+        "ām",
+        "e",
+        "āḥ"
+      ],
+      [
+        "ayā",
+        "ābhyām",
+        "ābhiḥ"
+      ],
+      [
+        "āyai",
+        "ābhyām",
+        "ābhyaḥ"
+      ],
+      [
+        "āyāḥ",
+        "ābhyām",
+        "ābhyaḥ"
+      ],
+      [
+        "āyāḥ",
+        "ayoḥ",
+        "ānām"
+      ],
+      [
+        "āyām",
+        "ayoḥ",
+        "āsu"
+      ],
+      [
+        "e",
+        "e",
+        "āḥ"
+      ]
+    ],
+    "ii": [
+      [
+        "ī",
+        "yau",
+        "yaḥ"
+      ],
+      [
+        "īm",
+        "yau",
+        "īḥ"
+      ],
+      [
+        "yā",
+        "ībhyām",
+        "ībhiḥ"
+      ],
+      [
+        "yai",
+        "ībhyām",
+        "ībhyaḥ"
+      ],
+      [
+        "yāḥ",
+        "ībhyām",
+        "ībhyaḥ"
+      ],
+      [
+        "yāḥ",
+        "yoḥ",
+        "īnām"
+      ],
+      [
+        "yām",
+        "yoḥ",
+        "īṣu"
+      ],
+      [
+        "i",
+        "yau",
+        "yaḥ"
+      ]
+    ],
+    "in": [
+      [
+        "ī",
+        "inau",
+        "inaḥ"
+      ],
+      [
+        "inam",
+        "inau",
+        "inaḥ"
+      ],
+      [
+        "inā",
+        "ibhyām",
+        "ibhiḥ"
+      ],
+      [
+        "ine",
+        "ibhyām",
+        "ibhyaḥ"
+      ],
+      [
+        "inaḥ",
+        "ibhyām",
+        "ibhyaḥ"
+      ],
+      [
+        "inaḥ",
+        "inoḥ",
+        "inām"
+      ],
+      [
+        "ini",
+        "inoḥ",
+        "iṣu"
+      ],
+      [
+        "in",
+        "inau",
+        "inaḥ"
+      ]
+    ]
+  },
+  "syntax": [
+    {
+      "id": "CAKES",
+      "locus": "K 4.4.23",
+      "host": "apūpāḥ",
+      "fibre": "CURNA_M",
+      "case": "nom",
+      "number": "pl",
+      "form": "cūrṇinaḥ"
+    },
+    {
+      "id": "SALT_SOUP",
+      "locus": "K 4.4.24 and 1.2.51",
+      "host": "sūpaḥ",
+      "fibre": "LAVANA_M",
+      "case": "nom",
+      "number": "sg",
+      "form": "lavaṇaḥ"
+    },
+    {
+      "id": "SALT_GREENS",
+      "locus": "K 4.4.24 and 1.2.51",
+      "host": "śākam",
+      "fibre": "LAVANA_N",
+      "case": "nom",
+      "number": "sg",
+      "form": "lavaṇam"
+    },
+    {
+      "id": "SALT_PORRIDGE",
+      "locus": "K 4.4.24 and 1.2.51",
+      "host": "yavāgūḥ",
+      "fibre": "LAVANA_F",
+      "case": "nom",
+      "number": "sg",
+      "form": "lavaṇā"
+    },
+    {
+      "id": "MUDGA_RICE",
+      "locus": "K 4.4.25",
+      "host": "odanaḥ",
+      "fibre": "MUDGA_M",
+      "case": "nom",
+      "number": "sg",
+      "form": "maudgaḥ"
+    },
+    {
+      "id": "MUDGA_PORRIDGE",
+      "locus": "K 4.4.25",
+      "host": "yavāgūḥ",
+      "fibre": "MUDGA_F",
+      "case": "nom",
+      "number": "sg",
+      "form": "maudgī"
+    },
+    {
+      "id": "SUSRUTA_BROTHS",
+      "locus": "Suśruta Ci 18.51",
+      "host": "rasāḥ",
+      "fibre": "MUDGA_M",
+      "case": "nom",
+      "number": "pl",
+      "form": "maudgāḥ"
+    }
+  ],
+  "junctions": [
+    {
+      "id": "CAKES",
+      "left": "cūrṇinaḥ",
+      "right": "apūpāḥ",
+      "surface": "cūrṇino ’pūpāḥ",
+      "rules": [
+        "8.2.66",
+        "6.1.113",
+        "6.1.87",
+        "6.1.109"
+      ]
+    },
+    {
+      "id": "MUDGA_RICE",
+      "left": "maudgaḥ",
+      "right": "odanaḥ",
+      "surface": "maudga odanaḥ",
+      "rules": [
+        "8.2.66",
+        "8.3.17",
+        "8.3.19",
+        "8.2.1"
+      ]
+    },
+    {
+      "id": "SUSRUTA_BROTHS",
+      "left": "rasāḥ",
+      "right": "ca",
+      "surface": "rasāś ca",
+      "rules": [
+        "8.2.66",
+        "8.3.15",
+        "8.3.34",
+        "8.4.40"
+      ]
+    }
+  ],
+  "open": [
+    "Kāśikā cūrṇino dhānāḥ agreement and exact Siddhahema interleaved columns",
+    "Wilbour Hall PDF text-layer irregularities and independent visual collation",
+    "exact affix at Suśruta broth token; wider independent literary use and genders",
+    "unmade wider 4.4.22 affix and 4.4.27 onward domains",
+    "accent"
+  ],
+  "counts": {
+    "positions": 144,
+    "readings": 147,
+    "policy_ending_paths": 171
+  },
+  "grammar_executions": []
+}

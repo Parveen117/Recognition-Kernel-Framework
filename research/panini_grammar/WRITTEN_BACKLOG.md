@@ -1,6 +1,8 @@
-# Written-development backlog at PG698
+# Written-development backlog at PG699
 
-Monty · 2026-11-24 · reviewed current parent 7a1ea7c4368508f326014c2bb68baa8a5aae2ab7. Historical closures below retain their exact pins.
+Monty · 2026-11-24 · reviewed current parent 16b77d7f50cd906e02d25862968e3946206c2441. Historical closures below retain their exact pins.
+
+PG699 closes [selected cūrṇa, salt and mudga mixture fibres and witness clauses](curna_lavana_mudga_mixture_overrides/README.md) at 144 nominal positions/147 readings. Competing ini policies, case-grounded salt luk and genuine mudga aṇ remain addressed. Suśruta’s vulgate and provisional Nepalese text share *maudgāḥ*. The preceding phrase varies by witness. Grain agreement, exact Siddhahema/printed collation, other affix-source issues and wider 4.4.27 onward/C2–C5/S1–S7 work remain Open. Claude execution remains deferred.
 
 PG698 closes the [selected curd and seasoning role fibres and Aruṇadatta contextual witness](dadhi_locative_and_seasoning_roles/README.md) at 216 nominal positions/223 readings. PG35/36 source rules remain frozen with zero repeat credit. Aṣṭāṅgahṛdaya’s second porridge inherits *dadhni* from Aruṇadatta’s locative paraphrase, and the first keeps *takre*. The short Kāśikā transcription at 4.4.8, the exact *paippalika* input and *khārika* etymon remain Open. Cūrṇa, salt and mudga exceptions at 4.4.23–25, other mixture classes, C2–C5/S1–S7 and Claude execution retain distinct obligations.
 

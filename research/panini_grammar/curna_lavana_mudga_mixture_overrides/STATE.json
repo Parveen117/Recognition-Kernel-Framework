@@ -1,0 +1,52 @@
+{
+  "schema": "rkf.panini.pg699.state.v1",
+  "author": "Monty",
+  "date": "2026-11-24",
+  "publication_parent": "16b77d7f50cd906e02d25862968e3946206c2441",
+  "baseline": {
+    "commit": "16b77d7f50cd906e02d25862968e3946206c2441",
+    "path": "research/panini_grammar/dadhi_locative_and_seasoning_roles/STATE.json"
+  },
+  "finite_positions": 52323,
+  "nominal_positions": 9358,
+  "nominal_readings": 10956,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 144,
+  "new_nominal_readings": 147,
+  "new_nominal_policy_ending_paths": 171,
+  "new_morphological_constructions": 3,
+  "new_morphological_readouts": 4,
+  "new_semantic_constructions": 1,
+  "new_semantic_readouts": 6,
+  "new_syntactic_constructions": 1,
+  "new_syntactic_readouts": 7,
+  "new_phonological_constructions": 1,
+  "new_phonological_readouts": 3,
+  "new_source_observations": 7,
+  "new_source_policy_decisions": 3,
+  "new_positions": 0,
+  "new_position_readings": 0,
+  "local_closure": "CLOSED for six selected Classical case fibres, the named role and source decisions and three word contacts",
+  "open_obligations": [
+    "Kāśikā grain agreement and original Siddhahema printed-column reading. Wilbour Hall PDF text-layer variants remain Open.",
+    "Exact affix in Suśruta, other contexts and genders, and 4.4.27 onward supplied domains.",
+    "C2–C5 and S1–S7 open; Claude execution deferred."
+  ],
+  "authorization": {
+    "completion_status": "OPEN wider gates",
+    "PG335": "-9 finite/-12 readings preserved",
+    "PG357_PG363": "CLOSED preserved",
+    "continuous_executed_hours_claimed": false
+  },
+  "runtime_policy": {
+    "python": "3.12 only",
+    "document_check_status": "PASS",
+    "document_check_attempts": 1,
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "old_suites": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE"
+  },
+  "grammar_executions": []
+}
