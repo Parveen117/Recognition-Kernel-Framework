@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG703 · [Two source-qualified Vedic leṭ predicates](research/panini_grammar/vedic_let_vyath_jus_owned_sip_and_hi_accent/README.md). The sounded iṭ, pedagogical siP i and finite tiP i have separate owners. Source-conditioned cuts retain pada, actual tone and suffix spelling.
+
 PG702 · [Vedic nipātana, owned suffixes and the vasā offering parallel](research/panini_grammar/vedic_nipatana_kai_isyai_ke_and_yajurveda_parallel/README.md). Typed root-owned ā-lopa, optional root substitution and two external vowel contacts preserve distinct native histories across actual Vedic recensions.
 
 PG701 · [Typed marker alternatives and verse-tone recovery](research/panini_grammar/vedic_se_adhyai_owned_markers_and_recensional_witnesses/README.md). The PG14 history projection preserves convergent suffix paths, supplied stem types, received tone, source admissions and the separate boundary of the following pada.

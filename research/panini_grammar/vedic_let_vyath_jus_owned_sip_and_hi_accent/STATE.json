@@ -1,0 +1,53 @@
+{
+  "schema": "rkf.panini.pg703.state.v1",
+  "author": "Monty",
+  "date": "2026-11-24",
+  "publication_parent": "d3017a4fd0ae6ae3d453437aeb89d48826576057",
+  "baseline": {
+    "commit": "d3017a4fd0ae6ae3d453437aeb89d48826576057",
+    "path": "research/panini_grammar/vedic_nipatana_kai_isyai_ke_and_yajurveda_parallel/STATE.json"
+  },
+  "finite_positions": 52325,
+  "nominal_positions": 9358,
+  "nominal_readings": 10956,
+  "new_finite_positions": 2,
+  "new_finite_readings": 2,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 0,
+  "new_positions": 2,
+  "new_position_readings": 2,
+  "new_morphology_constructions": 1,
+  "new_morphology_interfaces": 2,
+  "new_nonfinite_constructions": 0,
+  "new_nonfinite_readouts": 0,
+  "new_accent_constructions": 1,
+  "new_accent_readouts": 2,
+  "new_syntactic_constructions": 1,
+  "new_syntactic_readouts": 4,
+  "new_phonological_constructions": 1,
+  "new_phonological_readouts": 2,
+  "new_source_observations": 6,
+  "new_source_policy_decisions": 5,
+  "local_closure": "CLOSED for two specific source-qualified Vedic leṭ positions, with documentary and extended-domain obligations Open.",
+  "open_obligations": [
+    "Exact printed Mahīdhara citation digits and the provenance of the digital y in one gloss. This clause supplies no general leṭ licence for other forms or padas.",
+    "Other 3.1.34 witnesses, including tāriṣat length/marker policies and the no-siP patāti control. Wider grade and tone rules require their own addresses.",
+    "MS avyáthiṣe and the non-lopa leṭ i outputs at these lexical inputs require independent source licensing. Remaining C2–C5/S1–S7 stay Open; Claude retains execution."
+  ],
+  "authorization": {
+    "completion_status": "OPEN wider gates",
+    "PG335": "-9 finite/-12 readings preserved",
+    "PG357_PG363": "CLOSED preserved",
+    "continuous_executed_hours_claimed": false
+  },
+  "runtime_policy": {
+    "python": "3.12 only",
+    "document_check_status": "PASS",
+    "document_check_attempts": 1,
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "old_suites": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE"
+  },
+  "grammar_executions": []
+}

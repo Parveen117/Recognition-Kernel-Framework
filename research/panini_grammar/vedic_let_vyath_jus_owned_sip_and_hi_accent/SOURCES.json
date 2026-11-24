@@ -1,0 +1,132 @@
+{
+  "publication_parent": "d3017a4fd0ae6ae3d453437aeb89d48826576057",
+  "date": "2026-11-24",
+  "project_dependencies": [
+    {
+      "commit": "d3017a4fd0ae6ae3d453437aeb89d48826576057",
+      "path": "research/panini_grammar/vedic_nipatana_kai_isyai_ke_and_yajurveda_parallel/STATE.json",
+      "git_blob_sha": "73e63c964daefffb8f03d1e7a00ccf71ba6af3ad",
+      "bytes": 2326,
+      "sha256": "db6341d5872ea49391ce24c5b47566e67eea413feec08dab88b31fbdc0c77b11",
+      "use": "Previous absolute census"
+    },
+    {
+      "commit": "d3017a4fd0ae6ae3d453437aeb89d48826576057",
+      "path": "research/panini_grammar/vedic_nipatana_kai_isyai_ke_and_yajurveda_parallel/RELATION.json",
+      "git_blob_sha": "494e877a9516748ae5c8db440845e808c09e6733",
+      "bytes": 7064,
+      "sha256": "f2c50c1eae766dcd26d19a34c710a25758f5e7012b4e90cfcfc5f7dd83d3ef5d",
+      "use": "PG702 nonfinite paths and earlier VS token observation"
+    },
+    {
+      "commit": "403d20f288f60da41eaa0877dcb1004f94729617",
+      "path": "research/panini_grammar/madayadhyai_vs313_commentary_and_purpose/SOURCES.json",
+      "git_blob_sha": "2fb006f18957f04276f7fb901e1f8821aa08edef",
+      "bytes": 6567,
+      "sha256": "8c29facbe9ba9403056d577888019edfb538b8bc8df3cf7f9698e86091848081",
+      "use": "Separate address for the earlier Uvaṭa/Mahīdhara clause work"
+    },
+    {
+      "commit": "b05e46bf78f165e17c4766d6d1179a1699a72fcf",
+      "path": "research/panini_grammar/grammar_construction/NATIVE_OPERATOR_LIFT.md",
+      "git_blob_sha": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+      "bytes": 11855,
+      "sha256": "f52e7f5cf539ef56859b890669ef738848491e4005e73be75baa49c899b5dafd",
+      "use": "Full PG14 pairing, operator family and labelled history proof"
+    },
+    {
+      "commit": "ada439f6ba3109d798b41c216fe7cedc79e60afb",
+      "path": "research/panini_grammar/SUTRAPATHA.tsv",
+      "git_blob_sha": "1840f3b5349b21112ac05a7efaa59705fd4efee0",
+      "bytes": 270179,
+      "sha256": "70dfdfe6ba433b6e211f0f01b078c1b6d13a1ad0938e06fd5789298a04583634",
+      "use": "Exact 31034 versus 34034, plus tiP and nigātha rules"
+    }
+  ],
+  "web_evidence": [
+    {
+      "id": "VS",
+      "url": "https://titus.fkidg1.uni-frankfurt.de/texte/etcs/ind/aind/ved/yvw/vs/vs006.htm",
+      "locator": "Mādhyandina 6.18b line 94",
+      "use": "Earlier exact token, local accent comparison use"
+    },
+    {
+      "id": "UVM",
+      "url": "https://sa.wikisource.org/wiki/शुक्लयजुर्वेदसंहिता_उवट-महीधर-भाष्ये",
+      "locator": "VS 6.18 lines 1564–1569",
+      "use": "Uvaṭa ritual interpretation, two Mahīdhara frames, explicit leṭ/tiP and discordant rule-number field"
+    },
+    {
+      "id": "NY",
+      "url": "https://sanskritdocuments.org/~sanskrit/learning_tools/ashtadhyayi/vyakhya/3/3.1.34.htm",
+      "locator": "Kāśikā and Nyāsa 3.1.34 lines 13–19",
+      "use": "Direct siP on juṣ and other examples, pronunciation i, I-origin rule, accent marker and ṣ"
+    },
+    {
+      "id": "K94",
+      "url": "https://sanskritdocuments.org/~sanskrit/learning_tools/ashtadhyayi/vyakhya/3/3.4.94.htm",
+      "locator": "Kāśikā and Nyāsa 3.4.94 lines 13–19",
+      "use": "Alternating aṭ and āṭ on the leṭ ending, terminal t marker"
+    },
+    {
+      "id": "KI",
+      "url": "https://sanskritdocuments.org/~sanskrit/learning_tools/ashtadhyayi/vyakhya/3/3.4.97.htm",
+      "locator": "Kāśikā and Nyāsa 3.4.97 lines 13–19",
+      "use": "Selected P ending i deletion and optional retention control"
+    },
+    {
+      "id": "SK",
+      "url": "https://sa.wikisource.org/wiki/शब्दकौस्तुभः/अध्यायः_३-पादः_१/आह्निकम्_३",
+      "locator": "Śabdakaustubha 3.1.34 line 139",
+      "use": "Explicit vyatyaya of anudāttet juṣ and both augmentation channels"
+    },
+    {
+      "id": "DP",
+      "url": "https://sanskritdocuments.org/doc_z_misc_major_works/dhatupatha_index_svara.html",
+      "locator": "01.0868 vyath and 06.0008 juṣ",
+      "use": "Distinct root, Ā and seṭ classifications"
+    },
+    {
+      "id": "DPN",
+      "url": "https://sanskritdocuments.org/doc_z_misc_major_works/dhatupatha.html",
+      "locator": "01.0868 and 06.0008, lines 926 and 1684",
+      "use": "Root, class and sense records"
+    },
+    {
+      "id": "VP",
+      "url": "https://sanskritdocuments.org/~sanskrit/learning_tools/ashtadhyayi/vyakhya/3/3.1.85.htm",
+      "locator": "Kāśikā and Nyāsa 3.1.85",
+      "use": "Chandasi vyatyaya including licensed reversal of pada"
+    },
+    {
+      "id": "RV",
+      "url": "https://vmlt.in/rigveda/02/035",
+      "locator": "Śākala 2.35.1 lines 125–142 and 561",
+      "use": "Exact pada and sandhi, Sāyaṇa's four operative facts"
+    },
+    {
+      "id": "ACC",
+      "url": "https://sanskritdocuments.org/~sanskrit/learning_tools/ashtadhyayi/vyakhya/8/8.1.28.htm",
+      "locator": "Kāśikā and Nyāsa 8.1.28 lines 12–19",
+      "use": "Atiṅ predecessor and default deaccentuation"
+    },
+    {
+      "id": "HI",
+      "url": "https://sanskritdocuments.org/~sanskrit/learning_tools/ashtadhyayi/vyakhya/8/8.1.34.htm",
+      "locator": "Kāśikā and Nyāsa 8.1.34",
+      "use": "Contextual hi exception named by Sāyaṇa"
+    },
+    {
+      "id": "SANDHI",
+      "url": "https://www.sanskritlibrary.org/grammatical/data/A.8.4.62.html",
+      "locator": "8.4.62 optional h assimilation",
+      "use": "Optional h assimilation after the final dental in the exact word contact"
+    },
+    {
+      "id": "HIST",
+      "url": "https://www.lotpublications.nl/Documents/125_fulltext.pdf",
+      "locator": "Vedic comparative morphology, note 75 at extracted line 841",
+      "use": "Historical -iṣ aorist classification for RV 2.35.1"
+    }
+  ]
+}

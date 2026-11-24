@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG702
+# Pāṇini grammar · current written coverage at PG703
+
+PG703 · [Two source-qualified Vedic leṭ predicates](vedic_let_vyath_jus_owned_sip_and_hi_accent/README.md). Mahīdhara’s vyathiṣat and the Ṛgvedic jóṣiṣat now have written leṭ derivations. The retroflexed siP, inserted iṭ and t-ending retain separate owners. The received RV accent has Sāyaṇa’s explicit hi exception. Two new finite positions and two readings are credited. Census 52,325 finite positions and 9,358 nominal positions with 10,956 nominal readings.
 
 PG702 · [Vedic nipātana, owned suffixes and the vasā offering parallel](vedic_nipatana_kai_isyai_ke_and_yajurveda_parallel/README.md). Kāṭhaka and Kapiṣṭhala Kāṭha join avyathiṣyai between ūṣmaṇaḥ and apām in the ritual text. Taittirīya retains rohiṣyai, Maitrāyaṇī has avyathiṣe, and Mādhyandina has finite vyathiṣat. Direct Ṛgvedic prayái and dṛśé establish exact suffix outcomes. Five new nonfinite constructions retain six paths. The finite and nominal census is unchanged. Census 52,323 finite positions and 9,358 nominal positions with 10,956 nominal readings.
 

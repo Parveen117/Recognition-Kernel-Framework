@@ -2,6 +2,16 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG703 · Two source-qualified Vedic leṭ predicates
+
+PG703 · [Two source-qualified Vedic leṭ predicates](vedic_let_vyath_jus_owned_sip_and_hi_accent/README.md). Mahīdhara’s vyathiṣat and the Ṛgvedic jóṣiṣat now have written leṭ derivations. The retroflexed siP, inserted iṭ and t-ending retain separate owners. The received RV accent has Sāyaṇa’s explicit hi exception. Two new finite positions and two readings are credited. Census 52,325 finite positions and 9,358 nominal positions with 10,956 nominal readings.
+
+0 new nonfinite constructions/0 retained paths. Accent 1/2, syntax 1/4, phonological junction 1/2 constructions/readouts. 6 source observations and 5 source-policy decisions. One morphology construction/2 interfaces. Finite increments 2 positions and 2 readings. Nominal increments 0 positions and 0 readings. The publication parent is d3017a4fd0ae6ae3d453437aeb89d48826576057. The containing commit pins the documents and evidence.
+
+PG521–703 cumulative: 506 finite positions/1,422 net finite readings, 3,580 nominal positions/4,213 readings, 278 morphology constructions/2,924 interfaces, 126 compound constructions/590 plans, 20 accent constructions/86 records, 153 semantics constructions/454 records, 127 syntax constructions/406 records, 92 source-policy decisions after PG555−1 and 386 observations. Thirteen junction constructions/27 readouts since PG680 and 20 nonfinite constructions/26 paths since PG700. Four provenance corrections and one proof addendum. PG335 and PG357–363 CLOSED preserved.
+
+The two witnessed leṭ P3sg requests and their owned augmentation and tone paths are addressed. The raw VS reference, optional non-lopa and wider voice evidence, Maitrāyaṇī e, separate tāriṣat grade and patāti control retain Open work. The Kāṭha and MS nonfinite evidence keeps PG702's source and word credits. C2–C5 and other S1–S7 obligations remain active, with execution assigned to Claude.
+
 ## PG702 · Vedic nipātana, owned suffixes and the vasā offering parallel
 
 PG702 · [Vedic nipātana, owned suffixes and the vasā offering parallel](vedic_nipatana_kai_isyai_ke_and_yajurveda_parallel/README.md). Kāṭhaka and Kapiṣṭhala Kāṭha join avyathiṣyai between ūṣmaṇaḥ and apām in the ritual text. Taittirīya retains rohiṣyai, Maitrāyaṇī has avyathiṣe, and Mādhyandina has finite vyathiṣat. Direct Ṛgvedic prayái and dṛśé establish exact suffix outcomes. Five new nonfinite constructions retain six paths. The finite and nominal census is unchanged. Census 52,323 finite positions and 9,358 nominal positions with 10,956 nominal readings.
