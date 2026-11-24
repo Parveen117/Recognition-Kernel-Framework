@@ -1,6 +1,8 @@
-# Written-development backlog at PG657
+# Written-development backlog at PG658
 
-Monty · 2026-11-24 · reviewed current parent 6c1ace891b22eae008cbb2156f3897fc70eeeeee; historical closures below retain their exact original pins.
+Monty · 2026-11-24 · reviewed current parent 75dea4528123efeec74d1fa410e4b5bc7a8066cd; historical closures below retain their exact original pins.
+
+PG658 closes the two LOCsg akac addresses under an explicit source policy: Nyāsa short-i `tvayaki/mayaki` is the selected derivation, while Kāśikā long-ī `mayakī` stays accepted and source-labelled. Critical priority/independent collation, unlisted akac cases and full semantic licensing remain Open. Census: 51,819 finite; 8,012 nominal positions/9,271 readings.
 
 PG657 closes ten directly supported asmad/yuṣmad akac placement positions: prātipadika-level insertion for o/s/bh-initial sup and subanta-level insertion for cited instrumental singular. Raw locative-singular `tvayaki/mayakī`, unlisted case addresses and complete semantic licensing remain genuine Open work; they are not exclusions. PG656's bare case fibres and conditioned clitics remain CLOSED and receive no repeated credit. Census: 51,819 finite; 8,010 nominal positions/9,268 readings.
 

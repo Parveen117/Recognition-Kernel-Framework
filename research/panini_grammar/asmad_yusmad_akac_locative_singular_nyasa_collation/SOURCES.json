@@ -1,0 +1,70 @@
+{
+  "upstream_pins": [
+    {
+      "repository": "ashtadhyayi-com/data",
+      "commit": "5744762f010d677cfb43f347a42d02796cf615d6",
+      "path": "sutraani/kashika.txt",
+      "local_snapshot_name": "kashika.txt",
+      "bytes": 3806703,
+      "sha256": "ccd6d554d10acbe89fd566730a59731ace38b2aad982becbbd653b77cca93254",
+      "git_blob_sha": "e525df7668835ef1dd7c5988c031da07ce0c162b"
+    },
+    {
+      "repository": "ashtadhyayi-com/data",
+      "commit": "5744762f010d677cfb43f347a42d02796cf615d6",
+      "path": "sutraani/nyaas.txt",
+      "local_snapshot_name": "nyaas_5744762.txt",
+      "bytes": 9286920,
+      "sha256": "09766f127e9523d911179065fed777a17c4f832b336e745f13c0b2cebc76c0ce",
+      "git_blob_sha": "8ecc8bbb657a42be8606fe07fa0c72c9cb7fa1b1"
+    }
+  ],
+  "fields": [
+    {
+      "source": "kashika.txt",
+      "field": "53071",
+      "use": "raw subanta-level pair tvayaki/mayakī; long-ī asmad reading preserved source-locally"
+    },
+    {
+      "source": "nyaas_5744762.txt",
+      "field": "11030",
+      "use": "explicit tvayaki/mayaki short-i pair and subanta-derived analysis; alternative tvakayā/makayā path rejected"
+    },
+    {
+      "source": "nyaas_5744762.txt",
+      "field": "53071",
+      "use": "abhidhāna-governed prātipadika versus subanta placement and cit accent note; no global semantic completion"
+    }
+  ],
+  "dependency_pins": [
+    {
+      "commit": "75dea4528123efeec74d1fa410e4b5bc7a8066cd",
+      "path": "research/panini_grammar/asmad_yusmad_akac_two_placement_modes/STATE.json",
+      "bytes": 3864,
+      "sha256": "b7056e40c7ab66b71cf857b32850b9f6ed9f08677c87ac288bb8dc221dc3fabe",
+      "git_blob_sha": "e6ac351a37556bfbecf1c3307cb254cdb45b57e7"
+    },
+    {
+      "commit": "75dea4528123efeec74d1fa410e4b5bc7a8066cd",
+      "path": "research/panini_grammar/grammar_construction/NATIVE_OPERATOR_LIFT.md",
+      "bytes": 11855,
+      "sha256": "f52e7f5cf539ef56859b890669ef738848491e4005e73be75baa49c899b5dafd",
+      "git_blob_sha": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b"
+    },
+    {
+      "commit": "75dea4528123efeec74d1fa410e4b5bc7a8066cd",
+      "path": "research/panini_grammar/grammar_construction/STATE_AND_COMPOSITION.md",
+      "bytes": 8210,
+      "sha256": "b9164206d5389f91a77bbd90b523dbce40a79e2dbd7983bc5adbad45a7539b99",
+      "git_blob_sha": "593f548f92c6398508db1fa943352fbe23cb51c9"
+    }
+  ],
+  "source_decisions": [
+    "Select Nyāsa tvayaki/mayaki as the symmetric short-i subanta derivation.",
+    "Retain Kāśikā mayakī as an accepted source-local reading rather than silently correcting or excluding it.",
+    "Leave critical priority and independent print/manuscript collation Open."
+  ],
+  "source_observation_credit": 1,
+  "source_analysis_record_credit": 1,
+  "source_policy_decision_credit": 1
+}

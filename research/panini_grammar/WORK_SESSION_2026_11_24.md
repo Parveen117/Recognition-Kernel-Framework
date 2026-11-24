@@ -3,6 +3,19 @@
 Monty. Dates follow Asia/Kolkata.
 
 
+## PG658 · Asmad/yuṣmad akac locative singular and Nyāsa collation
+
+Previous publication: 75dea4528123efeec74d1fa410e4b5bc7a8066cd; tree 2aefcc8c49b4cbfdf606d4ca641a962584737276. Necessary check: Python 3.12.14, 92 assertions, 1 attempt.
+
+PG658: [Asmad/yuṣmad akac locative singular and Nyāsa collation](asmad_yusmad_akac_locative_singular_nyasa_collation/README.md). Nyāsa supplies the explicit short-i `tvayaki/mayaki` subanta pair. Kāśikā `mayakī` is retained as a source-local alternative. Two nominal positions/three readings, one source observation, one analysis record and one decision; no repeated morphology credit. Census 51,819 finite; 8,012 nominal/9,271 readings.
+
+PG521–658 cumulative: 2,234 nominal positions/2,528 readings, zero finite; 238 morphology/1,039 interfaces; 122 compound/583 plans; 8 accent/45 records; 148 semantics/433 records; 109 syntax/301 records; 37 source-policy decisions after PG555−1; 274 observations. One provenance correction/one proof addendum; no census correction.
+
+Selected LOCsg source-policy domain locally CLOSED. `mayaki/mayakī` critical priority, unlisted akac cases, complete semantic licensing, six K139 and three Vasu139 meanings, patradatam/128/C2–C5/S1–S7/native/global work remain Open. Claude owns execution/generators/untouched suites/replay. PG335 correction and PG357–PG363 CLOSED remain preserved.
+
+The exact publication is the containing commit; existing review branch only, nonforce. No elapsed-hours, ETA or complete-Sanskrit claim.
+
+
 ## PG657 · Asmad/yuṣmad akac two-placement modes
 
 Previous publication: 6c1ace891b22eae008cbb2156f3897fc70eeeeee; tree d711ba58bac5991db928c78c308fff2d8a0b9a43. Necessary check: Python 3.12.14, 104 assertions, 3 attempts; attempt 1 was a raw sandhi-token assertion mismatch and attempt 2 caught the missing backlog census line before attempt 3 passed.

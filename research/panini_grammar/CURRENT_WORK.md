@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG657
+# Pāṇini grammar · current written coverage at PG658
+
+PG658: [Asmad/yuṣmad akac locative singular and Nyāsa collation](asmad_yusmad_akac_locative_singular_nyasa_collation/README.md). Nyāsa's explicit short-i `tvayaki/mayaki` pair closes two subanta-placement LOCsg positions; Kāśikā `mayakī` remains an accepted source-local alternative. Two nominal positions/three readings, one observation/analysis/decision; no repeated morphology credit. Census 51,819 finite; 8,012 nominal/9,271 readings.
 
 PG657: [Asmad/yuṣmad akac two-placement modes](asmad_yusmad_akac_two_placement_modes/README.md). Ten source-supported aliṅga case addresses now carry actual `ak`: eight o/s/bh-sup addresses insert before prātipadika ṭi, while cited instrumental singular inserts before subanta ṭi. This adds 10 nominal positions/readings and one morphology construction/10 readouts. Raw locative-singular `tvayaki/mayakī`, unlisted cases and full semantic licensing remain Open. Census 51,819 finite; 8,010 nominal/9,268 readings.
 

@@ -3023,3 +3023,7 @@ padas, outer lakāras and exhaustive phonetic/accent alternatives stay open.
 ## PG657 · Asmad/yuṣmad akac two-placement modes
 
 [PG657](asmad_yusmad_akac_two_placement_modes/README.md) constructs ten exact akac-derived nominal addresses: eight o/s/bh-sup cases use prātipadika-ṭi placement and two instrumental-singular cases use subanta-ṭi placement. Actual payload remains `ak`; identical dual surfaces retain distinct genitive/locative keys. Ten new nominal positions/readings, one morphology construction/10 readouts; zero semantic/source credits. Census 51,819 finite; 8,010 nominal/9,268 readings. Raw locative singular and broader semantic/paradigm/global gates remain Open; Claude execution deferred.
+
+## PG658 · Asmad/yuṣmad akac locative singular and Nyāsa collation
+
+[PG658](asmad_yusmad_akac_locative_singular_nyasa_collation/README.md) selects Nyāsa's explicit short-i subanta derivations `tvayaki/mayaki` for two LOCsg positions, retaining Kāśikā `mayakī` as a third source-local reading. One observation, one analysis record and one source decision; PG657 placement is reused with zero duplicate morphology credit. Census 51,819 finite; 8,012 nominal/9,271 readings. Critical priority and wider gates remain Open.

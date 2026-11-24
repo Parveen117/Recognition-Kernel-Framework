@@ -5255,3 +5255,7 @@ Existing RH, Yang-Mills, continuum and empirical claim boundaries remain in forc
 ## PG657 · Recipient-typed akac insertion on personal pronouns
 
 [Asmad/yuṣmad akac placement](research/panini_grammar/asmad_yusmad_akac_two_placement_modes/DERIVATION_AND_NATIVE_RECOVERY.md) extends the full PG14 carrier with a typed recipient grade: o/s/bh-initial sup selects prātipadika-ṭi insertion, while the cited instrumental singular selects subanta-ṭi insertion. Typed zero-specialization preserves lemma, semantic licence, original sup, affix owner and genitive/locative collisions. Ten new nominal positions/readings and one morphology/10 interfaces; totals 51,819 finite, 8,010 nominal/9,268 readings. Disputed locative singular and wider gates remain Open.
+
+## PG658 · Source-policy collation without history collapse
+
+[Akac LOCsg collation](research/panini_grammar/asmad_yusmad_akac_locative_singular_nyasa_collation/DERIVATION_AND_NATIVE_RECOVERY.md) uses the inherited subanta-placement operator but adds a typed source-policy branch: Nyāsa short-i `mayaki` is selected while Kāśikā long-ī `mayakī` remains accepted. Full-carrier zero-specialization cannot merge final vowel or witness. Two nominal positions/three readings; totals 51,819 finite, 8,012 nominal/9,271 readings. Critical priority and universal integration remain Open.
