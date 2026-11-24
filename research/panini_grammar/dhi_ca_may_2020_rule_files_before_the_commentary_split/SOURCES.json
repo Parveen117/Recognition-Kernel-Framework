@@ -1,0 +1,96 @@
+{
+  "project_dependencies": [
+    {
+      "commit": "40986f8866a49405643c55845b25945a4959f912",
+      "path": "research/panini_grammar/five_year_names_vows_and_seasonal_offerings/STATE.json",
+      "git_blob_sha": "60165d3a8ece3dfe3dee2e7daf1c152bd3505526",
+      "sha256": "18388f2ed9a670ab6a5a7740d50ab6a75d2b285fc6cd5a721e75942d86779656",
+      "use": "Published baseline"
+    },
+    {
+      "commit": "40986f8866a49405643c55845b25945a4959f912",
+      "path": "research/panini_grammar/dhi_ca_initial_import_transmission_boundary/TRANSMISSION_RECORDS.json",
+      "git_blob_sha": "8a17a27dedd177e2ba16ca96765dc0ec9b190809",
+      "sha256": "548ca128bbcbd821df13e0fa729b515e01c5e13ac2f40ac8c6a01a15ffdde217",
+      "use": "PG463 decoded mother-file text for both fields in the October addition and frozen snapshot."
+    },
+    {
+      "commit": "40986f8866a49405643c55845b25945a4959f912",
+      "path": "research/panini_grammar/dhi_ca_printed_bala_lut_alignment/README.md",
+      "git_blob_sha": "2c9607b9aae1e9b5928baf4a1798969258de3558",
+      "sha256": "049ea192c6a9191e196656593f828bc5b480e062f2e3899c3d322c1ed768f676",
+      "use": "Correct-topic printed Bāla belongs to the original rule and remains distinct."
+    },
+    {
+      "commit": "40986f8866a49405643c55845b25945a4959f912",
+      "path": "research/panini_grammar/dhi_ca_printed_tattva_policy_retrospective/RELATION.json",
+      "git_blob_sha": "5060b98a21799a3d8fb48f0a053acc6f57eab68d",
+      "sha256": "5c0145a715521e0e538239f5696476640b37b3e937ef85da3c98bc55b6e9384d",
+      "use": "PG454 independent printed Tattva evidence."
+    },
+    {
+      "commit": "40986f8866a49405643c55845b25945a4959f912",
+      "path": "research/panini_grammar/kasika_bulk_replacement_and_current_source_fields/SNAPSHOTS.json",
+      "git_blob_sha": "ed8f35869a56ea47325558ec6e422dad17fe9a3e",
+      "sha256": "3efd64d2d8c3a1f3ba0c4d996b35c76ace13f0110391997a39992b731ddd4a52",
+      "use": "PG761 present source-file and field lineage."
+    },
+    {
+      "commit": "40986f8866a49405643c55845b25945a4959f912",
+      "path": "research/panini_grammar/grammar_construction/NATIVE_OPERATOR_LIFT.md",
+      "git_blob_sha": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+      "sha256": "f52e7f5cf539ef56859b890669ef738848491e4005e73be75baa49c899b5dafd",
+      "use": "PG14 full source ownership and operator carrier."
+    }
+  ],
+  "source_observations": [
+    {
+      "id": "PRE",
+      "locator": "11 May 2020 initial rule-file addition, direct parent tree",
+      "url": "https://github.com/ashtadhyayi-com/data/tree/9259cef89d40b11db468ba86eb9df3a7780aa497",
+      "observation": "The complete direct-parent tree has eighteen entries counting directory nodes. None is the sutraani directory. Its ska/data.txt is a different grammatical inventory."
+    },
+    {
+      "id": "FIRST",
+      "locator": "First rule-oriented file at 8.2.25, May 11",
+      "url": "https://github.com/ashtadhyayi-com/data/blob/1e450f94bf08eeb9aca611f6d4ca65cff1d100fd/sutraani/8/2/8.2.25.txt",
+      "observation": "Record i=82025, Kaumudī ordinal 2249, correct s-deletion in sk, but ho ḍhaḥ on both named commentary fields."
+    },
+    {
+      "id": "SECOND",
+      "locator": "Initial rule-oriented 8.2.31",
+      "url": "https://github.com/ashtadhyayi-com/data/blob/1e450f94bf08eeb9aca611f6d4ca65cff1d100fd/sutraani/8/2/8.2.31.txt",
+      "observation": "Ho ḍhaḥ is correctly given by the principal grammar field at Kaumudī ordinal 324. Both later commentaries carry naho dhaḥ here."
+    },
+    {
+      "id": "THIRD",
+      "locator": "Initial rule-oriented 8.2.34",
+      "url": "https://github.com/ashtadhyayi-com/data/blob/1e450f94bf08eeb9aca611f6d4ca65cff1d100fd/sutraani/8/2/8.2.34.txt",
+      "observation": "Canonical naho dhaḥ, Kaumudī ordinal 440, with an empty Bāla field and an independently formatted Tattva treatment."
+    },
+    {
+      "id": "MAY",
+      "locator": "28 May 2020 file, unchanged address",
+      "url": "https://github.com/ashtadhyayi-com/data/blob/a563215406a800fd6f7d063759fa234333160264/sutraani/8/2/8.2.25.txt",
+      "observation": "Both complete field values already equal the values published in the October per-commentary files. Earlier orthographic edits did not change the heading."
+    },
+    {
+      "id": "OCT",
+      "locator": "12 October split's direct parent, individual 8.2.25 rule record",
+      "url": "https://github.com/ashtadhyayi-com/data/blob/e8cb599234a4d1376830f54bfb3c416f273718d4/sutraani/8/2/8.2.25.txt",
+      "observation": "Both individual commentary strings are exactly the strings at the new aggregate key 82025."
+    },
+    {
+      "id": "NEIGH",
+      "locator": "8.2.24 and 8.2.26 in the split parent",
+      "url": "https://github.com/ashtadhyayi-com/data/blob/e8cb599234a4d1376830f54bfb3c416f273718d4/sutraani/8/2/8.2.26.txt",
+      "observation": "Both commentaries have the expected headings at the adjacent rules. The two exact file addresses are in the comparisons."
+    },
+    {
+      "id": "SPLIT",
+      "locator": "12 October 2020 addition of the aggregate files",
+      "url": "https://github.com/ashtadhyayi-com/data/commit/72c69459b731588eba7abb5011c935c1244cb976",
+      "observation": "The addressed text already existed in the parent layout. The split preserves this existing attachment in both files."
+    }
+  ]
+}

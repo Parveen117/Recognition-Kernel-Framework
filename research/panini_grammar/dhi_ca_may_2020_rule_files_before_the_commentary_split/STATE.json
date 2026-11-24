@@ -1,0 +1,36 @@
+{
+  "stage": "PG764",
+  "date": "2026-11-25",
+  "publication_parent": "40986f8866a49405643c55845b25945a4959f912",
+  "baseline": {
+    "commit": "40986f8866a49405643c55845b25945a4959f912",
+    "path": "research/panini_grammar/five_year_names_vows_and_seasonal_offerings/STATE.json"
+  },
+  "finite_positions": 52345,
+  "nominal_positions": 20821,
+  "nominal_readings": 23535,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 0,
+  "new_morphology_constructions": 0,
+  "new_morphology_interfaces": 0,
+  "new_source_observations": 8,
+  "new_source_policy_decisions": 4,
+  "open_obligations": [
+    "S2 first tracked single-rule attachment is locally closed at 11 May 2020. The actual off-repository source or assignment operation and its repair remain Open, alongside the existing manuscript and whole-word questions.",
+    "Extend 5.1.98–108 with verse-level support for the bow and ṛtviya and retain the distinct grammatical predicates."
+  ],
+  "local_closure": "Closes the electronic per-rule entry and split boundaries on the two named fields.",
+  "global_gates": {
+    "C2–C5": "Open",
+    "S1–S7": "Open",
+    "S5_direct_fields": "99/103",
+    "S6": "Independent 5.56 k-it effect Open"
+  },
+  "protected_registers": {
+    "PG335": "-9 finite positions and -12 readings already applied",
+    "PG340/346, PG349–352, PG355–360, PG357–363": "CLOSED on registered scopes"
+  },
+  "runtime_policy": "Written derivation. Only changed-document, source and count checks. Claude owns grammar execution, generators, untouched suites and replay."
+}

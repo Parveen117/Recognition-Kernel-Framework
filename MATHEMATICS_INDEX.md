@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG764 · [The May 2020 rule records before the commentary split](research/panini_grammar/dhi_ca_may_2020_rule_files_before_the_commentary_split/README.md). Closes the electronic per-rule entry and split boundaries on the two named fields.
+
 PG763 · [Five year names, the keeper of a vow, and the sacrifice fee](research/panini_grammar/five_year_names_vows_and_seasonal_offerings/README.md). PG14 histories retain source recension, support case, referent and inflection at zero specialization.
 
 PG762 · [A dated Sanskrit transcription behind three matching Kāśikā records](research/panini_grammar/dated_pushpa_transcription_and_two_displaced_kasika_fields/README.md). Closes the named pre-import digital-locus question for 32111 and identifies two shared address errors.

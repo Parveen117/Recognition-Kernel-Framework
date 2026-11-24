@@ -1,0 +1,27 @@
+{
+  "stage": "PG764",
+  "morphology_interfaces": [],
+  "nominal_positions": [],
+  "source_policy_decisions": [
+    {
+      "id": "WHEN",
+      "sources": "PRE,FIRST,MAY,OCT,SPLIT",
+      "decision": "Earliest tracked rule file already has the heading mismatch. Distinguish first topic occurrence from first byte-identical field."
+    },
+    {
+      "id": "SOURCE",
+      "sources": "FIRST,SECOND,THIRD,NEIGH",
+      "decision": "Preserve the numeric rule, Kaumudī ordinals, literal commentary heading and principal rule as distinct identifiers. Exclude a uniform numerical shift and a two-way swap."
+    },
+    {
+      "id": "EXPORT",
+      "sources": "MAY,OCT,SPLIT",
+      "decision": "At both addressed fields the split is value preserving. Reject the October restructuring as their point of introduction."
+    },
+    {
+      "id": "REPAIR",
+      "sources": "FIRST,THIRD,SPLIT",
+      "decision": "Keep published 82025 fields quarantined for use as dhi ca. Earlier external input, a demonstrated mapping procedure, and upstream correction remain Open."
+    }
+  ]
+}
