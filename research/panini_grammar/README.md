@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG782 · [Wide horns, the two Rāmas and the oil poured for the fawn](wide_horns_the_two_ramas_and_the_oil_poured_for_the_fawn/README.md). Constructs the named extensions at 5.2.28–29 and derives a past narrative laṭ in Bhaṭṭi and a passive laṅ in Kālidāsa. 34 new nominal positions and 34 readings. 2 new finite positions and 2 finite readings.
+
 PG781 · [Tiras in the Osmania main text and apparatus at 1.4.72 and 8.3.42](tiras_in_the_osmania_main_text_and_apparatus/README.md). Locates the contested ktvā spelling and the editors’ explicit objection, then collates the sound rule’s main text and apparatus in the same edition. 0 new nominal positions and 0 readings. Finite positions and readings both increased by zero.
 
 PG780 · [The short-i ride and the long-ī horse-day in two Vedic distance clauses](short_i_ride_and_long_i_horse_day_in_vedic_distance_clauses/README.md). Verifies three measured extents in Śaunaka 6.131.3 and the explicit 5.2.19 analysis of the thousandfold locative in Aitareya 2.17.8. 6 new nominal positions and 6 readings. Finite positions and readings both increased by zero.

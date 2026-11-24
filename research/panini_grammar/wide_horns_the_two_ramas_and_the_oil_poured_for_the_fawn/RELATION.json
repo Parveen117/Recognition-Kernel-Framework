@@ -1,0 +1,411 @@
+{
+  "stage": "PG782",
+  "morphology_interfaces": [
+    {
+      "id": "HORN",
+      "base": "vi plus supplied relation of the horns",
+      "guard": "two horns as referents",
+      "affix": "śālac or śaṅkaṭac",
+      "result": "viśāla or viśaṅkaṭa"
+    },
+    {
+      "id": "BROAD",
+      "base": "a person and the relevant bodily region",
+      "guard": "quality of breadth",
+      "affix": "śaṅkaṭac on the commentary’s analysis",
+      "result": "viśaṅkaṭa"
+    },
+    {
+      "id": "NAME",
+      "base": "king or city named for him",
+      "guard": "proper designation in the narrative",
+      "affix": "name stem, independent personal or city agreement",
+      "result": "Viśāla or Viśālā"
+    },
+    {
+      "id": "PREFIX",
+      "base": "sam, pra, ud, or vi supplied by ca",
+      "guard": "conventional quality",
+      "affix": "kaṭac",
+      "result": "saṃkaṭa, prakaṭa, utkaṭa, vikaṭa"
+    },
+    {
+      "id": "DUST",
+      "base": "alābū, tila, umā, bhaṅgā",
+      "guard": "particulate product",
+      "affix": "kaṭac under the rajas supplement",
+      "result": "listed dust nouns"
+    },
+    {
+      "id": "PEN",
+      "base": "go or mahiṣī",
+      "guard": "animal’s place",
+      "affix": "goṣṭha supplement",
+      "result": "gogoṣṭha or mahiṣīgoṣṭha"
+    },
+    {
+      "id": "FLOCK",
+      "base": "avi",
+      "guard": "a collected flock",
+      "affix": "kaṭac",
+      "result": "avikaṭa"
+    },
+    {
+      "id": "SPREAD",
+      "base": "avi",
+      "guard": "spread of the sheep",
+      "affix": "paṭac",
+      "result": "avipaṭa"
+    },
+    {
+      "id": "PAIR",
+      "base": "camel or horse",
+      "guard": "two members of the named class",
+      "affix": "goyugac",
+      "result": "uṣṭragoyuga or aśvagoyuga"
+    },
+    {
+      "id": "SIX",
+      "base": "elephant or horse",
+      "guard": "six of the named animals",
+      "affix": "ṣaḍgavac",
+      "result": "hastiṣaḍgava or aśvaṣaḍgava"
+    },
+    {
+      "id": "OIL",
+      "base": "eraṇḍa, iṅguda or tila",
+      "guard": "oily product of that material",
+      "affix": "tailac in the grammatical example, independent genitive in the play",
+      "result": "named oil"
+    },
+    {
+      "id": "FIELD",
+      "base": "ikṣu or mūla",
+      "guard": "field in which this grows",
+      "affix": "śākaṭa or śākina",
+      "result": "two affix-conditioned field names"
+    },
+    {
+      "id": "COME",
+      "base": "ā plus iṇ 02.0040",
+      "guard": "Jamadagni’s son approaches, past narration with sma",
+      "affix": "laṭ P 3sg, 6.1.89 at the prefix boundary",
+      "result": "aiti"
+    },
+    {
+      "id": "POUR",
+      "base": "ni plus sic 06.0170",
+      "guard": "oil is poured by the woman",
+      "affix": "laṅ passive yak 3sg middle ending, aṭ and retroflexion",
+      "result": "nyaṣicyata"
+    },
+    {
+      "id": "SEP",
+      "base": "mother and fawn",
+      "guard": "the mother is absent",
+      "affix": "vinā and an instrumental dependent",
+      "result": "jananyā vinā"
+    }
+  ],
+  "nominal_positions": [
+    {
+      "id": "H1",
+      "source": "K28",
+      "input_history": "HORN",
+      "case_number": "N NOMdu",
+      "word": "viśāle",
+      "interpretation": "Adjectival predicate of śṛṅge, both horns."
+    },
+    {
+      "id": "H2",
+      "source": "K28",
+      "input_history": "HORN",
+      "case_number": "N NOMdu",
+      "word": "viśaṅkaṭe",
+      "interpretation": "The second suffix with the same dual referent."
+    },
+    {
+      "id": "CHEST",
+      "source": "BK",
+      "input_history": "BROAD",
+      "case_number": "M NOMsg",
+      "word": "viśaṅkaṭaḥ",
+      "interpretation": "The broad-chested one is Rāma Jāmadagnya, who approaches in the narrative."
+    },
+    {
+      "id": "AREA",
+      "source": "BK",
+      "input_history": "BROAD",
+      "case_number": "N LOCsg",
+      "word": "vakṣasi",
+      "interpretation": "Specifies where he is broad."
+    },
+    {
+      "id": "MAN",
+      "source": "VR",
+      "input_history": "NAME",
+      "case_number": "M NOMsg",
+      "word": "viśālaḥ",
+      "interpretation": "Ikṣvāku’s son is introduced by name."
+    },
+    {
+      "id": "FATHER",
+      "source": "VR",
+      "input_history": "NAME",
+      "case_number": "M GENsg",
+      "word": "viśālasya",
+      "interpretation": "Specifies whose son Hemacandra is."
+    },
+    {
+      "id": "CITY",
+      "source": "VR",
+      "input_history": "NAME",
+      "case_number": "F NOMsg",
+      "word": "viśālā",
+      "interpretation": "The name of the city in the naming clause. Joined viśāleti in the continuous text."
+    },
+    {
+      "id": "TREE",
+      "source": "PLAY",
+      "input_history": "OIL",
+      "case_number": "F GENpl",
+      "word": "iṅgudīnām",
+      "interpretation": "A separate genitive naming the oil’s source."
+    },
+    {
+      "id": "SUBJECT",
+      "source": "PLAY",
+      "input_history": "POUR",
+      "case_number": "N NOMsg",
+      "word": "tailam",
+      "interpretation": "Patient subject of the singular passive."
+    },
+    {
+      "id": "SITE",
+      "source": "PLAY",
+      "input_history": "POUR",
+      "case_number": "N LOCsg",
+      "word": "mukhe",
+      "interpretation": "Where the oil was poured."
+    },
+    {
+      "id": "MOTHER",
+      "source": "PROSE",
+      "input_history": "SEP",
+      "case_number": "F INSsg",
+      "word": "jananyā",
+      "interpretation": "Dependent of vinā in the prose following the verse."
+    },
+    {
+      "id": "PX1",
+      "source": "K29",
+      "input_history": "PREFIX",
+      "case_number": "N NOMsg",
+      "word": "saṃkaṭam",
+      "interpretation": "Neuter citation form on the named prefix request in the commentary."
+    },
+    {
+      "id": "PX2",
+      "source": "K29",
+      "input_history": "PREFIX",
+      "case_number": "N NOMsg",
+      "word": "prakaṭam",
+      "interpretation": "Neuter citation form on the named prefix request in the commentary."
+    },
+    {
+      "id": "PX3",
+      "source": "K29",
+      "input_history": "PREFIX",
+      "case_number": "N NOMsg",
+      "word": "utkaṭam",
+      "interpretation": "Neuter citation form on the named prefix request in the commentary."
+    },
+    {
+      "id": "PX4",
+      "source": "K29",
+      "input_history": "PREFIX",
+      "case_number": "N NOMsg",
+      "word": "vikaṭam",
+      "interpretation": "Neuter citation form on the named prefix request in the commentary."
+    },
+    {
+      "id": "R1",
+      "source": "K29",
+      "input_history": "DUST",
+      "case_number": "N NOMsg",
+      "word": "alābūkaṭam",
+      "interpretation": "Neuter citation form on the named dust request in the commentary."
+    },
+    {
+      "id": "R2",
+      "source": "K29",
+      "input_history": "DUST",
+      "case_number": "N NOMsg",
+      "word": "tilakaṭam",
+      "interpretation": "Neuter citation form on the named dust request in the commentary."
+    },
+    {
+      "id": "R3",
+      "source": "K29",
+      "input_history": "DUST",
+      "case_number": "N NOMsg",
+      "word": "umākaṭam",
+      "interpretation": "Neuter citation form on the named dust request in the commentary."
+    },
+    {
+      "id": "R4",
+      "source": "K29",
+      "input_history": "DUST",
+      "case_number": "N NOMsg",
+      "word": "bhaṅgākaṭam",
+      "interpretation": "Neuter citation form on the named dust request in the commentary."
+    },
+    {
+      "id": "P1",
+      "source": "K29",
+      "input_history": "PEN",
+      "case_number": "N NOMsg",
+      "word": "gogoṣṭham",
+      "interpretation": "Neuter citation form on the named pen request in the commentary."
+    },
+    {
+      "id": "P2",
+      "source": "K29",
+      "input_history": "PEN",
+      "case_number": "N NOMsg",
+      "word": "mahiṣīgoṣṭham",
+      "interpretation": "Neuter citation form on the named pen request in the commentary."
+    },
+    {
+      "id": "A1",
+      "source": "K29",
+      "input_history": "FLOCK",
+      "case_number": "N NOMsg",
+      "word": "avikaṭam",
+      "interpretation": "Neuter citation form on the named flock request in the commentary."
+    },
+    {
+      "id": "B1",
+      "source": "K29",
+      "input_history": "SPREAD",
+      "case_number": "N NOMsg",
+      "word": "avipaṭam",
+      "interpretation": "Neuter citation form on the named spread request in the commentary."
+    },
+    {
+      "id": "G1",
+      "source": "K29",
+      "input_history": "PAIR",
+      "case_number": "N NOMsg",
+      "word": "uṣṭragoyugam",
+      "interpretation": "Neuter citation form on the named pair request in the commentary."
+    },
+    {
+      "id": "G2",
+      "source": "K29",
+      "input_history": "PAIR",
+      "case_number": "N NOMsg",
+      "word": "aśvagoyugam",
+      "interpretation": "Neuter citation form on the named pair request in the commentary."
+    },
+    {
+      "id": "S1",
+      "source": "K29",
+      "input_history": "SIX",
+      "case_number": "N NOMsg",
+      "word": "hastiṣaḍgavam",
+      "interpretation": "Neuter citation form on the named six request in the commentary."
+    },
+    {
+      "id": "S2",
+      "source": "K29",
+      "input_history": "SIX",
+      "case_number": "N NOMsg",
+      "word": "aśvaṣaḍgavam",
+      "interpretation": "Neuter citation form on the named six request in the commentary."
+    },
+    {
+      "id": "O1",
+      "source": "K29",
+      "input_history": "OIL",
+      "case_number": "N NOMsg",
+      "word": "eraṇḍatailam",
+      "interpretation": "Neuter citation form on the named oil request in the commentary."
+    },
+    {
+      "id": "O2",
+      "source": "K29",
+      "input_history": "OIL",
+      "case_number": "N NOMsg",
+      "word": "iṅgudatailam",
+      "interpretation": "Neuter citation form on the named oil request in the commentary."
+    },
+    {
+      "id": "O3",
+      "source": "K29",
+      "input_history": "OIL",
+      "case_number": "N NOMsg",
+      "word": "tilatailam",
+      "interpretation": "Neuter citation form on the named oil request in the commentary."
+    },
+    {
+      "id": "F1",
+      "source": "K29",
+      "input_history": "FIELD",
+      "case_number": "N NOMsg",
+      "word": "ikṣuśākaṭam",
+      "interpretation": "Neuter citation form on the named field request in the commentary."
+    },
+    {
+      "id": "F2",
+      "source": "K29",
+      "input_history": "FIELD",
+      "case_number": "N NOMsg",
+      "word": "ikṣuśākinam",
+      "interpretation": "Neuter citation form on the named field request in the commentary."
+    },
+    {
+      "id": "F3",
+      "source": "K29",
+      "input_history": "FIELD",
+      "case_number": "N NOMsg",
+      "word": "mūlaśākaṭam",
+      "interpretation": "Neuter citation form on the named field request in the commentary."
+    },
+    {
+      "id": "F4",
+      "source": "K29",
+      "input_history": "FIELD",
+      "case_number": "N NOMsg",
+      "word": "mūlaśākinam",
+      "interpretation": "Neuter citation form on the named field request in the commentary."
+    }
+  ],
+  "source_policy_decisions": [
+    {
+      "id": "QUALITY",
+      "sources": "K28,BK,J,VR,VRALT",
+      "decision": "The horn dual, a human quality with a bodily qualifier and two proper names are separate inputs. The epic permits the name without making a claim about the founder’s physique."
+    },
+    {
+      "id": "SUPPLEMENTS",
+      "sources": "K29,SK,LANG",
+      "decision": "Keep four prefix words distinct from the supplements with named bases or senses. A two-member animal expression and a place for animals are different constructions even when cattle words occur in the suffixes."
+    },
+    {
+      "id": "OIL",
+      "sources": "K29,LANG,PLAY,SK",
+      "decision": "The play has the independently inflected tree name and an independent oil noun. It establishes the material and the verse’s syntax without attesting the frozen single-word iṅgudatailam."
+    },
+    {
+      "id": "PARTICIPANTS",
+      "sources": "PROSE,PLAY,PARSE",
+      "decision": "The oil is the grammatical subject, the woman the agent and the mouth the locus. The mother in the next utterance depends on vinā. Preserve both the speaker change and the case owner."
+    },
+    {
+      "id": "FINITE",
+      "sources": "BK,J,SM,PARSE,ROOT,AUG,SIC",
+      "decision": "Two independent P3sg/Ā3sg requests. Past narrative with laṭ and sma and augmented passive laṅ are locally resolved on those addresses. No broader grid is credited."
+    }
+  ]
+}

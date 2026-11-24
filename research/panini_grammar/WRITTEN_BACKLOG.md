@@ -1,6 +1,8 @@
-# Written-development backlog at PG781
+# Written-development backlog at PG782
 
-Monty · 2026-11-25 · reviewed parent e6b93cd7f8947be7eda5d2a5a595c1e9df65c66c. Historical closures below retain their exact pins.
+Monty · 2026-11-25 · reviewed parent 08d74d39a4fe871c4d7d0e1a6d98f1e967025271. Historical closures below retain their exact pins.
+
+PG782 · [Wide horns, the two Rāmas and the oil poured for the fawn](wide_horns_the_two_ramas_and_the_oil_poured_for_the_fawn/README.md). The historical analyses of conventional quality words, the exact transmission of the oil-name variants and wider primary attestations of the supplements remain Open. Continue the two ava openings and the named nose shapes at 5.2.30–32. The check of the older 5.2.37 height construction remains separate from this verse’s quality and finite positions. C2–C5 and S1–S7 remain Open.
 
 PG781 · [Tiras in the Osmania main text and apparatus at 1.4.72 and 8.3.42](tiras_in_the_osmania_main_text_and_apparatus/README.md). S7 1.4.72 is locally resolved for the Osmania main text, its first footnote and the 8.3.42 apparatus. Original Mādhava, the Tattva print glyphs, direct manuscript collation and the authorial explanation remain Open. Next continue the vi derivatives at 5.2.28–29. The S2 and S3 upstream actions retain their distinct scope. C2–C5 and S1–S7 remain Open.
 

@@ -2,6 +2,12 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG782 · Wide horns, the two Rāmas and the oil poured for the fawn
+
+PG782 · [Wide horns, the two Rāmas and the oil poured for the fawn](wide_horns_the_two_ramas_and_the_oil_poured_for_the_fawn/README.md). Constructs the named extensions at 5.2.28–29 and derives a past narrative laṭ in Bhaṭṭi and a passive laṅ in Kālidāsa. 34 new nominal positions and 34 readings. 2 new finite positions and 2 finite readings. One written morphology construction with 15 interfaces, 15 source observations and 5 source decisions. Census: 52,351 finite positions, 21,253 nominal positions and 24,041 nominal readings.
+
+Parent 08d74d39a4fe871c4d7d0e1a6d98f1e967025271. The containing commit pins this packet. The historical analyses of conventional quality words, the exact transmission of the oil-name variants and wider primary attestations of the supplements remain Open. Continue the two ava openings and the named nose shapes at 5.2.30–32. The check of the older 5.2.37 height construction remains separate from this verse’s quality and finite positions. C2–C5 and S1–S7 remain Open. Claude retains execution.
+
 ## PG781 · Tiras in the Osmania main text and apparatus at 1.4.72 and 8.3.42
 
 PG781 · [Tiras in the Osmania main text and apparatus at 1.4.72 and 8.3.42](tiras_in_the_osmania_main_text_and_apparatus/README.md). Locates the contested ktvā spelling and the editors’ explicit objection, then collates the sound rule’s main text and apparatus in the same edition. 0 new nominal positions and 0 readings. Finite positions and readings both increased by zero. Eight source observations and four source decisions on the existing constructions. Census: 52,349 finite positions, 21,219 nominal positions and 24,007 nominal readings.
@@ -56,6 +62,15 @@ PG773 · [Crop fields, the scope of “entirely,” and what a mirror shows](fie
 
 Parent 60ca8a1fc1ec5a751c0ec9ab279f47e9719015de. The containing commit pins this packet. The cause of the short a in the displayed aṇavīna lexical index and the history of the frozen misordered vrīhi signs remain Open. Wider case and accented usage are unreviewed. Continue 5.2.7–17 on extent, movement and named expressions, checking the existing footwear, traveller and figurative state owners. C2–C5 and S1–S7 remain Open. Claude retains execution.
 
+## Maintainer questions for the two source records
+
+The following two questions are ready for the maintainers of the digital source. They require an upstream reply or recorded editorial decision. This review branch supplies the underlying comparisons.
+
+1. For **8.2.25**, the 11 May 2020 per-rule record already attaches Bālamanoramā and Tattvabodhinī passages headed *ho ḍhaḥ* to the *dhi ca* address. By 28 May those fields match the later split records verbatim. Which source or assignment rule supplied these two fields? Can the source project identify the correct attachments and record its disposition? [11 May record](https://github.com/ashtadhyayi-com/data/blob/1e450f94bf08eeb9aca611f6d4ca65cff1d100fd/sutraani/8/2/8.2.25.txt) · [28 May record](https://github.com/ashtadhyayi-com/data/blob/a563215406a800fd6f7d063759fa234333160264/sutraani/8/2/8.2.25.txt) · [Compared fields](dhi_ca_may_2020_rule_files_before_the_commentary_split/COMPARISONS.json).
+2. For **3.2.111**, a December 2023 replacement changes the Kāśikā field from *laṅ* to *luṅ*. A Puṣpā-prati transcription already contains the latter on 27 December, with two other unusually matching address errors. The two checked printed editions prescribe *laṅ*. Which edition or electronic master informed the replacement, and was *luṅ* an intentional recorded variant or an inherited error? Can the source project preserve the variant’s provenance and record its decision on the operative field? [Replacement](https://github.com/ashtadhyayi-com/data/commit/cd9f92b000d46045f50419968497839e368f5c55) · [Dated transcription](https://github.com/vishvAsa/sanskrit/blob/0d571bfd85e5da16453f5fef06bc74bb450690ba/vyAkaraNam/pANinIyam/mUlAni/kAshikA/puShpA-pratiH/3.md) · [Two print locators](anadyatana_two_printed_kasika_prescriptions/SOURCES.json).
+
+A reply would address editorial provenance and disposition. S2's manuscript and whole-word requirements and S3's wider critical lineage retain their separate tests. These questions are recorded for authorized submission. No correspondence or external repair is recorded here.
+
 ## Publication register from PG746
 
 The starting census at [PG746](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/1338c7689f0ab0040538b31264274695a4d12441) was 52,345 finite positions, 20,351 nominal positions and 22,984 nominal readings. Each following line is the increment owned by that stage. The finite-reading column measures additions. The stage states do not register an absolute finite-reading census.
@@ -96,9 +111,10 @@ The starting census at [PG746](https://github.com/Parveen117/Recognition-Kernel-
 | PG778 | [d612a8ce76160fa2ced0283569b5a31865b92363](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/d612a8ce76160fa2ced0283569b5a31865b92363) | 0 | 0 | 32 | 36 | 1 | 10 | 13 | 5 | — |
 | PG779 | [1268f8f070959cbaec0deefa3336b46840b0f157](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/1268f8f070959cbaec0deefa3336b46840b0f157) | 0 | 0 | 5 | 5 | 1 | 6 | 15 | 5 | 1 syntax constructions, 5 syntax readouts, 1 accent constructions, 1 accent readouts |
 | PG780 | [e6b93cd7f8947be7eda5d2a5a595c1e9df65c66c](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/e6b93cd7f8947be7eda5d2a5a595c1e9df65c66c) | 0 | 0 | 6 | 6 | 1 | 5 | 12 | 5 | 1 accent constructions, 3 accent readouts |
-| PG781 | Containing commit | 0 | 0 | 0 | 0 | 0 | 0 | 8 | 4 | — |
+| PG781 | [08d74d39a4fe871c4d7d0e1a6d98f1e967025271](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/08d74d39a4fe871c4d7d0e1a6d98f1e967025271) | 0 | 0 | 0 | 0 | 0 | 0 | 8 | 4 | — |
+| PG782 | Containing commit | 2 | 2 | 34 | 34 | 1 | 15 | 15 | 5 | — |
 
-Through PG781 the census is 52,349 finite positions, 21,219 nominal positions and 24,007 nominal readings. The PG335 correction is carried through the baseline. Protected registers contribute no new units here.
+Through PG782 the census is 52,351 finite positions, 21,253 nominal positions and 24,041 nominal readings. The PG335 correction is carried through the baseline. Protected registers contribute no new units here.
 
 ## PG772 · Two causal predicates and the changing cases of hotrā in Aitareya 6.14
 

@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG781
+# Pāṇini grammar · current written coverage at PG782
+
+PG782 · [Wide horns, the two Rāmas and the oil poured for the fawn](wide_horns_the_two_ramas_and_the_oil_poured_for_the_fawn/README.md). Constructs the named extensions at 5.2.28–29 and derives a past narrative laṭ in Bhaṭṭi and a passive laṅ in Kālidāsa. Census: 52,351 finite positions, 21,253 nominal positions and 24,041 nominal readings.
 
 PG781 · [Tiras in the Osmania main text and apparatus at 1.4.72 and 8.3.42](tiras_in_the_osmania_main_text_and_apparatus/README.md). Locates the contested ktvā spelling and the editors’ explicit objection, then collates the sound rule’s main text and apparatus in the same edition. Census: 52,349 finite positions, 21,219 nominal positions and 24,007 nominal readings.
 
