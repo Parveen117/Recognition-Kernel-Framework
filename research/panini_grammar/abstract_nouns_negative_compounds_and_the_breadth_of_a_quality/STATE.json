@@ -1,0 +1,36 @@
+{
+  "stage": "PG769",
+  "date": "2026-11-25",
+  "publication_parent": "def772c6c8f0d3a19af40a77e3253d6a6418a669",
+  "baseline": {
+    "commit": "def772c6c8f0d3a19af40a77e3253d6a6418a669",
+    "path": "research/panini_grammar/three_sevens_and_accent_in_the_rbhu_hymn/STATE.json"
+  },
+  "finite_positions": 52345,
+  "nominal_positions": 20941,
+  "nominal_readings": 23657,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 51,
+  "new_nominal_readings": 51,
+  "new_morphology_constructions": 1,
+  "new_morphology_interfaces": 12,
+  "new_source_observations": 15,
+  "new_source_policy_decisions": 6,
+  "open_obligations": [
+    "The manuscript lineage of the budha/yudha readings, unreviewed gaṇa members and the remaining compound-sensitive options at 123 are Open.",
+    "Continue 5.1.124–136 on quality, action, friendship, office, age and the priestly boundary. S1’s disputed finite line is independent of the directly located Bhaṭṭi 4.17."
+  ],
+  "local_closure": "PG14 retains separate affix and case histories where the verses and commentaries exhibit exactly the same spelling.",
+  "global_gates": {
+    "C2–C5": "Open",
+    "S1–S7": "Open",
+    "S5_direct_fields": "99/103",
+    "S6": "Independent 5.56 k-it effect Open"
+  },
+  "protected_registers": {
+    "PG335": "-9 finite positions and -12 readings already applied",
+    "PG340/346, PG349–352, PG355–360, PG357–363": "CLOSED on registered scopes"
+  },
+  "runtime_policy": "Written derivation. Only changed-document, source and count checks. Claude owns grammar execution, generators, untouched suites and replay."
+}

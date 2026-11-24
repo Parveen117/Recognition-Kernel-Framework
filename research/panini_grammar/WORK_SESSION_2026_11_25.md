@@ -2,6 +2,12 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG769 · Abstract nouns, negative compounds, and the breadth of a quality
+
+PG769 · [Abstract nouns, negative compounds, and the breadth of a quality](abstract_nouns_negative_compounds_and_the_breadth_of_a_quality/README.md). Builds 5.1.119–123 on witnessed negative compounds, colour and measure abstracts, including one source divergence and two literary cases of breadth. 51 new nominal positions and 51 readings. Finite positions and readings both increased by zero. One written morphology construction with 12 interfaces, 15 source observations and 6 source decisions. Census: 52,345 finite positions, 20,941 nominal positions and 23,657 nominal readings.
+
+Parent def772c6c8f0d3a19af40a77e3253d6a6418a669. The containing commit pins this packet. The manuscript lineage of the budha/yudha readings, unreviewed gaṇa members and the remaining compound-sensitive options at 123 are Open. Continue 5.1.124–136 on quality, action, friendship, office, age and the priestly boundary. S1’s disputed finite line is independent of the directly located Bhaṭṭi 4.17. C2–C5 and S1–S7 remain Open. Claude retains execution.
+
 ## PG768 · Three sevens and five accent readings in the Ṛbhu hymn
 
 PG768 · [Three sevens and five accent readings in the Ṛbhu hymn](three_sevens_and_accent_in_the_rbhu_hymn/README.md). Adds the commentator’s singular group definition and three contextual case forms, with five explicitly attributed accent readings. 4 new nominal positions and 4 readings. Finite positions and readings both increased by zero. One accent construction with [five readings](three_sevens_and_accent_in_the_rbhu_hymn/ACCENT_READOUTS.json). One written morphology construction with 6 interfaces, 13 source observations and 6 source decisions. Census: 52,345 finite positions, 20,890 nominal positions and 23,606 nominal readings.

@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG769 · [Abstract nouns, negative compounds, and the breadth of a quality](abstract_nouns_negative_compounds_and_the_breadth_of_a_quality/README.md). Builds 5.1.119–123 on witnessed negative compounds, colour and measure abstracts, including one source divergence and two literary cases of breadth. 51 new nominal positions and 51 readings. Finite positions and readings both increased by zero.
+
 PG768 · [Three sevens and five accent readings in the Ṛbhu hymn](three_sevens_and_accent_in_the_rbhu_hymn/README.md). Adds the commentator’s singular group definition and three contextual case forms, with five explicitly attributed accent readings. 4 new nominal positions and 4 readings. Finite positions and readings both increased by zero.
 
 PG767 · [Vati in comparisons, and the Vedic words for high and low places](vati_comparison_actions_and_vedic_high_and_low_places/README.md). Builds the vati comparisons and the case-bearing Vedic preverb nouns, with separately attested object, subject and locative plural profiles. 7 new nominal positions and 7 readings. Finite positions and readings both increased by zero.

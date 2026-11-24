@@ -1,0 +1,531 @@
+{
+  "stage": "PG769",
+  "morphology_interfaces": [
+    {
+      "id": "TV",
+      "base": "qualified base",
+      "guard": "ground of designation, ordinary branch survives",
+      "affix": "tva",
+      "result": "neuter abstract"
+    },
+    {
+      "id": "TA",
+      "base": "qualified base",
+      "guard": "same ground, distinct suffix and gender",
+      "affix": "tal",
+      "result": "feminine abstract in tā"
+    },
+    {
+      "id": "IMA",
+      "base": "pṛthu, mṛdu, tanu",
+      "guard": "pṛthvādi, optional specialized derivation",
+      "affix": "imanic with local changes",
+      "result": "masculine iman stem, strong nom ā and acc ānam"
+    },
+    {
+      "id": "AN",
+      "base": "pṛthu, mṛdu, tanu",
+      "guard": "light preceding syllable and ik-final base",
+      "affix": "aṇ",
+      "result": "distinct neuter grade"
+    },
+    {
+      "id": "BAHU",
+      "base": "apaṭu or alaghu",
+      "guard": "external possessor, rather than negative tatpuruṣa",
+      "affix": "aṇ",
+      "result": "āpaṭava or ālaghava"
+    },
+    {
+      "id": "EX",
+      "base": "named negative compound",
+      "guard": "express lexical exception to the prohibiting domain",
+      "affix": "ṣyañ",
+      "result": "neuter special abstract"
+    },
+    {
+      "id": "EXB",
+      "base": "abudha",
+      "guard": "witness with budha as member",
+      "affix": "ṣyañ",
+      "result": "ābudhya"
+    },
+    {
+      "id": "EXY",
+      "base": "ayudha",
+      "guard": "witness with yudha as member",
+      "affix": "ṣyañ",
+      "result": "āyudhya"
+    },
+    {
+      "id": "CI",
+      "base": "colour term or dṛḍādi",
+      "guard": "optional iman of a specified adjective",
+      "affix": "imanic",
+      "result": "śukliman, kṛṣṇiman, draḍhiman"
+    },
+    {
+      "id": "SY",
+      "base": "colour term or dṛḍādi",
+      "guard": "specific quality under 123",
+      "affix": "ṣyañ",
+      "result": "neuter quality abstract"
+    },
+    {
+      "id": "NGI",
+      "base": "ṣyañ derivative",
+      "guard": "feminine application attested by grammar, 4.1.41 and 6.4.150",
+      "affix": "ṅīṣ and y loss",
+      "result": "final ī"
+    },
+    {
+      "id": "BLOCK",
+      "base": "a-pati, a-paṭu, a-ramaṇīya",
+      "guard": "negative tatpuruṣa outside exceptions",
+      "affix": "forbid subsequent yak, aṇ, vuñ respectively",
+      "result": "ordinary tva or tal remains available"
+    }
+  ],
+  "nominal_positions": [
+    {
+      "id": "P01",
+      "source": "K119",
+      "input_history": "TV",
+      "case_number": "N NOMsg",
+      "word": "aśvatvam",
+      "interpretation": "Defining property of the horse in the grammatical example."
+    },
+    {
+      "id": "P02",
+      "source": "K119",
+      "input_history": "TA",
+      "case_number": "F NOMsg",
+      "word": "aśvatā",
+      "interpretation": "Defining property of the horse in the grammatical example."
+    },
+    {
+      "id": "P03",
+      "source": "K119",
+      "input_history": "TV",
+      "case_number": "N NOMsg",
+      "word": "gotvam",
+      "interpretation": "Defining property of the cow in the grammatical example."
+    },
+    {
+      "id": "P04",
+      "source": "K119",
+      "input_history": "TA",
+      "case_number": "F NOMsg",
+      "word": "gotā",
+      "interpretation": "Defining property of the cow in the grammatical example."
+    },
+    {
+      "id": "P05",
+      "source": "TS",
+      "input_history": "IMA",
+      "case_number": "M NOMsg",
+      "word": "prathimā",
+      "interpretation": "Abstract of pṛthu. The chosen grammatical subject or definition is recorded once."
+    },
+    {
+      "id": "P06",
+      "source": "K120",
+      "input_history": "AN",
+      "case_number": "N NOMsg",
+      "word": "pārthavam",
+      "interpretation": "Abstract of pṛthu. The chosen grammatical subject or definition is recorded once."
+    },
+    {
+      "id": "P07",
+      "source": "K120",
+      "input_history": "TV",
+      "case_number": "N NOMsg",
+      "word": "pṛthutvam",
+      "interpretation": "Abstract of pṛthu. The chosen grammatical subject or definition is recorded once."
+    },
+    {
+      "id": "P08",
+      "source": "K120",
+      "input_history": "TA",
+      "case_number": "F NOMsg",
+      "word": "pṛthutā",
+      "interpretation": "Abstract of pṛthu. The chosen grammatical subject or definition is recorded once."
+    },
+    {
+      "id": "P09",
+      "source": "K120",
+      "input_history": "IMA",
+      "case_number": "M NOMsg",
+      "word": "mradimā",
+      "interpretation": "Abstract of mṛdu. The chosen grammatical subject or definition is recorded once."
+    },
+    {
+      "id": "P10",
+      "source": "GITA",
+      "input_history": "AN",
+      "case_number": "N NOMsg",
+      "word": "mārdavam",
+      "interpretation": "Abstract of mṛdu. The chosen grammatical subject or definition is recorded once."
+    },
+    {
+      "id": "P11",
+      "source": "K120",
+      "input_history": "TV",
+      "case_number": "N NOMsg",
+      "word": "mṛdutvam",
+      "interpretation": "Abstract of mṛdu. The chosen grammatical subject or definition is recorded once."
+    },
+    {
+      "id": "P12",
+      "source": "SANK",
+      "input_history": "TA",
+      "case_number": "F NOMsg",
+      "word": "mṛdutā",
+      "interpretation": "Abstract of mṛdu. The chosen grammatical subject or definition is recorded once."
+    },
+    {
+      "id": "P13",
+      "source": "BV",
+      "input_history": "IMA",
+      "case_number": "M NOMsg",
+      "word": "tanimā",
+      "interpretation": "Abstract of tanu. The chosen grammatical subject or definition is recorded once."
+    },
+    {
+      "id": "P14",
+      "source": "BV",
+      "input_history": "AN",
+      "case_number": "N NOMsg",
+      "word": "tānavam",
+      "interpretation": "Abstract of tanu. The chosen grammatical subject or definition is recorded once."
+    },
+    {
+      "id": "P15",
+      "source": "BV",
+      "input_history": "TV",
+      "case_number": "N NOMsg",
+      "word": "tanutvam",
+      "interpretation": "Abstract of tanu. The chosen grammatical subject or definition is recorded once."
+    },
+    {
+      "id": "P16",
+      "source": "BV",
+      "input_history": "TA",
+      "case_number": "F NOMsg",
+      "word": "tanutā",
+      "interpretation": "Abstract of tanu. The chosen grammatical subject or definition is recorded once."
+    },
+    {
+      "id": "P17",
+      "source": "BHAT",
+      "input_history": "IMA",
+      "case_number": "M ACCsg",
+      "word": "prathimānam",
+      "interpretation": "Extent borne by the bodily feature in Bhaṭṭi, then attained by royal qualities in Raghuvaṃśa. Same strong case."
+    },
+    {
+      "id": "P18",
+      "source": "MALL",
+      "input_history": "TV",
+      "case_number": "N ACCsg",
+      "word": "pṛthutvam",
+      "interpretation": "The accusative explicates the object prathimānam of āpuḥ in Mallinātha’s paraphrase."
+    },
+    {
+      "id": "P19",
+      "source": "K121",
+      "input_history": "TV",
+      "case_number": "N NOMsg",
+      "word": "apatitvam",
+      "interpretation": "The ordinary abstract survives on negative tatpuruṣa a-pati."
+    },
+    {
+      "id": "P20",
+      "source": "K121",
+      "input_history": "TA",
+      "case_number": "F NOMsg",
+      "word": "apatitā",
+      "interpretation": "The ordinary abstract survives on negative tatpuruṣa a-pati."
+    },
+    {
+      "id": "P21",
+      "source": "K121",
+      "input_history": "TV",
+      "case_number": "N NOMsg",
+      "word": "apaṭutvam",
+      "interpretation": "The ordinary abstract survives on negative tatpuruṣa a-paṭu."
+    },
+    {
+      "id": "P22",
+      "source": "K121",
+      "input_history": "TA",
+      "case_number": "F NOMsg",
+      "word": "apaṭutā",
+      "interpretation": "The ordinary abstract survives on negative tatpuruṣa a-paṭu."
+    },
+    {
+      "id": "P23",
+      "source": "K121",
+      "input_history": "TV",
+      "case_number": "N NOMsg",
+      "word": "aramaṇīyatvam",
+      "interpretation": "The ordinary abstract survives on negative tatpuruṣa a-ramaṇīya."
+    },
+    {
+      "id": "P24",
+      "source": "K121",
+      "input_history": "TA",
+      "case_number": "F NOMsg",
+      "word": "aramaṇīyatā",
+      "interpretation": "The ordinary abstract survives on negative tatpuruṣa a-ramaṇīya."
+    },
+    {
+      "id": "P25",
+      "source": "K121",
+      "input_history": "BAHU",
+      "case_number": "N NOMsg",
+      "word": "āpaṭavam",
+      "interpretation": "The negative compound denotes an external possessor. Its abstract has the special aṇ route."
+    },
+    {
+      "id": "P26",
+      "source": "K121",
+      "input_history": "BAHU",
+      "case_number": "N NOMsg",
+      "word": "ālaghavam",
+      "interpretation": "The negative compound denotes an external possessor. Its abstract has the special aṇ route."
+    },
+    {
+      "id": "P27",
+      "source": "K121",
+      "input_history": "EX",
+      "case_number": "N NOMsg",
+      "word": "ācaturyam",
+      "interpretation": "Named exception under the reading of the frozen field."
+    },
+    {
+      "id": "P28",
+      "source": "K121",
+      "input_history": "EX",
+      "case_number": "N NOMsg",
+      "word": "āsaṃgatyam",
+      "interpretation": "Named exception under the reading of the frozen field."
+    },
+    {
+      "id": "P29",
+      "source": "K121",
+      "input_history": "EX",
+      "case_number": "N NOMsg",
+      "word": "ālavaṇyam",
+      "interpretation": "Named exception under the reading of the frozen field."
+    },
+    {
+      "id": "P30",
+      "source": "K121",
+      "input_history": "EX",
+      "case_number": "N NOMsg",
+      "word": "āvaṭyam",
+      "interpretation": "Named exception under the reading of the frozen field."
+    },
+    {
+      "id": "P31",
+      "source": "K121",
+      "input_history": "EXB",
+      "case_number": "N NOMsg",
+      "word": "ābudhyam",
+      "interpretation": "Named exception under the reading of the frozen field."
+    },
+    {
+      "id": "P32",
+      "source": "K121",
+      "input_history": "EX",
+      "case_number": "N NOMsg",
+      "word": "ākatyam",
+      "interpretation": "Named exception under the reading of the frozen field."
+    },
+    {
+      "id": "P33",
+      "source": "K121",
+      "input_history": "EX",
+      "case_number": "N NOMsg",
+      "word": "ārasyam",
+      "interpretation": "Named exception under the reading of the frozen field."
+    },
+    {
+      "id": "P34",
+      "source": "NITI",
+      "input_history": "EX",
+      "case_number": "N NOMsg",
+      "word": "ālasyam",
+      "interpretation": "Laziness is predicated to be a bodily enemy. This confirms the grammatical citation nominative."
+    },
+    {
+      "id": "P35",
+      "source": "BALA",
+      "input_history": "EXY",
+      "case_number": "N NOMsg",
+      "word": "āyudhyam",
+      "interpretation": "Variant base a-yudha in the Bālamanoramā example. A different lexical request from a-budha."
+    },
+    {
+      "id": "P36",
+      "source": "K123",
+      "input_history": "CI",
+      "case_number": "M NOMsg",
+      "word": "śuklimā",
+      "interpretation": "Quality under the colour or dṛḍādi member condition."
+    },
+    {
+      "id": "P37",
+      "source": "K123",
+      "input_history": "SY",
+      "case_number": "N NOMsg",
+      "word": "śauklyam",
+      "interpretation": "Quality under the colour or dṛḍādi member condition."
+    },
+    {
+      "id": "P38",
+      "source": "K123",
+      "input_history": "TV",
+      "case_number": "N NOMsg",
+      "word": "śuklatvam",
+      "interpretation": "Quality under the colour or dṛḍādi member condition."
+    },
+    {
+      "id": "P39",
+      "source": "K123",
+      "input_history": "TA",
+      "case_number": "F NOMsg",
+      "word": "śuklatā",
+      "interpretation": "Quality under the colour or dṛḍādi member condition."
+    },
+    {
+      "id": "P40",
+      "source": "K123",
+      "input_history": "CI",
+      "case_number": "M NOMsg",
+      "word": "kṛṣṇimā",
+      "interpretation": "Quality under the colour or dṛḍādi member condition."
+    },
+    {
+      "id": "P41",
+      "source": "K123",
+      "input_history": "SY",
+      "case_number": "N NOMsg",
+      "word": "kārṣṇyam",
+      "interpretation": "Quality under the colour or dṛḍādi member condition."
+    },
+    {
+      "id": "P42",
+      "source": "K123",
+      "input_history": "TV",
+      "case_number": "N NOMsg",
+      "word": "kṛṣṇatvam",
+      "interpretation": "Quality under the colour or dṛḍādi member condition."
+    },
+    {
+      "id": "P43",
+      "source": "K123",
+      "input_history": "TA",
+      "case_number": "F NOMsg",
+      "word": "kṛṣṇatā",
+      "interpretation": "Quality under the colour or dṛḍādi member condition."
+    },
+    {
+      "id": "P44",
+      "source": "K123",
+      "input_history": "CI",
+      "case_number": "M NOMsg",
+      "word": "draḍhimā",
+      "interpretation": "Quality under the colour or dṛḍādi member condition."
+    },
+    {
+      "id": "P45",
+      "source": "K123",
+      "input_history": "SY",
+      "case_number": "N NOMsg",
+      "word": "dārḍhyam",
+      "interpretation": "Quality under the colour or dṛḍādi member condition."
+    },
+    {
+      "id": "P46",
+      "source": "K123",
+      "input_history": "TV",
+      "case_number": "N NOMsg",
+      "word": "dṛḍhatvam",
+      "interpretation": "Quality under the colour or dṛḍādi member condition."
+    },
+    {
+      "id": "P47",
+      "source": "K123",
+      "input_history": "TA",
+      "case_number": "F NOMsg",
+      "word": "dṛḍhatā",
+      "interpretation": "Quality under the colour or dṛḍādi member condition."
+    },
+    {
+      "id": "P48",
+      "source": "K123",
+      "input_history": "NGI",
+      "case_number": "F NOMsg",
+      "word": "aucitī",
+      "interpretation": "Grammatical example of the final feminine formed with ṅīṣ after ṣyañ."
+    },
+    {
+      "id": "P49",
+      "source": "K123",
+      "input_history": "NGI",
+      "case_number": "F NOMsg",
+      "word": "yāthākāmī",
+      "interpretation": "Grammatical example of the final feminine formed with ṅīṣ after ṣyañ."
+    },
+    {
+      "id": "P50",
+      "source": "BV",
+      "input_history": "NGI",
+      "case_number": "F NOMsg",
+      "word": "ānupūrvī",
+      "interpretation": "Grammatical example of the final feminine formed with ṅīṣ after ṣyañ."
+    },
+    {
+      "id": "P51",
+      "source": "BV",
+      "input_history": "NGI",
+      "case_number": "F NOMsg",
+      "word": "vaidagdhī",
+      "interpretation": "Grammatical example of the final feminine formed with ṅīṣ after ṣyañ."
+    }
+  ],
+  "source_policy_decisions": [
+    {
+      "id": "BASE",
+      "sources": "K119,K120",
+      "decision": "Treat a defining property separately from an unrelated attribute of the same referent. Keep abstract gender tied to its suffix."
+    },
+    {
+      "id": "NEG",
+      "sources": "K121,BALA,ED",
+      "decision": "Classify compound and source spelling before suffix. The two special cases in budha and yudha have different bases. Neither licenses a free switch on a single input."
+    },
+    {
+      "id": "OPTION",
+      "sources": "K120,K122,BV",
+      "decision": "Separate general tva/tal coexistence from the option to retain the independently licensed special affix. Preserve the uninflected PG36 register."
+    },
+    {
+      "id": "BODY",
+      "sources": "TS,BHAT,RAG,MALL",
+      "decision": "One iman nominative and one accusative despite three contexts. Mallinātha supplies a separate, explicit accusative on the tva stem."
+    },
+    {
+      "id": "SOFT",
+      "sources": "K120,GITA,SANK",
+      "decision": "The lexical modes of softness coincide locally on these readings. The verse does not enumerate or select the other affix routes."
+    },
+    {
+      "id": "FEM",
+      "sources": "K123,BV",
+      "decision": "The ṣ marker, feminine affix and loss of y give separate decisions. The feminine examples are not evidence that every colour abstract has all genders."
+    }
+  ]
+}

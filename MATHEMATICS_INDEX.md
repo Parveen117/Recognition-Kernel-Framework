@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG769 · [Abstract nouns, negative compounds, and the breadth of a quality](research/panini_grammar/abstract_nouns_negative_compounds_and_the_breadth_of_a_quality/README.md). PG14 retains separate affix and case histories where the verses and commentaries exhibit exactly the same spelling.
+
 PG768 · [Three sevens and five accent readings in the Ṛbhu hymn](research/panini_grammar/three_sevens_and_accent_in_the_rbhu_hymn/README.md). The group accusative remains PG755’s. PG14 distinguishes the affix, inflection, compound and repetition that own each accent.
 
 PG767 · [Vati in comparisons, and the Vedic words for high and low places](research/panini_grammar/vati_comparison_actions_and_vedic_high_and_low_places/README.md). PG14 separates invariant comparison readouts and the seven inflected Vedic positions.

@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG768
+# Pāṇini grammar · current written coverage at PG769
+
+PG769 · [Abstract nouns, negative compounds, and the breadth of a quality](abstract_nouns_negative_compounds_and_the_breadth_of_a_quality/README.md). Builds 5.1.119–123 on witnessed negative compounds, colour and measure abstracts, including one source divergence and two literary cases of breadth. Census: 52,345 finite positions, 20,941 nominal positions and 23,657 nominal readings.
 
 PG768 · [Three sevens and five accent readings in the Ṛbhu hymn](three_sevens_and_accent_in_the_rbhu_hymn/README.md). Adds the commentator’s singular group definition and three contextual case forms, with five explicitly attributed accent readings. Census: 52,345 finite positions, 20,890 nominal positions and 23,606 nominal readings.
 

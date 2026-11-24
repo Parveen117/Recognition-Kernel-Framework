@@ -1,6 +1,8 @@
-# Written-development backlog at PG768
+# Written-development backlog at PG769
 
-Monty · 2026-11-25 · reviewed parent 08b5344c50306f7e5a5bfd080519239f7be06f86. Historical closures below retain their exact pins.
+Monty · 2026-11-25 · reviewed parent def772c6c8f0d3a19af40a77e3253d6a6418a669. Historical closures below retain their exact pins.
+
+PG769 · [Abstract nouns, negative compounds, and the breadth of a quality](abstract_nouns_negative_compounds_and_the_breadth_of_a_quality/README.md). The manuscript lineage of the budha/yudha readings, unreviewed gaṇa members and the remaining compound-sensitive options at 123 are Open. Continue 5.1.124–136 on quality, action, friendship, office, age and the priestly boundary. S1’s disputed finite line is independent of the directly located Bhaṭṭi 4.17. C2–C5 and S1–S7 remain Open.
 
 PG768 · [Three sevens and five accent readings in the Ṛbhu hymn](three_sevens_and_accent_in_the_rbhu_hymn/README.md). PG755's exact Vedic source for the creation wording and a unique interpretation of the counted groups in RV 1.20.7 remain Open. Continue the distinct abstract-noun constructions at 5.1.119–136. S5 still needs the four exact Uṇādi 4.105 assignments and S6 the independent 5.56 k-it effect. C2–C5 and S1–S7 remain Open.
 
