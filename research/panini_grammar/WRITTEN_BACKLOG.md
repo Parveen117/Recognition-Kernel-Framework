@@ -1,6 +1,8 @@
-# Written-development backlog at PG669
+# Written-development backlog at PG670
 
-Monty · 2026-11-24 · reviewed current parent 30951f7d6e54b6b94eac66a3716e0a83e33f575a; historical closures below retain their exact original pins.
+Monty · 2026-11-24 · reviewed current parent 852d89d5fb38a2e1a0428ac061fcfa63c57d900a; historical closures below retain their exact original pins.
+
+PG670 closes the selected active nested-gam liṭ auxiliary family: 18 P/A keys and 92 surface-history interfaces from source-pinned derived-root ām plus kṛ/bhū/as. Request-pada and auxiliary-pada remain separate; A transfers only to kṛ. One morphology adapter, zero finite/source credit. Active luṅ/āśīrliṅ, all passive outer lakāras, caṅ and wider lexical/semantic/native work remain unconstructed. Census unchanged at 51,819 finite; 8,012 nominal positions/9,271 readings.
 
 PG669 closes selected active nested-gam laṅ: 18 P/A interfaces from PG19 stem ownership, PG31 secondary endings and PG348 temporal admission; one morphology adapter, zero finite/source credit. Raw luṅ transmission stays Open. Active liṭ/luṅ/āśīrliṅ, all passive outer lakāras, caṅ and wider lexical/semantic/native work remain unconstructed. Census unchanged at 51,819 finite; 8,012 nominal positions/9,271 readings.
 

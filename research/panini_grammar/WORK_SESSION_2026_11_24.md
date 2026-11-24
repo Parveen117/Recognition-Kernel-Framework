@@ -3,6 +3,19 @@
 Monty. Dates follow Asia/Kolkata.
 
 
+## PG670 · Nested gam active perfect auxiliary completion
+
+Previous publication: 852d89d5fb38a2e1a0428ac061fcfa63c57d900a; tree eb33d3f44a784f5356441f1ab1430d32367bebcd. Necessary check: Python 3.12.14, 337 assertions, one attempt.
+
+PG670: [Nested gam active perfect auxiliary completion](nested_gam_active_perfect_auxiliary_completion/README.md). Source-pinned derived-root ām and kṛ/bhū/as schedules now retain the selected nested history through 18 P/A liṭ keys and 92 surface-history interfaces. The A request transfers A only to kṛ; bhū/as remain kartari P. One morphology adapter/92 interfaces, zero finite/nominal/source credits.
+
+PG521–670 cumulative: 2,234 nominal positions/2,528 readings, zero finite; 245 morphology/1,264 interfaces; 122 compound/583 plans; 13 accent/57 records; 148 semantics/433 records; 109 syntax/301 records; 38 source-policy decisions after PG555−1; 274 observations. One provenance correction/one proof addendum; no census correction.
+
+Selected active nested-gam present system, lṛṭ/lṛṅ/luṭ/liṭ and selected passive laṭ are locally CLOSED. Active luṅ/āśīrliṅ, other passive lakāras, caṅ, lexical/semantic/automatic recognition, nine padī meanings, patradatam/128/C2–C5/S1–S7/native/global work remain Open. Claude owns execution/generators/untouched suites/replay. PG335 correction and PG357–PG363 CLOSED remain preserved.
+
+The exact publication is the containing commit; existing review branch only, nonforce. No elapsed-hours, ETA or complete-Sanskrit claim.
+
+
 ## PG669 · Nested gam active imperfect completion
 
 Previous publication: 30951f7d6e54b6b94eac66a3716e0a83e33f575a; tree 7567ff5371e4b9ac566bb2cf462ab9c89f0e519d. Necessary check: Python 3.12.14, 260 assertions, one attempt.

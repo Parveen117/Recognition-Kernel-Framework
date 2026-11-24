@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG669
+# Pāṇini grammar · current written coverage at PG670
+
+PG670: [Nested gam active perfect auxiliary completion](nested_gam_active_perfect_auxiliary_completion/README.md). Pinned derived-root ām and kṛ/bhū/as schedules carry the selected two-hetu history through 18 P/A liṭ keys and 92 owned surface histories. The A request transfers A only to kṛ; bhū/as stay kartari P. One morphology adapter/92 interfaces; zero finite/nominal/source credits. Census unchanged at 51,819 finite and 8,012 nominal/9,271 readings.
 
 PG669: [Nested gam active imperfect completion](nested_gam_active_imperfect_completion/README.md). PG19 `gamay+śap`, PG31 secondary endings and PG348's positive non-today laṅ guard now carry the selected two-hetu history through 18 P/A cells. Raw luṅ stays an Open transmission question. One morphology adapter/18 interfaces; zero finite/nominal/source credits. Census unchanged at 51,819 finite and 8,012 nominal/9,271 readings.
 
