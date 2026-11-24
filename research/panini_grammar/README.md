@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG738 · [Will, kinship and three genitive yat relations](kinship_mantra_and_ordered_genitive_yat/README.md). Derives will-based production, both son affixes and the three ordered genitive bases. PG501 supplies the binding-mantra formation, which now has a masculine case readout. Haima’s production of intoxication and the Pāṇinian verbal affix retain their distinct histories. Census 52,345 finite positions and 18,622 nominal positions with 21,097 nominal readings.
+
 PG737 · [The ordered yat pairs, price interpretations and licensed furrow heads](ordered_yat_boat_price_and_furrow_relations/README.md). Derives the boat, friend, fruit, punishment, monetary, furrow and balance families and four named ablatival conditions. The primary Mahābhāṣya supplies the restricted furrow-head rule, and the physical Haima page separates the uprooted crop from two money readings. Census 52,345 finite positions and 18,383 nominal positions with 20,823 nominal readings.
 
 PG736 · [Footprint visibility, uprooting and the two gārhapatya histories](footprint_uprooting_and_two_garhapatya_histories/README.md). Derives the visible footprint and uprooted crop conditions, distinguishes the three qualified milk-pledge or caretaker profiles, and gives four attested ud-vṛh forms. The Dvivedī Manu leaf confirms the two v letters where two other editions give b. The ritual fire and householder abstract preserve separate affixes and Vedic witnesses. Census 52,345 finite positions and 17,853 nominal positions with 20,272 nominal readings.

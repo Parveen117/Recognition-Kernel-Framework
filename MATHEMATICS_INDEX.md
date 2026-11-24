@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG738 · [Will, kinship and three genitive yat relations](research/panini_grammar/kinship_mantra_and_ordered_genitive_yat/README.md). The PG14 lift gives named kinship, independently sourced GEN relations and source-specific hṛdya use their own typed domains. Equal spellings preserve root or affix ownership through zero specialization.
+
 PG737 · [The ordered yat pairs, price interpretations and licensed furrow heads](research/panini_grammar/ordered_yat_boat_price_and_furrow_relations/README.md). The PG14 typed lift composes the ordered operand filter with restricted compound-head admission and case-specific readout. Zero specialization preserves the original scope of both mūla and dharma histories.
 
 PG736 · [Footprint visibility, uprooting and the two gārhapatya histories](research/panini_grammar/footprint_uprooting_and_two_garhapatya_histories/README.md). The PG14 lift keeps the actual NOM/LOC and NOM/GEN supports, finite strength, the named fire and household abstract in separate typed grades. The case and finite readouts commute with their typed zero projections.

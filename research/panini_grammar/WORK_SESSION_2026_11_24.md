@@ -2,6 +2,16 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG738 · Will, kinship and three genitive yat relations
+
+PG738 · [Will, kinship and three genitive yat relations](kinship_mantra_and_ordered_genitive_yat/README.md). Derives will-based production, both son affixes and the three ordered genitive bases. PG501 supplies the binding-mantra formation, which now has a masculine case readout. Haima’s production of intoxication and the Pāṇinian verbal affix retain their distinct histories. Census 52,345 finite positions and 18,622 nominal positions with 21,097 nominal readings.
+
+Zero new finite positions or readings. 239 new nominal positions and 274 readings, with one already used mantra head retained as a source control. One morphology construction with 16 new interfaces and one inherited path, one compound construction with three plans, one accent construction with four records, one semantic construction with seven new readouts, one syntax construction with eight new readouts, and one junction construction with eight readouts. Fourteen new source observations and ten source-policy decisions. Publication parent d2ca3033c2ccf176d82a0c52c445773c7ac2568a. The containing commit pins the documents and evidence.
+
+PG521–738 cumulative adds 526 finite positions and 1,444 net finite readings, and 12,844 nominal positions with 14,354 readings. 312 morphology constructions with 3,494 interfaces, 144 compound constructions with 665 plans, 44 accent constructions with 175 records, 170 semantic constructions with 585 readouts, 159 syntax constructions with 681 readouts, and 447 source-policy decisions after PG555−1 with 880 observations. The PG680 onward junction total is 42 constructions with 196 readouts. The PG700 onward nonfinite total remains 22 constructions with 28 paths. PG335, PG357–363 CLOSED and PG737’s count-neutral PG736 correction remain pinned.
+
+PG738 closes the selected 4.4.93–97 and H 7.1.11/14 ordinary case relations at the documented boundaries. PG499 hṛdya for place/forest, PG501 mantra formation, PG734 wedding janya and PG735 chest-wind urasya retain their old credits. The printed masculine matya and the exact feminine hala quotations have their own source evidence and remaining lexical scope. Continue the different suitability class from 4.4.98. Wider C2–C5/S1–S7 remain Open; Claude retains execution.
+
 ## PG737 · The ordered yat pairs, price interpretations and licensed furrow heads
 
 PG737 · [The ordered yat pairs, price interpretations and licensed furrow heads](ordered_yat_boat_price_and_furrow_relations/README.md). Derives the boat, friend, fruit, punishment, monetary, furrow and balance families and four named ablatival conditions. The primary Mahābhāṣya supplies the restricted furrow-head rule, and the physical Haima page separates the uprooted crop from two money readings. Census 52,345 finite positions and 18,383 nominal positions with 20,823 nominal readings.

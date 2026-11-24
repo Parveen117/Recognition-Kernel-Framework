@@ -1,6 +1,8 @@
-# Written-development backlog at PG737
+# Written-development backlog at PG738
 
-Monty · 2026-11-24 · reviewed current parent e6cdd3d73118015c615d834eaaab6016502ad20a. Historical closures below retain their exact pins.
+Monty · 2026-11-24 · reviewed current parent d2ca3033c2ccf176d82a0c52c445773c7ac2568a. Historical closures below retain their exact pins.
+
+PG738 · [Will, kinship and three genitive yat relations](kinship_mantra_and_ordered_genitive_yat/README.md). PG738 closes the selected 4.4.93–97 and H 7.1.11/14 ordinary case relations at the documented boundaries. PG499 hṛdya for place/forest, PG501 mantra formation, PG734 wedding janya and PG735 chest-wind urasya retain their old credits. The printed masculine matya and the exact feminine hala quotations have their own source evidence and remaining lexical scope. Continue the different suitability class from 4.4.98. Wider C2–C5/S1–S7 remain Open; Claude retains execution.
 
 PG737 · [The ordered yat pairs, price interpretations and licensed furrow heads](ordered_yat_boat_price_and_furrow_relations/README.md). The 4.4.91–92 yat profiles, 7.1.11–13 parallels and two exact Śākala nau cases are locally CLOSED. PG651’s ordinary nau and PG736’s crop stay closed with zero repeated credit. PG736’s three dhenuṣyā GENpl spellings have count-neutral keyed corrections. The observed uttara alternative and acoustic source of navigable nāvya remain Open. Continue 4.4.93–97, and preserve the wider unconstructed C2–C5 and unresolved S1–S7 work, S5 99/103, and Claude-deferred implementation.
 
