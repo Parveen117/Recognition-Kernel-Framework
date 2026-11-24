@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG658
+# Pāṇini grammar · current written coverage at PG659
+
+PG659: [Akac degree-avyaya final accent](akac_degree_avyaya_final_accent/README.md). Kāśikā 5.3.71/6.1.163 and Nyāsa's cit explanation compose on exact `uccakaiḥ/nīcakaiḥ/śanakaiḥ`: one new `śanakaiḥ` morphology interface and one whole-complex final-udātta construction/three records. Zero finite/nominal/source credits; census unchanged at 51,819 finite and 8,012 nominal/9,271 readings.
 
 PG658: [Asmad/yuṣmad akac locative singular and Nyāsa collation](asmad_yusmad_akac_locative_singular_nyasa_collation/README.md). Nyāsa's explicit short-i `tvayaki/mayaki` pair closes two subanta-placement LOCsg positions; Kāśikā `mayakī` remains an accepted source-local alternative. Two nominal positions/three readings, one observation/analysis/decision; no repeated morphology credit. Census 51,819 finite; 8,012 nominal/9,271 readings.
 

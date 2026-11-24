@@ -5259,3 +5259,7 @@ Existing RH, Yang-Mills, continuum and empirical claim boundaries remain in forc
 ## PG658 · Source-policy collation without history collapse
 
 [Akac LOCsg collation](research/panini_grammar/asmad_yusmad_akac_locative_singular_nyasa_collation/DERIVATION_AND_NATIVE_RECOVERY.md) uses the inherited subanta-placement operator but adds a typed source-policy branch: Nyāsa short-i `mayaki` is selected while Kāśikā long-ī `mayakī` remains accepted. Full-carrier zero-specialization cannot merge final vowel or witness. Two nominal positions/three readings; totals 51,819 finite, 8,012 nominal/9,271 readings. Critical priority and universal integration remain Open.
+
+## PG659 · Cit-owned whole-complex accent
+
+[Akac degree-avyaya accent](research/panini_grammar/akac_degree_avyaya_final_accent/DERIVATION_AND_NATIVE_RECOVERY.md) types c_IT as the trigger and the whole prakṛti+affix complex as accent recipient for `uccakaiḥ/nīcakaiḥ/śanakaiḥ`. Full PG14 recovery keeps lexical ai+s, inserted ak, pause visarga and accent credit distinct. One morphology readout and one accent/three records; word census unchanged. Nominal/finite competition remains Open.

@@ -1,6 +1,8 @@
-# Written-development backlog at PG658
+# Written-development backlog at PG659
 
-Monty · 2026-11-24 · reviewed current parent 75dea4528123efeec74d1fa410e4b5bc7a8066cd; historical closures below retain their exact original pins.
+Monty · 2026-11-24 · reviewed current parent 79dd5f4f32c48adaf0d1f81df3f6955e5c46af7e; historical closures below retain their exact original pins.
+
+PG659 closes whole-complex final udātta for exact `uccakaiḥ/nīcakaiḥ/śanakaiḥ`, adding one missing śanakaiḥ interface and three accent records without word/source recredit. Nominal/finite akac accent competition, recitation/sandhi and automatic semantics stay Open. Census remains 51,819 finite; 8,012 nominal positions/9,271 readings.
 
 PG658 closes the two LOCsg akac addresses under an explicit source policy: Nyāsa short-i `tvayaki/mayaki` is the selected derivation, while Kāśikā long-ī `mayakī` stays accepted and source-labelled. Critical priority/independent collation, unlisted akac cases and full semantic licensing remain Open. Census: 51,819 finite; 8,012 nominal positions/9,271 readings.
 

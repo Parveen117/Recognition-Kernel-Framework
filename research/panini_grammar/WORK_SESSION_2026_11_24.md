@@ -3,6 +3,19 @@
 Monty. Dates follow Asia/Kolkata.
 
 
+## PG659 · Akac degree-avyaya final accent
+
+Previous publication: 79dd5f4f32c48adaf0d1f81df3f6955e5c46af7e; tree 945d3dbcab58be670abdb65fda45a8e0d3307f6a. Necessary check: Python 3.12.14, 95 assertions, 1 attempt.
+
+PG659: [Akac degree-avyaya final accent](akac_degree_avyaya_final_accent/README.md). Exact 5.3.71 outputs and 6.1.163/Nyāsa cit ownership yield whole-complex final udātta for `uccakaiḥ/nīcakaiḥ/śanakaiḥ`. One new śanakaiḥ interface and one accent construction/three records; zero finite/nominal/source credits. Census unchanged at 51,819 finite; 8,012 nominal/9,271 readings.
+
+PG521–659 cumulative: 2,234 nominal positions/2,528 readings, zero finite; 238 morphology/1,040 interfaces; 122 compound/583 plans; 9 accent/48 records; 148 semantics/433 records; 109 syntax/301 records; 37 source-policy decisions after PG555−1; 274 observations. One provenance correction/one proof addendum; no census correction.
+
+Selected three-avyaya accent domain locally CLOSED. Nominal/finite akac accent competition, recitation/sandhi, nine padī meanings, patradatam/128/C2–C5/S1–S7/native/global work remain Open. Claude owns execution/generators/untouched suites/replay. PG335 correction and PG357–PG363 CLOSED remain preserved.
+
+The exact publication is the containing commit; existing review branch only, nonforce. No elapsed-hours, ETA or complete-Sanskrit claim.
+
+
 ## PG658 · Asmad/yuṣmad akac locative singular and Nyāsa collation
 
 Previous publication: 75dea4528123efeec74d1fa410e4b5bc7a8066cd; tree 2aefcc8c49b4cbfdf606d4ca641a962584737276. Necessary check: Python 3.12.14, 92 assertions, 1 attempt.

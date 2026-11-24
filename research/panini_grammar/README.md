@@ -3027,3 +3027,7 @@ padas, outer lakāras and exhaustive phonetic/accent alternatives stay open.
 ## PG658 · Asmad/yuṣmad akac locative singular and Nyāsa collation
 
 [PG658](asmad_yusmad_akac_locative_singular_nyasa_collation/README.md) selects Nyāsa's explicit short-i subanta derivations `tvayaki/mayaki` for two LOCsg positions, retaining Kāśikā `mayakī` as a third source-local reading. One observation, one analysis record and one source decision; PG657 placement is reused with zero duplicate morphology credit. Census 51,819 finite; 8,012 nominal/9,271 readings. Critical priority and wider gates remain Open.
+
+## PG659 · Akac degree-avyaya final accent
+
+[PG659](akac_degree_avyaya_final_accent/README.md) composes the three exact Kāśikā akac avyayas with 6.1.163 whole-complex final udātta. PG553's `uccakaiḥ/nīcakaiḥ` morphology is not recredited; `śanakaiḥ` adds one interface. One accent construction/three records, zero word/source credits; census remains 51,819 finite and 8,012 nominal/9,271 readings. Wider accent competition remains Open.

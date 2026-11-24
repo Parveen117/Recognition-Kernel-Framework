@@ -1,0 +1,72 @@
+{
+  "upstream_pins": [
+    {
+      "repository": "ashtadhyayi-com/data",
+      "commit": "5744762f010d677cfb43f347a42d02796cf615d6",
+      "path": "sutraani/kashika.txt",
+      "local_snapshot_name": "kashika.txt",
+      "bytes": 3806703,
+      "sha256": "ccd6d554d10acbe89fd566730a59731ace38b2aad982becbbd653b77cca93254",
+      "git_blob_sha": "e525df7668835ef1dd7c5988c031da07ce0c162b"
+    },
+    {
+      "repository": "ashtadhyayi-com/data",
+      "commit": "5744762f010d677cfb43f347a42d02796cf615d6",
+      "path": "sutraani/nyaas.txt",
+      "local_snapshot_name": "nyaas_5744762.txt",
+      "bytes": 9286920,
+      "sha256": "09766f127e9523d911179065fed777a17c4f832b336e745f13c0b2cebc76c0ce",
+      "git_blob_sha": "8ecc8bbb657a42be8606fe07fa0c72c9cb7fa1b1"
+    }
+  ],
+  "fields": [
+    {"source":"kashika.txt","field":"11037","use":"uccais/nīcais/śanais listed as final-accented lexical avyayas"},
+    {"source":"kashika.txt","field":"53071","use":"exact akac outputs uccakaiḥ/nīcakaiḥ/śanakaiḥ and actual pre-ṭi placement"},
+    {"source":"kashika.txt","field":"61163","use":"cit affix gives final udātta to prakṛti-affix complex; uccakaiḥ explicit control"},
+    {"source":"nyaas_5744762.txt","field":"53071","use":"akac c-it is for final accent and applies to the whole complex"},
+    {"source":"nyaas_5744762.txt","field":"61163","use":"community-level reading of cit and explicit uccakaiḥ example"}
+  ],
+  "dependency_pins": [
+    {
+      "commit": "79dd5f4f32c48adaf0d1f81df3f6955e5c46af7e",
+      "path": "research/panini_grammar/asmad_yusmad_akac_locative_singular_nyasa_collation/STATE.json",
+      "bytes": 3792,
+      "sha256": "9450636053e6bb90e813e130a24d5cfc1abecca9019074ec7c5b043e175a430a",
+      "git_blob_sha": "a5293012935c845b009200a301af60ea88b47d56"
+    },
+    {
+      "commit": "79dd5f4f32c48adaf0d1f81df3f6955e5c46af7e",
+      "path": "research/panini_grammar/quantity_length_naming_and_owned_avyaya_final_ti/STATE.json",
+      "bytes": 6889,
+      "sha256": "6ca45936e80d22cca3cc4ef16ecd8bd0cb3cd91f5c799631d7f13abbdbd7512e",
+      "git_blob_sha": "35514e97e714f8f40582674375ec001751f2649a"
+    },
+    {
+      "commit": "79dd5f4f32c48adaf0d1f81df3f6955e5c46af7e",
+      "path": "research/panini_grammar/shyan_marker_accent/SOURCE_EXCERPTS.json",
+      "bytes": 49601,
+      "sha256": "c6493be1e09681ce85469ce4a42b2aaf70e50cb5d3bbd0dadeafcd114b9dc5b5",
+      "git_blob_sha": "3252524e2b16fd102d005ed3cdbd12dee693a8cf"
+    },
+    {
+      "commit": "79dd5f4f32c48adaf0d1f81df3f6955e5c46af7e",
+      "path": "research/panini_grammar/grammar_construction/NATIVE_OPERATOR_LIFT.md",
+      "bytes": 11855,
+      "sha256": "f52e7f5cf539ef56859b890669ef738848491e4005e73be75baa49c899b5dafd",
+      "git_blob_sha": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b"
+    },
+    {
+      "commit": "79dd5f4f32c48adaf0d1f81df3f6955e5c46af7e",
+      "path": "research/panini_grammar/grammar_construction/STATE_AND_COMPOSITION.md",
+      "bytes": 8210,
+      "sha256": "b9164206d5389f91a77bbd90b523dbce40a79e2dbd7983bc5adbad45a7539b99",
+      "git_blob_sha": "593f548f92c6398508db1fa943352fbe23cb51c9"
+    }
+  ],
+  "source_decisions": [
+    "Apply 6.1.163 only to the three exact source-listed avyaya outputs in this packet.",
+    "Record structural whole-complex final udātta, not an invented complete recitational transcription.",
+    "Do not export the result to nominal/finite akac outputs until later accent competition is reviewed."
+  ],
+  "source_observation_credit": 0
+}
