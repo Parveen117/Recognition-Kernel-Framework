@@ -1,6 +1,8 @@
-# Written-development backlog at PG796
+# Written-development backlog at PG797
 
-Monty · 2026-11-25 · reviewed parent 9dda6301120b9ae24fb59dd0c0777b4693599ca4. Historical closures below retain their exact pins.
+Monty · 2026-11-25 · reviewed parent 5a48037e3bc217abd3dad473459df94ab20239af. Historical closures below retain their exact pins.
+
+PG797 · [Possession, perceptible qualities and optional body-lac](possession_perceptible_qualities_and_optional_body_lac/README.md). Selected 5.2.94–96 outputs, lopa, alternatives and controls are CLOSED. Complete rasādi membership, recorded source divergences, full paradigms and accent remain Open. Continue from 5.2.97. The five controls are Excluded only from `lac`; their matup outputs remain Accepted. S5 remains 99/103; S6 retains the independent 5.56 k-it effect. C2–C5 and S1–S7 remain Open.
 
 PG796 · [Ritual consumers, followers, witnesses and indriya histories](ritual_consumers_followers_witnesses_and_indriya_histories/README.md). Selected 5.2.85–93 outputs, alternatives and explicit guards are CLOSED. The remaining iṣṭādi list, critical adversary form, `kṣetriya` and `indriya` historical priorities, complete paradigms and accent remain Open. Continue from 5.2.94. A next-day `śrāddhika` and giver/receiver as technical witness are Excluded only by source-explicit guards. S5 remains 99/103; S6 retains the independent 5.56 k-it effect. C2–C5 and S1–S7 remain Open.
 

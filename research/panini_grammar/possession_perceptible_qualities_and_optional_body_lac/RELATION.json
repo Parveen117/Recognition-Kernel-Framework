@@ -1,0 +1,30 @@
+{
+  "stage":"PG797",
+  "morphology_constructions":[
+    {"id":"MATUP_POSSESSION","rule":"5.2.94","interfaces":["G94","V94","Y94","P94"]},
+    {"id":"MATVARTHIYA_MOTIVES","rule":"5.2.94","interfaces":["C1","C2","C3","PR","NY","EX","AS1","AS2","AV"]},
+    {"id":"QUALITY_MATUP_LOPA","rule":"5.2.94 vārttika","interfaces":["LS","LK","LV"]},
+    {"id":"RASADI_MATUP","rule":"5.2.95","interfaces":["R95","RU95","G95","SP95","SH95","SN95"]},
+    {"id":"RASADI_RARE_ALTERNATIVES","rule":"5.2.95 commentary","interfaces":["RI95","RK95","RN95"]},
+    {"id":"BODY_A_LAC","rule":"5.2.96","interfaces":["CU96","KA96"]},
+    {"id":"LAC_CONTROLS","rule":"5.2.96","interfaces":["SI96","HA96","PA96","CI96","JI96"]}
+  ],
+  "nominal_positions":[
+    {"id":"G94","readings":["gomān devadattaḥ"]},{"id":"V94","readings":["vṛkṣavān parvataḥ"]},{"id":"Y94","readings":["yavamān"]},{"id":"P94","readings":["plakṣavān [K]","plakṣamān [Vasu]"]},
+    {"id":"C1","readings":["kuṣṭhī [K]"]},{"id":"C2","readings":["kakudāvartinī [K]","kakudāvarttī [Vasu]"]},{"id":"C3","readings":["saṃkhādakī [Vasu]"]},{"id":"PR","readings":["rūpavatī kanyā"]},{"id":"NY","readings":["kṣīriṇo vṛkṣāḥ"]},{"id":"EX","readings":["udariṇī kanyā"]},{"id":"AS1","readings":["daṇḍī"]},{"id":"AS2","readings":["chatrī"]},{"id":"AV","readings":["astimān"]},
+    {"id":"LS","readings":["śuklaḥ paṭaḥ"]},{"id":"LK","readings":["kṛṣṇaḥ"]},{"id":"LV","readings":["śvetaḥ"]},
+    {"id":"R95","readings":["rasavān"]},{"id":"RU95","readings":["rūpavān"]},{"id":"G95","readings":["gandhavān"]},{"id":"SP95","readings":["sparśavān"]},{"id":"SH95","readings":["śabdavān"]},{"id":"SN95","readings":["snehavān"]},
+    {"id":"RI95","readings":["rūpiṇī kanyā"]},{"id":"RK95","readings":["rūpiko dārakaḥ"]},{"id":"RN95","readings":["rasiko naṭaḥ [K]"]},
+    {"id":"CU96","readings":["cūḍālaḥ","cūḍāvān"]},{"id":"KA96","readings":["karṇikālaḥ","karṇikāvān"]},
+    {"id":"SI96","readings":["śikhāvān pradīpaḥ"]},{"id":"HA96","readings":["hastavān"]},{"id":"PA96","readings":["pādavān"]},{"id":"CI96","readings":["cikīrṣāvān"]},{"id":"JI96","readings":["jihīrṣāvān"]}
+  ],
+  "source_policy_decisions":[
+    {"id":"TWO_RELATIONS","status":"Accepted/Open","decision":"Retain bearer-genitive and locus-locative possession plus the source licensing motives; unrestricted possession productivity remains Open."},
+    {"id":"SOURCE_FORKS","status":"Accepted/Open","decision":"Keep plakṣavān/plakṣamān and differing censure examples source-labelled pending critical priority."},
+    {"id":"QUALITY_LOPA","status":"Accepted","decision":"Assign zero realization to the quality-word vārttika and do not treat it as free affix absence."},
+    {"id":"RASADI_RESTRICTION","status":"Accepted/Open","decision":"Accept the six selected perceptible-quality outputs; full class membership remains Open."},
+    {"id":"RARE_FORMS","status":"Accepted/Open","decision":"Accept the three Kāśikā rare alternatives; retain Vasu naṭa/taṭa divergence as Open and uncredited."},
+    {"id":"BODY_LAC","status":"Accepted","decision":"Correlate each animal-body long-ā base's lac and matup outputs without merging their histories."},
+    {"id":"LAC_GUARDS","status":"Accepted/Excluded","decision":"Accept the five displayed matup controls while excluding them only from lac for failed animacy, body-member, or final-vowel guards."}
+  ]
+}

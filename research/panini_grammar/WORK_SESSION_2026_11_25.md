@@ -2,6 +2,12 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG797 · Possession, perceptible qualities and optional body-lac
+
+PG797 · [Possession, perceptible qualities and optional body-lac](possession_perceptible_qualities_and_optional_body_lac/README.md). Constructs selected 5.2.94–96 surfaces with 32 new nominal positions and 36 readings. Finite positions/readings increase by zero. Seven morphology constructions/32 interfaces, zero new source observations and seven source-policy decisions. Census: 52,357 finite positions, 21,514 nominal positions and 24,337 nominal readings.
+
+Parent 5a48037e3bc217abd3dad473459df94ab20239af. The containing commit pins this packet. Selected literal outputs, alternatives, quality lopa and source-explicit controls are CLOSED. Complete rasādi membership, recorded source divergences, full paradigms and accent remain Open. Continue from 5.2.97. The five controls are Excluded only from `lac`; their matup outputs remain Accepted. C2–C5 and S1–S7 remain Open; S5 remains 99/103 and S6 retains the independent 5.56 k-it effect. Claude retains execution, generators, untouched suites and replay.
+
 ## PG796 · Ritual consumers, followers, witnesses and indriya histories
 
 PG796 · [Ritual consumers, followers, witnesses and indriya histories](ritual_consumers_followers_witnesses_and_indriya_histories/README.md). Completes selected 5.2.85–93 surfaces with 26 new nominal positions and 28 readings. Finite positions/readings increase by zero. Nine morphology constructions/26 interfaces, zero new source observations and nine source-policy decisions. Census: 52,357 finite positions, 21,482 nominal positions and 24,301 nominal readings.

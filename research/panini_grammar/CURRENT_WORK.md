@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG796
+# Pāṇini grammar · current written coverage at PG797
+
+PG797 · [Possession, perceptible qualities and optional body-lac](possession_perceptible_qualities_and_optional_body_lac/README.md). Constructs selected 5.2.94–96 surfaces with explicit possession motives, quality lopa and guarded `lac` alternatives. Census: 52,357 finite positions, 21,514 nominal positions and 24,337 nominal readings.
 
 PG796 · [Ritual consumers, followers, witnesses and indriya histories](ritual_consumers_followers_witnesses_and_indriya_histories/README.md). Completes selected 5.2.85–93 surfaces while leaving the remainder of iṣṭādi and critical source priorities explicitly Open. Census: 52,357 finite positions, 21,482 nominal positions and 24,301 nominal readings.
 
