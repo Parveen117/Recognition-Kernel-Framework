@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG759
+# Pāṇini grammar · current written coverage at PG760
+
+PG760 · [Duration, age, and the visible or deleted suffix on a term of years](duration_age_and_suppressed_year_suffixes/README.md). Builds 5.1.78–90 with the age/non-age alternatives, future strengthening, obligatory year-suffix loss, two earlier-law-text compounds and the singular rice name. Census: 52,345 finite positions, 20,764 nominal positions and 23,473 nominal readings.
 
 PG759 · [The seventeen-syllable quotation and the three cases assigned to tmanyā](seventeen_syllables_and_three_readings_of_tmanyaa/README.md). Locates the Mahābhāṣya wording behind PG747, collates the seventeen-syllable formulas and distinguishes three source-specific analyses of one Ṛgvedic word. Census: 52,345 finite positions, 20,737 nominal positions and 23,430 nominal readings.
 

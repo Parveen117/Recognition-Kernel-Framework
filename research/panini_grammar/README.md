@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG760 · [Duration, age, and the visible or deleted suffix on a term of years](duration_age_and_suppressed_year_suffixes/README.md). Builds 5.1.78–90 with the age/non-age alternatives, future strengthening, obligatory year-suffix loss, two earlier-law-text compounds and the singular rice name. 27 new nominal positions and 43 readings. Finite positions and readings both increased by zero.
+
 PG759 · [The seventeen-syllable quotation and the three cases assigned to tmanyā](seventeen_syllables_and_three_readings_of_tmanyaa/README.md). Locates the Mahābhāṣya wording behind PG747, collates the seventeen-syllable formulas and distinguishes three source-specific analyses of one Ṛgvedic word. 5 new nominal positions and 5 readings. Finite positions and readings both increased by zero.
 
 PG758 · [Three traveller paradigms and the route by which something comes](traveller_cases_and_two_directional_path_relations/README.md). Constructs the 5.1.72–77 recitation, distance and route cases, with three complete traveller paradigms and independent Hitopadeśa and Meghadūta-commentary witnesses. 96 new nominal positions and 98 readings. Finite positions and readings both increased by zero.

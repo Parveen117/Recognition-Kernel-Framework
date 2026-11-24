@@ -1,6 +1,8 @@
-# Written-development backlog at PG759
+# Written-development backlog at PG760
 
-Monty · 2026-11-24 · reviewed parent 10c1efab2e5afeee4e563a1300189ba065433b4c. Historical closures below retain their exact pins.
+Monty · 2026-11-24 · reviewed parent 6151f8002a28ab1d1d0ddba33b35d97b27a2bbfb. Historical closures below retain their exact pins.
+
+PG760 · [Duration, age, and the visible or deleted suffix on a term of years](duration_age_and_suppressed_year_suffixes/README.md). Independent textual assignment of the retained suffix in Manu’s compound to one specific 5.1.88/89 history remains Open. Continue 5.1.91–97, including disambiguation of the Kāṭhaka annual-recension chain, TS and Śaunaka Maruts and the frog hymn. C2–C5 and S1–S7 remain Open.
 
 PG759 · [The seventeen-syllable quotation and the three cases assigned to tmanyā](seventeen_syllables_and_three_readings_of_tmanyaa/README.md). The Saṃhitā or Brāhmaṇa containing the full chandasyaḥ wording and an independent Vedic occurrence of the cited ātmanīna adjective remain Open. The exact readings of the named witnesses are locally decided. Resume the 5.1.78 time-word scope after this source return. The ascription of a single author-independent case to RV 10.110.10 remains Open. C2–C5 and S1–S7 remain Open.
 

@@ -1,0 +1,36 @@
+{
+  "stage": "PG760",
+  "date": "2026-11-24",
+  "publication_parent": "6151f8002a28ab1d1d0ddba33b35d97b27a2bbfb",
+  "baseline": {
+    "commit": "6151f8002a28ab1d1d0ddba33b35d97b27a2bbfb",
+    "path": "research/panini_grammar/seventeen_syllables_and_three_readings_of_tmanyaa/STATE.json"
+  },
+  "finite_positions": 52345,
+  "nominal_positions": 20764,
+  "nominal_readings": 23473,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 27,
+  "new_nominal_readings": 43,
+  "new_morphology_constructions": 1,
+  "new_morphology_interfaces": 33,
+  "new_source_observations": 16,
+  "new_source_policy_decisions": 6,
+  "open_obligations": [
+    "Independent textual assignment of the retained suffix in Manu’s compound to one specific 5.1.88/89 history remains Open.",
+    "Continue 5.1.91–97, including disambiguation of the Kāṭhaka annual-recension chain, TS and Śaunaka Maruts and the frog hymn."
+  ],
+  "local_closure": "PG14 recovery preserves time orientation, referent, strengthened member and the history of each deleted suffix.",
+  "global_gates": {
+    "C2–C5": "Open",
+    "S1–S7": "Open",
+    "S5_direct_fields": "99/103",
+    "S6": "Independent 5.56 k-it effect Open"
+  },
+  "protected_registers": {
+    "PG335": "-9 finite positions and -12 readings already applied",
+    "PG340/346, PG349–352, PG355–360, PG357–363": "CLOSED on registered scopes"
+  },
+  "runtime_policy": "Written derivation. Only changed-document, source and count checks. Claude owns grammar execution, generators, untouched suites and replay."
+}

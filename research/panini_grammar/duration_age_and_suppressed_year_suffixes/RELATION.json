@@ -1,0 +1,486 @@
+{
+  "stage": "PG760",
+  "morphology_interfaces": [
+    {
+      "id": "D",
+      "base": "ahan",
+      "guard": "accomplished in a day",
+      "affix": "ṭhañ",
+      "result": "āhnika"
+    },
+    {
+      "id": "HM",
+      "base": "ardhamāsa",
+      "guard": "accomplished in half a month",
+      "affix": "ṭhañ",
+      "result": "ārdhamāsika"
+    },
+    {
+      "id": "YR",
+      "base": "saṃvatsara",
+      "guard": "accomplished in a year",
+      "affix": "ṭhañ",
+      "result": "sāṃvatsarika"
+    },
+    {
+      "id": "AP",
+      "base": "māsa",
+      "guard": "time occupied by teaching for which appointed",
+      "affix": "ṭhañ",
+      "result": "māsika"
+    },
+    {
+      "id": "HI",
+      "base": "māsa",
+      "guard": "time occupied by paid work",
+      "affix": "ṭhañ",
+      "result": "māsika"
+    },
+    {
+      "id": "PA",
+      "base": "māsa",
+      "guard": "existing for the period",
+      "affix": "ṭhañ",
+      "result": "māsika"
+    },
+    {
+      "id": "FU",
+      "base": "māsa",
+      "guard": "projected for the period",
+      "affix": "ṭhañ",
+      "result": "māsika"
+    },
+    {
+      "id": "REC",
+      "base": "māsika",
+      "guard": "monthly payment, lexical occurrence",
+      "affix": "feminine agreement",
+      "result": "māsikā"
+    },
+    {
+      "id": "MY",
+      "base": "māsa",
+      "guard": "one month of age",
+      "affix": "yat",
+      "result": "māsya"
+    },
+    {
+      "id": "MK",
+      "base": "māsa",
+      "guard": "same age",
+      "affix": "khañ",
+      "result": "māsīna"
+    },
+    {
+      "id": "Y2",
+      "base": "dvimāsa",
+      "guard": "compound, age",
+      "affix": "yap",
+      "result": "dvimāsya"
+    },
+    {
+      "id": "Y3",
+      "base": "trimāsa",
+      "guard": "compound, age",
+      "affix": "yap",
+      "result": "trimāsya"
+    },
+    {
+      "id": "S6N",
+      "base": "ṣaṇmāsa",
+      "guard": "age",
+      "affix": "ṇyat",
+      "result": "ṣāṇmāsya"
+    },
+    {
+      "id": "S6Y",
+      "base": "ṣaṇmāsa",
+      "guard": "age",
+      "affix": "yap",
+      "result": "ṣaṇmāsya"
+    },
+    {
+      "id": "S6T",
+      "base": "ṣaṇmāsa",
+      "guard": "age",
+      "affix": "ṭhañ",
+      "result": "ṣāṇmāsika"
+    },
+    {
+      "id": "I6T",
+      "base": "ṣaṇmāsa",
+      "guard": "non-age",
+      "affix": "ṭhan",
+      "result": "ṣaṇmāsika"
+    },
+    {
+      "id": "I6N",
+      "base": "ṣaṇmāsa",
+      "guard": "non-age",
+      "affix": "ṇyat",
+      "result": "ṣāṇmāsya"
+    },
+    {
+      "id": "SAMA",
+      "base": "samā",
+      "guard": "four duration predicates; fifth completion predicate according to some",
+      "affix": "kha",
+      "result": "samīna"
+    },
+    {
+      "id": "SAM2",
+      "base": "dvi + samā",
+      "guard": "two-year interval",
+      "affix": "kha or ṭhañ",
+      "result": "dvisamīna / dvaisamika"
+    },
+    {
+      "id": "SAM3",
+      "base": "tri + samā",
+      "guard": "three-year interval",
+      "affix": "kha or ṭhañ",
+      "result": "trisamīna / traisamika"
+    },
+    {
+      "id": "N2",
+      "base": "dvi + rātri",
+      "guard": "interval",
+      "affix": "kha or ṭhañ",
+      "result": "dvirātrīṇa / dvairātrika"
+    },
+    {
+      "id": "N3",
+      "base": "tri + rātri",
+      "guard": "interval",
+      "affix": "kha or ṭhañ",
+      "result": "trirātrīṇa / trairātrika"
+    },
+    {
+      "id": "D2",
+      "base": "dvi + ahan",
+      "guard": "interval",
+      "affix": "kha or ṭhañ",
+      "result": "dvyahīna / dvaiyahnika"
+    },
+    {
+      "id": "D3",
+      "base": "tri + ahan",
+      "guard": "interval",
+      "affix": "kha or ṭhañ",
+      "result": "tryahīṇa / traiyahnika"
+    },
+    {
+      "id": "YR2",
+      "base": "dvi + saṃvatsara",
+      "guard": "interval",
+      "affix": "kha or ṭhañ",
+      "result": "dvisaṃvatsarīṇa / dvisāṃvatsarika"
+    },
+    {
+      "id": "YR3",
+      "base": "tri + saṃvatsara",
+      "guard": "interval",
+      "affix": "kha or ṭhañ",
+      "result": "trisaṃvatsarīṇa / trisāṃvatsarika"
+    },
+    {
+      "id": "V2",
+      "base": "dvi + varṣa",
+      "guard": "nonfuture nonsentient referent",
+      "affix": "kha or ṭhañ, either optionally luk",
+      "result": "dvivarṣīṇa / dvivārṣika / dvivarṣa"
+    },
+    {
+      "id": "V3",
+      "base": "tri + varṣa",
+      "guard": "same conditions",
+      "affix": "kha or ṭhañ, either optionally luk",
+      "result": "trivarṣīṇa / trivārṣika / trivarṣa"
+    },
+    {
+      "id": "F3",
+      "base": "tri + varṣa",
+      "guard": "future, retained ṭhañ branch",
+      "affix": "ṭhañ, first-member strength",
+      "result": "traivarṣika"
+    },
+    {
+      "id": "BOY",
+      "base": "dvi + varṣa",
+      "guard": "sentient age referent",
+      "affix": "obligatory luk on admitted suffix",
+      "result": "dvivarṣa"
+    },
+    {
+      "id": "LESS1",
+      "base": "ūna + dvivārṣika",
+      "guard": "less than two years, source-specific compound",
+      "affix": "retained -ika inside the attested expression",
+      "result": "ūnadvivārṣika"
+    },
+    {
+      "id": "LESS2",
+      "base": "ūna and dve varṣe",
+      "guard": "two incomplete years belonging to the referent",
+      "affix": "possessive compound on the commentator's analysis",
+      "result": "ūnadvivarṣa"
+    },
+    {
+      "id": "GRAIN",
+      "base": "ṣaṣṭirātra",
+      "guard": "specific name of grain ripening in sixty nights",
+      "affix": "kan with stipulated rātri loss",
+      "result": "ṣaṣṭika"
+    }
+  ],
+  "nominal_positions": [
+    {
+      "id": "DAY",
+      "source": "K79",
+      "input_history": "D",
+      "case_number": "N NOMsg",
+      "word": "āhnikam",
+      "interpretation": "Accomplished in a day."
+    },
+    {
+      "id": "HALF",
+      "source": "K79",
+      "input_history": "HM",
+      "case_number": "N NOMsg",
+      "word": "ārdhamāsikam",
+      "interpretation": "Accomplished in half a month."
+    },
+    {
+      "id": "YEAR",
+      "source": "K79",
+      "input_history": "YR",
+      "case_number": "N NOMsg",
+      "word": "sāṃvatsarikam",
+      "interpretation": "Accomplished in a year."
+    },
+    {
+      "id": "MON",
+      "source": "K80",
+      "input_history": "AP/HI/PA/FU",
+      "case_number": "M NOMsg",
+      "word": "māsikaḥ",
+      "interpretation": "Teacher appointed, worker hired, illness present throughout or festival projected for a month. Same word under four explicitly recorded histories."
+    },
+    {
+      "id": "FEE",
+      "source": "MAL",
+      "input_history": "REC",
+      "case_number": "F NOMsg",
+      "word": "māsikā",
+      "interpretation": "Recurring monthly payment, agreeing with nityadakṣiṇā. The text does not describe the age of the fee."
+    },
+    {
+      "id": "M1",
+      "source": "K81",
+      "input_history": "MY/MK",
+      "case_number": "M NOMsg",
+      "word": "māsyaḥ / māsīnaḥ",
+      "interpretation": "One month old."
+    },
+    {
+      "id": "M2",
+      "source": "K81",
+      "input_history": "Y2",
+      "case_number": "M NOMsg",
+      "word": "dvimāsyaḥ",
+      "interpretation": "Two months old."
+    },
+    {
+      "id": "M3",
+      "source": "K81",
+      "input_history": "Y3",
+      "case_number": "M NOMsg",
+      "word": "trimāsyaḥ",
+      "interpretation": "Three months old."
+    },
+    {
+      "id": "S6",
+      "source": "K83",
+      "input_history": "S6N/S6Y/S6T",
+      "case_number": "M NOMsg",
+      "word": "ṣāṇmāsyaḥ / ṣaṇmāsyaḥ / ṣāṇmāsikaḥ",
+      "interpretation": "Age, six months."
+    },
+    {
+      "id": "ILL",
+      "source": "K84",
+      "input_history": "I6T/I6N",
+      "case_number": "M NOMsg",
+      "word": "ṣaṇmāsikaḥ / ṣāṇmāsyaḥ",
+      "interpretation": "Duration of an illness; the first has a short initial a in the specified non-age ṭhan form."
+    },
+    {
+      "id": "SAMA",
+      "source": "K85",
+      "input_history": "SAMA",
+      "case_number": "M NOMsg",
+      "word": "samīnaḥ",
+      "interpretation": "Duration of a year; the reported fifth relation is preserved in the route."
+    },
+    {
+      "id": "SAM2",
+      "source": "K85",
+      "input_history": "SAM2",
+      "case_number": "M NOMsg",
+      "word": "dvisamīnaḥ / dvaisamikaḥ",
+      "interpretation": "Compound in samā with two years."
+    },
+    {
+      "id": "SAM3",
+      "source": "K85",
+      "input_history": "SAM3",
+      "case_number": "M NOMsg",
+      "word": "trisamīnaḥ / traisamikaḥ",
+      "interpretation": "Compound in samā with three years."
+    },
+    {
+      "id": "N2",
+      "source": "K87",
+      "input_history": "N2",
+      "case_number": "M NOMsg",
+      "word": "dvirātrīṇaḥ / dvairātrikaḥ",
+      "interpretation": "Two nights."
+    },
+    {
+      "id": "N3",
+      "source": "K87",
+      "input_history": "N3",
+      "case_number": "M NOMsg",
+      "word": "trirātrīṇaḥ / trairātrikaḥ",
+      "interpretation": "Three nights."
+    },
+    {
+      "id": "D2",
+      "source": "K87",
+      "input_history": "D2",
+      "case_number": "M NOMsg",
+      "word": "dvyahīnaḥ / dvaiyahnikaḥ",
+      "interpretation": "Two days, dental n in the first reading."
+    },
+    {
+      "id": "D3",
+      "source": "K87",
+      "input_history": "D3",
+      "case_number": "M NOMsg",
+      "word": "tryahīṇaḥ / traiyahnikaḥ",
+      "interpretation": "Three days, retroflex ṇ in the first reading."
+    },
+    {
+      "id": "YR2",
+      "source": "K87",
+      "input_history": "YR2",
+      "case_number": "M NOMsg",
+      "word": "dvisaṃvatsarīṇaḥ / dvisāṃvatsarikaḥ",
+      "interpretation": "Two years counted using saṃvatsara."
+    },
+    {
+      "id": "YR3",
+      "source": "K87",
+      "input_history": "YR3",
+      "case_number": "M NOMsg",
+      "word": "trisaṃvatsarīṇaḥ / trisāṃvatsarikaḥ",
+      "interpretation": "Three years counted using saṃvatsara."
+    },
+    {
+      "id": "V2",
+      "source": "K88",
+      "input_history": "V2",
+      "case_number": "M NOMsg",
+      "word": "dvivarṣīṇaḥ / dvivārṣikaḥ / dvivarṣaḥ",
+      "interpretation": "Two-year illness; the third surface is shared by both deleted histories."
+    },
+    {
+      "id": "V3",
+      "source": "K88",
+      "input_history": "V3",
+      "case_number": "M NOMsg",
+      "word": "trivarṣīṇaḥ / trivārṣikaḥ / trivarṣaḥ",
+      "interpretation": "Three-year completed/nonfuture profile."
+    },
+    {
+      "id": "F3",
+      "source": "K88",
+      "input_history": "F3",
+      "case_number": "M NOMsg",
+      "word": "traivarṣikaḥ",
+      "interpretation": "Future duration in the specifically illustrated ṭhañ branch."
+    },
+    {
+      "id": "BOY",
+      "source": "K88",
+      "input_history": "BOY",
+      "case_number": "M NOMsg",
+      "word": "dvivarṣaḥ",
+      "interpretation": "The two-year-old boy forces affix deletion."
+    },
+    {
+      "id": "LESS1",
+      "source": "MAN",
+      "input_history": "LESS1",
+      "case_number": "M ACCsg",
+      "word": "ūnadvivārṣikam",
+      "interpretation": "Longer literary compound qualifying pretam."
+    },
+    {
+      "id": "LESS2",
+      "source": "YAJ",
+      "input_history": "LESS2",
+      "case_number": "M ACCsg",
+      "word": "ūnadvivarṣam",
+      "interpretation": "Object with the shorter form and its explicit possessive analysis in Mitākṣarā."
+    },
+    {
+      "id": "GRAIN",
+      "source": "K90",
+      "input_history": "GRAIN",
+      "case_number": "M NOMpl",
+      "word": "ṣaṣṭikāḥ",
+      "interpretation": "The rice name in the grammarian's plural example."
+    },
+    {
+      "id": "ONE",
+      "source": "CARA",
+      "input_history": "GRAIN",
+      "case_number": "M NOMsg",
+      "word": "ṣaṣṭikaḥ",
+      "interpretation": "Singular naming the rice variety."
+    }
+  ],
+  "source_policy_decisions": [
+    {
+      "id": "TIME",
+      "sources": "K79,K80,K85",
+      "decision": "The interval over which teaching or work occurs is distinct from the instant at which the appointment or payment was made. Retain the dissenting completion analysis at 85."
+    },
+    {
+      "id": "AGE",
+      "sources": "K81,K83,K84",
+      "decision": "Preserve the three routes for six months as age and the two for duration. The identical ṣāṇmāsya can have different inputs."
+    },
+    {
+      "id": "DAWN",
+      "sources": "RAM,RAM22,K79,MAL",
+      "decision": "Do not duplicate the independent āhnikam surface or force the epic daily duty and the monthly recurring fee into the grammatical accomplishment predicate."
+    },
+    {
+      "id": "COMPOUND",
+      "sources": "K85,K87,K88",
+      "decision": "Record locus of strengthening, exceptional day stem and deletion even where the resulting terminal spelling is shared."
+    },
+    {
+      "id": "TEXT",
+      "sources": "K88,MAN,YAJ,IDX",
+      "decision": "Maintain the two distinct literary compounds and the explicitly supplied possessive vigraha. They do not provide a second form of the simple nominative boy example."
+    },
+    {
+      "id": "RICE",
+      "sources": "K90,CARA",
+      "decision": "Sixty nights and this named type of grain are both required. Exclude unrestricted applications to other crops."
+    }
+  ]
+}

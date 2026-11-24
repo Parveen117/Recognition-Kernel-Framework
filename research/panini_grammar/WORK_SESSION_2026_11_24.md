@@ -2,6 +2,12 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG760 · Duration, age, and the visible or deleted suffix on a term of years
+
+PG760 · [Duration, age, and the visible or deleted suffix on a term of years](duration_age_and_suppressed_year_suffixes/README.md). Builds 5.1.78–90 with the age/non-age alternatives, future strengthening, obligatory year-suffix loss, two earlier-law-text compounds and the singular rice name. 27 new nominal positions and 43 readings. Finite positions and readings both increased by zero. One written morphology construction with 33 interfaces, 16 source observations and 6 source decisions. Census: 52,345 finite positions, 20,764 nominal positions and 23,473 nominal readings.
+
+Parent 6151f8002a28ab1d1d0ddba33b35d97b27a2bbfb. The containing commit pins this packet. Independent textual assignment of the retained suffix in Manu’s compound to one specific 5.1.88/89 history remains Open. Continue 5.1.91–97, including disambiguation of the Kāṭhaka annual-recension chain, TS and Śaunaka Maruts and the frog hymn. C2–C5 and S1–S7 remain Open. Claude retains execution.
+
 ## PG759 · The seventeen-syllable quotation and the three cases assigned to tmanyā
 
 PG759 · [The seventeen-syllable quotation and the three cases assigned to tmanyā](seventeen_syllables_and_three_readings_of_tmanyaa/README.md). Locates the Mahābhāṣya wording behind PG747, collates the seventeen-syllable formulas and distinguishes three source-specific analyses of one Ṛgvedic word. 5 new nominal positions and 5 readings. Finite positions and readings both increased by zero. One written morphology construction with 7 interfaces, 14 source observations and 6 source decisions. Census: 52,345 finite positions, 20,737 nominal positions and 23,430 nominal readings.
