@@ -1,6 +1,8 @@
-# Written-development backlog at PG687
+# Written-development backlog at PG688
 
-Monty · 2026-11-24 · reviewed current parent 1ac52ecdd70037ffff1fcb18ac8a3ad003ad9594; historical closures below retain their exact original pins.
+Monty · 2026-11-24 · reviewed current parent 284c0a3d50367cfbeaa11ee3a9651fd665ff550d; historical closures below retain their exact original pins.
+
+PG688 closes the [PG677 owner and count reconciliation](nested_gam_passive_blessing_aorist_owner_reconciliation/README.md) on the existing 18 passive āśīrliṅ/luṅ keys. Nyāsa's exact two-ṇic control and the selected 6.4.62/93/actual-ciṇ rules give 55 operative readings, with 38 newly admitted, 20 retired and 17 shared. Those shared words now have the correct O histories. The historical PG677 packet remains frozen. Other passive inputs, the outstanding joined active lakāras, independent textual and recitational evidence and C2–C5/S1–S7 remain Open. Claude execution is separate.
 
 PG687 corrects the [active blessing after exact H1 deletion](nested_gam_active_benedictive_owner_correction_and_joined_panel/README.md), preserves PG671's historical words and replaces their 19 operative readouts without new credit. Joined sam adds 18 positions/38 readings. PG677's passive āśīrliṅ and luṅ still require exact reconciliation of the exposed root, the ciṇvat or ciṇ grade and late 2pl dh/ḍh. PG674–675's correct H1-lopa inputs remain available. C2–C5/S1–S7 and Claude execution retain their standing.
 

@@ -1,0 +1,116 @@
+{
+  "schema": "rkf.panini.pg688.relation.v1",
+  "scope": {
+    "root": "gam",
+    "root_id": 1011137,
+    "preverb": null,
+    "voice": "karmaṇi",
+    "pada": "A",
+    "events": "PG409 unique Y controller; D and V distinct instrumental causal agents",
+    "formation": "two hetumat ṇic, first deleted before its vowel growth",
+    "labels": [
+      "āśīrliṅ",
+      "luṅ"
+    ]
+  },
+  "branches": {
+    "O": {
+      "scope": [
+        "sīyuṭ",
+        "sIC"
+      ],
+      "H1": "empty",
+      "H2": "ay",
+      "outer_i": "ordinary iṭ",
+      "exposed_root": "gam",
+      "dh_dh_retroflex": "both at 2pl"
+    },
+    "C_short": {
+      "scope": [
+        "sīyuṭ",
+        "sIC"
+      ],
+      "H1": "empty",
+      "H2": "empty",
+      "outer_i": "ciṇvat iṭ; invisible only to H2 lopa",
+      "exposed_root": "gam",
+      "dh_dh_retroflex": "dental only"
+    },
+    "C_long": {
+      "scope": [
+        "sīyuṭ",
+        "sIC"
+      ],
+      "H1": "empty",
+      "H2": "empty",
+      "outer_i": "ciṇvat iṭ; invisible only to H2 lopa",
+      "exposed_root": "gām by 6.4.93",
+      "dh_dh_retroflex": "dental only"
+    },
+    "actual_cin": {
+      "scope": [
+        "luṅ 3sg"
+      ],
+      "H1": "empty",
+      "H2": "empty",
+      "outer_i": "retained ciṇ i, no additional iṭ",
+      "exposed_root": [
+        "gam",
+        "gām"
+      ],
+      "ending": "ta luk 6.4.104"
+    }
+  },
+  "readouts": "READOUTS.tsv",
+  "supersedes": {
+    "packet": "PG677",
+    "old_keys": 18,
+    "old_position_readings": 37,
+    "new_keys": 18,
+    "new_position_readings": 55,
+    "shared_key_word_pairs": 17,
+    "retired_key_word_pairs": 20,
+    "added_key_word_pairs": 38,
+    "net_reading_delta": 18,
+    "replacement_interfaces": 55,
+    "retired_interfaces": 37,
+    "unmodified_archival_status": true
+  },
+  "excluded": [
+    "H1 pronounced ay on the specified deleted H1 history",
+    "ordinary O with the ciṇ/ciṇvat long grade",
+    "turning a ciṇvat suffix into actual ciṇ with 6.4.104 deletion",
+    "allowing ḍh after exposed m in these C branches solely because of the following iṭ"
+  ],
+  "open": [
+    "Unselected passive profiles, other karmans or roots, independent exact full word attestations and variant source policies",
+    "Outstanding joined active lakāras, source-text and exact accent/recitation questions, and C2–C5/S1–S7",
+    "Claude execution separate"
+  ],
+  "credit": {
+    "finite_positions": 0,
+    "finite_readings": 38,
+    "retired_finite_readings": 20,
+    "finite_readings_net_delta": 18,
+    "nominal_positions": 0,
+    "nominal_readings": 0,
+    "morphological_constructions": 0,
+    "morphological_readouts": 55,
+    "retired_morphological_readouts": 37,
+    "morphological_readouts_net_delta": 18,
+    "syntactic_constructions": 0,
+    "syntactic_readouts": 0,
+    "phonological_constructions": 0,
+    "phonological_readouts": 0,
+    "accent_constructions": 0,
+    "accent_readouts": 0,
+    "compound_constructions": 0,
+    "compound_readouts": 0,
+    "semantic_constructions": 0,
+    "semantic_readouts": 0,
+    "source_observations": 1,
+    "source_policy_decisions": 1,
+    "provenance_corrections": 1,
+    "accounting_corrections": 1
+  }
+}

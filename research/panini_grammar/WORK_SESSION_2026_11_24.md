@@ -2,6 +2,16 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG688 · Nested gam passive blessing and aorist ownership repair
+
+PG688: [Nested gam passive blessing and aorist ownership repair](nested_gam_passive_blessing_aorist_owner_reconciliation/README.md). Nyāsa confirms first-ṇic deletion and root length in the double-causative control. On the same 18 PG677 keys, 55 corrected readings preserve actual ciṇ versus ciṇvat and the late 2pl owner. There are 38 newly admitted and 20 retired old readings, for a net increment of 18 and zero new positions.
+
+One direct Nyāsa source observation, one source-policy decision, one provenance correction and one accounting correction. Replaced 37 owned interfaces with 55, a net increment of 18 on the existing two morphology constructions. No new nominal positions/readings. The operative census is 52,089 finite positions and 8,012 nominal positions/9,271 readings.
+
+PG521–688 cumulative: 270 finite positions/641 net credited finite readings, 2,234 nominal positions/2,528 readings, 259 morphology constructions/2,041 operative interfaces, 122 compound constructions/583 plans, 15 accent constructions/61 records, 150 semantics constructions/437 records, 114 syntax constructions/334 records, 49 source-policy decisions after PG555−1, and 291 observations. Dedicated junction count since PG680 is three constructions/nine readouts. Four provenance corrections and one proof addendum. PG335 correction and PG357–363 CLOSED preserved as historical results.
+
+The corrected selected passive scope is CLOSED on its declared profiles. Wider passive scope, remaining joined active lakāras, independent corpus sources and accent, C2–C5/S1–S7 and Claude execution remain tracked. The exact publication is the containing commit.
+
 ## PG687 · Nested gam blessing ownership correction and joined panel
 
 PG687: [Nested gam blessing ownership correction and joined panel](nested_gam_active_benedictive_owner_correction_and_joined_panel/README.md). The source-ordered H1 deletion leaves no first ay to expose. P deletes H2 and A retains one ay. The unprefixed PG671 display gets an additive 19-interface correction without new credit. Joined sam adds 18 positions/38 readings. Census 52,089 finite and 8,012 nominal positions/9,271 readings.

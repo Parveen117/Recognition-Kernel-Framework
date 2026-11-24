@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG687
+# Pāṇini grammar · current written coverage at PG688
+
+PG688: [Nested gam passive blessing and aorist ownership repair](nested_gam_passive_blessing_aorist_owner_reconciliation/README.md). Nyāsa confirms first-ṇic deletion and root length in the double-causative control. On the same 18 PG677 keys, 55 corrected readings preserve actual ciṇ versus ciṇvat and the late 2pl owner. There are 38 newly admitted and 20 retired old readings, for a net increment of 18 and zero new positions.
 
 PG687: [Nested gam blessing ownership correction and joined panel](nested_gam_active_benedictive_owner_correction_and_joined_panel/README.md). The source-ordered H1 deletion leaves no first ay to expose. P deletes H2 and A retains one ay. The unprefixed PG671 display gets an additive 19-interface correction without new credit. Joined sam adds 18 positions/38 readings. Census 52,089 finite and 8,012 nominal positions/9,271 readings.
 
