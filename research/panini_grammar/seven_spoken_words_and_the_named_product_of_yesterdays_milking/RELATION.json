@@ -1,0 +1,208 @@
+{
+  "stage": "PG777",
+  "morphology_interfaces": [
+    {
+      "id": "SHY",
+      "base": "śālā and the supplied notion of entry",
+      "guard": "unassuming person",
+      "affix": "stipulated khañ, inner member lost",
+      "result": "śālīna"
+    },
+    {
+      "id": "ACT",
+      "base": "kūpa and the supplied notion of descent",
+      "guard": "improper deed",
+      "affix": "stipulated khañ with loss",
+      "result": "kaupīna"
+    },
+    {
+      "id": "PART",
+      "base": "lexical kaupīna",
+      "guard": "thing to be concealed, applied to a body part",
+      "affix": "Bhoja’s first sense transfer",
+      "result": "kaupīna"
+    },
+    {
+      "id": "COVER",
+      "base": "concealed body part",
+      "guard": "cloth or bark covering it",
+      "affix": "Bhoja’s second transfer",
+      "result": "kaupīna"
+    },
+    {
+      "id": "WORK",
+      "base": "vrāta, the group’s activity",
+      "guard": "member lives by doing it",
+      "affix": "instrumentally supported khañ",
+      "result": "vrātīna"
+    },
+    {
+      "id": "FR",
+      "base": "seven pada units",
+      "guard": "friendship attained, utterances in the poem",
+      "affix": "stipulated khañ",
+      "result": "sāptapadīna"
+    },
+    {
+      "id": "HUM",
+      "base": "relationship borne by a person",
+      "guard": "transfer to the friend",
+      "affix": "lakṣaṇā then normal agreement",
+      "result": "sāptapadīna"
+    },
+    {
+      "id": "MILK",
+      "base": "previous day’s cow milk",
+      "guard": "specifically named product, ghṛta",
+      "affix": "hiyaṅgu substitution and khañ",
+      "result": "haiyaṅgavīna"
+    },
+    {
+      "id": "FRESH",
+      "base": "same named product wording",
+      "guard": "navanīta in the shorter manual",
+      "affix": "same formation, attributed referent",
+      "result": "haiyaṅgavīna"
+    },
+    {
+      "id": "SHORT",
+      "base": "haiyaṅgava as independently attested lexical base",
+      "guard": "object of eating or giving",
+      "affix": "ordinary neuter accusative singular",
+      "result": "haiyaṅgavam"
+    }
+  ],
+  "nominal_positions": [
+    {
+      "id": "SHY",
+      "source": "K20",
+      "input_history": "SHY",
+      "case_number": "M NOMsg",
+      "word": "śālīnaḥ",
+      "interpretation": "A person of retiring disposition in the example."
+    },
+    {
+      "id": "BAD",
+      "source": "K20",
+      "input_history": "ACT",
+      "case_number": "N NOMsg",
+      "word": "kaupīnam",
+      "interpretation": "The improper act itself."
+    },
+    {
+      "id": "PART",
+      "source": "KO",
+      "input_history": "PART",
+      "case_number": "N NOMsg",
+      "word": "kaupīnam",
+      "interpretation": "Something private, the part one conceals."
+    },
+    {
+      "id": "COVER",
+      "source": "BHO",
+      "input_history": "COVER",
+      "case_number": "N NOMsg",
+      "word": "kaupīnam",
+      "interpretation": "A covering of the concealed part by further transfer."
+    },
+    {
+      "id": "WORKER",
+      "source": "K21",
+      "input_history": "WORK",
+      "case_number": "M NOMsg",
+      "word": "vrātīnaḥ",
+      "interpretation": "Participant living from the group’s named work."
+    },
+    {
+      "id": "ACTIVE",
+      "source": "K22",
+      "input_history": "FR",
+      "case_number": "N ACCsg",
+      "word": "sāptapadīnam",
+      "interpretation": "Predicate complement of sakhyam with āhuḥ."
+    },
+    {
+      "id": "PASSIVE",
+      "source": "KS",
+      "input_history": "FR",
+      "case_number": "N NOMsg",
+      "word": "sāptapadīnam",
+      "interpretation": "What the meeting of the good is called, under ucyate. Commentaries explain the seven as words uttered."
+    },
+    {
+      "id": "MAN",
+      "source": "K22",
+      "input_history": "HUM",
+      "case_number": "M NOMsg",
+      "word": "sāptapadīnaḥ",
+      "interpretation": "A male friend by designation of the bearer."
+    },
+    {
+      "id": "FRIEND",
+      "source": "K22",
+      "input_history": "HUM",
+      "case_number": "N NOMsg",
+      "word": "sāptapadīnam",
+      "interpretation": "Agrees with mitram, a neuter word for the friend."
+    },
+    {
+      "id": "GHEE",
+      "source": "AM",
+      "input_history": "MILK",
+      "case_number": "N NOMsg",
+      "word": "haiyaṅgavīnam",
+      "interpretation": "Amara’s named ghṛta of the preceding day’s milk."
+    },
+    {
+      "id": "BUTTER",
+      "source": "K23",
+      "input_history": "FRESH",
+      "case_number": "N NOMsg",
+      "word": "haiyaṅgavīnam",
+      "interpretation": "The short manual’s butter referent, retained as a source-qualified sense."
+    },
+    {
+      "id": "OFFER",
+      "source": "BK",
+      "input_history": "MILK",
+      "case_number": "N ACCsg",
+      "word": "haiyaṅgavīnam",
+      "interpretation": "One of the ritual goods which the rākṣasas do not damage."
+    },
+    {
+      "id": "EAT",
+      "source": "BP",
+      "input_history": "SHORT",
+      "case_number": "N ACCsg",
+      "word": "haiyaṅgavam",
+      "interpretation": "Separate short-stem direct object under jaghāsa. Verse 8 supplies another token of the same case with dadatam."
+    }
+  ],
+  "source_policy_decisions": [
+    {
+      "id": "LEX",
+      "sources": "K20,BHO,KO",
+      "decision": "Keep the original normative sense and Bhoja’s two transfers. Count by typed referent. These are one word-form with three requests."
+    },
+    {
+      "id": "LABOUR",
+      "sources": "BH21,K21",
+      "decision": "Group membership and a livelihood from the group’s activity are both required. Mere dependence on a member’s goods fails."
+    },
+    {
+      "id": "FRIEND",
+      "sources": "K22,KS,NA,MB",
+      "decision": "Separate active and passive case ownership, friend and friendship, physical walking and the commentators’ spoken-word gloss. Preserve the epic’s different word."
+    },
+    {
+      "id": "PRODUCT",
+      "sources": "BH23,K23,AM,BK,JAY",
+      "decision": "Keep direct ghṛta, the separate navanīta interpretation and its reported reconciliation. The negative example distinguishes naming from mere material origin."
+    },
+    {
+      "id": "SHORT",
+      "sources": "BP,BK,K23",
+      "decision": "Admit the short Bhāgavata word on its own textual identity. Its second occurrence supplies source evidence without another case key. No general optional loss of īna follows."
+    }
+  ]
+}

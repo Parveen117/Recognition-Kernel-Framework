@@ -1,6 +1,8 @@
-# Written-development backlog at PG776
+# Written-development backlog at PG777
 
-Monty · 2026-11-25 · reviewed parent f3435bd46829a88f40b292f059273de85c5f58d4. Historical closures below retain their exact pins.
+Monty · 2026-11-25 · reviewed parent 05b82ff8bf310ea00dfa2a032b234f74cbef47ea. Historical closures below retain their exact pins.
+
+PG777 · [Seven spoken words and the named product of yesterday’s milking](seven_spoken_words_and_the_named_product_of_yesterdays_milking/README.md). The independent literary address of the exact active āhuḥ quotation and the historical derivation of the shorter Bhāgavata stem remain Open. Next take the paired fruit-season and body-part bases of 5.2.24–27, retaining earlier ear-mole, root and field owners. C2–C5 and S1–S7 remain Open.
 
 PG776 · [Annual birth, two travellers and the length of a horse’s day](annual_birth_two_travellers_and_the_horseday_measure/README.md). The primary location of the one-hundred flight quotation, the historical relationship of the two annual-birth analyses and wider accented use remain Open. Continue 5.2.20–23 with the named shy and shameful uses, group occupation, seven-step friendship and the previous milking. C2–C5 and S1–S7 remain Open.
 

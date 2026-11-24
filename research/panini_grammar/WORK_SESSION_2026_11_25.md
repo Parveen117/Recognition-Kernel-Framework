@@ -2,6 +2,12 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG777 · Seven spoken words and the named product of yesterday’s milking
+
+PG777 · [Seven spoken words and the named product of yesterday’s milking](seven_spoken_words_and_the_named_product_of_yesterdays_milking/README.md). Writes 5.2.20–23, resolves the spoken-word use in Kumārasambhava and separates the long and short milk-product terms. 13 new nominal positions and 13 readings. Finite positions and readings both increased by zero. One written morphology construction with 10 interfaces, 15 source observations and 5 source decisions. Census: 52,349 finite positions, 21,176 nominal positions and 23,960 nominal readings.
+
+Parent 05b82ff8bf310ea00dfa2a032b234f74cbef47ea. The containing commit pins this packet. The independent literary address of the exact active āhuḥ quotation and the historical derivation of the shorter Bhāgavata stem remain Open. Next take the paired fruit-season and body-part bases of 5.2.24–27, retaining earlier ear-mole, root and field owners. C2–C5 and S1–S7 remain Open. Claude retains execution.
+
 ## PG776 · Annual birth, two travellers and the length of a horse’s day
 
 PG776 · [Annual birth, two travellers and the length of a horse’s day](annual_birth_two_travellers_and_the_horseday_measure/README.md). Writes the two annual-birth histories, the road and approach suffixes, and two directly located Vedic horse-day measures at 5.2.12–19. 40 new nominal positions and 52 readings. Finite positions and readings both increased by zero. One written morphology construction with 13 interfaces, 14 source observations and 5 source decisions. Census: 52,349 finite positions, 21,163 nominal positions and 23,947 nominal readings.
@@ -59,8 +65,12 @@ The starting census at [PG746](https://github.com/Parveen117/Recognition-Kernel-
 | PG771 | [8b80a9224a1dfb98439f33459671dfd28fedcf5f](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/8b80a9224a1dfb98439f33459671dfd28fedcf5f) | 0 | 0 | 54 | 54 | 1 | 16 | 14 | 6 | — |
 | PG772 | [60ca8a1fc1ec5a751c0ec9ab279f47e9719015de](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/60ca8a1fc1ec5a751c0ec9ab279f47e9719015de) | 2 | 2 | 2 | 2 | 1 | 8 | 10 | 6 | 1 syntax constructions, 3 syntax readouts |
 | PG773 | [558df53c57f8b2c4e199075b07b1263c42871e38](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/558df53c57f8b2c4e199075b07b1263c42871e38) | 0 | 0 | 63 | 119 | 1 | 14 | 11 | 5 | — |
+| PG774 | [b8137aca3ae784aab7e4c19671d51ecd41c0d32a](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/b8137aca3ae784aab7e4c19671d51ecd41c0d32a) | 0 | 0 | 20 | 20 | 1 | 19 | 12 | 6 | — |
+| PG775 | [f3435bd46829a88f40b292f059273de85c5f58d4](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/f3435bd46829a88f40b292f059273de85c5f58d4) | 2 | 2 | 0 | 0 | 1 | 5 | 12 | 5 | 1 syntax constructions, 4 syntax readouts |
+| PG776 | [05b82ff8bf310ea00dfa2a032b234f74cbef47ea](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/05b82ff8bf310ea00dfa2a032b234f74cbef47ea) | 0 | 0 | 40 | 52 | 1 | 13 | 14 | 5 | — |
+| PG777 | Containing commit | 0 | 0 | 13 | 13 | 1 | 10 | 15 | 5 | — |
 
-Through PG773 the census is 52,347 finite positions, 21,103 nominal positions and 23,875 nominal readings. The PG335 correction is carried through the baseline. Protected registers contribute no new units here.
+Through PG777 the census is 52,349 finite positions, 21,176 nominal positions and 23,960 nominal readings. The PG335 correction is carried through the baseline. Protected registers contribute no new units here.
 
 ## PG772 · Two causal predicates and the changing cases of hotrā in Aitareya 6.14
 
