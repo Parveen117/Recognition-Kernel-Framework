@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG789
+# Pāṇini grammar · current written coverage at PG790
+
+PG790 · [Extended surplus numerals and exchange ratios](extended_surplus_numerals_and_exchange_ratios/README.md). Completes selected 5.2.46–47 surfaces while keeping pure-number surplus, `nimāna`, reciprocal `nimeya` and generic multiplicative uses distinct. Census: 52,357 finite positions, 21,350 nominal positions and 24,144 nominal readings.
 
 PG789 · [Numeral parts, their whole and surplus hundreds](numeral_parts_wholes_and_surplus_hundreds/README.md). Completes the previously unexecuted 5.2.42–45 surface layer: `tayap`, optional and obligatory `ayac`, the separately owned accent, and same-unit excess over a hundred or thousand. Census: 52,357 finite positions, 21,339 nominal positions and 24,133 nominal readings.
 

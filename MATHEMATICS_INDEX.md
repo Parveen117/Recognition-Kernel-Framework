@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG790 · [Extended surplus numerals and exchange ratios](research/panini_grammar/extended_surplus_numerals_and_exchange_ratios/README.md). PG14 retains pure-number status, surplus target, commodity direction and integral `x:1` ratio through typed zero specialization.
+
 PG789 · [Numeral parts, their whole and surplus hundreds](research/panini_grammar/numeral_parts_wholes_and_surplus_hundreds/README.md). PG14 retains the constituent-to-whole relation, original `tayap`, optional or obligatory `ayac`, accent recipient and same-unit surplus history through typed zero specialization.
 
 PG788 · [Five quantity pronouns, three Vedic comparisons and a question about the gods](research/panini_grammar/five_quantity_pronouns_and_the_number_of_gods/README.md). Three rules, with the old as position and prior samāvat register retained.

@@ -1,0 +1,51 @@
+{
+  "stage": "PG790",
+  "morphology_constructions": [
+    {
+      "id": "EXTENDED_SURPLUS",
+      "rule": "5.2.46",
+      "input": "pure numeral ending in -shat or vimshati in PG789's same-unit surplus relation",
+      "action": "select ḍa and remove the licensed final ṭi portion",
+      "interfaces": ["S30", "S31", "S41", "S20", "S21"]
+    },
+    {
+      "id": "EXCHANGE_RATIO",
+      "rule": "5.2.47",
+      "input": "integral x:1 equal-portion value or reciprocal exchange, x greater than one",
+      "action": "select mayat and agree with the item qualified",
+      "interfaces": ["V2", "V3", "V4", "R2", "R3", "R4"]
+    }
+  ],
+  "nominal_positions": [
+    {"id":"S30","address":"N NOMsg with shatam","readings":["triṃśam"]},
+    {"id":"S31","address":"N NOMsg with shatam","readings":["ekatriṃśam"]},
+    {"id":"S41","address":"N NOMsg with shatam","readings":["ekacatvāriṃśam"]},
+    {"id":"S20","address":"N NOMsg with shatam","readings":["viṃśam"]},
+    {"id":"S21","address":"N NOMsg with shatam","readings":["ekaviṃśam"]},
+    {"id":"V2","address":"N NOMsg","readings":["dvimayam"]},
+    {"id":"V3","address":"N NOMsg","readings":["trimayam"]},
+    {"id":"V4","address":"N NOMsg","readings":["caturmayam"]},
+    {"id":"R2","address":"M NOMpl","readings":["dvimayāḥ"]},
+    {"id":"R3","address":"M NOMpl","readings":["trimayāḥ"]},
+    {"id":"R4","address":"M NOMpl","readings":["caturmayāḥ"]}
+  ],
+  "source_policy_decisions": [
+    {
+      "id": "PURE_NUMBER",
+      "decision": "Apply 5.2.46 only to actual numerals. Lexical compounds gotrimshat and govimshati do not enter merely by their final letters."
+    },
+    {
+      "id": "RATIO",
+      "decision": "Require an integral x:1 ratio with x greater than one. Reject x:2, one-to-one, fractional and mixed-item pseudo-ratios."
+    },
+    {
+      "id": "DIRECTION",
+      "decision": "Retain both source-authorized directions: the value-measure nimana and the reciprocally measured nimeya. Do not collapse their commodity roles."
+    }
+  ],
+  "open_or_blocked": [
+    "Complete paradigms, accent, wider barter vocabulary and historical price systems remain Open.",
+    "Generic multiplicative or cooking uses do not satisfy the 5.2.47 exchange guard.",
+    "The ordinal family beginning at 5.2.48 is a separate unconstructed block."
+  ]
+}

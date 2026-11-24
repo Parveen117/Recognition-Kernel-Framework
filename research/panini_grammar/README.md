@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG790 · [Extended surplus numerals and exchange ratios](extended_surplus_numerals_and_exchange_ratios/README.md). Completes selected 5.2.46–47 surfaces: 11 new nominal positions/readings, two morphology constructions/11 interfaces and zero repeated source credit.
+
 PG789 · [Numeral parts, their whole and surplus hundreds](numeral_parts_wholes_and_surplus_hundreds/README.md). Completes 5.2.42–45 without repeating PG37 source credit: 23 new nominal positions and 26 readings. Finite positions and readings both increase by zero.
 
 PG788 · [Five quantity pronouns, three Vedic comparisons and a question about the gods](five_quantity_pronouns_and_the_number_of_gods/README.md). Distinguishes quantity from likeness and numerical inquiry, verifies the three Ṛgvedic quotations, and attaches the Vedic smasi reading to PG8’s existing first plural. 11 new nominal positions and 11 readings. 0 new finite positions and 1 finite readings.

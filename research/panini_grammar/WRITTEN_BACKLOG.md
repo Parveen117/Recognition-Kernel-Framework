@@ -1,6 +1,8 @@
-# Written-development backlog at PG789
+# Written-development backlog at PG790
 
-Monty · 2026-11-25 · reviewed parent 7d872327a6fe142612c5b3125350e46dd61ef5bf. Historical closures below retain their exact pins.
+Monty · 2026-11-25 · reviewed parent 021199725240e1795780a5540a3e71a7867b028b. Historical closures below retain their exact pins.
+
+PG790 · [Extended surplus numerals and exchange ratios](extended_surplus_numerals_and_exchange_ratios/README.md). Selected literal 5.2.46 surplus forms and both directions of the 5.2.47 exchange ratio are CLOSED. Complete paradigms, accent, broader barter vocabulary and historical price systems remain Open. Continue the ordinal family from 5.2.48. S5 remains 99/103; S6 retains the independent specific 5.56 k-it-effect requirement. C2–C5 and S1–S7 remain Open.
 
 PG789 · [Numeral parts, their whole and surplus hundreds](numeral_parts_wholes_and_surplus_hundreds/README.md). The selected 5.2.42–45 literal surfaces, alternatives, accent recipients and same-unit surplus guards are CLOSED. Complete paradigms, wider accent recitation, historical priority of the two `ubha` analyses and independent corpus histories remain Open. Continue 5.2.46 onward. S5 remains 99/103 direct assignments and S6 retains its independent specific k-it-effect requirement. C2–C5 and S1–S7 remain Open.
 
