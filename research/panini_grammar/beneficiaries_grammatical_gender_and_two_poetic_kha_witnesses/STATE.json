@@ -1,0 +1,36 @@
+{
+  "stage": "PG749",
+  "date": "2026-11-24",
+  "publication_parent": "e26f6e8e7efdfd67103e53f4c62f8a5b1ce9e88d",
+  "baseline": {
+    "commit": "e26f6e8e7efdfd67103e53f4c62f8a5b1ce9e88d",
+    "path": "research/panini_grammar/blanket_measure_offering_options_and_gavadi_exceptions/STATE.json"
+  },
+  "finite_positions": 52345,
+  "nominal_positions": 20423,
+  "nominal_readings": 23063,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 36,
+  "new_nominal_readings": 38,
+  "new_morphology_constructions": 1,
+  "new_morphology_interfaces": 35,
+  "new_source_observations": 14,
+  "new_source_policy_decisions": 8,
+  "open_obligations": [
+    "Identify the recension or editorial source behind the PS 5.11.8 citation and further evidence for the source-specific gavādi/apūpādi lists.",
+    "Next construct 5.1.12–17, distinguishing intended material, sufficient resource and the leather exceptions. The wider S5 and S6 source gaps retain their individual owners."
+  ],
+  "local_closure": "The selected beneficiary, compound, suffix-marker and case histories have typed zero recovery, including the female beneficiary and the source-restricted dental n.",
+  "global_gates": {
+    "C2–C5": "Open",
+    "S1–S7": "Open",
+    "S5_direct_fields": "99/103",
+    "S6": "Independent 5.56 k-it effect Open"
+  },
+  "protected_registers": {
+    "PG335": "-9 finite positions and -12 readings already applied",
+    "PG340/346, PG349–352, PG355–360, PG357–363": "CLOSED on registered scopes"
+  },
+  "runtime_policy": "Written derivation. Only changed-document, source and count checks. Claude owns grammar execution, generators, untouched suites and replay."
+}

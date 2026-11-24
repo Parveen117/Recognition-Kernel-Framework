@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG748
+# Pāṇini grammar · current written coverage at PG749
+
+PG749 · [Beneficiaries, compound heads and two poetic witnesses for kha](beneficiaries_grammatical_gender_and_two_poetic_kha_witnesses/README.md). Derives the named benefit cases at 5.1.6–11. Bhāravi and Māgha supply independent cases of kha; the cited Paippalāda edition has a different reading at 5.11.8. Census: 52,345 finite positions, 20,423 nominal positions and 23,063 nominal readings.
 
 PG748 · [The wool measure, offering options and the gavādi exceptions](blanket_measure_offering_options_and_gavadi_exceptions/README.md). Extends 5.1.1–5 to case readings for default cha, protected and optional yat, the dog-grade accent contrast and the two purchases measured in wool. Census: 52,345 finite positions, 20,387 nominal positions and 23,025 nominal readings.
 

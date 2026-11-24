@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG749 · [Beneficiaries, compound heads and two poetic witnesses for kha](research/panini_grammar/beneficiaries_grammatical_gender_and_two_poetic_kha_witnesses/README.md). The selected beneficiary, compound, suffix-marker and case histories have typed zero recovery, including the female beneficiary and the source-restricted dental n.
+
 PG748 · [The wool measure, offering options and the gavādi exceptions](research/panini_grammar/blanket_measure_offering_options_and_gavadi_exceptions/README.md). PG14 specialization preserves the lexical substitution, correlated length and accent, and the two suffix owners in measure-based purchases.
 
 PG747 · [Soma eligibility, honey material and the Vedic tāti cases](research/panini_grammar/soma_eligibility_honey_material_and_tati_cases/README.md). The eight chapter-end rules have a written, source-qualified mapping to the selected cases and a typed PG14 specialization. Source gaps retain individual Open records.

@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG749 · [Beneficiaries, compound heads and two poetic witnesses for kha](beneficiaries_grammatical_gender_and_two_poetic_kha_witnesses/README.md). Derives the named benefit cases at 5.1.6–11. Bhāravi and Māgha supply independent cases of kha; the cited Paippalāda edition has a different reading at 5.11.8. 36 new nominal positions and 38 readings. Finite positions and readings both increased by zero.
+
 PG748 · [The wool measure, offering options and the gavādi exceptions](blanket_measure_offering_options_and_gavadi_exceptions/README.md). Extends 5.1.1–5 to case readings for default cha, protected and optional yat, the dog-grade accent contrast and the two purchases measured in wool. 22 new nominal positions and 27 readings. Finite positions and readings both increased by zero.
 
 PG747 · [Soma eligibility, honey material and the Vedic tāti cases](soma_eligibility_honey_material_and_tati_cases/README.md). KS 5.2 and PS 1.88.2 establish separate eligibility and material cases. Two wealth interpretations and the maker/state evidence are keyed to their actual verse endings. 14 new nominal positions and 14 readings. Finite positions and readings both increased by zero.

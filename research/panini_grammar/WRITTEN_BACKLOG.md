@@ -1,6 +1,8 @@
-# Written-development backlog at PG748
+# Written-development backlog at PG749
 
-Monty · 2026-11-24 · reviewed parent b59844d39905dfcb7a7c6f31581ae20253ab2d73. Historical closures below retain their exact pins.
+Monty · 2026-11-24 · reviewed parent e26f6e8e7efdfd67103e53f4c62f8a5b1ce9e88d. Historical closures below retain their exact pins.
+
+PG749 · [Beneficiaries, compound heads and two poetic witnesses for kha](beneficiaries_grammatical_gender_and_two_poetic_kha_witnesses/README.md). Identify the recension or editorial source behind the PS 5.11.8 citation and further evidence for the source-specific gavādi/apūpādi lists. Next construct 5.1.12–17, distinguishing intended material, sufficient resource and the leather exceptions. The wider S5 and S6 source gaps retain their individual owners. C2–C5 and S1–S7 remain Open.
 
 PG748 · [The wool measure, offering options and the gavādi exceptions](blanket_measure_offering_options_and_gavadi_exceptions/README.md). The longer gavādi and apūpādi witnesses still require a member-by-member concordance and case construction. Original print lineage of the reported Haima calibrations is Open. Continue the additional 5.1.6–11 beneficiaries, including 5.1.8 thyan forms and the compound-sensitive 5.1.9 selection. C2–C5 and S1–S7 remain Open.
 

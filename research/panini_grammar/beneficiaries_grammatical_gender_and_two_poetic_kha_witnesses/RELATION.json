@@ -1,0 +1,582 @@
+{
+  "stage": "PG749",
+  "morphology_interfaces": [
+    {
+      "id": "TOOTH",
+      "base": "danta",
+      "guard": "living body part",
+      "affix": "yat",
+      "result": "dantya"
+    },
+    {
+      "id": "THROAT",
+      "base": "kaṇṭha",
+      "guard": "living body part",
+      "affix": "yat",
+      "result": "kaṇṭhya"
+    },
+    {
+      "id": "LIP",
+      "base": "oṣṭha",
+      "guard": "living body part",
+      "affix": "yat",
+      "result": "oṣṭhya"
+    },
+    {
+      "id": "NOSE",
+      "base": "nāsikā",
+      "guard": "living body part and licensed nas",
+      "affix": "yat",
+      "result": "nasya"
+    },
+    {
+      "id": "FLOOR",
+      "base": "khala",
+      "guard": "named benefit",
+      "affix": "yat",
+      "result": "khalya"
+    },
+    {
+      "id": "BARLEY",
+      "base": "yava",
+      "guard": "named benefit",
+      "affix": "yat",
+      "result": "yavya"
+    },
+    {
+      "id": "BEAN",
+      "base": "māṣa",
+      "guard": "named benefit",
+      "affix": "yat",
+      "result": "māṣya"
+    },
+    {
+      "id": "SESAME",
+      "base": "tila",
+      "guard": "named benefit",
+      "affix": "yat",
+      "result": "tilya"
+    },
+    {
+      "id": "BULL",
+      "base": "vṛṣa",
+      "guard": "a-final member",
+      "affix": "yat",
+      "result": "vṛṣya"
+    },
+    {
+      "id": "BRAH",
+      "base": "brahman",
+      "guard": "person sense, n retained",
+      "affix": "yat",
+      "result": "brahmaṇya"
+    },
+    {
+      "id": "RATHA",
+      "base": "ratha",
+      "guard": "supplement, benefit only",
+      "affix": "yat + ṭāp",
+      "result": "rathyā"
+    },
+    {
+      "id": "GOAT",
+      "base": "aja",
+      "guard": "goat beneficiary",
+      "affix": "thyan",
+      "result": "ajathya"
+    },
+    {
+      "id": "DOE",
+      "base": "ajā",
+      "guard": "female goat, puṃvad on this support",
+      "affix": "thyan",
+      "result": "ajathya"
+    },
+    {
+      "id": "SHEEP",
+      "base": "avi",
+      "guard": "sheep beneficiary",
+      "affix": "thyan",
+      "result": "avithya"
+    },
+    {
+      "id": "SELF",
+      "base": "ātman",
+      "guard": "benefit to oneself, n retained",
+      "affix": "kha",
+      "result": "ātmanīna"
+    },
+    {
+      "id": "ALL",
+      "base": "viśvajana",
+      "guard": "co-referential members",
+      "affix": "kha",
+      "result": "viśvajanīna"
+    },
+    {
+      "id": "OTHER",
+      "base": "viśvajana",
+      "guard": "genitive or bahuvrīhi",
+      "affix": "cha",
+      "result": "viśvajanīya"
+    },
+    {
+      "id": "FIVE",
+      "base": "pañcajana",
+      "guard": "named co-referential group",
+      "affix": "kha",
+      "result": "pañcajanīna"
+    },
+    {
+      "id": "FIVE-O",
+      "base": "pañcajana",
+      "guard": "other compound",
+      "affix": "cha",
+      "result": "pañcajanīya"
+    },
+    {
+      "id": "SG1",
+      "base": "sarvajana",
+      "guard": "karmadhāraya supplement",
+      "affix": "ṭhañ",
+      "result": "sārvajanika"
+    },
+    {
+      "id": "SG2",
+      "base": "sarvajana",
+      "guard": "same admission",
+      "affix": "kha",
+      "result": "sarvajanīna"
+    },
+    {
+      "id": "SO",
+      "base": "sarvajana",
+      "guard": "other compound",
+      "affix": "cha",
+      "result": "sarvajanīya"
+    },
+    {
+      "id": "MG",
+      "base": "mahājana",
+      "guard": "selected tatpuruṣa supplement",
+      "affix": "ṭhañ",
+      "result": "māhājanika"
+    },
+    {
+      "id": "MO",
+      "base": "mahājana",
+      "guard": "bahuvrīhi",
+      "affix": "cha",
+      "result": "mahājanīya"
+    },
+    {
+      "id": "MB",
+      "base": "mātṛ-bhoga",
+      "guard": "body as compound final",
+      "affix": "kha",
+      "result": "mātṛbhogīṇa"
+    },
+    {
+      "id": "PB",
+      "base": "pitṛ-bhoga",
+      "guard": "body as compound final",
+      "affix": "kha",
+      "result": "pitṛbhogīṇa"
+    },
+    {
+      "id": "RB",
+      "base": "rāja-bhoga",
+      "guard": "body as compound final",
+      "affix": "kha",
+      "result": "rājabhogīna"
+    },
+    {
+      "id": "AB",
+      "base": "ācārya-bhoga",
+      "guard": "body as compound final, dental exception",
+      "affix": "kha",
+      "result": "ācāryabhogīna"
+    },
+    {
+      "id": "SB",
+      "base": "sva-bhoga",
+      "guard": "self body in BV",
+      "affix": "kha",
+      "result": "svabhogīna"
+    },
+    {
+      "id": "S1",
+      "base": "sarva",
+      "guard": "ordered first input",
+      "affix": "ṇa",
+      "result": "sārva"
+    },
+    {
+      "id": "S2",
+      "base": "sarva",
+      "guard": "supplementary optional default",
+      "affix": "cha",
+      "result": "sarvīya"
+    },
+    {
+      "id": "P",
+      "base": "puruṣa",
+      "guard": "ordered second input",
+      "affix": "ḍhañ",
+      "result": "pauruṣeya"
+    },
+    {
+      "id": "PK",
+      "base": "puruṣa",
+      "guard": "made by a person",
+      "affix": "ḍhañ",
+      "result": "pauruṣeya"
+    },
+    {
+      "id": "Y",
+      "base": "māṇava",
+      "guard": "benefit",
+      "affix": "khañ",
+      "result": "māṇavīna"
+    },
+    {
+      "id": "C",
+      "base": "caraka",
+      "guard": "benefit",
+      "affix": "khañ",
+      "result": "cārakīṇa"
+    }
+  ],
+  "nominal_positions": [
+    {
+      "id": "TOOTH",
+      "source": "K6",
+      "input_history": "TOOTH",
+      "case_number": "N NOMsg",
+      "word": "dantyam",
+      "interpretation": "Beneficial to the teeth in the nominal citation."
+    },
+    {
+      "id": "THROAT",
+      "source": "K6",
+      "input_history": "THROAT",
+      "case_number": "N NOMsg",
+      "word": "kaṇṭhyam",
+      "interpretation": "Beneficial to the throat."
+    },
+    {
+      "id": "LIP",
+      "source": "K6",
+      "input_history": "LIP",
+      "case_number": "N NOMsg",
+      "word": "oṣṭhyam",
+      "interpretation": "Beneficial to the lip."
+    },
+    {
+      "id": "NOSE",
+      "source": "K6",
+      "input_history": "NOSE",
+      "case_number": "N NOMsg",
+      "word": "nasyam",
+      "interpretation": "Benefit to the nose with named nas substitute."
+    },
+    {
+      "id": "FLOOR",
+      "source": "K7",
+      "input_history": "FLOOR",
+      "case_number": "N NOMsg",
+      "word": "khalyam",
+      "interpretation": "Named khala beneficiary."
+    },
+    {
+      "id": "BARLEY",
+      "source": "K7",
+      "input_history": "BARLEY",
+      "case_number": "N NOMsg",
+      "word": "yavyam",
+      "interpretation": "Named yava beneficiary."
+    },
+    {
+      "id": "BEAN",
+      "source": "K7",
+      "input_history": "BEAN",
+      "case_number": "N NOMsg",
+      "word": "māṣyam",
+      "interpretation": "Named māṣa beneficiary."
+    },
+    {
+      "id": "SESAME",
+      "source": "K7",
+      "input_history": "SESAME",
+      "case_number": "N NOMsg",
+      "word": "tilyam",
+      "interpretation": "Named tila beneficiary."
+    },
+    {
+      "id": "BULL",
+      "source": "K7",
+      "input_history": "BULL",
+      "case_number": "N NOMsg",
+      "word": "vṛṣyam",
+      "interpretation": "A-final vṛṣa."
+    },
+    {
+      "id": "BRAH",
+      "source": "K7",
+      "input_history": "BRAH",
+      "case_number": "N NOMsg",
+      "word": "brahmaṇyam",
+      "interpretation": "Person-designating brahman with its n retained."
+    },
+    {
+      "id": "RATHA",
+      "source": "K7",
+      "input_history": "RATHA",
+      "case_number": "F NOMsg",
+      "word": "rathyā",
+      "interpretation": "The specifically supplemented chariot-benefit term."
+    },
+    {
+      "id": "GOAT",
+      "source": "K8",
+      "input_history": "GOAT/DOE",
+      "case_number": "F NOMsg",
+      "word": "ajathyā",
+      "interpretation": "The plant-head citation. The same spelling also qualifies land in BV."
+    },
+    {
+      "id": "SHEEP",
+      "source": "K8",
+      "input_history": "SHEEP",
+      "case_number": "F NOMsg",
+      "word": "avithyā",
+      "interpretation": "Parallel feminine citation under avi."
+    },
+    {
+      "id": "DOE",
+      "source": "K8",
+      "input_history": "DOE",
+      "case_number": "N NOMsg",
+      "word": "ajathyam",
+      "interpretation": "Nyāsa's explicit neuter example with plural female goats as beneficiaries."
+    },
+    {
+      "id": "SELF",
+      "source": "BH",
+      "input_history": "SELF",
+      "case_number": "N ACCsg",
+      "word": "ātmanīnam",
+      "interpretation": "What serves oneself is attained in noble company. Mallinātha assigns kha."
+    },
+    {
+      "id": "ALL",
+      "source": "MA",
+      "input_history": "ALL",
+      "case_number": "N NOMsg",
+      "word": "viśvajanīnam",
+      "interpretation": "Message beneficial to everyone. The relative yat qualifies the singular neuter vacas."
+    },
+    {
+      "id": "OTHER",
+      "source": "K9",
+      "input_history": "OTHER",
+      "case_number": "N NOMsg",
+      "word": "viśvajanīyam",
+      "interpretation": "Genitive compound or external-possessor construction; the grammatical citation retains the īya suffix."
+    },
+    {
+      "id": "FIVE-K",
+      "source": "K9",
+      "input_history": "FIVE",
+      "case_number": "N NOMsg",
+      "word": "pañcajanīnam",
+      "interpretation": "Selected five-people formation, distinct from pañcajanīyam below."
+    },
+    {
+      "id": "FIVE-O",
+      "source": "K9",
+      "input_history": "FIVE-O",
+      "case_number": "N NOMsg",
+      "word": "pañcajanīyam",
+      "interpretation": "Other compound on the same visible members."
+    },
+    {
+      "id": "FIVE-B",
+      "source": "BV",
+      "input_history": "FIVE",
+      "case_number": "M NOMsg",
+      "word": "pañcajanīnaḥ",
+      "interpretation": "Bhāṣāvṛtti’s named five-person context, with a masculine referent."
+    },
+    {
+      "id": "SARVA-G",
+      "source": "K9",
+      "input_history": "SG1/SG2",
+      "case_number": "N NOMsg",
+      "word": "sārvajanikam / sarvajanīnam",
+      "interpretation": "Two branches in the karmadhāraya all-people frame."
+    },
+    {
+      "id": "SARVA-O",
+      "source": "K9",
+      "input_history": "SO",
+      "case_number": "N NOMsg",
+      "word": "sarvajanīyam",
+      "interpretation": "Other compound under default cha."
+    },
+    {
+      "id": "MAHA-G",
+      "source": "K9",
+      "input_history": "MG",
+      "case_number": "N NOMsg",
+      "word": "māhājanikam",
+      "interpretation": "Specified mahājana tatpuruṣa."
+    },
+    {
+      "id": "MAHA-O",
+      "source": "K9",
+      "input_history": "MO",
+      "case_number": "N NOMsg",
+      "word": "mahājanīyam",
+      "interpretation": "Bahuvrīhi countercase."
+    },
+    {
+      "id": "MOTHER",
+      "source": "K9",
+      "input_history": "MB",
+      "case_number": "M NOMsg",
+      "word": "mātṛbhogīṇaḥ",
+      "interpretation": "Body of the mother; suffix-owned ṇ."
+    },
+    {
+      "id": "FATHER",
+      "source": "K9",
+      "input_history": "PB",
+      "case_number": "M NOMsg",
+      "word": "pitṛbhogīṇaḥ",
+      "interpretation": "Body of the father; suffix-owned ṇ."
+    },
+    {
+      "id": "KING",
+      "source": "K9",
+      "input_history": "RB",
+      "case_number": "M NOMsg",
+      "word": "rājabhogīnaḥ",
+      "interpretation": "King as first member."
+    },
+    {
+      "id": "TEACHER",
+      "source": "K9",
+      "input_history": "AB",
+      "case_number": "M NOMsg",
+      "word": "ācāryabhogīnaḥ",
+      "interpretation": "Specific exclusion of expected ṇatva."
+    },
+    {
+      "id": "OWN",
+      "source": "BV",
+      "input_history": "SB",
+      "case_number": "M NOMsg",
+      "word": "svabhogīnaḥ",
+      "interpretation": "Bhāṣāvṛtti self-body compound."
+    },
+    {
+      "id": "ALL-S",
+      "source": "K10",
+      "input_history": "S1/S2",
+      "case_number": "N NOMsg",
+      "word": "sārvam / sarvīyam",
+      "interpretation": "Beneficial to all on the two licensed branches."
+    },
+    {
+      "id": "PERSON",
+      "source": "K10",
+      "input_history": "P",
+      "case_number": "N NOMsg",
+      "word": "pauruṣeyam",
+      "interpretation": "Beneficial to a person."
+    },
+    {
+      "id": "BOOK",
+      "source": "K10",
+      "input_history": "PK",
+      "case_number": "M NOMsg",
+      "word": "pauruṣeyaḥ",
+      "interpretation": "Granthas attributed to human production; singular granthaḥ is the illustration."
+    },
+    {
+      "id": "STUDENT",
+      "source": "K11",
+      "input_history": "Y",
+      "case_number": "N NOMsg",
+      "word": "māṇavīnam",
+      "interpretation": "Beneficial to a māṇava."
+    },
+    {
+      "id": "CARAKA",
+      "source": "K11",
+      "input_history": "C",
+      "case_number": "N NOMsg",
+      "word": "cārakīṇam",
+      "interpretation": "Beneficial to a caraka."
+    },
+    {
+      "id": "STUDENT-M",
+      "source": "BV",
+      "input_history": "Y",
+      "case_number": "M NOMsg",
+      "word": "māṇavīnaḥ",
+      "interpretation": "Masculine Bhāṣāvṛtti citation."
+    },
+    {
+      "id": "CARAKA-M",
+      "source": "BV",
+      "input_history": "C",
+      "case_number": "M NOMsg",
+      "word": "cārakīṇaḥ",
+      "interpretation": "Masculine Bhāṣāvṛtti citation."
+    }
+  ],
+  "source_policy_decisions": [
+    {
+      "id": "NOSE",
+      "sources": "K6,NAS",
+      "decision": "Only the targeted benefit use receives nas. PG748’s navel oil is already credited. The city and speech-sound senses are separate controls."
+    },
+    {
+      "id": "LEX",
+      "sources": "K7",
+      "decision": "Vṛṣan and the lexical brāhmaṇa do not substitute for the literal operands. The explanatory dative phrase does not receive an additional suffix by default."
+    },
+    {
+      "id": "FEM",
+      "sources": "K8,PV,BV",
+      "decision": "Female beneficiary and feminine target have different owners. The same word can qualify yūthi or bhūmi without a second spelling."
+    },
+    {
+      "id": "PS-GAP",
+      "sources": "PS,K9,BH,GH",
+      "decision": "The K apparatus cites PS 5.11.8. In the checked recension ātmana enaṃ are separate; a direct positive classical case with an explicit rule attribution is available in Bhāravi 13.69."
+    },
+    {
+      "id": "MESSAGE",
+      "sources": "BV,MA,K9",
+      "decision": "Identify the actual Māgha verse and its passive nominative message. Preserve the distinction from PG739's locative fitness form with vṛddhi."
+    },
+    {
+      "id": "COMPOUND",
+      "sources": "K9,BV",
+      "decision": "Use the supplied compound analysis before affix selection. A lexical bahuc prefix is insufficient to meet the body-as-final-member test."
+    },
+    {
+      "id": "DENTAL",
+      "sources": "K9,RET",
+      "decision": "Separate the n of the outer suffix and the body compound. The explicitly excepted teacher-body form retains dental n."
+    },
+    {
+      "id": "ORDER",
+      "sources": "K10,K11,BV",
+      "decision": "Sarva and puruṣa map by order. Khañ, including ñ-conditioned first grade, has its own address even where kha already exposes īna."
+    }
+  ]
+}

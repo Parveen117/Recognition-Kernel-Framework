@@ -2,6 +2,12 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG749 · Beneficiaries, compound heads and two poetic witnesses for kha
+
+PG749 · [Beneficiaries, compound heads and two poetic witnesses for kha](beneficiaries_grammatical_gender_and_two_poetic_kha_witnesses/README.md). Derives the named benefit cases at 5.1.6–11. Bhāravi and Māgha supply independent cases of kha; the cited Paippalāda edition has a different reading at 5.11.8. 36 new nominal positions and 38 readings. Finite positions and readings both increased by zero. One written morphology construction with 35 interfaces, 14 source observations and 8 source decisions. Census: 52,345 finite positions, 20,423 nominal positions and 23,063 nominal readings.
+
+Parent e26f6e8e7efdfd67103e53f4c62f8a5b1ce9e88d. The containing commit pins this packet. Identify the recension or editorial source behind the PS 5.11.8 citation and further evidence for the source-specific gavādi/apūpādi lists. Next construct 5.1.12–17, distinguishing intended material, sufficient resource and the leather exceptions. The wider S5 and S6 source gaps retain their individual owners. C2–C5 and S1–S7 remain Open. Claude retains execution.
+
 ## PG748 · The wool measure, offering options and the gavādi exceptions
 
 PG748 · [The wool measure, offering options and the gavādi exceptions](blanket_measure_offering_options_and_gavadi_exceptions/README.md). Extends 5.1.1–5 to case readings for default cha, protected and optional yat, the dog-grade accent contrast and the two purchases measured in wool. 22 new nominal positions and 27 readings. Finite positions and readings both increased by zero. One written morphology construction with 26 interfaces, 12 source observations and 9 source decisions. Census: 52,345 finite positions, 20,387 nominal positions and 23,025 nominal readings.
