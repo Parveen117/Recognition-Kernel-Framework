@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG719 · [Species names, the two matsya readings and paripantha](research/panini_grammar/species_taddhitas_matsya_and_paripantha/README.md). The 4.4.35–36 relation keeps semantic membership, named commentary exclusions, inner grade and school-specific suffix paths at their own history addresses. The selected case fibres have 312 positions and 350 readings with typed PG14 specialization.
+
 PG718 · [Gleaners, guardians, grammarians and assembly members](research/panini_grammar/gleaning_guardians_grammarians_and_joining/README.md). The derived 4.4.32–34 and 4.4.43–45 relations retain lexical role, inner sound grade, alternate affix and outer case identity. The typed PG14 proof covers the address-sensitive case fibres and controls. 312 new nominal positions with 350 readings.
 
 PG717 · [Hemacandra’s kīnāśa and two grain-ear roots](research/panini_grammar/haima_kinasa_kanisa_and_possessive_kanisa/README.md). The typed relation distinguishes vowel substitution, kit and the lexical grain-ear body. The same written output retains the four school-specific Yama histories and the distinct grain-ear mechanisms. The typed PG14 proof covers the full set of admitted interfaces. 168 new nominal keys and 175 readings. Wider gates remain Open.

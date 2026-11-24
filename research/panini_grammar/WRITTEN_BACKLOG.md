@@ -1,6 +1,8 @@
-# Written-development backlog at PG718
+# Written-development backlog at PG719
 
-Monty · 2026-11-24 · reviewed current parent a4381a6de87eee71d0e51bdd02ca98b4690f5b7b. Historical closures below retain their exact pins.
+Monty · 2026-11-24 · reviewed current parent d0fcd731d0ae6187fd580470922cc05502b9d213. Historical closures below retain their exact pins.
+
+PG719 · [Species names, the two matsya readings and paripantha](species_taddhitas_matsya_and_paripantha/README.md). The twelve addressed species-name fibres and one waylayer fibre are locally CLOSED. The original Mahābhāṣya control and the separate attested Haima mātsika path are recorded. The exact Haima y-reduction rule, short paripanthika in Nyāsa’s coverage reading, śākalika’s fish context and additional Hema lexical addresses stay Open. 4.4.37–42 and wider C2–C5/S1–S7 retain their own work. Claude retains execution.
 
 PG718 · [Gleaners, guardians, grammarians and assembly members](gleaning_guardians_grammarians_and_joining/README.md). The thirteen named masculine fibres under 4.4.32–34 and 4.4.43–45 are locally CLOSED. The Kāśikā guard and group-member spellings maintain their different roles. Exact wider feminine and accent uses, intra-source spellings, the Vācaspatyam ṭhañ entitlement, and the full Vedic or later usage scope stay Open. The adjacent 4.4.35–42 relations require their own lexical and sound proofs. C2–C5/S1–S7 remain Open overall, with execution assigned to Claude.
 

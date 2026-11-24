@@ -2,6 +2,16 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG719 · Species names, the two matsya readings and paripantha
+
+PG719 · [Species names, the two matsya readings and paripantha](species_taddhitas_matsya_and_paripantha/README.md). Writes the twelve Pāṇinian species designations and the named waylayer family. The original Mahābhāṣya limits the fish synonym to mīna. Pāṇinian mātsyika and Haima mātsika attach to separate affix histories. Census 52,341 finite positions and 10,645 nominal positions with 12,335 nominal readings.
+
+Finite increments 0 positions/0 readings. Nominal increments 312 positions/350 readings. One morphology construction/16 interfaces, one compound plan, one syntax construction/10 readouts and one junction construction/5 readouts. 16 source observations and 11 source-policy decisions. Publication parent d0fcd731d0ae6187fd580470922cc05502b9d213. The containing commit pins the documents and evidence.
+
+PG521–719 cumulative: 522 finite positions/1,440 net finite readings, 4,867 nominal positions/5,592 readings, 293 morphology constructions/3,022 interfaces, 132 compound constructions/602 plans, 30 accent constructions/118 records, 154 semantics constructions/459 records, 141 syntax constructions/498 records, 198 source-policy decisions after PG555−1 and 544 observations. Twenty-four junction constructions/74 readouts since PG680 and 20 nonfinite constructions/26 paths since PG700. Four provenance corrections and one proof addendum. PG335 and PG357–363 CLOSED results are preserved.
+
+The twelve addressed species-name fibres and one waylayer fibre are locally CLOSED. The original Mahābhāṣya control and the separate attested Haima mātsika path are recorded. The exact Haima y-reduction rule, short paripanthika in Nyāsa’s coverage reading, śākalika’s fish context and additional Hema lexical addresses stay Open. 4.4.37–42 and wider C2–C5/S1–S7 retain their own work. Claude retains execution.
+
 ## PG718 · Gleaners, guardians, grammarians and assembly members
 
 PG718 · [Gleaners, guardians, grammarians and assembly members](gleaning_guardians_grammarians_and_joining/README.md). Derives the selected 4.4.32–34 and 4.4.43–45 masculine fibres. Protecting and joining can give the same spelling under different roles. The default, override and optional soldier suffixes keep their distinct markers. Census 52,341 finite positions and 10,333 nominal positions with 11,985 nominal readings.
