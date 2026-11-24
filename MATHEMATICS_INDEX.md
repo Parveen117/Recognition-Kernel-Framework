@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG767 · [Vati in comparisons, and the Vedic words for high and low places](research/panini_grammar/vati_comparison_actions_and_vedic_high_and_low_places/README.md). PG14 separates invariant comparison readouts and the seven inflected Vedic positions.
+
 PG766 · [Ritual purpose, the ascetic’s staff, and two senses of ākālika](research/panini_grammar/ritual_purpose_staff_and_duration_of_study_interruption/README.md). PG14 histories retain each goal, ritual role, explicit or deleted affix and pair of temporal endpoints.
 
 PG765 · [Means, capability, and the time that has come for an offering](research/panini_grammar/means_capability_and_time_arrived_for_an_offering/README.md). PG14 histories retain affix pairing, semantic case, time condition, grammatical grade and commentary attribution.

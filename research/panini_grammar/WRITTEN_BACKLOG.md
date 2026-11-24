@@ -1,6 +1,8 @@
-# Written-development backlog at PG766
+# Written-development backlog at PG767
 
-Monty · 2026-11-25 · reviewed parent 00edbd94430c600ae11f7b5aa4e7febe8c300636. Historical closures below retain their exact pins.
+Monty · 2026-11-25 · reviewed parent c792a706df538102a9ff6b922f34b5c1b8ab70fd. Historical closures below retain their exact pins.
+
+PG767 · [Vati in comparisons, and the Vedic words for high and low places](vati_comparison_actions_and_vedic_high_and_low_places/README.md). The additional historical derivations of the individual Vedic preverb nouns and their full accented paradigms remain Open beyond these texts. Record the attested 5.1.61 group-of-seven accent, retaining the PG755 accusative owner, then extend the abstract-noun constructions from 5.1.119. C2–C5 and S1–S7 remain Open.
 
 PG766 · [Ritual purpose, the ascetic’s staff, and two senses of ākālika](ritual_purpose_staff_and_duration_of_study_interruption/README.md). The ordinary utthāpana spelling is independently witnessed. The origin of the frozen witness’s extra t remains Open. The exact genders of the elliptical ritual expressions need overt agreement to disambiguate. Continue the different bases and cases of vati at 5.1.115–118. C2–C5 and S1–S7 remain Open.
 

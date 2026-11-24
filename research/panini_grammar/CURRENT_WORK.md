@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG766
+# Pāṇini grammar · current written coverage at PG767
+
+PG767 · [Vati in comparisons, and the Vedic words for high and low places](vati_comparison_actions_and_vedic_high_and_low_places/README.md). Builds the vati comparisons and the case-bearing Vedic preverb nouns, with separately attested object, subject and locative plural profiles. Census: 52,345 finite positions, 20,886 nominal positions and 23,602 nominal readings.
 
 PG766 · [Ritual purpose, the ascetic’s staff, and two senses of ākālika](ritual_purpose_staff_and_duration_of_study_interruption/README.md). Constructs 5.1.109–114 and distinguishes staff from bearer, rite from food, and instantaneous lightning from the next-day endpoint of an interruption of study. Census: 52,345 finite positions, 20,879 nominal positions and 23,595 nominal readings.
 

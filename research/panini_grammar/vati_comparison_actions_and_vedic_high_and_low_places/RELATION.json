@@ -1,0 +1,195 @@
+{
+  "stage": "PG767",
+  "morphology_interfaces": [
+    {
+      "id": "ACT",
+      "base": "conduct of a named comparand",
+      "guard": "instrumental-supported action match",
+      "affix": "vati",
+      "result": "invariant comparator"
+    },
+    {
+      "id": "SUBJ",
+      "base": "vipra",
+      "guard": "comparand is actor of study",
+      "affix": "vati",
+      "result": "vipravat"
+    },
+    {
+      "id": "OBJ",
+      "base": "mitra",
+      "guard": "comparand is object of treatment",
+      "affix": "vati",
+      "result": "mitravat"
+    },
+    {
+      "id": "EARLIER",
+      "base": "pūrva",
+      "guard": "earlier rule supplies the assignment action",
+      "affix": "vati",
+      "result": "pūrvavat"
+    },
+    {
+      "id": "LOCUS",
+      "base": "guru",
+      "guard": "teacher is locus of the conduct",
+      "affix": "vati",
+      "result": "guruvat"
+    },
+    {
+      "id": "PLACE",
+      "base": "Mathurā or Pāṭaliputra",
+      "guard": "locative place in iva relation",
+      "affix": "vati",
+      "result": "mathurāvat or pāṭaliputravat"
+    },
+    {
+      "id": "OWNER",
+      "base": "possessor of compared cows or teeth",
+      "guard": "genitive owner in iva relation",
+      "affix": "vati",
+      "result": "devadattavat, yajñadattavat or brāhmaṇavat"
+    },
+    {
+      "id": "WORTH",
+      "base": "king, Brahmin, seer, Kṣatriya or muni",
+      "guard": "worth imposed with accusative support",
+      "affix": "vati",
+      "result": "unchanging worthiness word"
+    },
+    {
+      "id": "UOBJ",
+      "base": "ud",
+      "guard": "Vedic rising with bearer; object of movement",
+      "affix": "vati plus plural case",
+      "result": "udvataḥ"
+    },
+    {
+      "id": "NOBJ",
+      "base": "ni",
+      "guard": "Vedic descending with bearer; object of movement",
+      "affix": "vati plus plural case",
+      "result": "nivataḥ"
+    },
+    {
+      "id": "ULOC",
+      "base": "ud",
+      "guard": "landform, upper site with grass",
+      "affix": "vati plus locative plural",
+      "result": "udvatsu"
+    },
+    {
+      "id": "NLOC",
+      "base": "ni",
+      "guard": "landform, lower site with water",
+      "affix": "vati plus locative plural",
+      "result": "nivatsu"
+    },
+    {
+      "id": "PRIVER",
+      "base": "pra",
+      "guard": "slope of the river's course, river as subject",
+      "affix": "vati plus nominative plural",
+      "result": "pravataḥ"
+    },
+    {
+      "id": "NRIVER",
+      "base": "ni",
+      "guard": "low river course, river as subject",
+      "affix": "vati plus nominative plural",
+      "result": "nivataḥ"
+    },
+    {
+      "id": "URIVER",
+      "base": "ud",
+      "guard": "high river course, river as subject",
+      "affix": "vati plus nominative plural",
+      "result": "udvataḥ"
+    }
+  ],
+  "nominal_positions": [
+    {
+      "id": "UDOBJ",
+      "source": "R10",
+      "input_history": "UOBJ",
+      "case_number": "ACCpl",
+      "word": "udvataḥ",
+      "interpretation": "Tall growths in 10.142; high regions in 3.2. A masculine adjective in Sāyaṇa's supplied-object paraphrases; the written suffix alone leaves gender underdetermined."
+    },
+    {
+      "id": "NIOBJ",
+      "source": "R10",
+      "input_history": "NOBJ",
+      "case_number": "ACCpl",
+      "word": "nivataḥ",
+      "interpretation": "Low growths or regions in the two Agni verses."
+    },
+    {
+      "id": "UDLOC",
+      "source": "R1",
+      "input_history": "ULOC",
+      "case_number": "F LOCpl",
+      "word": "udvatsu",
+      "interpretation": "Elevated ground on which grass is made to grow."
+    },
+    {
+      "id": "NILOC",
+      "source": "R1",
+      "input_history": "NLOC",
+      "case_number": "F LOCpl",
+      "word": "nivatsu",
+      "interpretation": "Low places where water is provided."
+    },
+    {
+      "id": "PRAR",
+      "source": "R7",
+      "input_history": "PRIVER",
+      "case_number": "F NOMpl",
+      "word": "pravataḥ",
+      "interpretation": "Rivers flowing on sloping ground in Sāyaṇa's construction."
+    },
+    {
+      "id": "NIR",
+      "source": "R7",
+      "input_history": "NRIVER",
+      "case_number": "F NOMpl",
+      "word": "nivataḥ",
+      "interpretation": "Rivers going through low ground."
+    },
+    {
+      "id": "UDR",
+      "source": "R7",
+      "input_history": "URIVER",
+      "case_number": "F NOMpl",
+      "word": "udvataḥ",
+      "interpretation": "Rivers going through high ground."
+    }
+  ],
+  "source_policy_decisions": [
+    {
+      "id": "ACTIVITY",
+      "sources": "K115,BV,MAG",
+      "decision": "Record the underlying participant and action, including a previously derived thief term. Keep the invariant comparison apart from the inflected inner nominal."
+    },
+    {
+      "id": "SANPOL",
+      "sources": "BV,SAN",
+      "decision": "The comparison in pūrvavat preserves the cause and origin of the assignment. It supplies no independent rival early-A decisions for the pre-existing perfects."
+    },
+    {
+      "id": "POLY",
+      "sources": "K115,K116,K117,BV",
+      "decision": "Keep identical comparators separate by instrumental, locative, genitive and accusative support. Exclude 115 on mere colour or build."
+    },
+    {
+      "id": "CASES",
+      "sources": "K118,R10,R3,R7",
+      "decision": "Plural -ataḥ admits two distinct case assignments here. Read the Agni objects and the river subjects with their respective syntax. Do not infer genitive singular from the bare ending."
+    },
+    {
+      "id": "SITE",
+      "sources": "R1,R1L,K118",
+      "decision": "Preserve the directly read plural locatives and rule citation apart from the indeclinable comparisons. The alternate sūtra-header numbering on the digital page does not move the project's canonical key."
+    }
+  ]
+}

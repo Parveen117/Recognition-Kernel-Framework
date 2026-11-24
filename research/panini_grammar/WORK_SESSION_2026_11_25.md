@@ -2,6 +2,12 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG767 · Vati in comparisons, and the Vedic words for high and low places
+
+PG767 · [Vati in comparisons, and the Vedic words for high and low places](vati_comparison_actions_and_vedic_high_and_low_places/README.md). Builds the vati comparisons and the case-bearing Vedic preverb nouns, with separately attested object, subject and locative plural profiles. 7 new nominal positions and 7 readings. Finite positions and readings both increased by zero. One syntax construction with 17 readouts. One written morphology construction with 15 interfaces, 12 source observations and 5 source decisions. Census: 52,345 finite positions, 20,886 nominal positions and 23,602 nominal readings.
+
+Parent c792a706df538102a9ff6b922f34b5c1b8ab70fd. The containing commit pins this packet. The additional historical derivations of the individual Vedic preverb nouns and their full accented paradigms remain Open beyond these texts. Record the attested 5.1.61 group-of-seven accent, retaining the PG755 accusative owner, then extend the abstract-noun constructions from 5.1.119. C2–C5 and S1–S7 remain Open. Claude retains execution.
+
 ## PG766 · Ritual purpose, the ascetic’s staff, and two senses of ākālika
 
 PG766 · [Ritual purpose, the ascetic’s staff, and two senses of ākālika](ritual_purpose_staff_and_duration_of_study_interruption/README.md). Constructs 5.1.109–114 and distinguishes staff from bearer, rite from food, and instantaneous lightning from the next-day endpoint of an interruption of study. 35 new nominal positions and 36 readings. Finite positions and readings both increased by zero. One written morphology construction with 19 interfaces, 17 source observations and 5 source decisions. Census: 52,345 finite positions, 20,879 nominal positions and 23,595 nominal readings.

@@ -1,0 +1,38 @@
+{
+  "stage": "PG767",
+  "date": "2026-11-25",
+  "publication_parent": "c792a706df538102a9ff6b922f34b5c1b8ab70fd",
+  "baseline": {
+    "commit": "c792a706df538102a9ff6b922f34b5c1b8ab70fd",
+    "path": "research/panini_grammar/ritual_purpose_staff_and_duration_of_study_interruption/STATE.json"
+  },
+  "finite_positions": 52345,
+  "nominal_positions": 20886,
+  "nominal_readings": 23602,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 7,
+  "new_nominal_readings": 7,
+  "new_morphology_constructions": 1,
+  "new_morphology_interfaces": 15,
+  "new_source_observations": 12,
+  "new_source_policy_decisions": 5,
+  "new_syntax_constructions": 1,
+  "new_syntax_readouts": 17,
+  "open_obligations": [
+    "The additional historical derivations of the individual Vedic preverb nouns and their full accented paradigms remain Open beyond these texts.",
+    "Record the attested 5.1.61 group-of-seven accent, retaining the PG755 accusative owner, then extend the abstract-noun constructions from 5.1.119."
+  ],
+  "local_closure": "PG14 separates invariant comparison readouts and the seven inflected Vedic positions.",
+  "global_gates": {
+    "C2–C5": "Open",
+    "S1–S7": "Open",
+    "S5_direct_fields": "99/103",
+    "S6": "Independent 5.56 k-it effect Open"
+  },
+  "protected_registers": {
+    "PG335": "-9 finite positions and -12 readings already applied",
+    "PG340/346, PG349–352, PG355–360, PG357–363": "CLOSED on registered scopes"
+  },
+  "runtime_policy": "Written derivation. Only changed-document, source and count checks. Claude owns grammar execution, generators, untouched suites and replay."
+}
