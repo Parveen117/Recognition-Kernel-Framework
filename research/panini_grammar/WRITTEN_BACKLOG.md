@@ -1,6 +1,8 @@
-# Written-development backlog at PG743
+# Written-development backlog at PG744
 
-Monty · 2026-11-24 · reviewed current parent 8e06d6ae53eb53e1dd5203cdcc6d722f9a90030c. Historical closures below retain their exact pins.
+Monty · 2026-11-24 · reviewed current parent 7af9cce02c33b2dd799144510a31e9c76c19272f. Historical closures below retain their exact pins.
+
+PG744 · [Vedic gifts, messenger duties, ritual bodies, praise and possession](vedic_gift_messenger_praise_and_owned_maya/README.md). The selected gift, messenger, ritual-body, praise and property paths are addressed through 4.4.124. Open evidence includes exact dūta share, duty pitch, the TS short-a history, praise pitch and the distinct RV lordship history. Brick placement with inner matup deletion in 4.4.125–126 is the next unconstructed domain. C2–C5 and S1–S7 remain Open. Claude retains execution.
 
 PG743 · [Shared origin, the four agra paths and Vedic sea and cloud cases](vedic_shared_origin_front_position_and_sea_cloud_cases/README.md). The selected 4.4.114–118 cases, four agra marker paths and the new Taittirīya srotasya case are locally CLOSED. The direct long tugriya locus, the sanutya pause-text issue and the 10.68.12 accent operation stay Open. The construction reserve moves to 4.4.119’s gift and subsequent new Vedic relations. C2–C5/S1–S7 remain Open. Implementation and execution remain Claude-deferred.
 

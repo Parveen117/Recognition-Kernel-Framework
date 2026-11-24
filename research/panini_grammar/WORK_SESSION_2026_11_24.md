@@ -2,6 +2,16 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG744 · Vedic gifts, messenger duties, ritual bodies, praise and possession
+
+PG744 · [Vedic gifts, messenger duties, ritual bodies, praise and possession](vedic_gift_messenger_praise_and_owned_maya/README.md). Writes 31 source-qualified Vedic nominal positions and readings through 4.4.124. Preserves short Taittirīya yatavyā and the longer Maitrāyaṇī and Kāṭhaka bodies. Two nested suffixes distinguish the outer praise noun from the inner offering adjective. Census 52,345 finite positions and 20,267 nominal positions with 22,900 nominal readings.
+
+Zero new finite positions or readings. Thirty-one new nominal positions and readings, all Vedic. One morphology construction with eleven interfaces, one compound construction with one plan, one accent construction with eight readouts, one semantic construction with ten readouts, one syntax construction with ten readouts, one junction construction with ten readouts and one nonfinite construction with two readouts. Seventeen source observations and twelve source decisions. Publication parent 7af9cce02c33b2dd799144510a31e9c76c19272f. The containing commit pins the documents and evidence.
+
+PG521–744 cumulative adds 526 finite positions and 1,444 net finite readings, and 14,489 nominal positions with 16,157 readings. 318 morphology constructions with 3,621 interfaces, 150 compound constructions with 684 plans, 50 accent constructions with 217 records, 176 semantic constructions with 637 readouts, 165 syntax constructions with 734 readouts, and 516 source-policy decisions after PG555−1 with 976 observations.
+
+The selected gift, messenger, ritual-body, praise and property paths are addressed through 4.4.124. Open evidence includes exact dūta share, duty pitch, the TS short-a history, praise pitch and the distinct RV lordship history. Brick placement with inner matup deletion in 4.4.125–126 is the next unconstructed domain. C2–C5 and S1–S7 remain Open. Claude retains execution.
+
 ## PG743 · Shared origin, the four agra paths and Vedic sea and cloud cases
 
 PG743 · [Shared origin, the four agra paths and Vedic sea and cloud cases](vedic_shared_origin_front_position_and_sea_cloud_cases/README.md). Writes 21 source-qualified Vedic nominal positions through 4.4.118. Primary witnesses distinguish all four agra branches. Nyāsa supplies the Vedic neuter -ā derivation and the Padapāṭha distinguishes it from surface feminine samudriyā. Census 52,345 finite positions and 20,236 nominal positions with 22,869 nominal readings.

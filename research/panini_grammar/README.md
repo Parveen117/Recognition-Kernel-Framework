@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG744 · [Vedic gifts, messenger duties, ritual bodies, praise and possession](vedic_gift_messenger_praise_and_owned_maya/README.md). Writes 31 source-qualified Vedic nominal positions and readings through 4.4.124. Preserves short Taittirīya yatavyā and the longer Maitrāyaṇī and Kāṭhaka bodies. Two nested suffixes distinguish the outer praise noun from the inner offering adjective. Census 52,345 finite positions and 20,267 nominal positions with 22,900 nominal readings.
+
 PG743 · [Shared origin, the four agra paths and Vedic sea and cloud cases](vedic_shared_origin_front_position_and_sea_cloud_cases/README.md). Writes 21 source-qualified Vedic nominal positions through 4.4.118. Primary witnesses distinguish all four agra branches. Nyāsa supplies the Vedic neuter -ā derivation and the Padapāṭha distinguishes it from surface feminine samudriyā. Census 52,345 finite positions and 20,236 nominal positions with 22,869 nominal readings.
 
 PG742 · [Vedic locative existence, water cases and the three srotas choices](vedic_locative_cloud_water_and_stream_affixes/README.md). Constructs 30 attested Vedic nominal positions. Distinguishes ḍyaṇ from ḍhak river forms, quotes the actually attested forms of the Himavat and stream labels, and preserves three srotas histories. Census 52,345 finite positions and 20,215 nominal positions with 22,848 nominal readings.

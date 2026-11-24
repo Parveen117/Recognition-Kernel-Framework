@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG744 · [Vedic gifts, messenger duties, ritual bodies, praise and possession](research/panini_grammar/vedic_gift_messenger_praise_and_owned_maya/README.md). The PG14 history lift retains the six support domains, inner and outer suffix owners, and source-qualified realization. Typed zero specialization commutes with their ordered composition and case readouts.
+
 PG743 · [Shared origin, the four agra paths and Vedic sea and cloud cases](research/panini_grammar/vedic_shared_origin_front_position_and_sea_cloud_cases/README.md). Different source roles, recensional accent policies and lopa traces stay typed through the PG14 history lift. Augmentation preserves the selection graph and commutes with the case and accent maps.
 
 PG742 · [Vedic locative existence, water cases and the three srotas choices](research/panini_grammar/vedic_locative_cloud_water_and_stream_affixes/README.md). The PG14 history lift retains ṭi ownership, affix accent priority and the source-qualified case readouts. Its augmentation commutes with eligibility, source conditioning and case realization.
