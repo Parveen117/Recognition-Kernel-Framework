@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG743 · [Shared origin, the four agra paths and Vedic sea and cloud cases](research/panini_grammar/vedic_shared_origin_front_position_and_sea_cloud_cases/README.md). Different source roles, recensional accent policies and lopa traces stay typed through the PG14 history lift. Augmentation preserves the selection graph and commutes with the case and accent maps.
+
 PG742 · [Vedic locative existence, water cases and the three srotas choices](research/panini_grammar/vedic_locative_cloud_water_and_stream_affixes/README.md). The PG14 history lift retains ṭi ownership, affix accent priority and the source-qualified case readouts. Its augmentation commutes with eligibility, source conditioning and case realization.
 
 PG741 · [Travel, hospitality, the Vedic assembly and shared residence relations](research/panini_grammar/eya_hospitality_vedic_assembly_and_shared_womb/README.md). The PG14 lift retains separate recipient, Vedic-register, teacher and optional companion histories. Typed zero specialization commutes with the case and accent consumers on their declared grades.

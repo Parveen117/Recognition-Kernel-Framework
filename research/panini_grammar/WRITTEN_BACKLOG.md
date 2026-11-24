@@ -1,6 +1,8 @@
-# Written-development backlog at PG742
+# Written-development backlog at PG743
 
-Monty · 2026-11-24 · reviewed current parent 2ac51bf2a2ea1a181bda95178f6cd9768ff3d2bd. Historical closures below retain their exact pins.
+Monty · 2026-11-24 · reviewed current parent 8e06d6ae53eb53e1dd5203cdcc6d722f9a90030c. Historical closures below retain their exact pins.
+
+PG743 · [Shared origin, the four agra paths and Vedic sea and cloud cases](vedic_shared_origin_front_position_and_sea_cloud_cases/README.md). The selected 4.4.114–118 cases, four agra marker paths and the new Taittirīya srotasya case are locally CLOSED. The direct long tugriya locus, the sanutya pause-text issue and the 10.68.12 accent operation stay Open. The construction reserve moves to 4.4.119’s gift and subsequent new Vedic relations. C2–C5/S1–S7 remain Open. Implementation and execution remain Claude-deferred.
 
 PG742 · [Vedic locative existence, water cases and the three srotas choices](vedic_locative_cloud_water_and_stream_affixes/README.md). 4.4.110–113’s thirty exact Vedic addresses and the named marker/readout relations are locally CLOSED. The short ḍyat primary context, independent haimavatī DATpl witness, nasal mauñjavata and wider accent/text scope stay Open. PG737 pathya and PG741 pātheya retain their own credits. 4.4.114–118 and the subsequent Vedic relation register remain constructible. C2–C5/S1–S7 remain Open and Claude owns deferred execution.
 

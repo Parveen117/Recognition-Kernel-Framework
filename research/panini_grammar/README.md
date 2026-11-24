@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG743 · [Shared origin, the four agra paths and Vedic sea and cloud cases](vedic_shared_origin_front_position_and_sea_cloud_cases/README.md). Writes 21 source-qualified Vedic nominal positions through 4.4.118. Primary witnesses distinguish all four agra branches. Nyāsa supplies the Vedic neuter -ā derivation and the Padapāṭha distinguishes it from surface feminine samudriyā. Census 52,345 finite positions and 20,236 nominal positions with 22,869 nominal readings.
+
 PG742 · [Vedic locative existence, water cases and the three srotas choices](vedic_locative_cloud_water_and_stream_affixes/README.md). Constructs 30 attested Vedic nominal positions. Distinguishes ḍyaṇ from ḍhak river forms, quotes the actually attested forms of the Himavat and stream labels, and preserves three srotas histories. Census 52,345 finite positions and 20,215 nominal positions with 22,848 nominal readings.
 
 PG741 · [Travel, hospitality, the Vedic assembly and shared residence relations](eya_hospitality_vedic_assembly_and_shared_womb/README.md). Writes the named ḍhañ words and the contrasting guest-purpose ātithya. The Vedic verses and Brāhmaṇa explanations verify four source-qualified sabheya positions. Same teacher and same womb have separate rules, including the two precise sibling accent locations. Census 52,345 finite positions and 20,185 nominal positions with 22,818 nominal readings.

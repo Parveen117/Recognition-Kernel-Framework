@@ -2,6 +2,16 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG743 · Shared origin, the four agra paths and Vedic sea and cloud cases
+
+PG743 · [Shared origin, the four agra paths and Vedic sea and cloud cases](vedic_shared_origin_front_position_and_sea_cloud_cases/README.md). Writes 21 source-qualified Vedic nominal positions through 4.4.118. Primary witnesses distinguish all four agra branches. Nyāsa supplies the Vedic neuter -ā derivation and the Padapāṭha distinguishes it from surface feminine samudriyā. Census 52,345 finite positions and 20,236 nominal positions with 22,869 nominal readings.
+
+Zero new finite positions or readings. Twenty-one new Vedic nominal positions and readings. One morphology construction with 11 new interfaces and one inherited path, one compound construction with four plans, one accent construction with 11 records, one semantic construction with nine readouts, one syntax construction with ten readouts, one junction construction with nine readouts and one nonfinite construction with one path. Seventeen source observations and twelve source-policy decisions. Publication parent 8e06d6ae53eb53e1dd5203cdcc6d722f9a90030c. The containing commit pins the documents and evidence.
+
+PG521–743 cumulative adds 526 finite positions and 1,444 net finite readings, and 14,458 nominal positions with 16,126 readings. 317 morphology constructions with 3,610 interfaces, 149 compound constructions with 683 plans, 49 accent constructions with 209 records, 175 semantic constructions with 627 readouts, 164 syntax constructions with 724 readouts, and 504 source-policy decisions after PG555−1 with 959 observations. The PG680 onward junction total is 47 constructions with 245 readouts. PG700 onward nonfinite is 23 constructions with 29 paths. PG335 and PG357–363 CLOSED results retain their exact histories.
+
+The selected 4.4.114–118 cases, four agra marker paths and the new Taittirīya srotasya case are locally CLOSED. The direct long tugriya locus, the sanutya pause-text issue and the 10.68.12 accent operation stay Open. The construction reserve moves to 4.4.119’s gift and subsequent new Vedic relations. C2–C5/S1–S7 remain Open. Implementation and execution remain Claude-deferred.
+
 ## PG742 · Vedic locative existence, water cases and the three srotas choices
 
 PG742 · [Vedic locative existence, water cases and the three srotas choices](vedic_locative_cloud_water_and_stream_affixes/README.md). Constructs 30 attested Vedic nominal positions. Distinguishes ḍyaṇ from ḍhak river forms, quotes the actually attested forms of the Himavat and stream labels, and preserves three srotas histories. Census 52,345 finite positions and 20,215 nominal positions with 22,848 nominal readings.
