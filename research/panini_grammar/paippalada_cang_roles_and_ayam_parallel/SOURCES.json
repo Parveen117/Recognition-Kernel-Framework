@@ -1,0 +1,122 @@
+{
+  "publication_parent": "832e9e2a282907fb4fb9d44727ffe512168c1dbc",
+  "date": "2026-11-24",
+  "web_evidence": [
+    {
+      "id": "PS_GRETIL",
+      "title": "GRETIL Paippalāda-Saṃhitā, version 2020-02-10",
+      "url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/html/sa_paippalAdasaMhitA.htm",
+      "edition_bases": [
+        {
+          "book": 2,
+          "edition": "Dīpak Bhattacharya, Paippalāda-Saṁhitā vol. 1, Calcutta 1997",
+          "address": "2.27.5"
+        },
+        {
+          "book": 16,
+          "edition": "Bhattacharya vol. 2, Calcutta 2008",
+          "addresses": [
+            "16.56.17–18",
+            "16.57.1 and .17–20",
+            "16.58.1"
+          ]
+        },
+        {
+          "book": 19,
+          "edition": "Bhattacharya vol. 4, Calcutta 2016",
+          "addresses": [
+            "19.11.7",
+            "19.15.7–9"
+          ]
+        }
+      ],
+      "use": "The displayed recension, date, exact addresses, and marked emendation are pinned. The electronic witness's preface distinguishes transcription, corrections and edition bases."
+    },
+    {
+      "id": "WHITNEY_XI3",
+      "title": "Whitney and Lanman, Atharva-Veda Saṃhitā, HOS 8 (1905)",
+      "url": "https://en.wikisource.org/wiki/Atharva-Veda_Samhita/Book_XI/Hymn_3",
+      "locus": "opening note and vv. 32–49",
+      "use": "Earlier XVI concordance signal with substantial differences. PG684 supplies the exact direct Paippalāda address."
+    },
+    {
+      "id": "WHITNEY_VI32",
+      "title": "Whitney and Lanman, Atharva-Veda Saṃhitā, HOS 7 (1905)",
+      "url": "https://en.wikisource.org/w/index.php?title=Atharva-Veda_Samhita/Book_VI/Hymn_32&oldid=4610007",
+      "locus": "vv. 1–2 and v. 2 note",
+      "use": "Explicit Paippalāda nineteenth-book comparison and mṛtyunā."
+    },
+    {
+      "id": "BARRET_XIX",
+      "title": "Leroy Carr Barret, The Kashmirian Atharva Veda, Books Nineteen and Twenty, American Oriental Series 18",
+      "url": "https://ocrdigitalfile.nvli.in/cslrepository/3827/RB528-ocr.pdf",
+      "locus": "Book 19 hymn 11 v. 7, printed pp. 17–18; manuscript transcription f245a5–7",
+      "use": "OCR-only corroboration for the last clause. No visual transcription or second recitation claim. The OCR's printed Śaunaka cross-reference is not used as the alignment authority."
+    }
+  ],
+  "project_dependencies": [
+    {
+      "commit": "832e9e2a282907fb4fb9d44727ffe512168c1dbc",
+      "path": "research/panini_grammar/sam_gam_san_companion_and_destination_panels/STATE.json",
+      "git_blob_sha": "48be7abca73d75f5af3d345c0492c34b64249aab",
+      "bytes": 2043,
+      "sha256": "afe8616c99944d4d814d7bc3c8896fc1400cf83cf6800591cf045253ce1c2f3f",
+      "use": "PG683 census, separate san extension"
+    },
+    {
+      "commit": "15cb29e293b30a52a153751e91f571a42893b9f5",
+      "path": "research/panini_grammar/shaunaka_odana_bare_gam_and_instrument_roles/DERIVATION_AND_NATIVE_RECOVERY.md",
+      "git_blob_sha": "227e2d1589861f57ba1ffbd8bfe660474ad34d47",
+      "bytes": 6104,
+      "sha256": "b3bcc1dc8b4dc032cc9d63bf4ba9a33f76f950ccd8e1d8df2638979597287cb2",
+      "use": "PG682 Śaunaka P1sg comparison and source scope"
+    },
+    {
+      "commit": "b8e504f4d8e117c40f04e7b5dff23d2f800aae2e",
+      "path": "research/panini_grammar/shaunaka_sam_gam_attestation_and_owned_accent/DERIVATION_AND_NATIVE_RECOVERY.md",
+      "git_blob_sha": "62fd785f0ceead70dab1bc498d788e111cfe069a",
+      "bytes": 7771,
+      "sha256": "95f1b763b348912ea137d6179c820657506d2b29ea85272e0b26fb008a7d8f64",
+      "use": "PG680 6.32.2 adjacency, 6.74.1 tmesis and separate Śaunaka accent"
+    },
+    {
+      "commit": "57704337000847ac8bce71a3ce4309be9f594268",
+      "path": "research/panini_grammar/shaunaka_o_a_absorption_and_ayam_scope/READOUTS.tsv",
+      "git_blob_sha": "7f43a36b56094e5c187b8f6ae0aaeeab8a39b9e2",
+      "bytes": 580,
+      "sha256": "2efe759a2a0a1d7c7242fd1b7b8e127c5e1973a2e926f731f6a639c276094342",
+      "use": "PG681 retained and absorbed source controls"
+    },
+    {
+      "commit": "8d7cc15835df9daa99f27430a2511d41d2d6ae7e",
+      "path": "research/panini_grammar/nested_gam_active_cang_aorist_completion/READOUTS.tsv",
+      "git_blob_sha": "8d3f1a125acc5375c7e3e36f423d49421a4fc7f0",
+      "bytes": 1206,
+      "sha256": "0b7174c00b2a184b50304c100f9ca96dd8aced4a3e692e8696dd5c61b35c9b85",
+      "use": "PG672 pre-existing P3pl and P3sg composed word shapes"
+    },
+    {
+      "commit": "e8530fdd1c786ed5ebe5e1348ac6f7e336a5ab90",
+      "path": "research/panini_grammar/karman_and_agent_relation/README.md",
+      "git_blob_sha": "ee71a948ea36f9a6982ff409ff18e8801bc20ca9",
+      "bytes": 2299,
+      "sha256": "0b897b165997fb1a513256e5077ae6438353fb478438e874cdbcedf7dda43979",
+      "use": "Role assignment baseline 1.4.52"
+    },
+    {
+      "commit": "b05e46bf78f165e17c4766d6d1179a1699a72fcf",
+      "path": "research/panini_grammar/grammar_construction/NATIVE_OPERATOR_LIFT.md",
+      "git_blob_sha": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+      "bytes": 11855,
+      "sha256": "f52e7f5cf539ef56859b890669ef738848491e4005e73be75baa49c899b5dafd",
+      "use": "Full PG14 carrier"
+    }
+  ],
+  "observation_units": [
+    "PS16.57.18–19 with 16.58.1, exact odana recensional block.",
+    "PS19.11.7, herb and death-instrumental parallel.",
+    "PS19.15.9, bare gam with accusative causee and destination.",
+    "PS2.27.5, retained ayam in the same jewel-verse contact."
+  ],
+  "decision": "Use the Paippalāda reading at each addressed locus. Preserve a distinct plural-preverb-free food clause, an adjacent sam clause with a different instrumental, a bare two-accusative clause, and the corroborating retention contact. No Śaunaka accent or textual possibility is transferred by recension alignment."
+}

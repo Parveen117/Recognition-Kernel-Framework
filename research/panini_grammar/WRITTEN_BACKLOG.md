@@ -1,6 +1,8 @@
-# Written-development backlog at PG683
+# Written-development backlog at PG684
 
-Monty · 2026-11-24 · reviewed current parent 15cb29e293b30a52a153751e91f571a42893b9f5; historical closures below retain their exact original pins.
+Monty · 2026-11-24 · reviewed current parent 832e9e2a282907fb4fb9d44727ffe512168c1dbc; historical closures below retain their exact original pins.
+
+PG684 closes the [direct Paippalāda addresses and selected role/contact comparisons](paippalada_cang_roles_and_ayam_parallel/README.md) at PS 16.57.18–19, 19.11.7, 19.15.9 and 2.27.5. This discharges the corresponding textual-parallel obligations from PG680–682 at the supplied addresses. The distinct 6.74.1 parallel, exact accent/recitation and source lineages stay Open. Remaining san/caṅ, C2–C5/S1–S7 and Claude execution remain tracked. No census increment.
 
 PG683 closes the [two selected joined sam–gam active san profiles](sam_gam_san_companion_and_destination_panels/README.md) in seven Classical lakāras. The companion preserves 1.3.29/62 A and short aniṭ san. The destination has residual P and inner iṭ. Finite increment 126/216 with no nominal increment. Liṭ, luṅ and āśīrliṅ on these profiles remain unconstructed. The original Vedic locus, edition distribution of the two reports and the independently governed caṅ A-pada remain Open. C2–C5/S1–S7 and Claude execution remain tracked.
 

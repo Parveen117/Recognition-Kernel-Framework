@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG684: [Direct Paippalāda gam clauses and retained ayam](research/panini_grammar/paippalada_cang_roles_and_ayam_parallel/README.md). Clause operators retain recension, address, role/case, grammatical person and vowel ownership through typed zero specialization. The Paippalāda text has separate accent obligations.
+
 PG683: [Sam–gam san companion and destination panels](research/panini_grammar/sam_gam_san_companion_and_destination_panels/README.md). Typed zero specialization carries the role guard into the san-iṭ query and keeps the prefix and root nasals and two iṭ sites separate.
 
 PG682: [Bare gam in the Śaunaka rice-dish hymn](research/panini_grammar/shaunaka_odana_bare_gam_and_instrument_roles/README.md). PG14 zero recovery keeps role, instrument number and source policy through the caṅ readout. The causal-motion and attainment histories share a spelling and retain distinct semantics.

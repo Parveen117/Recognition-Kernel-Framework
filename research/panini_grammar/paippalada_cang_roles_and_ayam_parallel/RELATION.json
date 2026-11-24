@@ -1,0 +1,97 @@
+{
+  "schema": "rkf.panini.pg684.relation.v1",
+  "recension": "Paippalāda",
+  "word_profile": {
+    "root_id": 1011137,
+    "root": "gam",
+    "sense": "caused motion in selected supplied construals",
+    "voice": "kartari",
+    "pada": "P",
+    "lakara": "luṅ",
+    "owners": [
+      "one ṇic with preserved deletion history",
+      "caṅ",
+      "aṭ",
+      "jī copy",
+      "retained gam",
+      "separate secondary tiṅ"
+    ],
+    "accent": "Open for selected Paippalāda text without accent signs"
+  },
+  "readouts": "READOUTS.tsv",
+  "evidence": [
+    {
+      "id": "ODANA",
+      "status": "Accepted",
+      "addresses": [
+        "PS16.57.18",
+        "PS16.57.19a",
+        "PS16.58.1"
+      ],
+      "comparison": "AVŚ 11.3.32–49",
+      "authority": "Bhattacharya 2008 basis in the 2020 GRETIL version",
+      "observed": "One plural joint clause next to a food-as-eater predication and longer whole-body list. The edition labels ārūruhan as emended."
+    },
+    {
+      "id": "HERB",
+      "status": "Accepted",
+      "addresses": [
+        "PS19.11.7cd"
+      ],
+      "comparison": "AVŚ 6.32.2cd",
+      "authority": "Bhattacharya 2016 basis in GRETIL, Whitney and Barret comparisons",
+      "observed": "Adjacent sam ajīgamat with death as instrumental; Śaunaka uses Yama"
+    },
+    {
+      "id": "DESTINATION",
+      "status": "Accepted",
+      "addresses": [
+        "PS19.15.9ab"
+      ],
+      "comparison": "Bare-gam control independent of the two sam-gam verses",
+      "authority": "Bhattacharya 2016 basis in GRETIL",
+      "observed": "Indra as controller, tvā as causee and accusative destination; subordinate āyasi has its own ā"
+    },
+    {
+      "id": "AYAM",
+      "status": "Accepted",
+      "addresses": [
+        "PS2.27.5b"
+      ],
+      "comparison": "AVŚ 19.36.5b and Kāśikā 6.1.116",
+      "authority": "Bhattacharya 1997 basis in GRETIL",
+      "observed": "Retained a after final o at the same jewel-verse contact, with no PS accent reading selected"
+    }
+  ],
+  "excluded": [
+    "identifying PS16.57.19 as another Śaunaka P1sg occurrence",
+    "transferring the Śaunaka vo 'yam or vo ajīgamat locus to PS19.11.7",
+    "transferring Śaunaka accent merely by parallel prose",
+    "inferring a second ṇic from the extra neighboring predicate or two accusatives"
+  ],
+  "open": [
+    "Exact corresponding Paippalāda locator, if any, for Śaunaka 6.74.1 and the vo 'yam absorption scope question",
+    "Accent and recitation independently addressed for the Paippalāda witnesses and precise manuscript distribution including reported emendations",
+    "Remaining selected sam–gam san lakāras, joined caṅ A-pada entitlement and wider C2–C5/S1–S7"
+  ],
+  "credit": {
+    "finite_positions": 0,
+    "finite_readings": 0,
+    "nominal_positions": 0,
+    "nominal_readings": 0,
+    "syntactic_constructions": 1,
+    "syntactic_readouts": 4,
+    "morphological_constructions": 1,
+    "morphological_readouts": 2,
+    "phonological_constructions": 1,
+    "phonological_readouts": 1,
+    "accent_constructions": 0,
+    "accent_readouts": 0,
+    "semantic_constructions": 0,
+    "semantic_readouts": 0,
+    "compound_constructions": 0,
+    "compound_readouts": 0,
+    "source_observations": 4,
+    "source_policy_decisions": 1
+  }
+}
