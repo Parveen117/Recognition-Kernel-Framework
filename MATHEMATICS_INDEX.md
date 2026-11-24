@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG687: [Nested gam blessing ownership correction and joined panel](research/panini_grammar/nested_gam_active_benedictive_owner_correction_and_joined_panel/README.md). Typed recovery preserves both inducing events while computing the surviving vowels from two distinct lopa and iṭ queries. The counted joined words use corrected H2-only ay in active A.
+
 PG686: [Joined sam–gam caṅ outer-result A](research/panini_grammar/sam_gam_joined_cang_outer_result_middle/README.md). The typed zero square preserves the immediate base for the 1.3.88 query, the E2 result and cue for 1.3.74/77, and the distinct secondary endings of the A3sg/P2pl homograph.
 
 PG685: [Complete selected sam–gam san active grid](research/panini_grammar/sam_gam_san_blessing_aorist_perfect_completion/README.md). Typed specialization preserves primary word status before the inner iṭ query. The original middle entitlement and the auxiliary's liṭ history have separate owners.

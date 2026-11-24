@@ -2,6 +2,16 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG687 · Nested gam blessing ownership correction and joined panel
+
+PG687: [Nested gam blessing ownership correction and joined panel](nested_gam_active_benedictive_owner_correction_and_joined_panel/README.md). The source-ordered H1 deletion leaves no first ay to expose. P deletes H2 and A retains one ay. The unprefixed PG671 display gets an additive 19-interface correction without new credit. Joined sam adds 18 positions/38 readings. Census 52,089 finite and 8,012 nominal positions/9,271 readings.
+
+One morphology construction/38 new readouts, one source-policy decision and one provenance correction. Zero nominal or new source-observation counts. PG671's bytes and gross historical interface count remain fixed. Its current corrected display remains one P and one A panel with 19 readouts.
+
+PG521–687 cumulative: 270 finite positions/623 readings, 2,234 nominal positions/2,528 readings, 259 morphology constructions/2,023 interfaces, 122 compound constructions/583 plans, 15 accent constructions/61 records, 150 semantics constructions/437 records, 114 syntax constructions/334 records, 48 source-policy decisions after PG555−1 and 290 observations. Dedicated junction count since PG680 is three constructions/nine readouts. Three provenance corrections and one proof addendum. PG335 and PG357–363 CLOSED preserved.
+
+The next related obligation is PG677's passive āśīrliṅ/luṅ owner and count reconciliation under 6.4.62/93 and actual ciṇ. Wider joined lakāras, independent corpus sources/recitation and C2–C5/S1–S7 stay Open. Claude retains generators, grammar execution, old suites and replay. The containing commit is the publication pin.
+
 ## PG686 · Joined sam–gam caṅ outer-result A
 
 PG686: [Joined sam–gam caṅ outer-result A](sam_gam_joined_cang_outer_result_middle/README.md). 1.3.74 licenses A on the supplied outer principal result. 1.3.88 instead gives P on the separate conscious intransitive one-hetu control. The joined two-hetu active luṅ set closes at 18 positions/readings: nine old P and nine new A. Census 52,071 finite and 8,012 nominal positions/9,271 readings.

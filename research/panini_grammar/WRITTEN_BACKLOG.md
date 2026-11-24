@@ -1,6 +1,8 @@
-# Written-development backlog at PG686
+# Written-development backlog at PG687
 
-Monty · 2026-11-24 · reviewed current parent b247630f908a691abd6b82d077c3e24326885798; historical closures below retain their exact original pins.
+Monty · 2026-11-24 · reviewed current parent 1ac52ecdd70037ffff1fcb18ac8a3ad003ad9594; historical closures below retain their exact original pins.
+
+PG687 corrects the [active blessing after exact H1 deletion](nested_gam_active_benedictive_owner_correction_and_joined_panel/README.md), preserves PG671's historical words and replaces their 19 operative readouts without new credit. Joined sam adds 18 positions/38 readings. PG677's passive āśīrliṅ and luṅ still require exact reconciliation of the exposed root, the ciṇvat or ciṇ grade and late 2pl dh/ḍh. PG674–675's correct H1-lopa inputs remain available. C2–C5/S1–S7 and Claude execution retain their standing.
 
 PG686 closes the [joined two-hetu active sam–gam caṅ P/A luṅ set](sam_gam_joined_cang_outer_result_middle/README.md) on explicit principal-result and immediate-base guards, 18 keys/readings with nine new A. The old P panel stays frozen. Other joined lakāras, additional single-hetu role profiles, independent evidence for the actual A utterance and C2–C5/S1–S7 stay Open. One-hetu P under 1.3.88 is a positive control on a restricted frame. Claude execution is separate.
 

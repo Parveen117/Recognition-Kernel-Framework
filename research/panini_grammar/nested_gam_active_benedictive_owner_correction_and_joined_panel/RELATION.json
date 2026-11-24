@@ -1,0 +1,171 @@
+{
+  "schema": "rkf.panini.pg687.relation.v1",
+  "scope": {
+    "root": "gam",
+    "root_id": 1011137,
+    "preverbs": [
+      null,
+      "sam"
+    ],
+    "profile": "two hetumat events H1/H2, Y theme and accusative, D instrumental causee-agent, V active controller",
+    "voice": "kartari",
+    "lakara": "āśīrliṅ",
+    "context": "wish for the unattained E2 outer causal action",
+    "pada_guard": "PG382 for null preverb and PG686 for admitted joined sense, with actual result and cue conditions"
+  },
+  "leading_histories": {
+    "before_ending": [
+      "gam",
+      "H1 empty under 6.4.51 before H2",
+      "H2 i"
+    ],
+    "P": [
+      "gam",
+      "H1 still empty",
+      "H2 empty before aniṭ yāsuṭ",
+      "ending y owns the only y"
+    ],
+    "A": [
+      "gam",
+      "H1 still empty",
+      "H2 ay before ordinary iṭ",
+      "iṭ",
+      "sīyuṭ and ending"
+    ]
+  },
+  "repaired_null_panel": {
+    "historical": "PG671 READOUTS.tsv 18 keys/19 interfaces frozen",
+    "active": "PG687 PARADIGMS.md exact corrected histories and surfaces",
+    "replacements": 19,
+    "added_credits": 0
+  },
+  "joined_panel": {
+    "prefix_readings": [
+      {
+        "surface": "saṃ",
+        "rule": "8.3.23, retained under padānta 8.4.59"
+      },
+      {
+        "surface": "saṅ",
+        "rule": "8.4.58–59 homorganic before root g"
+      }
+    ],
+    "keys": 18,
+    "readings": 38,
+    "rows": [
+      {
+        "slot": "3sg",
+        "P": [
+          "gamyāt"
+        ],
+        "A": [
+          "gamayiṣīṣṭa"
+        ]
+      },
+      {
+        "slot": "3du",
+        "P": [
+          "gamyāstām"
+        ],
+        "A": [
+          "gamayiṣīyāstām"
+        ]
+      },
+      {
+        "slot": "3pl",
+        "P": [
+          "gamyāsuḥ"
+        ],
+        "A": [
+          "gamayiṣīran"
+        ]
+      },
+      {
+        "slot": "2sg",
+        "P": [
+          "gamyāḥ"
+        ],
+        "A": [
+          "gamayiṣīṣṭhāḥ"
+        ]
+      },
+      {
+        "slot": "2du",
+        "P": [
+          "gamyāstam"
+        ],
+        "A": [
+          "gamayiṣīyāsthām"
+        ]
+      },
+      {
+        "slot": "2pl",
+        "P": [
+          "gamyāsta"
+        ],
+        "A": [
+          "gamayiṣīdhvam",
+          "gamayiṣīḍhvam"
+        ]
+      },
+      {
+        "slot": "1sg",
+        "P": [
+          "gamyāsam"
+        ],
+        "A": [
+          "gamayiṣīya"
+        ]
+      },
+      {
+        "slot": "1du",
+        "P": [
+          "gamyāsva"
+        ],
+        "A": [
+          "gamayiṣīvahi"
+        ]
+      },
+      {
+        "slot": "1pl",
+        "P": [
+          "gamyāsma"
+        ],
+        "A": [
+          "gamayiṣīmahi"
+        ]
+      }
+    ]
+  },
+  "excluded": [
+    "reusing a sounded y from H1 whose i was already deleted before growth",
+    "using ciṇvat in this kartari A blessing",
+    "treating matched simple and two-hetu word spellings as the same owned derivation"
+  ],
+  "open": [
+    "PG677 passive āśīrliṅ/luṅ transfer of H1-lopa, 6.4.93 length and 2pl visible pre-iṭ owner needs its separate corrected relation and count reconciliation",
+    "Other joined two-hetu active labels beyond āśīrliṅ and luṅ, exact independent attestations and wider C2–C5/S1–S7",
+    "Any other source-conditioned realization of the deleted first suffix would need an explicit local owner and rule"
+  ],
+  "credit": {
+    "finite_positions": 18,
+    "finite_readings": 38,
+    "nominal_positions": 0,
+    "nominal_readings": 0,
+    "morphological_constructions": 1,
+    "morphological_readouts": 38,
+    "syntactic_constructions": 0,
+    "syntactic_readouts": 0,
+    "phonological_constructions": 0,
+    "phonological_readouts": 0,
+    "accent_constructions": 0,
+    "accent_readouts": 0,
+    "compound_constructions": 0,
+    "compound_readouts": 0,
+    "semantic_constructions": 0,
+    "semantic_readouts": 0,
+    "source_observations": 0,
+    "source_policy_decisions": 1,
+    "provenance_corrections": 1
+  }
+}

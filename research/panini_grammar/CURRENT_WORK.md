@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG686
+# Pāṇini grammar · current written coverage at PG687
+
+PG687: [Nested gam blessing ownership correction and joined panel](nested_gam_active_benedictive_owner_correction_and_joined_panel/README.md). The source-ordered H1 deletion leaves no first ay to expose. P deletes H2 and A retains one ay. The unprefixed PG671 display gets an additive 19-interface correction without new credit. Joined sam adds 18 positions/38 readings. Census 52,089 finite and 8,012 nominal positions/9,271 readings.
 
 PG686: [Joined sam–gam caṅ outer-result A](sam_gam_joined_cang_outer_result_middle/README.md). 1.3.74 licenses A on the supplied outer principal result. 1.3.88 instead gives P on the separate conscious intransitive one-hetu control. The joined two-hetu active luṅ set closes at 18 positions/readings: nine old P and nine new A. Census 52,071 finite and 8,012 nominal positions/9,271 readings.
 

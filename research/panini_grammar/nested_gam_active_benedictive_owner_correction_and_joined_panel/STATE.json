@@ -1,0 +1,64 @@
+{
+  "schema": "rkf.panini.pg687.state.v1",
+  "author": "Monty",
+  "date": "2026-11-24",
+  "publication_parent": "1ac52ecdd70037ffff1fcb18ac8a3ad003ad9594",
+  "baseline": {
+    "commit": "1ac52ecdd70037ffff1fcb18ac8a3ad003ad9594",
+    "path": "research/panini_grammar/sam_gam_joined_cang_outer_result_middle/STATE.json"
+  },
+  "finite_positions": 52089,
+  "nominal_positions": 8012,
+  "nominal_readings": 9271,
+  "new_finite_positions": 18,
+  "new_finite_readings": 38,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 0,
+  "new_morphological_constructions": 1,
+  "new_morphological_readouts": 38,
+  "new_syntactic_constructions": 0,
+  "new_syntactic_readouts": 0,
+  "new_phonological_constructions": 0,
+  "new_phonological_readouts": 0,
+  "new_accent_constructions": 0,
+  "new_accent_readouts": 0,
+  "new_compound_constructions": 0,
+  "new_compound_readouts": 0,
+  "new_semantic_constructions": 0,
+  "new_semantic_readouts": 0,
+  "new_source_observations": 0,
+  "new_source_policy_decisions": 1,
+  "new_provenance_corrections": 1,
+  "new_positions": 18,
+  "new_position_readings": 38,
+  "correction": {
+    "frozen_stage": "PG671",
+    "positions": 18,
+    "old_interfaces": 19,
+    "replacement_interfaces": 19,
+    "net_finite_census_change": 0,
+    "old_words_recredited": false
+  },
+  "local_closure": "CLOSED for corrected null-preverb active blessing and new joined sam active blessing on the selected two-hetu profile",
+  "open_obligations": [
+    "PG677 passive āśīrliṅ/luṅ transfer of H1-lopa, 6.4.93 length and 2pl visible pre-iṭ owner needs its separate corrected relation and count reconciliation",
+    "Other joined two-hetu active labels beyond āśīrliṅ and luṅ, exact independent attestations and wider C2–C5/S1–S7",
+    "Any other source-conditioned realization of the deleted first suffix would need an explicit local owner and rule"
+  ],
+  "authorization": {
+    "completion_status": "OPEN wider gates",
+    "PG335": "-9 finite/-12 readings preserved",
+    "PG357_PG363": "CLOSED preserved",
+    "continuous_executed_hours_claimed": false
+  },
+  "runtime_policy": {
+    "python": "3.12 only",
+    "document_check_status": "PASS",
+    "document_check_attempts": 1,
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "old_suites": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE"
+  },
+  "grammar_executions": []
+}
