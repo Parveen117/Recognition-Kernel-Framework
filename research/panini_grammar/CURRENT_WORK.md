@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG679
+# Pāṇini grammar · current written coverage at PG680
+
+PG680: [Śaunaka sam–gam attestation and contextual accent](shaunaka_sam_gam_attestation_and_owned_accent/README.md). AVŚ 6.32.2 attests adjacent `samajīgamat`; 6.74.1 places `vo` between the preverb and verb. The two contexts give dependent svarita to aṭ and to the clitic respectively. Sāyaṇa supplies the distinct role readings. Zero new word positions/readings.
 
 PG679: [Joined sam–gam active-P caṅ completion](sam_gam_joined_cang_active_p_completion/README.md). PG678's positive sam/root/sense relation now composes with prefix-outside-aṭ ordering and PG672's P map: nine new rule-composed `samajīgam-` finite positions/readings, one morphology construction/nine readouts. A-pada remains Open rather than being inferred from P evidence. Census 51,882 finite and 8,012 nominal/9,271 readings.
 

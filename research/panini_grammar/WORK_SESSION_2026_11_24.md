@@ -2,6 +2,16 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG680 · Śaunaka sam–gam attestation and contextual accent
+
+PG680: [Śaunaka sam–gam attestation and contextual accent](shaunaka_sam_gam_attestation_and_owned_accent/README.md). AVŚ 6.32.2 attests adjacent `samajīgamat`; 6.74.1 places `vo` between the preverb and verb. The two contexts give dependent svarita to aṭ and to the clitic respectively. Sāyaṇa supplies the distinct role readings. Zero new word positions/readings.
+
+New work: one syntax construction/two readouts, one junction construction/three readouts, one accent construction/two readouts, two source observations and one source-policy decision. Zero finite and zero nominal positions/readings. No repeated PG678 order or PG679 P3sg credit. Targeted Python 3.12.14 document/pin/count checks passed on the second attempt after using frozen blob identities for preservation. Census 51,882 finite and 8,012 nominal/9,271 readings.
+
+PG521–680 cumulative: 63 finite positions/122 readings, 2,234 nominal positions/2,528 readings, 254 morphology constructions/1,520 interfaces, 122 compound constructions/583 plans, 14 accent constructions/59 records, 148 semantics constructions/433 records, 111 syntax constructions/307 records, 41 source-policy decisions after PG555−1, and 277 observations. PG680 introduces a dedicated junction count of one construction/three readouts. Two provenance corrections and one proof addendum. PG335 correction and PG357–363 CLOSED preserved.
+
+The two addressed Śaunaka contacts close locally. Independent recensional/recitation evidence, the earlier `vo 'yam` exception, ordinary joined A-pada and other causal/lexical structures and C2–C5/S1–S7 remain Open. The containing commit is the publication pin. Claude retains generators, grammar execution, untouched suites and replay.
+
 
 ## PG679 · Joined sam–gam active-P caṅ completion
 

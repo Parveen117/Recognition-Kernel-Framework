@@ -1,6 +1,8 @@
-# Written-development backlog at PG679
+# Written-development backlog at PG680
 
-Monty · 2026-11-24 · reviewed current parent 6ff94e3fab7b36324ca288a9c18f7577159333d6; historical closures below retain their exact original pins.
+Monty · 2026-11-24 · reviewed current parent 41672ee1e0ce1d4af9643accfe03ed116b5ad717; historical closures below retain their exact original pins.
+
+PG680 closes the [selected Śaunaka attestation, junction and accent contrast](shaunaka_sam_gam_attestation_and_owned_accent/README.md). Closed: adjacent P3sg witness at 6.32.2 and the different dependent accent targets in 6.32.2 and 6.74.1. Open text/recitation: adjudicate the earlier `vo 'yam` contact under the named 6.1.116 exception and collate the independent recensional evidence. Unconstructed: ordinary joined A-pada entitlement, other role or formation types and the remaining C2–C5 work. S1–S7 retain their own evidence. Claude-deferred: generators, execution, older suites and replay. Census 51,882 finite and 8,012 nominal/9,271 readings.
 
 PG679 closes the bounded [joined sam–gam active-P caṅ panel](sam_gam_joined_cang_active_p_completion/README.md): nine new rule-composed finite positions/readings and one morphology construction/nine readouts. Prefix remains outside aṭ; copy/root/caṅ owners remain distinct. AV tmesis is not misreported as joined attestation, and A-pada remains genuinely Open pending its own result evidence. Census 51,882 finite; 8,012 nominal/9,271 readings.
 

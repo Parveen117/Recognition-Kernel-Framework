@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG680: [Śaunaka sam–gam attestation and contextual accent](shaunaka_sam_gam_attestation_and_owned_accent/README.md). AVŚ 6.32.2 attests adjacent `samajīgamat`; 6.74.1 places `vo` between the preverb and verb. The two contexts give dependent svarita to aṭ and to the clitic respectively. Sāyaṇa supplies the distinct role readings. Zero new word positions/readings.
+
 PG679: [Joined sam–gam active-P caṅ completion](sam_gam_joined_cang_active_p_completion/README.md). The positive AV-qualified sam–gam relation is now realized as a bounded ordinary joined P panel: nine new rule-composed finite positions/readings with explicit prefix/aṭ/copy/root/caṅ/ending ownership. A-pada is withheld. Census 51,882 finite and 8,012 nominal/9,271 readings.
 
 PG678: [Atharvaveda sam–gam tmesis and PG672 witness-scope correction](atharvaveda_sam_gam_tmesis_and_pg672_scope_correction/README.md). AVŚ 6.74.1 directly orders separated `sam`, intervening `vaḥ` and caṅ `ajīgamat`. The verbal factor remains a positive control, while the direct null-preverb witness label is narrowed. One syntax construction/four readouts, one source analysis/decision and one provenance correction; no position/readings change. Census remains 51,873 finite and 8,012 nominal/9,271 readings.

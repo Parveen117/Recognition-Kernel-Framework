@@ -1,0 +1,144 @@
+{
+  "publication_parent": "41672ee1e0ce1d4af9643accfe03ed116b5ad717",
+  "observed_on": "2026-11-24",
+  "edition_note": "External Vedic web witnesses have no project Git commit. The archive observations pin edition, verse, leaf and digitized revision where available. The short controls below fix the selected comparison strings. This does not pin changing web HTML bytes or assert distinct manuscript lineages.",
+  "witnesses": [
+    {
+      "id": "VHP32",
+      "title": "Vedic Heritage Portal, Śaunaka saṃhitā",
+      "locus": "6.32.2",
+      "url": "https://vedicheritage.gov.in/samhitas/atharvaveda-samhitas/shaunaka-samhita/kanda-06-sukta-032/",
+      "control": "य॒मेन॒ सम॑जीगमत्",
+      "use": "adjacent saṃhitā, dependent accent on the augment"
+    },
+    {
+      "id": "VHP74",
+      "title": "Vedic Heritage Portal, Śaunaka saṃhitā",
+      "locus": "6.74.1",
+      "url": "https://vedicheritage.gov.in/samhitas/atharvaveda-samhitas/shaunaka-samhita/kanda-06-sukta-074/",
+      "control": "सं वो॑ अजीगमत्",
+      "comparison_control": "सं वोऽयं",
+      "use": "retained o/a and dependent accent on the clitic. Earlier elided contact is recorded as an observed control"
+    },
+    {
+      "id": "GRETIL",
+      "title": "Atharvaveda-Saṃhitā, Śaunaka, accented electronic text",
+      "url": "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/1_veda/1_sam/avs_acu.htm",
+      "loci": {
+        "AVŚ_6,32.2c": "yaména sám ajīgamat",
+        "AVŚ_6,74.1c": "sáṃ vo ajīgamat"
+      },
+      "use": "comparison for primary udātta and sequence. No separate source credit"
+    },
+    {
+      "id": "PANDIT32",
+      "title": "Atharvavedasamhitā with Sāyaṇa, ed. Shankar Pandurang Pandit, vol. II, Bombay Government Central Book Depot, 1895",
+      "locus": "6.32.2, printed p. 64, PDF leaf 73",
+      "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%AA%E0%A5%83%E0%A4%B7%E0%A5%8D%E0%A4%A0%E0%A4%AE%E0%A5%8D%3A%E0%A4%85%E0%A4%A5%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%B8%E0%A4%82%E0%A4%B9%E0%A4%BF%E0%A4%A4%E0%A4%BE-%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A8.pdf/%E0%A5%AD%E0%A5%A9&oldid=391924",
+      "control": "सम् । अजीगमत्",
+      "commentary_control": "यमेन मृत्युना",
+      "use": "visually inspected scan with explanatory herb, accusative addressees and association with Yama/death. Apparatus variation at the adjective is outside the selected reading"
+    },
+    {
+      "id": "PANDIT74",
+      "title": "Same edition as PANDIT32",
+      "locus": "6.74.1, printed pp. 153–154, PDF leaves 162–163",
+      "urls": [
+        "https://sa.wikisource.org/w/index.php?title=%E0%A4%AA%E0%A5%83%E0%A4%B7%E0%A5%8D%E0%A4%A0%E0%A4%AE%E0%A5%8D%3A%E0%A4%85%E0%A4%A5%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%B8%E0%A4%82%E0%A4%B9%E0%A4%BF%E0%A4%A4%E0%A4%BE-%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A8.pdf/%E0%A5%A7%E0%A5%AC%E0%A5%A8&oldid=392013",
+        "https://sa.wikisource.org/w/index.php?title=%E0%A4%AA%E0%A5%83%E0%A4%B7%E0%A5%8D%E0%A4%A0%E0%A4%AE%E0%A5%8D%3A%E0%A4%85%E0%A4%A5%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%B8%E0%A4%82%E0%A4%B9%E0%A4%BF%E0%A4%A4%E0%A4%BE-%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A4%83_%E0%A5%A8.pdf/%E0%A5%A7%E0%A5%AC%E0%A5%A9&oldid=392014"
+      ],
+      "control": "सम् । वः । अजीगमत्",
+      "commentary_control": "गमेर्ण्यन्तात् लुङि चङि रूपम्",
+      "use": "visually inspected scans with separated sequence, source glosses for the singular controllers, causative luṅ/caṅ and agreement of mind"
+    },
+    {
+      "id": "NYASA8170",
+      "title": "Nyāsa at Kāśikā 8.1.70",
+      "locus": "sam under the समुदानयति example",
+      "url": "https://sanskritdocuments.org/~sanskrit/learning_tools/ashtadhyayi/vyakhya/8/8.1.70.htm",
+      "use": "positive primary sam accent control through phiṭ 4.80–81. No separate attestation credit"
+    }
+  ],
+  "project_dependencies": [
+    {
+      "commit": "41672ee1e0ce1d4af9643accfe03ed116b5ad717",
+      "path": "research/panini_grammar/sam_gam_joined_cang_active_p_completion/STATE.json",
+      "git_blob_sha": "e0b94e5ad704110d7cde1b9428eaa3dfb030c826",
+      "bytes": 2415,
+      "sha256": "a0f2e641fb73808f71037a7d91fb095153115d8040086ecb0c88b7a8161bd770",
+      "use": "PG679 census parent"
+    },
+    {
+      "commit": "41672ee1e0ce1d4af9643accfe03ed116b5ad717",
+      "path": "research/panini_grammar/sam_gam_joined_cang_active_p_completion/READOUTS.tsv",
+      "git_blob_sha": "e91f0535fc785525d4e2d4c6f7461db5e22a4ff6",
+      "bytes": 632,
+      "sha256": "ab2ac84a4fb668d83de7f3768b6afbcff4193b6547f3a6960b9888dfb714d84d",
+      "use": "existing P3sg, no added word credit"
+    },
+    {
+      "commit": "6ff94e3fab7b36324ca288a9c18f7577159333d6",
+      "path": "research/panini_grammar/atharvaveda_sam_gam_tmesis_and_pg672_scope_correction/RELATION.json",
+      "git_blob_sha": "1549889b074221ce741247766b6eca596d2baaea",
+      "bytes": 1618,
+      "sha256": "d82466db4a7f75fd2c503e6365c2db5b2d9f9729486041822638329bbdce37c8",
+      "use": "PG678 separated word order and earlier token evidence"
+    },
+    {
+      "commit": "b05e46bf78f165e17c4766d6d1179a1699a72fcf",
+      "path": "research/panini_grammar/grammar_construction/NATIVE_OPERATOR_LIFT.md",
+      "git_blob_sha": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+      "bytes": 11855,
+      "sha256": "f52e7f5cf539ef56859b890669ef738848491e4005e73be75baa49c899b5dafd",
+      "use": "PG14 carrier with typed specialization N1–N5"
+    },
+    {
+      "commit": "7295ea63069ecd7fa1a051aa3398039f6273dd32",
+      "path": "research/panini_grammar/abhyasa_tripadi/SOURCE_EXCERPTS.json",
+      "git_blob_sha": "11180c4dcff36d29b4a8e8ffa0ec77dd7e59d10e",
+      "bytes": 1395665,
+      "sha256": "98186e984ffb352b09f8acb926c8c67c679e605915467c50820fa1521d7ff834",
+      "use": "PG41 pinned sources for 8.1.17–28, 8.1.68–71, 8.2.66, 8.3.23, 8.4.66–67"
+    },
+    {
+      "commit": "82ac8dc97be7bd59660546cd0c085775395529da",
+      "path": "research/panini_grammar/compound_sound_accent/SOURCE_EXCERPTS.json",
+      "git_blob_sha": "a21220b8281d487a7b74a5d8e0ca16071327a765",
+      "bytes": 1111817,
+      "sha256": "0d7528ebf4b40a10e27a38039d73e3a5114b80c7137c9292961caaa0dc04c406",
+      "use": "PG38 6.1.87 and 6.1.109–116, including the two 115 policies"
+    },
+    {
+      "commit": "2708f47677f5abc80778ef2a727172556a0e3425",
+      "path": "research/panini_grammar/foundational_relations/RULES_1_4_D.md",
+      "git_blob_sha": "9b780da715a9729ff5709c21e2d55240fd6aacd2",
+      "bytes": 6480,
+      "sha256": "792bbd92723515a9cfdfd4f907e1dd39e2181049464f7119b6f277eee5177e4b",
+      "use": "PG42 addressed 1.4.82 separation"
+    },
+    {
+      "commit": "740f9c356796b901d7cd7e3524c41f358082b27b",
+      "path": "research/panini_grammar/compound_case_derivation/RULES_2_3_A.md",
+      "git_blob_sha": "fd1ab992dfab07a1771583d28b56d21a5c6c02aa",
+      "bytes": 10371,
+      "sha256": "6c8630efafe5b1a0fb3dedac7f7789266d6d85b53026e6bdd5529161961c7494",
+      "use": "2.3.19 implicit but supplied accompaniment"
+    },
+    {
+      "commit": "6c1ace891b22eae008cbb2156f3897fc70eeeeee",
+      "path": "research/panini_grammar/asmad_yusmad_full_cases_and_post_pada_clitics/DERIVATION_AND_NATIVE_RECOVERY.md",
+      "git_blob_sha": "2d446583105dc4b4f4729e7e6b595ecee1c7b17f",
+      "bytes": 5237,
+      "sha256": "910d1b127ce55aaf3b240b577f1a22b79fbbc6244121c43492a21e8dc5694733",
+      "use": "PG656 pre-existing plural clitic cases, blockers and accent"
+    }
+  ],
+  "source_accounting": {
+    "observation_units": [
+      "AVŚ 6.32.2 adjacent token as one verse witness, with digital/print corroboration",
+      "Sāyaṇa comparative role-and-formation witness at the two addressed passages, one 1895 edition unit"
+    ],
+    "decision": "Accept Śaunaka 6.32.2 as adjacent caṅ P3sg evidence, retain the 6.74.1 separated attestation and attribute the contextual dependent accent to distinct vowel owners. Neither source asserts the classical paradigm, a second causative layer or a middle entitlement.",
+    "no_recredit": "Existing PG678 order and PG679 written P3sg sound sequence retain their prior accounting."
+  }
+}
