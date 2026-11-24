@@ -2,6 +2,12 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG758 · Three traveller paradigms and the route by which something comes
+
+PG758 · [Three traveller paradigms and the route by which something comes](traveller_cases_and_two_directional_path_relations/README.md). Constructs the 5.1.72–77 recitation, distance and route cases, with three complete traveller paradigms and independent Hitopadeśa and Meghadūta-commentary witnesses. 96 new nominal positions and 98 readings. Finite positions and readings both increased by zero. One written morphology construction with 27 interfaces, 10 source observations and 6 source decisions. Census: 52,345 finite positions, 20,732 nominal positions and 23,425 nominal readings.
+
+Parent 37fc8444f2c1f114b32e413aa1ff0ea88e2222b4. The containing commit pins this packet. The early provenance of the precise source spelling in the Hitopadeśa opening plural and complete independent literary witness sets for all seven route adjectives remain Open. Continue the time-word boundary from 5.1.78, distinguishing instrumental accomplishment, accusative duration and age. C2–C5 and S1–S7 remain Open. Claude retains execution.
+
 ## PG757 · Deserving, sacrificial fitness and priestly work
 
 PG757 · [Deserving, sacrificial fitness and priestly work](deserving_marker_histories_and_ritual_fitness/README.md). Builds the 5.1.63–71 case evidence, including Sāyaṇa’s named gha, Jayamaṅgalā’s interpretation of Bhaṭṭi 2.29 and the Sanskrit chāyā in Mālavikāgnimitra V. 28 new nominal positions and 33 readings. Finite positions and readings both increased by zero. One written morphology construction with 25 interfaces, 15 source observations and 6 source decisions. Census: 52,345 finite positions, 20,636 nominal positions and 23,327 nominal readings.

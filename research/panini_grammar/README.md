@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG758 · [Three traveller paradigms and the route by which something comes](traveller_cases_and_two_directional_path_relations/README.md). Constructs the 5.1.72–77 recitation, distance and route cases, with three complete traveller paradigms and independent Hitopadeśa and Meghadūta-commentary witnesses. 96 new nominal positions and 98 readings. Finite positions and readings both increased by zero.
+
 PG757 · [Deserving, sacrificial fitness and priestly work](deserving_marker_histories_and_ritual_fitness/README.md). Builds the 5.1.63–71 case evidence, including Sāyaṇa’s named gha, Jayamaṅgalā’s interpretation of Bhaṭṭi 2.29 and the Sanskrit chāyā in Mālavikāgnimitra V. 28 new nominal positions and 33 readings. Finite positions and readings both increased by zero.
 
 PG756 · [Nine measures of Indra’s team, class sizes and two Brāhmaṇa titles](decades_harnessed_horses_and_measured_book_names/README.md). Derives 5.1.59–60 and 62 using the nine instrumental singulars of RV 2.18.5–6, the Śatapatha five-offering passage and the named book cases. 19 new nominal positions and 21 readings. Finite positions and readings both increased by zero.

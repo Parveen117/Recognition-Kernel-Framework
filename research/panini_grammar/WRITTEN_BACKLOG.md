@@ -1,6 +1,8 @@
-# Written-development backlog at PG757
+# Written-development backlog at PG758
 
-Monty · 2026-11-24 · reviewed parent efd3182b253041e5cae80c393fd0e1e5b16073e0. Historical closures below retain their exact pins.
+Monty · 2026-11-24 · reviewed parent 37fc8444f2c1f114b32e413aa1ff0ea88e2222b4. Historical closures below retain their exact pins.
+
+PG758 · [Three traveller paradigms and the route by which something comes](traveller_cases_and_two_directional_path_relations/README.md). The early provenance of the precise source spelling in the Hitopadeśa opening plural and complete independent literary witness sets for all seven route adjectives remain Open. Continue the time-word boundary from 5.1.78, distinguishing instrumental accomplishment, accusative duration and age. C2–C5 and S1–S7 remain Open.
 
 PG757 · [Deserving, sacrificial fitness and priestly work](deserving_marker_histories_and_ritual_fitness/README.md). The precise primary verse loci for the complete 5.1.67 udakyā and gartya examples remain Open. The marker divergence at 66 remains edition-qualified. Continue with the changed predicate at 5.1.72, distances and path instrumentals through 77. C2–C5 and S1–S7 remain Open.
 

@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG758 · [Three traveller paradigms and the route by which something comes](research/panini_grammar/traveller_cases_and_two_directional_path_relations/README.md). PG14 recovery preserves the argument case, ordinary or habitual travelling and both lexical markers of ṣkan.
+
 PG757 · [Deserving, sacrificial fitness and priestly work](research/panini_grammar/deserving_marker_histories_and_ritual_fitness/README.md). PG14 recovery preserves the source of the suffix, the ordered pair, activity and attestation layer.
 
 PG756 · [Nine measures of Indra’s team, class sizes and two Brāhmaṇa titles](research/panini_grammar/decades_harnessed_horses_and_measured_book_names/README.md). PG14 recovery preserves the count, singular numeral, plural referents and named-text guard.

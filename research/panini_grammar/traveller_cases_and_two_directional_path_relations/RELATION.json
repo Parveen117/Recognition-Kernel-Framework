@@ -1,0 +1,996 @@
+{
+  "stage": "PG758",
+  "morphology_interfaces": [
+    {
+      "id": "P",
+      "base": "pathin",
+      "guard": "ordinary path-going",
+      "affix": "ṣkan",
+      "result": "pathika"
+    },
+    {
+      "id": "PF",
+      "base": "pathika from marked ṣkan",
+      "guard": "female traveller",
+      "affix": "ṅīṣ",
+      "result": "pathikī"
+    },
+    {
+      "id": "H",
+      "base": "pathin",
+      "guard": "habitual going",
+      "affix": "pantha substitute and ṇ",
+      "result": "pāntha"
+    },
+    {
+      "id": "REC",
+      "base": "pārāyaṇa",
+      "guard": "carries out the recitation",
+      "affix": "ṭhañ",
+      "result": "pārāyaṇika"
+    },
+    {
+      "id": "RIT",
+      "base": "turāyaṇa",
+      "guard": "performs the rite",
+      "affix": "ṭhañ",
+      "result": "taurāyaṇika"
+    },
+    {
+      "id": "VOW",
+      "base": "cāndrāyaṇa",
+      "guard": "performs the observance",
+      "affix": "ṭhañ",
+      "result": "cāndrāyaṇika"
+    },
+    {
+      "id": "D",
+      "base": "saṃśaya",
+      "guard": "doubt has arisen",
+      "affix": "ṭhañ",
+      "result": "sāṃśayika"
+    },
+    {
+      "id": "Y",
+      "base": "yojana",
+      "guard": "accusative distance gone",
+      "affix": "ṭhañ",
+      "result": "yaujanika"
+    },
+    {
+      "id": "K100",
+      "base": "krośaśata",
+      "guard": "accusative distance gone",
+      "affix": "ṭhañ",
+      "result": "krauśaśatika"
+    },
+    {
+      "id": "Y100",
+      "base": "yojanaśata",
+      "guard": "accusative distance gone",
+      "affix": "ṭhañ",
+      "result": "yaujanaśatika"
+    },
+    {
+      "id": "KFROM",
+      "base": "krośaśata",
+      "guard": "deserving approach from ablative distance",
+      "affix": "ṭhañ",
+      "result": "krauśaśatika"
+    },
+    {
+      "id": "YFROM",
+      "base": "yojanaśata",
+      "guard": "deserving approach from ablative distance",
+      "affix": "ṭhañ",
+      "result": "yaujanaśatika"
+    },
+    {
+      "id": "LAND",
+      "base": "sthalapatha",
+      "guard": "instrumental transport and specified madhu-ka or pepper",
+      "affix": "aṇ",
+      "result": "sthālapatha"
+    },
+    {
+      "id": "NGO",
+      "base": "uttarapatha",
+      "guard": "instrumental route, go",
+      "affix": "ṭhañ",
+      "result": "auttarapathika"
+    },
+    {
+      "id": "NCARRY",
+      "base": "uttarapatha",
+      "guard": "instrumental route, carry",
+      "affix": "ṭhañ",
+      "result": "auttarapathika"
+    },
+    {
+      "id": "WGO",
+      "base": "vāripatha",
+      "guard": "instrumental route, go",
+      "affix": "ṭhañ",
+      "result": "vāripathika"
+    },
+    {
+      "id": "WCARRY",
+      "base": "vāripatha",
+      "guard": "instrumental route, carry",
+      "affix": "ṭhañ",
+      "result": "vāripathika"
+    },
+    {
+      "id": "JGO",
+      "base": "jaṅgalapatha",
+      "guard": "instrumental route, go",
+      "affix": "ṭhañ",
+      "result": "jāṅgalapathika"
+    },
+    {
+      "id": "JCARRY",
+      "base": "jaṅgalapatha",
+      "guard": "instrumental route, carry",
+      "affix": "ṭhañ",
+      "result": "jāṅgalapathika"
+    },
+    {
+      "id": "SGO",
+      "base": "sthalapatha",
+      "guard": "instrumental route, go",
+      "affix": "ṭhañ",
+      "result": "sthālapathika"
+    },
+    {
+      "id": "SCARRY",
+      "base": "sthalapatha",
+      "guard": "instrumental route, carry",
+      "affix": "ṭhañ",
+      "result": "sthālapathika"
+    },
+    {
+      "id": "KGO",
+      "base": "kāntārapatha",
+      "guard": "instrumental route, go",
+      "affix": "ṭhañ",
+      "result": "kāntārapathika"
+    },
+    {
+      "id": "KCARRY",
+      "base": "kāntārapatha",
+      "guard": "instrumental route, carry",
+      "affix": "ṭhañ",
+      "result": "kāntārapathika"
+    },
+    {
+      "id": "AGO",
+      "base": "ajapatha",
+      "guard": "instrumental route, go",
+      "affix": "ṭhañ",
+      "result": "ājapathika"
+    },
+    {
+      "id": "ACARRY",
+      "base": "ajapatha",
+      "guard": "instrumental route, carry",
+      "affix": "ṭhañ",
+      "result": "ājapathika"
+    },
+    {
+      "id": "SHGO",
+      "base": "śaṅkupatha",
+      "guard": "instrumental route, go",
+      "affix": "ṭhañ",
+      "result": "śāṅkupathika"
+    },
+    {
+      "id": "SHCARRY",
+      "base": "śaṅkupatha",
+      "guard": "instrumental route, carry",
+      "affix": "ṭhañ",
+      "result": "śāṅkupathika"
+    }
+  ],
+  "nominal_positions": [
+    {
+      "id": "PNOMsg",
+      "source": "HIT",
+      "input_history": "P",
+      "case_number": "M NOMsg",
+      "word": "pathikaḥ",
+      "interpretation": "Verse 5 in the introduction to the story uses the free word."
+    },
+    {
+      "id": "PNOMdu",
+      "source": "GRID",
+      "input_history": "P",
+      "case_number": "M NOMdu",
+      "word": "pathikau",
+      "interpretation": "Constructed from its own derived stem and the pinned ordinary case contract."
+    },
+    {
+      "id": "PNOMpl",
+      "source": "MALL",
+      "input_history": "P",
+      "case_number": "M NOMpl",
+      "word": "pathikāḥ",
+      "interpretation": "Free plural in Mallinātha’s explanation of the poem compound."
+    },
+    {
+      "id": "PFNOMsg",
+      "source": "K75",
+      "input_history": "PF",
+      "case_number": "F NOMsg",
+      "word": "pathikī",
+      "interpretation": "Explicit feminine in the grammatical source."
+    },
+    {
+      "id": "PFNOMdu",
+      "source": "GRID",
+      "input_history": "PF",
+      "case_number": "F NOMdu",
+      "word": "pathikyau",
+      "interpretation": "Constructed from its own derived stem and the pinned ordinary case contract."
+    },
+    {
+      "id": "PFNOMpl",
+      "source": "GRID",
+      "input_history": "PF",
+      "case_number": "F NOMpl",
+      "word": "pathikyaḥ",
+      "interpretation": "Constructed from its own derived stem and the pinned ordinary case contract."
+    },
+    {
+      "id": "HNOMsg",
+      "source": "HIT",
+      "input_history": "H",
+      "case_number": "M NOMsg",
+      "word": "pānthaḥ",
+      "interpretation": "Independent form in the fable, with pāntho before avadat in the nominative."
+    },
+    {
+      "id": "HNOMdu",
+      "source": "GRID",
+      "input_history": "H",
+      "case_number": "M NOMdu",
+      "word": "pānthau",
+      "interpretation": "Constructed from its own derived stem and the pinned ordinary case contract."
+    },
+    {
+      "id": "HNOMpl",
+      "source": "GRID",
+      "input_history": "H",
+      "case_number": "M NOMpl",
+      "word": "pānthāḥ",
+      "interpretation": "Constructed from its own derived stem and the pinned ordinary case contract."
+    },
+    {
+      "id": "PACCsg",
+      "source": "GRID",
+      "input_history": "P",
+      "case_number": "M ACCsg",
+      "word": "pathikam",
+      "interpretation": "Constructed from its own derived stem and the pinned ordinary case contract."
+    },
+    {
+      "id": "PACCdu",
+      "source": "GRID",
+      "input_history": "P",
+      "case_number": "M ACCdu",
+      "word": "pathikau",
+      "interpretation": "Constructed from its own derived stem and the pinned ordinary case contract."
+    },
+    {
+      "id": "PACCpl",
+      "source": "GRID",
+      "input_history": "P",
+      "case_number": "M ACCpl",
+      "word": "pathikān",
+      "interpretation": "Constructed from its own derived stem and the pinned ordinary case contract."
+    },
+    {
+      "id": "PFACCsg",
+      "source": "GRID",
+      "input_history": "PF",
+      "case_number": "F ACCsg",
+      "word": "pathikīm",
+      "interpretation": "Constructed from its own derived stem and the pinned ordinary case contract."
+    },
+    {
+      "id": "PFACCdu",
+      "source": "GRID",
+      "input_history": "PF",
+      "case_number": "F ACCdu",
+      "word": "pathikyau",
+      "interpretation": "Constructed from its own derived stem and the pinned ordinary case contract."
+    },
+    {
+      "id": "PFACCpl",
+      "source": "GRID",
+      "input_history": "PF",
+      "case_number": "F ACCpl",
+      "word": "pathikīḥ",
+      "interpretation": "Constructed from its own derived stem and the pinned ordinary case contract."
+    },
+    {
+      "id": "HACCsg",
+      "source": "GRID",
+      "input_history": "H",
+      "case_number": "M ACCsg",
+      "word": "pāntham",
+      "interpretation": "Constructed from its own derived stem and the pinned ordinary case contract."
+    },
+    {
+      "id": "HACCdu",
+      "source": "GRID",
+      "input_history": "H",
+      "case_number": "M ACCdu",
+      "word": "pānthau",
+      "interpretation": "Constructed from its own derived stem and the pinned ordinary case contract."
+    },
+    {
+      "id": "HACCpl",
+      "source": "GRID",
+      "input_history": "H",
+      "case_number": "M ACCpl",
+      "word": "pānthān",
+      "interpretation": "Constructed from its own derived stem and the pinned ordinary case contract."
+    },
+    {
+      "id": "PINSsg",
+      "source": "GRID",
+      "input_history": "P",
+      "case_number": "M INSsg",
+      "word": "pathikena",
+      "interpretation": "Constructed from its own derived stem and the pinned ordinary case contract."
+    },
+    {
+      "id": "PINSdu",
+      "source": "GRID",
+      "input_history": "P",
+      "case_number": "M INSdu",
+      "word": "pathikābhyām",
+      "interpretation": "Constructed from its own derived stem and the pinned ordinary case contract."
+    },
+    {
+      "id": "PINSpl",
+      "source": "GRID",
+      "input_history": "P",
+      "case_number": "M INSpl",
+      "word": "pathikaiḥ",
+      "interpretation": "Constructed from its own derived stem and the pinned ordinary case contract."
+    },
+    {
+      "id": "PFINSsg",
+      "source": "GRID",
+      "input_history": "PF",
+      "case_number": "F INSsg",
+      "word": "pathikyā",
+      "interpretation": "Constructed from its own derived stem and the pinned ordinary case contract."
+    },
+    {
+      "id": "PFINSdu",
+      "source": "GRID",
+      "input_history": "PF",
+      "case_number": "F INSdu",
+      "word": "pathikībhyām",
+      "interpretation": "Constructed from its own derived stem and the pinned ordinary case contract."
+    },
+    {
+      "id": "PFINSpl",
+      "source": "GRID",
+      "input_history": "PF",
+      "case_number": "F INSpl",
+      "word": "pathikībhiḥ",
+      "interpretation": "Constructed from its own derived stem and the pinned ordinary case contract."
+    },
+    {
+      "id": "HINSsg",
+      "source": "HIT",
+      "input_history": "H",
+      "case_number": "M INSsg",
+      "word": "pānthena",
+      "interpretation": "Independent form in the fable, with pāntho before avadat in the nominative."
+    },
+    {
+      "id": "HINSdu",
+      "source": "GRID",
+      "input_history": "H",
+      "case_number": "M INSdu",
+      "word": "pānthābhyām",
+      "interpretation": "Constructed from its own derived stem and the pinned ordinary case contract."
+    },
+    {
+      "id": "HINSpl",
+      "source": "GRID",
+      "input_history": "H",
+      "case_number": "M INSpl",
+      "word": "pānthaiḥ",
+      "interpretation": "Constructed from its own derived stem and the pinned ordinary case contract."
+    },
+    {
+      "id": "PDATsg",
+      "source": "GRID",
+      "input_history": "P",
+      "case_number": "M DATsg",
+      "word": "pathikāya",
+      "interpretation": "Constructed from its own derived stem and the pinned ordinary case contract."
+    },
+    {
+      "id": "PDATdu",
+      "source": "GRID",
+      "input_history": "P",
+      "case_number": "M DATdu",
+      "word": "pathikābhyām",
+      "interpretation": "Constructed from its own derived stem and the pinned ordinary case contract."
+    },
+    {
+      "id": "PDATpl",
+      "source": "GRID",
+      "input_history": "P",
+      "case_number": "M DATpl",
+      "word": "pathikebhyaḥ",
+      "interpretation": "Constructed from its own derived stem and the pinned ordinary case contract."
+    },
+    {
+      "id": "PFDATsg",
+      "source": "GRID",
+      "input_history": "PF",
+      "case_number": "F DATsg",
+      "word": "pathikyai",
+      "interpretation": "Constructed from its own derived stem and the pinned ordinary case contract."
+    },
+    {
+      "id": "PFDATdu",
+      "source": "GRID",
+      "input_history": "PF",
+      "case_number": "F DATdu",
+      "word": "pathikībhyām",
+      "interpretation": "Constructed from its own derived stem and the pinned ordinary case contract."
+    },
+    {
+      "id": "PFDATpl",
+      "source": "GRID",
+      "input_history": "PF",
+      "case_number": "F DATpl",
+      "word": "pathikībhyaḥ",
+      "interpretation": "Constructed from its own derived stem and the pinned ordinary case contract."
+    },
+    {
+      "id": "HDATsg",
+      "source": "GRID",
+      "input_history": "H",
+      "case_number": "M DATsg",
+      "word": "pānthāya",
+      "interpretation": "Constructed from its own derived stem and the pinned ordinary case contract."
+    },
+    {
+      "id": "HDATdu",
+      "source": "GRID",
+      "input_history": "H",
+      "case_number": "M DATdu",
+      "word": "pānthābhyām",
+      "interpretation": "Constructed from its own derived stem and the pinned ordinary case contract."
+    },
+    {
+      "id": "HDATpl",
+      "source": "GRID",
+      "input_history": "H",
+      "case_number": "M DATpl",
+      "word": "pānthebhyaḥ",
+      "interpretation": "Constructed from its own derived stem and the pinned ordinary case contract."
+    },
+    {
+      "id": "PABLsg",
+      "source": "GRID",
+      "input_history": "P",
+      "case_number": "M ABLsg",
+      "word": "pathikāt / pathikād",
+      "interpretation": "Constructed from its own derived stem and the pinned ordinary case contract."
+    },
+    {
+      "id": "PABLdu",
+      "source": "GRID",
+      "input_history": "P",
+      "case_number": "M ABLdu",
+      "word": "pathikābhyām",
+      "interpretation": "Constructed from its own derived stem and the pinned ordinary case contract."
+    },
+    {
+      "id": "PABLpl",
+      "source": "GRID",
+      "input_history": "P",
+      "case_number": "M ABLpl",
+      "word": "pathikebhyaḥ",
+      "interpretation": "Constructed from its own derived stem and the pinned ordinary case contract."
+    },
+    {
+      "id": "PFABLsg",
+      "source": "GRID",
+      "input_history": "PF",
+      "case_number": "F ABLsg",
+      "word": "pathikyāḥ",
+      "interpretation": "Constructed from its own derived stem and the pinned ordinary case contract."
+    },
+    {
+      "id": "PFABLdu",
+      "source": "GRID",
+      "input_history": "PF",
+      "case_number": "F ABLdu",
+      "word": "pathikībhyām",
+      "interpretation": "Constructed from its own derived stem and the pinned ordinary case contract."
+    },
+    {
+      "id": "PFABLpl",
+      "source": "GRID",
+      "input_history": "PF",
+      "case_number": "F ABLpl",
+      "word": "pathikībhyaḥ",
+      "interpretation": "Constructed from its own derived stem and the pinned ordinary case contract."
+    },
+    {
+      "id": "HABLsg",
+      "source": "GRID",
+      "input_history": "H",
+      "case_number": "M ABLsg",
+      "word": "pānthāt / pānthād",
+      "interpretation": "Constructed from its own derived stem and the pinned ordinary case contract."
+    },
+    {
+      "id": "HABLdu",
+      "source": "GRID",
+      "input_history": "H",
+      "case_number": "M ABLdu",
+      "word": "pānthābhyām",
+      "interpretation": "Constructed from its own derived stem and the pinned ordinary case contract."
+    },
+    {
+      "id": "HABLpl",
+      "source": "GRID",
+      "input_history": "H",
+      "case_number": "M ABLpl",
+      "word": "pānthebhyaḥ",
+      "interpretation": "Constructed from its own derived stem and the pinned ordinary case contract."
+    },
+    {
+      "id": "PGENsg",
+      "source": "GRID",
+      "input_history": "P",
+      "case_number": "M GENsg",
+      "word": "pathikasya",
+      "interpretation": "Constructed from its own derived stem and the pinned ordinary case contract."
+    },
+    {
+      "id": "PGENdu",
+      "source": "GRID",
+      "input_history": "P",
+      "case_number": "M GENdu",
+      "word": "pathikayoḥ",
+      "interpretation": "Constructed from its own derived stem and the pinned ordinary case contract."
+    },
+    {
+      "id": "PGENpl",
+      "source": "GRID",
+      "input_history": "P",
+      "case_number": "M GENpl",
+      "word": "pathikānām",
+      "interpretation": "Constructed from its own derived stem and the pinned ordinary case contract."
+    },
+    {
+      "id": "PFGENsg",
+      "source": "GRID",
+      "input_history": "PF",
+      "case_number": "F GENsg",
+      "word": "pathikyāḥ",
+      "interpretation": "Constructed from its own derived stem and the pinned ordinary case contract."
+    },
+    {
+      "id": "PFGENdu",
+      "source": "GRID",
+      "input_history": "PF",
+      "case_number": "F GENdu",
+      "word": "pathikyoḥ",
+      "interpretation": "Constructed from its own derived stem and the pinned ordinary case contract."
+    },
+    {
+      "id": "PFGENpl",
+      "source": "GRID",
+      "input_history": "PF",
+      "case_number": "F GENpl",
+      "word": "pathikīnām",
+      "interpretation": "Constructed from its own derived stem and the pinned ordinary case contract."
+    },
+    {
+      "id": "HGENsg",
+      "source": "GRID",
+      "input_history": "H",
+      "case_number": "M GENsg",
+      "word": "pānthasya",
+      "interpretation": "Constructed from its own derived stem and the pinned ordinary case contract."
+    },
+    {
+      "id": "HGENdu",
+      "source": "GRID",
+      "input_history": "H",
+      "case_number": "M GENdu",
+      "word": "pānthayoḥ",
+      "interpretation": "Constructed from its own derived stem and the pinned ordinary case contract."
+    },
+    {
+      "id": "HGENpl",
+      "source": "GRID",
+      "input_history": "H",
+      "case_number": "M GENpl",
+      "word": "pānthānām",
+      "interpretation": "Constructed from its own derived stem and the pinned ordinary case contract."
+    },
+    {
+      "id": "PLOCsg",
+      "source": "GRID",
+      "input_history": "P",
+      "case_number": "M LOCsg",
+      "word": "pathike",
+      "interpretation": "Constructed from its own derived stem and the pinned ordinary case contract."
+    },
+    {
+      "id": "PLOCdu",
+      "source": "GRID",
+      "input_history": "P",
+      "case_number": "M LOCdu",
+      "word": "pathikayoḥ",
+      "interpretation": "Constructed from its own derived stem and the pinned ordinary case contract."
+    },
+    {
+      "id": "PLOCpl",
+      "source": "GRID",
+      "input_history": "P",
+      "case_number": "M LOCpl",
+      "word": "pathikeṣu",
+      "interpretation": "Constructed from its own derived stem and the pinned ordinary case contract."
+    },
+    {
+      "id": "PFLOCsg",
+      "source": "GRID",
+      "input_history": "PF",
+      "case_number": "F LOCsg",
+      "word": "pathikyām",
+      "interpretation": "Constructed from its own derived stem and the pinned ordinary case contract."
+    },
+    {
+      "id": "PFLOCdu",
+      "source": "GRID",
+      "input_history": "PF",
+      "case_number": "F LOCdu",
+      "word": "pathikyoḥ",
+      "interpretation": "Constructed from its own derived stem and the pinned ordinary case contract."
+    },
+    {
+      "id": "PFLOCpl",
+      "source": "GRID",
+      "input_history": "PF",
+      "case_number": "F LOCpl",
+      "word": "pathikīṣu",
+      "interpretation": "Constructed from its own derived stem and the pinned ordinary case contract."
+    },
+    {
+      "id": "HLOCsg",
+      "source": "GRID",
+      "input_history": "H",
+      "case_number": "M LOCsg",
+      "word": "pānthe",
+      "interpretation": "Constructed from its own derived stem and the pinned ordinary case contract."
+    },
+    {
+      "id": "HLOCdu",
+      "source": "GRID",
+      "input_history": "H",
+      "case_number": "M LOCdu",
+      "word": "pānthayoḥ",
+      "interpretation": "Constructed from its own derived stem and the pinned ordinary case contract."
+    },
+    {
+      "id": "HLOCpl",
+      "source": "GRID",
+      "input_history": "H",
+      "case_number": "M LOCpl",
+      "word": "pāntheṣu",
+      "interpretation": "Constructed from its own derived stem and the pinned ordinary case contract."
+    },
+    {
+      "id": "PVOCsg",
+      "source": "GRID",
+      "input_history": "P",
+      "case_number": "M VOCsg",
+      "word": "pathika",
+      "interpretation": "Constructed from its own derived stem and the pinned ordinary case contract."
+    },
+    {
+      "id": "PVOCdu",
+      "source": "GRID",
+      "input_history": "P",
+      "case_number": "M VOCdu",
+      "word": "pathikau",
+      "interpretation": "Constructed from its own derived stem and the pinned ordinary case contract."
+    },
+    {
+      "id": "PVOCpl",
+      "source": "GRID",
+      "input_history": "P",
+      "case_number": "M VOCpl",
+      "word": "pathikāḥ",
+      "interpretation": "Constructed from its own derived stem and the pinned ordinary case contract."
+    },
+    {
+      "id": "PFVOCsg",
+      "source": "GRID",
+      "input_history": "PF",
+      "case_number": "F VOCsg",
+      "word": "pathiki",
+      "interpretation": "Constructed from its own derived stem and the pinned ordinary case contract."
+    },
+    {
+      "id": "PFVOCdu",
+      "source": "GRID",
+      "input_history": "PF",
+      "case_number": "F VOCdu",
+      "word": "pathikyau",
+      "interpretation": "Constructed from its own derived stem and the pinned ordinary case contract."
+    },
+    {
+      "id": "PFVOCpl",
+      "source": "GRID",
+      "input_history": "PF",
+      "case_number": "F VOCpl",
+      "word": "pathikyaḥ",
+      "interpretation": "Constructed from its own derived stem and the pinned ordinary case contract."
+    },
+    {
+      "id": "HVOCsg",
+      "source": "HIT",
+      "input_history": "H",
+      "case_number": "M VOCsg",
+      "word": "pāntha",
+      "interpretation": "Independent form in the fable, with pāntho before avadat in the nominative."
+    },
+    {
+      "id": "HVOCdu",
+      "source": "GRID",
+      "input_history": "H",
+      "case_number": "M VOCdu",
+      "word": "pānthau",
+      "interpretation": "Constructed from its own derived stem and the pinned ordinary case contract."
+    },
+    {
+      "id": "HVOCpl",
+      "source": "GRID",
+      "input_history": "H",
+      "case_number": "M VOCpl",
+      "word": "pānthāḥ",
+      "interpretation": "Constructed from its own derived stem and the pinned ordinary case contract."
+    },
+    {
+      "id": "REC",
+      "source": "K72",
+      "input_history": "REC",
+      "case_number": "M NOMsg",
+      "word": "pārāyaṇikaḥ",
+      "interpretation": "The student performing a recitation."
+    },
+    {
+      "id": "RIT",
+      "source": "K72",
+      "input_history": "RIT",
+      "case_number": "M NOMsg",
+      "word": "taurāyaṇikaḥ",
+      "interpretation": "The sacrificer carrying out the Turāyaṇa."
+    },
+    {
+      "id": "VOW",
+      "source": "K72",
+      "input_history": "VOW",
+      "case_number": "M NOMsg",
+      "word": "cāndrāyaṇikaḥ",
+      "interpretation": "The ascetic carrying out the named observance."
+    },
+    {
+      "id": "DOUBT",
+      "source": "K73",
+      "input_history": "D",
+      "case_number": "M NOMsg",
+      "word": "sāṃśayikaḥ",
+      "interpretation": "The post about which a doubt has arisen."
+    },
+    {
+      "id": "DIST",
+      "source": "K74",
+      "input_history": "Y",
+      "case_number": "M NOMsg",
+      "word": "yaujanikaḥ",
+      "interpretation": "One who goes a yojana."
+    },
+    {
+      "id": "K100",
+      "source": "K74",
+      "input_history": "K100",
+      "case_number": "M NOMsg",
+      "word": "krauśaśatikaḥ",
+      "interpretation": "Hundred krośas as distance traversed."
+    },
+    {
+      "id": "Y100",
+      "source": "K74",
+      "input_history": "Y100",
+      "case_number": "M NOMsg",
+      "word": "yaujanaśatikaḥ",
+      "interpretation": "Hundred yojanas as distance traversed."
+    },
+    {
+      "id": "KFROM",
+      "source": "S74",
+      "input_history": "KFROM",
+      "case_number": "M NOMsg",
+      "word": "krauśaśatikaḥ",
+      "interpretation": "Mendicant worth approaching from the specified distance."
+    },
+    {
+      "id": "YFROM",
+      "source": "S74",
+      "input_history": "YFROM",
+      "case_number": "M NOMsg",
+      "word": "yaujanaśatikaḥ",
+      "interpretation": "Teacher worth approaching from the specified distance."
+    },
+    {
+      "id": "NGO",
+      "source": "K77",
+      "input_history": "NGO",
+      "case_number": "M NOMsg",
+      "word": "auttarapathikaḥ",
+      "interpretation": "Traveller going by the specified route."
+    },
+    {
+      "id": "NCARRY",
+      "source": "K77",
+      "input_history": "NCARRY",
+      "case_number": "N NOMsg",
+      "word": "auttarapathikam",
+      "interpretation": "Item brought by the specified route."
+    },
+    {
+      "id": "WGO",
+      "source": "K77",
+      "input_history": "WGO",
+      "case_number": "M NOMsg",
+      "word": "vāripathikaḥ",
+      "interpretation": "Traveller going by the specified route."
+    },
+    {
+      "id": "WCARRY",
+      "source": "K77",
+      "input_history": "WCARRY",
+      "case_number": "N NOMsg",
+      "word": "vāripathikam",
+      "interpretation": "Item brought by the specified route."
+    },
+    {
+      "id": "JGO",
+      "source": "K77",
+      "input_history": "JGO",
+      "case_number": "M NOMsg",
+      "word": "jāṅgalapathikaḥ",
+      "interpretation": "Traveller going by the specified route."
+    },
+    {
+      "id": "JCARRY",
+      "source": "K77",
+      "input_history": "JCARRY",
+      "case_number": "N NOMsg",
+      "word": "jāṅgalapathikam",
+      "interpretation": "Item brought by the specified route."
+    },
+    {
+      "id": "SGO",
+      "source": "K77",
+      "input_history": "SGO",
+      "case_number": "M NOMsg",
+      "word": "sthālapathikaḥ",
+      "interpretation": "Traveller going by the specified route."
+    },
+    {
+      "id": "SCARRY",
+      "source": "K77",
+      "input_history": "SCARRY",
+      "case_number": "N NOMsg",
+      "word": "sthālapathikam",
+      "interpretation": "Item brought by the specified route."
+    },
+    {
+      "id": "KGO",
+      "source": "K77",
+      "input_history": "KGO",
+      "case_number": "M NOMsg",
+      "word": "kāntārapathikaḥ",
+      "interpretation": "Traveller going by the specified route."
+    },
+    {
+      "id": "KCARRY",
+      "source": "K77",
+      "input_history": "KCARRY",
+      "case_number": "N NOMsg",
+      "word": "kāntārapathikam",
+      "interpretation": "Item brought by the specified route."
+    },
+    {
+      "id": "AGO",
+      "source": "K77",
+      "input_history": "AGO",
+      "case_number": "M NOMsg",
+      "word": "ājapathikaḥ",
+      "interpretation": "Traveller going by the specified route."
+    },
+    {
+      "id": "ACARRY",
+      "source": "K77",
+      "input_history": "ACARRY",
+      "case_number": "N NOMsg",
+      "word": "ājapathikam",
+      "interpretation": "Item brought by the specified route."
+    },
+    {
+      "id": "SHGO",
+      "source": "K77",
+      "input_history": "SHGO",
+      "case_number": "M NOMsg",
+      "word": "śāṅkupathikaḥ",
+      "interpretation": "Traveller going by the specified route."
+    },
+    {
+      "id": "SHCARRY",
+      "source": "K77",
+      "input_history": "SHCARRY",
+      "case_number": "N NOMsg",
+      "word": "śāṅkupathikam",
+      "interpretation": "Item brought by the specified route."
+    },
+    {
+      "id": "LAND",
+      "source": "K77",
+      "input_history": "LAND",
+      "case_number": "N NOMsg",
+      "word": "sthālapatham",
+      "interpretation": "Qualifies either of the two named commodities; a shared land-route derivative, counted once."
+    }
+  ],
+  "source_policy_decisions": [
+    {
+      "id": "DISTINCT",
+      "sources": "K72,K73,K74,S74",
+      "decision": "The case of the support, distance measured and distance from which approach is worthwhile remain separately typed."
+    },
+    {
+      "id": "MARK",
+      "sources": "K75,K76,GRID",
+      "decision": "Ordinary and habitual travel have different base and affix histories. The ṣ marker conditions the feminine in the first."
+    },
+    {
+      "id": "TEXT",
+      "sources": "HIT,K76",
+      "decision": "One character in the story receives both names. This is a lexical witness, not an independent claim about habitual travel. Opening vocative plural spelling is uncredited."
+    },
+    {
+      "id": "VOICE",
+      "sources": "HIT,MALL",
+      "decision": "Keep the verse compound separate from Mallinātha's free plural; treat the opening narrative and subsequent direct address as distinct attestation environments."
+    },
+    {
+      "id": "ROUTE",
+      "sources": "K74,S74,K77",
+      "decision": "The two predicates at 77 take instrumental route support, including going. The special commodity rule names the land route and aṇ only."
+    },
+    {
+      "id": "COUNT",
+      "sources": "GRID,HIT,MALL,K75",
+      "decision": "An independent citation annotates its existing constructed case address. Repeated citations have no second word credit."
+    }
+  ]
+}

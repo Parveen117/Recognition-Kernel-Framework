@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG757
+# Pāṇini grammar · current written coverage at PG758
+
+PG758 · [Three traveller paradigms and the route by which something comes](traveller_cases_and_two_directional_path_relations/README.md). Constructs the 5.1.72–77 recitation, distance and route cases, with three complete traveller paradigms and independent Hitopadeśa and Meghadūta-commentary witnesses. Census: 52,345 finite positions, 20,732 nominal positions and 23,425 nominal readings.
 
 PG757 · [Deserving, sacrificial fitness and priestly work](deserving_marker_histories_and_ritual_fitness/README.md). Builds the 5.1.63–71 case evidence, including Sāyaṇa’s named gha, Jayamaṅgalā’s interpretation of Bhaṭṭi 2.29 and the Sanskrit chāyā in Mālavikāgnimitra V. Census: 52,345 finite positions, 20,636 nominal positions and 23,327 nominal readings.
 
