@@ -2,6 +2,16 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG730 · Assigned dishes, ṭiṭhan and appointed offices
+
+PG730 · [Assigned dishes, ṭiṭhan and appointed offices](assigned_dishes_title_affix_and_appointed_locus/README.md). Separates the whole-dish and independently allocated ingredient policies, the two bhakta affixes and appointment at a location. Vasu’s print confirms bhāktika and gaulmika where digital displays disagree. Census 52,341 finite positions and 15,109 nominal positions with 17,232 nominal readings.
+
+Finite increments 0 positions/0 readings. Nominal increments 528 positions/588 readings. One morphology construction/24 interfaces, one compound construction/4 plans, one syntax construction/9 readouts, one semantic construction/6 readouts, one junction construction/6 readouts and one accent construction/4 records. 18 source observations and 14 source-policy decisions. Publication parent 4f49bf63473d70917be71c3a3df039f4cdcf5090. The containing commit pins the documents and evidence.
+
+PG521–730 cumulative: 522 finite positions/1,440 net finite readings, 9,331 nominal positions/10,489 readings, 304 morphology constructions/3,255 interfaces, 138 compound constructions/635 plans, 36 accent constructions/149 records, 162 semantics constructions/509 records, 151 syntax constructions/593 records, 329 source-policy decisions after PG555−1 and 711 observations. Thirty-four junction constructions/119 readouts since PG680 and 22 nonfinite constructions/28 paths since PG700. PG335 and PG357–363 CLOSED results are preserved.
+
+The selected 4.4.67–69 allocations and appointments have masculine and feminine case fibres and direct 1896 print collation. The exact historical root assignment of śrāṇā, the wider lexical sources of short bhaktika and digital gaulūmika, and independent citation tones remain Open. The 4.4.70–72 appointed-building, prohibited-study and trading frames require construction. Wider C2–C5/S1–S7 and Claude execution retain their obligations.
+
 ## PG729 · Recitation errors, food suitability and assigned portions
 
 PG729 · [Recitation errors, food suitability and assigned portions](recitation_error_suffixes_food_benefit_and_allocation/README.md). The study-error forms distinguish ṭhak, ṭhac and the pre-boundary numeral count. The beneficial-food and assignment queries preserve separate recipient relations, including the two ways that 4.4.65 reaches the dative. Census 52,341 finite positions and 14,581 nominal positions with 16,644 nominal readings.

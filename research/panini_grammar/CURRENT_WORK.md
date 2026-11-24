@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG729
+# Pāṇini grammar · current written coverage at PG730
+
+PG730 · [Assigned dishes, ṭiṭhan and appointed offices](assigned_dishes_title_affix_and_appointed_locus/README.md). Separates the whole-dish and independently allocated ingredient policies, the two bhakta affixes and appointment at a location. Vasu’s print confirms bhāktika and gaulmika where digital displays disagree. Census 52,341 finite positions and 15,109 nominal positions with 17,232 nominal readings.
 
 PG729 · [Recitation errors, food suitability and assigned portions](recitation_error_suffixes_food_benefit_and_allocation/README.md). The study-error forms distinguish ṭhak, ṭhac and the pre-boundary numeral count. The beneficial-food and assignment queries preserve separate recipient relations, including the two ways that 4.4.65 reaches the dative. Census 52,341 finite positions and 14,581 nominal positions with 16,644 nominal readings.
 

@@ -1,6 +1,8 @@
-# Written-development backlog at PG729
+# Written-development backlog at PG730
 
-Monty · 2026-11-24 · reviewed current parent d3531e30949f5a9b42a444887eb7a7120701cca6. Historical closures below retain their exact pins.
+Monty · 2026-11-24 · reviewed current parent 4f49bf63473d70917be71c3a3df039f4cdcf5090. Historical closures below retain their exact pins.
+
+PG730 · [Assigned dishes, ṭiṭhan and appointed offices](assigned_dishes_title_affix_and_appointed_locus/README.md). The selected 4.4.67–69 allocations and appointments have masculine and feminine case fibres and direct 1896 print collation. The exact historical root assignment of śrāṇā, the wider lexical sources of short bhaktika and digital gaulūmika, and independent citation tones remain Open. The 4.4.70–72 appointed-building, prohibited-study and trading frames require construction. Wider C2–C5/S1–S7 and Claude execution retain their obligations.
 
 PG729 · [Recitation errors, food suitability and assigned portions](recitation_error_suffixes_food_benefit_and_allocation/README.md). The 16 named 4.4.63–66 case fibres, qualified numeral/compound operations and two dative policies are locally CLOSED. The exact print transmission of Vasu’s exceptional cross-reference and Bhāṣāvṛtti’s apparent ekarūpa shape, the independent referent of its prathamakalpa example and the wider female, tone and numeral uses remain Open. The 4.4.67–69 allocated food and appointment forms require separate construction. Wider C2–C5/S1–S7 and Claude execution retain their obligations.
 

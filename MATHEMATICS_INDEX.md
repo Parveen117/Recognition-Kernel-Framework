@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG730 · [Assigned dishes, ṭiṭhan and appointed offices](research/panini_grammar/assigned_dishes_title_affix_and_appointed_locus/README.md). The full PG14 cut-path history algebra transports disjoint recipient, ingredient and locative appointment requests. The local case and quote readouts preserve marker ownership even when the segmental word agrees.
+
 PG729 · [Recitation errors, food suitability and assigned portions](research/panini_grammar/recitation_error_suffixes_food_benefit_and_allocation/README.md). Ten compound plans, two separate accent owners and typed recipient ports within the full PG14 history algebra. The source variants of the study and food rules specialize to their own classical coordinates.
 
 PG728 · [The printed chattrādi rosters and prefixed sthā](research/panini_grammar/chattradi_print_rosters_and_prefixed_stha_nominals/README.md). The exact lexical and prefix cuts precede aṅ, ṭāp, vṛddhi and ṇa. The ordinary case and gender coordinates are then lifted through the full PG14 operator and history carrier.
