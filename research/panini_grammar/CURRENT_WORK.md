@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG713
+# Pāṇini grammar · current written coverage at PG714
+
+PG714 · [Instrument and manner under vartate](vartate_instrument_manner_and_pari_taddhita/README.md). Eleven ordinary masculine paradigms follow the exact instrumental or manner relation, including the distinct pari histories and two Manu case witnesses. PG698's condiment words keep their earlier credits. Census 52,336 finite positions and 9,656 nominal positions with 11,256 nominal readings.
 
 PG713 · [Two Uṇādi prints and the ḍit derivation of naṭa](unadi_4104_contiguous_text_and_nata_dit_ata/README.md). The 1844 and 1859 prints give distinct extension boundaries. The 1859 affix roster separates ḍaṭa and short aṭac. Its ḍit operation derives naṭa on the precedence source, yielding 24 new masculine positions and readings. The direct count for the four unresolved primary extension fields remains 99/103. Census 52,336 finite positions and 9,392 nominal positions with 10,992 nominal readings.
 

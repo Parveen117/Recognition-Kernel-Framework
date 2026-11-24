@@ -1,0 +1,60 @@
+{
+  "schema": "rkf.panini.pg714.state.v1",
+  "author": "Monty",
+  "date": "2026-11-24",
+  "publication_parent": "c75e5a8674490e531fee49578bb84ceb27a63501",
+  "baseline": {
+    "commit": "c75e5a8674490e531fee49578bb84ceb27a63501",
+    "path": "research/panini_grammar/unadi_4104_contiguous_text_and_nata_dit_ata/STATE.json"
+  },
+  "finite_positions": 52336,
+  "nominal_positions": 9656,
+  "nominal_readings": 11256,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 264,
+  "new_nominal_readings": 264,
+  "new_positions": 264,
+  "new_position_readings": 264,
+  "new_compound_constructions": 1,
+  "new_compound_plans": 6,
+  "inherited_compound_plans": 3,
+  "new_morphology_constructions": 1,
+  "new_morphology_interfaces": 12,
+  "new_nonfinite_constructions": 0,
+  "new_nonfinite_readouts": 0,
+  "new_accent_constructions": 0,
+  "new_accent_readouts": 0,
+  "new_syntactic_constructions": 1,
+  "new_syntactic_readouts": 14,
+  "new_phonological_constructions": 0,
+  "new_phonological_readouts": 0,
+  "new_source_observations": 11,
+  "new_source_policy_decisions": 8,
+  "local_closure": [
+    "Eleven selected masculine case fibres for 4.4.27–29",
+    "Kāśikā instrumental/manner contrast, compound ownership and the two Manu case witnesses"
+  ],
+  "open_obligations": [
+    "Further nominal genders and the matching source-dependent accents. Independent occurrences for the ten other lexical heads and the water-bearing cloud branch need their own evidence.",
+    "The exact manuscript editions behind the shifted rule numbers and the earliest 4.4.29 ca extension. The full competing Śabdenduśekhara adverb case rationale and its applicability to tat need direct source collation.",
+    "Exact Hema marker/accent and Benfey's inner sāhasa-to-ika licensing remain independent obligations. Tattva's reported two paripārśva senses retain their edition-specific details Open.",
+    "Separate 4.4.30–31 censured-giving and loan senses. Wider C2–C5/S1–S7 remain Open. Generators, grammar execution, older suites and replay remain with Claude."
+  ],
+  "authorization": {
+    "completion_status": "OPEN wider gates",
+    "PG335": "-9 finite/-12 readings preserved",
+    "PG357_PG363": "CLOSED preserved",
+    "continuous_executed_hours_claimed": false
+  },
+  "runtime_policy": {
+    "python": "3.12 only",
+    "document_check_status": "PASS",
+    "document_check_attempts": 1,
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "old_suites": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE"
+  },
+  "grammar_executions": []
+}

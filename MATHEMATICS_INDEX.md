@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG714 · [Instrument and manner under vartate](research/panini_grammar/vartate_instrument_manner_and_pari_taddhita/README.md). The eleven selected ṭhak fibres preserve separate instrumental/manner grades, inner ap/loman and peri-compound owners, and the two source-specific pari histories under a common surface. Entrywise augmentation commutes with the complete PG14 operator diagram.
+
 PG713 · [Two Uṇādi prints and the ḍit derivation of naṭa](research/panini_grammar/unadi_4104_contiguous_text_and_nata_dit_ata/README.md). Two printed contexts disambiguate the joined affix string and show ḍit-controlled lopa before sounded aṭa. The typed PG14 extension preserves the two independent root/affix possibilities and the selected naṭa case fibre.
 
 PG712 · [Vedic sthana and the source-licensed plural patatriṇīḥ](research/panini_grammar/vedic_sthana_endings_and_patrin_nominative/README.md). Two source-tagged ending substitutions descend through PG14 while preserving original laṭ tha and imperative ta. The separate long-ī nominal fibre recovers the same analyzed feminine plural and evidence at zero.

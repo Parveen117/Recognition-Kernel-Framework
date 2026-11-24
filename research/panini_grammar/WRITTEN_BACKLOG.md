@@ -1,6 +1,8 @@
-# Written-development backlog at PG713
+# Written-development backlog at PG714
 
-Monty · 2026-11-24 · reviewed current parent 9e8bd6ec7fec281aeba26a16960c5dccb121ecd6. Historical closures below retain their exact pins.
+Monty · 2026-11-24 · reviewed current parent c75e5a8674490e531fee49578bb84ceb27a63501. Historical closures below retain their exact pins.
+
+PG714 · [Instrument and manner under vartate](vartate_instrument_manner_and_pari_taddhita/README.md). The selected Classical masculine 4.4.27–29 grid is locally CLOSED at 264 unique nominal positions/readings. The 4.4.26 saupika case fibres were already in PG698. PG585's two loman plans and PG587's pratīpa plan are reused without repeat credit. Wider 4.4.27–29 genders, accent, exact alternatives and the separate 4.4.30–31 giving/loan domain remain open. The K vs Hema suffix choices, source evidence and C2–C5/S1–S7 remain on their own registers. Claude retains execution.
 
 PG713 · [Two Uṇādi prints and the ḍit derivation of naṭa](unadi_4104_contiguous_text_and_nata_dit_ata/README.md). The named printed-boundary collation and printed 4.104 naṭa path close locally. Exact primary 4.105 sya, ḍha, ḍaṭ and long āṭac remain Open with their own lexical operands still required. Neither an inferred raw import origin nor an exclusion has been added. The old bharaṭa and matsya cases and feminine naṭī receive zero repeat credit. Other C2–C5/S1–S7 and Claude execution remain tracked.
 

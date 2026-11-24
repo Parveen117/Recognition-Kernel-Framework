@@ -2,6 +2,16 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG714 · Instrument and manner under vartate
+
+PG714 · [Instrument and manner under vartate](vartate_instrument_manner_and_pari_taddhita/README.md). Eleven ordinary masculine paradigms follow the exact instrumental or manner relation, including the distinct pari histories and two Manu case witnesses. PG698's condiment words keep their earlier credits. Census 52,336 finite positions and 9,656 nominal positions with 11,256 nominal readings.
+
+0 new nonfinite constructions/0 retained paths. Accent 0/0, syntax 1/14, phonological junction 0/0 constructions/readouts. 11 source observations and 8 source-policy decisions. One morphology construction/12 interfaces. One compound construction/six new plans with three inherited plans. Finite increments 0 positions and 0 readings. Nominal increments 264 positions and 264 readings. The publication parent is c75e5a8674490e531fee49578bb84ceb27a63501. The containing commit pins the documents and evidence.
+
+PG521–714 cumulative: 517 finite positions/1,435 net finite readings, 3,878 nominal positions/4,513 readings, 288 morphology constructions/2,966 interfaces, 129 compound constructions/599 plans, 28 accent constructions/111 records, 153 semantics constructions/454 records, 137 syntax constructions/459 records, 152 source-policy decisions after PG555−1 and 477 observations. Twenty junction constructions/57 readouts since PG680 and 20 nonfinite constructions/26 paths since PG700. Four provenance corrections and one proof addendum. PG335 and PG357–363 CLOSED results are preserved.
+
+The selected Classical masculine 4.4.27–29 grid is locally CLOSED at 264 unique nominal positions/readings. The 4.4.26 saupika case fibres were already in PG698. PG585's two loman plans and PG587's pratīpa plan are reused without repeat credit. Wider 4.4.27–29 genders, accent, exact alternatives and the separate 4.4.30–31 giving/loan domain remain open. The K vs Hema suffix choices, source evidence and C2–C5/S1–S7 remain on their own registers. Claude retains execution.
+
 ## PG713 · Two Uṇādi prints and the ḍit derivation of naṭa
 
 PG713 · [Two Uṇādi prints and the ḍit derivation of naṭa](unadi_4104_contiguous_text_and_nata_dit_ata/README.md). The 1844 and 1859 prints give distinct extension boundaries. The 1859 affix roster separates ḍaṭa and short aṭac. Its ḍit operation derives naṭa on the precedence source, yielding 24 new masculine positions and readings. The direct count for the four unresolved primary extension fields remains 99/103. Census 52,336 finite positions and 9,392 nominal positions with 10,992 nominal readings.
