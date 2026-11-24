@@ -1,0 +1,152 @@
+{
+  "publication_parent": "500b4e98f4b6f0442065eedad9832b3e7c5683dd",
+  "date": "2026-11-24",
+  "project_dependencies": [
+    {
+      "commit": "500b4e98f4b6f0442065eedad9832b3e7c5683dd",
+      "path": "research/panini_grammar/vedic_let_vyath_jus_owned_sip_and_hi_accent/STATE.json",
+      "git_blob_sha": "b0266a83f355f3461bc6020795e9a08ff572a874",
+      "bytes": 2210,
+      "sha256": "be6c1f810085d07468bc4da23870dd85823607195eca132ca3039cff6ae03d06",
+      "use": "Previous absolute census"
+    },
+    {
+      "commit": "500b4e98f4b6f0442065eedad9832b3e7c5683dd",
+      "path": "research/panini_grammar/vedic_let_vyath_jus_owned_sip_and_hi_accent/RELATION.json",
+      "git_blob_sha": "198510b6b068b836727bf81d3c00bc67606d5882",
+      "bytes": 4931,
+      "sha256": "68ae89cf8f2292961658adf032dd95704bc7931caf0008f29ffeb3b5dbb06900",
+      "use": "Prior leṭ, iṭ, siP and ending-lopa interface"
+    },
+    {
+      "commit": "d3017a4fd0ae6ae3d453437aeb89d48826576057",
+      "path": "research/panini_grammar/vedic_nipatana_kai_isyai_ke_and_yajurveda_parallel/RELATION.json",
+      "git_blob_sha": "494e877a9516748ae5c8db440845e808c09e6733",
+      "bytes": 7064,
+      "sha256": "f2c50c1eae766dcd26d19a34c710a25758f5e7012b4e90cfcfc5f7dd83d3ef5d",
+      "use": "Source separation of Vedic word and clause"
+    },
+    {
+      "commit": "eb5f0772cf473d61f5dc1e6a1848a3b30f792a8f",
+      "path": "research/panini_grammar/unadi_fourth_pada_readings/RELATION.json",
+      "git_blob_sha": "c2cd931f6bbac469424f7531a0e648345ba7e21f",
+      "bytes": 163497,
+      "sha256": "48a833d7cbf3a359f19d1857fd5b5d2b66b17c7cbe58ebec770f2a988e34c818",
+      "use": "PG179 nominal padāti at 4.131, a separate lexical category"
+    },
+    {
+      "commit": "b05e46bf78f165e17c4766d6d1179a1699a72fcf",
+      "path": "research/panini_grammar/grammar_construction/NATIVE_OPERATOR_LIFT.md",
+      "git_blob_sha": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+      "bytes": 11855,
+      "sha256": "f52e7f5cf539ef56859b890669ef738848491e4005e73be75baa49c899b5dafd",
+      "use": "PG14 native pairing, ordered lift and exact specialization"
+    },
+    {
+      "commit": "ada439f6ba3109d798b41c216fe7cedc79e60afb",
+      "path": "research/panini_grammar/SUTRAPATHA.tsv",
+      "git_blob_sha": "1840f3b5349b21112ac05a7efaa59705fd4efee0",
+      "bytes": 270179,
+      "sha256": "70dfdfe6ba433b6e211f0f01b078c1b6d13a1ad0938e06fd5789298a04583634",
+      "use": "Pinned 3.1.34, 3.4.94, 6.1.101 and 7.2.115"
+    }
+  ],
+  "web_evidence": [
+    {
+      "id": "M",
+      "url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/html/sa_pataJjali-vyAkaraNamahAbhASya.htm",
+      "locator": "3.1.34, Kielhorn II.44.9 in span II.43.20–44.9, events 26–29",
+      "use": "Explicit Vārttika ṇ-it and quoted pra ṇaḥ āyūṃṣi tāriṣat"
+    },
+    {
+      "id": "MN",
+      "url": "https://nagoya.repo.nii.ac.jp/record/22087/files/SAMBHASA-28-2.pdf",
+      "locator": "Notes on Mahābhāṣya 3.1.34, Kielhorn 2.44.9 entries, lines 821–826",
+      "use": "Explicit interpretation via 7.2.115"
+    },
+    {
+      "id": "KN",
+      "url": "https://sanskritdocuments.org/~sanskrit/learning_tools/ashtadhyayi/vyakhya/3/3.1.34.htm",
+      "locator": "Kāśikā and Nyāsa 3.1.34 lines 14–19",
+      "use": "Ordinary guṇa followed by Vedic length and attested no-siP control"
+    },
+    {
+      "id": "PM",
+      "url": "https://www.ashtadhyayi.com/sutraani/3/1/34?expand=sutra-commentary-bhashya-region&focus=sutra-commentary-bhashya-region",
+      "locator": "Padamañjarī 3.1.34, explicit tṛ grade and patḷ analysis",
+      "use": "Alternative vṛddhi/length and long tiP augment with conjugational field"
+    },
+    {
+      "id": "N94",
+      "url": "https://sanskritdocuments.org/~sanskrit/learning_tools/ashtadhyayi/vyakhya/3/3.4.94.htm",
+      "locator": "Nyāsa 3.4.94 line 19",
+      "use": "Distinct pad gatau and short aṭ, with optional retained i"
+    },
+    {
+      "id": "TG",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/3/3.4.7.htm",
+      "locator": "Kāśikā 3.4.7 lines 12–14",
+      "use": "Vedic liṅarthaka leṭ admits both selected heads"
+    },
+    {
+      "id": "V",
+      "url": "https://vmlt.in/rigveda/01/025",
+      "locator": "Śākala 1.25.12 lines 577, 588, 1237",
+      "use": "Accented phrase, Varuṇa frame, Sāyaṇa's tārayati label and 8.4.28"
+    },
+    {
+      "id": "D",
+      "url": "https://vmlt.in/rigveda/04/039",
+      "locator": "Śākala 4.39.6 lines 263 and 274",
+      "use": "Dadhikrāvan frame and separate pra and naḥ words"
+    },
+    {
+      "id": "W",
+      "url": "https://vmlt.in/rigveda/10/186",
+      "locator": "Śākala 10.186.1 lines 267 and 279",
+      "use": "Vāta frame with the same first-person life extension"
+    },
+    {
+      "id": "AV",
+      "url": "https://vishvasa.github.io/vedAH/atharva/shaunakam/rUDha-saMhitA/sarva-prastutiH/19/034_jangiDamaNiH/",
+      "locator": "Śaunaka 19.34.4 lines 271, 278, 292",
+      "use": "Jaṅgiḍa witness and Whitney's reported -i/-zero manuscript distribution"
+    },
+    {
+      "id": "AVT",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/ind/aind/ved/av/avs/avs550.htm",
+      "locator": "Śaunaka 19.34.4 line 15",
+      "use": "Roman text displaying na without retroflex glyph"
+    },
+    {
+      "id": "P",
+      "url": "https://vmlt.in/rigveda/07/025",
+      "locator": "Śākala 7.25.1 lines 182–199 and 379",
+      "use": "Received pátāti, exact pat/didyut boundaries and the separate opposition clause"
+    },
+    {
+      "id": "DP",
+      "url": "https://sanskritdocuments.org/doc_z_misc_major_works/dhatupatha_index_svara.html",
+      "locator": "01.1124 and 01.0979 lines 1574 and 2043",
+      "use": "tṝ and patḷ, their senses and lexical status"
+    },
+    {
+      "id": "DPD",
+      "url": "https://sanskritdocuments.org/doc_z_misc_major_works/dhatupatha.html",
+      "locator": "04.0065 line 1507",
+      "use": "Divādi pad gatau with root-final d"
+    },
+    {
+      "id": "A97",
+      "url": "https://sanskritdocuments.org/~sanskrit/learning_tools/ashtadhyayi/vyakhya/3/3.4.97.htm",
+      "locator": "3.4.97 line 14",
+      "use": "Patāti expressly has retained tiP i"
+    },
+    {
+      "id": "CI",
+      "url": "https://sanskritdictionary.com/?iencoding=&lang=&q=t%C4%81r%C4%ABs",
+      "locator": "Formula concordance under pra na",
+      "use": "Named second-person, Kauśika and further Vedic loci"
+    }
+  ]
+}
