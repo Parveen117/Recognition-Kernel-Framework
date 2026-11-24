@@ -1,0 +1,467 @@
+{
+  "stage": "PG754",
+  "morphology_interfaces": [
+    {
+      "id": "RECIP",
+      "base": "pañcan",
+      "guard": "five given to individual or located in him",
+      "affix": "kan",
+      "result": "pañcaka"
+    },
+    {
+      "id": "R2",
+      "base": "dvi",
+      "guard": "increment upon a hundred",
+      "affix": "kan",
+      "result": "dvika"
+    },
+    {
+      "id": "R3",
+      "base": "tri",
+      "guard": "increment upon a hundred",
+      "affix": "kan",
+      "result": "trika"
+    },
+    {
+      "id": "R4",
+      "base": "catur",
+      "guard": "increment upon a hundred",
+      "affix": "kan",
+      "result": "catuṣka"
+    },
+    {
+      "id": "R5",
+      "base": "pañcan",
+      "guard": "increment upon a hundred",
+      "affix": "kan",
+      "result": "pañcaka"
+    },
+    {
+      "id": "ORD2",
+      "base": "dvitīya",
+      "guard": "ordinal, payment",
+      "affix": "ṭhan",
+      "result": "dvitīyika"
+    },
+    {
+      "id": "ORD3",
+      "base": "tṛtīya",
+      "guard": "ordinal, payment",
+      "affix": "ṭhan",
+      "result": "tṛtīyika"
+    },
+    {
+      "id": "ORD5",
+      "base": "pañcama",
+      "guard": "ordinal, payment",
+      "affix": "ṭhan",
+      "result": "pañcamika"
+    },
+    {
+      "id": "HAL",
+      "base": "ardha",
+      "guard": "technical monetary half in payment",
+      "affix": "ṭhan",
+      "result": "ardhika"
+    },
+    {
+      "id": "BH",
+      "base": "bhāga",
+      "guard": "monetary half, modified numeral specifies gender",
+      "affix": "yat or ṭhan",
+      "result": "bhāgya / bhāgika"
+    },
+    {
+      "id": "BL",
+      "base": "vaṃśabhāra",
+      "guard": "explicit load compound",
+      "affix": "ṭhak",
+      "result": "vāṃśabhārika"
+    },
+    {
+      "id": "BG",
+      "base": "vaṃśa",
+      "guard": "bamboos serving as load",
+      "affix": "ṭhak",
+      "result": "vāṃśika"
+    },
+    {
+      "id": "KL",
+      "base": "kuṭajabhāra",
+      "guard": "explicit load compound",
+      "affix": "ṭhak",
+      "result": "kauṭajabhārika"
+    },
+    {
+      "id": "KG",
+      "base": "kuṭaja",
+      "guard": "material serves as load",
+      "affix": "ṭhak",
+      "result": "kauṭajika"
+    },
+    {
+      "id": "LL",
+      "base": "balvajabhāra",
+      "guard": "explicit load compound",
+      "affix": "ṭhak",
+      "result": "bālvajabhārika"
+    },
+    {
+      "id": "LG",
+      "base": "balvaja",
+      "guard": "material serves as load",
+      "affix": "ṭhak",
+      "result": "bālvajika"
+    },
+    {
+      "id": "VS",
+      "base": "vasna",
+      "guard": "price or fee carried",
+      "affix": "ṭhan",
+      "result": "vasnika"
+    },
+    {
+      "id": "DR",
+      "base": "dravya",
+      "guard": "goods carried",
+      "affix": "kan",
+      "result": "dravyaka"
+    },
+    {
+      "id": "V1",
+      "base": "prastha",
+      "guard": "capacity, measure object",
+      "affix": "ṭhañ",
+      "result": "prāsthika"
+    },
+    {
+      "id": "V2",
+      "base": "prastha",
+      "guard": "cooking agent",
+      "affix": "ṭhañ + ṅīp",
+      "result": "prāsthikī"
+    },
+    {
+      "id": "V3",
+      "base": "droṇa",
+      "guard": "cook supplement",
+      "affix": "aṇ or ṭhañ + feminine",
+      "result": "drauṇī / drauṇikī"
+    },
+    {
+      "id": "ADH",
+      "base": "āḍhaka",
+      "guard": "single measure",
+      "affix": "kha or ṭhañ",
+      "result": "āḍhakīnā / āḍhakikī"
+    },
+    {
+      "id": "ACI",
+      "base": "ācita",
+      "guard": "single measure",
+      "affix": "kha or ṭhañ",
+      "result": "ācitīnā / ācitikī"
+    },
+    {
+      "id": "PAT",
+      "base": "pātra",
+      "guard": "single measure",
+      "affix": "kha or ṭhañ",
+      "result": "pātrīṇā / pātrikī"
+    },
+    {
+      "id": "DAD",
+      "base": "dvi-āḍhaka",
+      "guard": "causal dvigu",
+      "affix": "ṣṭhan, kha, ṭhañ-luk",
+      "result": "dvyāḍhakikī / dvyāḍhakīnā / dvyāḍhakī"
+    },
+    {
+      "id": "DAC",
+      "base": "dvi-ācita",
+      "guard": "causal dvigu, named feminine exception",
+      "affix": "ṣṭhan, kha, ṭhañ-luk",
+      "result": "dvyācitikī / dvyācitīnā / dvyācitā"
+    },
+    {
+      "id": "DPA",
+      "base": "dvi-pātra",
+      "guard": "causal dvigu",
+      "affix": "ṣṭhan, kha, ṭhañ-luk",
+      "result": "dvipātrikī / dvipātrīṇā / dvipātrī"
+    },
+    {
+      "id": "DKU",
+      "base": "dvi-kulija",
+      "guard": "causal dvigu, supplementary strength guard",
+      "affix": "ṣṭhan, kha, ṭhañ-luk or retained ṭhañ",
+      "result": "dvikulijikī / dvikulijīnā / dvikulijī / dvaikulijikī"
+    }
+  ],
+  "nominal_positions": [
+    {
+      "id": "RECIP",
+      "source": "K47",
+      "input_history": "RECIP",
+      "case_number": "M NOMsg",
+      "word": "pañcakaḥ",
+      "interpretation": "Devadatta as recipient of the named increment."
+    },
+    {
+      "id": "R2",
+      "source": "M8",
+      "input_history": "R2",
+      "case_number": "N ACCsg",
+      "word": "dvikam",
+      "interpretation": "Two to a hundred taken as interest. Repeats within 8.141–142 count once."
+    },
+    {
+      "id": "R3",
+      "source": "M8",
+      "input_history": "R3",
+      "case_number": "N ACCsg",
+      "word": "trikam",
+      "interpretation": "Three to a hundred."
+    },
+    {
+      "id": "R4",
+      "source": "M8",
+      "input_history": "R4",
+      "case_number": "N ACCsg",
+      "word": "catuṣkam",
+      "interpretation": "Four to a hundred."
+    },
+    {
+      "id": "R5",
+      "source": "M8",
+      "input_history": "R5",
+      "case_number": "N ACCsg",
+      "word": "pañcakam",
+      "interpretation": "Five to a hundred."
+    },
+    {
+      "id": "ORD2",
+      "source": "K48",
+      "input_history": "ORD2",
+      "case_number": "M NOMsg",
+      "word": "dvitīyikaḥ",
+      "interpretation": "Second as the increment."
+    },
+    {
+      "id": "ORD3",
+      "source": "K48",
+      "input_history": "ORD3",
+      "case_number": "M NOMsg",
+      "word": "tṛtīyikaḥ",
+      "interpretation": "Third as the increment."
+    },
+    {
+      "id": "ORD5",
+      "source": "K48",
+      "input_history": "ORD5",
+      "case_number": "M NOMsg",
+      "word": "pañcamikaḥ",
+      "interpretation": "Fifth, from the ordinal stem."
+    },
+    {
+      "id": "HAL",
+      "source": "K48",
+      "input_history": "HAL",
+      "case_number": "M NOMsg",
+      "word": "ardhikaḥ",
+      "interpretation": "Half of a rūpaka in the increment construction."
+    },
+    {
+      "id": "HUND",
+      "source": "K49",
+      "input_history": "BH",
+      "case_number": "N NOMsg",
+      "word": "bhāgyam / bhāgikam",
+      "interpretation": "Śatam determines neuter singular."
+    },
+    {
+      "id": "TWENTY",
+      "source": "K49",
+      "input_history": "BH",
+      "case_number": "F NOMsg",
+      "word": "bhāgyā / bhāgikā",
+      "interpretation": "Viṃśatiḥ determines feminine singular."
+    },
+    {
+      "id": "BAM-L",
+      "source": "K50",
+      "input_history": "BL",
+      "case_number": "M NOMsg",
+      "word": "vāṃśabhārikaḥ",
+      "interpretation": "The compound explicitly ends in load."
+    },
+    {
+      "id": "BAM-G",
+      "source": "K50",
+      "input_history": "BG",
+      "case_number": "M NOMsg",
+      "word": "vāṃśikaḥ",
+      "interpretation": "The bamboos themselves constitute the load."
+    },
+    {
+      "id": "KU-L",
+      "source": "K50",
+      "input_history": "KL",
+      "case_number": "M NOMsg",
+      "word": "kauṭajabhārikaḥ",
+      "interpretation": "Compound with kuṭaja."
+    },
+    {
+      "id": "KU-G",
+      "source": "K50",
+      "input_history": "KG",
+      "case_number": "M NOMsg",
+      "word": "kauṭajikaḥ",
+      "interpretation": "Kuṭaja as load."
+    },
+    {
+      "id": "BAL-L",
+      "source": "K50",
+      "input_history": "LL",
+      "case_number": "M NOMsg",
+      "word": "bālvajabhārikaḥ",
+      "interpretation": "Compound with balvaja."
+    },
+    {
+      "id": "BAL-G",
+      "source": "K50",
+      "input_history": "LG",
+      "case_number": "M NOMsg",
+      "word": "bālvajikaḥ",
+      "interpretation": "Balvaja as load."
+    },
+    {
+      "id": "FEE",
+      "source": "K51",
+      "input_history": "VS",
+      "case_number": "M NOMsg",
+      "word": "vasnikaḥ",
+      "interpretation": "One who takes or carries the price."
+    },
+    {
+      "id": "GOOD",
+      "source": "K51",
+      "input_history": "DR",
+      "case_number": "M NOMsg",
+      "word": "dravyakaḥ",
+      "interpretation": "One who takes or carries the goods."
+    },
+    {
+      "id": "POT",
+      "source": "K52",
+      "input_history": "V1",
+      "case_number": "M NOMsg",
+      "word": "prāsthikaḥ",
+      "interpretation": "Holder of a prastha quantity."
+    },
+    {
+      "id": "COOK",
+      "source": "K52",
+      "input_history": "V2",
+      "case_number": "F NOMsg",
+      "word": "prāsthikī",
+      "interpretation": "The woman cooks a prastha; she need not physically contain it."
+    },
+    {
+      "id": "DRO",
+      "source": "K52",
+      "input_history": "V3",
+      "case_number": "F NOMsg",
+      "word": "drauṇī / drauṇikī",
+      "interpretation": "Only cooking a droṇa admits the extra aṇ."
+    },
+    {
+      "id": "ADH",
+      "source": "K53",
+      "input_history": "ADH",
+      "case_number": "F NOMsg",
+      "word": "āḍhakīnā / āḍhakikī",
+      "interpretation": "A single āḍhaka."
+    },
+    {
+      "id": "ACI",
+      "source": "K53",
+      "input_history": "ACI",
+      "case_number": "F NOMsg",
+      "word": "ācitīnā / ācitikī",
+      "interpretation": "A single ācita."
+    },
+    {
+      "id": "PAT",
+      "source": "K53",
+      "input_history": "PAT",
+      "case_number": "F NOMsg",
+      "word": "pātrīṇā / pātrikī",
+      "interpretation": "A single pātra in the accusative-quantity context."
+    },
+    {
+      "id": "DAD",
+      "source": "K54",
+      "input_history": "DAD",
+      "case_number": "F NOMsg",
+      "word": "dvyāḍhakikī / dvyāḍhakīnā / dvyāḍhakī",
+      "interpretation": "Compound with two āḍhakas."
+    },
+    {
+      "id": "DAC",
+      "source": "K54",
+      "input_history": "DAC",
+      "case_number": "F NOMsg",
+      "word": "dvyācitikī / dvyācitīnā / dvyācitā",
+      "interpretation": "Under luk the named ācita exclusion gives final ā."
+    },
+    {
+      "id": "DPA",
+      "source": "K54",
+      "input_history": "DPA",
+      "case_number": "F NOMsg",
+      "word": "dvipātrikī / dvipātrīṇā / dvipātrī",
+      "interpretation": "Two pātras; the retroflex ṇ on the kha path after r is not an affix marker."
+    },
+    {
+      "id": "DKU",
+      "source": "K55",
+      "input_history": "DKU",
+      "case_number": "F NOMsg",
+      "word": "dvikulijikī / dvikulijīnā / dvikulijī / dvaikulijikī",
+      "interpretation": "Two kulijas, four branch histories."
+    }
+  ],
+  "source_policy_decisions": [
+    {
+      "id": "MONEY",
+      "sources": "K47,M7,M8,MED",
+      "decision": "The non-agent amount is the subject of being given. The recipient may be dative under an addition or construed as locus. Manu 7.85 provides the latter analogy; 8.141–142 independently supplies numeric interest forms."
+    },
+    {
+      "id": "HALF",
+      "sources": "K48,K49",
+      "decision": "The commercial half takes ṭhan on this relation although the earlier single-price half took ṭiṭhan. The result agreeing with viṃśati has two short-stem feminine ā outcomes."
+    },
+    {
+      "id": "LOAD",
+      "sources": "K50",
+      "decision": "The explicit load noun and its alternative semantic interpretation generate separate derivatives. A load of unlisted rice fails either policy."
+    },
+    {
+      "id": "FEE",
+      "sources": "K51,RV9,RV10,VI",
+      "decision": "Preserve vasna and its inner Uṇādi relation. The Vedic lexical base and price phrase do not attest the derived word vasnika."
+    },
+    {
+      "id": "COOK",
+      "sources": "K52,B45",
+      "decision": "The droṇa cook has aṇ or ṭhañ according to Bāla. The same commentator assigns droṇa-field ṭhak at 45."
+    },
+    {
+      "id": "DVIGU",
+      "sources": "K53,K54,K55",
+      "decision": "Keep the ownership of ordinary ṭhañ, special ṣṭhan and kha. The selected feminine endings and position of strengthening show which branches survive."
+    }
+  ]
+}

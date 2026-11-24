@@ -2,6 +2,12 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG754 · A payment and its recipient, carrying a load, and four outcomes for a measure
+
+PG754 · [A payment and its recipient, carrying a load, and four outcomes for a measure](payment_recipient_price_burden_and_cooking_measures/README.md). Derives 5.1.47–55 from the traditional five payment roles to the four kulija forms, distinguishing corpus interest, Vedic price vocabulary and the cook’s droṇa. 29 new nominal positions and 44 readings. Finite positions and readings both increased by zero. One written morphology construction with 28 interfaces, 16 source observations and 6 source decisions. Census: 52,345 finite positions, 20,568 nominal positions and 23,252 nominal readings.
+
+Parent 550965ed2975787e28e9eb70dfd2ac2bb8eb7e62. The containing commit pins this packet. The precise lexical interpretation of Vedic vasnam between price, value and ware remains source-dependent. Accent of the derivatives and the wider economic corpus remain Open. Continue 5.1.56–63 on share, purchase price, wage, transport, measure and merit. In particular do not collapse vasna, vetana and bhṛti by gloss alone. C2–C5 and S1–S7 remain Open. Claude retains execution.
+
 ## PG753 · The price instrumental, three royal predicates and sowing capacity
 
 PG753 · [The price instrumental, three royal predicates and sowing capacity](price_as_instrument_royal_predicates_and_field_capacity/README.md). Derives 5.1.37–46 price, occasion, sovereignty, local renown and seed-capacity predicates with Rāmāyaṇa, Aitareya and Kālidāsa witnesses. 27 new nominal positions and 30 readings. Finite positions and readings both increased by zero. One written morphology construction with 25 interfaces, 17 source observations and 6 source decisions. Census: 52,345 finite positions, 20,539 nominal positions and 23,208 nominal readings.

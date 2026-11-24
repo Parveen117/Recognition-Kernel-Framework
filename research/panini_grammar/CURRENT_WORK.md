@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG753
+# Pāṇini grammar · current written coverage at PG754
+
+PG754 · [A payment and its recipient, carrying a load, and four outcomes for a measure](payment_recipient_price_burden_and_cooking_measures/README.md). Derives 5.1.47–55 from the traditional five payment roles to the four kulija forms, distinguishing corpus interest, Vedic price vocabulary and the cook’s droṇa. Census: 52,345 finite positions, 20,568 nominal positions and 23,252 nominal readings.
 
 PG753 · [The price instrumental, three royal predicates and sowing capacity](price_as_instrument_royal_predicates_and_field_capacity/README.md). Derives 5.1.37–46 price, occasion, sovereignty, local renown and seed-capacity predicates with Rāmāyaṇa, Aitareya and Kālidāsa witnesses. Census: 52,345 finite positions, 20,539 nominal positions and 23,208 nominal readings.
 

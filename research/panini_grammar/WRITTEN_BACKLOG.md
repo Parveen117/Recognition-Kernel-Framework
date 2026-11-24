@@ -1,6 +1,8 @@
-# Written-development backlog at PG753
+# Written-development backlog at PG754
 
-Monty · 2026-11-24 · reviewed parent 379fe3da2caec03fa23b164916e66fc80d9a3172. Historical closures below retain their exact pins.
+Monty · 2026-11-24 · reviewed parent 550965ed2975787e28e9eb70dfd2ac2bb8eb7e62. Historical closures below retain their exact pins.
+
+PG754 · [A payment and its recipient, carrying a load, and four outcomes for a measure](payment_recipient_price_burden_and_cooking_measures/README.md). The precise lexical interpretation of Vedic vasnam between price, value and ware remains source-dependent. Accent of the derivatives and the wider economic corpus remain Open. Continue 5.1.56–63 on share, purchase price, wage, transport, measure and merit. In particular do not collapse vasna, vetana and bhṛti by gloss alone. C2–C5 and S1–S7 remain Open.
 
 PG753 · [The price instrumental, three royal predicates and sowing capacity](price_as_instrument_royal_predicates_and_field_capacity/README.md). The general ground-relative outer analysis for RV 1.154.1, further senses of laukika and the detailed text history of the Kālidāsa display remain Open. No new case is claimed for those controls. Continue 5.1.47–54, including monetary increment, source of the dative recipient, fractions, and the two analyses of the burden clause. Investigate attested monetary expressions separately. C2–C5 and S1–S7 remain Open.
 

@@ -1,0 +1,36 @@
+{
+  "stage": "PG754",
+  "date": "2026-11-24",
+  "publication_parent": "550965ed2975787e28e9eb70dfd2ac2bb8eb7e62",
+  "baseline": {
+    "commit": "550965ed2975787e28e9eb70dfd2ac2bb8eb7e62",
+    "path": "research/panini_grammar/price_as_instrument_royal_predicates_and_field_capacity/STATE.json"
+  },
+  "finite_positions": 52345,
+  "nominal_positions": 20568,
+  "nominal_readings": 23252,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 29,
+  "new_nominal_readings": 44,
+  "new_morphology_constructions": 1,
+  "new_morphology_interfaces": 28,
+  "new_source_observations": 16,
+  "new_source_policy_decisions": 6,
+  "open_obligations": [
+    "The precise lexical interpretation of Vedic vasnam between price, value and ware remains source-dependent. Accent of the derivatives and the wider economic corpus remain Open.",
+    "Continue 5.1.56–63 on share, purchase price, wage, transport, measure and merit. In particular do not collapse vasna, vetana and bhṛti by gloss alone."
+  ],
+  "local_closure": "Typed PG14 recovery preserves the payment relation, the load’s lexical structure, the affix under luk and its feminine successor.",
+  "global_gates": {
+    "C2–C5": "Open",
+    "S1–S7": "Open",
+    "S5_direct_fields": "99/103",
+    "S6": "Independent 5.56 k-it effect Open"
+  },
+  "protected_registers": {
+    "PG335": "-9 finite positions and -12 readings already applied",
+    "PG340/346, PG349–352, PG355–360, PG357–363": "CLOSED on registered scopes"
+  },
+  "runtime_policy": "Written derivation. Only changed-document, source and count checks. Claude owns grammar execution, generators, untouched suites and replay."
+}

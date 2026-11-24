@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG754 · [A payment and its recipient, carrying a load, and four outcomes for a measure](payment_recipient_price_burden_and_cooking_measures/README.md). Derives 5.1.47–55 from the traditional five payment roles to the four kulija forms, distinguishing corpus interest, Vedic price vocabulary and the cook’s droṇa. 29 new nominal positions and 44 readings. Finite positions and readings both increased by zero.
+
 PG753 · [The price instrumental, three royal predicates and sowing capacity](price_as_instrument_royal_predicates_and_field_capacity/README.md). Derives 5.1.37–46 price, occasion, sovereignty, local renown and seed-capacity predicates with Rāmāyaṇa, Aitareya and Kālidāsa witnesses. 27 new nominal positions and 30 readings. Finite positions and readings both increased by zero.
 
 PG752 · [Coin and vessel compounds, owned elision and a Vedic dual](price_compounds_owned_elision_and_vedic_satamana_dual/README.md). Derives the selected 5.1.25–36 coin and measure compounds and distinguishes the two grammatical cases of the Śatapatha śatamānau. 42 new nominal positions and 62 readings. Finite positions and readings both increased by zero.
