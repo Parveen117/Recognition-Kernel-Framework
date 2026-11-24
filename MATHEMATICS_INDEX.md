@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG662: [Pac/jalp finite-akac surviving dhātu accent](research/panini_grammar/pac_jalp_finite_akac_surviving_dhatu_accent/README.md). After PG661 blocks cit-final accent and fixes the ending as anudātta, Kāśikā 6.1.162/6.1.158 positively select the dhātu-final vowel for exact `pacataki/jalpataki`. One accent construction/two records; zero word, morphology or source credits. `svapitaki/śvasitaki` remain Open. Census unchanged at 51,819 finite and 8,012 nominal/9,271 readings.
+
 PG661: [Finite akac ending anudātta and blocked cit accent](research/panini_grammar/finite_akac_ending_anudatta_and_blocked_cit_accent/README.md). Kāśikā 6.1.186 explicitly overrides 6.1.163 cit-final accent on the original l-sārvadhātuka ending of PG533's `pacataki/jalpataki/svapitaki/śvasitaki`. One accent construction/four records; zero word, morphology or source credits. Exact non-ending accent remains Open. Census unchanged at 51,819 finite and 8,012 nominal/9,271 readings.
 
 PG660: [Sarvakaḥ cit accent and the blocked plain-sarva route](research/panini_grammar/sarvaka_nomsg_cit_accent_and_sarva_sup_block/README.md). Kāśikā 6.1.191 explicitly restricts the initial accent of plain `sarva` before sup to the an-akac branch, then selects cit-final accent for exact `sarvakaḥ`. One accent construction/one record; zero word, morphology or source credits. Census unchanged at 51,819 finite and 8,012 nominal/9,271 readings.
@@ -5277,3 +5279,7 @@ Existing RH, Yang-Mills, continuum and empirical claim boundaries remain in forc
 ## PG661 · Later-rule ownership of the retained finite ending
 
 [Finite akac ending accent](research/panini_grammar/finite_akac_ending_anudatta_and_blocked_cit_accent/DERIVATION_AND_NATIVE_RECOVERY.md) keeps root/sense, śap or śap-luk, rudādi iṭ, original `tip`, akac placement and both accent routes in the full PG14 carrier. Typed zero-specialization selects 6.1.186 anudātta on the retained `i_ENDING` without merging it with the inner iṭ or declaring the word accentless. One accent/four records; census unchanged and complete non-ending placement Open.
+
+## PG662 · Dhātu-recipient accent after the suffix conflict
+
+[Pac/jalp surviving accent](research/panini_grammar/pac_jalp_finite_akac_surviving_dhatu_accent/DERIVATION_AND_NATIVE_RECOVERY.md) retains root/sense, śap, original ending, akac placement and PG661 rule order in the full PG14 carrier, then types 6.1.162's recipient as the dhātu-final vowel. Typed zero-specialization cannot merge that vowel with śap-a, akac-a or final i. One accent/two records; word census unchanged and rudādi-iṭ accents Open.

@@ -1,0 +1,57 @@
+{
+  "upstream": [
+    {
+      "repository": "ashtadhyayi-com/data",
+      "commit": "5744762f010d677cfb43f347a42d02796cf615d6",
+      "path": "sutraani/kashika.txt",
+      "bytes": 3806703,
+      "sha256": "ccd6d554d10acbe89fd566730a59731ace38b2aad982becbbd653b77cca93254",
+      "git_blob_sha": "e525df7668835ef1dd7c5988c031da07ce0c162b",
+      "fields": [
+        {
+          "field": "61158",
+          "use": "one-excepted word-accent procedure and explicit dhātu-recipient explanation"
+        },
+        {
+          "field": "61162",
+          "text": "अन्त इत्येव । धातोरन्त उदात्तो भवति। पच॑ति। पठ॑ति। ऊ॒र्णोति॑। गो॒पा॒यति॑ । याति॑॥",
+          "use": "positive dhātu-final udātta, with exact pacati example"
+        },
+        {
+          "field": "61186",
+          "use": "inherited ending anudātta and explicit blocking of the cit-final competitor"
+        }
+      ]
+    }
+  ],
+  "project_dependencies": [
+    {
+      "commit": "1433c8a948bc5e374b324ecaea833bfb5c218c9d",
+      "path": "research/panini_grammar/finite_akac_ending_anudatta_and_blocked_cit_accent/STATE.json",
+      "bytes": 2768,
+      "sha256": "de98eba03217daf9901c72af506a328c6ba6a7f1e7cdb866886ff4893e6db365",
+      "git_blob_sha": "ef081086bb027210628645954e3ec6c2db56ff95"
+    },
+    {
+      "commit": "1433c8a948bc5e374b324ecaea833bfb5c218c9d",
+      "path": "research/panini_grammar/finite_akac_ending_anudatta_and_blocked_cit_accent/RELATION.json",
+      "bytes": 3512,
+      "sha256": "f14625eda10f93e1ca608babf61596f6cab9298e9e8dce7fb5c194653fd8cdae",
+      "git_blob_sha": "2ff481c0105b6dd8dbf79f7c8c68f9a2cc39986a"
+    },
+    {
+      "commit": "63e258727b6f37dd6250303a89b32382e327b6d3",
+      "path": "research/panini_grammar/finite_akac_final_i_and_retained_rudadi_it/RELATION.json",
+      "bytes": 4742,
+      "sha256": "f429a2cc9b88518fedbe59438ce010a9c3d5b9d63e7fcd743b3a8fdb22d57486",
+      "git_blob_sha": "8aa8c4501fe83678dfe4a0fd36808bb5103a2cbd"
+    }
+  ],
+  "source_decisions": [
+    "Select 6.1.162 dhātu-final udātta as the positive surviving owner for exact pacataki and jalpataki.",
+    "Retain PG661's 6.1.186 ending anudātta and blocked cit-final route without repeat credit.",
+    "Do not transfer this result to svapitaki/śvasitaki before their iṭ-accent interaction is positively resolved."
+  ],
+  "source_observation_credit": 0,
+  "source_policy_decision_credit": 0
+}

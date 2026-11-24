@@ -1,6 +1,8 @@
-# Written-development backlog at PG661
+# Written-development backlog at PG662
 
-Monty · 2026-11-24 · reviewed current parent b537a417ca0ae50a15023f3f3ee78d44555df900; historical closures below retain their exact original pins.
+Monty · 2026-11-24 · reviewed current parent 1433c8a948bc5e374b324ecaea833bfb5c218c9d; historical closures below retain their exact original pins.
+
+PG662 positively closes the surviving accent owner for exact `pacataki/jalpataki`: 6.1.162 selects the dhātu-final vowel after PG661's ending-anudātta/cit-block decision. One accent construction/two records, no repeated word/morphology/source credit. `svapitaki/śvasitaki`, full accented transcription and other akac cells remain Open. Census unchanged at 51,819 finite; 8,012 nominal positions/9,271 readings.
 
 PG661 closes the final-ending accent conflict for the four fixed PG533 finite-akac words. Kāśikā 6.1.186 makes their original l-sārvadhātuka `i_ENDING` anudātta and explicitly overrides the 6.1.163 cit-final route. One accent construction/four records; no word/morphology/source recredit. Exact non-ending accent, other finite/nominal akac cells and wider gates remain Open. Census unchanged at 51,819 finite; 8,012 nominal positions/9,271 readings.
 

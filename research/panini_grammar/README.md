@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG662: [Pac/jalp finite-akac surviving dhātu accent](pac_jalp_finite_akac_surviving_dhatu_accent/README.md). After PG661 blocks cit-final accent and fixes the ending as anudātta, Kāśikā 6.1.162/6.1.158 positively select the dhātu-final vowel for exact `pacataki/jalpataki`. One accent construction/two records; zero word, morphology or source credits. `svapitaki/śvasitaki` remain Open. Census unchanged at 51,819 finite and 8,012 nominal/9,271 readings.
+
 PG661: [Finite akac ending anudātta and blocked cit accent](finite_akac_ending_anudatta_and_blocked_cit_accent/README.md). Kāśikā 6.1.186 explicitly overrides 6.1.163 cit-final accent on the original l-sārvadhātuka ending of PG533's `pacataki/jalpataki/svapitaki/śvasitaki`. One accent construction/four records; zero word, morphology or source credits. Exact non-ending accent remains Open. Census unchanged at 51,819 finite and 8,012 nominal/9,271 readings.
 
 PG660: [Sarvakaḥ cit accent and the blocked plain-sarva route](sarvaka_nomsg_cit_accent_and_sarva_sup_block/README.md). Kāśikā 6.1.191 explicitly restricts the initial accent of plain `sarva` before sup to the an-akac branch, then selects cit-final accent for exact `sarvakaḥ`. One accent construction/one record; zero word, morphology or source credits. Census unchanged at 51,819 finite and 8,012 nominal/9,271 readings.
@@ -3045,3 +3047,7 @@ padas, outer lakāras and exhaustive phonetic/accent alternatives stay open.
 ## PG661 · Finite akac ending anudātta and blocked cit accent
 
 [PG661](finite_akac_ending_anudatta_and_blocked_cit_accent/README.md) resolves one exact rule-order conflict across four PG533 words. The original `tip` vowel remains the final vowel after akac insertion, but Kāśikā 6.1.186 explicitly makes the l-sārvadhātuka ending anudātta and blocks even the later-visible cit-final route. One accent construction/four records, zero word/morphology/source credits; census unchanged. Complete non-ending accent remains Open rather than being inferred.
+
+## PG662 · Pac/jalp positive surviving accent
+
+[PG662](pac_jalp_finite_akac_surviving_dhatu_accent/README.md) composes PG661's ending decision with 6.1.162 dhātu-final udātta and 6.1.158's one-excepted procedure. Exact `pacataki/jalpataki` now have a positive structural accent owner; no fully marked word is fabricated. One accent construction/two records, zero word/morphology/source credits; census unchanged. The rudādi-iṭ pair remains Open.

@@ -3,6 +3,19 @@
 Monty. Dates follow Asia/Kolkata.
 
 
+## PG662 · Pac/jalp finite-akac surviving dhātu accent
+
+Previous publication: 1433c8a948bc5e374b324ecaea833bfb5c218c9d; tree 610af0ff83dd593f99063202ecdd9b9aae51c53f. Necessary check: Python 3.12.14, 107 assertions, 1 attempt.
+
+PG662: [Pac/jalp finite-akac surviving dhātu accent](pac_jalp_finite_akac_surviving_dhatu_accent/README.md). PG661's ending anudātta/cit block now composes with Kāśikā 6.1.162 and 6.1.158: exact `pacataki/jalpataki` retain dhātu-final udātta. One accent construction/two records; zero finite/nominal/morphology/source credits. Census unchanged at 51,819 finite; 8,012 nominal/9,271 readings.
+
+PG521–662 cumulative: 2,234 nominal positions/2,528 readings, zero finite; 238 morphology/1,040 interfaces; 122 compound/583 plans; 12 accent/55 records; 148 semantics/433 records; 109 syntax/301 records; 37 source-policy decisions after PG555−1; 274 observations. One provenance correction/one proof addendum; no census correction.
+
+Exact pac/jalp positive accent owner locally CLOSED. `svapitaki/śvasitaki`, full accented transcription, other akac cells, nine padī meanings, patradatam/128/C2–C5/S1–S7/native/global work remain Open. Claude owns execution/generators/untouched suites/replay. PG335 correction and PG357–PG363 CLOSED remain preserved.
+
+The exact publication is the containing commit; existing review branch only, nonforce. No elapsed-hours, ETA or complete-Sanskrit claim.
+
+
 ## PG661 · Finite akac ending anudātta and blocked cit accent
 
 Previous publication: b537a417ca0ae50a15023f3f3ee78d44555df900; tree dfb859ac170dc0011de5c712dc0a81db08c26407. Necessary check: Python 3.12.14, 169 assertions, 3 attempts; attempts 1–2 stopped at exact cached-literal sandhi/punctuation assertions and attempt 3 passed without a grammatical-result change.

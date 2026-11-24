@@ -1,0 +1,39 @@
+{
+  "schema": "rkf.panini.pg662.relation.v1",
+  "scope": "Exact pacataki/jalpataki positive non-ending accent owner after PG661",
+  "records": [
+    {
+      "request": "pac|1011151|pāka|NONE|active|laṭ|P|3|sg|śap|akac",
+      "word": "pacataki",
+      "placement": "pacat|ak_AK|i_ENDING",
+      "inherited_decision": "PG661 original tip i_ENDING anudātta; cit-final route blocked",
+      "positive_owner": "6.1.162 dhātu-final vowel",
+      "composition": "6.1.158 one-excepted procedure plus 6.1.162; 6.1.186 ending guard retained",
+      "selected_feature": "DHATU_FINAL_UDATTA",
+      "status": "Accepted exact-example-plus-general-rule derivation",
+      "credit": "one accent readout; zero word/morphology/source credit"
+    },
+    {
+      "request": "jalp|1010464|vyaktā-vāc|NONE|active|laṭ|P|3|sg|śap|akac",
+      "word": "jalpataki",
+      "placement": "jalpat|ak_AK|i_ENDING",
+      "inherited_decision": "PG661 original tip i_ENDING anudātta; cit-final route blocked",
+      "positive_owner": "6.1.162 dhātu-final vowel",
+      "composition": "6.1.158 one-excepted procedure plus 6.1.162; 6.1.186 ending guard retained",
+      "selected_feature": "DHATU_FINAL_UDATTA",
+      "status": "Accepted general-rule derivation",
+      "credit": "one accent readout; zero word/morphology/source credit"
+    }
+  ],
+  "open": [
+    "Positive non-ending accent owner for PG661 svapitaki and śvasitaki",
+    "Fully accent-marked Unicode words, recitation, sentence sandhi and other finite/nominal akac cells",
+    "Nine padī meanings, patradatam/128 and wider C2-C5/S1-S7/native/global gates"
+  ],
+  "excluded": [
+    "Reactivating 6.1.163 on the retained final tip vowel",
+    "Identifying dhātu-final a with śap-a, akac-a or final i_ENDING",
+    "Transferring the pac/jalp dhātu-accent result to svap/śvas without resolving their iṭ interaction",
+    "Crediting the two PG533 words, morphology or PG661 ending decision again"
+  ]
+}
