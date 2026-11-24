@@ -1,6 +1,8 @@
-# Written-development backlog at PG733
+# Written-development backlog at PG734
 
-Monty · 2026-11-24 · reviewed current parent 8e804f290830ab0842ed1af370d1946a97222efb. Historical closures below retain their exact pins.
+Monty · 2026-11-24 · reviewed current parent 217278a9c35ddc45dcee7d875065612610a89729. Historical closures below retain their exact pins.
+
+PG734 · [The yoke’s lexical r and the wedding readings of janya](dhur_lexical_r_and_janya_wedding_witnesses/README.md). The selected ordinary dhur case panel, the direct Bhaṭṭi and Śākala locatives and the named 4.4.82 and H 7.1.11 roles are locally CLOSED. The exact 1928 and printed wedding-variant witnesses are pinned. Other doubling and recitational policies, the critical relationships among kanyām/janyām/janyān, the origin of the maternal-friend stem and wider non-wedding formations remain Open. The independent conditions of 4.4.83 onward remain constructive work. C2–C5/S1–S7 and Claude execution retain their standing obligations.
 
 PG733 · [Loaded yokes, plough carriers and the owners of luk](loaded_yokes_ploughs_and_distinct_luk_owners/README.md). The selected 4.4.78–81 and Haima case fibres are locally CLOSED. The two P sources for outer luk, inner 1.2.49 and three Haima eka meanings are addressed. The 1910 primary ḍhañ and alternate ḍhak are directly verified. Independent Padamañjarī and ḍhakañ print lineage, the operation behind dvaihālika and dvaiśakaṭika, and a full bare dhur r-stem fibre stay Open. The indicated 4.4.82 onward scope remains constructive work. C2–C5/S1–S7 and Claude execution retain their standing obligations.
 

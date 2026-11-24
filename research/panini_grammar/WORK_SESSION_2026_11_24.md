@@ -2,6 +2,16 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG734 · The yoke’s lexical r and the wedding readings of janya
+
+PG734 · [The yoke’s lexical r and the wedding readings of janya](dhur_lexical_r_and_janya_wedding_witnesses/README.md). Derives the ordinary consonantal dhur cases and the distinct lexical and poetic wedding roles. The 1928 Bhaṭṭi print proves suffixal ṣ. Mallinātha’s distinct singular/plural analyses and Hemacandra’s exact printed alternative keep their own witness histories. Census 52,341 finite positions and 17,222 nominal positions with 19,625 nominal readings.
+
+Finite increments 0 positions and 0 readings. Nominal increments 217 positions and 222 readings, including 216 ordinary keys and one Vedic key. One morphology construction with 14 ordinary interfaces, one syntax construction with 10 readouts, one semantic construction with 10 readouts, one junction construction with 11 readouts and one accent construction with 1 record. 24 source observations and 15 source-policy decisions. Publication parent 217278a9c35ddc45dcee7d875065612610a89729. The containing commit pins the documents and evidence.
+
+PG521–734 cumulative: 522 finite positions and 1,440 net finite readings, 11,444 nominal positions and 12,882 readings, 308 morphology constructions and 3,401 interfaces, 141 compound constructions and 656 plans, 40 accent constructions and 161 records, 166 semantics constructions and 547 records, 155 syntax constructions and 636 records, 396 source-policy decisions after PG555−1 and 809 observations. The PG680 onward junction total is 38 constructions and 156 readouts. The PG700 onward nonfinite total remains 22 constructions and 28 paths. PG335 and PG357–363 CLOSED results are preserved.
+
+The selected ordinary dhur case panel, the direct Bhaṭṭi and Śākala locatives and the named 4.4.82 and H 7.1.11 roles are locally CLOSED. The exact 1928 and printed wedding-variant witnesses are pinned. Other doubling and recitational policies, the critical relationships among kanyām/janyām/janyān, the origin of the maternal-friend stem and wider non-wedding formations remain Open. The independent conditions of 4.4.83 onward remain constructive work. C2–C5/S1–S7 and Claude execution retain their standing obligations.
+
 ## PG733 · Loaded yokes, plough carriers and the owners of luk
 
 PG733 · [Loaded yokes, plough carriers and the owners of luk](loaded_yokes_ploughs_and_distinct_luk_owners/README.md). Derives the named 4.4.78–81 and Haima 7.1.3–7 case fibres. Kha-luk and yat-luk reach ekadhura through independently typed paths. The 1910 Bālamanoramā directly distinguishes ḍhañ and ḍhak, and the Bhaṭṭoji print preserves two further readings with Open operations. Census 52,341 finite positions and 17,005 nominal positions with 19,403 nominal readings.
