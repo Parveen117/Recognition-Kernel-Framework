@@ -2,6 +2,12 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG795 · Lovers, acquisition attempts, named fevers and feast days
+
+PG795 · [Lovers, acquisition attempts, named fevers and feast days](lovers_acquisition_attempts_named_fevers_and_feast_days/README.md). Completes selected 5.2.74–84 surfaces with 30 new nominal positions and 36 readings. Finite positions/readings increase by zero. Eleven morphology constructions/30 interfaces, zero new source observations and eleven source-policy decisions. Census: 52,357 finite positions, 21,456 nominal positions and 24,273 nominal readings.
+
+Parent 9246005c4560f8bfa80c28da87e80bbfc45dd0e8. The containing commit pins this packet. Selected literal outputs, lopa branches and explicit controls are CLOSED. Critical priority of the two spelling forks, wider feast-name membership, exact accent beyond displayed `śro꣡triya`, the `śrotriya/chāndasa` semantic policy, full paradigms and productivity remain Open. Continue from 5.2.85. C2–C5 and S1–S7 remain Open; S5 remains 99/103 and S6 retains the independent 5.56 k-it effect. Claude retains execution, generators, untouched suites and replay.
+
 ## PG794 · Desire, body-part devotion and nine k-family predicates
 
 PG794 · [Desire, body-part devotion and nine k-family predicates](desire_body_devotion_and_nine_k_predicates/README.md). Completes selected 5.2.65–73 surfaces with 19 new nominal positions and 19 readings. Finite positions/readings increase by zero. Nine morphology constructions/19 interfaces, zero new source observations and nine source-policy decisions. Census: 52,357 finite positions, 21,426 nominal positions and 24,237 nominal readings.

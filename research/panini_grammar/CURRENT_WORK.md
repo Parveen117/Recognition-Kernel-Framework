@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG794
+# Pāṇini grammar · current written coverage at PG795
+
+PG795 · [Lovers, acquisition attempts, named fevers and feast days](lovers_acquisition_attempts_named_fevers_and_feast_days/README.md). Completes selected 5.2.74–84 surfaces, including correlated lopa alternatives and source-labelled spelling/commentary forks. Census: 52,357 finite positions, 21,456 nominal positions and 24,273 nominal readings.
 
 PG794 · [Desire, body-part devotion and nine k-family predicates](desire_body_devotion_and_nine_k_predicates/README.md). Completes selected 5.2.65–73 surfaces while retaining three unresolved source/commentary readings as Open rather than credited outputs. Census: 52,357 finite positions, 21,426 nominal positions and 24,237 nominal readings.
 

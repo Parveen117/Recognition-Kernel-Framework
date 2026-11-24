@@ -1,0 +1,43 @@
+{
+  "stage":"PG795",
+  "morphology_constructions":[
+    {"id":"LOVER_STIPULATIONS","rule":"5.2.74","interfaces":["AN74","AB74","ABI74"]},
+    {"id":"CROOKED_MEANS","rule":"5.2.75","interfaces":["P75"]},
+    {"id":"VIOLENT_HYPOCRITICAL_MEANS","rule":"5.2.76","interfaces":["AY76","DA76"]},
+    {"id":"ACQUISITION_ATTEMPTS","rule":"5.2.77","interfaces":["G2","G3","G4","L6","L5","L4"]},
+    {"id":"LEADER_GROUP","rule":"5.2.78","interfaces":["D78","Y78"]},
+    {"id":"CAMEL_FETTER","rule":"5.2.79","interfaces":["SK79"]},
+    {"id":"YEARNING_UTKA","rule":"5.2.80","interfaces":["UD80","UP80"]},
+    {"id":"NAMED_DISEASE","rule":"5.2.81","interfaces":["J2","J4","JV","JK","JU","JS"]},
+    {"id":"PREDOMINANT_FOOD_NAME","rule":"5.2.82","interfaces":["GA82","TA82","VA82","KR82","TR82"]},
+    {"id":"KAULMASI_AN","rule":"5.2.83","interfaces":["K83"]},
+    {"id":"VEDA_STUDENT","rule":"5.2.84","interfaces":["S84"]}
+  ],
+  "nominal_positions":[
+    {"id":"AN74","readings":["anukaḥ"]},{"id":"AB74","readings":["abhikaḥ"]},{"id":"ABI74","readings":["abhīkaḥ"]},
+    {"id":"P75","readings":["pārśvakaḥ"]},
+    {"id":"AY76","readings":["āyaḥśūlikaḥ"]},{"id":"DA76","readings":["dāṇḍājinikaḥ"]},
+    {"id":"G2","readings":["dvikam","dvitīyakam"]},{"id":"G3","readings":["trikam","tṛtīyakam [K]","tritīyakam [Vasu]"]},{"id":"G4","readings":["catuṣkam","caturthakam"]},
+    {"id":"L6","readings":["ṣaṭko devadattaḥ"]},{"id":"L5","readings":["pañcakaḥ"]},{"id":"L4","readings":["catuṣkaḥ"]},
+    {"id":"D78","readings":["devadattakāḥ"]},{"id":"Y78","readings":["yajñadattakāḥ"]},
+    {"id":"SK79","readings":["śṛṅkhalakaḥ"]},
+    {"id":"UD80","readings":["utko devadattaḥ"]},{"id":"UP80","readings":["utkaḥ pravāsī"]},
+    {"id":"J2","readings":["dvitīyako jvaraḥ"]},{"id":"J4","readings":["caturthakaḥ"]},{"id":"JV","readings":["viṣapuṣpako jvaraḥ"]},{"id":"JK","readings":["kāśapuṣpakaḥ [K]","kāṣapuṣpakaḥ [Vasu]"]},{"id":"JU","readings":["uṣṇako jvaraḥ"]},{"id":"JS","readings":["śītako jvaraḥ"]},
+    {"id":"GA82","readings":["guḍāpūpikā"]},{"id":"TA82","readings":["tilāpūpikā"]},{"id":"VA82","readings":["vaṭakinī"]},{"id":"KR82","readings":["kṛśarikā [Vasu]"]},{"id":"TR82","readings":["tripuṭikā [Vasu]"]},
+    {"id":"K83","readings":["kaulmāṣī paurṇamāsī"]},
+    {"id":"S84","readings":["śro꣡triyo brāhmaṇaḥ","chāndasaḥ [accepted alternative]"]}
+  ],
+  "source_policy_decisions":[
+    {"id":"LOVER_FORMS","status":"Accepted","decision":"Retain all three stipulated forms and keep the short/long abhi vowels as distinct accepted outputs."},
+    {"id":"PARSHVA_CASE","status":"Accepted","decision":"Require instrumental crooked means; do not substitute the anatomical rib sense."},
+    {"id":"TWO_MEANS_AFFIXES","status":"Accepted","decision":"Preserve ṭhak ownership for ayaḥśūla and ṭhañ ownership for daṇḍājina."},
+    {"id":"LOPA_SCOPE","status":"Accepted/Open","decision":"Correlate optional ordinal-affix lopa for the book with obligatory lopa for the learner; retain the tṛtīyaka/tritīyaka fork as Open in critical priority."},
+    {"id":"LEADER_GUARD","status":"Accepted/Excluded","decision":"Accept the two named leader groups; exclude the explicit enemy sentence only from this leader branch."},
+    {"id":"CAMEL_GUARD","status":"Accepted","decision":"Require young-camel bearer and principal fetter relation for śṛṅkhalaka."},
+    {"id":"UTKA_STIPULATION","status":"Accepted","decision":"Retain the ud-plus-kan stipulated history and two displayed yearning bearers."},
+    {"id":"DISEASE_NAME","status":"Accepted/Open","decision":"Keep time, cause and effect disease histories apart from homophonous earlier words; retain kāśa/kāṣa source priority Open."},
+    {"id":"FEAST_LIST","status":"Accepted/Open","decision":"Accept the two shared kan names, vārttika vaṭakinī and two Vasu-listed names; wider list membership remains Open."},
+    {"id":"KAULMASI_OWNER","status":"Accepted","decision":"Assign añ, vṛddhi and accent ownership to kaulmāṣī rather than the preceding kan history."},
+    {"id":"STUDENT_POLICY","status":"Accepted/Open","decision":"Accept displayed śrotriya and chāndasa alternatives while retaining optionality versus semantic-division policies as Open."}
+  ]
+}

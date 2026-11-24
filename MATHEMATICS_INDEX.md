@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG795 · [Lovers, acquisition attempts, named fevers and feast days](research/panini_grammar/lovers_acquisition_attempts_named_fevers_and_feast_days/README.md). PG14 retains support relation, optional or obligatory lopa, affix owner, bearer class, accent, source fork and outcome through typed zero specialization.
+
 PG794 · [Desire, body-part devotion and nine k-family predicates](research/panini_grammar/desire_body_devotion_and_nine_k_predicates/README.md). PG14 retains support case, semantic guard, affix or deletion owner, bearer, source policy and Accepted/Open/Excluded outcome through typed zero specialization.
 
 PG793 · [Hymn and chapter names, and skilled domains](research/panini_grammar/hymn_chapter_names_and_skilled_domains/README.md). PG14 retains cited shape, containing-text or skill predicate, affix/luk history and source fork through typed zero specialization.

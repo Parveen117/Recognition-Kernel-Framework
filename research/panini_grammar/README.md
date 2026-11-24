@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG795 · [Lovers, acquisition attempts, named fevers and feast days](lovers_acquisition_attempts_named_fevers_and_feast_days/README.md). Completes selected 5.2.74–84 outputs: 30 new nominal positions and 36 readings, eleven constructions/30 interfaces and eleven source decisions.
+
 PG794 · [Desire, body-part devotion and nine k-family predicates](desire_body_devotion_and_nine_k_predicates/README.md). Completes selected 5.2.65–73 outputs: 19 new nominal positions/readings, nine constructions/19 interfaces and nine source decisions; three unresolved source/commentary readings remain Open and uncredited.
 
 PG793 · [Hymn and chapter names, and skilled domains](hymn_chapter_names_and_skilled_domains/README.md). Completes selected 5.2.59–64 outputs: 17 new nominal positions and 23 readings, six constructions/17 interfaces and six source decisions.

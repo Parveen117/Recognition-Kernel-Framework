@@ -1,6 +1,8 @@
-# Written-development backlog at PG794
+# Written-development backlog at PG795
 
-Monty · 2026-11-25 · reviewed parent 5101279aa306ba15835aaef867a536fd8af6a568. Historical closures below retain their exact pins.
+Monty · 2026-11-25 · reviewed parent 9246005c4560f8bfa80c28da87e80bbfc45dd0e8. Historical closures below retain their exact pins.
+
+PG795 · [Lovers, acquisition attempts, named fevers and feast days](lovers_acquisition_attempts_named_fevers_and_feast_days/README.md). Selected 5.2.74–84 outputs and correlated alternatives are CLOSED. The two spelling forks, wider feast-name membership, `śrotriya/chāndasa` commentary policy, full paradigms, productivity and wider accent remain Open. Continue from 5.2.85. The enemy sentence is Excluded only from the 5.2.78 leader branch. S5 remains 99/103; S6 retains the independent 5.56 k-it effect. C2–C5 and S1–S7 remain Open.
 
 PG794 · [Desire, body-part devotion and nine k-family predicates](desire_body_devotion_and_nine_k_predicates/README.md). Selected 5.2.65–73 outputs and explicit guards are CLOSED. The `sasya/śasya` input fork, `pratyagraḥ/pratyayaḥ` gloss difference, 5.2.73 commentary policy, full paradigms, accent and wider productivity remain Open. Continue from 5.2.74. `udaraka` is Excluded only from the source-defined 5.2.67 voracious `ṭhak` branch. S5 remains 99/103; S6 retains the independent 5.56 k-it effect. C2–C5 and S1–S7 remain Open.
 
