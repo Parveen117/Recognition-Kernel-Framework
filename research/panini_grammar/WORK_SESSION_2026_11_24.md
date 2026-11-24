@@ -2,6 +2,16 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG692 · Head and shoulder load case fibres
+
+PG692: [Head and shoulder loads, inner aluk and owned ṣṭhan](bhastradi_head_shoulder_aluk_and_owned_taddhita/README.md). Witness wording resolves two rule-number correspondences. The 4.4.16 paired load compounds preserve the inner aluk/luk choices through the later ṣṭhan and case operations. Eight case fibres add 192 nominal positions and 396 readings. Census 52,323 finite and 8,276 nominal positions/9,741 readings.
+
+Two compound constructions/four plans, two morphology constructions/13 stem-history readouts, four source observations and one source-policy decision. No finite increment. Monier-Williams's matching three-gender lexical labels supply positive scope, and the inherited case endings distinguish nuṭ, num and final dental n.
+
+PG521–692 cumulative: 504 finite positions/1,420 net credited finite readings, 2,498 nominal positions/2,998 readings, 265 morphology constructions/2,868 operative interfaces, 124 compound constructions/587 plans, 15 accent constructions/61 records, 150 semantics constructions/437 records, 116 syntax constructions/341 records, 53 source-policy decisions after PG555−1, and 300 observations. Three junction constructions/nine readouts since PG680, four provenance corrections and one proof addendum. PG335 and PG357–363 CLOSED preserved.
+
+The exact 2.1.39/40 and 6.3.13/14 wording correspondence is settled for the named source loci. The primary literal śīrṣa field, historical edition lineage, other compound scopes, wider C2–C5/S1–S7 and Claude execution remain tracked. The containing commit pins this packet.
+
 ## PG691 · Bharaṭa, short aṭac and the ṣit feminine
 
 PG691: [Bharaṭa short aṭac and the owned ṣṭhan derivative](bharata_atac_and_bhastradi_sthan_owned_cases/README.md). Śabdakalpadruma gives short aṭac under 4.104. Kāśikā's bhastrādi case preserves original ṣ for ṅīṣ. Three written case fibres add 72 nominal positions and 74 readings. Census 52,323 finite and 8,084 nominal positions/9,345 readings. The four separate 4.105 fields stay Open.

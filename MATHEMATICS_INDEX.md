@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG692: [Locative load compounds and the scoped conveyance taddhita](research/panini_grammar/bhastradi_head_shoulder_aluk_and_owned_taddhita/README.md). Typed zero-specialization separately preserves the source membership, locative ending, supporting instrumental and final sup/num/nuṭ history.
+
 PG691: [Precursor aṭac and the bharaṭika/ī derivative](research/panini_grammar/bharata_atac_and_bhastradi_sthan_owned_cases/README.md). The typed product retains the root, the taddhita marker used by the feminine selector, and both independently elided final vowels.
 
 PG690: [Joined two-hetu sam–gam with a patient controller](research/panini_grammar/sam_gam_joined_nested_patient_passive_ten_lakara/README.md). Typed specialization preserves both instrumental agents, scoped agreement, the corrected passive affix owners and the correlated perfect policy across the joined prefix cut.

@@ -1,0 +1,154 @@
+{
+  "publication_parent": "03a94bb15f1af2b6d6fbc874646d58034a8403e9",
+  "date": "2026-11-24",
+  "project_dependencies": [
+    {
+      "commit": "03a94bb15f1af2b6d6fbc874646d58034a8403e9",
+      "path": "research/panini_grammar/bharata_atac_and_bhastradi_sthan_owned_cases/STATE.json",
+      "git_blob_sha": "6cf9d7eb8000fc19e01befa0a1e4de05ef117f2e",
+      "bytes": 2412,
+      "sha256": "176539ed2e8d002e36c407dbeb68c62469200f18af25395ef77a9a2e33f4ba30",
+      "use": "PG691 census"
+    },
+    {
+      "commit": "03a94bb15f1af2b6d6fbc874646d58034a8403e9",
+      "path": "research/panini_grammar/bharata_atac_and_bhastradi_sthan_owned_cases/RELATION.json",
+      "git_blob_sha": "e47c53368c329cb6ab5e44a9c2948fd8dce9ec64",
+      "bytes": 6244,
+      "sha256": "a3c651848e45b1dfcae7470f60796a8bf94abc99c33a093bd7b2a5dd0ca7607f",
+      "use": "PG691 masculine/feminine case tails"
+    },
+    {
+      "commit": "03a94bb15f1af2b6d6fbc874646d58034a8403e9",
+      "path": "research/panini_grammar/bharata_atac_and_bhastradi_sthan_owned_cases/DERIVATION_AND_NATIVE_RECOVERY.md",
+      "git_blob_sha": "5bde817974da626e72e5cc458e7bceddda372676",
+      "bytes": 7084,
+      "sha256": "a194a20662050815545c31132be8386285ea1f5dc7c150878a19ad230897578b",
+      "use": "PG691 ṣṭhan, 7.3.50, and the ṅīṣ argument"
+    },
+    {
+      "commit": "16d5a9de3f71c9e4162841d0893f1e2495ce7867",
+      "path": "research/panini_grammar/bhedita_feminine_tap_and_neuter_num/NOMINAL_FORMS.tsv",
+      "git_blob_sha": "68cfbde6ab158833fad4ad8d77b736a61d346acc",
+      "bytes": 2837,
+      "sha256": "8dcef098ef22e393ac5ef0eb31913264121cba177bbedcbd35d0c1bd614927b5",
+      "use": "PG373 neuter sup and num tails"
+    },
+    {
+      "commit": "97bdbeb8c3a0352660c5571dc9c7b56feab4493a",
+      "path": "research/panini_grammar/compound_accent_stems/RULES_6_3_A.md",
+      "git_blob_sha": "c57dc76c688c07d3b8474ff1c7ca8ee1d5b32381",
+      "bytes": 16924,
+      "sha256": "e1511b865b47e2b49e7019a0b88a0fe38b3831266db9e5f0bc270cc92aad6604",
+      "use": "PG39 scoped 6.3.14 aluk eligibility"
+    },
+    {
+      "commit": "ada439f6ba3109d798b41c216fe7cedc79e60afb",
+      "path": "research/panini_grammar/SUTRAPATHA.tsv",
+      "git_blob_sha": "1840f3b5349b21112ac05a7efaa59705fd4efee0",
+      "bytes": 270179,
+      "sha256": "70dfdfe6ba433b6e211f0f01b078c1b6d13a1ad0938e06fd5789298a04583634",
+      "use": "Exact project rule-number and wording concordance"
+    },
+    {
+      "commit": "ada439f6ba3109d798b41c216fe7cedc79e60afb",
+      "path": "research/panini_grammar/SOURCE_PINS.json",
+      "git_blob_sha": "459ce20dab55ab53a4bfbba8f058f0fec15f67e4",
+      "bytes": 8244,
+      "sha256": "efcf6147b2bc94109d79ccb823bb729638669f8f9591cddc677e6107ae2bef68",
+      "use": "Primary frozen gaṇa and Dhātupāṭha source manifest"
+    },
+    {
+      "commit": "b05e46bf78f165e17c4766d6d1179a1699a72fcf",
+      "path": "research/panini_grammar/grammar_construction/NATIVE_OPERATOR_LIFT.md",
+      "git_blob_sha": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+      "bytes": 11855,
+      "sha256": "f52e7f5cf539ef56859b890669ef738848491e4005e73be75baa49c899b5dafd",
+      "use": "PG14 full operator and history carrier"
+    }
+  ],
+  "external_pins": [
+    {
+      "repository": "ashtadhyayi-com/data",
+      "commit": "5744762f010d677cfb43f347a42d02796cf615d6",
+      "path": "ganapath/data.txt",
+      "blob": "b6fe747ea54bfbf32b659786eba2dbdc8018eb3f",
+      "sha256": "4b69d16c434de95c56a97311fd3186e55ba2cbd71776a0ef9e75f4ec6660e542",
+      "locator": "data[ind=138] actual seven listed members"
+    },
+    {
+      "repository": "ashtadhyayi-com/data",
+      "commit": "5744762f010d677cfb43f347a42d02796cf615d6",
+      "path": "dhatu/data.txt",
+      "blob": "b5d0370790598ca969db659e7833ccf0df98a9a4",
+      "sha256": "e8c0e929294c4ab68455b461ee81234e7a0febac1b72e6873ea832354a28b641",
+      "locator": "i 1011045, bhṛñ bharaṇe in gaṇa 1; compare i 1030006 ḍubhṛñ in gaṇa 3"
+    }
+  ],
+  "web_evidence": [
+    {
+      "id": "NY",
+      "url": "https://sanskritdocuments.org/~sanskrit/learning_tools/ashtadhyayi/vyakhya/4/4.4.16.htm",
+      "locator": "Nyāsa 4.4.16 śīrṣebhāra, śiras, saptamī, local 6.3.13; Tattvabodhinī 1199 gives the alternate",
+      "use": "Exact two-part compound argument and named membership"
+    },
+    {
+      "id": "KSC",
+      "url": "https://sa.wikisource.org/wiki/काशिका/चतुर्थोऽध्यायः/चतुर्थः_पादः",
+      "revision": "90398",
+      "locator": "4.4.16 Kāśikā",
+      "use": "All four compound members and their inherited instrumental harati scope"
+    },
+    {
+      "id": "S2",
+      "url": "https://sanskritdocuments.org/~sanskrit/learning_tools/ashtadhyayi/vyakhya/2/2.1.39.htm",
+      "locator": "Lemma and Nyāsa 2.1.39, Kāśikā 2.1.40, same wording",
+      "use": "First direct cross-number witness"
+    },
+    {
+      "id": "S6",
+      "url": "https://sanskritdocuments.org/~sanskrit/learning_tools/ashtadhyayi/vyakhya/6/6.3.14.htm",
+      "locator": "Lemma/Nyāsa 6.3.13, Kāśikā 6.3.14; both and negative bahulam controls",
+      "use": "Second direct cross-number witness"
+    },
+    {
+      "id": "S6_LINK",
+      "url": "https://sanskritdocuments.org/~sanskrit/learning_tools/ashtadhyayi/vyakhya/6/6.3.13.htm",
+      "locator": "The actual Nyāsa cross-link resolves to the different bandhe ca vibhāṣā page",
+      "use": "The href and addressed rule must be interpreted separately"
+    },
+    {
+      "id": "YOGA",
+      "url": "https://sanskrit.nic.in/msp/upload/digitized_slm_pdf/Acharya/1st_year/VA_I_01_Path_1_6.pdf",
+      "locator": "In the hal antyam discussion, the alternative split at saha supā 2.1.4",
+      "use": "The course reading questions the separate force of saptamī in that generic context; it does not discuss this load doublet"
+    },
+    {
+      "id": "SKD",
+      "url": "https://sa.wikisource.org/wiki/शब्दकल्पद्रुमः/भपतिः",
+      "revision": "44027",
+      "locator": "bhāraḥ entry, 3.3.19 ghañ and carried load",
+      "use": "Positive lexical root, affix and non-agent load"
+    },
+    {
+      "id": "MW_H",
+      "url": "https://sanskrit.uohyd.ac.in/SKT/MW/263.html",
+      "locator": "śīrṣabhāra/śīrṣebhāra and their ika entries",
+      "use": "Lexical head-load and three-gender conveyor derivatives"
+    },
+    {
+      "id": "MW_S",
+      "url": "https://scl.samsaadhanii.in/SKT/MW/1.html",
+      "corroborating_url": "https://www.gretil.uni-goettingen.de/gretil/6_sres/2_dict/mwse_u.htm",
+      "locator": "aṃsabhāra/aṃsebhāra and their ika entries with feminine ī",
+      "use": "Lexical shoulder-load and three-gender conveyor derivatives"
+    }
+  ],
+  "observation_units": [
+    "Nyāsa 4.4.16's phrase-based references and exact source-number correspondence",
+    "Śabdakalpadruma's ghañ and carried load bhāra",
+    "Monier-Williams's two head-load and two conveyor entries",
+    "Monier-Williams's two shoulder-load and two conveyor entries"
+  ],
+  "decision": "Accept only the source-named inner locative alternation for these two supplied load constructions and match 4.4.16 on the Kāśikā gaṇa. Preserve the distinct raw listed member and the normalized cross-references."
+}

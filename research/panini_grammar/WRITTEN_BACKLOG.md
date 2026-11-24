@@ -1,6 +1,8 @@
-# Written-development backlog at PG691
+# Written-development backlog at PG692
 
-Monty · 2026-11-24 · reviewed current parent b862b9e171d89676369f57b97015b4d1fef09d4c. Historical closures below retain their exact pins.
+Monty · 2026-11-24 · reviewed current parent 03a94bb15f1af2b6d6fbc874646d58034a8403e9. Historical closures below retain their exact pins.
+
+PG692 closes the [two source-named head/shoulder load doublets and their three-gender conveyors](bhastradi_head_shoulder_aluk_and_owned_taddhita/README.md). There are 192 new nominal positions/396 readings and four compound plans. Nyāsa's wording locates the project 2.1.40 and 6.3.14 even where its numerical cross-link differs. The printed gaṇa lineage, the primary stand-alone śīrṣa use, accent and independent contextual witnesses, S1–S7/C2–C5 and Claude execution remain distinct obligations.
 
 PG691 closes the [short-a bharaṭa potter and selected bharaṭika/bharaṭikī case fibres](bharata_atac_and_bhastradi_sthan_owned_cases/README.md) at 72 new nominal positions/74 readings. Actual 4.4.16 membership is bhastrādi; inherited conveyance alone determines the semantic relation. Śabdakalpadruma 4.104 and Vācaspatyam retain their own aṭac/aṭan analyses. The digital feminine display *bharāṭakī*, primary long-ā shortening or textual history, four 4.105 fields, other gaṇa members, C2–C5/S1–S7 and Claude execution remain tracked.
 

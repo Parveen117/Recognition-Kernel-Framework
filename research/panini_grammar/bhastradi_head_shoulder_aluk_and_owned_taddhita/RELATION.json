@@ -1,0 +1,324 @@
+{
+  "schema": "rkf.panini.pg692.relation.v1",
+  "scope": {
+    "family": "two supplied bhāra load compounds and their means-of-conveying adjectives",
+    "head": {
+      "meaning": "the thing carried in the named load sense",
+      "root_id": 1011045,
+      "sense": "bharaṇe",
+      "preverb": null,
+      "formation": "ghañ under 3.3.19"
+    },
+    "internal": {
+      "role": "location of the load",
+      "case": "inner locative śīrṣe or aṃse",
+      "aluk": "local bahulam pair supported by named sources"
+    },
+    "external": {
+      "role": "tṛtīyā-compatible basis of conveyance, with harati",
+      "affix": "ṣṭhan under 4.4.16",
+      "feminine": "ṅīṣ with original ṣit, 4.1.41",
+      "dental_n_at_pause": "final acc pl -ān; retained by 8.4.37"
+    }
+  },
+  "loads": [
+    {
+      "id": "HEAD",
+      "locus": "head",
+      "member": "śīrṣa",
+      "input_lexeme": "śiras under the compound's nipātana",
+      "compound": [
+        "śīrṣabhāra",
+        "śīrṣebhāra"
+      ],
+      "taddhita": [
+        "śīrṣabhārika",
+        "śīrṣebhārika"
+      ],
+      "feminine": [
+        "śīrṣabhārikī",
+        "śīrṣebhārikī"
+      ],
+      "readout_bodies": [
+        "śīrṣa",
+        "śīrṣe"
+      ],
+      "pronounced_locative": [
+        "luk",
+        "aluk"
+      ],
+      "authority": "Kāśikā both words, Nyāsa/Tattvabodhinī local explanation and MW doublet"
+    },
+    {
+      "id": "SHOULDER",
+      "locus": "shoulder",
+      "member": "aṃsa",
+      "input_lexeme": "aṃsa in the shoulder sense",
+      "compound": [
+        "aṃsabhāra",
+        "aṃsebhāra"
+      ],
+      "taddhita": [
+        "aṃsabhārika",
+        "aṃsebhārika"
+      ],
+      "feminine": [
+        "aṃsabhārikī",
+        "aṃsebhārikī"
+      ],
+      "readout_bodies": [
+        "aṃsa",
+        "aṃse"
+      ],
+      "pronounced_locative": [
+        "luk",
+        "aluk"
+      ],
+      "authority": "Kāśikā and raw gaṇa both words, MW both load/carrier pairs"
+    }
+  ],
+  "normalized_rule_addresses": [
+    {
+      "literal": "सप्तमी शौण्डैः",
+      "project": "2.1.40",
+      "sanskrit_documents_lemma": "2.1.39",
+      "sanskrit_documents_kashika": "2.1.40"
+    },
+    {
+      "literal": "तत्पुरुषे कृति बहुलम्",
+      "project": "6.3.14",
+      "sanskrit_documents_lemma": "6.3.13",
+      "sanskrit_documents_kashika": "6.3.14"
+    }
+  ],
+  "primary_gana": {
+    "ind": 138,
+    "name": "भस्त्रादिः",
+    "sutra": "4.4.16",
+    "vartika": "",
+    "words": "भस्त्रा । भरट । भरण । शीर्ष । शीर्षेभार । अंसभार । अंसेभार ॥",
+    "type": "P"
+  },
+  "cases": {
+    "number_order": [
+      "sg",
+      "du",
+      "pl"
+    ],
+    "tails": [
+      {
+        "case": "nom",
+        "m": [
+          "aḥ",
+          "au",
+          "āḥ"
+        ],
+        "f": [
+          "ī",
+          "yau",
+          "yaḥ"
+        ],
+        "n": [
+          "am",
+          "e",
+          "āṇi"
+        ]
+      },
+      {
+        "case": "acc",
+        "m": [
+          "am",
+          "au",
+          "ān"
+        ],
+        "f": [
+          "īm",
+          "yau",
+          "īḥ"
+        ],
+        "n": [
+          "am",
+          "e",
+          "āṇi"
+        ]
+      },
+      {
+        "case": "ins",
+        "m": [
+          "eṇa",
+          "ābhyām",
+          "aiḥ"
+        ],
+        "f": [
+          "yā",
+          "ībhyām",
+          "ībhiḥ"
+        ],
+        "n": [
+          "eṇa",
+          "ābhyām",
+          "aiḥ"
+        ]
+      },
+      {
+        "case": "dat",
+        "m": [
+          "āya",
+          "ābhyām",
+          "ebhyaḥ"
+        ],
+        "f": [
+          "yai",
+          "ībhyām",
+          "ībhyaḥ"
+        ],
+        "n": [
+          "āya",
+          "ābhyām",
+          "ebhyaḥ"
+        ]
+      },
+      {
+        "case": "abl",
+        "m": [
+          [
+            "āt",
+            "ād"
+          ],
+          "ābhyām",
+          "ebhyaḥ"
+        ],
+        "f": [
+          "yāḥ",
+          "ībhyām",
+          "ībhyaḥ"
+        ],
+        "n": [
+          [
+            "āt",
+            "ād"
+          ],
+          "ābhyām",
+          "ebhyaḥ"
+        ]
+      },
+      {
+        "case": "gen",
+        "m": [
+          "asya",
+          "ayoḥ",
+          "āṇām"
+        ],
+        "f": [
+          "yāḥ",
+          "yoḥ",
+          "īṇām"
+        ],
+        "n": [
+          "asya",
+          "ayoḥ",
+          "āṇām"
+        ]
+      },
+      {
+        "case": "loc",
+        "m": [
+          "e",
+          "ayoḥ",
+          "eṣu"
+        ],
+        "f": [
+          "yām",
+          "yoḥ",
+          "īṣu"
+        ],
+        "n": [
+          "e",
+          "ayoḥ",
+          "eṣu"
+        ]
+      },
+      {
+        "case": "voc",
+        "m": [
+          "a",
+          "au",
+          "āḥ"
+        ],
+        "f": [
+          "i",
+          "yau",
+          "yaḥ"
+        ],
+        "n": [
+          "a",
+          "e",
+          "āṇi"
+        ]
+      }
+    ],
+    "per_load": [
+      {
+        "request": "load noun",
+        "gender": "m",
+        "body_tail": "bhār",
+        "positions": 24,
+        "readings": 50
+      },
+      {
+        "request": "conveyance adjective",
+        "gender": "m",
+        "body_tail": "bhārik",
+        "positions": 24,
+        "readings": 50
+      },
+      {
+        "request": "conveyance adjective",
+        "gender": "f",
+        "body_tail": "bhārik",
+        "positions": 24,
+        "readings": 48
+      },
+      {
+        "request": "conveyance adjective",
+        "gender": "n",
+        "body_tail": "bhārik",
+        "positions": 24,
+        "readings": 50
+      }
+    ]
+  },
+  "open": [
+    "Reasons for the primary gaṇa's stand-alone śīrṣa versus Kāśikā's śīrṣabhāra. The primary śīrṣa field's own conveyor derivation, and the historical split of numbering systems, remain Open.",
+    "Exact literary and accent witnesses for the expanded case panels, the separately supplied analysis under 2.1.4, and wider bhastrādi/compound/role domains.",
+    "C2–C5/S1–S7, including all four S5 fields, and execution deferred to Claude."
+  ],
+  "excluded": [
+    "Counting a ṭhak branch by moving the 4.4.17 option to 4.4.16",
+    "Treating the printed digit 6.3.13 in a local sūtra-address system as the project bandhe rule in the head compound",
+    "Applying isolated śiras taddhita substitution across the bhāra member",
+    "Applying aluk as free optionality to an unlisted locative compound",
+    "Eliding inner aluk e through deletion of the compound's outer selection instrumental",
+    "Treating num, nuṭ, and ending-final n as interchangeable"
+  ],
+  "credit": {
+    "finite_positions": 0,
+    "finite_readings": 0,
+    "nominal_positions": 192,
+    "nominal_readings": 396,
+    "morphological_constructions": 2,
+    "morphological_readouts": 13,
+    "syntactic_constructions": 0,
+    "syntactic_readouts": 0,
+    "phonological_constructions": 0,
+    "phonological_readouts": 0,
+    "accent_constructions": 0,
+    "accent_readouts": 0,
+    "compound_constructions": 2,
+    "compound_readouts": 4,
+    "semantic_constructions": 0,
+    "semantic_readouts": 0,
+    "source_observations": 4,
+    "source_policy_decisions": 1
+  }
+}
