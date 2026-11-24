@@ -2,6 +2,12 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG778 · Ear roots, ribs, wing roots and the first lunar day
+
+PG778 · [Ear roots, ribs, wing roots and the first lunar day](ear_roots_ribs_wing_roots_and_the_first_lunar_day/README.md). Writes 5.2.24–25 with the lunar case sequence, the two levels in Bhaṭṭi’s adjective, and distinct avian and sacrificial anatomy. 32 new nominal positions and 36 readings. Finite positions and readings both increased by zero. One written morphology construction with 10 interfaces, 13 source observations and 5 source decisions. Census: 52,349 finite positions, 21,208 nominal positions and 23,996 nominal readings.
+
+Parent 910b5dc8796ed77aad022a1653ad9d7856974f0b. The containing commit pins this packet. The remaining list variants, the independent accent histories of the calendrical and anatomical terms, and the etymological distribution of the prefixed anatomical name remain Open. Continue 5.2.26–27 with recognition by a quality, the u- and a-stems, and the differently marked indeclinable suffixes. C2–C5 and S1–S7 remain Open. Claude retains execution.
+
 ## PG777 · Seven spoken words and the named product of yesterday’s milking
 
 PG777 · [Seven spoken words and the named product of yesterday’s milking](seven_spoken_words_and_the_named_product_of_yesterdays_milking/README.md). Writes 5.2.20–23, resolves the spoken-word use in Kumārasambhava and separates the long and short milk-product terms. 13 new nominal positions and 13 readings. Finite positions and readings both increased by zero. One written morphology construction with 10 interfaces, 15 source observations and 5 source decisions. Census: 52,349 finite positions, 21,176 nominal positions and 23,960 nominal readings.

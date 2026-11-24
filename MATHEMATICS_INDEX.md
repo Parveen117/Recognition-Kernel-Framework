@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG778 · [Ear roots, ribs, wing roots and the first lunar day](research/panini_grammar/ear_roots_ribs_wing_roots_and_the_first_lunar_day/README.md). PG37 owns the prior rule interfaces. PG778 owns the new contextual histories and the calendrical case requests.
+
 PG777 · [Seven spoken words and the named product of yesterday’s milking](research/panini_grammar/seven_spoken_words_and_the_named_product_of_yesterdays_milking/README.md). PG14 keeps the word, its semantic bearer and the source of the suffix distinct.
 
 PG776 · [Annual birth, two travellers and the length of a horse’s day](research/panini_grammar/annual_birth_two_travellers_and_the_horseday_measure/README.md). PG14 retains the inner case and the owner of each nasal through outer inflection.

@@ -1,6 +1,8 @@
-# Written-development backlog at PG777
+# Written-development backlog at PG778
 
-Monty · 2026-11-25 · reviewed parent 05b82ff8bf310ea00dfa2a032b234f74cbef47ea. Historical closures below retain their exact pins.
+Monty · 2026-11-25 · reviewed parent 910b5dc8796ed77aad022a1653ad9d7856974f0b. Historical closures below retain their exact pins.
+
+PG778 · [Ear roots, ribs, wing roots and the first lunar day](ear_roots_ribs_wing_roots_and_the_first_lunar_day/README.md). The remaining list variants, the independent accent histories of the calendrical and anatomical terms, and the etymological distribution of the prefixed anatomical name remain Open. Continue 5.2.26–27 with recognition by a quality, the u- and a-stems, and the differently marked indeclinable suffixes. C2–C5 and S1–S7 remain Open.
 
 PG777 · [Seven spoken words and the named product of yesterday’s milking](seven_spoken_words_and_the_named_product_of_yesterdays_milking/README.md). The independent literary address of the exact active āhuḥ quotation and the historical derivation of the shorter Bhāgavata stem remain Open. Next take the paired fruit-season and body-part bases of 5.2.24–27, retaining earlier ear-mole, root and field owners. C2–C5 and S1–S7 remain Open.
 

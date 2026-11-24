@@ -1,0 +1,36 @@
+{
+  "stage": "PG778",
+  "date": "2026-11-25",
+  "publication_parent": "910b5dc8796ed77aad022a1653ad9d7856974f0b",
+  "baseline": {
+    "commit": "910b5dc8796ed77aad022a1653ad9d7856974f0b",
+    "path": "research/panini_grammar/seven_spoken_words_and_the_named_product_of_yesterdays_milking/STATE.json"
+  },
+  "finite_positions": 52349,
+  "nominal_positions": 21208,
+  "nominal_readings": 23996,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 32,
+  "new_nominal_readings": 36,
+  "new_morphology_constructions": 1,
+  "new_morphology_interfaces": 10,
+  "new_source_observations": 13,
+  "new_source_policy_decisions": 5,
+  "open_obligations": [
+    "The remaining list variants, the independent accent histories of the calendrical and anatomical terms, and the etymological distribution of the prefixed anatomical name remain Open.",
+    "Continue 5.2.26–27 with recognition by a quality, the u- and a-stems, and the differently marked indeclinable suffixes."
+  ],
+  "local_closure": "PG37 owns the prior rule interfaces. PG778 owns the new contextual histories and the calendrical case requests.",
+  "global_gates": {
+    "C2–C5": "Open",
+    "S1–S7": "Open",
+    "S5_direct_fields": "99/103",
+    "S6": "Independent 5.56 k-it effect Open"
+  },
+  "protected_registers": {
+    "PG335": "-9 finite positions and -12 readings already applied",
+    "PG340/346, PG349–352, PG355–360, PG357–363": "CLOSED on registered scopes"
+  },
+  "runtime_policy": "Written derivation. Only changed-document, source and count checks. Claude owns grammar execution, generators, untouched suites and replay."
+}

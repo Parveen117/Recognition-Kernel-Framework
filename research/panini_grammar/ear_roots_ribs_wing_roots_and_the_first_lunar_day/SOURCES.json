@@ -1,0 +1,119 @@
+{
+  "project_dependencies": [
+    {
+      "commit": "910b5dc8796ed77aad022a1653ad9d7856974f0b",
+      "path": "research/panini_grammar/seven_spoken_words_and_the_named_product_of_yesterdays_milking/STATE.json",
+      "git_blob_sha": "b31f408a53f965a8fdcc688bd36873cdd0fa6021",
+      "sha256": "5b909b47a3a41e73badd803cdca8619c4cc256ba5008690ee84a27137e1eac9a",
+      "use": "Published baseline"
+    },
+    {
+      "commit": "910b5dc8796ed77aad022a1653ad9d7856974f0b",
+      "path": "research/panini_grammar/possession_adverbials/SOURCE_EXCERPTS.json",
+      "git_blob_sha": "56ed94a5eb382934b25425b216cc534504796a3a",
+      "sha256": "b331a2ae11cca694fb978fc08eff91999aedd9be8d4f70039e12f09fd6837fd4",
+      "use": "Frozen PG37 commentary, affix identities and inherited lexical lists."
+    },
+    {
+      "commit": "910b5dc8796ed77aad022a1653ad9d7856974f0b",
+      "path": "research/panini_grammar/possession_adverbials/RULES_5_2_A.md",
+      "git_blob_sha": "aacb540bcaafb01a9e8e423efdfccd6f4a686863",
+      "sha256": "ad3373f5323e1f6e21e2574cfdb0592a215a26a963ca722af40b4d436ee446d9",
+      "use": "PG37 owns the paired rule and the root-only inheritance."
+    },
+    {
+      "commit": "910b5dc8796ed77aad022a1653ad9d7856974f0b",
+      "path": "research/panini_grammar/abstract_nouns_negative_compounds_and_the_breadth_of_a_quality/PANELS.md",
+      "git_blob_sha": "2cdad1b68a09c4d95eb2dac12d6ea7c0e063dff2",
+      "sha256": "fc3d480ef3c701f985476635386ea45c805beaca2c917a8aac2bfc364797e44a",
+      "use": "PG769 owns the adjoining verse, Bhaṭṭi 4.17."
+    },
+    {
+      "commit": "910b5dc8796ed77aad022a1653ad9d7856974f0b",
+      "path": "research/panini_grammar/grammar_construction/NATIVE_OPERATOR_LIFT.md",
+      "git_blob_sha": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+      "sha256": "f52e7f5cf539ef56859b890669ef738848491e4005e73be75baa49c899b5dafd",
+      "use": "PG14 full carrier, history pairing and specialization."
+    }
+  ],
+  "source_observations": [
+    {
+      "id": "K24",
+      "locator": "Kāśikā and Nyāsa, 5.2.24",
+      "url": "https://sanskritdocuments.org/~sanskrit/learning_tools/ashtadhyayi/vyakhya/5/5.2.24.htm",
+      "observation": "Pairs the lists, senses and suffixes in order. The fruit examples retain k and the ear example retains j."
+    },
+    {
+      "id": "BALA",
+      "locator": "Bālamanoramā on 5.2.24",
+      "url": "https://sanskritdocuments.org/~sanskrit/learning_tools/ashtadhyayi/vyakhya/5/5.2.24.htm",
+      "observation": "Specifies that the initial k and j are pronounced. Retain final markers under their own suffix histories."
+    },
+    {
+      "id": "PU",
+      "locator": "Puṣpā-prati, Kāśikā 5.2.24–25",
+      "url": "https://vishvasa.github.io/sanskrit/vyAkaraNam/pANinIyam/mUlAni/kAshikA/puShpA-pratiH/5/02/",
+      "observation": "The joined consonant spelling and the list containing both mukha and makha are local textual facts."
+    },
+    {
+      "id": "K25",
+      "locator": "Kāśikā, Nyāsa and Bālā on 5.2.25",
+      "url": "https://sanskritdocuments.org/~sanskrit/learning_tools/ashtadhyayi/vyakhya/5/5.2.25.htm",
+      "observation": "Only the root member of the preceding coordinated senses carries forward. Its example identifies the first lunar day."
+    },
+    {
+      "id": "PAD",
+      "locator": "Padamañjarī on 5.2.24–25",
+      "url": "https://ashtadhyayi.com/padamanjari/19",
+      "observation": "Distinguishes transformation and beginning. Discusses selective inheritance despite the common prescription."
+    },
+    {
+      "id": "BK",
+      "locator": "Bhaṭṭikāvya 4.15–17, especially 4.16",
+      "url": "https://akshara.ru/texts/bhattikavyam?chapter=4",
+      "observation": "The female figure bears the ear-root adjective. The moon comparison contains the temporal locative."
+    },
+    {
+      "id": "J",
+      "locator": "Jayamaṅgalā on Bhaṭṭi 4.16, stanza serial 154, printed p. 76",
+      "url": "https://jainqq.org/booktext/Bhattikavyam/034481",
+      "observation": "Inside her adjective the eyes reach the two ear roots. The omitted participle and the internal dual belong to the prose analysis. The lunar day is explicitly identified."
+    },
+    {
+      "id": "AM",
+      "locator": "Amarakośa with Sudhā, Siṃhādivarga, digital page 207",
+      "url": "https://sa.wikisource.org/wiki/पृष्ठम्:अमरकोशः_(सुधाव्याख्योपेतः).djvu/२०७",
+      "observation": "Names the wing root among bird terms and marks pakṣati as feminine."
+    },
+    {
+      "id": "TS",
+      "locator": "Taittirīya Saṃhitā 5.7.21.1",
+      "url": "https://sa.wikisource.org/wiki/तैत्तिरीयसंहिता(विस्वरः)/काण्डम्_५/प्रपाठकः_७",
+      "observation": "Opens the sequence with Agni, Sarasvatī and Soma."
+    },
+    {
+      "id": "SAY",
+      "locator": "Sāyaṇa on TS 5.7.21.1",
+      "url": "https://vishvasa.github.io/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sAyaNaH/5/7/21/",
+      "observation": "The first rib is situated at the root of the right side. The next rib is nipakṣati."
+    },
+    {
+      "id": "VS",
+      "locator": "Mādhyandina Vājasaneyi Saṃhitā 25.4, Saṃhitā and Pada",
+      "url": "https://xn--j2b3a4c.com/yajurveda/25/4",
+      "observation": "The Pada distinguishes pakṣatiḥ and ni-pakṣatiḥ. The first three deity allocations are Agni, Vāyu and Indra."
+    },
+    {
+      "id": "SK",
+      "locator": "Siddhāntakaumudī, ajantastrīliṅga, SK 296–297",
+      "url": "https://www.premabase.com/siddhanta-kaumudi/p09/textbook/index.html",
+      "observation": "Optional nadī designation before ṅ-marked singular obliques of short feminine i. The worked example is mati."
+    },
+    {
+      "id": "MAT",
+      "locator": "MDU Sanskrit Vyākaraṇa, ikārānta feminine mati",
+      "url": "https://mdu.ac.in/UpFiles/UpPdfFiles/2020/Jan/Sanskrit_Vyakaran.pdf",
+      "observation": "Independent case model including instrumental yā, dual bhyām and plural bhiḥ. Supplies inflectional evidence for the written application."
+    }
+  ]
+}

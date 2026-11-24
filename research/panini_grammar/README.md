@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG778 · [Ear roots, ribs, wing roots and the first lunar day](ear_roots_ribs_wing_roots_and_the_first_lunar_day/README.md). Writes 5.2.24–25 with the lunar case sequence, the two levels in Bhaṭṭi’s adjective, and distinct avian and sacrificial anatomy. 32 new nominal positions and 36 readings. Finite positions and readings both increased by zero.
+
 PG777 · [Seven spoken words and the named product of yesterday’s milking](seven_spoken_words_and_the_named_product_of_yesterdays_milking/README.md). Writes 5.2.20–23, resolves the spoken-word use in Kumārasambhava and separates the long and short milk-product terms. 13 new nominal positions and 13 readings. Finite positions and readings both increased by zero.
 
 PG776 · [Annual birth, two travellers and the length of a horse’s day](annual_birth_two_travellers_and_the_horseday_measure/README.md). Writes the two annual-birth histories, the road and approach suffixes, and two directly located Vedic horse-day measures at 5.2.12–19. 40 new nominal positions and 52 readings. Finite positions and readings both increased by zero.

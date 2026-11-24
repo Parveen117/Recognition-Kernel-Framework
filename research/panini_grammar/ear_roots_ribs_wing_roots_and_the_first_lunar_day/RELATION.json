@@ -1,0 +1,360 @@
+{
+  "stage": "PG778",
+  "morphology_interfaces": [
+    {
+      "id": "PILU",
+      "base": "pīlu in its lexical list",
+      "guard": "ripening of the fruit",
+      "affix": "kuṇap",
+      "result": "pīlukuṇa"
+    },
+    {
+      "id": "KARK",
+      "base": "karkandhu in the same list",
+      "guard": "ripening of its fruit",
+      "affix": "kuṇap",
+      "result": "karkandhukuṇa"
+    },
+    {
+      "id": "EAR",
+      "base": "karṇa in the second list",
+      "guard": "root of the named part",
+      "affix": "jāhac",
+      "result": "karṇajāha"
+    },
+    {
+      "id": "INNER",
+      "base": "two ear roots in the analysis",
+      "guard": "eyes reach both locations",
+      "affix": "locative dual before compound suppression",
+      "result": "karṇajāhayoḥ"
+    },
+    {
+      "id": "OUTER",
+      "base": "eyes extending to the two ear roots",
+      "guard": "woman who possesses these eyes",
+      "affix": "bahuvrīhi with implied viśrānte, feminine nominative",
+      "result": "karṇajāhavilocanā"
+    },
+    {
+      "id": "DAY",
+      "base": "pakṣa as half-month",
+      "guard": "its beginning, pratipad",
+      "affix": "ti at 5.2.25",
+      "result": "pakṣati"
+    },
+    {
+      "id": "WING",
+      "base": "pakṣa as wing",
+      "guard": "root of the wing",
+      "affix": "lexical equivalence in Amara",
+      "result": "pakṣati"
+    },
+    {
+      "id": "RIB",
+      "base": "right side of the sacrificial animal",
+      "guard": "rib at its root in the Taittirīya commentary",
+      "affix": "textual anatomical name",
+      "result": "pakṣati"
+    },
+    {
+      "id": "NEXT",
+      "base": "second rib in the series",
+      "guard": "distinct deity allocation indexed by recension",
+      "affix": "lexical ni-pakṣati in the VS Pada",
+      "result": "nipakṣati"
+    },
+    {
+      "id": "INFLECT",
+      "base": "calendrical feminine pakṣati",
+      "guard": "select requested sup and number",
+      "affix": "short-i feminine with optional nadī before ṅit",
+      "result": "case-indexed panel"
+    }
+  ],
+  "nominal_positions": [
+    {
+      "id": "FR1",
+      "source": "K24",
+      "input_history": "PILU",
+      "case_number": "M NOMsg",
+      "word": "pīlukuṇaḥ",
+      "interpretation": "Citation for the ripening of the pīlu fruits."
+    },
+    {
+      "id": "FR2",
+      "source": "K24",
+      "input_history": "KARK",
+      "case_number": "M NOMsg",
+      "word": "karkandhukuṇaḥ",
+      "interpretation": "Corresponding named ripening for the second plant."
+    },
+    {
+      "id": "EAR",
+      "source": "K24",
+      "input_history": "EAR",
+      "case_number": "N NOMsg",
+      "word": "karṇajāham",
+      "interpretation": "Predicate identifying the ear root."
+    },
+    {
+      "id": "TWO",
+      "source": "J",
+      "input_history": "INNER",
+      "case_number": "N LOCdu",
+      "word": "karṇajāhayoḥ",
+      "interpretation": "Jayamaṅgalā locates the two eyes there in the analysis. The poem has the compound."
+    },
+    {
+      "id": "FACE",
+      "source": "BK",
+      "input_history": "OUTER",
+      "case_number": "F NOMsg",
+      "word": "karṇajāhavilocanā",
+      "interpretation": "External possessor in the stanza. Count only the whole adjective here."
+    },
+    {
+      "id": "BIRD",
+      "source": "AM",
+      "input_history": "WING",
+      "case_number": "F NOMsg",
+      "word": "pakṣatiḥ",
+      "interpretation": "The root of a wing in the bird vocabulary."
+    },
+    {
+      "id": "RIB1",
+      "source": "TS",
+      "input_history": "RIB",
+      "case_number": "F NOMsg",
+      "word": "pakṣatiḥ",
+      "interpretation": "First rib, assigned to Agni. The corresponding VS token is the same request."
+    },
+    {
+      "id": "RIB2",
+      "source": "VS",
+      "input_history": "NEXT",
+      "case_number": "F NOMsg",
+      "word": "nipakṣatiḥ",
+      "interpretation": "Separate second anatomical name in the Pada. TS and VS associate it with different deities."
+    },
+    {
+      "id": "DAYNOMsg",
+      "source": "K25",
+      "input_history": "DAY/INFLECT",
+      "case_number": "F NOMsg",
+      "word": "pakṣatiḥ",
+      "interpretation": "The commentary names the first lunar day."
+    },
+    {
+      "id": "DAYNOMdu",
+      "source": "SK",
+      "input_history": "DAY/INFLECT",
+      "case_number": "F NOMdu",
+      "word": "pakṣatī",
+      "interpretation": "Written case of the calendrical word, constructed on the feminine short-i model."
+    },
+    {
+      "id": "DAYNOMpl",
+      "source": "SK",
+      "input_history": "DAY/INFLECT",
+      "case_number": "F NOMpl",
+      "word": "pakṣatayaḥ",
+      "interpretation": "Written case of the calendrical word, constructed on the feminine short-i model."
+    },
+    {
+      "id": "DAYACCsg",
+      "source": "SK",
+      "input_history": "DAY/INFLECT",
+      "case_number": "F ACCsg",
+      "word": "pakṣatim",
+      "interpretation": "Written case of the calendrical word, constructed on the feminine short-i model."
+    },
+    {
+      "id": "DAYACCdu",
+      "source": "SK",
+      "input_history": "DAY/INFLECT",
+      "case_number": "F ACCdu",
+      "word": "pakṣatī",
+      "interpretation": "Written case of the calendrical word, constructed on the feminine short-i model."
+    },
+    {
+      "id": "DAYACCpl",
+      "source": "SK",
+      "input_history": "DAY/INFLECT",
+      "case_number": "F ACCpl",
+      "word": "pakṣatīḥ",
+      "interpretation": "Written case of the calendrical word, constructed on the feminine short-i model."
+    },
+    {
+      "id": "DAYINSsg",
+      "source": "SK",
+      "input_history": "DAY/INFLECT",
+      "case_number": "F INSsg",
+      "word": "pakṣatyā",
+      "interpretation": "Written case of the calendrical word, constructed on the feminine short-i model."
+    },
+    {
+      "id": "DAYINSdu",
+      "source": "SK",
+      "input_history": "DAY/INFLECT",
+      "case_number": "F INSdu",
+      "word": "pakṣatibhyām",
+      "interpretation": "Written case of the calendrical word, constructed on the feminine short-i model."
+    },
+    {
+      "id": "DAYINSpl",
+      "source": "SK",
+      "input_history": "DAY/INFLECT",
+      "case_number": "F INSpl",
+      "word": "pakṣatibhiḥ",
+      "interpretation": "Written case of the calendrical word, constructed on the feminine short-i model."
+    },
+    {
+      "id": "DAYDATsg",
+      "source": "SK",
+      "input_history": "DAY/INFLECT",
+      "case_number": "F DATsg",
+      "word": "pakṣataye / pakṣatyai",
+      "interpretation": "Written case of the calendrical word, constructed on the feminine short-i model."
+    },
+    {
+      "id": "DAYDATdu",
+      "source": "SK",
+      "input_history": "DAY/INFLECT",
+      "case_number": "F DATdu",
+      "word": "pakṣatibhyām",
+      "interpretation": "Written case of the calendrical word, constructed on the feminine short-i model."
+    },
+    {
+      "id": "DAYDATpl",
+      "source": "SK",
+      "input_history": "DAY/INFLECT",
+      "case_number": "F DATpl",
+      "word": "pakṣatibhyaḥ",
+      "interpretation": "Written case of the calendrical word, constructed on the feminine short-i model."
+    },
+    {
+      "id": "DAYABLsg",
+      "source": "SK",
+      "input_history": "DAY/INFLECT",
+      "case_number": "F ABLsg",
+      "word": "pakṣateḥ / pakṣatyāḥ",
+      "interpretation": "Written case of the calendrical word, constructed on the feminine short-i model."
+    },
+    {
+      "id": "DAYABLdu",
+      "source": "SK",
+      "input_history": "DAY/INFLECT",
+      "case_number": "F ABLdu",
+      "word": "pakṣatibhyām",
+      "interpretation": "Written case of the calendrical word, constructed on the feminine short-i model."
+    },
+    {
+      "id": "DAYABLpl",
+      "source": "SK",
+      "input_history": "DAY/INFLECT",
+      "case_number": "F ABLpl",
+      "word": "pakṣatibhyaḥ",
+      "interpretation": "Written case of the calendrical word, constructed on the feminine short-i model."
+    },
+    {
+      "id": "DAYGENsg",
+      "source": "SK",
+      "input_history": "DAY/INFLECT",
+      "case_number": "F GENsg",
+      "word": "pakṣateḥ / pakṣatyāḥ",
+      "interpretation": "Written case of the calendrical word, constructed on the feminine short-i model."
+    },
+    {
+      "id": "DAYGENdu",
+      "source": "SK",
+      "input_history": "DAY/INFLECT",
+      "case_number": "F GENdu",
+      "word": "pakṣatyoḥ",
+      "interpretation": "Written case of the calendrical word, constructed on the feminine short-i model."
+    },
+    {
+      "id": "DAYGENpl",
+      "source": "SK",
+      "input_history": "DAY/INFLECT",
+      "case_number": "F GENpl",
+      "word": "pakṣatīnām",
+      "interpretation": "Written case of the calendrical word, constructed on the feminine short-i model."
+    },
+    {
+      "id": "DAYLOCsg",
+      "source": "BK",
+      "input_history": "DAY/INFLECT",
+      "case_number": "F LOCsg",
+      "word": "pakṣatau / pakṣatyām",
+      "interpretation": "Bhaṭṭi attests pakṣatau. The second form is constructed on the optional feminine oblique route."
+    },
+    {
+      "id": "DAYLOCdu",
+      "source": "SK",
+      "input_history": "DAY/INFLECT",
+      "case_number": "F LOCdu",
+      "word": "pakṣatyoḥ",
+      "interpretation": "Written case of the calendrical word, constructed on the feminine short-i model."
+    },
+    {
+      "id": "DAYLOCpl",
+      "source": "SK",
+      "input_history": "DAY/INFLECT",
+      "case_number": "F LOCpl",
+      "word": "pakṣatiṣu",
+      "interpretation": "Written case of the calendrical word, constructed on the feminine short-i model."
+    },
+    {
+      "id": "DAYVOCsg",
+      "source": "SK",
+      "input_history": "DAY/INFLECT",
+      "case_number": "F VOCsg",
+      "word": "pakṣate",
+      "interpretation": "Written case of the calendrical word, constructed on the feminine short-i model."
+    },
+    {
+      "id": "DAYVOCdu",
+      "source": "SK",
+      "input_history": "DAY/INFLECT",
+      "case_number": "F VOCdu",
+      "word": "pakṣatī",
+      "interpretation": "Written case of the calendrical word, constructed on the feminine short-i model."
+    },
+    {
+      "id": "DAYVOCpl",
+      "source": "SK",
+      "input_history": "DAY/INFLECT",
+      "case_number": "F VOCpl",
+      "word": "pakṣatayaḥ",
+      "interpretation": "Written case of the calendrical word, constructed on the feminine short-i model."
+    }
+  ],
+  "source_policy_decisions": [
+    {
+      "id": "PAIR",
+      "sources": "K24,BALA,PU",
+      "decision": "Pair the operands in order. A ripening of an ear or a fruit root on the same ordered input is excluded. No new marker from the voiced joined spelling."
+    },
+    {
+      "id": "PART",
+      "sources": "K25,PAD,BK,J",
+      "decision": "Carry only the root or beginning at 25. Register two attested calendrical cases within the ordinary feminine paradigm."
+    },
+    {
+      "id": "LEVEL",
+      "sources": "BK,J",
+      "decision": "External feminine singular, internal locative dual and the lunar time adverbial have distinct operands. The internal dual is attested in the commentary."
+    },
+    {
+      "id": "LEX",
+      "sources": "AM,TS,SAY,VS",
+      "decision": "Separate the wing root, rib at the root of the right side, and first lunar day. Record the next rib separately. Keep both recensional deity sequences."
+    },
+    {
+      "id": "CASES",
+      "sources": "SK,MAT,BK,K25",
+      "decision": "Four singular positions have two licensed readings. Direct textual support for pakṣatau does not imply that its alternate occurs in the stanza."
+    }
+  ]
+}

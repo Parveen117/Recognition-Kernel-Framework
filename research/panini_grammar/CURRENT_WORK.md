@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG777
+# Pāṇini grammar · current written coverage at PG778
+
+PG778 · [Ear roots, ribs, wing roots and the first lunar day](ear_roots_ribs_wing_roots_and_the_first_lunar_day/README.md). Writes 5.2.24–25 with the lunar case sequence, the two levels in Bhaṭṭi’s adjective, and distinct avian and sacrificial anatomy. Census: 52,349 finite positions, 21,208 nominal positions and 23,996 nominal readings.
 
 PG777 · [Seven spoken words and the named product of yesterday’s milking](seven_spoken_words_and_the_named_product_of_yesterdays_milking/README.md). Writes 5.2.20–23, resolves the spoken-word use in Kumārasambhava and separates the long and short milk-product terms. Census: 52,349 finite positions, 21,176 nominal positions and 23,960 nominal readings.
 
