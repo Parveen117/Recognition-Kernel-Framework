@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG730
+# Pāṇini grammar · current written coverage at PG731
+
+PG731 · [Appointed buildings, prohibited study and two senses of residence](appointed_buildings_prohibited_study_and_residence/README.md). Derives the selected 4.4.70–73 locative forms and Hemacandra 6.4.75–77 parallels. The editions settle sāndhyika and the Vasu short crossroads spelling, and the residence commentators retain distinct conditions. Census 52,341 finite positions and 15,877 nominal positions with 18,019 nominal readings.
 
 PG730 · [Assigned dishes, ṭiṭhan and appointed offices](assigned_dishes_title_affix_and_appointed_locus/README.md). Separates the whole-dish and independently allocated ingredient policies, the two bhakta affixes and appointment at a location. Vasu’s print confirms bhāktika and gaulmika where digital displays disagree. Census 52,341 finite positions and 15,109 nominal positions with 17,232 nominal readings.
 

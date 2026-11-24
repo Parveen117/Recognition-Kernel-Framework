@@ -1,6 +1,8 @@
-# Written-development backlog at PG730
+# Written-development backlog at PG731
 
-Monty · 2026-11-24 · reviewed current parent 4f49bf63473d70917be71c3a3df039f4cdcf5090. Historical closures below retain their exact pins.
+Monty · 2026-11-24 · reviewed current parent c60431971505e65236c677745e4c291bc5db2366. Historical closures below retain their exact pins.
+
+PG731 · [Appointed buildings, prohibited study and two senses of residence](appointed_buildings_prohibited_study_and_residence/README.md). The selected 4.4.70–73 and Haima 6.4.75–77 case fibres and three print comparisons are locally CLOSED. The independent grammatical authority for Vasu's short crossroads form, the precise Haima extra-place/time readings, the alternative prastāra reference and further residence witnesses stay Open. The separately marked 4.4.74 suffix and subsequent yat scope require their own construction. C2–C5/S1–S7 and Claude execution retain their obligations.
 
 PG730 · [Assigned dishes, ṭiṭhan and appointed offices](assigned_dishes_title_affix_and_appointed_locus/README.md). The selected 4.4.67–69 allocations and appointments have masculine and feminine case fibres and direct 1896 print collation. The exact historical root assignment of śrāṇā, the wider lexical sources of short bhaktika and digital gaulūmika, and independent citation tones remain Open. The 4.4.70–72 appointed-building, prohibited-study and trading frames require construction. Wider C2–C5/S1–S7 and Claude execution retain their obligations.
 

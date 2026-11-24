@@ -2,6 +2,16 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG731 · Appointed buildings, prohibited study and two senses of residence
+
+PG731 · [Appointed buildings, prohibited study and two senses of residence](appointed_buildings_prohibited_study_and_residence/README.md). Derives the selected 4.4.70–73 locative forms and Hemacandra 6.4.75–77 parallels. The editions settle sāndhyika and the Vasu short crossroads spelling, and the residence commentators retain distinct conditions. Census 52,341 finite positions and 15,877 nominal positions with 18,019 nominal readings.
+
+Finite increments 0 positions/0 readings. Nominal increments 768 positions/787 readings. One morphology construction/40 interfaces, one compound construction/7 plans, one syntax construction/10 readouts, one semantic construction/8 readouts, one junction construction/7 readouts and one accent construction/3 records. 22 source observations and 16 source-policy decisions. Publication parent c60431971505e65236c677745e4c291bc5db2366. The containing commit pins the documents and evidence.
+
+PG521–731 cumulative: 522 finite positions/1,440 net finite readings, 10,099 nominal positions/11,276 readings, 305 morphology constructions/3,295 interfaces, 139 compound constructions/642 plans, 37 accent constructions/152 records, 163 semantics constructions/517 records, 152 syntax constructions/603 records, 345 source-policy decisions after PG555−1 and 733 observations. Thirty-five junction constructions/126 readouts since PG680 and 22 nonfinite constructions/28 paths since PG700. PG335 and PG357–363 CLOSED results are preserved.
+
+The selected 4.4.70–73 and Haima 6.4.75–77 case fibres and three print comparisons are locally CLOSED. The independent grammatical authority for Vasu's short crossroads form, the precise Haima extra-place/time readings, the alternative prastāra reference and further residence witnesses stay Open. The separately marked 4.4.74 suffix and subsequent yat scope require their own construction. C2–C5/S1–S7 and Claude execution retain their obligations.
+
 ## PG730 · Assigned dishes, ṭiṭhan and appointed offices
 
 PG730 · [Assigned dishes, ṭiṭhan and appointed offices](assigned_dishes_title_affix_and_appointed_locus/README.md). Separates the whole-dish and independently allocated ingredient policies, the two bhakta affixes and appointment at a location. Vasu’s print confirms bhāktika and gaulmika where digital displays disagree. Census 52,341 finite positions and 15,109 nominal positions with 17,232 nominal readings.

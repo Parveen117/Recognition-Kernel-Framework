@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG731 · [Appointed buildings, prohibited study and two senses of residence](research/panini_grammar/appointed_buildings_prohibited_study_and_residence/README.md). Four locative predicates extend the full PG14 carrier. The same form can preserve source-distinct suffix or residence eligibility, and study and residence remain separate roles for śmāśānika.
+
 PG730 · [Assigned dishes, ṭiṭhan and appointed offices](research/panini_grammar/assigned_dishes_title_affix_and_appointed_locus/README.md). The full PG14 cut-path history algebra transports disjoint recipient, ingredient and locative appointment requests. The local case and quote readouts preserve marker ownership even when the segmental word agrees.
 
 PG729 · [Recitation errors, food suitability and assigned portions](research/panini_grammar/recitation_error_suffixes_food_benefit_and_allocation/README.md). Ten compound plans, two separate accent owners and typed recipient ports within the full PG14 history algebra. The source variants of the study and food rules specialize to their own classical coordinates.
