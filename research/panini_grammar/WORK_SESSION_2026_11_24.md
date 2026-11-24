@@ -2,6 +2,16 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG683 · Sam–gam san companion and destination panels
+
+PG683: [Sam–gam san companion and destination panels](sam_gam_san_companion_and_destination_panels/README.md). Padamañjarī's instrumental companion preserves 1.3.29 A under san and its short aniṭ stem. The transitive destination composes with P and inner iṭ. Seven lakāras give 126 new finite positions/216 readings with separate prefix and root nasal owners. Census 52,008 finite and 8,012 nominal positions/9,271 readings.
+
+One morphology construction/216 readouts, one semantic construction/two readouts, two source observations and one source-policy decision. Zero nominal increments. Both prefix spellings occur before j; the two aṭ labels give one readout per key. The Vedic examples quoted by Kāśikā and Padamañjarī retain their own source status.
+
+PG521–683 cumulative: 189 finite positions/338 readings, 2,234 nominal positions/2,528 readings, 255 morphology constructions/1,736 interfaces, 122 compound constructions/583 plans, 15 accent constructions/61 records, 150 semantics constructions/437 records, 112 syntax constructions/325 records, 44 source-policy decisions after PG555−1, and 286 observations. Dedicated junction count since PG680 is two constructions/eight readouts. Two provenance corrections and one proof addendum. PG335 and PG357–363 CLOSED preserved.
+
+Liṭ, luṅ and āśīrliṅ remain unconstructed for these profiles. The primary Vedic locator, independent commentary collation, ordinary sam–gam caṅ A-pada, C2–C5/S1–S7 and Claude's execution and certification remain tracked. The containing commit is the publication pin.
+
 ## PG682 · Bare gam in the Śaunaka rice-dish hymn
 
 PG682: [Bare gam in the Śaunaka rice-dish hymn](shaunaka_odana_bare_gam_and_instrument_roles/README.md). AVŚ 11.3.32–49 attests 18 null-preverb P1sg `ajīgamam` tokens with a first-person speaker, the rice dish as accusative and a changing instrument. Whitney's causal motion and Trivedi's svārtha attainment analyses remain source-labelled. Zero new word positions or readings.

@@ -1,6 +1,8 @@
-# Written-development backlog at PG682
+# Written-development backlog at PG683
 
-Monty · 2026-11-24 · reviewed current parent 57704337000847ac8bce71a3ce4309be9f594268; historical closures below retain their exact original pins.
+Monty · 2026-11-24 · reviewed current parent 15cb29e293b30a52a153751e91f571a42893b9f5; historical closures below retain their exact original pins.
+
+PG683 closes the [two selected joined sam–gam active san profiles](sam_gam_san_companion_and_destination_panels/README.md) in seven Classical lakāras. The companion preserves 1.3.29/62 A and short aniṭ san. The destination has residual P and inner iṭ. Finite increment 126/216 with no nominal increment. Liṭ, luṅ and āśīrliṅ on these profiles remain unconstructed. The original Vedic locus, edition distribution of the two reports and the independently governed caṅ A-pada remain Open. C2–C5/S1–S7 and Claude execution remain tracked.
 
 PG682 closes the [bare Śaunaka gam P1sg syntax and source-policy relation](shaunaka_odana_bare_gam_and_instrument_roles/README.md) for the 18 addresses of 11.3.32–49. The dish is the accusative, and the repeated first singular is stable across instrumental numbers. Causal motion and svārtha attainment are source-specific. Wider use of the two meanings, the exact corresponding Paippalāda addresses and readings, joined A-pada entitlement and the unrelated C2–C5/S1–S7 work remain Open. The census is unchanged.
 

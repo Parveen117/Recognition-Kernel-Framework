@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG683: [Sam–gam san companion and destination panels](sam_gam_san_companion_and_destination_panels/README.md). Padamañjarī's instrumental companion preserves 1.3.29 A under san and its short aniṭ stem. The transitive destination composes with P and inner iṭ. Seven lakāras give 126 new finite positions/216 readings with separate prefix and root nasal owners. Census 52,008 finite and 8,012 nominal positions/9,271 readings.
+
 PG682: [Bare gam in the Śaunaka rice-dish hymn](shaunaka_odana_bare_gam_and_instrument_roles/README.md). AVŚ 11.3.32–49 attests 18 null-preverb P1sg `ajīgamam` tokens with a first-person speaker, the rice dish as accusative and a changing instrument. Whitney's causal motion and Trivedi's svārtha attainment analyses remain source-labelled. Zero new word positions or readings.
 
 PG681: [Śaunaka vowel absorption and the scope of ayam](shaunaka_o_a_absorption_and_ayam_scope/README.md). The Śaunaka Prātiśākhya explains the contrast between absorbed `vo 'yam` and retained `vo ajīgamat` in 6.74.1. The independently located 19.36.5 `śātavāro ayam` confirms Kāśikā's 6.1.116 example. The written relation preserves the tension between extending that rule to the earlier contact and the transmitted absorption.

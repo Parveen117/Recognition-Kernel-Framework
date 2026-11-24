@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG683: [Sam–gam san companion and destination panels](research/panini_grammar/sam_gam_san_companion_and_destination_panels/README.md). Typed zero specialization carries the role guard into the san-iṭ query and keeps the prefix and root nasals and two iṭ sites separate.
+
 PG682: [Bare gam in the Śaunaka rice-dish hymn](research/panini_grammar/shaunaka_odana_bare_gam_and_instrument_roles/README.md). PG14 zero recovery keeps role, instrument number and source policy through the caṅ readout. The causal-motion and attainment histories share a spelling and retain distinct semantics.
 
 PG681: [Śaunaka vowel absorption and the scope of ayam](research/panini_grammar/shaunaka_o_a_absorption_and_ayam_scope/README.md). Typed junction operators preserve both incident vowel owners in a single substitute, and the accent guard reads the ordered result. Five addressed source-qualified contacts and two tone readouts recover at zero with their source policies.

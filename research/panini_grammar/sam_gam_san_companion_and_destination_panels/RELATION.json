@@ -1,0 +1,477 @@
+{
+  "schema": "rkf.panini.pg683.relation.v1",
+  "domain": {
+    "root": "gam",
+    "root_id": 1011137,
+    "preverb": "sam",
+    "formation": "san",
+    "voice": "kartari",
+    "register": "selected Classical active, accent-free readouts",
+    "profiles": [
+      {
+        "id": "COMPANION",
+        "pada": "A",
+        "sense": "wish to go together with a companion",
+        "guard": "akarmaka, supplied instrumental companion with coreferential desirer and mover",
+        "causes": [
+          "1.3.29",
+          "1.3.62"
+        ],
+        "inner_it": false,
+        "root_grade": "short a, lexical gam",
+        "stem": "jigaṃsa",
+        "direct_control": "sañjigaṃsate vatso mātrā"
+      },
+      {
+        "id": "DESTINATION",
+        "pada": "P",
+        "sense": "wish to reach the supplied destination",
+        "guard": "sakarmaka, supplied accusative destination with coreferential desirer and mover",
+        "causes": [
+          "SK 1.2.13 control",
+          "1.3.78",
+          "7.2.58"
+        ],
+        "inner_it": true,
+        "root_grade": "short a, lexical gam",
+        "stem": "jigamiṣa",
+        "direct_base_control": "grāmaṃ saṃgacchati"
+      }
+    ]
+  },
+  "prefix_readings": {
+    "paired": [
+      {
+        "prefix": "saṃ",
+        "policy": "retain 8.3.23 output by 8.4.59"
+      },
+      {
+        "prefix": "sañ",
+        "policy": "homorganic 8.4.58 under 59 at the selected prefix cut"
+      }
+    ],
+    "sam": [
+      {
+        "prefix": "sam",
+        "policy": "retain m before aṭ"
+      }
+    ]
+  },
+  "panels": [
+    {
+      "label": "laṭ",
+      "prefix": "paired",
+      "context": "present desire",
+      "cells": [
+        {
+          "slot": "3sg",
+          "A": "jigaṃsate",
+          "P": "jigamiṣati"
+        },
+        {
+          "slot": "3du",
+          "A": "jigaṃsete",
+          "P": "jigamiṣataḥ"
+        },
+        {
+          "slot": "3pl",
+          "A": "jigaṃsante",
+          "P": "jigamiṣanti"
+        },
+        {
+          "slot": "2sg",
+          "A": "jigaṃsase",
+          "P": "jigamiṣasi"
+        },
+        {
+          "slot": "2du",
+          "A": "jigaṃsethe",
+          "P": "jigamiṣathaḥ"
+        },
+        {
+          "slot": "2pl",
+          "A": "jigaṃsadhve",
+          "P": "jigamiṣatha"
+        },
+        {
+          "slot": "1sg",
+          "A": "jigaṃse",
+          "P": "jigamiṣāmi"
+        },
+        {
+          "slot": "1du",
+          "A": "jigaṃsāvahe",
+          "P": "jigamiṣāvaḥ"
+        },
+        {
+          "slot": "1pl",
+          "A": "jigaṃsāmahe",
+          "P": "jigamiṣāmaḥ"
+        }
+      ]
+    },
+    {
+      "label": "laṅ",
+      "prefix": "sam",
+      "context": "selected anadyatana past desire",
+      "cells": [
+        {
+          "slot": "3sg",
+          "A": "ajigaṃsata",
+          "P": "ajigamiṣat"
+        },
+        {
+          "slot": "3du",
+          "A": "ajigaṃsetām",
+          "P": "ajigamiṣatām"
+        },
+        {
+          "slot": "3pl",
+          "A": "ajigaṃsanta",
+          "P": "ajigamiṣan"
+        },
+        {
+          "slot": "2sg",
+          "A": "ajigaṃsathāḥ",
+          "P": "ajigamiṣaḥ"
+        },
+        {
+          "slot": "2du",
+          "A": "ajigaṃsethām",
+          "P": "ajigamiṣatam"
+        },
+        {
+          "slot": "2pl",
+          "A": "ajigaṃsadhvam",
+          "P": "ajigamiṣata"
+        },
+        {
+          "slot": "1sg",
+          "A": "ajigaṃse",
+          "P": "ajigamiṣam"
+        },
+        {
+          "slot": "1du",
+          "A": "ajigaṃsāvahi",
+          "P": "ajigamiṣāva"
+        },
+        {
+          "slot": "1pl",
+          "A": "ajigaṃsāmahi",
+          "P": "ajigamiṣāma"
+        }
+      ]
+    },
+    {
+      "label": "loṭ",
+      "prefix": "paired",
+      "context": "request or instruction directed at the desire",
+      "cells": [
+        {
+          "slot": "3sg",
+          "A": "jigaṃsatām",
+          "P": "jigamiṣatu"
+        },
+        {
+          "slot": "3du",
+          "A": "jigaṃsetām",
+          "P": "jigamiṣatām"
+        },
+        {
+          "slot": "3pl",
+          "A": "jigaṃsantām",
+          "P": "jigamiṣantu"
+        },
+        {
+          "slot": "2sg",
+          "A": "jigaṃsasva",
+          "P": "jigamiṣa"
+        },
+        {
+          "slot": "2du",
+          "A": "jigaṃsethām",
+          "P": "jigamiṣatam"
+        },
+        {
+          "slot": "2pl",
+          "A": "jigaṃsadhvam",
+          "P": "jigamiṣata"
+        },
+        {
+          "slot": "1sg",
+          "A": "jigaṃsai",
+          "P": "jigamiṣāṇi"
+        },
+        {
+          "slot": "1du",
+          "A": "jigaṃsāvahai",
+          "P": "jigamiṣāva"
+        },
+        {
+          "slot": "1pl",
+          "A": "jigaṃsāmahai",
+          "P": "jigamiṣāma"
+        }
+      ]
+    },
+    {
+      "label": "vidhiliṅ",
+      "prefix": "paired",
+      "context": "ordinary modal desire",
+      "cells": [
+        {
+          "slot": "3sg",
+          "A": "jigaṃseta",
+          "P": "jigamiṣet"
+        },
+        {
+          "slot": "3du",
+          "A": "jigaṃseyātām",
+          "P": "jigamiṣetām"
+        },
+        {
+          "slot": "3pl",
+          "A": "jigaṃseran",
+          "P": "jigamiṣeyuḥ"
+        },
+        {
+          "slot": "2sg",
+          "A": "jigaṃsethāḥ",
+          "P": "jigamiṣeḥ"
+        },
+        {
+          "slot": "2du",
+          "A": "jigaṃseyāthām",
+          "P": "jigamiṣetam"
+        },
+        {
+          "slot": "2pl",
+          "A": "jigaṃsedhvam",
+          "P": "jigamiṣeta"
+        },
+        {
+          "slot": "1sg",
+          "A": "jigaṃseya",
+          "P": "jigamiṣeyam"
+        },
+        {
+          "slot": "1du",
+          "A": "jigaṃsevahi",
+          "P": "jigamiṣeva"
+        },
+        {
+          "slot": "1pl",
+          "A": "jigaṃsemahi",
+          "P": "jigamiṣema"
+        }
+      ]
+    },
+    {
+      "label": "lṛṭ",
+      "prefix": "paired",
+      "context": "prospective desire",
+      "cells": [
+        {
+          "slot": "3sg",
+          "A": "jigaṃsiṣyate",
+          "P": "jigamiṣiṣyati"
+        },
+        {
+          "slot": "3du",
+          "A": "jigaṃsiṣyete",
+          "P": "jigamiṣiṣyataḥ"
+        },
+        {
+          "slot": "3pl",
+          "A": "jigaṃsiṣyante",
+          "P": "jigamiṣiṣyanti"
+        },
+        {
+          "slot": "2sg",
+          "A": "jigaṃsiṣyase",
+          "P": "jigamiṣiṣyasi"
+        },
+        {
+          "slot": "2du",
+          "A": "jigaṃsiṣyethe",
+          "P": "jigamiṣiṣyathaḥ"
+        },
+        {
+          "slot": "2pl",
+          "A": "jigaṃsiṣyadhve",
+          "P": "jigamiṣiṣyatha"
+        },
+        {
+          "slot": "1sg",
+          "A": "jigaṃsiṣye",
+          "P": "jigamiṣiṣyāmi"
+        },
+        {
+          "slot": "1du",
+          "A": "jigaṃsiṣyāvahe",
+          "P": "jigamiṣiṣyāvaḥ"
+        },
+        {
+          "slot": "1pl",
+          "A": "jigaṃsiṣyāmahe",
+          "P": "jigamiṣiṣyāmaḥ"
+        }
+      ]
+    },
+    {
+      "label": "luṭ",
+      "prefix": "paired",
+      "context": "periphrastic future under its non-today condition",
+      "cells": [
+        {
+          "slot": "3sg",
+          "A": "jigaṃsitā",
+          "P": "jigamiṣitā"
+        },
+        {
+          "slot": "3du",
+          "A": "jigaṃsitārau",
+          "P": "jigamiṣitārau"
+        },
+        {
+          "slot": "3pl",
+          "A": "jigaṃsitāraḥ",
+          "P": "jigamiṣitāraḥ"
+        },
+        {
+          "slot": "2sg",
+          "A": "jigaṃsitāse",
+          "P": "jigamiṣitāsi"
+        },
+        {
+          "slot": "2du",
+          "A": "jigaṃsitāsāthe",
+          "P": "jigamiṣitāsthaḥ"
+        },
+        {
+          "slot": "2pl",
+          "A": "jigaṃsitādhve",
+          "P": "jigamiṣitāstha"
+        },
+        {
+          "slot": "1sg",
+          "A": "jigaṃsitāhe",
+          "P": "jigamiṣitāsmi"
+        },
+        {
+          "slot": "1du",
+          "A": "jigaṃsitāsvahe",
+          "P": "jigamiṣitāsvaḥ"
+        },
+        {
+          "slot": "1pl",
+          "A": "jigaṃsitāsmahe",
+          "P": "jigamiṣitāsmaḥ"
+        }
+      ]
+    },
+    {
+      "label": "lṛṅ",
+      "prefix": "sam",
+      "context": "past counterfactual desire with the supplied PG31 certificate",
+      "cells": [
+        {
+          "slot": "3sg",
+          "A": "ajigaṃsiṣyata",
+          "P": "ajigamiṣiṣyat"
+        },
+        {
+          "slot": "3du",
+          "A": "ajigaṃsiṣyetām",
+          "P": "ajigamiṣiṣyatām"
+        },
+        {
+          "slot": "3pl",
+          "A": "ajigaṃsiṣyanta",
+          "P": "ajigamiṣiṣyan"
+        },
+        {
+          "slot": "2sg",
+          "A": "ajigaṃsiṣyathāḥ",
+          "P": "ajigamiṣiṣyaḥ"
+        },
+        {
+          "slot": "2du",
+          "A": "ajigaṃsiṣyethām",
+          "P": "ajigamiṣiṣyatam"
+        },
+        {
+          "slot": "2pl",
+          "A": "ajigaṃsiṣyadhvam",
+          "P": "ajigamiṣiṣyata"
+        },
+        {
+          "slot": "1sg",
+          "A": "ajigaṃsiṣye",
+          "P": "ajigamiṣiṣyam"
+        },
+        {
+          "slot": "1du",
+          "A": "ajigaṃsiṣyāvahi",
+          "P": "ajigamiṣiṣyāva"
+        },
+        {
+          "slot": "1pl",
+          "A": "ajigaṃsiṣyāmahi",
+          "P": "ajigamiṣiṣyāma"
+        }
+      ]
+    }
+  ],
+  "source_controls": [
+    {
+      "status": "Accepted",
+      "scope": "different root history",
+      "form": "adhijigāṃsate",
+      "purpose": "iṅ-origin gam length; no cross-profile contribution"
+    },
+    {
+      "status": "Accepted as reported; primary locus Open",
+      "scope": "Vedic K report",
+      "form": "samajigāṃsat",
+      "purpose": "Vedic length and no inner iṭ despite P"
+    },
+    {
+      "status": "Accepted as reported; reading and primary locus Open",
+      "scope": "Vedic PM report",
+      "form": "sañcigāṃsat",
+      "purpose": "reported no augment, separate copy display"
+    }
+  ],
+  "excluded": [
+    "inherited A from 1.3.29 on the fixed sakarmaka destination request",
+    "ordinary lexical gam lengthening solely because sam and s-initial san are present",
+    "adding second causal formation or transferring this entitlement to caṅ",
+    "double credit for spellings as positions"
+  ],
+  "open": [
+    "liṭ, luṅ and āśīrliṅ on the two profiles, and other voices, lexical senses and preverbs",
+    "Exact primary Vedic address, textual forms and commentary-source distribution of the augmented and unaugmented reports",
+    "Ordinary joined sam–gam caṅ A-pada and the remaining C2–C5/S1–S7 registers"
+  ],
+  "credit": {
+    "finite_positions": 126,
+    "finite_readings": 216,
+    "nominal_positions": 0,
+    "nominal_readings": 0,
+    "morphological_constructions": 1,
+    "morphological_readouts": 216,
+    "semantic_constructions": 1,
+    "semantic_readouts": 2,
+    "syntactic_constructions": 0,
+    "syntactic_readouts": 0,
+    "compound_constructions": 0,
+    "compound_readouts": 0,
+    "accent_constructions": 0,
+    "accent_readouts": 0,
+    "phonological_constructions": 0,
+    "phonological_readouts": 0,
+    "source_observations": 2,
+    "source_policy_decisions": 1
+  }
+}
