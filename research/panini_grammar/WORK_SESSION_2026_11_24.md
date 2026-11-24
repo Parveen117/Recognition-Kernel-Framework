@@ -3,6 +3,19 @@
 Monty. Dates follow Asia/Kolkata.
 
 
+## PG672 · Nested gam active caṅ-aorist completion
+
+Previous publication: b17aa2c2e1b508858c24f6820203279522676e9a; tree b308d28f8851b61ad854a609bf7933382a533719. Necessary check: Python 3.12.14, 277 assertions, one attempt.
+
+PG672: [Nested gam active caṅ-aorist completion](nested_gam_active_cang_aorist_completion/README.md). Atharvaveda 6.74.1 positively controls P3sg `ajīgamat`; pinned caṅ and ending schedules compose the other 17 P/A cells without claiming individual attestation. One morphology adapter/18 interfaces, one observation/decision; zero finite/nominal credits.
+
+PG521–672 cumulative: 2,234 nominal positions/2,528 readings, zero finite; 247 morphology/1,301 interfaces; 122 compound/583 plans; 13 accent/57 records; 148 semantics/433 records; 109 syntax/301 records; 39 source-policy decisions after PG555−1; 275 observations. One provenance correction/one proof addendum; no census correction.
+
+Selected active nested-gam ten-lakāra layer and selected passive laṭ are locally CLOSED. Other passive lakāras, broader caṅ, lexical/semantic/automatic recognition, nine padī meanings, patradatam/128/C2–C5/S1–S7/native/global work remain Open. Claude owns execution/generators/untouched suites/replay. PG335 correction and PG357–PG363 CLOSED remain preserved.
+
+The exact publication is the containing commit; existing review branch only, nonforce. No elapsed-hours, ETA or complete-Sanskrit claim.
+
+
 ## PG671 · Nested gam active benedictive completion
 
 Previous publication: 4b1774404c8f020245ec0600d5e2920370f444c7; tree 166576fc9bef533097ceb254ca25c917d8cd82db. Necessary check: Python 3.12.14, 232 assertions, three attempts; attempts 1–2 were Markdown-wrap literals only and required no content edit.

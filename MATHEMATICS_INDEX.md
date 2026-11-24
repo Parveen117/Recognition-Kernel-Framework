@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG672: [Nested gam active caṅ-aorist completion](research/panini_grammar/nested_gam_active_cang_aorist_completion/README.md). Atharvaveda 6.74.1 positively controls P3sg `ajīgamat`; pinned caṅ and ending schedules compose the other 17 P/A cells without claiming individual attestation. One morphology adapter/18 interfaces, one observation/decision; zero finite/nominal credits. The selected active ten-lakāra layer closes locally; passive/wider gates remain Open.
+
 PG671: [Nested gam active benedictive completion](research/panini_grammar/nested_gam_active_benedictive_completion/README.md). Source-pinned P aniṭ ṇic-lopa and A ordinary-iṭ retention now carry the selected two-hetu history through 18 āśīrliṅ keys/19 interfaces. A2pl dh/ḍh histories remain distinct. One morphology adapter; zero finite/nominal/source credits. Census unchanged at 51,819 finite and 8,012 nominal/9,271 readings.
 
 PG670: [Nested gam active perfect auxiliary completion](research/panini_grammar/nested_gam_active_perfect_auxiliary_completion/README.md). Pinned derived-root ām and kṛ/bhū/as schedules carry the selected two-hetu history through 18 P/A liṭ keys and 92 owned surface histories. The A request transfers A only to kṛ; bhū/as stay kartari P. One morphology adapter/92 interfaces; zero finite/nominal/source credits. Census unchanged at 51,819 finite and 8,012 nominal/9,271 readings.

@@ -1,6 +1,8 @@
-# Written-development backlog at PG671
+# Written-development backlog at PG672
 
-Monty · 2026-11-24 · reviewed current parent 4b1774404c8f020245ec0600d5e2920370f444c7; historical closures below retain their exact original pins.
+Monty · 2026-11-24 · reviewed current parent b17aa2c2e1b508858c24f6820203279522676e9a; historical closures below retain their exact original pins.
+
+PG672 closes selected active nested-gam luṅ: Atharvaveda 6.74.1 positively controls `ajīgamat`; pinned caṅ and secondary-ending maps compose 18 P/A interfaces while marking 17 as rule-composed. One morphology adapter, one observation/decision, zero finite credit. The selected active ten-lakāra layer is locally closed. All passive outer lakāras, broader caṅ, other roots/senses/preverbs and wider lexical/semantic/native work remain unconstructed. Census unchanged at 51,819 finite; 8,012 nominal positions/9,271 readings.
 
 PG671 closes selected active nested-gam āśīrliṅ: 18 P/A keys and 19 interfaces from P aniṭ ṇic-lopa versus A ordinary-iṭ retention; A2pl keeps dh/ḍh histories. One morphology adapter, zero finite/source credit. Active luṅ, all passive outer lakāras, caṅ and wider lexical/semantic/native work remain unconstructed. Census unchanged at 51,819 finite; 8,012 nominal positions/9,271 readings.
 
