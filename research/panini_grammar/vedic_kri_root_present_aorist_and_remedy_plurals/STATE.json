@@ -1,0 +1,60 @@
+{
+  "schema": "rkf.panini.pg715.state.v1",
+  "author": "Monty",
+  "date": "2026-11-24",
+  "publication_parent": "a5f6e3910ded1eaf55975fb363b5cc2fa7e07f9b",
+  "baseline": {
+    "commit": "a5f6e3910ded1eaf55975fb363b5cc2fa7e07f9b",
+    "path": "research/panini_grammar/vartate_instrument_manner_and_pari_taddhita/STATE.json"
+  },
+  "finite_positions": 52341,
+  "nominal_positions": 9661,
+  "nominal_readings": 11261,
+  "new_finite_positions": 5,
+  "new_finite_readings": 5,
+  "new_nominal_positions": 5,
+  "new_nominal_readings": 5,
+  "new_positions": 10,
+  "new_position_readings": 10,
+  "new_compound_constructions": 0,
+  "new_compound_plans": 0,
+  "new_morphology_constructions": 1,
+  "new_morphology_interfaces": 10,
+  "new_nonfinite_constructions": 0,
+  "new_nonfinite_readouts": 0,
+  "new_accent_constructions": 1,
+  "new_accent_readouts": 5,
+  "new_syntactic_constructions": 1,
+  "new_syntactic_readouts": 10,
+  "new_phonological_constructions": 1,
+  "new_phonological_readouts": 3,
+  "new_source_observations": 12,
+  "new_source_policy_decisions": 9,
+  "local_closure": [
+    "Five addressed finite requests with distinct kṛta/kṛtha, akran and āmayati histories",
+    "Two Vedic inflectional analogies with case-conditioned īs, two Classical expiation cases and one śatṛ locative",
+    "Positive mantric locator for Kāśikā/Nyāsa 2.4.80, with separate Bhaṭṭabhāskara and Śatapatha Sāyaṇa context policies"
+  ],
+  "open_obligations": [
+    "The exact traditional short-i NOMpl entitlement and precedence over 7.3.109 for these words. The analogue and alternative jas→śas on the independently named oṣadhi control keep separate scopes.",
+    "Whether Mahīdhara's chandas śap-lopa is a distinct present formation or a broader convention encompassing a lost u. The witness governs this P2pl only. Independent proof of the proposed back-formation chronology, additional recensions and full historical accent remain Open.",
+    "Bhaṭṭabhāskara's precise altered gloss and participant number in the printed tradition, and independent recitational texts for the identified alternate accretions.",
+    "Further curādi voice and the inner C of ktiC entitlement in these cases. C2–C5/S1–S7 and Claude-deferred grammar execution, generators, untouched checks and replay remain separate."
+  ],
+  "authorization": {
+    "completion_status": "OPEN wider gates",
+    "PG335": "-9 finite/-12 readings preserved",
+    "PG357_PG363": "CLOSED preserved",
+    "continuous_executed_hours_claimed": false
+  },
+  "runtime_policy": {
+    "python": "3.12 only",
+    "document_check_status": "PASS",
+    "document_check_attempts": 1,
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "old_suites": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE"
+  },
+  "grammar_executions": []
+}

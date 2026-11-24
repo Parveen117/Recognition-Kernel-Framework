@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG715 · [Vedic kṛtha, kṛta and the remedy plurals](research/panini_grammar/vedic_kri_root_present_aorist_and_remedy_plurals/README.md). The Vedic root-present, three root-aorist requests and the curādi affliction request use distinct augment, marker and inflection addresses. A separate source-qualified nominal relation retains short-i case analogies and the āmayati homograph under typed PG14 specialization.
+
 PG714 · [Instrument and manner under vartate](research/panini_grammar/vartate_instrument_manner_and_pari_taddhita/README.md). The eleven selected ṭhak fibres preserve separate instrumental/manner grades, inner ap/loman and peri-compound owners, and the two source-specific pari histories under a common surface. Entrywise augmentation commutes with the complete PG14 operator diagram.
 
 PG713 · [Two Uṇādi prints and the ḍit derivation of naṭa](research/panini_grammar/unadi_4104_contiguous_text_and_nata_dit_ata/README.md). Two printed contexts disambiguate the joined affix string and show ḍit-controlled lopa before sounded aṭa. The typed PG14 extension preserves the two independent root/affix possibilities and the selected naṭa case fibre.

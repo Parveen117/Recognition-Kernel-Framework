@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG714
+# Pāṇini grammar · current written coverage at PG715
+
+PG715 · [Vedic kṛtha, kṛta and the remedy plurals](vedic_kri_root_present_aorist_and_remedy_plurals/README.md). Constructs five selected finite keys and five nominal keys. The bare and prefixed root-aorist imperatives retain their sources, akran anchors aug and chli-luk membership, and the two remedy NOMpl spellings have a descriptive case relation with the exact traditional marker issue still Open. Census 52,341 finite positions and 9,661 nominal positions with 11,261 nominal readings.
 
 PG714 · [Instrument and manner under vartate](vartate_instrument_manner_and_pari_taddhita/README.md). Eleven ordinary masculine paradigms follow the exact instrumental or manner relation, including the distinct pari histories and two Manu case witnesses. PG698's condiment words keep their earlier credits. Census 52,336 finite positions and 9,656 nominal positions with 11,256 nominal readings.
 

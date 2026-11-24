@@ -2,6 +2,16 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG715 · Vedic kṛtha, kṛta and the remedy plurals
+
+PG715 · [Vedic kṛtha, kṛta and the remedy plurals](vedic_kri_root_present_aorist_and_remedy_plurals/README.md). Constructs five selected finite keys and five nominal keys. The bare and prefixed root-aorist imperatives retain their sources, akran anchors aug and chli-luk membership, and the two remedy NOMpl spellings have a descriptive case relation with the exact traditional marker issue still Open. Census 52,341 finite positions and 9,661 nominal positions with 11,261 nominal readings.
+
+0 new nonfinite constructions/0 retained paths. Accent 1/5, syntax 1/10, phonological junction 1/3 constructions/readouts. 12 source observations and 9 source-policy decisions. One morphology construction/10 interfaces. Finite increment 5 positions/5 readings. Nominal increment 5 positions/5 readings. The publication parent is a5f6e3910ded1eaf55975fb363b5cc2fa7e07f9b. The containing commit pins the documents and evidence.
+
+PG521–715 cumulative: 522 finite positions/1,440 net finite readings, 3,883 nominal positions/4,518 readings, 289 morphology constructions/2,976 interfaces, 129 compound constructions/599 plans, 29 accent constructions/116 records, 153 semantics constructions/454 records, 138 syntax constructions/469 records, 161 source-policy decisions after PG555−1 and 489 observations. Twenty-one junction constructions/60 readouts since PG680 and 20 nonfinite constructions/26 paths since PG700. Four provenance corrections and one proof addendum. PG335 and PG357–363 CLOSED results are preserved.
+
+The selected kṛtha/kṛta, akran, āmayati and five named nominal requests are locally CLOSED on their source-qualified relations. The exact primary-rule competition for the short-i nominatives, 3.1.79 precedence in Mahīdhara's śap analysis, the other recensions and independent accent derivations remain Open. The predecessor's selected as and maternal singular credits are unchanged. C2–C5/S1–S7 and Claude execution remain on their own records.
+
 ## PG714 · Instrument and manner under vartate
 
 PG714 · [Instrument and manner under vartate](vartate_instrument_manner_and_pari_taddhita/README.md). Eleven ordinary masculine paradigms follow the exact instrumental or manner relation, including the distinct pari histories and two Manu case witnesses. PG698's condiment words keep their earlier credits. Census 52,336 finite positions and 9,656 nominal positions with 11,256 nominal readings.

@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG715 · [Vedic kṛtha, kṛta and the remedy plurals](vedic_kri_root_present_aorist_and_remedy_plurals/README.md). Constructs five selected finite keys and five nominal keys. The bare and prefixed root-aorist imperatives retain their sources, akran anchors aug and chli-luk membership, and the two remedy NOMpl spellings have a descriptive case relation with the exact traditional marker issue still Open. Census 52,341 finite positions and 9,661 nominal positions with 11,261 nominal readings.
+
 PG714 · [Instrument and manner under vartate](vartate_instrument_manner_and_pari_taddhita/README.md). Eleven ordinary masculine paradigms follow the exact instrumental or manner relation, including the distinct pari histories and two Manu case witnesses. PG698's condiment words keep their earlier credits. Census 52,336 finite positions and 9,656 nominal positions with 11,256 nominal readings.
 
 PG713 · [Two Uṇādi prints and the ḍit derivation of naṭa](unadi_4104_contiguous_text_and_nata_dit_ata/README.md). The 1844 and 1859 prints give distinct extension boundaries. The 1859 affix roster separates ḍaṭa and short aṭac. Its ḍit operation derives naṭa on the precedence source, yielding 24 new masculine positions and readings. The direct count for the four unresolved primary extension fields remains 99/103. Census 52,336 finite positions and 9,392 nominal positions with 10,992 nominal readings.
