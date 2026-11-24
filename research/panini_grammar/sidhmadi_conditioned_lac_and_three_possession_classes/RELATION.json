@@ -1,0 +1,42 @@
+{
+  "stage":"PG798",
+  "morphology_constructions":[
+    {"id":"SIDHMADI_CORE","rule":"5.2.97","interfaces":["S97","G97"]},
+    {"id":"PRE_L_LENGTHENING","rule":"5.2.97 gaṇa 126","interfaces":["P97","D97"]},
+    {"id":"UNG_BEFORE_LAC","rule":"5.2.97 gaṇa 127","interfaces":["V97","DT97","B97","L97","GL97"]},
+    {"id":"LAC_CENSURE","rule":"5.2.97 gaṇa 128","interfaces":["J97","GH97","K97","KT97","JNC"]},
+    {"id":"ORGANISM_DISEASE_LAC","rule":"5.2.97 gaṇa 129","interfaces":["Y97","M97","VC97","VP97","MU97"]},
+    {"id":"LOVE_STRENGTH_LAC","rule":"5.2.98","interfaces":["VS98","VP98","AS98"]},
+    {"id":"LOVE_STRENGTH_CONTROLS","rule":"5.2.98","interfaces":["VG98","AD98"]},
+    {"id":"PHENA_THREE_WAY","rule":"5.2.99","interfaces":["F99"]},
+    {"id":"LOMADI_SHA","rule":"5.2.100","interfaces":["L100"]},
+    {"id":"PAMADI_NA","rule":"5.2.100","interfaces":["P100"]},
+    {"id":"PICCHADI_ILAC","rule":"5.2.100","interfaces":["PI100","U100"]},
+    {"id":"PAMADI_CONDITIONED","rule":"5.2.100 gaṇa 130–133","interfaces":["AN100","SH100","PL100","DR100","VI100","LK100"]},
+    {"id":"ILAC_CENSURE","rule":"5.2.100 gaṇa 134","interfaces":["JI100","GI100","KI100"]}
+  ],
+  "nominal_positions":[
+    {"id":"S97","readings":["sidhmalaḥ","sidhmavān"]},{"id":"G97","readings":["gaḍulaḥ","gaḍumān [K]","gaḍuvān [Vasu]"]},
+    {"id":"P97","readings":["pārṣṇīlaḥ"]},{"id":"D97","readings":["dhamanīlaḥ"]},
+    {"id":"V97","readings":["vātūlaḥ"]},{"id":"DT97","readings":["dantūlaḥ"]},{"id":"B97","readings":["balūlaḥ"]},{"id":"L97","readings":["lalāṭūlaḥ"]},{"id":"GL97","readings":["galūlaḥ [Vasu]"]},
+    {"id":"J97","readings":["jaṭālaḥ"]},{"id":"GH97","readings":["ghaṭālaḥ"]},{"id":"K97","readings":["kalālaḥ"]},{"id":"KT97","readings":["kaṭālaḥ [Vasu]"]},{"id":"JNC","readings":["jaṭāvān tāpasaḥ"]},
+    {"id":"Y97","readings":["yūkālaḥ"]},{"id":"M97","readings":["makṣikālaḥ"]},{"id":"VC97","readings":["vicarcikālaḥ"]},{"id":"VP97","readings":["vipādikālaḥ"]},{"id":"MU97","readings":["mūrchālaḥ"]},
+    {"id":"VS98","readings":["vatsalaḥ svāmī"]},{"id":"VP98","readings":["vatsalaḥ pitā"]},{"id":"AS98","readings":["aṃsalaḥ"]},{"id":"VG98","readings":["vatsavatī gauḥ"]},{"id":"AD98","readings":["aṃsavān durbalaḥ"]},
+    {"id":"F99","readings":["phenilaḥ","phenalaḥ","phenavān"]},
+    {"id":"L100","readings":["lomaśaḥ","lomavān"]},{"id":"P100","readings":["pāmanaḥ","pāmavān"]},
+    {"id":"PI100","readings":["picchilaḥ","picchavān [K]","picchivān [Vasu]"]},{"id":"U100","readings":["urasilaḥ","urasvān"]},
+    {"id":"AN100","readings":["aṅganā"]},{"id":"SH100","readings":["śākinam"]},{"id":"PL100","readings":["palālinam"]},{"id":"DR100","readings":["dadrūṇam"]},{"id":"VI100","readings":["viṣuṇam"]},{"id":"LK100","readings":["lakṣmaṇaḥ"]},
+    {"id":"JI100","readings":["jaṭilaḥ"]},{"id":"GI100","readings":["ghaṭilaḥ"]},{"id":"KI100","readings":["kalilaḥ"]}
+  ],
+  "source_policy_decisions":[
+    {"id":"COORDINATED_ALTERNATIVE","status":"Accepted/Open","decision":"Treat anyatarasyām as coordinating lac with matup, not as admitting ini/ṭhan; full sidhmādi membership remains Open."},
+    {"id":"GADU_FORK","status":"Accepted/Open","decision":"Retain Kāśikā gaḍumān and Vasu gaḍuvān as source-labelled readings pending critical priority."},
+    {"id":"OWNED_OPERATIONS","status":"Accepted","decision":"Assign pre-l lengthening and ūṅ augmentation to their stated bases before lac."},
+    {"id":"VASU_EXTENSIONS","status":"Accepted/Open","decision":"Accept source-given galūla and kaṭāla while retaining their roster status relative to Kāśikā as Open."},
+    {"id":"CENSURE_GUARD","status":"Accepted/Excluded","decision":"Accept lac/ilac under censure and matup without censure; exclude the matup control only from the censure branch."},
+    {"id":"ORGANISM_DISEASE","status":"Accepted/Open","decision":"Accept the five displayed organism/disease outputs; broader class membership remains Open."},
+    {"id":"LOVE_STRENGTH","status":"Accepted/Excluded","decision":"Require lac for the special love/strength predicates and retain matup controls in other senses."},
+    {"id":"PHENA_CHOICES","status":"Accepted","decision":"Correlate ilac, lac and matup as three owned histories for one phena position."},
+    {"id":"THREE_CLASSES","status":"Accepted/Open","decision":"Keep ś, na and ilac class owners and conditioned operations distinct; retain picchavān/picchivān and full rosters Open."}
+  ]
+}

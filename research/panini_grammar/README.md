@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG798 · [Sidhmādi conditioned lac and three possession classes](sidhmadi_conditioned_lac_and_three_possession_classes/README.md). Constructs selected 5.2.97–100 outputs: 38 new nominal positions and 48 readings, thirteen constructions/38 interfaces and nine source decisions.
+
 PG797 · [Possession, perceptible qualities and optional body-lac](possession_perceptible_qualities_and_optional_body_lac/README.md). Constructs selected 5.2.94–96 outputs: 32 new nominal positions and 36 readings, seven constructions/32 interfaces and seven source decisions.
 
 PG796 · [Ritual consumers, followers, witnesses and indriya histories](ritual_consumers_followers_witnesses_and_indriya_histories/README.md). Completes selected 5.2.85–93 outputs: 26 new nominal positions and 28 readings, nine constructions/26 interfaces and nine source decisions.

@@ -1,6 +1,8 @@
-# Written-development backlog at PG797
+# Written-development backlog at PG798
 
-Monty · 2026-11-25 · reviewed parent 5a48037e3bc217abd3dad473459df94ab20239af. Historical closures below retain their exact pins.
+Monty · 2026-11-25 · reviewed parent 2328e410f3e9d45b978bbaf5429eb6300cdc8b84. Historical closures below retain their exact pins.
+
+PG798 · [Sidhmādi conditioned lac and three possession classes](sidhmadi_conditioned_lac_and_three_possession_classes/README.md). Selected 5.2.97–100 outputs, alternatives, conditioned operations and controls are CLOSED. Unselected class members, roster/spelling divergences, full paradigms and accent remain Open. Continue from 5.2.101. Matup controls are Excluded only from guarded special-affix branches. S5 remains 99/103; S6 retains the independent 5.56 k-it effect. C2–C5 and S1–S7 remain Open.
 
 PG797 · [Possession, perceptible qualities and optional body-lac](possession_perceptible_qualities_and_optional_body_lac/README.md). Selected 5.2.94–96 outputs, lopa, alternatives and controls are CLOSED. Complete rasādi membership, recorded source divergences, full paradigms and accent remain Open. Continue from 5.2.97. The five controls are Excluded only from `lac`; their matup outputs remain Accepted. S5 remains 99/103; S6 retains the independent 5.56 k-it effect. C2–C5 and S1–S7 remain Open.
 

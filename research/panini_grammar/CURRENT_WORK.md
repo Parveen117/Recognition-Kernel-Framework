@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG797
+# Pāṇini grammar · current written coverage at PG798
+
+PG798 · [Sidhmādi conditioned lac and three possession classes](sidhmadi_conditioned_lac_and_three_possession_classes/README.md). Constructs selected 5.2.97–100 surfaces with separately owned alternatives, augment/lengthening operations and semantic controls. Census: 52,357 finite positions, 21,552 nominal positions and 24,385 nominal readings.
 
 PG797 · [Possession, perceptible qualities and optional body-lac](possession_perceptible_qualities_and_optional_body_lac/README.md). Constructs selected 5.2.94–96 surfaces with explicit possession motives, quality lopa and guarded `lac` alternatives. Census: 52,357 finite positions, 21,514 nominal positions and 24,337 nominal readings.
 

@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG798 · [Sidhmādi conditioned lac and three possession classes](research/panini_grammar/sidhmadi_conditioned_lac_and_three_possession_classes/README.md). PG14 retains base/class, semantic guard, affix owner and ordered lengthening, augmentation, shortening, lopa and sandhi histories through typed zero specialization.
+
 PG797 · [Possession, perceptible qualities and optional body-lac](research/panini_grammar/possession_perceptible_qualities_and_optional_body_lac/README.md). PG14 retains bearer/locus relation, licensing motive, affix or lopa owner, animacy/body/final-vowel guard and source outcome through typed zero specialization.
 
 PG796 · [Ritual consumers, followers, witnesses and indriya histories](research/panini_grammar/ritual_consumers_followers_witnesses_and_indriya_histories/README.md). PG14 retains inner action, affix/stipulation owner, governed object, semantic domain, source policy and guarded outcome through typed zero specialization.

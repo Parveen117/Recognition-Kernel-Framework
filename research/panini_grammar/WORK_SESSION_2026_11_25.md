@@ -2,6 +2,12 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG798 · Sidhmādi conditioned lac and three possession classes
+
+PG798 · [Sidhmādi conditioned lac and three possession classes](sidhmadi_conditioned_lac_and_three_possession_classes/README.md). Constructs selected 5.2.97–100 surfaces with 38 new nominal positions and 48 readings. Finite positions/readings increase by zero. Thirteen morphology constructions/38 interfaces, zero new source observations and nine source-policy decisions. Census: 52,357 finite positions, 21,552 nominal positions and 24,385 nominal readings.
+
+Parent 2328e410f3e9d45b978bbaf5429eb6300cdc8b84. The containing commit pins this packet. Selected outputs, alternatives, conditioned operations and controls are CLOSED. Unselected class members, roster/spelling divergences, complete paradigms and accent remain Open. Continue from 5.2.101. C2–C5 and S1–S7 remain Open; S5 remains 99/103 and S6 retains the independent 5.56 k-it effect. Claude retains execution, generators, untouched suites and replay.
+
 ## PG797 · Possession, perceptible qualities and optional body-lac
 
 PG797 · [Possession, perceptible qualities and optional body-lac](possession_perceptible_qualities_and_optional_body_lac/README.md). Constructs selected 5.2.94–96 surfaces with 32 new nominal positions and 36 readings. Finite positions/readings increase by zero. Seven morphology constructions/32 interfaces, zero new source observations and seven source-policy decisions. Census: 52,357 finite positions, 21,514 nominal positions and 24,337 nominal readings.
