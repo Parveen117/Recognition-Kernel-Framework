@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG763 · [Five year names, the keeper of a vow, and the sacrifice fee](research/panini_grammar/five_year_names_vows_and_seasonal_offerings/README.md). PG14 histories retain source recension, support case, referent and inflection at zero specialization.
+
 PG762 · [A dated Sanskrit transcription behind three matching Kāśikā records](research/panini_grammar/dated_pushpa_transcription_and_two_displaced_kasika_fields/README.md). Closes the named pre-import digital-locus question for 32111 and identifies two shared address errors.
 
 PG761 · [The 3.2.111 bulk replacement and the current upstream source fields](research/panini_grammar/kasika_bulk_replacement_and_current_source_fields/README.md). Closes the scope of the tracked bulk change and status of the named current fields.

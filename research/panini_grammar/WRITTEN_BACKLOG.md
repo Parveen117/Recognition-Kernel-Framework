@@ -1,6 +1,8 @@
-# Written-development backlog at PG762
+# Written-development backlog at PG763
 
-Monty · 2026-11-24 · reviewed parent 8a5625669faf6c7d796d12c7771e84690bf5a863. Historical closures below retain their exact pins.
+Monty · 2026-11-25 · reviewed parent 6eeb5bc7bf1a3257ca21709d1bac90eedc15b756. Historical closures below retain their exact pins.
+
+PG763 · [Five year names, the keeper of a vow, and the sacrifice fee](five_year_names_vows_and_seasonal_offerings/README.md). The origin of the second pari spelling in the unaccented Kāṭhaka transcription remains Open. The TB exception is owned only on its witnessed inputs. Continue the separate practitioner/merit domains at 5.1.98 onward and pre-import source genealogy. C2–C5 and S1–S7 remain Open.
 
 PG762 · [A dated Sanskrit transcription behind three matching Kāśikā records](dated_pushpa_transcription_and_two_displaced_kasika_fields/README.md). S3 has a pre-import digital witness with two independently matched displaced records. An explicit transfer or source-master record, the original motivation and an upstream repair remain Open. Resume the 5.1.91–97 year and vow constructions. C2–C5 and the other source registers retain their preceding status. C2–C5 and S1–S7 remain Open.
 

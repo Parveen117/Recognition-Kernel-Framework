@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG762
+# Pāṇini grammar · current written coverage at PG763
+
+PG763 · [Five year names, the keeper of a vow, and the sacrifice fee](five_year_names_vows_and_seasonal_offerings/README.md). Builds 5.1.91–97 through Vedic year agreement, the two brahmacarya constructions, sacrificial fees and food, seasonal variants and vyuṣṭādi. Census: 52,345 finite positions, 20,821 nominal positions and 23,535 nominal readings.
 
 PG762 · [A dated Sanskrit transcription behind three matching Kāśikā records](dated_pushpa_transcription_and_two_displaced_kasika_fields/README.md). Finds the complete divergent paragraph in a 27 December 2023 Puṣpā-prati copy and positively matches two distinctive misplaced rule numbers to the 30 December import. Census: 52,345 finite positions, 20,764 nominal positions and 23,473 nominal readings.
 

@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG763 · [Five year names, the keeper of a vow, and the sacrifice fee](five_year_names_vows_and_seasonal_offerings/README.md). Builds 5.1.91–97 through Vedic year agreement, the two brahmacarya constructions, sacrificial fees and food, seasonal variants and vyuṣṭādi. 57 new nominal positions and 62 readings. Finite positions and readings both increased by zero.
+
 PG762 · [A dated Sanskrit transcription behind three matching Kāśikā records](dated_pushpa_transcription_and_two_displaced_kasika_fields/README.md). Finds the complete divergent paragraph in a 27 December 2023 Puṣpā-prati copy and positively matches two distinctive misplaced rule numbers to the 30 December import. 0 new nominal positions and 0 readings. Finite positions and readings both increased by zero.
 
 PG761 · [The 3.2.111 bulk replacement and the current upstream source fields](kasika_bulk_replacement_and_current_source_fields/README.md). Compares the full source maps around cd9f92b and the immediate successor, and checks current upstream S2, S3 and S5 records against their frozen pins. 0 new nominal positions and 0 readings. Finite positions and readings both increased by zero.

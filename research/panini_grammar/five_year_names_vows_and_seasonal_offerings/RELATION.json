@@ -1,0 +1,684 @@
+{
+  "stage": "PG763",
+  "morphology_interfaces": [
+    {
+      "id": "BASE",
+      "base": "five individual names in -vatsara",
+      "guard": "homage to named year",
+      "affix": "lexical base plus dative",
+      "result": "year as recipient"
+    },
+    {
+      "id": "CH1",
+      "base": "id-, idā-, anu- or ud-vatsara",
+      "guard": "Vedic year-final time base, 91",
+      "affix": "cha",
+      "result": "īya adjective"
+    },
+    {
+      "id": "CH2",
+      "base": "saṃ- or pari-vatsara",
+      "guard": "Vedic, expressly retained at 92",
+      "affix": "cha",
+      "result": "īya adjective"
+    },
+    {
+      "id": "KH2",
+      "base": "saṃ- or pari-vatsara",
+      "guard": "Vedic annual adjective, 92",
+      "affix": "kha",
+      "result": "īṇa adjective"
+    },
+    {
+      "id": "KHV",
+      "base": "idā- or anu-vatsara",
+      "guard": "TB petitions and Bhaṭṭabhāskara's bounded Vedic extension",
+      "affix": "chāndasa kha",
+      "result": "īṇa adjective"
+    },
+    {
+      "id": "CON",
+      "base": "māsa or saṃvatsara",
+      "guard": "instrumental time, feasible conquest",
+      "affix": "ṭhañ",
+      "result": "māsika or sāṃvatsarika"
+    },
+    {
+      "id": "GET",
+      "base": "māsa",
+      "guard": "instrumental time, attainable",
+      "affix": "ṭhañ",
+      "result": "māsika"
+    },
+    {
+      "id": "EASY",
+      "base": "māsa",
+      "guard": "instrumental time, easily built",
+      "affix": "ṭhañ",
+      "result": "māsika"
+    },
+    {
+      "id": "DUTY",
+      "base": "māsa",
+      "guard": "instrumental time, task to be done",
+      "affix": "ṭhañ",
+      "result": "māsika"
+    },
+    {
+      "id": "PRA",
+      "base": "month, half-month, year",
+      "guard": "accusative extent and possessor practising",
+      "affix": "ṭhañ",
+      "result": "duration adjective of practitioner"
+    },
+    {
+      "id": "OBS",
+      "base": "month, half-month, year",
+      "guard": "nominative measure with vow as referent",
+      "affix": "ṭhañ",
+      "result": "duration adjective of vow"
+    },
+    {
+      "id": "TEXT",
+      "base": "named texts and disciplines",
+      "guard": "genitive, associated observance",
+      "affix": "supplementary ṭhañ",
+      "result": "neuter adjective"
+    },
+    {
+      "id": "KEEP",
+      "base": "named discipline",
+      "guard": "one who practises it",
+      "affix": "supplementary ṭhañ",
+      "result": "practitioner"
+    },
+    {
+      "id": "DIN",
+      "base": "avāntaradīkṣā or tilavrata",
+      "guard": "practitioner, bounded supplement",
+      "affix": "ḍini",
+      "result": "practitioner in -in"
+    },
+    {
+      "id": "FORT",
+      "base": "forty-eight years",
+      "guard": "prescribed length of discipline",
+      "affix": "ḍvun or ḍini",
+      "result": "aṣṭācatvāriṃśaka or aṣṭācatvāriṃśin"
+    },
+    {
+      "id": "SEASP",
+      "base": "cāturmāsya",
+      "guard": "performer of the seasonal rites",
+      "affix": "y loss, ḍvun or ḍini",
+      "result": "cāturmāsaka or cāturmāsin"
+    },
+    {
+      "id": "RITE",
+      "base": "caturmāsa",
+      "guard": "sacrifice occurring in the four-month intervals",
+      "affix": "ṇya",
+      "result": "cāturmāsya"
+    },
+    {
+      "id": "MOON",
+      "base": "caturmāsa",
+      "guard": "full moon with the specified name",
+      "affix": "aṇ and feminine",
+      "result": "cāturmāsī"
+    },
+    {
+      "id": "FEE",
+      "base": "named sacrifice",
+      "guard": "fee belonging to rite, genitive",
+      "affix": "ṭhañ and feminine agreement",
+      "result": "fee adjective in -ikī"
+    },
+    {
+      "id": "GIFT",
+      "base": "named sacrifice",
+      "guard": "food given there, locative",
+      "affix": "split 96 with sacrifice-name scope",
+      "result": "neuter in -ikam"
+    },
+    {
+      "id": "TIME",
+      "base": "māsa or saṃvatsara",
+      "guard": "gift or task then",
+      "affix": "bhavavat, 4.3.11",
+      "result": "māsika or sāṃvatsarika"
+    },
+    {
+      "id": "RAIN",
+      "base": "prāvṛṣ",
+      "guard": "given or due then",
+      "affix": "bhavavat, 4.3.17",
+      "result": "prāvṛṣeṇya"
+    },
+    {
+      "id": "SPR",
+      "base": "vasanta",
+      "guard": "given or due then",
+      "affix": "bhavavat, 4.3.16 or 20",
+      "result": "vāsanta or vāsantika"
+    },
+    {
+      "id": "WIN",
+      "base": "hemanta",
+      "guard": "given or due then",
+      "affix": "bhavavat, 4.3.16,21,22",
+      "result": "haimanta or haimantika or haimana"
+    },
+    {
+      "id": "AUT",
+      "base": "śarad",
+      "guard": "given or due then",
+      "affix": "bhavavat, 4.3.16",
+      "result": "śārada"
+    },
+    {
+      "id": "VYU",
+      "base": "vyuṣṭa or nitya",
+      "guard": "given or done at the listed locus",
+      "affix": "aṇ",
+      "result": "vaiyuṣṭa or naitya"
+    },
+    {
+      "id": "LIST",
+      "base": "agnipada or pīlumūla",
+      "guard": "listed locus, including the discussed supplement",
+      "affix": "aṇ",
+      "result": "āgnipada or pailumūla"
+    }
+  ],
+  "nominal_positions": [
+    {
+      "id": "Y1",
+      "source": "KS",
+      "input_history": "BASE",
+      "case_number": "M DATsg",
+      "word": "saṃvatsarāya",
+      "interpretation": "First recipient of homage."
+    },
+    {
+      "id": "Y2",
+      "source": "KS",
+      "input_history": "BASE",
+      "case_number": "M DATsg",
+      "word": "parivatsarāya",
+      "interpretation": "Second recipient of homage."
+    },
+    {
+      "id": "Y3",
+      "source": "KS",
+      "input_history": "BASE",
+      "case_number": "M DATsg",
+      "word": "idāvatsarāya",
+      "interpretation": "Third recipient of homage."
+    },
+    {
+      "id": "Y4",
+      "source": "KS",
+      "input_history": "BASE",
+      "case_number": "M DATsg",
+      "word": "anuvatsarāya",
+      "interpretation": "Fourth recipient of homage."
+    },
+    {
+      "id": "Y5",
+      "source": "KS",
+      "input_history": "BASE",
+      "case_number": "M DATsg",
+      "word": "udvatsarāya",
+      "interpretation": "Fifth recipient of homage."
+    },
+    {
+      "id": "F1",
+      "source": "KS",
+      "input_history": "CH2",
+      "case_number": "F NOMsg",
+      "word": "saṃvatsarīyā",
+      "interpretation": "First adjective of the singular blessing."
+    },
+    {
+      "id": "F2",
+      "source": "KS",
+      "input_history": "CH2",
+      "case_number": "F NOMsg",
+      "word": "parivatsarīyā",
+      "interpretation": "Second adjective of the blessing in the TITUS witness."
+    },
+    {
+      "id": "F3",
+      "source": "KS",
+      "input_history": "CH1",
+      "case_number": "F NOMsg",
+      "word": "idāvatsarīyā",
+      "interpretation": "The idā year in agreement with svastiḥ."
+    },
+    {
+      "id": "F4",
+      "source": "KS",
+      "input_history": "CH1",
+      "case_number": "F NOMsg",
+      "word": "anuvatsarīyā",
+      "interpretation": "The anu year in the same series."
+    },
+    {
+      "id": "F5",
+      "source": "KS",
+      "input_history": "CH1",
+      "case_number": "F NOMsg",
+      "word": "udvatsarīyā",
+      "interpretation": "The ud year in the same series."
+    },
+    {
+      "id": "ID",
+      "source": "K91",
+      "input_history": "CH1",
+      "case_number": "M NOMsg",
+      "word": "idvatsarīyaḥ",
+      "interpretation": "Grammatical example with short id-."
+    },
+    {
+      "id": "IDA",
+      "source": "K91",
+      "input_history": "CH1",
+      "case_number": "M NOMsg",
+      "word": "idāvatsarīyaḥ",
+      "interpretation": "Masculine citation form, separate from the Kāṭhaka feminine."
+    },
+    {
+      "id": "A1",
+      "source": "TB",
+      "input_history": "KH2",
+      "case_number": "F ACCsg",
+      "word": "saṃvatsarīṇām",
+      "interpretation": "Blessing for the Vaiśvadeva petition."
+    },
+    {
+      "id": "A2",
+      "source": "TB",
+      "input_history": "KH2",
+      "case_number": "F ACCsg",
+      "word": "parivatsarīṇām",
+      "interpretation": "Blessing for the Varuṇapraghāsa petition."
+    },
+    {
+      "id": "A3",
+      "source": "TB",
+      "input_history": "KHV",
+      "case_number": "F ACCsg",
+      "word": "idāvatsarīṇām",
+      "interpretation": "The Sākamedha petition, marked chāndasa kha."
+    },
+    {
+      "id": "A4",
+      "source": "TB",
+      "input_history": "KHV",
+      "case_number": "F ACCsg",
+      "word": "anuvatsarīṇām",
+      "interpretation": "The Śunāsīrīya petition, included by the commentary's ādi."
+    },
+    {
+      "id": "MAR",
+      "source": "TS",
+      "input_history": "KH2",
+      "case_number": "M NOMpl",
+      "word": "saṃvatsarīṇāḥ",
+      "interpretation": "Annual Maruts, shared with Śaunaka."
+    },
+    {
+      "id": "FROG",
+      "source": "RV",
+      "input_history": "KH2",
+      "case_number": "N ACCsg",
+      "word": "parivatsarīṇam",
+      "interpretation": "Qualifies brahma on Sāyaṇa's reading. Temporal accusative reading kept alongside it."
+    },
+    {
+      "id": "M93",
+      "source": "K93",
+      "input_history": "CON/GET/EASY",
+      "case_number": "M NOMsg",
+      "word": "māsikaḥ",
+      "interpretation": "Disease that can be overcome, cloth obtainable or building easily made within the month."
+    },
+    {
+      "id": "V93",
+      "source": "K93",
+      "input_history": "DUTY",
+      "case_number": "N NOMsg",
+      "word": "māsikam",
+      "interpretation": "The cāndrāyaṇa to be performed in a month."
+    },
+    {
+      "id": "Y93",
+      "source": "K93",
+      "input_history": "CON",
+      "case_number": "M NOMsg",
+      "word": "sāṃvatsarikaḥ",
+      "interpretation": "Annual period in the conquerable-illness example."
+    },
+    {
+      "id": "VOW1",
+      "source": "K94",
+      "input_history": "PRA",
+      "case_number": "M NOMsg",
+      "word": "māsikaḥ",
+      "interpretation": "Person keeping brahmacarya for a month."
+    },
+    {
+      "id": "VOW2",
+      "source": "K94",
+      "input_history": "PRA",
+      "case_number": "M NOMsg",
+      "word": "ārdhamāsikaḥ",
+      "interpretation": "Person keeping the half-month observance."
+    },
+    {
+      "id": "VOW3",
+      "source": "K94",
+      "input_history": "PRA",
+      "case_number": "M NOMsg",
+      "word": "sāṃvatsarikaḥ",
+      "interpretation": "Person keeping the year-long observance."
+    },
+    {
+      "id": "PER1",
+      "source": "K94",
+      "input_history": "OBS",
+      "case_number": "N NOMsg",
+      "word": "māsikam",
+      "interpretation": "One month defines the vow."
+    },
+    {
+      "id": "PER2",
+      "source": "K94",
+      "input_history": "OBS",
+      "case_number": "N NOMsg",
+      "word": "ārdhamāsikam",
+      "interpretation": "Half a month defines the vow."
+    },
+    {
+      "id": "PER3",
+      "source": "K94",
+      "input_history": "OBS",
+      "case_number": "N NOMsg",
+      "word": "sāṃvatsarikam",
+      "interpretation": "A year defines the vow."
+    },
+    {
+      "id": "N1",
+      "source": "K94",
+      "input_history": "TEXT",
+      "case_number": "N NOMsg",
+      "word": "māhānāmikam",
+      "interpretation": "Vow attached to the Mahānāmnī verses."
+    },
+    {
+      "id": "N2",
+      "source": "K94",
+      "input_history": "TEXT",
+      "case_number": "N NOMsg",
+      "word": "gaudānikam",
+      "interpretation": "Godāna observance."
+    },
+    {
+      "id": "N3",
+      "source": "K94",
+      "input_history": "TEXT",
+      "case_number": "N NOMsg",
+      "word": "ādityavratikam",
+      "interpretation": "Ādityavrata observance."
+    },
+    {
+      "id": "P1",
+      "source": "K94",
+      "input_history": "KEEP",
+      "case_number": "M NOMsg",
+      "word": "māhānāmikaḥ",
+      "interpretation": "One who keeps the associated vow."
+    },
+    {
+      "id": "P2",
+      "source": "K94",
+      "input_history": "KEEP",
+      "case_number": "M NOMsg",
+      "word": "gaudānikaḥ",
+      "interpretation": "Godāna practitioner."
+    },
+    {
+      "id": "P3",
+      "source": "K94",
+      "input_history": "KEEP",
+      "case_number": "M NOMsg",
+      "word": "ādityavratikaḥ",
+      "interpretation": "Ādityavrata practitioner."
+    },
+    {
+      "id": "D1",
+      "source": "K94",
+      "input_history": "DIN",
+      "case_number": "M NOMsg",
+      "word": "avāntaradīkṣī",
+      "interpretation": "Practitioner of the specified dīkṣā."
+    },
+    {
+      "id": "D2",
+      "source": "K94",
+      "input_history": "DIN",
+      "case_number": "M NOMsg",
+      "word": "tilavratī",
+      "interpretation": "Practitioner of the sesame vow."
+    },
+    {
+      "id": "FORTY",
+      "source": "K94",
+      "input_history": "FORT",
+      "case_number": "M NOMsg",
+      "word": "aṣṭācatvāriṃśakaḥ / aṣṭācatvāriṃśī",
+      "interpretation": "Person completing the forty-eight-year discipline."
+    },
+    {
+      "id": "FOUR",
+      "source": "K94",
+      "input_history": "SEASP",
+      "case_number": "M NOMsg",
+      "word": "cāturmāsakaḥ / cāturmāsī",
+      "interpretation": "Performer of the seasonal observances."
+    },
+    {
+      "id": "MOON",
+      "source": "K94",
+      "input_history": "MOON",
+      "case_number": "F NOMsg",
+      "word": "cāturmāsī",
+      "interpretation": "Named full moon. The identical masculine ending has a distinct base and history."
+    },
+    {
+      "id": "RITE",
+      "source": "SB",
+      "input_history": "RITE",
+      "case_number": "N NOMpl",
+      "word": "cāturmāsyāni",
+      "interpretation": "Seasonal rites as subject in paragraph 7."
+    },
+    {
+      "id": "INST",
+      "source": "SB",
+      "input_history": "RITE",
+      "case_number": "N INSpl",
+      "word": "cāturmāsyaiḥ",
+      "interpretation": "Means by which Prajāpati fashions himself in paragraphs 1 and 8. TB 1.4.10 also has instrumental plural."
+    },
+    {
+      "id": "OBJ",
+      "source": "K94",
+      "input_history": "RITE",
+      "case_number": "N ACCpl",
+      "word": "cāturmāsyāni",
+      "interpretation": "Object of carati in the grammatical account of the practitioner."
+    },
+    {
+      "id": "FE1",
+      "source": "K95",
+      "input_history": "FEE",
+      "case_number": "F NOMsg",
+      "word": "āgniṣṭomikī",
+      "interpretation": "Fee of Agniṣṭoma."
+    },
+    {
+      "id": "FE2",
+      "source": "K95",
+      "input_history": "FEE",
+      "case_number": "F NOMsg",
+      "word": "vājapeyikī",
+      "interpretation": "Fee of Vājapeya."
+    },
+    {
+      "id": "FE3",
+      "source": "K95",
+      "input_history": "FEE",
+      "case_number": "F NOMsg",
+      "word": "rājasūyikī",
+      "interpretation": "Fee of Rājasūya."
+    },
+    {
+      "id": "FD1",
+      "source": "K96",
+      "input_history": "GIFT",
+      "case_number": "N NOMsg",
+      "word": "āgniṣṭomikam",
+      "interpretation": "Bhaktam given at Agniṣṭoma, the item described."
+    },
+    {
+      "id": "FD2",
+      "source": "K96",
+      "input_history": "GIFT",
+      "case_number": "N NOMsg",
+      "word": "vājapeyikam",
+      "interpretation": "Food given at Vājapeya."
+    },
+    {
+      "id": "FD3",
+      "source": "K96",
+      "input_history": "GIFT",
+      "case_number": "N NOMsg",
+      "word": "rājasūyikam",
+      "interpretation": "Food given at Rājasūya."
+    },
+    {
+      "id": "T1",
+      "source": "K96",
+      "input_history": "TIME",
+      "case_number": "N NOMsg",
+      "word": "māsikam",
+      "interpretation": "Given or done in a month."
+    },
+    {
+      "id": "T2",
+      "source": "K96",
+      "input_history": "TIME",
+      "case_number": "N NOMsg",
+      "word": "sāṃvatsarikam",
+      "interpretation": "Given or done in a year."
+    },
+    {
+      "id": "RAIN",
+      "source": "K96",
+      "input_history": "RAIN",
+      "case_number": "N NOMsg",
+      "word": "prāvṛṣeṇyam",
+      "interpretation": "Rainy-season occurrence formation transferred to gift or duty."
+    },
+    {
+      "id": "SPR",
+      "source": "K96",
+      "input_history": "SPR",
+      "case_number": "N NOMsg",
+      "word": "vāsantikam / vāsantam",
+      "interpretation": "Spring variants."
+    },
+    {
+      "id": "WIN",
+      "source": "K96",
+      "input_history": "WIN",
+      "case_number": "N NOMsg",
+      "word": "haimanam / haimantam / haimantikam",
+      "interpretation": "Three winter histories."
+    },
+    {
+      "id": "AUT",
+      "source": "K96",
+      "input_history": "AUT",
+      "case_number": "N NOMsg",
+      "word": "śāradam",
+      "interpretation": "Autumn gift or task."
+    },
+    {
+      "id": "VY",
+      "source": "K97",
+      "input_history": "VYU",
+      "case_number": "N NOMsg",
+      "word": "vaiyuṣṭam",
+      "interpretation": "Given or done at dawn."
+    },
+    {
+      "id": "NI",
+      "source": "K97",
+      "input_history": "VYU",
+      "case_number": "N NOMsg",
+      "word": "naityam",
+      "interpretation": "Listed nitya."
+    },
+    {
+      "id": "AG",
+      "source": "K97",
+      "input_history": "LIST",
+      "case_number": "N NOMsg",
+      "word": "āgnipadam",
+      "interpretation": "Listed agnipada."
+    },
+    {
+      "id": "PI",
+      "source": "K97",
+      "input_history": "LIST",
+      "case_number": "N NOMsg",
+      "word": "pailumūlam",
+      "interpretation": "Listed pīlumūla, preserving the Sanskrit commentary's long ū."
+    }
+  ],
+  "source_policy_decisions": [
+    {
+      "id": "YEAR",
+      "sources": "KS,KS2,K91,K92",
+      "decision": "Retain both electronic readings of the pari slot. Five recipient nouns do not constitute five cha derivatives. No inferred short-id masculine Kāṭhaka attestation."
+    },
+    {
+      "id": "KH",
+      "sources": "TB,BH,K91,K92",
+      "decision": "Admit two grammar-regular and two explicitly commented exceptional kha forms in the petitions. No productive generalization to every year name."
+    },
+    {
+      "id": "MAR",
+      "sources": "TS,AV,RV,RV2",
+      "decision": "One Marut adjective with two witnesses. Keep the annual brahma and temporal readings of the frog verse on one written form."
+    },
+    {
+      "id": "VOW",
+      "sources": "K93,K94,SB",
+      "decision": "Separate the input case and referent at 93 and 94. Rite as subject, means or object receives its independently justified output case. The moon and the practitioner differ even at identical spelling."
+    },
+    {
+      "id": "FEE",
+      "sources": "K94,K95,K96",
+      "decision": "Sacrifice name can be nontemporal. Possessive fee and locative food have different semantic and agreement histories."
+    },
+    {
+      "id": "SCOPE",
+      "sources": "K96,K97,JAY",
+      "decision": "Preserve the imported seasonal variants, the end of the time restriction, the list guard and the given/done predicates. Rain clouds alone supply no 5.1.96 gift."
+    }
+  ]
+}

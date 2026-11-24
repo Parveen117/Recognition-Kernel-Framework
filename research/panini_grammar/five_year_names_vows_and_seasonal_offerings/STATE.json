@@ -1,0 +1,36 @@
+{
+  "stage": "PG763",
+  "date": "2026-11-25",
+  "publication_parent": "6eeb5bc7bf1a3257ca21709d1bac90eedc15b756",
+  "baseline": {
+    "commit": "6eeb5bc7bf1a3257ca21709d1bac90eedc15b756",
+    "path": "research/panini_grammar/dated_pushpa_transcription_and_two_displaced_kasika_fields/STATE.json"
+  },
+  "finite_positions": 52345,
+  "nominal_positions": 20821,
+  "nominal_readings": 23535,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 57,
+  "new_nominal_readings": 62,
+  "new_morphology_constructions": 1,
+  "new_morphology_interfaces": 27,
+  "new_source_observations": 17,
+  "new_source_policy_decisions": 6,
+  "open_obligations": [
+    "The origin of the second pari spelling in the unaccented Kāṭhaka transcription remains Open. The TB exception is owned only on its witnessed inputs.",
+    "Continue the separate practitioner/merit domains at 5.1.98 onward and pre-import source genealogy."
+  ],
+  "local_closure": "PG14 histories retain source recension, support case, referent and inflection at zero specialization.",
+  "global_gates": {
+    "C2–C5": "Open",
+    "S1–S7": "Open",
+    "S5_direct_fields": "99/103",
+    "S6": "Independent 5.56 k-it effect Open"
+  },
+  "protected_registers": {
+    "PG335": "-9 finite positions and -12 readings already applied",
+    "PG340/346, PG349–352, PG355–360, PG357–363": "CLOSED on registered scopes"
+  },
+  "runtime_policy": "Written derivation. Only changed-document, source and count checks. Claude owns grammar execution, generators, untouched suites and replay."
+}
