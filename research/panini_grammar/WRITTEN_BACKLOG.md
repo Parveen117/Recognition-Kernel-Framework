@@ -1,6 +1,8 @@
-# Written-development backlog at PG725
+# Written-development backlog at PG726
 
-Monty · 2026-11-24 · reviewed current parent 29f2249c3fa715cf7d42e5364a8584dc5b5ac9c5. Historical closures below retain their exact pins.
+Monty · 2026-11-24 · reviewed current parent f9f12c162ce484bfb33bd0f50563a4897b385b3c. Historical closures below retain their exact pins.
+
+PG726 · [Craft, implement suffixes and Bhaṭṭi’s short readings](craft_and_implement_affix_and_bhatti_policies/README.md). Selected 4.4.55–59 case fibres and the 1928 printed short vowel and lexical-head collation are locally CLOSED. The print basis for the extra Mahābhāṣya craft examples, exact primary paiṭharika interpretation, and authority and derivation for the two short Bhaṭṭi spellings outside their actual compound addresses remain Open. 4.4.60–62 belief, habit and the qualified chattrādi roster require construction. Wider C2–C5/S1–S7 and Claude execution retain their obligations.
 
 PG725 · [Merchandise, salt and the aromatic suffixes](merchandise_salt_and_aromatic_affix_variants/README.md). Selected 4.4.51–54 merchandise cases are locally CLOSED, including the nine Kāśikā heads, the three additional named Vasu operands and the two śalālu alternatives. The exact printed provenance of expanded members, niradika in one text layer and unlisted feminine and pitch senses remain Open. 4.4.55–62 craft, instrument and opinion frames require their own construction. Wider C2–C5/S1–S7 and Claude execution retain their obligations.
 

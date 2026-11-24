@@ -2,6 +2,16 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG726 · Craft, implement suffixes and Bhaṭṭi’s short readings
+
+PG726 · [Craft, implement suffixes and Bhaṭṭi’s short readings](craft_and_implement_affix_and_bhatti_policies/README.md). Derives fourteen case fibres for 4.4.55–59. The two craft affixes and the two homophonous paraśvadha histories keep their own conditions. Direct collation identifies a short śakti form in the verse and a short yaṣṭi form in the printed commentary. Census 52,341 finite positions and 12,925 nominal positions with 14,893 nominal readings.
+
+Finite increments 0 positions/0 readings. Nominal increments 336 positions/400 readings. One morphology construction/18 interfaces, one compound construction/3 plans, one syntax construction/8 readouts, one semantic construction/6 readouts, one accent construction/2 records and one junction construction/5 readouts. 16 source observations and 13 source-policy decisions. Publication parent f9f12c162ce484bfb33bd0f50563a4897b385b3c. The containing commit pins the documents and evidence.
+
+PG521–726 cumulative: 522 finite positions/1,440 net finite readings, 7,147 nominal positions/8,150 readings, 300 morphology constructions/3,148 interfaces, 136 compound constructions/621 plans, 34 accent constructions/137 records, 158 semantics constructions/481 records, 147 syntax constructions/555 records, 274 source-policy decisions after PG555−1 and 640 observations. Thirty junction constructions/96 readouts since PG680 and 22 nonfinite constructions/28 paths since PG700. PG335 and PG357–363 CLOSED results are preserved.
+
+Selected 4.4.55–59 case fibres and the 1928 printed short vowel and lexical-head collation are locally CLOSED. The print basis for the extra Mahābhāṣya craft examples, exact primary paiṭharika interpretation, and authority and derivation for the two short Bhaṭṭi spellings outside their actual compound addresses remain Open. 4.4.60–62 belief, habit and the qualified chattrādi roster require construction. Wider C2–C5/S1–S7 and Claude execution retain their obligations.
+
 ## PG725 · Merchandise, salt and the aromatic suffixes
 
 PG725 · [Merchandise, salt and the aromatic suffixes](merchandise_salt_and_aromatic_affix_variants/README.md). Writes the food and salt merchants and the named aromatic series. The Kāśikā and expanded Vasu lists retain their own membership. Śalālu takes two scope-limited suffix and accent histories. Census 52,341 finite positions and 12,589 nominal positions with 14,493 nominal readings.
