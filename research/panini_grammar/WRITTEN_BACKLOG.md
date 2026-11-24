@@ -1,6 +1,8 @@
-# Written-development backlog at PG689
+# Written-development backlog at PG690
 
-Monty · 2026-11-24 · reviewed current parent 87db65f0cadea2e3586e0594064fab1a31297aa2; historical closures below retain their exact original pins.
+Monty · 2026-11-24 · reviewed current parent d8bd5f640e6b365cef3ed9dd23aa966ef8fca944. Historical closures below retain their exact pins.
+
+PG690 closes the [joined sam–gam two-hetu patient-passive profile](sam_gam_joined_nested_patient_passive_ten_lakara/README.md) in ten lakāras at 90 positions/379 readings on 411 paths. This applies when Y is the unique supplied karman. Haradatta's two readings of the wedding texts give local controls for one-layer causation and base co-arrival. Direct attestation of the two-hetu passive, accent, other role or lexical frames, competing source policies, C2–C5/S1–S7 and Claude execution retain separate obligations.
 
 PG689 closes the [selected joined two-hetu sam–gam active ten-lakāra set](sam_gam_joined_nested_active_ten_lakara_completion/README.md) at 180 keys/456 readings. Eight labels add 144/400. The joined lexical control is exact in the VS 17.19 commentaries, with separate original and gloss root ownership. Other joined voices and role/formation profiles remain unconstructed. Direct evidence for the two-hetu joined frame, source and recitation issues and C2–C5/S1–S7 stay Open. Claude execution is separate.
 

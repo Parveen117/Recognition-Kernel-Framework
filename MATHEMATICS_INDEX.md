@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG690: [Joined two-hetu sam–gam with a patient controller](research/panini_grammar/sam_gam_joined_nested_patient_passive_ten_lakara/README.md). Typed specialization preserves both instrumental agents, scoped agreement, the corrected passive affix owners and the correlated perfect policy across the joined prefix cut.
+
 PG689: [Complete selected joined sam–gam two-hetu active grid](research/panini_grammar/sam_gam_joined_nested_active_ten_lakara_completion/README.md). The factored typed lift retains each body receiver and original ending. The outer prefix and the perfect's auxiliary junction remain independent owned edges.
 
 PG688: [Nested gam passive blessing and aorist ownership repair](research/panini_grammar/nested_gam_passive_blessing_aorist_owner_reconciliation/README.md). Typed zero recovery preserves query-specific ciṇvat iṭ visibility, separate ciṇ i and ta-luk, root-grade ownership and the updated 2pl query.

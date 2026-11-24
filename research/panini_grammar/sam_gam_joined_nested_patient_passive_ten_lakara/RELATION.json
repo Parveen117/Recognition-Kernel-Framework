@@ -1,0 +1,280 @@
+{
+  "schema": "rkf.panini.pg690.relation.v1",
+  "scope": {
+    "root_id": 1011137,
+    "root": "gam",
+    "preverb": "sam joined",
+    "sense": "cause co-arrival or union through a two-hetu chain",
+    "formation": "two hetumat ṇic, H1-lopa before growth",
+    "voice": "karmaṇi",
+    "pada": "A by 1.3.13",
+    "controller": "Y when K(E2)={Y} is positively supplied",
+    "agent_cases": {
+      "D": "instrumental, E1 agent",
+      "V": "instrumental, E2 agent"
+    }
+  },
+  "witness_readouts": [
+    {
+      "id": "EK_NI",
+      "locator": "First praśna, wedding mantra 2 anṛkṣarā, Haradatta",
+      "source_verb": "sam ... ninīyāt",
+      "gloss": "saṅgamayatu",
+      "gloss_root": "gam",
+      "source_preverb": "sam separated",
+      "gloss_preverb": "sam joined",
+      "actor_reading": "Aryaman and Bhaga named at the same causal level; āvām supplies the affected pair",
+      "status": "Accepted as one-layer gloss"
+    },
+    {
+      "id": "EK_GATI",
+      "locator": "Haradatta 1.12, mantra 2 ārdrayāraṇyā",
+      "source_verb": "gacchatam",
+      "gloss": "saṅgacchatam / saṅgatau bhavatam",
+      "gloss_root": "gam",
+      "source_preverb": null,
+      "gloss_preverb": "sam joined",
+      "actor_reading": "the addressed pair performs the base joining; no inducing event in the final verb",
+      "status": "Accepted as intransitive gloss"
+    },
+    {
+      "id": "PATIENT",
+      "locator": "PG409 role selection on explicitly supplied joined E0/E1",
+      "source_verb": null,
+      "gloss": null,
+      "construction_root": "gam",
+      "construction_preverb": "sam joined",
+      "actor_reading": "Y expressed karman; D and V distinct instrumental agents",
+      "status": "Accepted in composed patient practice"
+    }
+  ],
+  "panels": [
+    {
+      "label": "laṭ",
+      "source_pin_index": 3,
+      "selector": null,
+      "readout_fields": [
+        "word"
+      ],
+      "prefix": [
+        "saṃ",
+        "saṅ"
+      ],
+      "keys": 9,
+      "readings": 18,
+      "paths": 18,
+      "example": "saṃgamyate"
+    },
+    {
+      "label": "laṅ",
+      "source_pin_index": 4,
+      "selector": "lang",
+      "readout_fields": [
+        "word"
+      ],
+      "prefix": [
+        "sam"
+      ],
+      "keys": 9,
+      "readings": 9,
+      "paths": 9,
+      "example": "samagamyata"
+    },
+    {
+      "label": "loṭ",
+      "source_pin_index": 4,
+      "selector": "lot",
+      "readout_fields": [
+        "word"
+      ],
+      "prefix": [
+        "saṃ",
+        "saṅ"
+      ],
+      "keys": 9,
+      "readings": 18,
+      "paths": 18,
+      "example": "saṃgamyatām"
+    },
+    {
+      "label": "vidhiliṅ",
+      "source_pin_index": 4,
+      "selector": "vidhiling",
+      "readout_fields": [
+        "word"
+      ],
+      "prefix": [
+        "saṃ",
+        "saṅ"
+      ],
+      "keys": 9,
+      "readings": 18,
+      "paths": 18,
+      "example": "saṃgamyeta"
+    },
+    {
+      "label": "lṛṭ",
+      "source_pin_index": 5,
+      "selector": "lrt",
+      "readout_fields": [
+        "O_retained_H2",
+        "C_short_H2_lopa",
+        "C_long_H2_lopa"
+      ],
+      "prefix": [
+        "saṃ",
+        "saṅ"
+      ],
+      "keys": 9,
+      "readings": 54,
+      "paths": 54,
+      "example": "saṃgamayiṣyate / saṃgamiṣyate / saṃgāmiṣyate"
+    },
+    {
+      "label": "lṛṅ",
+      "source_pin_index": 5,
+      "selector": "lrng",
+      "readout_fields": [
+        "O_retained_H2",
+        "C_short_H2_lopa",
+        "C_long_H2_lopa"
+      ],
+      "prefix": [
+        "sam"
+      ],
+      "keys": 9,
+      "readings": 27,
+      "paths": 27,
+      "example": "samagamayiṣyata / samagamiṣyata / samagāmiṣyata"
+    },
+    {
+      "label": "luṭ",
+      "source_pin_index": 6,
+      "selector": null,
+      "readout_fields": [
+        "O_retained_H2",
+        "C_short_H2_lopa",
+        "C_long_H2_lopa"
+      ],
+      "prefix": [
+        "saṃ",
+        "saṅ"
+      ],
+      "keys": 9,
+      "readings": 54,
+      "paths": 54,
+      "example": "saṃgamayitā / saṃgamitā / saṃgāmitā"
+    },
+    {
+      "label": "liṭ",
+      "source_pin_index": 7,
+      "selector": null,
+      "readout_fields": [
+        "readings"
+      ],
+      "prefix": [
+        "saṃ",
+        "saṅ"
+      ],
+      "keys": 9,
+      "readings": 98,
+      "paths": 130,
+      "example": "saṅgamayāñcakre / saṅgamayāmbabhūve / saṅgamayāmāhe"
+    },
+    {
+      "label": "āśīrliṅ",
+      "source_pin_index": 9,
+      "selector": "ashirling",
+      "readout_fields": [
+        "O",
+        "short",
+        "long"
+      ],
+      "prefix": [
+        "saṃ",
+        "saṅ"
+      ],
+      "keys": 9,
+      "readings": 56,
+      "paths": 56,
+      "example": "saṃgamayiṣīṣṭa / saṃgamiṣīṣṭa / saṃgāmiṣīṣṭa"
+    },
+    {
+      "label": "luṅ",
+      "source_pin_index": 9,
+      "selector": "lung",
+      "readout_fields": [
+        "O",
+        "short",
+        "long"
+      ],
+      "prefix": [
+        "sam"
+      ],
+      "keys": 9,
+      "readings": 27,
+      "paths": 27,
+      "example": "samagami / samagāmi"
+    }
+  ],
+  "perfect": {
+    "primary": "gam|empty_H1|ay_H2|ām",
+    "auxiliaries": {
+      "kr": "A",
+      "bhu": "A under selected TB path",
+      "as": "A with correlated H/I/S"
+    },
+    "as_pairs": {
+      "H": [
+        "āhe",
+        "āhe"
+      ],
+      "I": [
+        "āse",
+        "āhe"
+      ],
+      "S": [
+        "āse",
+        "āse"
+      ]
+    },
+    "excluded_pair": [
+      "āhe",
+      "āse"
+    ],
+    "readings": 98,
+    "paths": 130
+  },
+  "excluded": [
+    "Promoting D or V on the positively supplied input K(E2)={Y}",
+    "Inferring two nested hetus from two co-agents or a concordant surface shape",
+    "Selecting active or impersonal agreement paths as patient-agreement outputs",
+    "Copying the historical PG677 alternatives over PG688",
+    "Projecting a fourth pair from the selected exact H/I/S policy inventory"
+  ],
+  "open": [
+    "Direct corpus attestation of joined two-hetu patient-agreement with independently recoverable inner and outer agents, and its accent or recitation",
+    "Additional karman or uncertain co-participant role, joined single-hetu and other voice or lexical profiles, rival narrow luṭ 2pl and other perfect commentarial policies",
+    "C2–C5/S1–S7 and the independently deferred Claude tasks"
+  ],
+  "credit": {
+    "finite_positions": 90,
+    "finite_readings": 379,
+    "nominal_positions": 0,
+    "nominal_readings": 0,
+    "morphological_constructions": 1,
+    "morphological_readouts": 411,
+    "syntactic_constructions": 1,
+    "syntactic_readouts": 3,
+    "phonological_constructions": 0,
+    "phonological_readouts": 0,
+    "accent_constructions": 0,
+    "accent_readouts": 0,
+    "compound_constructions": 0,
+    "compound_readouts": 0,
+    "semantic_constructions": 0,
+    "semantic_readouts": 0,
+    "source_observations": 2,
+    "source_policy_decisions": 1
+  }
+}
