@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG794 · [Desire, body-part devotion and nine k-family predicates](desire_body_devotion_and_nine_k_predicates/README.md). Completes selected 5.2.65–73 outputs: 19 new nominal positions/readings, nine constructions/19 interfaces and nine source decisions; three unresolved source/commentary readings remain Open and uncredited.
+
 PG793 · [Hymn and chapter names, and skilled domains](hymn_chapter_names_and_skilled_domains/README.md). Completes selected 5.2.59–64 outputs: 17 new nominal positions and 23 readings, six constructions/17 interfaces and six source decisions.
 
 PG792 · [Quantity ordinals and the scope of tamaṭ](quantity_ordinals_and_tamat_scope/README.md). Completes selected 5.2.53–58 outputs: 22 new nominal positions and 30 readings, six morphology constructions/22 interfaces and six source decisions.

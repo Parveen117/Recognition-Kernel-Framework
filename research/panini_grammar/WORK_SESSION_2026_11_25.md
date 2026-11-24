@@ -2,6 +2,12 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG794 · Desire, body-part devotion and nine k-family predicates
+
+PG794 · [Desire, body-part devotion and nine k-family predicates](desire_body_devotion_and_nine_k_predicates/README.md). Completes selected 5.2.65–73 surfaces with 19 new nominal positions and 19 readings. Finite positions/readings increase by zero. Nine morphology constructions/19 interfaces, zero new source observations and nine source-policy decisions. Census: 52,357 finite positions, 21,426 nominal positions and 24,237 nominal readings.
+
+Parent 5101279aa306ba15835aaef867a536fd8af6a568. The containing commit pins this packet. Selected literal outputs and source-explicit guards are CLOSED. The reported `sasya/śasya` input fork, Vasu English `pratyayaḥ` against Kāśikā `pratyagraḥ`, the 5.2.73 commentary-policy difference, full paradigms, accent and wider productivity remain Open. Continue from 5.2.74. The source-explicit `udaraka` contrast is Excluded only from the rule-67 voracious `ṭhak` branch. C2–C5 and S1–S7 remain Open; S5 remains 99/103 and S6 retains the independent 5.56 k-it effect. Claude retains execution, generators, untouched suites and replay.
+
 ## PG788 · Five quantity pronouns, three Vedic comparisons and a question about the gods
 
 PG788 · [Five quantity pronouns, three Vedic comparisons and a question about the gods](five_quantity_pronouns_and_the_number_of_gods/README.md). Distinguishes quantity from likeness and numerical inquiry, verifies the three Ṛgvedic quotations, and attaches the Vedic smasi reading to PG8’s existing first plural. 11 new nominal positions and 11 readings. 0 new finite positions and 1 finite readings. One written morphology construction with 11 interfaces, 14 source observations and 5 source decisions. Census: 52,357 finite positions, 21,316 nominal positions and 24,107 nominal readings.

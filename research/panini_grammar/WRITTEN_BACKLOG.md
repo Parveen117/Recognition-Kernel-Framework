@@ -1,6 +1,8 @@
-# Written-development backlog at PG793
+# Written-development backlog at PG794
 
-Monty · 2026-11-25 · reviewed parent b163176d64cc0e9f1fefa525e2635b9af3c4ef5b. Historical closures below retain their exact pins.
+Monty · 2026-11-25 · reviewed parent 5101279aa306ba15835aaef867a536fd8af6a568. Historical closures below retain their exact pins.
+
+PG794 · [Desire, body-part devotion and nine k-family predicates](desire_body_devotion_and_nine_k_predicates/README.md). Selected 5.2.65–73 outputs and explicit guards are CLOSED. The `sasya/śasya` input fork, `pratyagraḥ/pratyayaḥ` gloss difference, 5.2.73 commentary policy, full paradigms, accent and wider productivity remain Open. Continue from 5.2.74. `udaraka` is Excluded only from the source-defined 5.2.67 voracious `ṭhak` branch. S5 remains 99/103; S6 retains the independent 5.56 k-it effect. C2–C5 and S1–S7 remain Open.
 
 PG793 · [Hymn and chapter names, and skilled domains](hymn_chapter_names_and_skilled_domains/README.md). Selected 5.2.59–64 outputs and source-labelled forks are CLOSED. Full gaṇa coverage, critical spelling priority, paradigms and accent remain Open. Continue from 5.2.65. S5 remains 99/103; S6 retains the independent 5.56 k-it effect. C2–C5 and S1–S7 remain Open.
 

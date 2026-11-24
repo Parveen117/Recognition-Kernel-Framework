@@ -1,0 +1,41 @@
+{
+  "stage":"PG794",
+  "morphology_constructions":[
+    {"id":"DESIRE_KAN","rule":"5.2.65","interfaces":["D65","H65"]},
+    {"id":"BODY_DEVOTION_KAN","rule":"5.2.66","interfaces":["K66","DO66","KN66"]},
+    {"id":"VORACIOUS_THAK","rule":"5.2.67","interfaces":["U67"]},
+    {"id":"PERFECT_QUALITY_KAN","rule":"5.2.68","interfaces":["S68R","S68P","S68M"]},
+    {"id":"OBLIGATORY_SHARE_KAN","rule":"5.2.69","interfaces":["A69D","A69P"]},
+    {"id":"FRESH_FROM_LOOM_KAN","rule":"5.2.70","interfaces":["T70P","T70V"]},
+    {"id":"STIPULATED_NAMES","rule":"5.2.71","interfaces":["B71","U71"]},
+    {"id":"MANNER_OF_ACTING_KAN","rule":"5.2.72","interfaces":["S72","U72"]},
+    {"id":"ADHIKA_STIPULATION","rule":"5.2.73","interfaces":["A73D","A73K"]}
+  ],
+  "nominal_positions":[
+    {"id":"D65","readings":["dhanako devadattasya"]},{"id":"H65","readings":["hiraṇyako devadattasya"]},
+    {"id":"K66","readings":["keśakaḥ"]},{"id":"DO66","readings":["dantauṣṭhakaḥ"]},{"id":"KN66","readings":["keśanakhakaḥ"]},
+    {"id":"U67","readings":["audarikaḥ ādyūnaḥ"]},
+    {"id":"S68R","readings":["sasyakaḥ śāliḥ"]},{"id":"S68P","readings":["sasyakaḥ sādhuḥ"]},{"id":"S68M","readings":["sasyako maṇiḥ"]},
+    {"id":"A69D","readings":["aṃśako dāyādaḥ"]},{"id":"A69P","readings":["aṃśakaḥ putraḥ"]},
+    {"id":"T70P","readings":["tantrakaḥ paṭaḥ"]},{"id":"T70V","readings":["tantrakaḥ prāvāraḥ"]},
+    {"id":"B71","readings":["brāhmaṇako deśaḥ"]},{"id":"U71","readings":["uṣṇikā yavāgūḥ"]},
+    {"id":"S72","readings":["śītakaḥ"]},{"id":"U72","readings":["uṣṇakaḥ"]},
+    {"id":"A73D","readings":["adhiko droṇaḥ khāryām"]},{"id":"A73K","readings":["adhikā khārī droṇena"]}
+  ],
+  "source_policy_decisions":[
+    {"id":"DESIRE_CASE","status":"Accepted","decision":"Require the locative support and desire predicate for the two 5.2.65 kan outputs."},
+    {"id":"BODY_COLLECTION","status":"Accepted","decision":"Admit the three displayed body-part examples, including the two source-given collections; wider compound productivity remains Open."},
+    {"id":"UDARA_GUARD","status":"Accepted/Excluded","decision":"Accept audarika only under the ādyūna guard; exclude source-explicit udaraka only from this conditioned ṭhak branch."},
+    {"id":"SASYA_FORK","status":"Accepted/Open","decision":"Accept the three printed sasyaka examples; retain Vasu's reported śasya base as Open and do not invent an unprinted derivative."},
+    {"id":"SHARE_CASE","status":"Accepted","decision":"Retain accusative aṃśam under obligatory hārin and keep heir and son as distinct bearer positions."},
+    {"id":"LOOM_CASE","status":"Accepted/Open","decision":"Retain ablative tantrāt and the recent-removal guard; keep Vasu pratyayaḥ versus Kāśikā pratyagraḥ Open as a source difference."},
+    {"id":"NAMES_ONLY","status":"Accepted","decision":"Treat brāhmaṇaka and uṣṇikā as stipulated names, not a productive licence for unlisted bases."},
+    {"id":"ACTING_MANNER","status":"Accepted","decision":"Retain the adverbial accusative analysis and separate cold/lazy from hot/quick action."},
+    {"id":"ADHIKA_HISTORY","status":"Accepted/Open","decision":"Accept the stated second-member deletion plus kan history and the two displayed frames; critical reconciliation of the role/case explanation remains Open."}
+  ],
+  "uncredited_open_readings":[
+    {"rule":"5.2.68","reading":"śasya","reason":"reported alternate input only; no derived surface printed in the frozen field"},
+    {"rule":"5.2.70","reading":"pratyayaḥ / pratyagraḥ","reason":"gloss-level source divergence, not a second nominal output"},
+    {"rule":"5.2.73","reading":"agent/object versus nominative/accusative explanation","reason":"competing commentary policies need critical reconciliation"}
+  ]
+}

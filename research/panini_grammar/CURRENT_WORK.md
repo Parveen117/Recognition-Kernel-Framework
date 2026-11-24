@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG793
+# Pāṇini grammar · current written coverage at PG794
+
+PG794 · [Desire, body-part devotion and nine k-family predicates](desire_body_devotion_and_nine_k_predicates/README.md). Completes selected 5.2.65–73 surfaces while retaining three unresolved source/commentary readings as Open rather than credited outputs. Census: 52,357 finite positions, 21,426 nominal positions and 24,237 nominal readings.
 
 PG793 · [Hymn and chapter names, and skilled domains](hymn_chapter_names_and_skilled_domains/README.md). Completes selected 5.2.59–64 surfaces while preserving three source spelling forks. Census: 52,357 finite positions, 21,407 nominal positions and 24,218 nominal readings.
 
