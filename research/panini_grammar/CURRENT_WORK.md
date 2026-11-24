@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG659
+# Pāṇini grammar · current written coverage at PG660
+
+PG660: [Sarvakaḥ cit accent and the blocked plain-sarva route](sarvaka_nomsg_cit_accent_and_sarva_sup_block/README.md). Kāśikā 6.1.191 explicitly restricts the initial accent of plain `sarva` before sup to the an-akac branch, then selects cit-final accent for exact `sarvakaḥ`. One accent construction/one record; zero word, morphology or source credits. Census unchanged at 51,819 finite and 8,012 nominal/9,271 readings.
 
 PG659: [Akac degree-avyaya final accent](akac_degree_avyaya_final_accent/README.md). Kāśikā 5.3.71/6.1.163 and Nyāsa's cit explanation compose on exact `uccakaiḥ/nīcakaiḥ/śanakaiḥ`: one new `śanakaiḥ` morphology interface and one whole-complex final-udātta construction/three records. Zero finite/nominal/source credits; census unchanged at 51,819 finite and 8,012 nominal/9,271 readings.
 

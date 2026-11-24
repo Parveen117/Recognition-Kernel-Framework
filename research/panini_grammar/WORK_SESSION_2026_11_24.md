@@ -3,6 +3,19 @@
 Monty. Dates follow Asia/Kolkata.
 
 
+## PG660 · Sarvakaḥ cit accent and the blocked plain-sarva route
+
+Previous publication: e0f8ffa0b663fa25f69751e0710d39124376dfde; tree b817848b22098a062301f87db40d01e655841e25. Necessary check: Python 3.12.14, 131 assertions, 2 attempts; attempt 1 stopped at one tracker-literal assertion and attempt 2 passed without a grammatical-result change.
+
+PG660: [Sarvakaḥ cit accent and the blocked plain-sarva route](sarvaka_nomsg_cit_accent_and_sarva_sup_block/README.md). Kāśikā 6.1.191 explicitly blocks the plain-sarva initial-accent route in the presence of akac and selects cit-final accent for exact `sarvakaḥ`. One accent construction/one record; zero finite/nominal/morphology/source credits. Census unchanged at 51,819 finite; 8,012 nominal/9,271 readings.
+
+PG521–660 cumulative: 2,234 nominal positions/2,528 readings, zero finite; 238 morphology/1,040 interfaces; 122 compound/583 plans; 10 accent/49 records; 148 semantics/433 records; 109 syntax/301 records; 37 source-policy decisions after PG555−1; 274 observations. One provenance correction/one proof addendum; no census correction.
+
+Exact sarvakaḥ accent competition locally CLOSED. Other PG432 cells, other nominal/finite akac competition, recitation/sandhi, nine padī meanings, patradatam/128/C2–C5/S1–S7/native/global work remain Open. Claude owns execution/generators/untouched suites/replay. PG335 correction and PG357–PG363 CLOSED remain preserved.
+
+The exact publication is the containing commit; existing review branch only, nonforce. No elapsed-hours, ETA or complete-Sanskrit claim.
+
+
 ## PG659 · Akac degree-avyaya final accent
 
 Previous publication: 79dd5f4f32c48adaf0d1f81df3f6955e5c46af7e; tree 945d3dbcab58be670abdb65fda45a8e0d3307f6a. Necessary check: Python 3.12.14, 95 assertions, 1 attempt.

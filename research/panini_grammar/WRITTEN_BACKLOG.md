@@ -1,6 +1,8 @@
-# Written-development backlog at PG659
+# Written-development backlog at PG660
 
-Monty · 2026-11-24 · reviewed current parent 79dd5f4f32c48adaf0d1f81df3f6955e5c46af7e; historical closures below retain their exact original pins.
+Monty · 2026-11-24 · reviewed current parent e0f8ffa0b663fa25f69751e0710d39124376dfde; historical closures below retain their exact original pins.
+
+PG660 closes one exact nominal akac accent conflict: Kāśikā 6.1.191 blocks the ordinary initial `sarva` accent when akac is present and explicitly selects 6.1.163 cit-final accent for `sarvakaḥ`. One accent construction/one record; no word/source recredit. Other PG432 cells and all other nominal/finite akac competitions remain Open. Census unchanged at 51,819 finite; 8,012 nominal positions/9,271 readings.
 
 PG659 closes whole-complex final udātta for exact `uccakaiḥ/nīcakaiḥ/śanakaiḥ`, adding one missing śanakaiḥ interface and three accent records without word/source recredit. Nominal/finite akac accent competition, recitation/sandhi and automatic semantics stay Open. Census remains 51,819 finite; 8,012 nominal positions/9,271 readings.
 

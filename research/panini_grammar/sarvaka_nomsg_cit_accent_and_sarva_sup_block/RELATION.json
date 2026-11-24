@@ -1,0 +1,26 @@
+{
+  "schema": "rkf.panini.pg660.relation.v1",
+  "scope": "Exact PG432 sarva+akac masculine nominative singular accent conflict",
+  "records": [
+    {
+      "request": "sarva+akac|ajñāta|M|nom|sg|su",
+      "word": "sarvakaḥ",
+      "morphology_owner": "PG432 control; zero repeated word/morphology credit",
+      "candidate_plain_route": "6.1.191 sarva-before-sup initial udātta",
+      "guard": "Kāśikā 6.1.191 vārttika restricts sarva accent to an-akac",
+      "selected_route": "akac c_IT plus 6.1.163",
+      "selected_feature": "whole prakṛti-affix complex final udātta",
+      "status": "Accepted exact source example"
+    }
+  ],
+  "open": [
+    "Other PG432 case cells and all other nominal/finite akac accent competitions",
+    "Complete recitational transcription, sentence sandhi and independent Vedic traditions",
+    "Automatic semantic recognition and wider C2-C5/S1-S7/native/global gates"
+  ],
+  "excluded": [
+    "Applying plain-sarva initial accent to this exact akac word",
+    "Treating the blocked route as deletion of all accent",
+    "Crediting sarvakaḥ as a new nominal word"
+  ]
+}

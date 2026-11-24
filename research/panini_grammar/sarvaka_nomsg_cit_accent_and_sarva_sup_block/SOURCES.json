@@ -1,0 +1,74 @@
+{
+  "upstream": [
+    {
+      "repository": "ashtadhyayi-com/data",
+      "commit": "5744762f010d677cfb43f347a42d02796cf615d6",
+      "path": "sutraani/kashika.txt",
+      "bytes": 3806703,
+      "sha256": "ccd6d554d10acbe89fd566730a59731ace38b2aad982becbbd653b77cca93254",
+      "git_blob_sha": "e525df7668835ef1dd7c5988c031da07ce0c162b",
+      "fields": [
+        {
+          "field": "61163",
+          "use": "cit assigns final udātta to the prakṛti-affix complex"
+        },
+        {
+          "field": "61191",
+          "text": "सर्वशब्दस्य सुपि परत आदिरुदात्तो भवति। सर्वः, सर्वौ, सर्वे। सुपीति किम्? सर्वतरः। सर्वतमः। प्रत्ययलक्षणेनाप्ययं स्वर इष्यते—सर्वस्तोमः इति॥ सर्वस्वरोऽनकच्कस्येति वक्तव्यम्॥ सर्वकः। चित्स्वरेणान्तोदात्तो भवति॥",
+          "use": "explicit plain-sarva/akac competition and selected final accent for sarvakaḥ"
+        }
+      ]
+    }
+  ],
+  "project_dependencies": [
+    {
+      "commit": "82ac8dc97be7bd59660546cd0c085775395529da",
+      "path": "research/panini_grammar/compound_sound_accent/SOURCE_PINS.json",
+      "bytes": 6703,
+      "sha256": "5ef0760d7e9b261b08f6e11a6467e03e0ee799a5c66d1a00f229115e5623ee5d",
+      "git_blob_sha": "12602fa8b375e0765dec8a55bccb22ce0a290f23"
+    },
+    {
+      "commit": "82ac8dc97be7bd59660546cd0c085775395529da",
+      "path": "research/panini_grammar/compound_sound_accent/SOURCE_EXCERPTS.json",
+      "bytes": 1111817,
+      "sha256": "0d7528ebf4b40a10e27a38039d73e3a5114b80c7137c9292961caaa0dc04c406",
+      "git_blob_sha": "a21220b8281d487a7b74a5d8e0ca16071327a765"
+    },
+    {
+      "commit": "82ac8dc97be7bd59660546cd0c085775395529da",
+      "path": "research/panini_grammar/compound_sound_accent/RULES_6_1_D.md",
+      "bytes": 21845,
+      "sha256": "0ed61e85d3d2f5ebc9ee55c2a655059532360be0d67517105bb6ba425530d2a5",
+      "git_blob_sha": "7bd0b9d24c72cae8e4549a231d95a3c49a34724e"
+    },
+    {
+      "commit": "5b3c426d491f1e4d1df48c4dfec826094e1e42dd",
+      "path": "research/panini_grammar/sarvaka_three_genders_positive_itva_and_owned_ap/STATE.json",
+      "bytes": 2857,
+      "sha256": "d3b0915e36087c5c35feecf00e2f25f85cdd0cef7c8236e60117533c81331a89",
+      "git_blob_sha": "8bded6f9d801feca1bcc80b93930adaa4fd0ad41"
+    },
+    {
+      "commit": "5b3c426d491f1e4d1df48c4dfec826094e1e42dd",
+      "path": "research/panini_grammar/sarvaka_three_genders_positive_itva_and_owned_ap/NOMINAL_FORMS.tsv",
+      "bytes": 2800,
+      "sha256": "bac54d9be4ee1846faf3b060b714ba92080422f5e7d8fde04a19366c5a2176f7",
+      "git_blob_sha": "7e83440d4a94710b367f0c60740de86b2b30c377"
+    },
+    {
+      "commit": "e0f8ffa0b663fa25f69751e0710d39124376dfde",
+      "path": "research/panini_grammar/akac_degree_avyaya_final_accent/STATE.json",
+      "bytes": 3770,
+      "sha256": "968ecde5ef48e1451603b1ebd0437592cbea6d063a0229176781db977c130ef3",
+      "git_blob_sha": "ca71d4efc5c8b81257b121c881cf4b43db053b1b"
+    }
+  ],
+  "source_decisions": [
+    "Select the explicit 6.1.191 vārttika result only for exact sarvakaḥ.",
+    "Block the plain-sarva initial-accent route without erasing the surviving cit accent.",
+    "Do not propagate this result to other akac case cells before their independent competition review."
+  ],
+  "source_observation_credit": 0,
+  "source_policy_decision_credit": 0
+}
