@@ -1,0 +1,300 @@
+{
+  "forms": [
+    {
+      "id": "STU_02.0038_VEDIC_LET_KARTARI_P_1SG",
+      "category": "finite",
+      "paths": [
+        {
+          "root": "stu 02.0038 ṣṭuñ stutau",
+          "sense": "speak praise of food",
+          "preverbs": [],
+          "voice": "kartari",
+          "pada": "P",
+          "lakara": "leṭ",
+          "person": "1sg",
+          "affix": "vikaraṇa siP + aṭ-owned miP > a + m",
+          "markers": {
+            "root": [
+              "ñ"
+            ],
+            "vikarana": [
+              "p",
+              "pronunciation-i"
+            ],
+            "augment": [
+              "ṭ"
+            ],
+            "ending": [
+              "p",
+              "sounded-i-before-lopa"
+            ]
+          },
+          "segment": "stoṣam",
+          "status": "Accepted reconstructed short-a route under 3.4.94; Mahīdhara's printed long label remains separately Open",
+          "policy": [
+            "M7",
+            "R187",
+            "N94"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MRS_06.0161_NIS_SEPARATED_VEDIC_LUNG_KARTARI_P_2DU",
+      "category": "finite",
+      "paths": [
+        {
+          "root": "mṛś 06.0161 mṛśa āmarśane",
+          "sense": "contextual wipe away sins",
+          "preverbs": [
+            "nis (tmesis)"
+          ],
+          "voice": "kartari",
+          "pada": "P",
+          "lakara": "luṅ in a request",
+          "person": "2du",
+          "affix": "cli > ksa with k-it and retained a + thas > tam; 6.4.75 root aṭ absent",
+          "markers": {
+            "root": [
+              "anunāsika-a"
+            ],
+            "vikarana": [
+              "k"
+            ],
+            "ending": [
+              "historical thas"
+            ],
+            "root_augment": [
+              "withheld-by-explicit-6.4.75"
+            ]
+          },
+          "segment": "mṛkṣatam",
+          "status": "Accepted Śākala 1.34.11 under Sāyaṇa",
+          "policy": [
+            "R34",
+            "S34",
+            "DPS"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "TRR_01.1124_PRA_SEPARATED_VEDIC_LUNG_KARTARI_P_2DU",
+      "category": "finite",
+      "paths": [
+        {
+          "root": "tṝ 01.1124 plavanataraṇayoḥ",
+          "sense": "extend human life",
+          "preverbs": [
+            "pra (tmesis)"
+          ],
+          "voice": "kartari",
+          "pada": "P",
+          "lakara": "luṅ in a request",
+          "person": "2du",
+          "affix": "cli > siC with short iṭ + thas > tam > ṭam; 6.4.75 root aṭ absent",
+          "markers": {
+            "root": [
+              "lexical ṝ"
+            ],
+            "vikarana": [
+              "c"
+            ],
+            "it_augment": [
+              "ṭ"
+            ],
+            "ending": [
+              "historical thas"
+            ],
+            "root_augment": [
+              "withheld-by-explicit-6.4.75"
+            ]
+          },
+          "segment": "tāriṣṭam",
+          "status": "Accepted Śākala 1.34.11 Sāyaṇa and VS 34.47 Mahīdhara",
+          "policy": [
+            "R34",
+            "S34",
+            "M47",
+            "IT"
+          ]
+        }
+      ]
+    }
+  ],
+  "accent": [
+    [
+      "STU-RV-UNACCENTED",
+      "stoṣam",
+      "After pitu and nu in the main assertion. The accented token layer distinguishes the preceding particle's tone and the adjacent dependent svarita.",
+      "R187"
+    ],
+    [
+      "TRR-RV-INITIAL",
+      "tā́riṣṭam",
+      "Sāyaṇa gives 8.1.63 for the unspoken coordination particle and 6.1.187 for the selected initial root tone on the siC form.",
+      "R34,S34"
+    ],
+    [
+      "MRS-RV-UNACCENTED",
+      "mṛkṣatam",
+      "The second verb comes after the accusative pāda and has no independent udātta in the received text.",
+      "R34,R157"
+    ]
+  ],
+  "syntax": [
+    [
+      "FOOD",
+      "Implicit first-singular speaker praises pitu. The finite word lacks a lexical preverb. Sāyaṇa construes nu as quick and Uvaṭa as semantically empty."
+    ],
+    [
+      "RV-LIFE",
+      "The two addressed Aśvins act on āyuḥ. The pra occurrence precedes that accusative and its own verb follows."
+    ],
+    [
+      "RV-CLEANSE",
+      "The Aśvins act on rapāṃsi. The nis occurrence precedes that accusative and its verb is mṛkṣatam in the Sāyaṇa parse."
+    ],
+    [
+      "VS-CLEANSE",
+      "The same surface frame admits mṛj leṭ in Mahīdhara's source-specific analysis. This dependency does not resolve the mṛj grade."
+    ],
+    [
+      "RV-ADDRESSES",
+      "1.157.4 has the same pra/āyuḥ and nis/rapāṃsi order with Sāyaṇa’s semantic gloss. Its first hemistich is a distinct Aśvin address."
+    ]
+  ],
+  "contact": [
+    [
+      "STU-M",
+      "stoṣam + maho → stoṣaṃ maho in the cited written saṃhitā. Independent pada retains m."
+    ],
+    [
+      "PRA-AYUH",
+      "pra + āyuḥ → prāyuḥ under 6.1.101, before the separate verb."
+    ],
+    [
+      "AYUH-T",
+      "prāyuḥ + tāriṣṭam → prāyus tāriṣṭam. The dental t follows the surface dental s of the life nominal."
+    ],
+    [
+      "NIS-R",
+      "nis → nir, then the first r drops before rapāṃsi and i lengthens to ī. Pāda source retains niḥ."
+    ],
+    [
+      "MRS-S",
+      "mṛkṣatam + sedhatam → mṛkṣataṃ sedhatam. The source shows a contact output and the pada retains m."
+    ]
+  ],
+  "observations": [
+    [
+      "M7-A",
+      "M7",
+      "p. 526 shows the short quoted word and printed ityāḍāgame in Mahīdhara's analytic prose, together with the 3.4.97 i-lopa and guṇa statements."
+    ],
+    [
+      "M8-LOC",
+      "M8",
+      "The p. 526 right column visibly prints 3.2.34 beside the intended leṭ vārttika, as in PG705's digital field."
+    ],
+    [
+      "RV-FOOD",
+      "R187",
+      "The 1.187.1 pada separates nu and stoṣam. Sāyaṇa glosses the verb as staumi. This agrees with the short Śukla word in the food praise."
+    ],
+    [
+      "KS-FOOD",
+      "KS",
+      "The unaccented 40.8 parallel opens with the same short form and same food context."
+    ],
+    [
+      "PS-FOOD",
+      "PS",
+      "The edited 6.16.1 Paippalāda text has the same short form. Its displayed layout puts the word at the end of the first pāda."
+    ],
+    [
+      "M-DUALS",
+      "M47",
+      "The two same-clause duals receive distinct lakāra assignments. The leṭ position is assigned to mṛj with siP and exceptional thas substitution, and tṝ remains augmentless luṅ."
+    ],
+    [
+      "RV-DUALS",
+      "R34,S34",
+      "The padapāṭha separates both preverbs and preserves both dual words. Sāyaṇa assigns mṛś plus ksa and tṝ plus siC with a short iṭ. He explicitly gives the initial tone on tāriṣṭam."
+    ],
+    [
+      "RV-SECOND",
+      "R157",
+      "The second Ashvin parallel shares the sequence and accent outputs. Its gloss confirms the request and object links."
+    ],
+    [
+      "COMP",
+      "WH",
+      "Whitney treats stoṣam within the s-aorist subjunctive discussion. He names mṛkṣatam an active imperative in the sa-aorist discussion. The latter category covers both weak grade and the same sound cluster and does not independently fix a Pāṇinian root choice."
+    ]
+  ],
+  "decisions": [
+    [
+      "STU-QUANTITY",
+      "M7,N94,R187",
+      "Accept short aṭ on miP for this reconstruction and preserve the literal printed ā label as a distinct source claim with its resolution Open."
+    ],
+    [
+      "FOOD-AGREEMENT",
+      "R187,PS,KS,M7",
+      "All four exact addresses support the short segmental predicate once. Compare PS/KS unaccented transcription and Śukla/Śākala accent evidence on their separate grades."
+    ],
+    [
+      "MR-ROOTS",
+      "R34,S34,M47,WH,GR",
+      "Accept the Sāyaṇa mṛś ksa derivation. Mahīdhara's mṛj leṭ and Whitney’s comparative analysis remain discrete. The mṛj weak grade within his leṭ route remains Open."
+    ],
+    [
+      "TRR-SIC",
+      "R34,S34,M47,IT",
+      "Admit the augmentless tṝ siC P dual with short iṭ. Its Vedic request sense and transparent separated pra survive. PG704–705 leṭ positions keep their own siP histories."
+    ],
+    [
+      "M8-PRINTED",
+      "M8",
+      "Close the PG705 scan-glyph question for this identified printed page. Preserve the observed 3.2.34 and the textually resolved 3.1.34/Kielhorn II.44.9 separately."
+    ]
+  ],
+  "morphology": [
+    [
+      "P1SG-STU",
+      "sto + ṣ + a + m",
+      "siP has s hardened after o. The short tiṅ augment and miP's remaining m are separate."
+    ],
+    [
+      "P2DU-MRS",
+      "mṛ + k + ṣ + a + tam",
+      "Root now ends in k. k-it ksa contributes sounded ṣa. The selected thas replacement has short a and terminal m."
+    ],
+    [
+      "P2DU-TRR",
+      "tār + i + ṣ + ṭam",
+      "siC's iṭ is short. thas is replaced with dental tam and the preceding ṣ retroflexes its t."
+    ]
+  ],
+  "unclosed_morphology": [
+    [
+      "P2DU-MRJ",
+      "mṛj 02.0061 śuddhau with separated nis",
+      "kartari P2du leṭ",
+      "Mahīdhara's siP, leṭ augment prescription and exceptional thas→tam are Accepted at their named quote. Exact conditions permitting unstrengthened mṛj in this leṭ route remain Open and receive zero word credit."
+    ],
+    [
+      "STU-LONG",
+      "stu 02.0038",
+      "kartari P1sg leṭ",
+      "The printed āṭ label is Accepted as evidence. Its ordinary ā+m output differs from the attested word. A licensed explanation for a short output on a literal long input remains Open."
+    ],
+    [
+      "WHITNEY-J",
+      "mṛj etymology in the sa-aorist account",
+      "comparative word class from Whitney",
+      "Keep the historical aorist-imperative analysis outside the counted Pāṇinian requests pending an exact rule-based reconstruction."
+    ]
+  ]
+}

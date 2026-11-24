@@ -2,6 +2,16 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG707 · Vedic stoṣam and the Aśvins’ dual aorists
+
+PG707 · [Vedic stoṣam and the Aśvins’ dual aorists](vedic_stosam_and_ashvin_dual_aorist_owners/README.md). The short stoṣam has four recensional addresses. Sāyaṇa derives mṛkṣatam from mṛś plus ksa and tāriṣṭam from tṝ plus siC. Mahīdhara’s competing mṛj leṭ keeps its grade question Open. His printed 34.8 itself has the divergent 3.2.34 locator. Three new finite positions and readings. Census 52,332 finite positions and 9,358 nominal positions with 10,956 nominal readings.
+
+0 new nonfinite constructions/0 retained paths. Accent 1/3, syntax 1/5, phonological junction 1/5 constructions/readouts. 9 source observations and 5 source-policy decisions. One morphology construction/3 interfaces. Finite increments 3 positions and 3 readings. Nominal increments 0 positions and 0 readings. The publication parent is d9ba1b1d59a0237056ddcfc72dd3971d35b649c0. The containing commit pins the documents and evidence.
+
+PG521–707 cumulative: 513 finite positions/1,429 net finite readings, 3,580 nominal positions/4,213 readings, 281 morphology constructions/2,933 interfaces, 126 compound constructions/590 plans, 23 accent constructions/93 records, 153 semantics constructions/454 records, 130 syntax constructions/422 records, 109 source-policy decisions after PG555−1 and 416 observations. Fourteen junction constructions/36 readouts since PG680 and 20 nonfinite constructions/26 paths since PG700. Four provenance corrections and one proof addendum. PG335 and PG357–363 CLOSED results are preserved.
+
+Closed the licensed short-a stoṣam reconstruction and the two named augmentless duals. The literal ā label and mṛj weak leṭ grade remain Open. The printed 3.2.34 locator subquestion closes locally while editorial lineage remains Open. Wider C2–C5 and S1–S7 stay active, with grammar execution assigned to Claude.
+
 ## PG706 · Two printed Kāśikā witnesses for anadyatana laṅ
 
 PG706 · [Two printed Kāśikā witnesses for anadyatana laṅ](anadyatana_two_printed_kasika_prescriptions/README.md). Two visually collated print editions agree on the operative laṅ, with genuine luṅ visible under neighboring 3.2.110. The 1952 editor separately reports Nyāsa padāti in a note to main-text patāti. Three observations and two decisions leave word credits unchanged. Census 52,329 finite positions and 9,358 nominal positions with 10,956 nominal readings.

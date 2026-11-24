@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG706
+# Pāṇini grammar · current written coverage at PG707
+
+PG707 · [Vedic stoṣam and the Aśvins’ dual aorists](vedic_stosam_and_ashvin_dual_aorist_owners/README.md). The short stoṣam has four recensional addresses. Sāyaṇa derives mṛkṣatam from mṛś plus ksa and tāriṣṭam from tṝ plus siC. Mahīdhara’s competing mṛj leṭ keeps its grade question Open. His printed 34.8 itself has the divergent 3.2.34 locator. Three new finite positions and readings. Census 52,332 finite positions and 9,358 nominal positions with 10,956 nominal readings.
 
 PG706 · [Two printed Kāśikā witnesses for anadyatana laṅ](anadyatana_two_printed_kasika_prescriptions/README.md). Two visually collated print editions agree on the operative laṅ, with genuine luṅ visible under neighboring 3.2.110. The 1952 editor separately reports Nyāsa padāti in a note to main-text patāti. Three observations and two decisions leave word credits unchanged. Census 52,329 finite positions and 9,358 nominal positions with 10,956 nominal readings.
 

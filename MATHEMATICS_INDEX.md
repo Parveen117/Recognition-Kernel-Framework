@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG707 · [Vedic stoṣam and the Aśvins’ dual aorists](research/panini_grammar/vedic_stosam_and_ashvin_dual_aorist_owners/README.md). The same surface remains addressable by separate historical root and mood claims. Typed specialization preserves the attestation, ownership, Open grade and precise accent or contact grades.
+
 PG706 · [Two printed Kāśikā witnesses for anadyatana laṅ](research/panini_grammar/anadyatana_two_printed_kasika_prescriptions/README.md). The witness grade carries edition, article address and direct or reported evidence through the PG14 specialization. The existing temporal and root histories retain their typed interfaces with zero word recredit.
 
 PG705 · [Second-singular tāriṣaḥ and the Anumati and donor witnesses](research/panini_grammar/vedic_let_tarisah_two_sip_addresses_and_paippalada/README.md). Specialization retains the dual siP ownership, final consonant and clause-boundary operators. All source histories share one finite reading and preserve their distinct grades and attachments.

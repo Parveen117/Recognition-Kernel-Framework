@@ -1,0 +1,3 @@
+# PG707 changed-document check
+
+Python 3.12.14, with an explicit major/minor assertion. Checked unique construction keys and source-bearing histories, named outputs, the decision reference and path census, project dependency digests, unchanged historic result pins the printed-page raster hash, six relevant pinned rule strings and the changed-document links. Sanskrit generators, grammar execution, untouched suites and certificate replay remain assigned to Claude. The first check stopped before writing because the prose lacked the expected unaccented display at the tṝ derivation. This rerun checks the added explicit output.
