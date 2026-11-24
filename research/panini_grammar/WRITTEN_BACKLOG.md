@@ -1,6 +1,8 @@
-# Written-development backlog at PG664
+# Written-development backlog at PG665
 
-Monty · 2026-11-24 · reviewed current parent 1290aa8c8808838aad72038c69c548ddc0550c62; historical closures below retain their exact original pins.
+Monty · 2026-11-24 · reviewed current parent 701a6666901cb39e2facf20da883abf1fedf9690; historical closures below retain their exact original pins.
+
+PG665 positively closes the surviving non-ending accent for exact `svapitaki/śvasitaki`. The fixed 7.2.76 iṭ blocks 6.1.188's aniṭ-only optional initial route; after PG661's ending anudātta, 6.1.162 owns dhātu-final udātta. One accent construction/two records and one bounded source decision; no word/morphology/source-observation recredit. All four fixed PG533 finite-akac words now have local accent owners. Other finite/nominal akac cells, recitation/sandhi and wider gates remain Open. Census unchanged at 51,819 finite; 8,012 nominal positions/9,271 readings.
 
 PG664 closes the explicitly listed other-person gap for the selected PG409 nested-gam passive present: nine Ā cells, old `gamyate` withheld, one morphology construction/eight interfaces. Y remains the expressed controller; D/V remain distinct instrumental causal agents; H1/H2 lopa owners remain labelled. The first/second-person rows are controller fibres, not mutations of Yajñadatta. Other lakāras, additional/unknown karmans, caṅ, roots/senses/preverbs and automatic recognition remain genuine Open work. Census unchanged at 51,819 finite; 8,012 nominal positions/9,271 readings.
 

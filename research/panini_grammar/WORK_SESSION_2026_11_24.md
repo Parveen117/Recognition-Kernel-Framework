@@ -3,6 +3,19 @@
 Monty. Dates follow Asia/Kolkata.
 
 
+## PG665 · Svap/śvas finite-akac surviving dhātu accent
+
+Previous publication: 701a6666901cb39e2facf20da883abf1fedf9690; tree f3eab4eab75712f551579746d4cd340426d95392. Necessary check: Python 3.12.14, 134 assertions, 2 attempts; attempt 1 stopped only on a Devanāgarī sandhi-token literal and attempt 2 passed without a grammatical-result change.
+
+PG665: [Svap/śvas finite-akac surviving dhātu accent](svap_svas_finite_akac_surviving_dhatu_accent/README.md). Exact `svapitaki/śvasitaki` now retain dhātu-final udātta: 7.2.76 supplies seṭ iṭ, while 6.1.188's optional initial route is aniṭ-only. One accent construction/two records and one bounded decision; zero word/morphology/source-observation credits. Census unchanged at 51,819 finite; 8,012 nominal/9,271 readings.
+
+PG521–665 cumulative: 2,234 nominal positions/2,528 readings, zero finite; 240 morphology/1,064 interfaces; 122 compound/583 plans; 13 accent/57 records; 148 semantics/433 records; 109 syntax/301 records; 38 source-policy decisions after PG555−1; 274 observations. One provenance correction/one proof addendum; no census correction.
+
+All four fixed PG533 finite-akac accent owners locally CLOSED. Other finite/nominal akac cells, recitation/sandhi, other nested-gam lakāras, nine padī meanings, patradatam/128/C2–C5/S1–S7/native/global work remain Open. Claude owns execution/generators/untouched suites/replay. PG335 correction and PG357–PG363 CLOSED remain preserved.
+
+The exact publication is the containing commit; existing review branch only, nonforce. No elapsed-hours, ETA or complete-Sanskrit claim.
+
+
 ## PG664 · Nested gam passive present person-number completion
 
 Previous publication: 1290aa8c8808838aad72038c69c548ddc0550c62; tree 3937a24701b59bda630ac438f2c90769a83087f8. Necessary check: Python 3.12.14, 122 assertions, 2 attempts; attempt 1 stopped only on a Markdown line-wrap literal and attempt 2 passed without a grammatical-result change.

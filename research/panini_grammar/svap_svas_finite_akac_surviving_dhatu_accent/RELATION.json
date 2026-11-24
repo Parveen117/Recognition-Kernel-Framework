@@ -1,0 +1,55 @@
+{
+  "schema": "rkf.panini.pg665.relation.v1",
+  "scope": "Exact PG533 svapitaki/svasitaki surviving non-ending accent",
+  "inputs": [
+    {
+      "word": "svapitaki",
+      "root_id": "1020063",
+      "root": "svap",
+      "sense": "sleep",
+      "preverb": null,
+      "voice": "active P3sg lat",
+      "inner_history": "adadi shap-luk; 7.2.76 it; original tip; akac before original ending i"
+    },
+    {
+      "word": "śvasitaki",
+      "root_id": "1020064",
+      "root": "śvas",
+      "sense": "breathe",
+      "preverb": null,
+      "voice": "active P3sg lat",
+      "inner_history": "adadi shap-luk; 7.2.76 it; original tip; akac before original ending i"
+    }
+  ],
+  "decision": {
+    "ending": "original i_ENDING is ANUDATTA under PG661 / 6.1.186; cit-final route blocked",
+    "optional_initial": "6.1.188 is blocked because its domain is ajadi anit, while 7.2.76 supplies it",
+    "augment": "7.2.76 supplies formation membership, not a positive udātta prescription in this record",
+    "selected_owner": "dhatu-final a",
+    "selected_feature": "UDATTA under 6.1.162"
+  },
+  "accounting": {
+    "new_accent_constructions": 1,
+    "new_accent_readouts": 2,
+    "new_source_policy_decisions": 1,
+    "new_finite_positions": 0,
+    "new_nominal_positions": 0,
+    "new_source_observations": 0
+  },
+  "accepted": [
+    "Separate root-final, rudadi-it, akac and original-ending owners",
+    "The exact 6.1.188 anit guard with set svap/svas counterdomain",
+    "Structural DHATU_FINAL_UDATTA records without invented full-word transcription"
+  ],
+  "open": [
+    "Other finite and nominal akac accent competitions",
+    "Independent recitational and sandhi traditions",
+    "Wider C2-C5/S1-S7/native/global gates"
+  ],
+  "excluded": [
+    "Applying the optional 6.1.188 initial route despite the fixed 7.2.76 it",
+    "Treating mere augment presence as an unpinned augment-udātta rule",
+    "Restoring the PG661-blocked cit-final accent",
+    "Crediting the already constructed words or morphology again"
+  ]
+}

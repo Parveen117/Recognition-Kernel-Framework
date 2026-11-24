@@ -1,0 +1,33 @@
+{
+  "upstream": [
+    {
+      "repository": "ashtadhyayi-com/data",
+      "commit": "5744762f010d677cfb43f347a42d02796cf615d6",
+      "path": "sutraani/kashika.txt",
+      "bytes": 3806703,
+      "sha256": "ccd6d554d10acbe89fd566730a59731ace38b2aad982becbbd653b77cca93254",
+      "git_blob_sha": "e525df7668835ef1dd7c5988c031da07ce0c162b",
+      "fields": [
+        {"field": "61158", "use": "one-excepted procedure and distinction between a prescribed augment accent and mere augment membership"},
+        {"field": "61162", "text": "अन्त इत्येव । धातोरन्त उदात्तो भवति। पच॑ति। पठ॑ति। ऊ॒र्णोति॑। गो॒पा॒यति॑ । याति॑॥", "use": "positive dhatu-final udātta owner"},
+        {"field": "61186", "use": "PG661-selected ending anudātta and explicit cit override"},
+        {"field": "61188", "text": "लसार्वधातुकग्रहणं यदनुवर्तते, तदच्यनिटीति संबन्धादिह सप्तम्यन्तमुपजायते। स्वपादिरा वृत्करणात्। स्वपादीनां हिंसेश्चाजादावनिटि लसार्वधातुके परतोऽन्यतरस्यामादिरुदात्तो भवति। स्वप॑न्ति, स्वप॒न्ति॑। श्वस॑न्ति, श्व॒सन्ति॑। हिंसेः खल्वपि — हिंस॑न्ति, हिं॒सन्ति॑। प्रत्ययस्वरेण पक्षे मध्योदात्तः। अचीति किम् ? स्व॒प्यात्। हिं॒स्यात्। अनिटीति किम् ? स्व॒पि॒तः। श्व॒सि॒तः। ङित्यजादावयं विधिरिष्यते। इह न भवति — स्वपा॑नि। हि॒नसा॑नि॥", "use": "optional initial route has explicit anit guard and set svap/svas counterdomain"},
+        {"field": "72076", "text": "रुदादिभ्यः पञ्चभ्य उत्तरस्य वलादेः सार्वधातुकस्येडागमो भवति। रुद् — रोदिति। स्वप् — स्वपिति। श्वस् — श्वसिति। अन् — प्राणिति। जक्ष् — जक्षिति। पञ्चभ्य इत्येव — जागर्ति। सार्वधातुक इति किम्? स्वप्ता। वलादेरित्येव — रुदन्ति॥", "use": "exact it formation in svapiti/svasiti"}
+      ]
+    }
+  ],
+  "project_dependencies": [
+    {"commit":"63e258727b6f37dd6250303a89b32382e327b6d3","path":"research/panini_grammar/finite_akac_final_i_and_retained_rudadi_it/RELATION.json","bytes":4742,"sha256":"f429a2cc9b88518fedbe59438ce010a9c3d5b9d63e7fcd743b3a8fdb22d57486","git_blob_sha":"8aa8c4501fe83678dfe4a0fd36808bb5103a2cbd"},
+    {"commit":"1433c8a948bc5e374b324ecaea833bfb5c218c9d","path":"research/panini_grammar/finite_akac_ending_anudatta_and_blocked_cit_accent/STATE.json","bytes":2768,"sha256":"de98eba03217daf9901c72af506a328c6ba6a7f1e7cdb866886ff4893e6db365","git_blob_sha":"ef081086bb027210628645954e3ec6c2db56ff95"},
+    {"commit":"1433c8a948bc5e374b324ecaea833bfb5c218c9d","path":"research/panini_grammar/finite_akac_ending_anudatta_and_blocked_cit_accent/DERIVATION_AND_NATIVE_RECOVERY.md","bytes":3914,"sha256":"74149f7de19ee89fc228970d5b7972217e88aad249561a57cdd396566cf1a423","git_blob_sha":"3283748c8455819b9320549f12ffb6c4fcaca7e9"},
+    {"commit":"0938f19987f5a999f68877fecd9e171398d8f1a4","path":"research/panini_grammar/pac_jalp_finite_akac_surviving_dhatu_accent/DERIVATION_AND_NATIVE_RECOVERY.md","bytes":2929,"sha256":"d9c0f614556ad146933e725244ad492e7117bb62de6b37fa565d40ce0959965c","git_blob_sha":"0bdb1d59f0448bae08cee21c982591cf8b68daa2"}
+  ],
+  "source_decisions": [
+    "Retain PG533 word, root/sense, rudadi-it and akac ownership and PG661 ending anudatta without recredit.",
+    "Read 6.1.188's anit as an actual guard: the optional svap/svas initial route does not enter these 7.2.76 set records.",
+    "Do not infer an it-udatta from formation alone; select the still-applicable 6.1.162 dhatu-final owner.",
+    "Store structural accent ownership rather than fabricating a complete recitational transcription."
+  ],
+  "source_observation_credit": 0,
+  "source_policy_decision_credit": 1
+}
