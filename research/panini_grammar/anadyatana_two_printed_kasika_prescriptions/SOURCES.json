@@ -1,0 +1,105 @@
+{
+  "publication_parent": "8bfd76901c4f3b08b62ca7313dc3ee316861b867",
+  "date": "2026-11-24",
+  "project_dependencies": [
+    {
+      "commit": "8bfd76901c4f3b08b62ca7313dc3ee316861b867",
+      "path": "research/panini_grammar/vedic_let_tarisah_two_sip_addresses_and_paippalada/STATE.json",
+      "git_blob_sha": "ab2f41a37825aec16b03e493fd0b3e2cf2b6c81f",
+      "bytes": 2542,
+      "sha256": "db5e86645c078f95028dfe64b0b057f6bb3362bd3c4c548081f4588f34f87455",
+      "use": "Unchanged current finite/nominal census"
+    },
+    {
+      "commit": "b05e46bf78f165e17c4766d6d1179a1699a72fcf",
+      "path": "research/panini_grammar/grammar_construction/NATIVE_OPERATOR_LIFT.md",
+      "git_blob_sha": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+      "bytes": 11855,
+      "sha256": "f52e7f5cf539ef56859b890669ef738848491e4005e73be75baa49c899b5dafd",
+      "use": "Full history and operator carrier"
+    },
+    {
+      "commit": "f48bc18e405d4e9cfe23ef9ad8609bb13bba58e5",
+      "path": "research/panini_grammar/anadyatana_direct_parent_lung_transition/SOURCES.json",
+      "git_blob_sha": "43015490bdcd3a4d37191022215eec95c15b6b0f",
+      "bytes": 9430,
+      "sha256": "2a07f47de717186d7293f576cecf906efbb0843feb5b022ac57cd4e26109b6e6",
+      "use": "Initial Git data, direct parent, child and frozen 32111 exact snapshots"
+    },
+    {
+      "commit": "f1323d059541aecde6f618aa8e09a57ea374d74c",
+      "path": "research/panini_grammar/anadyatana_source_collation_and_temporal_guard/RELATION.json",
+      "git_blob_sha": "99b91d8993b959d3e044c3d2bbb1cf1fcde6621f",
+      "bytes": 1924,
+      "sha256": "7fa889170c97f0a3c10236c38a37c37ae8fa9d24522f7ba89baeec363e300b7a",
+      "use": "Temporal frame and frozen word credit reuse"
+    },
+    {
+      "commit": "a6bff8cdb287e691a871cdde59b365b710ad0880",
+      "path": "research/panini_grammar/vedic_let_tarisat_marker_grade_and_patati_control/DERIVATION_AND_NATIVE_RECOVERY.md",
+      "git_blob_sha": "61066bc5bf227ce7e4fd6a686437c091139c7e5b",
+      "bytes": 7551,
+      "sha256": "7dbb4f166881f6242a2877cfd32f2d5e6fe6a280abce5f32271502b77863a4e6",
+      "use": "Frozen distinct pat-/pad- histories"
+    },
+    {
+      "commit": "a6bff8cdb287e691a871cdde59b365b710ad0880",
+      "path": "research/panini_grammar/vedic_let_tarisat_marker_grade_and_patati_control/STATE.json",
+      "git_blob_sha": "a3bc94ac7f93c85f8fe28cb48558a51221666d87",
+      "bytes": 2263,
+      "sha256": "4b76557a61812607125be3f7bb13075b68cddb4bc7e0bb1d8b200e065beca60f",
+      "use": "No duplicate word credits for printed source note"
+    }
+  ],
+  "web_evidence": [
+    {
+      "id": "OS",
+      "url": "https://www.sanskritlibrary.org/kasikaImages/kasika-p235.pdf",
+      "locator": "Osmania Kāśikā volume I, printed 235, PDF page 1, adjacent 3.2.110–111",
+      "use": "Direct visual evidence of the two sūtra headings and glosses"
+    },
+    {
+      "id": "MI",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/%E0%A4%95%E0%A4%BE%E0%A4%B6%E0%A4%BF%E0%A4%95%E0%A4%BE.pdf#page=208",
+      "locator": "Kāśikā, Śobhita Miśra, third edition, Chowkhamba 1952. PDF title at page 1, publisher at 2, operative reading at 208 (printed 187)",
+      "use": "Direct reading and edition identification"
+    },
+    {
+      "id": "MP",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/%E0%A4%95%E0%A4%BE%E0%A4%B6%E0%A4%BF%E0%A4%95%E0%A4%BE.pdf#page=170",
+      "locator": "Same edition, PDF page 170, printed 149, 3.1.34 text and note 5",
+      "use": "Locate patāti in the text and the editor's padāti report"
+    },
+    {
+      "id": "OB",
+      "url": "https://lockwoodonlinejournals.com/index.php/jaos/article/download/674/527",
+      "locator": "Kulkarni and Kahrs, bibliography, p. 673",
+      "use": "Osmania vol. I edition identification. The issue of impression of the scanned page stays Open."
+    }
+  ],
+  "scanned_pdf_pins": [
+    {
+      "file": "osmania_kasika_p235.pdf",
+      "url": "https://www.sanskritlibrary.org/kasikaImages/kasika-p235.pdf",
+      "bytes": 493147,
+      "sha256": "6b9381bf2ab9da6961599a548ef48c056d9ed9c4751038daa7ae10fb3d221859",
+      "git_blob_sha": "87263c20ef7505c4c7aa2dd3634bd9d007f6ccda",
+      "addresses": [
+        "1=printed 235"
+      ]
+    },
+    {
+      "file": "panasikara_kasika_1952.pdf",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/%E0%A4%95%E0%A4%BE%E0%A4%B6%E0%A4%BF%E0%A4%95%E0%A4%BE.pdf",
+      "bytes": 37642712,
+      "sha256": "94af3e0be59465680859f7a2257d4cdbae4f289193a60f4d49191aad04288b25",
+      "git_blob_sha": "dc7cf6f0c76a605f4229401727c689e446a2e072",
+      "addresses": [
+        "1=title",
+        "2=publisher",
+        "170=printed 149",
+        "208=printed 187"
+      ]
+    }
+  ]
+}

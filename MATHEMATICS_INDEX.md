@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG706 · [Two printed Kāśikā witnesses for anadyatana laṅ](research/panini_grammar/anadyatana_two_printed_kasika_prescriptions/README.md). The witness grade carries edition, article address and direct or reported evidence through the PG14 specialization. The existing temporal and root histories retain their typed interfaces with zero word recredit.
+
 PG705 · [Second-singular tāriṣaḥ and the Anumati and donor witnesses](research/panini_grammar/vedic_let_tarisah_two_sip_addresses_and_paippalada/README.md). Specialization retains the dual siP ownership, final consonant and clause-boundary operators. All source histories share one finite reading and preserve their distinct grades and attachments.
 
 PG704 · [Two grade histories for tāriṣat and the no-siP patāti control](research/panini_grammar/vedic_let_tarisat_marker_grade_and_patati_control/README.md). Retained marker identity distinguishes long root grade from vowel contact. Specialization keeps four operative histories, the attested t and commentarial d distinction, and the readout quotient by finite word.

@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG706 · [Two printed Kāśikā witnesses for anadyatana laṅ](anadyatana_two_printed_kasika_prescriptions/README.md). Two visually collated print editions agree on the operative laṅ, with genuine luṅ visible under neighboring 3.2.110. The 1952 editor separately reports Nyāsa padāti in a note to main-text patāti. Three observations and two decisions leave word credits unchanged. Census 52,329 finite positions and 9,358 nominal positions with 10,956 nominal readings.
+
 PG705 · [Second-singular tāriṣaḥ and the Anumati and donor witnesses](vedic_let_tarisah_two_sip_addresses_and_paippalada/README.md). Mahīdhara’s second singular uses two differently owned siP records. The Anumati and donor formulas support one new finite position and reading. The Śukla repeated preverb and the Taittirīya nominal prefix remain distinct, and the Paippalāda readings retain their manuscript and conjectural statuses. Census 52,329 finite positions and 9,358 nominal positions with 10,956 nominal readings.
 
 PG704 · [Two grade histories for tāriṣat and the no-siP patāti control](vedic_let_tarisat_marker_grade_and_patati_control/README.md). Two source policies produce the long vowel in tāriṣat. The exact patāti control has śaP and retains finite i, while Nyāsa’s padāti follows its own source-qualified d-root history. Three new finite positions and readings are credited, two directly attested and one constructed from a named commentary example. Census 52,328 finite positions and 9,358 nominal positions with 10,956 nominal readings.

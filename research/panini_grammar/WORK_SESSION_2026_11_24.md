@@ -2,6 +2,16 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG706 · Two printed Kāśikā witnesses for anadyatana laṅ
+
+PG706 · [Two printed Kāśikā witnesses for anadyatana laṅ](anadyatana_two_printed_kasika_prescriptions/README.md). Two visually collated print editions agree on the operative laṅ, with genuine luṅ visible under neighboring 3.2.110. The 1952 editor separately reports Nyāsa padāti in a note to main-text patāti. Three observations and two decisions leave word credits unchanged. Census 52,329 finite positions and 9,358 nominal positions with 10,956 nominal readings.
+
+0 new nonfinite constructions/0 retained paths. Accent 0/0, syntax 0/0, phonological junction 0/0 constructions/readouts. 3 source observations and 2 source-policy decisions. Finite increments 0 positions and 0 readings. Nominal increments 0 positions and 0 readings. The publication parent is 8bfd76901c4f3b08b62ca7313dc3ee316861b867. The containing commit pins the documents and evidence.
+
+PG521–706 cumulative: 510 finite positions/1,426 net finite readings, 3,580 nominal positions/4,213 readings, 280 morphology constructions/2,930 interfaces, 126 compound constructions/590 plans, 22 accent constructions/90 records, 153 semantics constructions/454 records, 129 syntax constructions/417 records, 104 source-policy decisions after PG555−1 and 407 observations. Thirteen junction constructions/31 readouts since PG680 and 20 nonfinite constructions/26 paths since PG700. Four provenance corrections and one proof addendum. PG335 and PG357–363 CLOSED results are preserved.
+
+Named print reading CLOSED for both 3.2.111 pages, and printed corroboration CLOSED for the 3.1.34 main-text versus editorial-note distinction. S3's Git editor rationale, critical lineage and upstream repair remain Open. S7 retains the original pad source lineage, direct Vedic d-form, and the other leṭ construction and textual obligations. C2–C5 and Claude execution remain active on their own records.
+
 ## PG705 · Second-singular tāriṣaḥ and the Anumati and donor witnesses
 
 PG705 · [Second-singular tāriṣaḥ and the Anumati and donor witnesses](vedic_let_tarisah_two_sip_addresses_and_paippalada/README.md). Mahīdhara’s second singular uses two differently owned siP records. The Anumati and donor formulas support one new finite position and reading. The Śukla repeated preverb and the Taittirīya nominal prefix remain distinct, and the Paippalāda readings retain their manuscript and conjectural statuses. Census 52,329 finite positions and 9,358 nominal positions with 10,956 nominal readings.
