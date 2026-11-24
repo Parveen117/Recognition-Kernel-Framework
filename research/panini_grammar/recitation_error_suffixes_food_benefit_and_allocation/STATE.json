@@ -1,0 +1,61 @@
+{
+  "schema": "rkf.panini.pg729.state.v1",
+  "author": "Monty",
+  "date": "2026-11-24",
+  "publication_parent": "d3531e30949f5a9b42a444887eb7a7120701cca6",
+  "baseline": {
+    "commit": "d3531e30949f5a9b42a444887eb7a7120701cca6",
+    "path": "research/panini_grammar/chattradi_print_rosters_and_prefixed_stha_nominals/STATE.json"
+  },
+  "finite_positions": 52341,
+  "nominal_positions": 14581,
+  "nominal_readings": 16644,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 384,
+  "new_nominal_readings": 400,
+  "new_positions": 384,
+  "new_position_readings": 400,
+  "new_morphology_constructions": 1,
+  "new_morphology_interfaces": 21,
+  "new_compound_constructions": 1,
+  "new_compound_plans": 10,
+  "new_semantic_constructions": 1,
+  "new_semantic_readouts": 8,
+  "new_accent_constructions": 1,
+  "new_accent_readouts": 8,
+  "new_phonological_constructions": 1,
+  "new_phonological_readouts": 6,
+  "new_syntactic_constructions": 1,
+  "new_syntactic_readouts": 12,
+  "new_nonfinite_constructions": 0,
+  "new_nonfinite_readouts": 0,
+  "new_source_observations": 18,
+  "new_source_policy_decisions": 14,
+  "direct_multiple_affix_fields": 99,
+  "open_fields": 4,
+  "local_closure": "CLOSED for the specified recitation-error, beneficial-food and allocated-food case fibres with stated lexical and grammatical support. The source discrepancies and wider domain remain Open.",
+  "open_obligations": [
+    "The exact original Bhāṣāvṛtti witness and possible derivation at the displayed एकेरूपिकः, and the print transmission or intention of Vasu's ऐकान्तिकः prose cross-reference. Neither supplies a new free case reading here.",
+    "For prāthamakalpika the precise object named by prathamakalpa in Bhāṣāvṛtti, independent support under the assigned-object meaning, and its original print at this rule.",
+    "Other numerals, source-backed feminine case panels and independent attestations of the named citation accents.",
+    "Construction of 4.4.67–69 and the rest of the declared C2–C5 and S1–S7 work, including S5's 99/103. Execution remains on Claude’s register."
+  ],
+  "authorization": {
+    "completion_status": "OPEN wider gates",
+    "PG335": "-9 finite/-12 readings preserved",
+    "PG357_PG363": "CLOSED preserved",
+    "continuous_executed_hours_claimed": false
+  },
+  "runtime_policy": {
+    "python": "3.12 only",
+    "document_check_status": "PASS",
+    "document_check_attempts": 3,
+    "document_check_retry_reason": "Restored dependency loading and corrected the exact padāntābhyām encoding at 7.3.3. Both failed attempts stopped before writing.",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "old_suites": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE"
+  },
+  "grammar_executions": []
+}

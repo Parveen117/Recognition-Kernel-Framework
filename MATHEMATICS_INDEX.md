@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG729 · [Recitation errors, food suitability and assigned portions](research/panini_grammar/recitation_error_suffixes_food_benefit_and_allocation/README.md). Ten compound plans, two separate accent owners and typed recipient ports within the full PG14 history algebra. The source variants of the study and food rules specialize to their own classical coordinates.
+
 PG728 · [The printed chattrādi rosters and prefixed sthā](research/panini_grammar/chattradi_print_rosters_and_prefixed_stha_nominals/README.md). The exact lexical and prefix cuts precede aṅ, ṭāp, vṛddhi and ṇa. The ordinary case and gender coordinates are then lifted through the full PG14 operator and history carrier.
 
 PG727 · [Quoted belief, habitual acts and two feminine affix routes](research/panini_grammar/belief_habit_feminine_and_mallinatha_readings/README.md). Typed quotations and semantic conditions lift separately from lexical affixes and gender. The written PG14 proof preserves named meanings, both student spellings, the two feminine scope extensions and the incompatible Māgha witness branches.

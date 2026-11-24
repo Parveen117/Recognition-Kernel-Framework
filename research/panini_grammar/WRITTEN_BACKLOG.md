@@ -1,6 +1,8 @@
-# Written-development backlog at PG728
+# Written-development backlog at PG729
 
-Monty · 2026-11-24 · reviewed current parent 1b49acb6a87729b029356bd97b7c5669d93f3d0a. Historical closures below retain their exact pins.
+Monty · 2026-11-24 · reviewed current parent d3531e30949f5a9b42a444887eb7a7120701cca6. Historical closures below retain their exact pins.
+
+PG729 · [Recitation errors, food suitability and assigned portions](recitation_error_suffixes_food_benefit_and_allocation/README.md). The 16 named 4.4.63–66 case fibres, qualified numeral/compound operations and two dative policies are locally CLOSED. The exact print transmission of Vasu’s exceptional cross-reference and Bhāṣāvṛtti’s apparent ekarūpa shape, the independent referent of its prathamakalpa example and the wider female, tone and numeral uses remain Open. The 4.4.67–69 allocated food and appointment forms require separate construction. Wider C2–C5/S1–S7 and Claude execution retain their obligations.
 
 PG728 · [The printed chattrādi rosters and prefixed sthā](chattradi_print_rosters_and_prefixed_stha_nominals/README.md). The Kāśikā list's nine outstanding head slots, including the three named prefixed sthā realizations of one slot, have their written case fibres. Four additional Vasu heads and three earlier male heads have source-qualified feminine derivations. The seven other Vasu operands or alternatives, the joined Gaṇapāṭha label and its discrepant lexical shapes retain the obligations recorded in the stage. 4.4.63–65 has direct print evidence and separate scope work. Wider C2–C5/S1–S7 and Claude execution retain their obligations.
 

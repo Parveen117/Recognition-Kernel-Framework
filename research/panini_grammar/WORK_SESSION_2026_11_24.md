@@ -2,6 +2,16 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG729 · Recitation errors, food suitability and assigned portions
+
+PG729 · [Recitation errors, food suitability and assigned portions](recitation_error_suffixes_food_benefit_and_allocation/README.md). The study-error forms distinguish ṭhak, ṭhac and the pre-boundary numeral count. The beneficial-food and assignment queries preserve separate recipient relations, including the two ways that 4.4.65 reaches the dative. Census 52,341 finite positions and 14,581 nominal positions with 16,644 nominal readings.
+
+Finite increments 0 positions/0 readings. Nominal increments 384 positions/400 readings. One morphology construction/21 interfaces, one compound construction/10 plans, one syntax construction/12 readouts, one semantic construction/8 readouts, one junction construction/6 readouts and one accent construction/8 readouts. 18 source observations and 14 source-policy decisions. Publication parent d3531e30949f5a9b42a444887eb7a7120701cca6. The containing commit pins the documents and evidence.
+
+PG521–729 cumulative: 522 finite positions/1,440 net finite readings, 8,803 nominal positions/9,901 readings, 303 morphology constructions/3,231 interfaces, 137 compound constructions/631 plans, 35 accent constructions/145 records, 161 semantics constructions/503 records, 150 syntax constructions/584 records, 315 source-policy decisions after PG555−1 and 693 observations. Thirty-three junction constructions/113 readouts since PG680 and 22 nonfinite constructions/28 paths since PG700. PG335 and PG357–363 CLOSED results are preserved.
+
+The 16 named 4.4.63–66 case fibres, qualified numeral/compound operations and two dative policies are locally CLOSED. The exact print transmission of Vasu’s exceptional cross-reference and Bhāṣāvṛtti’s apparent ekarūpa shape, the independent referent of its prathamakalpa example and the wider female, tone and numeral uses remain Open. The 4.4.67–69 allocated food and appointment forms require separate construction. Wider C2–C5/S1–S7 and Claude execution retain their obligations.
+
 ## PG728 · The printed chattrādi rosters and prefixed sthā
 
 PG728 · [The printed chattrādi rosters and prefixed sthā](chattradi_print_rosters_and_prefixed_stha_nominals/README.md). Collates Vasu’s 1896 print and the Kāśikā and Gaṇapāṭha lists. It derives the three expressly prefixed sthā bases and assigns their ṇa and feminine histories alongside the other admitted named inputs. Census 52,341 finite positions and 14,197 nominal positions with 16,244 nominal readings.

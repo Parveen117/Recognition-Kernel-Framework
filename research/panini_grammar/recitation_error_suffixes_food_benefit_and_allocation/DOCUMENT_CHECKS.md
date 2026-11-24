@@ -1,0 +1,3 @@
+# PG729 changed-document check
+
+Python 3.12.14, with an explicit 3.12 assertion. Verified the exact predecessor census and frozen pins, the Vasu scan digest, PG36 named source fields and rule addresses, 384 case keys and 400 readings, both suffix markers and eight citation accents, counts and distinct GEN/DAT roles, ten outer compound plans, old numeral and food anchors, source references and changed-document links. The first two attempts stopped before writing. Corrections restored dependency loading and matched the pinned final m spelling at 7.3.3. The corrected check passed. Only documentary checks ran. Claude retains Sanskrit generators, grammar execution, old suites and replay.
