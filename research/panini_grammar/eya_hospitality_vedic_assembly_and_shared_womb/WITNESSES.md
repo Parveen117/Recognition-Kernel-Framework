@@ -1,0 +1,89 @@
+# PG741 witness register
+
+| ID | Sources | Observation |
+| --- | --- | --- |
+| O1 | P104,VASU | Works around an unavailable mirror endpoint by verifying exact Kāśikā archive and printed Sanskrit ḍhañ. |
+| O2 | HDHUND | H supplies in-lopa and i-lopa in the eyaṇ paths. The ātitheyam heading and eyaṇ explanation establish the shape despite ātithyam in one sentence. |
+| O3 | P104,VASU,HDHUND | Direct vasateya and vāsateyī context, and H Uṇādi ati with its own root number for resident base. |
+| O4 | HDHUND | H explicitly defines svapati from svasya patiḥ in the property relation. |
+| O5 | HDHUND,RAGH | H 7.1.24 gives ātithya and corpus uses it as an independently attested compound base. |
+| O6 | P105,VASU | Actual ordinary P ya is kept under the edition discrepancies recorded in PG740. |
+| O7 | RAGH,RAGHC,RAGHMS | The manuscript/poem pairing gives real sabhyāḥ next to unrelated sabhāryāya, with commentary proficiency gloss. |
+| O8 | VS,VSACC,P106 | Direct accented ordinary benediction shows sabhéyo and the actual order yuvāsya. |
+| O9 | TS | Taittirīya recensional blessing confirms e pitch and Bhaṭṭabhāskara directly cites the rule intent. |
+| O10 | SB | Mādhyandina ritual prose defines first-age youth in its own exact predicate. |
+| O11 | TB | Taittirīya Brāhmaṇa has separately accented age expression and a direct commentary distinction. |
+| O12 | VASU | Vasu's 4.4.106 sample transposes asya relative to the direct mantra. |
+| O13 | P107,TIRTHA,VASU | The new 4.4.107 vāsī meaning expressly terminates suitability and identifies tīrtha as preceptor. |
+| O14 | TIRTHA,UDARA | Both the older display locators and canonical numbers can be fixed on their distinct rules. |
+| O15 | P108,P109,VASU | Direct sibling accent targets differ as stated by the printed and Kāśikā sources. |
+
+| Decision | Source IDs | Reading policy |
+| --- | --- | --- |
+| D1 | P104,VASU | Use Sanskrit ḍhañ and H’s own eyaṇ; preserve the physical English mismatch and the unreachable mirror as separate witness notes. |
+| D2 | HDHUND,P104 | Keep pathin ṭi-lopa and the separate i-lopa group with their own Haima equivalents. |
+| D3 | P104,HDHUND,VASU | Keep property and night meanings under the direct source senses instead of freely spreading gender and meaning. |
+| D4 | HDHUND,RAGH | Keep the H 7.1.16 running gloss ātithyam visible. Its stated eyaṇ and heading support ātitheya, separate from H 7.1.24 purpose ātithya. |
+| D5 | P105,VASU,HDHUND | Plain ya owns the actual ordinary word and its default accent. Other cited accent rules have their own arguments. |
+| D6 | P106,TS,VSACC | Restrict ḍha to the stated Vedic selection and retain accents on the actual eya body. |
+| D7 | VS,TS,SB,TB | Four source-qualified contexts are independently evidenced. Their same morphological case keeps its recensional and blessing/age scopes. |
+| D8 | VS,VASU,TS | Preserve printed and directly transmitted orders separately. Do not normalise the Vasu line into its Vedic source. |
+| D9 | P107,TIRTHA,VASU,APTE | Select shared teacher residence with mandatory s substitution, distinct from a literal ford sense. |
+| D10 | P108,P109,UDARA | The prior optional s carries different consequent affix choices and separate tone guard. |
+
+| Meaning | Definition | Owned context | Sources |
+| --- | --- | --- | --- |
+| ROAD | Suitable in the travel context | Path as LOC with provisions above the previously published conformity predicate | P104,VASU,HDHUND |
+| GUEST-LOC | Suitable in regard to a guest | 4.4.104 locative, alongside ordinary H eyaṇ | P104,VASU,HDHUND |
+| GUEST-PURPOSE | Intended for a guest | Prior P ñya, H ṇya, and Raghu’s hospitality constituent | HDHUND,RAGH |
+| STAY | Suitable residence or accommodation, including specifically habitable night | F agreement with rātri on the direct Vasu citation | P104,VASU,HDHUND |
+| PROPERTY | Property in its source owner/husband relation | Genitive compound internal, LOC externally conditions fitness | P104,VASU,HDHUND |
+| ASSEMBLY | Characteristic ability to participate in ordinary assembly | Distinct from earlier qualification to council joining or assembly noun | P105,VASU,RAGH,RAGHC |
+| VEDIC-BOON | Assembly-qualified young person in birth blessing | The ḍha specialization needs the named Vedic register | P106,VS,TS |
+| VEDIC-EXEG | Predication of first age in both ritual prose traditions | Text refers to early youth and explains assembly suitability | TB,SB |
+| TEACHER | Living under the same preceptor | Tīrtha as guru rather than physical ford, even where both words occur in water contexts | P107,TIRTHA,APTE |
+| WOMB | Having dwelt in the same womb | Relation survives both compound choices and the independent pitch boundary | P108,P109,UDARA,VASU |
+
+| Syntax | Support | Selection | Sources |
+| --- | --- | --- | --- |
+| PATH-LOC | pathi sādhu | Irregular LOC support with final-in lopa in the derived form | P104,HDHUND,VASU |
+| GUEST-LOC | atithau sādhu | Hospitality by locative fitness | P104,HDHUND,VASU |
+| GUEST-DAT | atithaye or atithyartham | Aim of courtesy, prior ñya and H ṇya own distinct marker paths | HDHUND,RAGH |
+| STAY-LOC | vasatau sādhu and vāsateyī rātriḥ | LOC of residence and analogous F head in p.838 | P104,HDHUND,VASU |
+| PROPERTY-LOC | svapatau sādhu | Distinguish outside LOC from inside GEN | P104,HDHUND,VASU |
+| ASSEMBLY-LOC | sabhāyāṃ sādhuḥ | Case as qualification domain | P105,RAGHC,HDHUND |
+| RAGHU-PL | tasmai sabhyāḥ sabhāryāya | Plural actor group and neighboring DAT to a person accompanied by wife | RAGH,RAGHC |
+| VEDIC-NOM | sabheyo yuvā in blessing and explanatory predication | Contextually qualified ordinary NOMsg under recensional addresses | P106,VS,TS,SB,TB |
+| TEACHER-LOC | samāne tīrthe vāsī | Ordinary co-residence with shared teacher, source says sādhu stops | P107,TIRTHA,VASU |
+| WOMB-LOC | samānodare śayitaḥ | Śayita explained as sthita in this local underlying relation | P108,P109,UDARA,VASU |
+
+| Contact | Boundary | Readout | Sources |
+| --- | --- | --- | --- |
+| PATH-EYA | pathin + ḍhañ | P 6.4.144 retains path, 7.1.2 eya with initial pāth- | P104,VASU |
+| H-PATH-EYA | pathin + eyaṇ | H 7.4.61 final in lopa and H 7.4.1 grade with eyaṇ | HDHUND |
+| STEM-I-EYA | atithi, vasati, svapati with ḍhañ | Final i lopa and independently licensed initial grade | P104,VASU |
+| H-I-EYA | Same three inputs with H eyaṇ | H 7.4.68 i-lopa, H 7.4.1 grade | HDHUND |
+| GUEST-PURPOSE | atithi plus distinct P ñya or H ṇya | Final i lopa and a→ā, overt ya keeps the purpose field | HDHUND,RAGH |
+| SABHA-YA | sabhā plus ya | 6.4.148 loses final ā and adds ya, plain affix raised ending accent | P105,VASU |
+| SABHA-DHA | sabhā plus ḍha | 7.1.2 eya, 6.4.148 final-ā lopa and no ñ marker; sabhéya | P106,VS,TS |
+| TEACHER-SA | samāna plus tīrtha with y intended | 6.3.87 and the compound output’s terminal-a loss | P107,TIRTHA |
+| WOMB-VOWEL | Outer inner member samāna or sa plus udara | 6.1.87 o from a/ā + u, same contact across two proposals | P108,P109,UDARA |
+
+| Accent | Body | Qualification | Sources |
+| --- | --- | --- | --- |
+| SABHYA | sabhyá | P ya uses the actual affix vowel’s udātta, with the t-marker authority absent | P105,VASU |
+| VS-SABHEYA | sabhéyaḥ | Eya’s e verified at the accented Vājasaneyi case | P106,VSACC |
+| TS-SABHEYA | sabhéyaḥ | Taittirīya direct text supports the same visible e pitch | TS |
+| TB-SABHEYA | sabhéyaḥ | Actual accented Taittirīya Brāhmaṇa prose predication | TB |
+| WOMB-FULL | samānódarya | 4.4.108 exactly names the compound o as udātta | P108,VASU |
+| WOMB-SHORT | sodaryá | 4.4.109 ya accent belongs to a and does not carry the previous o override | P109,VASU,UDARA |
+
+See [SOURCES.json](SOURCES.json) for the actual edition, locator and exact file pins. Existing interpretation fields and full case tables are inherited. The observations address the additional witness or reading comparison in this stage.
+
+## Open evidence
+
+- Construct the remaining 4.4.110–118 and subsequent Vedic bhava scope from actual registers. Some source-selected yat accent and ancestor words are already in earlier PG stages, so determine the exact remaining case/recension coordinates before adding credits.
+- The literal Vasu saṃhitā quotation order and digitally corrupted Bhaṭṭabhāskara rule header remain separately recorded. Other Vedic recensions, unprinted manuscript collation and independent C5 accent policy are Open.
+- Direct physical priority of alternative inner atithi roots and exact wider svapati property meanings remain Open. Vāsateyī is the named female night profile, not a global gender extension.
+- Apte’s reported Mālatīmādhava act 2 citation is observed. Its direct critical-edition locus and other satīrth(y)a authority and accent stay Open. The selected co-residence and uterine sibling case readouts are written.
+- Earlier C2–C5 and S1–S7 retain their genuine obligations, including S5 99/103 and the 5.56 k marker’s effect. Claude retains execution.

@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG741 · [Travel, hospitality, the Vedic assembly and shared residence relations](eya_hospitality_vedic_assembly_and_shared_womb/README.md). Writes the named ḍhañ words and the contrasting guest-purpose ātithya. The Vedic verses and Brāhmaṇa explanations verify four source-qualified sabheya positions. Same teacher and same womb have separate rules, including the two precise sibling accent locations. Census 52,345 finite positions and 20,185 nominal positions with 22,818 nominal readings.
+
 PG740 · [The two suitability rosters and Haima’s ploughed-path forms](kathadi_gudadi_markers_and_haima_plough_paths/README.md). Writes the selected kathādi and guḍādi fibres with distinct ṭhak and ṭhañ markers, and derives the positively attested Vācaspatyam specialist. Haima gives seven ploughed-path profiles and an independent formation for four already written furrow forms. Census 52,345 finite positions and 19,966 nominal positions with 22,566 nominal readings.
 
 PG739 · [Locative suitability, the pratijanādi roster and the two council suffixes](locative_suitability_pratijanadi_and_council_affixes/README.md). Writes the named suitability fibres, all twelve pratijanādi operands and the bhakta and council exceptions. The external sources clarify retained inner genitives, the comparison with benefactive kha, and the short Haima council stem alongside the P long one. Census 52,345 finite positions and 19,078 nominal positions with 21,647 nominal readings.

@@ -2,6 +2,16 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG741 · Travel, hospitality, the Vedic assembly and shared residence relations
+
+PG741 · [Travel, hospitality, the Vedic assembly and shared residence relations](eya_hospitality_vedic_assembly_and_shared_womb/README.md). Writes the named ḍhañ words and the contrasting guest-purpose ātithya. The Vedic verses and Brāhmaṇa explanations verify four source-qualified sabheya positions. Same teacher and same womb have separate rules, including the two precise sibling accent locations. Census 52,345 finite positions and 20,185 nominal positions with 22,818 nominal readings.
+
+Zero new finite positions or readings. 219 new nominal positions and 252 readings, including four exact Vedic positions. One earlier guest-purpose exemplar remains a source control. One morphology construction with 16 new interfaces and one inherited path, one compound construction with four plans, one accent construction with six records, one semantic construction with ten readouts, one syntax construction with ten readouts and one junction construction with nine readouts. Fifteen source observations and ten source-policy decisions. Publication parent 68f0490c01616d63f112df7dc51d422f4b362be6. The containing commit pins the documents and evidence.
+
+PG521–741 cumulative adds 526 finite positions and 1,444 net finite readings, and 14,407 nominal positions with 16,075 readings. 315 morphology constructions with 3,584 interfaces, 147 compound constructions with 678 plans, 47 accent constructions with 187 records, 173 semantic constructions with 610 readouts, 162 syntax constructions with 706 readouts, and 479 source-policy decisions after PG555−1 with 926 observations. The PG680 onward junction total is 45 constructions with 226 readouts. PG700 onward nonfinite remains 22 constructions with 28 paths. PG335 and PG357–363 CLOSED results and PG737’s corrections retain their exact histories.
+
+4.4.104–109’s selected ordinary panels and four attested Vedic assembly positions are locally CLOSED. PG574, PG737 and the two already addressed Vasu discrepancies retain their respective credits. The independently unresolved manuscript, root and Vedic recitation details are stated in the stage, together with the next 4.4.110–118 reserve. C2–C5/S1–S7 remain Open and Claude owns deferred execution.
+
 ## PG740 · The two suitability rosters and Haima’s ploughed-path forms
 
 PG740 · [The two suitability rosters and Haima’s ploughed-path forms](kathadi_gudadi_markers_and_haima_plough_paths/README.md). Writes the selected kathādi and guḍādi fibres with distinct ṭhak and ṭhañ markers, and derives the positively attested Vācaspatyam specialist. Haima gives seven ploughed-path profiles and an independent formation for four already written furrow forms. Census 52,345 finite positions and 19,966 nominal positions with 22,566 nominal readings.

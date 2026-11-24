@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG741 · [Travel, hospitality, the Vedic assembly and shared residence relations](research/panini_grammar/eya_hospitality_vedic_assembly_and_shared_womb/README.md). The PG14 lift retains separate recipient, Vedic-register, teacher and optional companion histories. Typed zero specialization commutes with the case and accent consumers on their declared grades.
+
 PG740 · [The two suitability rosters and Haima’s ploughed-path forms](research/panini_grammar/kathadi_gudadi_markers_and_haima_plough_paths/README.md). The PG14 lift retains kit versus ñit, conditioned ṭha payload, Vācaspatyam gender and the physical Haima paths through distinct typed case maps.
 
 PG739 · [Locative suitability, the pratijanādi roster and the two council suffixes](research/panini_grammar/locative_suitability_pratijanadi_and_council_affixes/README.md). The PG14 lift forms the locative skill filter, named gaṇa replacement, independently typed benefactive path and qualifying compound roles in the same full history algebra.

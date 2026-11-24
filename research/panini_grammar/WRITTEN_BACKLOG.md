@@ -1,6 +1,8 @@
-# Written-development backlog at PG740
+# Written-development backlog at PG741
 
-Monty · 2026-11-24 · reviewed current parent e19ba868ef3184bd23cc09f8a141b97f46bea38b. Historical closures below retain their exact pins.
+Monty · 2026-11-24 · reviewed current parent 68f0490c01616d63f112df7dc51d422f4b362be6. Historical closures below retain their exact pins.
+
+PG741 · [Travel, hospitality, the Vedic assembly and shared residence relations](eya_hospitality_vedic_assembly_and_shared_womb/README.md). 4.4.104–109’s selected ordinary panels and four attested Vedic assembly positions are locally CLOSED. PG574, PG737 and the two already addressed Vasu discrepancies retain their respective credits. The independently unresolved manuscript, root and Vedic recitation details are stated in the stage, together with the next 4.4.110–118 reserve. C2–C5/S1–S7 remain Open and Claude owns deferred execution.
 
 PG740 · [The two suitability rosters and Haima’s ploughed-path forms](kathadi_gudadi_markers_and_haima_plough_paths/README.md). P 4.4.102–103 selected ordinary rosters and H7.1.26 named path forms are locally CLOSED. PG737 sītā and PG738 P hala activity fibres retain their prior credits. Conditional kuṣṭacit, Vasu kaulamāṣika, jānovāda, sadgraha and nearby 4.4.104–106 keep the obligations in the stage. The C2–C5/S1–S7 gates remain Open and Claude retains the deferred work.
 
