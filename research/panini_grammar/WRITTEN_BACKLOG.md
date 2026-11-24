@@ -1,6 +1,8 @@
-# Written-development backlog at PG791
+# Written-development backlog at PG792
 
-Monty · 2026-11-25 · reviewed parent 59ff177813fbd614358940bcb77791931f7204e5. Historical closures below retain their exact pins.
+Monty · 2026-11-25 · reviewed parent 698d75056ba0e7e44b0bded453294a70dd84f959. Historical closures below retain their exact pins.
+
+PG792 · [Quantity ordinals and the scope of tamaṭ](quantity_ordinals_and_tamat_scope/README.md). Selected 5.2.53–58 outputs and declared alternatives are CLOSED. Full paradigms, exact accent under augment-versus-affix analyses and critical priority of Kāśikā `ekasaptataḥ` versus Vasu English `ekasaptamaḥ` remain Open. Continue from 5.2.59. S5 remains 99/103; S6 retains the independent specific 5.56 k-it effect. C2–C5 and S1–S7 remain Open.
 
 PG791 · [Ordinal augment families and Vedic alternatives](ordinal_augment_families_and_vedic_alternatives/README.md). Selected literal 5.2.48–52 outputs, Vedic alternatives and direct accent records are CLOSED. Complete gender/case paradigms, wider Vedic recitation, historical variant priority and unrestricted ordinal productivity remain Open. Continue from 5.2.53. S5 remains 99/103; S6 retains the independent specific 5.56 k-it-effect requirement. C2–C5 and S1–S7 remain Open.
 

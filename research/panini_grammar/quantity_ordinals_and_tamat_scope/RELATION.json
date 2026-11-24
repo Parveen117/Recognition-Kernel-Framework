@@ -1,0 +1,30 @@
+{
+  "stage":"PG792",
+  "morphology_constructions":[
+    {"id":"ITTHUK","rule":"5.2.53","interfaces":["YI","TI","EI"]},
+    {"id":"TIIYA","rule":"5.2.54–55","interfaces":["D2","D3"]},
+    {"id":"OPTIONAL_TAMAT","rule":"5.2.56","interfaces":["O20","O21","O23","O30","O31"]},
+    {"id":"OBLIGATORY_LARGE","rule":"5.2.57 large numerals","interfaces":["H100","H1000","H100K","H101","H200"]},
+    {"id":"OBLIGATORY_TIME","rule":"5.2.57 time units","interfaces":["TM","TH","TY"]},
+    {"id":"SIXTY_SERIES","rule":"5.2.58","interfaces":["S60","S70","S61","S71"]}
+  ],
+  "nominal_positions":[
+    {"id":"YI","readings":["yāvatithaḥ"]},{"id":"TI","readings":["tāvatithaḥ"]},{"id":"EI","readings":["etāvatithaḥ"]},
+    {"id":"D2","readings":["dvitīyaḥ"]},{"id":"D3","readings":["tṛtīyaḥ"]},
+    {"id":"O20","readings":["viṃśatitamaḥ","viṃśaḥ"]},{"id":"O21","readings":["ekaviṃśatitamaḥ","ekaviṃśaḥ"]},{"id":"O23","readings":["triviṃśatitamaḥ","triviṃśaḥ"]},{"id":"O30","readings":["triṃśattamaḥ","triṃśaḥ"]},{"id":"O31","readings":["ekatriṃśattamaḥ","ekatriṃśaḥ"]},
+    {"id":"H100","readings":["śatatamaḥ"]},{"id":"H1000","readings":["sahasratamaḥ"]},{"id":"H100K","readings":["lakṣatamaḥ"]},
+    {"id":"TM","readings":["māsatamaḥ"]},{"id":"TH","readings":["ardhamāsatamaḥ"]},{"id":"TY","readings":["saṃvatsaratamaḥ"]},
+    {"id":"H101","readings":["ekaśatatamaḥ"]},{"id":"H200","readings":["dviśatatamaḥ"]},
+    {"id":"S60","readings":["ṣaṣṭitamaḥ"]},{"id":"S70","readings":["saptatitamaḥ"]},
+    {"id":"S61","readings":["ekaṣaṣṭaḥ","ekaṣaṣṭitamaḥ"]},
+    {"id":"S71","readings":["ekasaptataḥ [K]","ekasaptamaḥ [Vasu]","ekasaptatitamaḥ"]}
+  ],
+  "source_policy_decisions":[
+    {"id":"VATUP","decision":"Retain relative, correlative and deictic vatup bases through itthuk."},
+    {"id":"SPECIAL_TWO_THREE","decision":"Treat tīya as the stated exception to general ḍaṭ and retain tri vocalization."},
+    {"id":"OPTION_PAIR","decision":"Store each tamaṭ/short ordinal as one correlated optional position, not independent free suffix deletion."},
+    {"id":"TIME_ADMISSION","decision":"Admit month, half-month and year only through 5.2.57's explicit ordinal extension."},
+    {"id":"PREFIX_SCOPE","decision":"Make tamaṭ obligatory only in the unprefixed sixty-series; prefixed numerals return to 5.2.56 optionality."},
+    {"id":"SEVENTY_ONE_FORK","decision":"Retain Kāśikā ekasaptataḥ and Vasu English ekasaptamaḥ as competing source readings; critical priority remains Open."}
+  ]
+}

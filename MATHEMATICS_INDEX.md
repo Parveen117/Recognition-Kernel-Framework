@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG792 · [Quantity ordinals and the scope of tamaṭ](research/panini_grammar/quantity_ordinals_and_tamat_scope/README.md). PG14 retains quantity base, special suffix, optional or obligatory `tamaṭ`, prefix scope and source fork through typed zero specialization.
+
 PG791 · [Ordinal augment families and Vedic alternatives](research/panini_grammar/ordinal_augment_families_and_vedic_alternatives/README.md). PG14 retains the completion request, original `ḍaṭ`, each augment, register and source accent through typed zero specialization.
 
 PG790 · [Extended surplus numerals and exchange ratios](research/panini_grammar/extended_surplus_numerals_and_exchange_ratios/README.md). PG14 retains pure-number status, surplus target, commodity direction and integral `x:1` ratio through typed zero specialization.

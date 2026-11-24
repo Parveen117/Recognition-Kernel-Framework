@@ -1,0 +1,9 @@
+# PG792 · Derivation and native recovery
+
+Rule 5.2.53 inserts `itthuk` when an ordinal follows a `vatup` quantity: `yāvatithaḥ`, `tāvatithaḥ`, `etāvatithaḥ`. Their relative, correlative and deictic bases remain distinct. Rules 5.2.54–55 replace general `ḍaṭ` with `tīya` after two and three; the latter also has the prescribed vocalization, yielding `dvitīyaḥ` and `tṛtīyaḥ`.
+
+At 5.2.56 ordinary numerals from twenty onward optionally add `tamaṭ` to the ordinal history. Five source pairs are retained: `viṃśatitama/viṃśa`, `ekaviṃśatitama/ekaviṃśa`, `triviṃśatitama/triviṃśa`, `triṃśattama/triṃśa`, `ekatriṃśattama/ekatriṃśa`. This is a correlated alternative, not free deletion of `tama` in unrelated words.
+
+Rule 5.2.57 makes `tamaṭ` obligatory after hundred and higher named numerals and after `māsa`, `ardhamāsa`, `saṃvatsara`; the rule itself supplies ordinal admission for the time words. It also permits preceding numerals in `ekaśatatama` and `dviśatatama`. Rule 5.2.58 makes `tamaṭ` obligatory after unprefixed sixty and following decades. With a preceding numeral, 5.2.56's option returns. The frozen sources diverge on the short seventy-one output: Kāśikā has `ekasaptataḥ`; Vasu English has `ekasaptamaḥ`. Both are retained without a fabricated priority.
+
+Reuse PG14's full carrier `CΣ`, derived involution and `B=CΣ⟨zₑ,zₑ*⟩`. Type base `I`, completion request `Q`, suffix/augment history `H`, prefix and register policy `R`, word address `W`, and source `S`. For `Tₑ(eₕb)=eₕ′(1+zₑ)b`, augmentation projections satisfy `πout Tₑ=Tₑ,0 πin`; composition and pairing commute with specialization. Thus optional `tamaṭ` and its short partner remain correlated, obligatory time-unit forms cannot acquire a short branch, and the two seventy-one readings remain orthogonal by source. A same-spelled short form cannot erase its rule, prefix or witness history.

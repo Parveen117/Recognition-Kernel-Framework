@@ -157,9 +157,16 @@ The starting census at [PG746](https://github.com/Parveen117/Recognition-Kernel-
 | PG788 | [7d872327a6fe142612c5b3125350e46dd61ef5bf](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/7d872327a6fe142612c5b3125350e46dd61ef5bf) | 0 | 1 | 11 | 11 | 1 | 11 | 14 | 5 | — |
 | PG789 | [021199725240e1795780a5540a3e71a7867b028b](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/021199725240e1795780a5540a3e71a7867b028b) | 0 | 0 | 23 | 26 | 4 | 23 | 0 | 4 | 2 accent constructions, 3 accent records |
 | PG790 | [59ff177813fbd614358940bcb77791931f7204e5](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/59ff177813fbd614358940bcb77791931f7204e5) | 0 | 0 | 11 | 11 | 2 | 11 | 0 | 3 | — |
-| PG791 | Containing commit | 0 | 0 | 18 | 21 | 5 | 18 | 0 | 5 | 1 accent construction, 4 accent records |
+| PG791 | [698d75056ba0e7e44b0bded453294a70dd84f959](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/698d75056ba0e7e44b0bded453294a70dd84f959) | 0 | 0 | 18 | 21 | 5 | 18 | 0 | 5 | 1 accent construction, 4 accent records |
+| PG792 | Containing commit | 0 | 0 | 22 | 30 | 6 | 22 | 0 | 6 | — |
 
-Through PG791 the census is 52,357 finite positions, 21,368 nominal positions and 24,165 nominal readings. The PG335 correction is carried through the baseline. Protected registers contribute no new units here.
+Through PG792 the census is 52,357 finite positions, 21,390 nominal positions and 24,195 nominal readings. The PG335 correction is carried through the baseline. Protected registers contribute no new units here.
+
+## PG792 · Quantity ordinals and the scope of tamaṭ
+
+PG792 · [Quantity ordinals and the scope of tamaṭ](quantity_ordinals_and_tamat_scope/README.md). Completes selected 5.2.53–58 outputs with quantity ordinals, special second/third forms, optional and obligatory `tamaṭ`, time-unit extension and one source fork. 22 new nominal positions/30 readings; six morphology constructions/22 interfaces; zero source observations and six decisions. Census: 52,357 finite positions, 21,390 nominal positions and 24,195 nominal readings.
+
+Parent 698d75056ba0e7e44b0bded453294a70dd84f959. The containing commit pins this packet. Full paradigms, exact accent under augment-versus-affix analyses and critical priority of the seventy-one reading remain Open. Continue from 5.2.59. S5 remains 99/103 and S6 retains the independent 5.56 k-it effect. C2–C5 and S1–S7 remain Open. Claude retains execution, generators, untouched suites and certificate replay.
 
 ## PG791 · Ordinal augment families and Vedic alternatives
 

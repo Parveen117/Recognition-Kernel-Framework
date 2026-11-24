@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG792 · [Quantity ordinals and the scope of tamaṭ](quantity_ordinals_and_tamat_scope/README.md). Completes selected 5.2.53–58 outputs: 22 new nominal positions and 30 readings, six morphology constructions/22 interfaces and six source decisions.
+
 PG791 · [Ordinal augment families and Vedic alternatives](ordinal_augment_families_and_vedic_alternatives/README.md). Completes selected 5.2.48–52 outputs: 18 new nominal positions and 21 readings, five morphology constructions/18 interfaces and one accent construction/four records.
 
 PG790 · [Extended surplus numerals and exchange ratios](extended_surplus_numerals_and_exchange_ratios/README.md). Completes selected 5.2.46–47 surfaces: 11 new nominal positions/readings, two morphology constructions/11 interfaces and zero repeated source credit.

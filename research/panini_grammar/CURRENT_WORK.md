@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG791
+# Pāṇini grammar · current written coverage at PG792
+
+PG792 · [Quantity ordinals and the scope of tamaṭ](quantity_ordinals_and_tamat_scope/README.md). Completes selected 5.2.53–58 surfaces, including the source-qualified seventy-one fork. Census: 52,357 finite positions, 21,390 nominal positions and 24,195 nominal readings.
 
 PG791 · [Ordinal augment families and Vedic alternatives](ordinal_augment_families_and_vedic_alternatives/README.md). Completes selected 5.2.48–52 outputs with generic `ḍaṭ`, separately owned augments, Vedic alternatives and four direct accent records. Census: 52,357 finite positions, 21,368 nominal positions and 24,165 nominal readings.
 
