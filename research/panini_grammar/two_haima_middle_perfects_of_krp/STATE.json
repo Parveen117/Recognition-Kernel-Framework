@@ -1,0 +1,36 @@
+{
+  "stage": "PG786",
+  "date": "2026-11-25",
+  "publication_parent": "519bd08ce2b0c513490ccefc780921235688cd62",
+  "baseline": {
+    "commit": "519bd08ce2b0c513490ccefc780921235688cd62",
+    "path": "research/panini_grammar/three_altar_heights_and_the_reversed_thumb_measure/STATE.json"
+  },
+  "finite_positions": 52355,
+  "nominal_positions": 21303,
+  "nominal_readings": 24094,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 0,
+  "new_morphology_constructions": 0,
+  "new_morphology_interfaces": 0,
+  "new_source_observations": 13,
+  "new_source_policy_decisions": 4,
+  "open_obligations": [
+    "S4 now has a separately checkable Haima kṛp pair at 1sg and an explicit person for PG405. An early-middle Pāṇinian analysis, independent historical use and the remaining person, auxiliary and root cells remain Open.",
+    "Return to the accent in Śatapatha 3.5.4.5 and the two Vaṃśīdhara passages, then continue 5.2.39–40."
+  ],
+  "local_closure": "Source collation on existing PG175, PG189 and PG405 requests.",
+  "global_gates": {
+    "C2–C5": "Open",
+    "S1–S7": "Open",
+    "S5_direct_fields": "99/103",
+    "S6": "Independent 5.56 k-it effect Open"
+  },
+  "protected_registers": {
+    "PG335": "-9 finite positions and -12 readings already applied",
+    "PG340/346, PG349–352, PG355–360, PG357–363": "CLOSED on registered scopes"
+  },
+  "runtime_policy": "Written derivation. Only changed-document, source and count checks. Claude owns grammar execution, generators, untouched suites and replay."
+}

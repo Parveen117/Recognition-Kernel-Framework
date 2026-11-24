@@ -1,0 +1,27 @@
+{
+  "stage": "PG786",
+  "morphology_interfaces": [],
+  "nominal_positions": [],
+  "source_policy_decisions": [
+    {
+      "id": "PERSON",
+      "sources": "ED,KEY,VLEFT,VRIGHT",
+      "decision": "Narrow the PG405 whole-word witnesses to the printed first singular. Surface syncretism with the third singular supplies no additional witness."
+    },
+    {
+      "id": "PAIR",
+      "sources": "KEY,KLEFT,KRIGHT",
+      "decision": "Both middle words belong to the same first singular kṛp request. Record one witness for each primary history. Keep PG175’s distinct ownership labels."
+    },
+    {
+      "id": "CONTEXT",
+      "sources": "KLEFT,KRIGHT,SYAND,KRP",
+      "decision": "Exclude the adjacent active kṛp and gup rows from the middle pair. The visible spand and spardh rows cannot establish syand or śṛdh."
+    },
+    {
+      "id": "SCHOOL",
+      "sources": "VRT,SYAND,KRP,AUX,PERF,OPT,BLOCK",
+      "decision": "Accept the combination of an independent school’s root entries, rule statements and actual handbook words within their respective grades. Wider historical usage and a rival Pāṇinian same-word licence remain Open."
+    }
+  ]
+}

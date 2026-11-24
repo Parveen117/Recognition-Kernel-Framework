@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG786 · [Two Haima middle perfects of kṛp on one first-person request](research/panini_grammar/two_haima_middle_perfects_of_krp/README.md). Source collation on existing PG175, PG189 and PG405 requests.
+
 PG785 · [Three altar heights and the thumb as a standard](research/panini_grammar/three_altar_heights_and_the_reversed_thumb_measure/README.md). The full carrier retains vertical direction, textual school, the measured participant and the two active predicates.
 
 PG784 · [Two mountain sites and the flowering of speech](research/panini_grammar/two_mountain_sites_and_the_flowering_of_speech/README.md). PG14 retains the terrain, bearer, comparison, participle grade and order of the preverbs.

@@ -2,6 +2,12 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG786 · Two Haima middle perfects of kṛp on one first-person request
+
+PG786 · [Two Haima middle perfects of kṛp on one first-person request](two_haima_middle_perfects_of_krp/README.md). Locates both kṛp primary histories in adjacent first-singular middle rows and identifies the person of PG405’s older vṛdh and vṛt witnesses. 0 new nominal positions and 0 readings. Finite positions and readings both increased by zero. Thirteen source observations and four decisions on the existing requests. Census: 52,355 finite positions, 21,303 nominal positions and 24,094 nominal readings.
+
+Parent 519bd08ce2b0c513490ccefc780921235688cd62. The containing commit pins this packet. S4 now has a separately checkable Haima kṛp pair at 1sg and an explicit person for PG405. An early-middle Pāṇinian analysis, independent historical use and the remaining person, auxiliary and root cells remain Open. Return to the accent in Śatapatha 3.5.4.5 and the two Vaṃśīdhara passages, then continue 5.2.39–40. C2–C5 and S1–S7 remain Open. Claude retains execution.
+
 ## PG785 · Three altar heights and the thumb as a standard
 
 PG785 · [Three altar heights and the thumb as a standard](three_altar_heights_and_the_reversed_thumb_measure/README.md). Constructs the two measure rules with a recited vertical series, a downward knee measure and the reverse human/standard roles of the Upaniṣad. 18 new nominal positions and 20 readings. 2 new finite positions and 2 finite readings. One written morphology construction with 14 interfaces, 15 source observations and 5 source decisions. Census: 52,355 finite positions, 21,303 nominal positions and 24,094 nominal readings.
@@ -133,9 +139,10 @@ The starting census at [PG746](https://github.com/Parveen117/Recognition-Kernel-
 | PG782 | [31645b9b433a2a90afb01f41532ea27dc6e690c6](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/31645b9b433a2a90afb01f41532ea27dc6e690c6) | 2 | 2 | 34 | 34 | 1 | 15 | 15 | 5 | — |
 | PG783 | [78092066c1b487c5b51f1560550a3807cc8ba850](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/78092066c1b487c5b51f1560550a3807cc8ba850) | 0 | 0 | 11 | 11 | 1 | 14 | 12 | 5 | 1 syntax constructions, 4 syntax readouts |
 | PG784 | [47b4a66885821c4b4f020c472e920cc49034c844](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/47b4a66885821c4b4f020c472e920cc49034c844) | 2 | 2 | 21 | 22 | 1 | 14 | 17 | 5 | 1 nonfinite constructions, 2 nonfinite readouts |
-| PG785 | Containing commit | 2 | 2 | 18 | 20 | 1 | 14 | 15 | 5 | — |
+| PG785 | [519bd08ce2b0c513490ccefc780921235688cd62](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/519bd08ce2b0c513490ccefc780921235688cd62) | 2 | 2 | 18 | 20 | 1 | 14 | 15 | 5 | — |
+| PG786 | Containing commit | 0 | 0 | 0 | 0 | 0 | 0 | 13 | 4 | — |
 
-Through PG785 the census is 52,355 finite positions, 21,303 nominal positions and 24,094 nominal readings. The PG335 correction is carried through the baseline. Protected registers contribute no new units here.
+Through PG786 the census is 52,355 finite positions, 21,303 nominal positions and 24,094 nominal readings. The PG335 correction is carried through the baseline. Protected registers contribute no new units here.
 
 ## PG772 · Two causal predicates and the changing cases of hotrā in Aitareya 6.14
 

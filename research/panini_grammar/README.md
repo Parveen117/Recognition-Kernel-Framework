@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG786 · [Two Haima middle perfects of kṛp on one first-person request](two_haima_middle_perfects_of_krp/README.md). Locates both kṛp primary histories in adjacent first-singular middle rows and identifies the person of PG405’s older vṛdh and vṛt witnesses. 0 new nominal positions and 0 readings. Finite positions and readings both increased by zero.
+
 PG785 · [Three altar heights and the thumb as a standard](three_altar_heights_and_the_reversed_thumb_measure/README.md). Constructs the two measure rules with a recited vertical series, a downward knee measure and the reverse human/standard roles of the Upaniṣad. 18 new nominal positions and 20 readings. 2 new finite positions and 2 finite readings.
 
 PG784 · [Two mountain sites and the flowering of speech](two_mountain_sites_and_the_flowering_of_speech/README.md). Constructs 5.2.34–36, locates both poetic perfect-participle quotations, and writes the witnessed reception and speech predicates. 21 new nominal positions and 22 readings. 2 new finite positions and 2 finite readings.

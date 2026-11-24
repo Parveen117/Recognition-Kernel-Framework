@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG785
+# Pāṇini grammar · current written coverage at PG786
+
+PG786 · [Two Haima middle perfects of kṛp on one first-person request](two_haima_middle_perfects_of_krp/README.md). Locates both kṛp primary histories in adjacent first-singular middle rows and identifies the person of PG405’s older vṛdh and vṛt witnesses. Census: 52,355 finite positions, 21,303 nominal positions and 24,094 nominal readings.
 
 PG785 · [Three altar heights and the thumb as a standard](three_altar_heights_and_the_reversed_thumb_measure/README.md). Constructs the two measure rules with a recited vertical series, a downward knee measure and the reverse human/standard roles of the Upaniṣad. Census: 52,355 finite positions, 21,303 nominal positions and 24,094 nominal readings.
 
