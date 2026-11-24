@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG669: [Nested gam active imperfect completion](nested_gam_active_imperfect_completion/README.md). PG19 `gamay+śap`, PG31 secondary endings and PG348's positive non-today laṅ guard now carry the selected two-hetu history through 18 P/A cells. Raw luṅ stays an Open transmission question. One morphology adapter/18 interfaces; zero finite/nominal/source credits. Census unchanged at 51,819 finite and 8,012 nominal/9,271 readings.
+
 PG668: [Nested gam active imperative and optative completion](nested_gam_active_imperative_optative_completion/README.md). PG19 CK10/CK11 source-pinned `gamay` constructors now carry the two-hetu history through complete P/A loṭ and ordinary vidhiliṅ: 36 prior surface controls, one nested-modal adapter/36 interfaces, zero new word/source credits. Mood admission and all augment/ending owners remain explicit. Census unchanged at 51,819 finite and 8,012 nominal/9,271 readings.
 
 PG667: [Nested gam active periphrastic-future completion](nested_gam_active_periphrastic_future_completion/README.md). PG17 `gamayit` and PG16's complete luṭ ending partition now carry the selected two-hetu history through 18 P/A interfaces. Shared third-person words retain distinct original-pada histories; nonthird endings keep their owners. One morphology adapter/18 interfaces, zero new word/source credits; census unchanged at 51,819 finite and 8,012 nominal/9,271 readings.

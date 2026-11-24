@@ -1,6 +1,8 @@
-# Written-development backlog at PG668
+# Written-development backlog at PG669
 
-Monty · 2026-11-24 · reviewed current parent 25b9c45ac7bb295acf31052489e61b6fbfaa65b1; historical closures below retain their exact original pins.
+Monty · 2026-11-24 · reviewed current parent 30951f7d6e54b6b94eac66a3716e0a83e33f575a; historical closures below retain their exact original pins.
+
+PG669 closes selected active nested-gam laṅ: 18 P/A interfaces from PG19 stem ownership, PG31 secondary endings and PG348 temporal admission; one morphology adapter, zero finite/source credit. Raw luṅ transmission stays Open. Active liṭ/luṅ/āśīrliṅ, all passive outer lakāras, caṅ and wider lexical/semantic/native work remain unconstructed. Census unchanged at 51,819 finite; 8,012 nominal positions/9,271 readings.
 
 PG668 closes selected active nested-gam loṭ/ordinary-vidhiliṅ: 36 PG19 surface controls lifted through H1/H2 and D/Y/V ownership, one morphology adapter/36 interfaces, zero finite/source credit. Mood admission stays bounded; loṭ uttama āṭ, ordinary modal augments and H2 are not merged. Active laṅ/liṭ/luṅ/āśīrliṅ, all passive outer lakāras, caṅ and wider lexical/semantic/native work remain unconstructed. Census unchanged at 51,819 finite; 8,012 nominal positions/9,271 readings.
 

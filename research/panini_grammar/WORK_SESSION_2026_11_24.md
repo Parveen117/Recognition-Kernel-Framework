@@ -3,6 +3,19 @@
 Monty. Dates follow Asia/Kolkata.
 
 
+## PG669 · Nested gam active imperfect completion
+
+Previous publication: 30951f7d6e54b6b94eac66a3716e0a83e33f575a; tree 7567ff5371e4b9ac566bb2cf462ab9c89f0e519d. Necessary check: Python 3.12.14, 260 assertions, one attempt.
+
+PG669: [Nested gam active imperfect completion](nested_gam_active_imperfect_completion/README.md). PG19 `gamay+śap`, PG31 secondary endings and PG348's positive laṅ guard now retain the selected nested history through 18 P/A cells. Raw luṅ stays Open. One morphology adapter/18 interfaces, zero finite/nominal/source credits.
+
+PG521–669 cumulative: 2,234 nominal positions/2,528 readings, zero finite; 244 morphology/1,172 interfaces; 122 compound/583 plans; 13 accent/57 records; 148 semantics/433 records; 109 syntax/301 records; 38 source-policy decisions after PG555−1; 274 observations. One provenance correction/one proof addendum; no census correction.
+
+Selected active nested-gam present system, lṛṭ/lṛṅ/luṭ and selected passive laṭ are locally CLOSED. Active liṭ/luṅ/āśīrliṅ, other passive lakāras, caṅ, lexical/semantic/automatic recognition, nine padī meanings, patradatam/128/C2–C5/S1–S7/native/global work remain Open. Claude owns execution/generators/untouched suites/replay. PG335 correction and PG357–PG363 CLOSED remain preserved.
+
+The exact publication is the containing commit; existing review branch only, nonforce. No elapsed-hours, ETA or complete-Sanskrit claim.
+
+
 ## PG668 · Nested gam active imperative and optative completion
 
 Previous publication: 25b9c45ac7bb295acf31052489e61b6fbfaa65b1; tree ae9b0e4963f038e5894bb86db31f083a807ba897. Necessary check: Python 3.12.14, 379 assertions, one attempt.
