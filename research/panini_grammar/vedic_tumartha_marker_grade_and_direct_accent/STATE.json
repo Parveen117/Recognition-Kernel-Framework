@@ -1,0 +1,51 @@
+{
+  "schema": "rkf.panini.pg700.state.v1",
+  "author": "Monty",
+  "date": "2026-11-24",
+  "publication_parent": "35736d7827c672ca59218e138f8ada09ae47247e",
+  "baseline": {
+    "commit": "35736d7827c672ca59218e138f8ada09ae47247e",
+    "path": "research/panini_grammar/curna_lavana_mudga_mixture_overrides/STATE.json"
+  },
+  "finite_positions": 52323,
+  "nominal_positions": 9358,
+  "nominal_readings": 10956,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 0,
+  "new_nonfinite_constructions": 7,
+  "new_nonfinite_readouts": 8,
+  "new_accent_constructions": 1,
+  "new_accent_readouts": 8,
+  "new_syntactic_constructions": 1,
+  "new_syntactic_readouts": 14,
+  "new_phonological_constructions": 1,
+  "new_phonological_readouts": 1,
+  "new_source_observations": 11,
+  "new_source_policy_decisions": 4,
+  "new_positions": 0,
+  "new_position_readings": 0,
+  "local_closure": "CLOSED for the supplied nonfinite and received-accent relations, with explicit Open mismatch or alternatives",
+  "open_obligations": [
+    "Nyāsa ksen source lineage and exact licensed śriyáse accent; Sāyaṇa taven edition/grade and taveṅ accent rule.",
+    "Other labeled 3.4.9 examples, especially the displaced āhuvadhyai/piba mapping and separate adhyai pairs, 3.4.14 boundaries, and wider Vedic domains.",
+    "C2–C5/S1–S7 and Claude-deferred execution."
+  ],
+  "authorization": {
+    "completion_status": "OPEN wider gates",
+    "PG335": "-9 finite/-12 readings preserved",
+    "PG357_PG363": "CLOSED preserved",
+    "continuous_executed_hours_claimed": false
+  },
+  "runtime_policy": {
+    "python": "3.12 only",
+    "document_check_status": "PASS",
+    "document_check_attempts": 1,
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "old_suites": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE"
+  },
+  "grammar_executions": []
+}

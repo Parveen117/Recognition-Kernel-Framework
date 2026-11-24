@@ -1,0 +1,338 @@
+{
+  "schema": "rkf.panini.pg700.relation.v1",
+  "scope": "3.4.9 selected Vedic bhāva uses with source-qualified other clause readings",
+  "finite_voice": null,
+  "nominal_case_gain": 0,
+  "paths": [
+    {
+      "id": "JIV",
+      "root": "1010643",
+      "sense": "prāṇadhāraṇa",
+      "preverbs": [],
+      "paths": [
+        {
+          "affix": "ase",
+          "markers": [],
+          "visible": "ase",
+          "form": "jīváse",
+          "status": "Accepted exact Ātharvan and Śākala"
+        },
+        {
+          "affix": "asen",
+          "markers": [
+            "n"
+          ],
+          "visible": "ase",
+          "form": "jī́vase",
+          "status": "Accepted analytic alternative; exact attestation Open"
+        }
+      ]
+    },
+    {
+      "id": "SRI",
+      "root": "1011044",
+      "sense": "sevā",
+      "preverbs": [],
+      "paths": [
+        {
+          "affix": "kasen",
+          "markers": [
+            "k",
+            "n"
+          ],
+          "visible": "ase",
+          "form": "śriyase",
+          "status": "Accepted segmental; received accent not derived by ordinary n-it"
+        }
+      ]
+    },
+    {
+      "id": "PRA_I",
+      "root": "1020040",
+      "sense": "motion",
+      "preverbs": [
+        "pra"
+      ],
+      "paths": [
+        {
+          "affix": "kse",
+          "markers": [
+            "k"
+          ],
+          "visible": "se",
+          "form": "preṣe",
+          "status": "Accepted segmental Taittirīya path; other semantic and tone policies retained"
+        }
+      ]
+    },
+    {
+      "id": "SU",
+      "root": "1020025",
+      "sense": "delivery",
+      "preverbs": [],
+      "paths": [
+        {
+          "affix": "taveṅ",
+          "markers": [
+            "ṅ"
+          ],
+          "visible": "tave",
+          "form": "sūtave",
+          "status": "Accepted segmental with source-received accent"
+        }
+      ]
+    },
+    {
+      "id": "GAM",
+      "root": "1011137",
+      "sense": "motion to destination",
+      "preverbs": [],
+      "paths": [
+        {
+          "affix": "taven",
+          "markers": [
+            "n"
+          ],
+          "visible": "tave",
+          "form": "gántave",
+          "status": "Accepted exact Ṛgvedic and Śaunaka"
+        }
+      ]
+    },
+    {
+      "id": "KR",
+      "root": "1080010",
+      "sense": "making or doing",
+      "preverbs": [],
+      "paths": [
+        {
+          "affix": "taven",
+          "markers": [
+            "n"
+          ],
+          "visible": "tave",
+          "form": "kártave",
+          "status": "Accepted exact selected kṛ and Śākala"
+        }
+      ]
+    },
+    {
+      "id": "I",
+      "root": "1020040",
+      "sense": "going",
+      "preverbs": [],
+      "paths": [
+        {
+          "affix": "tavai",
+          "markers": [],
+          "visible": "tavai",
+          "form": "étavái",
+          "status": "Accepted under Pāṇini 6.1.200 at Śākala RV 4.58.9"
+        }
+      ]
+    }
+  ],
+  "accents": [
+    {
+      "id": "JIV_ASE",
+      "word": "jīváse",
+      "udatta": [
+        2
+      ],
+      "evidence": "Affix a, 3.1.3; confirmed RV3.36.10, RV10.57.4, AVŚ6.19.2"
+    },
+    {
+      "id": "JIV_ASEN",
+      "word": "jī́vase",
+      "udatta": [
+        1
+      ],
+      "evidence": "First vowel, 6.1.197. Analytic counterpart only"
+    },
+    {
+      "id": "SRI_EXPECTED",
+      "word": "śríyase",
+      "udatta": [
+        1
+      ],
+      "evidence": "Ordinary kasen prediction, mismatches the exact verse"
+    },
+    {
+      "id": "SRI_WITNESS",
+      "word": "śriyáse",
+      "udatta": [
+        2
+      ],
+      "evidence": "Observed twice in RV5.59.3; exact accent licence Open"
+    },
+    {
+      "id": "SU_WITNESS",
+      "word": "sū́tave",
+      "udatta": [
+        1
+      ],
+      "evidence": "Observed RV10.184.3; derivational accent owner Open"
+    },
+    {
+      "id": "GAM_TAVEN",
+      "word": "gántave",
+      "udatta": [
+        1
+      ],
+      "evidence": "First vowel, 6.1.197; RV1.46.7 / AVŚ9.5.17"
+    },
+    {
+      "id": "KR_TAVEN",
+      "word": "kártave",
+      "udatta": [
+        1
+      ],
+      "evidence": "First vowel, 6.1.197; RV9.86.20 / RV2.22.1"
+    },
+    {
+      "id": "I_TAVAI",
+      "word": "étavái",
+      "udatta": [
+        1,
+        3
+      ],
+      "evidence": "First and final simultaneously, 6.1.200; RV4.58.9"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "JIV_33610",
+      "locus": "Ṛgveda 3.36.10",
+      "word": "jīváse",
+      "attachment": "to live through the wished hundred years for us"
+    },
+    {
+      "id": "JIV_10574",
+      "locus": "Ṛgveda 10.57.4",
+      "word": "jīváse",
+      "attachment": "return of the addressee's mind for life"
+    },
+    {
+      "id": "JIV_AV6192",
+      "locus": "Śaunaka 6.19.2",
+      "word": "jīváse",
+      "attachment": "purification of pronominal mā for living"
+    },
+    {
+      "id": "SRI_FIRST",
+      "locus": "Ṛgveda 5.59.3 first occurrence",
+      "word": "śriyáse",
+      "attachment": "first simile with gavām iva, śṛṅgam uttamam"
+    },
+    {
+      "id": "SRI_SECOND",
+      "locus": "Ṛgveda 5.59.3 second occurrence",
+      "word": "śriyáse",
+      "attachment": "later simile with maryā iva and cetatha"
+    },
+    {
+      "id": "PRA_I_TS",
+      "locus": "TS 1.2.11.1",
+      "word": "preṣe",
+      "attachment": "Vedic bhāva in the stated Nyāsa/Kāśikā word analysis"
+    },
+    {
+      "id": "VS_FOOD",
+      "locus": "VS 5.7 Uvaṭa and alternate Mahīdhara",
+      "word": "preṣe",
+      "attachment": "goal food, with fortune as a separate dative"
+    },
+    {
+      "id": "VS_WISHED",
+      "locus": "VS 5.7 other Mahīdhara reading",
+      "word": "preṣe",
+      "attachment": "qualifying intensely desired bhagāya"
+    },
+    {
+      "id": "SU_101843",
+      "locus": "Ṛgveda 10.184.3",
+      "word": "sū́tave",
+      "attachment": "delivery, in the tenth month, linked to garbham"
+    },
+    {
+      "id": "GAM_RV1467",
+      "locus": "Ṛgveda 1.46.7",
+      "word": "gántave",
+      "attachment": "going to far shore, goal pārāya"
+    },
+    {
+      "id": "GAM_AV9517",
+      "locus": "Śaunaka 9.5.17",
+      "word": "gántave",
+      "attachment": "transport of the sacrifice to the divine destination"
+    },
+    {
+      "id": "KR_98620",
+      "locus": "Ṛgveda 9.86.20",
+      "word": "kártave",
+      "attachment": "making/establishing friendship in the settled context"
+    },
+    {
+      "id": "KR_2221",
+      "locus": "Ṛgveda 2.22.1",
+      "word": "kártave",
+      "attachment": "doing the great act, mahi karma"
+    },
+    {
+      "id": "I_4589",
+      "locus": "Ṛgveda 4.58.9",
+      "word": "étavái",
+      "attachment": "going to the wedding procession in the maidens' simile"
+    }
+  ],
+  "junction": {
+    "locus": "RV 4.58.9",
+    "input": [
+      "étavái",
+      "u"
+    ],
+    "next_word_pada_print": "ūṃ íti",
+    "output": "étavā́ u",
+    "operations": [
+      "6.1.78",
+      "8.3.19"
+    ],
+    "retained_acutes": [
+      1,
+      3
+    ]
+  },
+  "source_issues": [
+    {
+      "id": "SYNTAX_GUARD",
+      "status": "Excluded",
+      "scope": "Kartari noun under generic 3.4.67 in the already specified bhāva inputs"
+    },
+    {
+      "id": "NY_KSEN",
+      "status": "Open",
+      "scope": "Literal ksen supplies se and fails iyaṅ/affix a under ordinary application, preserve text and transmission"
+    },
+    {
+      "id": "KASEN_ACCENT",
+      "status": "Open",
+      "scope": "Ordinary n-it yields śríyase; received śriyáse remains positively located but full operator connection unresolved"
+    },
+    {
+      "id": "SAYA_TAVEN",
+      "status": "Open",
+      "scope": "Suffix label taven in two digital Sāyaṇa fields. Ordinary unaugmented taven gives expected o, leaves uncontrolled ū"
+    },
+    {
+      "id": "TAVENG_ACCENT",
+      "status": "Open",
+      "scope": "Root U attested, exact generative cause for taveṅ on this trajectory required"
+    },
+    {
+      "id": "TAVAI_KRTYA",
+      "status": "Open",
+      "scope": "3.4.14 homophonous suffix and source competition outside selected supplied purpose clause"
+    }
+  ],
+  "grammar_executions": []
+}

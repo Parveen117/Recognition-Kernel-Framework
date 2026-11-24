@@ -1,6 +1,8 @@
-# Written-development backlog at PG699
+# Written-development backlog at PG700
 
-Monty · 2026-11-24 · reviewed current parent 16b77d7f50cd906e02d25862968e3946206c2441. Historical closures below retain their exact pins.
+Monty · 2026-11-24 · reviewed current parent 35736d7827c672ca59218e138f8ada09ae47247e. Historical closures below retain their exact pins.
+
+PG700 addresses [seven selected 3.4.9 word constructions and direct Vedic witness decisions](vedic_tumartha_marker_grade_and_direct_accent/README.md). The Kāśikā–Nyāsa segmental cases, exact root or affix grade, and actual verse accents have separate support. The incompatible regular kasen tone at RV 5.59.3, Sāyaṇa taven and actual ū, origin of damaged Nyāsa text and the unaddressed 3.4.9 assignments remain Open within S7. The C2–C5 and other S1–S7 gates remain active. Grammar execution remains assigned to Claude.
 
 PG699 closes [selected cūrṇa, salt and mudga mixture fibres and witness clauses](curna_lavana_mudga_mixture_overrides/README.md) at 144 nominal positions/147 readings. Competing ini policies, case-grounded salt luk and genuine mudga aṇ remain addressed. Suśruta’s vulgate and provisional Nepalese text share *maudgāḥ*. The preceding phrase varies by witness. Grain agreement, exact Siddhahema/printed collation, other affix-source issues and wider 4.4.27 onward/C2–C5/S1–S7 work remain Open. Claude execution remains deferred.
 
@@ -154,7 +156,7 @@ PG382 supplies [nested gam outer-result/pada](nested_gam_outer_result_and_pada/R
 | S4 · Mādhavīya / desiderative perfects | [PG175 comparison](desiderative_perfect_word_intersection/README.md) and [PG189](desiderative_perfect_primary_word_policy/README.md) give a written traditional same-word selection on the existing 45 requests. [PG685](sam_gam_san_blessing_aorist_perfect_completion/README.md) proves a distinct consequence of 7.2.58 on the two new gam requests: iṭ in both first words while only kṛ inherits the A entitlement. | Traditional authority for rival early-A decisions and independently attested target whole words remain Open. The earlier 45 requests and their selected word pairs are already credited. |
 | S5 · Uṇādi 4.105 fields | [Affix register](unadi_sacrificer_and_wind/README.md): 99/103 directly assigned. [PG691](bharata_atac_and_bhastradi_sthan_owned_cases/README.md) names the actual short-a assignment in the distinct 4.104 precursor, leaving sya, ḍha, ḍaṭ, āṭac at 4.105 Open. | Exact primary-field lexical/affix witnesses or evidenced textual decisions for the four fields. The 4.104 potter and the primary 4.105 evidence remain individually addressed. |
 | S6 · primary Uṇādi 5.56 | [Marker source decisions](unadi_kit_commentarial_decisions/README.md), [1943 note](kinasa_ten_pada_marker_and_agent/README.md), [three schools](kinasa_three_grammatical_schools/README.md). | Independent effect of the primary marker distinguished from prescribed ī, ten-pāda and other-school histories. Current positive evidence does not settle it. |
-| S7 · other historical source contracts | [PG46 F3](independent_written_closure/COMPLETION_AND_FRONTIER.md) retains 1.4.72, 2.4.28/69, 3.2.139, 3.4.9, 4.1.150 and metarule distinctions. | Reconcile against later packets individually; maintain source-qualified policy where justified. This run has not declared every historical issue still unsolved or already settled. |
+| S7 · other historical source contracts | [PG46 F3](independent_written_closure/COMPLETION_AND_FRONTIER.md) retains 1.4.72, 2.4.28/69, 3.2.139, 3.4.9, 4.1.150 and metarule distinctions. [PG700](vedic_tumartha_marker_grade_and_direct_accent/README.md) records the exact received accents, root owners and marker-policy mismatch for selected 3.4.9 words. | Reconcile against later packets individually; maintain source-qualified policy where justified. This run has not declared every historical issue still unsolved or already settled. |
 
 ### S1 · Nonoperative lookup at the PG433–PG435 results checkpoint
 

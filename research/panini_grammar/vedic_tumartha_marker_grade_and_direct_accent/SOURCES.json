@@ -1,0 +1,217 @@
+{
+  "publication_parent": "35736d7827c672ca59218e138f8ada09ae47247e",
+  "date": "2026-11-24",
+  "project_dependencies": [
+    {
+      "commit": "35736d7827c672ca59218e138f8ada09ae47247e",
+      "path": "research/panini_grammar/curna_lavana_mudga_mixture_overrides/STATE.json",
+      "git_blob_sha": "4f3cb34eae074f609fc71e8c20b4853e30190c45",
+      "bytes": 1942,
+      "sha256": "a829588b54b8da51fb9d1cf052360be293fd69a8e403ce62be38a72048c2babb",
+      "use": "PG699 absolute census"
+    },
+    {
+      "commit": "c7055b67612a367658568cd94821ee0441846a18",
+      "path": "research/panini_grammar/krt_temporal_relations/SOURCE_NOTES_D.md",
+      "git_blob_sha": "beea5a3f11fb1fb4bec1b618907035b082cad903",
+      "bytes": 7848,
+      "sha256": "5c61212b2506b7ec4cbbf7088dda7d8e919ad0295539f65a91f5dfcbf4ec349a",
+      "use": "PG44 S7 exact damaged and divergent 3.4.9 addresses"
+    },
+    {
+      "commit": "c7055b67612a367658568cd94821ee0441846a18",
+      "path": "research/panini_grammar/krt_temporal_relations/SOURCE_EXCERPTS.json",
+      "git_blob_sha": "e643ab85689e0805320565c5fb2c9f78dc609234",
+      "bytes": 1112131,
+      "sha256": "45f5908cf79ca75ecc5db5e0ae719333565142fc01867e89ce3d46f3d22faeb5",
+      "use": "Frozen Kāśikā, Nyāsa and Kaumudī evidence at 34009"
+    },
+    {
+      "commit": "5433f61fd25984b518289496790304d2da3fbe7b",
+      "path": "research/panini_grammar/pibadhyai_rigveda_witness_and_nit_accent/RELATION.json",
+      "git_blob_sha": "2f57467897b5615bea12a2b57cc8839895bda06e",
+      "bytes": 3236,
+      "sha256": "17f0170c8599cd51c3842541c0eb559425ceb90feea01d9b237411a43e9bd32b",
+      "use": "PG395 previous piba accent and nonfinite boundary"
+    },
+    {
+      "commit": "292e2339646a268214f5a22a316f84209b9e4793",
+      "path": "research/panini_grammar/vowel_modals/SOURCE_EXCERPTS.json",
+      "git_blob_sha": "4c01f559bacc30ce1561c5b54f7b8fe6f966725e",
+      "bytes": 282751,
+      "sha256": "b4f785971858a1f995eaab47ddce66c7945f3042d79d91c773298000113cc386",
+      "use": "PG26 exact iṇ and sūṅ lexical records with markers and set degrees"
+    },
+    {
+      "commit": "d8bd5f640e6b365cef3ed9dd23aa966ef8fca944",
+      "path": "research/panini_grammar/sam_gam_joined_nested_active_ten_lakara_completion/RELATION.json",
+      "git_blob_sha": "32e42be732f0a7d9d540a14f313a18a3bd92eac7",
+      "bytes": 5423,
+      "sha256": "f99bb1840a53f3924268457769474b693144522195181fe8b21fd1e5278bbd5f",
+      "use": "Stable distinct gam root key already used in a very different scope"
+    },
+    {
+      "commit": "b05e46bf78f165e17c4766d6d1179a1699a72fcf",
+      "path": "research/panini_grammar/grammar_construction/NATIVE_OPERATOR_LIFT.md",
+      "git_blob_sha": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+      "bytes": 11855,
+      "sha256": "f52e7f5cf539ef56859b890669ef738848491e4005e73be75baa49c899b5dafd",
+      "use": "Full PG14 native ordered carrier"
+    },
+    {
+      "commit": "ada439f6ba3109d798b41c216fe7cedc79e60afb",
+      "path": "research/panini_grammar/SUTRAPATHA.tsv",
+      "git_blob_sha": "1840f3b5349b21112ac05a7efaa59705fd4efee0",
+      "bytes": 270179,
+      "sha256": "70dfdfe6ba433b6e211f0f01b078c1b6d13a1ad0938e06fd5789298a04583634",
+      "use": "Frozen project rule numbering"
+    }
+  ],
+  "web_evidence": [
+    {
+      "id": "K",
+      "url": "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/1_gram/jvkasipu.htm",
+      "locator": "Kāśikā 3.4.9, lines 15827–15846",
+      "use": "Role, paired ase/asen, kasen, kse, separate taveṅ/taven"
+    },
+    {
+      "id": "NY",
+      "url": "https://sa.wikisource.org/wiki/काशिकाविवरणपञ्जिका/तृतीयोऽध्यायः/चतुर्थः_पादः",
+      "locator": "Nyāsa 3.4.9 line 123 and 3.4.14 line 133",
+      "use": "Root assignments, ksen raw, iyaṅ, ū with taveṅ, and 3.4.14 semantic boundary"
+    },
+    {
+      "id": "V",
+      "url": "https://akshara.ru/sutraani/3/4/9",
+      "locator": "Vasu, Nyāsa, Kaumudī and Prakriyāsarvasva, lines 169–204",
+      "use": "Vasu's exact śriyase pitch concern, root alternatives and etavā register"
+    },
+    {
+      "id": "DHATU",
+      "url": "https://sanskritdocuments.org/doc_z_misc_major_works/dhatupatha.html",
+      "locator": "01.0643, 01.1044, 02.0025, 02.0040",
+      "use": "Exact lexical roots under stable baseindex numbers"
+    },
+    {
+      "id": "J1",
+      "url": "https://vmlt.in/rigveda/03/036",
+      "locator": "3.36.10 lines 365–382",
+      "use": "jīváse at the wish for a hundred years"
+    },
+    {
+      "id": "J2",
+      "url": "https://vmlt.in/rigveda/10/057",
+      "locator": "10.57.4 lines 340–359",
+      "use": "jīváse at return of the addressee's mind"
+    },
+    {
+      "id": "J3",
+      "url": "https://vishvasa.github.io/vedAH/atharva/shaunakam/rUDha-saMhitA/sarva-prastutiH/06/019_pAvamAnam/",
+      "locator": "6.19.2 saṃhitā 99, padapāṭha 130, Whitney 115–122",
+      "use": "Śaunaka jīváse and explicitly attributed parallel report"
+    },
+    {
+      "id": "SRI",
+      "url": "https://vmlt.in/rigveda/05/059",
+      "locator": "5.59.3 lines 208–231",
+      "use": "Independent two exact medial-accent tokens"
+    },
+    {
+      "id": "TS",
+      "url": "https://sanskritdocuments.org/doc_upanishhat/taittirIyasamhitA.html",
+      "locator": "TS 1.2.11.1 lines 366–371 and recurrence at 11927–11929",
+      "use": "Actual preṣe bhagāya mantra"
+    },
+    {
+      "id": "VAI",
+      "url": "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/1_veda/5_vedang/1_srauta/vaitss_u.htm",
+      "locator": "Vaitāna 3.3.24 / 13.24",
+      "use": "Joined preṣe in explicit ritual address with TS 1.2.11.1 concordance"
+    },
+    {
+      "id": "VS_U_M",
+      "url": "https://vishvasa.github.io/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/uvaTa-mahIdharau/05/",
+      "locator": "Vājasaneyi 5.7, lines 51–55",
+      "use": "Uvaṭa food and two Mahīdhara construals of preṣe"
+    },
+    {
+      "id": "SU",
+      "url": "https://vmlt.in/rigveda/10/184",
+      "locator": "10.184.3 lines 310–334 and Sāyaṇa 364–366",
+      "use": "Exact sū́tave, delivery-event gloss and taven label"
+    },
+    {
+      "id": "SU_SW",
+      "url": "https://sa.wikisource.org/w/index.php?title=ऋग्वेदः_सूक्तं_१०.१८४&oldid=364239",
+      "locator": "Sāyaṇa 10.184.3, inspected line 145",
+      "use": "Same literal taven in versioned copy; no claim of separate genealogy"
+    },
+    {
+      "id": "G1",
+      "url": "https://vmlt.in/rigveda/01/046",
+      "locator": "RV 1.46.7 lines 431–454",
+      "use": "gántave and the crossing frame"
+    },
+    {
+      "id": "G2",
+      "url": "https://textgridrep.org/browse/49knk.0?mode=gallery",
+      "locator": "Śaunaka 9.5.17 lines 8963–8965",
+      "use": "gántave and sacrificial destination"
+    },
+    {
+      "id": "K1",
+      "url": "https://vmlt.in/rigveda/09/086",
+      "locator": "9.86.20 lines 699–724",
+      "use": "kártave, friendship relation and actual Śākala locus"
+    },
+    {
+      "id": "K2",
+      "url": "https://vmlt.in/rigveda/02/022/1",
+      "locator": "2.22.1 accented saṃhitā and pada",
+      "use": "kártave with mahi karma"
+    },
+    {
+      "id": "BAD_K",
+      "url": "https://vmlt.in/rigveda/09/083",
+      "locator": "Śākala hymn contents whole page",
+      "use": "No verse 20 at raw Kāśikā locator"
+    },
+    {
+      "id": "I",
+      "url": "https://vmlt.in/rigveda/04/058",
+      "locator": "RV 4.58.9 lines 336–358",
+      "use": "Explicit étavái and saṃhitā étavā́ u"
+    },
+    {
+      "id": "AB",
+      "url": "https://akshara.ru/sutraani/6/1/200",
+      "locator": "Kāśikā and Vasu on 6.1.200",
+      "use": "Simultaneous first and last acute, Nyāsa cross-address variation"
+    },
+    {
+      "id": "DASH",
+      "url": "https://namami.gov.in/sites/default/files/book_pdf/Samiksika%20Series%2011.pdf",
+      "locator": "Radhamadhab Dash, R̥k-Prātiśākhya and Pāṇini on Saṃhitā, p.89",
+      "use": "Comparable prefixed anusandhi describes 6.1.78 then 8.3.19"
+    }
+  ],
+  "observations": [
+    "Distinct live-purpose contexts at RV 3.36.10 and 10.57.4, both medial U",
+    "Actual Śaunaka 6.19.2 padapāṭha confirms jīváse, with Whitney's separately attributed comparison",
+    "RV 5.59.3 independently shows two medial-accent śriyáse instances",
+    "Kāśikā kasen vs digital Nyāsa ksen with iyaṅ, and Vasu's positive accent mismatch",
+    "TS 1.2.11.1 and Vaitāna same positive preṣe",
+    "Uvaṭa and Mahīdhara at VS 5.7 attach the string to food or qualifying desired fortune",
+    "RV 10.184.3 has sū́tave, and two digital Sāyaṇa witnesses read taven versus Kāśikā/Nyāsa taveṅ",
+    "Rigvedic and Śaunaka positive first-accent gántave with actual objective or destination",
+    "Two independent stanza contexts for kártave along with unviable digital Kāśikā locator 9.83.20",
+    "RV 4.58.9 directly witnesses two word accents and exact saṃhitā contact",
+    "Kāśikā explains yugapat and Dash provides the related prefixed variant as a boundary control"
+  ],
+  "decisions": [
+    "Admit ase as the regular explanation of the three named medial-accent live forms; keep asen as a sourced analytically distinct variant without exact matching attestation.",
+    "Write kasen's segmental route, reject the literal consonant-initial ksen as an ordinary derivation of this exact word, and retain the n-it accent and original source questions explicitly Open.",
+    "Use the taveṅ grade block for the sūtave attested stem. Preserve Sāyaṇa's taven label, whose ordinary grade fails on this token, and use independent taven examples for first accent.",
+    "Use actual dual U for the supplied Śākala tavai address and keep context and marker scope in the TS/VS alternatives."
+  ]
+}

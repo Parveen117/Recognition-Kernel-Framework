@@ -2,6 +2,16 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG700 · Actual Vedic tumartha accents and competing marker decisions
+
+PG700: [Vedic tumartha markers, grade and direct accents](vedic_tumartha_marker_grade_and_direct_accent/README.md). Actual jīváse and śriyáse delimit the ordinary n-it accent. The Ṛgveda and Sāyaṇa preserve an exact sū́tave and a rival taven label. The dual accent of étavái has a witnessed saṃhitā path. Seven nonfinite constructions add eight written readouts and zero finite or nominal positions. Census 52,323 finite and 9,358 nominal positions/10,956 readings.
+
+Seven nonfinite constructions/eight word paths, one accent construction/eight records, one syntax construction/14 records, one junction construction/one record, 11 observations and four decisions. Zero nominal or finite credits. Earlier piba and mādaya pathways retain their original credit.
+
+PG521–700 cumulative: 504 finite positions/1,420 net credited finite readings, 3,580 nominal positions/4,213 readings, 277 morphology constructions/2,922 operative interfaces, 126 compound constructions/590 plans, 17 accent constructions/72 records, 153 semantics constructions/454 records, 124 syntax constructions/388 records, 74 source-policy decisions after PG555−1, and 356 observations. Eight junction constructions/19 readouts since PG680, four provenance corrections and one proof addendum. The seven new nonfinite constructions are accounted for separately. PG335 and PG357–363 CLOSED preserved.
+
+S7 gains the exact source-conditioned decisions. The literal ksen lineage, sū́tave alternative grade/marker and taveṅ tone mechanism, and remaining 3.4.9 assignments still require work. C2–C5 and other live textual obligations remain Open. Claude retains implementation and execution. The containing commit pins this packet.
+
 ## PG699 · Mixture exceptions and the Suśruta mung-broth witness
 
 PG699: [Powder, salt and mudga mixture exceptions](curna_lavana_mudga_mixture_overrides/README.md). Mahābhāṣya and Kāśikā retain different ini licenses. Salt uses whole-ṭhak luk with head agreement. Mudga uses actual aṇ and has a direct masculine plural in Suśruta, with a lexical gloss from Ḍalhaṇa. Six fibres add 144 nominal positions and 147 readings. Census 52,323 finite and 9,358 nominal positions/10,956 readings.

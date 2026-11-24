@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG700: [Vedic tumartha markers, grade and direct accents](vedic_tumartha_marker_grade_and_direct_accent/README.md). Actual jīváse and śriyáse delimit the ordinary n-it accent. The Ṛgveda and Sāyaṇa preserve an exact sū́tave and a rival taven label. The dual accent of étavái has a witnessed saṃhitā path. Seven nonfinite constructions add eight written readouts and zero finite or nominal positions. Census 52,323 finite and 9,358 nominal positions/10,956 readings.
+
 PG699: [Powder, salt and mudga mixture exceptions](curna_lavana_mudga_mixture_overrides/README.md). Mahābhāṣya and Kāśikā retain different ini licenses. Salt uses whole-ṭhak luk with head agreement. Mudga uses actual aṇ and has a direct masculine plural in Suśruta, with a lexical gloss from Ḍalhaṇa. Six fibres add 144 nominal positions and 147 readings. Census 52,323 finite and 9,358 nominal positions/10,956 readings.
 
 PG698: [Curd case roles, seasoning and Aruṇadatta’s dādhikī](dadhi_locative_and_seasoning_roles/README.md). Five curd licenses retain distinct support and target roles. Aruṇadatta assigns the feminine porridge to preparation in curd with leaves. Takra belongs to the preceding preparation. Nine selected case fibres add 216 nominal positions and 223 readings on 298 histories. Census 52,323 finite and 9,214 nominal positions/10,809 readings.
