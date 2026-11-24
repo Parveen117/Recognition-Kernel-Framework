@@ -1,0 +1,59 @@
+{
+  "schema": "rkf.panini.pg709.state.v1",
+  "author": "Monty",
+  "date": "2026-11-24",
+  "publication_parent": "c1d8e4d47b2f81ed6999534f340d62bae27484c3",
+  "baseline": {
+    "commit": "c1d8e4d47b2f81ed6999534f340d62bae27484c3",
+    "path": "research/panini_grammar/dhi_ca_printed_debate_pada_boundary_and_sagdhi/STATE.json"
+  },
+  "finite_positions": 52332,
+  "nominal_positions": 9361,
+  "nominal_readings": 10961,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 2,
+  "new_nominal_readings": 4,
+  "new_positions": 2,
+  "new_position_readings": 4,
+  "new_compound_constructions": 0,
+  "new_compound_plans": 0,
+  "new_morphology_constructions": 1,
+  "new_morphology_interfaces": 4,
+  "new_nonfinite_constructions": 0,
+  "new_nonfinite_readouts": 0,
+  "new_accent_constructions": 1,
+  "new_accent_readouts": 4,
+  "new_syntactic_constructions": 1,
+  "new_syntactic_readouts": 5,
+  "new_phonological_constructions": 1,
+  "new_phonological_readouts": 4,
+  "new_source_observations": 11,
+  "new_source_policy_decisions": 7,
+  "local_closure": [
+    "Two selected Vedic nominal case positions with four source-licensed readings",
+    "Owned initial preverb-n loss and competing lexical/sentence interpretations on exact addresses"
+  ],
+  "open_obligations": [
+    "Applicability of ktiC under the exact 3.3.174 blessing and designation conditions in these contexts, and derivation of the historical accent for every accepted marker history.",
+    "Independent printed Prātiśākhya and Mahīdhara locator lineage, recitational doubling and Sāma tonal derivation.",
+    "The verb and plural forms in the herb verses need separate owned derivations. The distinct bhas/bandh debate under 8.2.25 remains Open.",
+    "The other C2–C5 and S1–S7 registers are still Open. Claude retains generators, grammar execution, old suites and certificate replay."
+  ],
+  "authorization": {
+    "completion_status": "OPEN wider gates",
+    "PG335": "-9 finite/-12 readings preserved",
+    "PG357_PG363": "CLOSED preserved",
+    "continuous_executed_hours_claimed": false
+  },
+  "runtime_policy": {
+    "python": "3.12 only",
+    "document_check_status": "PASS",
+    "document_check_attempts": 1,
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "old_suites": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE"
+  },
+  "grammar_executions": []
+}

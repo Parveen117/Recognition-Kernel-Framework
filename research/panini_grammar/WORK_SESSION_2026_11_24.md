@@ -2,6 +2,16 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG709 · The Vedic rite-maker and maternal remedy under retained or deleted n
+
+PG709 · [The Vedic rite-maker and maternal remedy under retained or deleted n](vedic_nis_kr_maker_and_maternal_remedy/README.md). Two new nominal positions and four readings derive the rite-maker and the maternal remedy. Vājasaneyi Prātiśākhya specifies initial preverb-n loss. Śākala and Śukla witnesses admit the loss at the named positions, and Taittirīya preserves n. The maker’s syntactic bearer and the remedy’s competing affix analyses retain their own source policies. Census 52,332 finite positions and 9,361 nominal positions with 10,961 nominal readings.
+
+0 new nonfinite constructions/0 retained paths. Accent 1/4, syntax 1/5, phonological junction 1/4 constructions/readouts. 11 source observations and 7 source-policy decisions. One morphology construction/4 interfaces. Finite increments 0 positions and 0 readings. Nominal increments 2 positions and 4 readings. The publication parent is c1d8e4d47b2f81ed6999534f340d62bae27484c3. The containing commit pins the documents and evidence.
+
+PG521–709 cumulative: 513 finite positions/1,429 net finite readings, 3,583 nominal positions/4,218 readings, 283 morphology constructions/2,938 interfaces, 127 compound constructions/591 plans, 25 accent constructions/100 records, 153 semantics constructions/454 records, 132 syntax constructions/428 records, 122 source-policy decisions after PG555−1 and 436 observations. Sixteen junction constructions/43 readouts since PG680 and 20 nonfinite constructions/26 paths since PG700. Four provenance corrections and one proof addendum. PG335 and PG357–363 CLOSED results are preserved.
+
+The two rite-maker and maternal-remedy nominal fibres are locally CLOSED on the named witnesses. This resolves the corresponding unconstructed PG708 maker-word target. The complete recitational and lexical-affix histories, original Prātiśākhya numbering and the separate bhas/bandh debate remain Open. C2–C5 and S1–S7 retain their wider work. Claude retains execution.
+
 ## PG708 · The printed dhi ca debate, pada boundary and Vedic sagdhiḥ
 
 PG708 · [The printed dhi ca debate, pada boundary and Vedic sagdhiḥ](dhi_ca_printed_debate_pada_boundary_and_sagdhi/README.md). Kielhorn’s 1885 print shows the sic proposal, seṭ objection and broad reply. Osmania Kāśikā independently prints both policies. Nyāsa and Padamañjarī each protect payo dhāvati. One new nominal position and reading derives sagdhiḥ from the directly witnessed common-meal context. Census 52,332 finite positions and 9,359 nominal positions with 10,957 nominal readings.

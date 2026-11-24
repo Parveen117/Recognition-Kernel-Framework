@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG709 · [The Vedic rite-maker and maternal remedy under retained or deleted n](research/panini_grammar/vedic_nis_kr_maker_and_maternal_remedy/README.md). Two addressed nominal fibres preserve owned prefix-loss, stem and sup events with distinct ritual bearers, recensional readouts and typed PG14 recovery. The current witness explains n-loss without importing the siC or root-s loss of PG708.
+
 PG708 · [The printed dhi ca debate, pada boundary and Vedic sagdhiḥ](research/panini_grammar/dhi_ca_printed_debate_pada_boundary_and_sagdhi/README.md). The same-pada guard and the question whether jaś sees the deleted root vowel have different, explicit readout addresses. PG14 specialization preserves both views and the recorded s owners.
 
 PG707 · [Vedic stoṣam and the Aśvins’ dual aorists](research/panini_grammar/vedic_stosam_and_ashvin_dual_aorist_owners/README.md). The same surface remains addressable by separate historical root and mood claims. Typed specialization preserves the attestation, ownership, Open grade and precise accent or contact grades.

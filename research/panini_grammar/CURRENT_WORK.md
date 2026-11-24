@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG708
+# Pāṇini grammar · current written coverage at PG709
+
+PG709 · [The Vedic rite-maker and maternal remedy under retained or deleted n](vedic_nis_kr_maker_and_maternal_remedy/README.md). Two new nominal positions and four readings derive the rite-maker and the maternal remedy. Vājasaneyi Prātiśākhya specifies initial preverb-n loss. Śākala and Śukla witnesses admit the loss at the named positions, and Taittirīya preserves n. The maker’s syntactic bearer and the remedy’s competing affix analyses retain their own source policies. Census 52,332 finite positions and 9,361 nominal positions with 10,961 nominal readings.
 
 PG708 · [The printed dhi ca debate, pada boundary and Vedic sagdhiḥ](dhi_ca_printed_debate_pada_boundary_and_sagdhi/README.md). Kielhorn’s 1885 print shows the sic proposal, seṭ objection and broad reply. Osmania Kāśikā independently prints both policies. Nyāsa and Padamañjarī each protect payo dhāvati. One new nominal position and reading derives sagdhiḥ from the directly witnessed common-meal context. Census 52,332 finite positions and 9,359 nominal positions with 10,957 nominal readings.
 
