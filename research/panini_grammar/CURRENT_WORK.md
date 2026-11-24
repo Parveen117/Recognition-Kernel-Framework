@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG694
+# Pāṇini grammar · current written coverage at PG695
+
+PG695: [Result adjectives and literary gatānugatika](aksadyutadi_nirvrtta_and_attested_gatanugatika/README.md). The named 4.4.19 membership choices give twelve neuter outcome fibres. Pañcatantra 1.373 and Mudrārākṣasa 6.5 independently supply the short-vowel lexical adjective, with masculine and feminine agreement respectively. The three lexical gender fibres and the outcome fibres add 360 nominal positions and 374 readings. Census 52,323 finite and 8,780 nominal positions/10,360 readings.
 
 PG694: [Kuṭilikā, aṇ and the deer/hunter/smith roles](kutilika_an_roles_and_owned_gender/README.md). The named sources reverse actor and target on the hunting frame and agree on the smith's tongs. Bhāṣāvṛtti supplies the feminine ṅīp stem. The separate Act IV stage direction gives the actual compound boundary. Three case fibres add 72 nominal positions and 73 readings. Census 52,323 finite and 8,420 nominal positions/9,986 readings.
 

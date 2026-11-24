@@ -1,0 +1,49 @@
+{
+  "schema": "rkf.panini.pg695.state.v1",
+  "author": "Monty",
+  "date": "2026-11-24",
+  "publication_parent": "c19eff9f207adc5905275c246519b67c02074b65",
+  "baseline": {
+    "commit": "c19eff9f207adc5905275c246519b67c02074b65",
+    "path": "research/panini_grammar/kutilika_an_roles_and_owned_gender/STATE.json"
+  },
+  "finite_positions": 52323,
+  "nominal_positions": 8780,
+  "nominal_readings": 10360,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 360,
+  "new_nominal_readings": 374,
+  "new_morphological_constructions": 2,
+  "new_morphological_readouts": 15,
+  "new_syntactic_constructions": 1,
+  "new_syntactic_readouts": 5,
+  "new_phonological_constructions": 1,
+  "new_phonological_readouts": 2,
+  "new_source_observations": 5,
+  "new_source_policy_decisions": 2,
+  "new_positions": 0,
+  "new_position_readings": 0,
+  "local_closure": "CLOSED on the twelve source-qualified neuter outcome families, the three short-vowel lexical gender fibres and the two literary contacts",
+  "open_obligations": [
+    "4.4.19 masculine/feminine result requests and exact independent contexts, accent and full internal etymologies.",
+    "Historical reading order of gaṇa lists and exact lexical derivation of short-initial gatānugatika.",
+    "4.4.20–21 and wider C2–C5/S1–S7; Claude-deferred verification and execution."
+  ],
+  "authorization": {
+    "completion_status": "OPEN wider gates",
+    "PG335": "-9 finite/-12 readings preserved",
+    "PG357_PG363": "CLOSED preserved",
+    "continuous_executed_hours_claimed": false
+  },
+  "runtime_policy": {
+    "python": "3.12 only",
+    "document_check_status": "PASS",
+    "document_check_attempts": 1,
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "old_suites": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE"
+  },
+  "grammar_executions": []
+}

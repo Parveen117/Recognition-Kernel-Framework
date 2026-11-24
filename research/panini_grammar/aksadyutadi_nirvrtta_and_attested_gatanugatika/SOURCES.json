@@ -1,0 +1,161 @@
+{
+  "publication_parent": "c19eff9f207adc5905275c246519b67c02074b65",
+  "date": "2026-11-24",
+  "project_dependencies": [
+    {
+      "commit": "c19eff9f207adc5905275c246519b67c02074b65",
+      "path": "research/panini_grammar/kutilika_an_roles_and_owned_gender/STATE.json",
+      "git_blob_sha": "ee65f9cb6a88e175ec0db2d32d911dac5efff235",
+      "bytes": 1804,
+      "sha256": "3842931e31ce13d99fba33cb647465327957c457b1b273e32740c3b545f9bd2f",
+      "use": "PG694 census"
+    },
+    {
+      "commit": "c19eff9f207adc5905275c246519b67c02074b65",
+      "path": "research/panini_grammar/kutilika_an_roles_and_owned_gender/RELATION.json",
+      "git_blob_sha": "6f975667b750f131466a2766d9c0d5ed019f5c2e",
+      "bytes": 5226,
+      "sha256": "4d412c60dff0eef6bb1ede6ab9ca2224054e385aa5bd9ee5b12c355f0b6d1f5c",
+      "use": "PG694 lexical ā female case class"
+    },
+    {
+      "commit": "24fa1f1f242ae5cbb7ff253702ff2ebf9d1a3b2a",
+      "path": "research/panini_grammar/vivadha_vivadha_owned_conveyance/RELATION.json",
+      "git_blob_sha": "4156bc94128051e92f3cab5d4884c47a4e9c90be",
+      "bytes": 6567,
+      "sha256": "a427b9bbe268427bfb7c06d91209f3bbae8f4bf7cb912d701283c8d069e4d40e",
+      "use": "PG693 dental a-stem schedule and inherited ablative alternatives"
+    },
+    {
+      "commit": "1cc6b8b3e3288f622d955415596127bee416775b",
+      "path": "research/panini_grammar/bhastradi_head_shoulder_aluk_and_owned_taddhita/SOURCES.json",
+      "git_blob_sha": "bb62effcf60220dcfa63bbf59214563b80874d67",
+      "bytes": 7304,
+      "sha256": "f86ed48298d26d38b5e95497961aac05475629fe5ade1c212621032d197bb34e",
+      "use": "Exact previously identified primary gaṇa data file"
+    },
+    {
+      "commit": "7842aa911bc4570c5e0d07125d0a1170b1753f38",
+      "path": "research/panini_grammar/taddhita_functional/SOURCE_EXCERPTS.json",
+      "git_blob_sha": "31e85bd9fb220839f9162864d7040369e4c1e276",
+      "bytes": 673280,
+      "sha256": "61d315eabe902112f9af1f79ca00f2a49cc632164fa8349b2af5f76fecaf1c34",
+      "use": "PG36 raw Kāśikā and Vasu 4.4.19"
+    },
+    {
+      "commit": "d0a7d69a296f80fd2977985e5235f5eeb770a715",
+      "path": "research/panini_grammar/vrtadi_san_present/SOURCE_DECISIONS.md",
+      "git_blob_sha": "1b8b8dce7ed4379820dfeb6fb739d10c53257e66",
+      "bytes": 4573,
+      "sha256": "bd28dcc6b722408cc6c1989a3740058a10275b0418cbeca8d2b898e83b9c7b53",
+      "use": "Frozen vṛt root and vartana/vartane ID"
+    },
+    {
+      "commit": "b05e46bf78f165e17c4766d6d1179a1699a72fcf",
+      "path": "research/panini_grammar/grammar_construction/NATIVE_OPERATOR_LIFT.md",
+      "git_blob_sha": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+      "bytes": 11855,
+      "sha256": "f52e7f5cf539ef56859b890669ef738848491e4005e73be75baa49c899b5dafd",
+      "use": "Full PG14 carrier, cuts and typed zero"
+    },
+    {
+      "commit": "ada439f6ba3109d798b41c216fe7cedc79e60afb",
+      "path": "research/panini_grammar/SUTRAPATHA.tsv",
+      "git_blob_sha": "1840f3b5349b21112ac05a7efaa59705fd4efee0",
+      "bytes": 270179,
+      "sha256": "70dfdfe6ba433b6e211f0f01b078c1b6d13a1ad0938e06fd5789298a04583634",
+      "use": "Exact sūtra addresses"
+    }
+  ],
+  "external_pins": [
+    {
+      "repository": "ashtadhyayi-com/data",
+      "commit": "5744762f010d677cfb43f347a42d02796cf615d6",
+      "path": "ganapath/data.txt",
+      "blob": "b6fe747ea54bfbf32b659786eba2dbdc8018eb3f",
+      "sha256": "4b69d16c434de95c56a97311fd3186e55ba2cbd71776a0ef9e75f4ec6660e542",
+      "locator": "data[ind=139], ten literal members",
+      "row": {
+        "ind": 139,
+        "name": "अक्षद्यूतादिः",
+        "sutra": "4.4.19",
+        "vartika": "",
+        "words": "अक्षद्यूत ।जानुप्रहृत । जङ्घाप्रहृत । जङ्घाप्रहत । पादखेदन । कण्टकमर्दन । गतानुगत । गतागत । यातोपयात । अनुगत ॥",
+        "type": "P"
+      }
+    }
+  ],
+  "web_evidence": [
+    {
+      "id": "K",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/4/4.4.19.htm",
+      "locator": "Kāśikā 4.4.19, entire named list and two paradigmatic examples",
+      "use": "Eight direct members including svedana and the inherited instrumental with result condition"
+    },
+    {
+      "id": "BV",
+      "url": "https://sa.wikisource.org/wiki/भाषावृत्तिः/चतुर्थोऽध्यायः/चतुर्थः_पादः",
+      "locator": "revision 355999, 4.4.19 lines 142–143",
+      "use": "Love and task neutrals, with actual jāṅghopaghātika"
+    },
+    {
+      "id": "MW",
+      "url": "https://sanskrit.uohyd.ac.in/SKT/MW/77.html",
+      "locator": "gatānugata and gatānugatika entries",
+      "use": "Distinct base and short-initial three-gender lexical adjective"
+    },
+    {
+      "id": "MW_A",
+      "url": "https://sanskrit.uohyd.ac.in/SKT/MW/28.html",
+      "locator": "ānugatika entry, independently located at the Sanskrit lexicon",
+      "use": "Lexical counterpart to the anugata-derived output"
+    },
+    {
+      "id": "P",
+      "url": "https://sanskritdocuments.org/doc_z_misc_major_works/panchatantra1.pdf",
+      "locator": "Mitrabheda 373, lines 2673–2674",
+      "use": "Short initial gatānugatiko agreeing with masculine lokaḥ"
+    },
+    {
+      "id": "M",
+      "url": "https://vishvasa.github.io/purANam/aitihyam/kAvyam/rUpakam/vishAkhadattaH/mudrArAxasam/",
+      "locator": "Act VI verse 5, separated anvaya near line 6724",
+      "use": "Independent short-initial feminine plural gatānugatikāḥ with prajāḥ"
+    },
+    {
+      "id": "M_B",
+      "url": "https://bharatkosha.org/hi/granth/mudrarakshasa-natakam/adhyay/षष्ठोऽङ्कः-उद्यानप्रवेश-व-मलयकेतुत्याग",
+      "locator": "Act VI verse 5 and commentary, section before print p. 353",
+      "use": "Continuous form before tyaktānurāgāḥ"
+    },
+    {
+      "id": "LEX_SPLIT",
+      "url": "https://akshara.ru/kosha/w/gatAnugatika",
+      "locator": "Apte and Böhtlingk at lines 30 and 34",
+      "use": "Positive reports of gata + anugatika and gata + anugati respectively"
+    },
+    {
+      "id": "LEX_LONG",
+      "url": "https://prayog.pustak.org/index.php/dictionary/word_meaning/ग",
+      "locator": "gātānugatika, line 3411",
+      "use": "Actual long lemma with gatānugata + ṭhak"
+    },
+    {
+      "id": "SCOPE",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/7/7.3.10.htm",
+      "locator": "Kāśikā 7.3.10 and prior link 7.3.9, followed by Nyāsa",
+      "use": "Uttarapada heading for its own series, not a general alternative for 4.4.19"
+    }
+  ],
+  "observations": [
+    "Pinned 139 and Kāśikā member comparison, including svedana/khedana and both shin printings",
+    "Bhāṣāvṛtti's explicit love and task outcomes, with separate positive jāṅghopaghātika head",
+    "Exact short-initial Pañcatantra Mitrabheda 373 and masculine agreement",
+    "Exact short-initial Mudrārākṣasa VI.5 and feminine ā plural with prajāḥ",
+    "Independent short/long lexicographic contrast and Apte/Böhtlingk segmentation reports"
+  ],
+  "decisions": [
+    "Apply ordinary kit first-vowel grade and the result role independently on each positively admitted means, preserving the literal membership selectors.",
+    "Accept the short-initial literary lexical adjective and its gendered cases, preserving the distinct lexicographic accounts and the Open exact historical derivation."
+  ]
+}

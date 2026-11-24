@@ -1,6 +1,8 @@
-# Written-development backlog at PG694
+# Written-development backlog at PG695
 
-Monty · 2026-11-24 · reviewed current parent 24fa1f1f242ae5cbb7ff253702ff2ebf9d1a3b2a. Historical closures below retain their exact pins.
+Monty · 2026-11-24 · reviewed current parent c19eff9f207adc5905275c246519b67c02074b65. Historical closures below retain their exact pins.
+
+PG695 closes the [twelve selected 4.4.19 neuter result fibres and three independent literary lexical fibres](aksadyutadi_nirvrtta_and_attested_gatanugatika/README.md) at 360 nominal positions/374 readings, with two directly checked literary contact records. The source-specific membership alternatives, outcome semantics and actual short/long grade contrast stay explicit. Wider M/F result and accent domains, the lexical short form's exact derivation, historical source-lineage decisions, independent witnesses for other addresses, 4.4.20–21 and C2–C5/S1–S7 remain Open. Claude execution is separate.
 
 PG694 closes the [selected 4.4.18 kuṭilikā/aṇ cases, role policies and local stage control](kutilika_an_roles_and_owned_gender/README.md) at 72 new nominal positions/73 readings and 171 owned paths. The deer and hunter reserve their own control histories. The exact Padamañjarī inner-affix reading and coal ablative provenance stay Open, as do theatre authorial and performance questions, further gender/accents, 4.4.19–21 work, C2–C5/S1–S7 and Claude execution.
 

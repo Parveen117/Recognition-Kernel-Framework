@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG695: [Source-qualified result scope and the independent short lexical adjective](research/panini_grammar/aksadyutadi_nirvrtta_and_attested_gatanugatika/README.md). Typed zero-specialization preserves the two source membership registers, outcome/means separation, whole-member grade and the precise literary case/junction records.
+
 PG694: [Aṇ, competing hunting roles and the stage locative](research/panini_grammar/kutilika_an_roles_and_owned_gender/README.md). Typed zero-specialization preserves the means, actor and target, base-owned ik, aṇ and ṅīp owners, and the case boundary in kuṭilikāntare.
 
 PG693: [Convergent conveyance affix histories and an attested feminine](research/panini_grammar/vivadha_vivadha_owned_conveyance/README.md). The typed word and witness histories distinguish the ṭhak grade, ṣṭhan and ṭhak feminine owners, and the possible readings of Rājataraṅgiṇī 6.308 before the surface quotient.

@@ -2,6 +2,16 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG695 · Akṣadyūtādi outcomes and the short lexical adjective
+
+PG695: [Result adjectives and literary gatānugatika](aksadyutadi_nirvrtta_and_attested_gatanugatika/README.md). The named 4.4.19 membership choices give twelve neuter outcome fibres. Pañcatantra 1.373 and Mudrārākṣasa 6.5 independently supply the short-vowel lexical adjective, with masculine and feminine agreement respectively. The three lexical gender fibres and the outcome fibres add 360 nominal positions and 374 readings. Census 52,323 finite and 8,780 nominal positions/10,360 readings.
+
+Two morphology constructions/15 stem histories, one syntax construction/five records, one junction construction/two records, five observations and two decisions. No new finite positions or readings. The two literary attestations corroborate existing keys within the new lexical fibre and receive no second word credit.
+
+PG521–695 cumulative: 504 finite positions/1,420 net credited finite readings, 3,002 nominal positions/3,617 readings, 269 morphology constructions/2,897 operative interfaces, 125 compound constructions/588 plans, 15 accent constructions/61 records, 151 semantics constructions/440 records, 119 syntax constructions/352 records, 59 source-policy decisions after PG555−1, and 315 observations. Four junction constructions/11 readouts since PG680, four provenance corrections and one proof addendum. PG335 correction and PG357–363 CLOSED preserved.
+
+Unconstructed work and Open source readings retain their separate addresses. Claude retains generators, Sanskrit execution, untouched suites and certificate replay. The containing commit pins this packet.
+
 ## PG694 · Kuṭilikā, reversed actor policies and the stage locative
 
 PG694: [Kuṭilikā, aṇ and the deer/hunter/smith roles](kutilika_an_roles_and_owned_gender/README.md). The named sources reverse actor and target on the hunting frame and agree on the smith's tongs. Bhāṣāvṛtti supplies the feminine ṅīp stem. The separate Act IV stage direction gives the actual compound boundary. Three case fibres add 72 nominal positions and 73 readings. Census 52,323 finite and 8,420 nominal positions/9,986 readings.
