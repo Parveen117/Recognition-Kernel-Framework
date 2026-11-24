@@ -1,0 +1,52 @@
+{
+  "schema": "rkf.panini.pg698.state.v1",
+  "author": "Monty",
+  "date": "2026-11-24",
+  "publication_parent": "7a1ea7c4368508f326014c2bb68baa8a5aae2ab7",
+  "baseline": {
+    "commit": "7a1ea7c4368508f326014c2bb68baa8a5aae2ab7",
+    "path": "research/panini_grammar/atharva_exchange_absolutive_and_debt_sources/STATE.json"
+  },
+  "finite_positions": 52323,
+  "nominal_positions": 9214,
+  "nominal_readings": 10809,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 216,
+  "new_nominal_readings": 223,
+  "new_nominal_role_ending_paths": 298,
+  "new_morphological_constructions": 1,
+  "new_morphological_readouts": 9,
+  "new_semantic_constructions": 1,
+  "new_semantic_readouts": 8,
+  "new_syntactic_constructions": 1,
+  "new_syntactic_readouts": 4,
+  "new_phonological_constructions": 1,
+  "new_phonological_readouts": 1,
+  "new_source_observations": 8,
+  "new_source_policy_decisions": 3,
+  "new_positions": 0,
+  "new_position_readings": 0,
+  "local_closure": "CLOSED for the nine selected fibres, addressed Kāśikā roles and Aruṇadatta agreement, contact and contextual witness",
+  "open_obligations": [
+    "Other condiment and mixture fibres and wording/priority in the other commentary policies.",
+    "Exact paippalika source etymon, khārika sense and source provenance of the short forms.",
+    "C2–C5 and S1–S7 remain Open; execution with Claude."
+  ],
+  "authorization": {
+    "completion_status": "OPEN wider gates",
+    "PG335": "-9 finite/-12 readings preserved",
+    "PG357_PG363": "CLOSED preserved",
+    "continuous_executed_hours_claimed": false
+  },
+  "runtime_policy": {
+    "python": "3.12 only",
+    "document_check_status": "PASS",
+    "document_check_attempts": 1,
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "old_suites": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE"
+  },
+  "grammar_executions": []
+}

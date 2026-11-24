@@ -2,6 +2,16 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG698 · Five curd roles and the attested locative feminine
+
+PG698: [Curd case roles, seasoning and Aruṇadatta’s dādhikī](dadhi_locative_and_seasoning_roles/README.md). Five curd licenses retain distinct support and target roles. Aruṇadatta assigns the feminine porridge to preparation in curd with leaves. Takra belongs to the preceding preparation. Nine selected case fibres add 216 nominal positions and 223 readings on 298 histories. Census 52,323 finite and 9,214 nominal positions/10,809 readings.
+
+One morphology construction/nine stem-role interfaces, one semantic construction/eight role and boundary records, one syntax construction/four records, one junction construction/one record, eight observations and three decisions. No finite positions or readings. Older PG35/36 role contracts and the supporting carati receive no word recredit.
+
+PG521–698 cumulative: 504 finite positions/1,420 net credited finite readings, 3,436 nominal positions/4,066 readings, 274 morphology constructions/2,918 operative interfaces, 126 compound constructions/590 plans, 16 accent constructions/64 records, 152 semantics constructions/448 records, 122 syntax constructions/367 records, 67 source-policy decisions after PG555−1, and 338 observations. Six junction constructions/15 readouts since PG680, four provenance corrections and one proof addendum. PG335 and PG357–363 CLOSED preserved.
+
+The provenance of the short digital readings, exact historical pippalī input and the khārika base stay Open. The different override conditions of 4.4.23–25, broader mixture and seasoning work and C2–C5/S1–S7 remain active. Claude retains execution. The containing commit pins this packet.
+
 ## PG697 · Debt language, borrowing action and case policies
 
 PG697: [Śaunaka and Paippalāda borrowing and debt witnesses](atharva_exchange_absolutive_and_debt_sources/README.md). Direct AVŚ 6.117 and PS 16.49.10/16.50.1 separate earlier borrowing from the debt nominal. PS 17.14.9 supplies the selected joined debt simile case, and TB 3.7.9.8 attests the distinct long-base plural. One new exact Vedic nominal position/reading. Census 52,323 finite and 8,998 nominal positions/10,586 readings.

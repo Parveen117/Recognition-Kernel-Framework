@@ -1,0 +1,394 @@
+{
+  "schema": "rkf.panini.pg698.relation.v1",
+  "formation": {
+    "nominal_affix": "ṭhak",
+    "visible_affix": "ika",
+    "optional_feminine": "ṅīp",
+    "phase_rules": [
+      "1.4.18",
+      "2.4.71",
+      "7.3.50",
+      "7.2.118",
+      "6.4.148",
+      "4.1.15"
+    ],
+    "nominal_tin_voice": null
+  },
+  "roles": [
+    {
+      "id": "LOC",
+      "rule": "4.2.18",
+      "support_case": "loc",
+      "ingredient_role": "adhikaraṇa in curd",
+      "predicate": "saṃskṛta",
+      "root": "1080010",
+      "preverb": "sam",
+      "predicate_affix_and_voice": "kta patient-result"
+    },
+    {
+      "id": "IMP",
+      "rule": "4.4.3",
+      "support_case": "ins",
+      "ingredient_role": "means producing improvement",
+      "predicate": "saṃskṛta",
+      "root": "1080010",
+      "preverb": "sam",
+      "predicate_affix_and_voice": "kta patient-result"
+    },
+    {
+      "id": "EATING",
+      "rule": "4.4.8",
+      "support_case": "ins",
+      "ingredient_role": "edible accompaniment",
+      "predicate": "carati",
+      "root": "1010640",
+      "preverb": null,
+      "predicate_affix_and_voice": "laṭ P kartari 3sg"
+    },
+    {
+      "id": "MIX",
+      "rule": "4.4.22",
+      "support_case": "ins",
+      "ingredient_role": "constituent integrated into result",
+      "predicate": "saṃsṛṣṭa",
+      "root": "1060150",
+      "preverb": "sam",
+      "predicate_affix_and_voice": "kta patient-result"
+    },
+    {
+      "id": "SPRINKLE",
+      "rule": "4.4.26",
+      "support_case": "ins",
+      "ingredient_role": "condiment applied by moistening",
+      "predicate": "upasikta",
+      "root": "1060170",
+      "preverb": "upa",
+      "predicate_affix_and_voice": "kta patient-result"
+    }
+  ],
+  "fibres": [
+    {
+      "id": "DADHI_M",
+      "base": "dadhi",
+      "body": "dādhik",
+      "gender": "m",
+      "roles": [
+        "EATING"
+      ],
+      "nati": false
+    },
+    {
+      "id": "DADHI_F",
+      "base": "dadhi",
+      "body": "dādhik",
+      "gender": "f",
+      "roles": [
+        "LOC"
+      ],
+      "nati": false
+    },
+    {
+      "id": "DADHI_N",
+      "base": "dadhi",
+      "body": "dādhik",
+      "gender": "n",
+      "roles": [
+        "LOC",
+        "IMP",
+        "MIX",
+        "SPRINKLE"
+      ],
+      "nati": false
+    },
+    {
+      "id": "SUPA_M",
+      "base": "sūpa",
+      "body": "saupik",
+      "gender": "m",
+      "roles": [
+        "SPRINKLE"
+      ],
+      "nati": false
+    },
+    {
+      "id": "SUPA_F",
+      "base": "sūpa",
+      "body": "saupik",
+      "gender": "f",
+      "roles": [
+        "SPRINKLE"
+      ],
+      "nati": false
+    },
+    {
+      "id": "SUPA_N",
+      "base": "sūpa",
+      "body": "saupik",
+      "gender": "n",
+      "roles": [
+        "SPRINKLE"
+      ],
+      "nati": false
+    },
+    {
+      "id": "MARICA_N",
+      "base": "marica",
+      "body": "māricik",
+      "gender": "n",
+      "roles": [
+        "MIX"
+      ],
+      "nati": false
+    },
+    {
+      "id": "SRNGAVERA_N",
+      "base": "śṛṅgavera",
+      "body": "śārṅgaverik",
+      "gender": "n",
+      "roles": [
+        "MIX"
+      ],
+      "nati": true
+    },
+    {
+      "id": "PIPPALI_N",
+      "base": "pippalī",
+      "body": "paippalik",
+      "gender": "n",
+      "roles": [
+        "MIX"
+      ],
+      "nati": false
+    }
+  ],
+  "tails": [
+    {
+      "case": "nom",
+      "m": [
+        "aḥ",
+        "au",
+        "āḥ"
+      ],
+      "f": [
+        "ī",
+        "yau",
+        "yaḥ"
+      ],
+      "n": [
+        "am",
+        "e",
+        "āni"
+      ]
+    },
+    {
+      "case": "acc",
+      "m": [
+        "am",
+        "au",
+        "ān"
+      ],
+      "f": [
+        "īm",
+        "yau",
+        "īḥ"
+      ],
+      "n": [
+        "am",
+        "e",
+        "āni"
+      ]
+    },
+    {
+      "case": "ins",
+      "m": [
+        "ena",
+        "ābhyām",
+        "aiḥ"
+      ],
+      "f": [
+        "yā",
+        "ībhyām",
+        "ībhiḥ"
+      ],
+      "n": [
+        "ena",
+        "ābhyām",
+        "aiḥ"
+      ]
+    },
+    {
+      "case": "dat",
+      "m": [
+        "āya",
+        "ābhyām",
+        "ebhyaḥ"
+      ],
+      "f": [
+        "yai",
+        "ībhyām",
+        "ībhyaḥ"
+      ],
+      "n": [
+        "āya",
+        "ābhyām",
+        "ebhyaḥ"
+      ]
+    },
+    {
+      "case": "abl",
+      "m": [
+        "āt/ād",
+        "ābhyām",
+        "ebhyaḥ"
+      ],
+      "f": [
+        "yāḥ",
+        "ībhyām",
+        "ībhyaḥ"
+      ],
+      "n": [
+        "āt/ād",
+        "ābhyām",
+        "ebhyaḥ"
+      ]
+    },
+    {
+      "case": "gen",
+      "m": [
+        "asya",
+        "ayoḥ",
+        "ānām"
+      ],
+      "f": [
+        "yāḥ",
+        "yoḥ",
+        "īnām"
+      ],
+      "n": [
+        "asya",
+        "ayoḥ",
+        "ānām"
+      ]
+    },
+    {
+      "case": "loc",
+      "m": [
+        "e",
+        "ayoḥ",
+        "eṣu"
+      ],
+      "f": [
+        "yām",
+        "yoḥ",
+        "īṣu"
+      ],
+      "n": [
+        "e",
+        "ayoḥ",
+        "eṣu"
+      ]
+    },
+    {
+      "case": "voc",
+      "m": [
+        "a",
+        "au",
+        "āḥ"
+      ],
+      "f": [
+        "i",
+        "yau",
+        "yaḥ"
+      ],
+      "n": [
+        "a",
+        "e",
+        "āni"
+      ]
+    }
+  ],
+  "syntax": [
+    {
+      "id": "CAR",
+      "root": "1010640",
+      "agent": "food consumer",
+      "instrument": "dadhnā",
+      "reading": "carati"
+    },
+    {
+      "id": "AHS_FIRST",
+      "locus": "AHS Cikitsā 9.23",
+      "ingredient": "bilva and the listed ingredients",
+      "substratum": "takre",
+      "host": "first yavāgūḥ"
+    },
+    {
+      "id": "AHS_SECOND",
+      "locus": "AHS Cikitsā 9.23–24",
+      "ingredient": "kapittha and the listed leaves",
+      "substratum": "dadhni",
+      "host": "second yavāgūḥ",
+      "word": "dādhikī",
+      "key": [
+        "DADHI_F",
+        "f",
+        "nom",
+        "sg"
+      ]
+    },
+    {
+      "id": "AHS_TATHA",
+      "locus": "AHS Cikitsā 9.23",
+      "word": "tathā",
+      "link": "shared predicate under Aruṇadatta"
+    }
+  ],
+  "jurisdiction_controls": [
+    {
+      "id": "WATER",
+      "policy": "Kāśikā and Nyāsa",
+      "text": "udakena upasikta odana",
+      "decision": "Excluded under 4.4.26 selected condiment condition"
+    },
+    {
+      "id": "CURD_POT",
+      "policy": "Padamañjarī",
+      "text": "dadhnā saṃsṛṣṭā sthālī",
+      "decision": "Excluded for mere cooking-pot contact in the stated niyama"
+    },
+    {
+      "id": "SOUP_POT",
+      "policy": "Nyāsa and Bālamanoramā",
+      "text": "sūpena saṃsṛṣṭā sthālī",
+      "decision": "Excluded under the same stated niyama"
+    }
+  ],
+  "junction": [
+    {
+      "locus": "AHS Cikitsā 9.23.2",
+      "words": [
+        "yavāgūḥ",
+        "dādhikī"
+      ],
+      "surface": "yavāgūr dādhikī",
+      "operations": [
+        "8.2.66 ru",
+        "8.3.15 guard fails before voiced d"
+      ],
+      "owner": "first word"
+    }
+  ],
+  "open": [
+    "short dadhikaḥ and mārīcika textual provenance and justification",
+    "paippalika exact historical base and wider lexical readings",
+    "khārika etymon and sense",
+    "unnamed mixture classes, priority and genders",
+    "uncomputed accent"
+  ],
+  "counts": {
+    "positions": 216,
+    "readings": 223,
+    "role_ending_paths": 298
+  },
+  "grammar_executions": []
+}

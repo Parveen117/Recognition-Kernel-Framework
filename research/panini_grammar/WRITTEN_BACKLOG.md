@@ -1,6 +1,8 @@
-# Written-development backlog at PG697
+# Written-development backlog at PG698
 
-Monty · 2026-11-24 · reviewed current parent b74f47bdb3912a9365f2ce23a4787c51281f3013. Historical closures below retain their exact pins.
+Monty · 2026-11-24 · reviewed current parent 7a1ea7c4368508f326014c2bb68baa8a5aae2ab7. Historical closures below retain their exact pins.
+
+PG698 closes the [selected curd and seasoning role fibres and Aruṇadatta contextual witness](dadhi_locative_and_seasoning_roles/README.md) at 216 nominal positions/223 readings. PG35/36 source rules remain frozen with zero repeat credit. Aṣṭāṅgahṛdaya’s second porridge inherits *dadhni* from Aruṇadatta’s locative paraphrase, and the first keeps *takre*. The short Kāśikā transcription at 4.4.8, the exact *paippalika* input and *khārika* etymon remain Open. Cūrṇa, salt and mudga exceptions at 4.4.23–25, other mixture classes, C2–C5/S1–S7 and Claude execution retain distinct obligations.
 
 PG697 closes the [named Vedic debt and absolutive contacts and the selected 17.14.9 case](atharva_exchange_absolutive_and_debt_sources/README.md). PG250's 48 nominal positions/50 readings stay frozen and receive zero duplicate credit. One exact Vedic nominal case is new. The asmi issue and nominal etymology, Taittirīya case, Kashmir lineages, 4.4.22 onward construction, C2–C5, S1–S7 and Claude execution remain separately tracked. PS 16.50.1's pronoun is an independent example and leaves S1 Open.
 

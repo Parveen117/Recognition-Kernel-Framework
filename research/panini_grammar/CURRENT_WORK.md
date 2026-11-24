@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG697
+# Pāṇini grammar · current written coverage at PG698
+
+PG698: [Curd case roles, seasoning and Aruṇadatta’s dādhikī](dadhi_locative_and_seasoning_roles/README.md). Five curd licenses retain distinct support and target roles. Aruṇadatta assigns the feminine porridge to preparation in curd with leaves. Takra belongs to the preceding preparation. Nine selected case fibres add 216 nominal positions and 223 readings on 298 histories. Census 52,323 finite and 9,214 nominal positions/10,809 readings.
 
 PG697: [Śaunaka and Paippalāda borrowing and debt witnesses](atharva_exchange_absolutive_and_debt_sources/README.md). Direct AVŚ 6.117 and PS 16.49.10/16.50.1 separate earlier borrowing from the debt nominal. PS 17.14.9 supplies the selected joined debt simile case, and TB 3.7.9.8 attests the distinct long-base plural. One new exact Vedic nominal position/reading. Census 52,323 finite and 8,998 nominal positions/10,586 readings.
 
