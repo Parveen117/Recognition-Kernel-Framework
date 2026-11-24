@@ -1,0 +1,171 @@
+{
+  "schema": "rkf.panini.pg697.relation.v1",
+  "frozen_classical": {
+    "stage": "PG250",
+    "commit": "a05ed72b8f164469a4823398c1a26d768a96fc30",
+    "positions": 48,
+    "readings": 50,
+    "new_positions": 0,
+    "new_readings": 0
+  },
+  "absolutive": {
+    "root": "meṅ",
+    "sense": "praṇidāne, borrowing/exchange",
+    "root_id": "1010942",
+    "preverb": "apa",
+    "affix_history": [
+      "3.4.19 ktvā on the named interpretation",
+      "7.1.37 lyap",
+      "6.4.70 short i option",
+      "6.1.71 tuk"
+    ],
+    "short_i_form": "apamitya",
+    "other_positive_gerund": "apamāya",
+    "tiṅ": null
+  },
+  "scope_policies_4421": {
+    "Nyāsa": "avibhaktika first input under semantic tṛtīyā scope",
+    "Padamañjarī": "first input has no surface tṛtīyā qualification",
+    "Bālamanoramā": "prathamā/avyaya first, tṛtīyā second",
+    "Shastri lesson": "underlying ṭā with luk",
+    "Vasu": "tena is not carried to the avyaya",
+    "result_affixes": [
+      "apamitya+kak",
+      "yācita+kan"
+    ]
+  },
+  "contexts": [
+    {
+      "id": "SS1",
+      "source": "SS",
+      "locus": "6.117.1a",
+      "literal": "apa-mityam apratīttam yat asmi",
+      "class": "debt nominal, sg",
+      "asmi_interpretation": "Open",
+      "reported_edits": [
+        "Whitney/Ludwig admi",
+        "Trivedi as root in taking"
+      ]
+    },
+    {
+      "id": "SS2",
+      "source": "SS",
+      "locus": "6.117.2c",
+      "literal": "apa-mitya dhānyam yat jaghasa aham",
+      "class": "absolutive",
+      "controller": "aham in the grain clause",
+      "order": [
+        "borrow",
+        "eat"
+      ],
+      "object": "dhānyam"
+    },
+    {
+      "id": "PS16_4910",
+      "source": "PS",
+      "locus": "16.49.10",
+      "literal": "apamityam apratītaṃ yad asmi",
+      "class": "debt nominal",
+      "variant": "Whitney's Ppp. apamṛtyum",
+      "closing_act": "jīvann enaḥ prati dadāmi sarvam"
+    },
+    {
+      "id": "PS16_501",
+      "source": "PS",
+      "locus": "16.50.1",
+      "literal": "apamitya dhānyaṃ yaj jaghāsa",
+      "class": "absolutive",
+      "closing_act": "agnir mā tasmād anṛṇaṃ kṛṇotu",
+      "closing_roles": {
+        "agent": "agniḥ",
+        "patient": "mā asmat accusative singular",
+        "result": "anṛṇam",
+        "source": "tasmāt"
+      },
+      "kashmir_report": "Whitney apamṛtyu"
+    },
+    {
+      "id": "PS17_149",
+      "source": "PS+PS17_C",
+      "locus": "17.14.9",
+      "literal": "apa mityam ivābhṛtaṃ",
+      "critical": "apamityam ivābhṛtaṃ",
+      "class": "debt simile",
+      "returned_entities": "tāḥ",
+      "case": "n acc sg",
+      "variant": "K apamṛtyum",
+      "status": "Accepted for the joined lexical reading"
+    },
+    {
+      "id": "TB_3798",
+      "source": "TB+BSS",
+      "locus": "3.7.9.8",
+      "literal": "yāny āpāmityāny apratīttāny asmi",
+      "class": "neuter plural debt nominal",
+      "base": "āpāmitya",
+      "case": "Open"
+    },
+    {
+      "id": "AMARA_PAIR",
+      "source": "AMARA+AMARA_2",
+      "locus": "vaiśyavarga 4cd in the Payer edition",
+      "role_pairs": [
+        [
+          "yācñāprāpta",
+          "yācitaka"
+        ],
+        [
+          "nimayāt",
+          "āpamityaka"
+        ]
+      ],
+      "status": "Accepted lexical roles"
+    }
+  ],
+  "contacts": [
+    {
+      "locus": "SS 6.117.2c",
+      "left": "jaghasa",
+      "right": "aham",
+      "display": "jaghasāham",
+      "rule": "6.1.101"
+    },
+    {
+      "locus": "TB 3.7.9.8",
+      "left": "yāni",
+      "right": "āpāmityāni",
+      "display": "yāny āpāmityāni",
+      "rule": "6.1.77"
+    },
+    {
+      "locus": "TB 3.7.9.8",
+      "left": "āpāmityāni",
+      "right": "apratīttāni",
+      "display": "āpāmityāny apratīttāni",
+      "rule": "6.1.77"
+    }
+  ],
+  "new_case": {
+    "request": "PS17 joined lexical debt under the repaid-debt simile",
+    "root_or_earlier_etymon": "Open",
+    "stem": "apamitya",
+    "gend": "n",
+    "case": "acc",
+    "number": "sg",
+    "reading": "apamityam",
+    "ending": "am under 7.1.24",
+    "juncture": "6.1.107",
+    "source": "PS_17,14.9 and critical edition"
+  },
+  "open": [
+    "Source and case adjudication of asmi in the singular and plural debt formulations",
+    "Underlying derivation of lexical debt apamitya/āpāmitya, Kashmir manuscript semantics and further recensions",
+    "Actual Bhaṭṭi S1 quote and exact lakāra, and taddhita membership of other gerunds"
+  ],
+  "excluded": [
+    "Apply kak or kan to PS debt nominals as if they had the specified 4.4.21 input identity",
+    "Count the independent PS16 pronominal mā as S1 proof",
+    "Infer a finite position from a quoted predicate in these witnesses"
+  ],
+  "grammar_executions": []
+}

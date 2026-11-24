@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG697: [Debt nominal and source-specific borrowing roles](research/panini_grammar/atharva_exchange_absolutive_and_debt_sources/README.md). Typed specialization preserves the witnessed absolutive order, editorial and recensional choices, noun case and exact utterance contacts.
+
 PG696: [Owned suffix and accent transfer in trima-formations](research/panini_grammar/ktri_map_imap_and_shaakala_kritrima/README.md). Typed specialization retains the different i owners, and the Śākala accented form keeps the distinct śi, num and temporary case-owned nasal history.
 
 PG695: [Source-qualified result scope and the independent short lexical adjective](research/panini_grammar/aksadyutadi_nirvrtta_and_attested_gatanugatika/README.md). Typed zero-specialization preserves the two source membership registers, outcome/means separation, whole-member grade and the precise literary case/junction records.

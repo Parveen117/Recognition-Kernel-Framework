@@ -1,6 +1,8 @@
-# Written-development backlog at PG696
+# Written-development backlog at PG697
 
-Monty · 2026-11-24 · reviewed current parent c264842f01febf02223d4396dfcb87f40baeef14. Historical closures below retain their exact pins.
+Monty · 2026-11-24 · reviewed current parent b74f47bdb3912a9365f2ce23a4787c51281f3013. Historical closures below retain their exact pins.
+
+PG697 closes the [named Vedic debt and absolutive contacts and the selected 17.14.9 case](atharva_exchange_absolutive_and_debt_sources/README.md). PG250's 48 nominal positions/50 readings stay frozen and receive zero duplicate credit. One exact Vedic nominal case is new. The asmi issue and nominal etymology, Taittirīya case, Kashmir lineages, 4.4.22 onward construction, C2–C5, S1–S7 and Claude execution remain separately tracked. PS 16.50.1's pronoun is an independent example and leaves S1 Open.
 
 PG696 closes the [selected ktri result profiles, independent pāka–imap and exact Śākala kṛtrímā](ktri_map_imap_and_shaakala_kritrima/README.md) at 217 new nominal positions and 225 readings. It retains named competing i and accent owners, actual Bhaṭṭi compounds and the Sāyaṇa śi-lopa. The other ḍu and imap domains, Classical gender or contexts, further Vedic/affix and source decisions, 4.4.21 and C2–C5/S1–S7 remain Open. These Bhaṭṭi examples do not close the distinct S1 quoted verse. Claude execution is separate.
 

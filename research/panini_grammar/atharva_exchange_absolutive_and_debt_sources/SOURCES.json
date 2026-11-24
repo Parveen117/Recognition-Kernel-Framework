@@ -1,0 +1,153 @@
+{
+  "publication_parent": "b74f47bdb3912a9365f2ce23a4787c51281f3013",
+  "date": "2026-11-24",
+  "project_dependencies": [
+    {
+      "commit": "b74f47bdb3912a9365f2ce23a4787c51281f3013",
+      "path": "research/panini_grammar/ktri_map_imap_and_shaakala_kritrima/STATE.json",
+      "git_blob_sha": "e67fd44ebfae871f427558ef8669360712cd2ee2",
+      "bytes": 1931,
+      "sha256": "42be9f44a15ef4b395fe771b83c3b25bd2de87bc05b7c20cbf5ce631eec4dc83",
+      "use": "PG696 census"
+    },
+    {
+      "commit": "a05ed72b8f164469a4823398c1a26d768a96fc30",
+      "path": "research/panini_grammar/exchange_gerund_and_two_borrowing_nouns/README.md",
+      "git_blob_sha": "317f1dfeb1d62513a5ed2fb3e6aaf1c5d775a3cb",
+      "bytes": 2170,
+      "sha256": "2e9fd3e1af0153cb8ab40b2d4dcdbddaaa5b9f965c6c96e8908d6dc034f08253",
+      "use": "PG250 written prior/next-action policy and local closures"
+    },
+    {
+      "commit": "a05ed72b8f164469a4823398c1a26d768a96fc30",
+      "path": "research/panini_grammar/exchange_gerund_and_two_borrowing_nouns/STATE.json",
+      "git_blob_sha": "7eb7d7a86030b9d28610c1929a3d8e109881600a",
+      "bytes": 3114,
+      "sha256": "4cd6d717b4fd7febb7339eb5a539bdddc7932253ae4f73106edf07e1cb216dc6",
+      "use": "Frozen 48 nominal positions and 50 readings"
+    },
+    {
+      "commit": "a05ed72b8f164469a4823398c1a26d768a96fc30",
+      "path": "research/panini_grammar/exchange_gerund_and_two_borrowing_nouns/RELATION.json",
+      "git_blob_sha": "65a9c05120ad8832f57aeccc9b7de832eb4321b6",
+      "bytes": 4159,
+      "sha256": "9c00ca5ba2d279b519f97ed4e5be1025d4bf55d39c72b9c5c2a5fe32d4e1e070",
+      "use": "Frozen word, source and clause ownership"
+    },
+    {
+      "commit": "a05ed72b8f164469a4823398c1a26d768a96fc30",
+      "path": "research/panini_grammar/exchange_gerund_and_two_borrowing_nouns/NOMINAL_FORMS.tsv",
+      "git_blob_sha": "ebb95570b2517cc44e44fb5efba893e33e37b860",
+      "bytes": 4865,
+      "sha256": "840947369d12fcfe0e7126d9beee7dcdb53dcd41f9310778e09ffbf7d4ea7431",
+      "use": "Two exact nominal fibres, checked before credit"
+    },
+    {
+      "commit": "e27e5a39f750fad441543d6f973d3c05db28d7df",
+      "path": "research/panini_grammar/paippalada_cang_roles_and_ayam_parallel/SOURCES.json",
+      "git_blob_sha": "6aa06477137a4f558125e4889e5b6fe3feb64418",
+      "bytes": 5842,
+      "sha256": "9003d784faa04b7d5804a34b7ee0a3ff517b4f1b139624ff959b6a24bdb06288",
+      "use": "Earlier exact Paippalāda edition address"
+    },
+    {
+      "commit": "b05e46bf78f165e17c4766d6d1179a1699a72fcf",
+      "path": "research/panini_grammar/grammar_construction/NATIVE_OPERATOR_LIFT.md",
+      "git_blob_sha": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+      "bytes": 11855,
+      "sha256": "f52e7f5cf539ef56859b890669ef738848491e4005e73be75baa49c899b5dafd",
+      "use": "Full PG14 operation and history types"
+    },
+    {
+      "commit": "ada439f6ba3109d798b41c216fe7cedc79e60afb",
+      "path": "research/panini_grammar/SUTRAPATHA.tsv",
+      "git_blob_sha": "1840f3b5349b21112ac05a7efaa59705fd4efee0",
+      "bytes": 270179,
+      "sha256": "70dfdfe6ba433b6e211f0f01b078c1b6d13a1ad0938e06fd5789298a04583634",
+      "use": "Frozen rule text and numbers"
+    }
+  ],
+  "web_evidence": [
+    {
+      "id": "SS",
+      "url": "https://vishvasa.github.io/vedAH/atharva/shaunakam/rUDha-saMhitA/sarva-prastutiH/06/117_AnRNyam/",
+      "locator": "6.117.1, pada line 86, Whitney lines 51–77; 6.117.2, Whitney 125–136, pada 143",
+      "use": "Transmitted noun/absolutive contrast and preserved editorial alternatives"
+    },
+    {
+      "id": "PS",
+      "url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/html/sa_paippalAdasaMhitA.htm",
+      "locator": "PS_16,49.10 lines 20656–20659; PS_16,50.1 lines 20662–20665; PS_17,14.9 lines 25484–25487",
+      "use": "Direct normalized witnesses and exact unjoined apa mityam"
+    },
+    {
+      "id": "PS17_C",
+      "url": "https://www.academia.edu/69911966/PhD_Dissertation_PS_17_Anuv%C4%81kas_3_5_6",
+      "locator": "17.14.9 near lines 885–897, apparatus O apamityam and K apamṛtyum",
+      "use": "Adopted joined neuter debt form in the simile and manuscript contrast"
+    },
+    {
+      "id": "TB",
+      "url": "https://vedavms.in/viewer/tb_3_7_achidram_sanskrit.html",
+      "locator": "TB 3.7.9.8 line 437, marked phrase | yāny āpāmityāny apratīttāny asmi |",
+      "use": "Long-initial plural and corresponding two i to y contacts"
+    },
+    {
+      "id": "BSS",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/ind/aind/ved/yvs/baudhss/baudh084.htm",
+      "locator": "Sentence 19 preceding verse 127",
+      "use": "Independent printed locus with same plural and ritual instruction"
+    },
+    {
+      "id": "AMARA",
+      "url": "https://www.payer.de/amarakosa7/amara215a.htm",
+      "locator": "Vaiśyavarga 4cd in the named edition",
+      "use": "Exact pair yācñāprāpta/yācitaka and nimayāt/āpamityaka"
+    },
+    {
+      "id": "AMARA_2",
+      "url": "https://www.cdsharma.in/amarakosha?v=2.9",
+      "locator": "Vaiśyavarga anvaya following kusīda/vṛddhijīvikā",
+      "use": "Corroborating two relation expressions"
+    },
+    {
+      "id": "K21",
+      "url": "https://akshara.ru/sutraani/4/4/21",
+      "locator": "Nyāsa line 198, Padamañjarī line 200, Kaumudī line 201 and Bālamanoramā line 204",
+      "use": "Distinct absence of visible tṛtīyā, actual support or prathamā on the avyaya"
+    },
+    {
+      "id": "SHASTRI",
+      "url": "https://sanskrit.nic.in/msp/upload/digitized_slm_pdf/Shastri/2nd_year/VS_II_05_Path_16_21.pdf",
+      "locator": "4.4.21 between pākima and section 17.4.9.3 dādhikam",
+      "use": "Retains underlying ṭā and its luk in the analytical derivation"
+    },
+    {
+      "id": "ME",
+      "url": "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA611.html",
+      "locator": "Dhātuvṛtti meṅ praṇidāne 942",
+      "use": "Reciprocal exchange/return, distinguish māṅ and meṅ use"
+    },
+    {
+      "id": "OPT",
+      "url": "https://sanskritdocuments.org/learning_tools/sarvanisutrani/6.4.70.htm",
+      "locator": "Nyāsa 6.4.70 and Tattvabodhinī 1587",
+      "use": "Short i and retained ā alternatives, literal source and competing derivation"
+    }
+  ],
+  "observations": [
+    "Śaunaka 6.117.1 pada has debt nominal and transmitted asmi, distinct from Whitney's admi",
+    "Śaunaka 6.117.2 pada has absolutive, shared grain and actor",
+    "Paippalāda 16.49.10 gives the same nominal opening and different final return",
+    "Paippalāda 16.50.1 gives borrowing and independently the pronoun mā with agnir and kṛṇotu",
+    "Paippalāda 17.14.9 direct and critical texts supply the debt simile and split/joined/variant distinction",
+    "TB 3.7.9.8 and Baudhāyana record the separate long-base plural",
+    "Amarakośa gives the two lexical acquisition relations explicitly",
+    "Independent support-case policies in Padamañjarī, Bāla and the Śāstrī lesson"
+  ],
+  "decisions": [
+    "Maintain the different first 4.4.21 support analyses and identical ordered affix outputs without repeating PG250's credit.",
+    "Use the separate Śaunaka and the Paippalāda parallel witnesses per actual case or event role. Keep Kashmir and emendations separately named.",
+    "Adopt the joined short debt nominal in PS 17.14.9 under the cited simile interpretation. Keep the long TB plural and its unresolved case and base lineage separate."
+  ]
+}

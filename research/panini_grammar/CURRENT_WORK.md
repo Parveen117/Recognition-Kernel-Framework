@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG696
+# Pāṇini grammar · current written coverage at PG697
+
+PG697: [Śaunaka and Paippalāda borrowing and debt witnesses](atharva_exchange_absolutive_and_debt_sources/README.md). Direct AVŚ 6.117 and PS 16.49.10/16.50.1 separate earlier borrowing from the debt nominal. PS 17.14.9 supplies the selected joined debt simile case, and TB 3.7.9.8 attests the distinct long-base plural. One new exact Vedic nominal position/reading. Census 52,323 finite and 8,998 nominal positions/10,586 readings.
 
 PG696: [Bound ktri, map/imap and the Śākala kṛtrímā](ktri_map_imap_and_shaakala_kritrima/README.md). The two suffix analyses preserve different owners of i. Sāyaṇa on RV 1.55.6 explicitly assigns ktri accent and Vedic śi-lopa under Map. Six source-named root profiles, pāka–imap and the selected genders add 216 Classical nominal positions/224 readings, plus one Śākala position/reading. Census 52,323 finite and 8,997 nominal positions/10,585 readings.
 
