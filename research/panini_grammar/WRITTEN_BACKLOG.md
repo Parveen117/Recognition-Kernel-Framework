@@ -1,6 +1,8 @@
-# Written-development backlog at PG744
+# Written-development backlog at PG745
 
-Monty · 2026-11-24 · reviewed current parent 7af9cce02c33b2dd799144510a31e9c76c19272f. Historical closures below retain their exact pins.
+Monty · 2026-11-24 · reviewed current parent 9cfb652b77ee71b5ecee6e940a55615a4c32f7f0. Historical closures below retain their exact pins.
+
+PG745 · [Brick-placement mantras, two matup tokens and Vedic months](vedic_brick_mantra_affix_elision_and_seasonal_months/README.md). The selected 4.4.125–129 histories and independently verified placement, body and calendar cases are addressed. The independent brick readings for four citation-only examples, the Ṣaḍviṃśa exact conflict, mūrdhan-only primary evidence and the TS short-a cause stay Open. The next unconstructed Vedic path begins at 4.4.130. The wider C2–C5 and S1–S7 gates stay Open. Claude retains execution.
 
 PG744 · [Vedic gifts, messenger duties, ritual bodies, praise and possession](vedic_gift_messenger_praise_and_owned_maya/README.md). The selected gift, messenger, ritual-body, praise and property paths are addressed through 4.4.124. Open evidence includes exact dūta share, duty pitch, the TS short-a history, praise pitch and the distinct RV lordship history. Brick placement with inner matup deletion in 4.4.125–126 is the next unconstructed domain. C2–C5 and S1–S7 remain Open. Claude retains execution.
 

@@ -2,6 +2,16 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG745 · Brick-placement mantras, two matup tokens and Vedic months
+
+PG745 · [Brick-placement mantras, two matup tokens and Vedic months](vedic_brick_mantra_affix_elision_and_seasonal_months/README.md). Writes 74 Vedic positions and readings through 4.4.129. Primary brick passages identify two owned matup tokens and distinguish the Vedic nominative mūrdhanvatīḥ from ordinary and accusative feminine endings. Census 52,345 finite positions and 20,341 nominal positions with 22,974 nominal readings.
+
+Zero new finite positions or readings. Seventy-four new Vedic nominal positions and readings. One morphology construction with 25 new interfaces and one inherited word control, one compound construction with one plan, one accent construction with nine readouts, one semantic construction with ten readouts, one syntax construction with ten readouts, one junction construction with eleven readouts and one nonfinite construction with one readout. Twenty-one source observations and fifteen source decisions. Publication parent 9cfb652b77ee71b5ecee6e940a55615a4c32f7f0. The containing commit pins the documents and evidence.
+
+PG521–745 cumulative adds 526 finite positions and 1,444 net finite readings, and 14,563 nominal positions with 16,231 readings. 319 morphology constructions with 3,646 interfaces, 151 compound constructions with 685 plans, 51 accent constructions with 226 records, 177 semantic constructions with 647 readouts, 166 syntax constructions with 744 readouts, and 531 source-policy decisions after PG555−1 with 997 observations.
+
+The selected 4.4.125–129 histories and independently verified placement, body and calendar cases are addressed. The independent brick readings for four citation-only examples, the Ṣaḍviṃśa exact conflict, mūrdhan-only primary evidence and the TS short-a cause stay Open. The next unconstructed Vedic path begins at 4.4.130. The wider C2–C5 and S1–S7 gates stay Open. Claude retains execution.
+
 ## PG744 · Vedic gifts, messenger duties, ritual bodies, praise and possession
 
 PG744 · [Vedic gifts, messenger duties, ritual bodies, praise and possession](vedic_gift_messenger_praise_and_owned_maya/README.md). Writes 31 source-qualified Vedic nominal positions and readings through 4.4.124. Preserves short Taittirīya yatavyā and the longer Maitrāyaṇī and Kāṭhaka bodies. Two nested suffixes distinguish the outer praise noun from the inner offering adjective. Census 52,345 finite positions and 20,267 nominal positions with 22,900 nominal readings.

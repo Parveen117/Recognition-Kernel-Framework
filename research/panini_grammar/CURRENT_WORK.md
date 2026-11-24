@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG744
+# Pāṇini grammar · current written coverage at PG745
+
+PG745 · [Brick-placement mantras, two matup tokens and Vedic months](vedic_brick_mantra_affix_elision_and_seasonal_months/README.md). Writes 74 Vedic positions and readings through 4.4.129. Primary brick passages identify two owned matup tokens and distinguish the Vedic nominative mūrdhanvatīḥ from ordinary and accusative feminine endings. Census 52,345 finite positions and 20,341 nominal positions with 22,974 nominal readings.
 
 PG744 · [Vedic gifts, messenger duties, ritual bodies, praise and possession](vedic_gift_messenger_praise_and_owned_maya/README.md). Writes 31 source-qualified Vedic nominal positions and readings through 4.4.124. Preserves short Taittirīya yatavyā and the longer Maitrāyaṇī and Kāṭhaka bodies. Two nested suffixes distinguish the outer praise noun from the inner offering adjective. Census 52,345 finite positions and 20,267 nominal positions with 22,900 nominal readings.
 

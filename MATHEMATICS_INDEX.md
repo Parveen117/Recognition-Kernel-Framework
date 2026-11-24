@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG745 · [Brick-placement mantras, two matup tokens and Vedic months](research/panini_grammar/vedic_brick_mantra_affix_elision_and_seasonal_months/README.md). The PG14 lift tracks inner affix deletion, marker-sensitive outer affixes, observed case and co-recitation. Typed specialization respects the owner and visibility of every token.
+
 PG744 · [Vedic gifts, messenger duties, ritual bodies, praise and possession](research/panini_grammar/vedic_gift_messenger_praise_and_owned_maya/README.md). The PG14 history lift retains the six support domains, inner and outer suffix owners, and source-qualified realization. Typed zero specialization commutes with their ordered composition and case readouts.
 
 PG743 · [Shared origin, the four agra paths and Vedic sea and cloud cases](research/panini_grammar/vedic_shared_origin_front_position_and_sea_cloud_cases/README.md). Different source roles, recensional accent policies and lopa traces stay typed through the PG14 history lift. Augmentation preserves the selection graph and commutes with the case and accent maps.
