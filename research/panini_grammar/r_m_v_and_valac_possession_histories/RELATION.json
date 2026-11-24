@@ -1,0 +1,43 @@
+{
+  "stage":"PG800",
+  "morphology_constructions":[
+    {"id":"RESTRICTED_R_QUARTET","rule":"5.2.107","interfaces":["U107","S107","M107","MD107"]},
+    {"id":"KHA_MUKHA_KUNJA_R","rule":"5.2.107 supplement","interfaces":["KH107","MK107","KJ107"]},
+    {"id":"NAGA_PAMSU_PANDU_R","rule":"5.2.107 supplement","interfaces":["NG107","PS107","PD107"]},
+    {"id":"KACCHU_SHORT_R","rule":"5.2.107 supplement","interfaces":["KC107"]},
+    {"id":"LEXICAL_M_PAIR","rule":"5.2.108","interfaces":["DY108","DR108"]},
+    {"id":"KESHA_FOUR_WAY","rule":"5.2.109","interfaces":["KS109"]},
+    {"id":"FURTHER_V_BASES","rule":"5.2.109 supplement","interfaces":["MN109","HR109","KR109","KM109","KJ109","RJ109","IS109","BM109"]},
+    {"id":"ARNAS_LOPA_V","rule":"5.2.109 supplement","interfaces":["AN109"]},
+    {"id":"VEDIC_POSSESSION_ROUTES","rule":"5.2.109 supplement","interfaces":["RT109","SM109","MG109","UD109"]},
+    {"id":"MEDHA_RATHA_IR","rule":"5.2.109 supplement","interfaces":["ME109","RA109"]},
+    {"id":"NAMED_BOW_V","rule":"5.2.110","interfaces":["GD110","AJ110"]},
+    {"id":"ORDERED_IRAN_IRAC","rule":"5.2.111","interfaces":["KD111","AD111"]},
+    {"id":"GUARDED_VALAC","rule":"5.2.112","interfaces":["R112","K112","A112","P112"]},
+    {"id":"SUPPLEMENTAL_VALAC","rule":"5.2.112 supplement","interfaces":["B112","PU112","PI112","UT112"]}
+  ],
+  "nominal_positions":[
+    {"id":"U107","readings":["ūṣaraṃ kṣetram"]},{"id":"S107","readings":["suṣiraṃ kāṣṭham"]},{"id":"M107","readings":["muṣkaraḥ paśuḥ"]},{"id":"MD107","readings":["madhuro guḍaḥ"]},
+    {"id":"KH107","readings":["kharaḥ"]},{"id":"MK107","readings":["mukharaḥ"]},{"id":"KJ107","readings":["kuñjaraḥ"]},{"id":"NG107","readings":["nagaram"]},{"id":"PS107","readings":["pāṃsuram"]},{"id":"PD107","readings":["pāṇḍuram"]},{"id":"KC107","readings":["kacchuram"]},
+    {"id":"DY108","readings":["dyumaḥ"]},{"id":"DR108","readings":["drumaḥ"]},
+    {"id":"KS109","readings":["keśavaḥ","keśī","keśikaḥ","keśavān"]},
+    {"id":"MN109","readings":["maṇivaḥ"]},{"id":"HR109","readings":["hiraṇyavaḥ"]},{"id":"KR109","readings":["kurarāvaḥ [K]","kararāvaḥ [Vasu]"]},{"id":"KM109","readings":["kumārāvaḥ"]},{"id":"KJ109","readings":["kuñjāvaḥ"]},{"id":"RJ109","readings":["rājīvam"]},{"id":"IS109","readings":["iṣṭakāvaḥ"]},{"id":"BM109","readings":["bimbāvaḥ"]},
+    {"id":"AN109","readings":["arṇavaḥ"]},{"id":"RT109","readings":["rathīḥ"]},{"id":"SM109","readings":["sumaṅgalīḥ"]},{"id":"MG109","readings":["maghavān"]},{"id":"UD109","readings":["udvā","udvatī"]},{"id":"ME109","readings":["medhiraḥ"]},{"id":"RA109","readings":["rathiraḥ"]},
+    {"id":"GD110","readings":["gāṇḍīvam dhanur","gāṇḍivam dhanur"]},{"id":"AJ110","readings":["ajagavaṃ dhanur"]},
+    {"id":"KD111","readings":["kāṇḍīraḥ"]},{"id":"AD111","readings":["aṇḍīraḥ [K]","āṇḍīraḥ [Vasu]"]},
+    {"id":"R112","readings":["rajasvalā strī"]},{"id":"K112","readings":["kṛṣīvalaḥ kuṭumbī"]},{"id":"A112","readings":["āsutīvalaḥ śauṇḍikaḥ"]},{"id":"P112","readings":["pariṣadvalo rājā"]},
+    {"id":"B112","readings":["bhrātṛvalaḥ"]},{"id":"PU112","readings":["putravalaḥ"]},{"id":"PI112","readings":["pitṛvalaḥ [Vasu only]"]},{"id":"UT112","readings":["utsāhavalaḥ"]}
+  ],
+  "source_policy_decisions":[
+    {"id":"R_NAMED_RELATIONS","status":"Accepted/Excluded","decision":"Accept the displayed r outputs on their named referents; exclude generic salt or honey possession from this r branch only."},
+    {"id":"R_SUPPLEMENTS","status":"Accepted/Open","decision":"Accept the displayed supplement outputs; broader productivity remains Open."},
+    {"id":"RUDHI_M","status":"Accepted/Excluded","decision":"Accept dyuma and druma as lexicalized m outputs and exclude alternate matup only for these two rūḍhi words."},
+    {"id":"KESHA_ALTERNATIVES","status":"Accepted","decision":"Retain v, ini, ṭhan and matup as four owned alternatives for keśa."},
+    {"id":"V_SOURCE_FORK","status":"Accepted/Open","decision":"Retain Kāśikā kurarāva and Vasu kararāva under separate source labels; priority remains Open."},
+    {"id":"LOPA_AND_VEDIC_OWNERS","status":"Accepted/Open","decision":"Accept arṇas lopa and displayed Vedic affix routes; wider recitational and accent derivations remain Open."},
+    {"id":"BOW_NAME_GUARD","status":"Accepted","decision":"Accept long and short Gāṇḍīva name readings and the separate Ajagava bow only in the name domain."},
+    {"id":"ORDERED_IR_OWNER","status":"Accepted/Open","decision":"Assign īran to kāṇḍa and īrac to aṇḍa by order; retain Vasu āṇḍīra priority Open."},
+    {"id":"VALAC_REFERENTS","status":"Accepted/Excluded","decision":"Accept the four displayed valac referents; ordinary dust in a village is excluded from this guarded branch."},
+    {"id":"VASU_PITRVALA","status":"Accepted/Open","decision":"Accept pitṛvala as a Vasu-only displayed supplement without treating it as shared Kāśikā evidence."}
+  ]
+}

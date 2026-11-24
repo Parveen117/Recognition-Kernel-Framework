@@ -2,6 +2,12 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG800 · R, m and v possession histories, named bows and valac roles
+
+PG800 · [R, m and v possession histories, named bows and valac roles](r_m_v_and_valac_possession_histories/README.md). Constructs selected 5.2.107–112 outputs with 41 new nominal positions and 48 readings. Finite positions/readings increase by zero. Fourteen constructions/41 interfaces, zero new source observations and ten decisions. Census: 52,357 finite positions, 21,611 nominal positions and 24,465 nominal readings.
+
+Parent `cf7a136a814d2ddd2ea88ec0a5625d2eca1305da`. The containing commit pins this packet. Displayed outputs, guards and source-labelled alternatives are CLOSED. Critical priority of `kurarāva/kararāva` and `aṇḍīra/āṇḍīra`, complete paradigms, accent and historical productivity remain Open. Continue from 5.2.113. C2–C5 and S1–S7 remain Open; S5 is 99/103 and S6 retains the independent 5.56 k-it effect. Claude retains execution, generators, untouched suites and replay.
+
 ## PG799 · Paired possession affixes, locality and projecting teeth
 
 PG799 · [Paired possession affixes, locality and projecting teeth](paired_possession_affixes_locality_and_projecting_teeth/README.md). Constructs selected 5.2.101–106 surfaces with 18 new nominal positions and 32 readings. Finite positions/readings increase by zero. Eight constructions/18 interfaces, zero new source observations and seven decisions. Census: 52,357 finite positions, 21,570 nominal positions and 24,417 nominal readings.

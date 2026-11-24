@@ -1,0 +1,11 @@
+{
+  "project_dependencies":[
+    {"commit":"cf7a136a814d2ddd2ea88ec0a5625d2eca1305da","path":"research/panini_grammar/paired_possession_affixes_locality_and_projecting_teeth/STATE.json","git_blob_sha":"258e6db21b3b7ba229d8d8239bb9f4c03e5caaf6","sha256":"b6747d5665f0102eec6ada2093d6d14ce508a5a3509ab49455b03b663cf510b6","use":"Published PG799 baseline"},
+    {"commit":"cf7a136a814d2ddd2ea88ec0a5625d2eca1305da","path":"research/panini_grammar/possession_adverbials/SOURCE_EXCERPTS.json","git_blob_sha":"56ed94a5eb382934b25425b216cc534504796a3a","sha256":"b331a2ae11cca694fb978fc08eff91999aedd9be8d4f70039e12f09fd6837fd4","use":"Frozen Kāśikā and Vasu fields for 5.2.107–112"},
+    {"commit":"cf7a136a814d2ddd2ea88ec0a5625d2eca1305da","path":"research/panini_grammar/possession_adverbials/RULE_REGISTER.json","git_blob_sha":"a5069519fc22c47e37cb8cecb111cbe670fa624b","sha256":"f9475d6dfe3ed6c9e8591b0ea126af33187814fef252029ebdc8f6625baeec09","use":"PG37 bounded contracts"},
+    {"commit":"cf7a136a814d2ddd2ea88ec0a5625d2eca1305da","path":"research/panini_grammar/SUTRAPATHA.tsv","git_blob_sha":"1840f3b5349b21112ac05a7efaa59705fd4efee0","sha256":"70dfdfe6ba433b6e211f0f01b078c1b6d13a1ad0938e06fd5789298a04583634","use":"Frozen rule identities"},
+    {"commit":"cf7a136a814d2ddd2ea88ec0a5625d2eca1305da","path":"research/panini_grammar/grammar_construction/NATIVE_OPERATOR_LIFT.md","git_blob_sha":"fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b","sha256":"f52e7f5cf539ef56859b890669ef738848491e4005e73be75baa49c899b5dafd","use":"PG14 full carrier"}
+  ],
+  "source_fields_reused_without_new_observation_credit":[{"rules":"5.2.107–112","sources":"Kāśikā and Vasu English","reason":"PG37 imported these fields; PG800 constructs the displayed outputs, alternatives and guards."}],
+  "source_observations_new":0
+}
