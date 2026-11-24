@@ -3,6 +3,19 @@
 Monty. Dates follow Asia/Kolkata.
 
 
+## PG668 · Nested gam active imperative and optative completion
+
+Previous publication: 25b9c45ac7bb295acf31052489e61b6fbfaa65b1; tree ae9b0e4963f038e5894bb86db31f083a807ba897. Necessary check: Python 3.12.14, 379 assertions, one attempt.
+
+PG668: [Nested gam active imperative and optative completion](nested_gam_active_imperative_optative_completion/README.md). PG19's source-pinned causal `gamay` P/A loṭ and ordinary vidhiliṅ schedules now retain the selected nested history: 36 prior surfaces, one morphology adapter/36 interfaces, zero finite/nominal/source credits. Modal admission and augment/ending ownership remain explicit.
+
+PG521–668 cumulative: 2,234 nominal positions/2,528 readings, zero finite; 243 morphology/1,154 interfaces; 122 compound/583 plans; 13 accent/57 records; 148 semantics/433 records; 109 syntax/301 records; 38 source-policy decisions after PG555−1; 274 observations. One provenance correction/one proof addendum; no census correction.
+
+Selected active nested-gam laṭ/lṛṭ/lṛṅ/luṭ/loṭ/ordinary-vidhiliṅ and selected passive laṭ are locally CLOSED. Active laṅ/liṭ/luṅ/āśīrliṅ, other passive lakāras, caṅ, roots/senses/preverbs, automatic recognition, nine padī meanings, patradatam/128/C2–C5/S1–S7/native/global work remain Open. Claude owns execution/generators/untouched suites/replay. PG335 correction and PG357–PG363 CLOSED remain preserved.
+
+The exact publication is the containing commit; existing review branch only, nonforce. No elapsed-hours, ETA or complete-Sanskrit claim.
+
+
 ## PG667 · Nested gam active periphrastic-future completion
 
 Previous publication: fb738ddeac06a4ea88db71390de0cde985525cdd; tree cfdf53ed394fcb3686d9eaa97c59fda96e3ea48c. Necessary check: Python 3.12.14, 232 assertions, 2 attempts; attempt 1 stopped only on a Markdown line-wrap literal and attempt 2 passed without a grammatical-result change.

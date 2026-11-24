@@ -1,6 +1,8 @@
-# Written-development backlog at PG667
+# Written-development backlog at PG668
 
-Monty · 2026-11-24 · reviewed current parent fb738ddeac06a4ea88db71390de0cde985525cdd; historical closures below retain their exact original pins.
+Monty · 2026-11-24 · reviewed current parent 25b9c45ac7bb295acf31052489e61b6fbfaa65b1; historical closures below retain their exact original pins.
+
+PG668 closes selected active nested-gam loṭ/ordinary-vidhiliṅ: 36 PG19 surface controls lifted through H1/H2 and D/Y/V ownership, one morphology adapter/36 interfaces, zero finite/source credit. Mood admission stays bounded; loṭ uttama āṭ, ordinary modal augments and H2 are not merged. Active laṅ/liṭ/luṅ/āśīrliṅ, all passive outer lakāras, caṅ and wider lexical/semantic/native work remain unconstructed. Census unchanged at 51,819 finite; 8,012 nominal positions/9,271 readings.
 
 PG667 closes the selected active nested-gam luṭ layer: 18 P/A interfaces from PG17 `gamayit` and PG16's ending partition, one morphology adapter and zero finite/source credit. The three shared third-person surfaces retain distinct original-pada histories; suffix/ending ownership remains explicit. Active liṭ/luṅ/āśīrliṅ and present-system continuations, all passive outer lakāras, caṅ and wider lexical/semantic/native work remain unconstructed. Census unchanged at 51,819 finite; 8,012 nominal positions/9,271 readings.
 
