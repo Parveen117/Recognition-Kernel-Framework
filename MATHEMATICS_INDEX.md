@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG757 · [Deserving, sacrificial fitness and priestly work](research/panini_grammar/deserving_marker_histories_and_ritual_fitness/README.md). PG14 recovery preserves the source of the suffix, the ordered pair, activity and attestation layer.
+
 PG756 · [Nine measures of Indra’s team, class sizes and two Brāhmaṇa titles](research/panini_grammar/decades_harnessed_horses_and_measured_book_names/README.md). PG14 recovery preserves the count, singular numeral, plural referents and named-text guard.
 
 PG755 · [Measures of study, half-months and the twenty Aṅgiras seers](research/panini_grammar/measured_study_calendar_months_and_twenty_angiras_seers/README.md). Typed PG14 recovery preserves what is measured, the numbered affix, the governing clause and its source.

@@ -1,6 +1,8 @@
-# Written-development backlog at PG756
+# Written-development backlog at PG757
 
-Monty · 2026-11-24 · reviewed parent a2cc20f51fbb092758c43936e2151603409786a5. Historical closures below retain their exact pins.
+Monty · 2026-11-24 · reviewed parent efd3182b253041e5cae80c393fd0e1e5b16073e0. Historical closures below retain their exact pins.
+
+PG757 · [Deserving, sacrificial fitness and priestly work](deserving_marker_histories_and_ritual_fitness/README.md). The precise primary verse loci for the complete 5.1.67 udakyā and gartya examples remain Open. The marker divergence at 66 remains edition-qualified. Continue with the changed predicate at 5.1.72, distances and path instrumentals through 77. C2–C5 and S1–S7 remain Open.
 
 PG756 · [Nine measures of Indra’s team, class sizes and two Brāhmaṇa titles](decades_harnessed_horses_and_measured_book_names/README.md). The independent application of the two 5.1.62 names to particular extant books and the exact source of PG755’s seven-group creation quotation remain Open. Continue 5.1.63–71, carrying the deserving predicate through its lexical exceptions until the inner suffix scope actually ends. Existing earlier deserving or Vedic case credits must be checked before additions. C2–C5 and S1–S7 remain Open.
 

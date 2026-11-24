@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG756
+# Pāṇini grammar · current written coverage at PG757
+
+PG757 · [Deserving, sacrificial fitness and priestly work](deserving_marker_histories_and_ritual_fitness/README.md). Builds the 5.1.63–71 case evidence, including Sāyaṇa’s named gha, Jayamaṅgalā’s interpretation of Bhaṭṭi 2.29 and the Sanskrit chāyā in Mālavikāgnimitra V. Census: 52,345 finite positions, 20,636 nominal positions and 23,327 nominal readings.
 
 PG756 · [Nine measures of Indra’s team, class sizes and two Brāhmaṇa titles](decades_harnessed_horses_and_measured_book_names/README.md). Derives 5.1.59–60 and 62 using the nine instrumental singulars of RV 2.18.5–6, the Śatapatha five-offering passage and the named book cases. Census: 52,345 finite positions, 20,608 nominal positions and 23,294 nominal readings.
 

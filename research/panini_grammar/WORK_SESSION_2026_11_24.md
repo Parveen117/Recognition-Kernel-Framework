@@ -2,6 +2,12 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG757 · Deserving, sacrificial fitness and priestly work
+
+PG757 · [Deserving, sacrificial fitness and priestly work](deserving_marker_histories_and_ritual_fitness/README.md). Builds the 5.1.63–71 case evidence, including Sāyaṇa’s named gha, Jayamaṅgalā’s interpretation of Bhaṭṭi 2.29 and the Sanskrit chāyā in Mālavikāgnimitra V. 28 new nominal positions and 33 readings. Finite positions and readings both increased by zero. One written morphology construction with 25 interfaces, 15 source observations and 6 source decisions. Census: 52,345 finite positions, 20,636 nominal positions and 23,327 nominal readings.
+
+Parent efd3182b253041e5cae80c393fd0e1e5b16073e0. The containing commit pins this packet. The precise primary verse loci for the complete 5.1.67 udakyā and gartya examples remain Open. The marker divergence at 66 remains edition-qualified. Continue with the changed predicate at 5.1.72, distances and path instrumentals through 77. C2–C5 and S1–S7 remain Open. Claude retains execution.
+
 ## PG756 · Nine measures of Indra’s team, class sizes and two Brāhmaṇa titles
 
 PG756 · [Nine measures of Indra’s team, class sizes and two Brāhmaṇa titles](decades_harnessed_horses_and_measured_book_names/README.md). Derives 5.1.59–60 and 62 using the nine instrumental singulars of RV 2.18.5–6, the Śatapatha five-offering passage and the named book cases. 19 new nominal positions and 21 readings. Finite positions and readings both increased by zero. One written morphology construction with 18 interfaces, 11 source observations and 5 source decisions. Census: 52,345 finite positions, 20,608 nominal positions and 23,294 nominal readings.

@@ -1,0 +1,438 @@
+{
+  "stage": "PG757",
+  "morphology_interfaces": [
+    {
+      "id": "PARA",
+      "base": "śvetacchatra",
+      "guard": "ordinary deserving",
+      "affix": "ṭhak",
+      "result": "śvaitacchatrika"
+    },
+    {
+      "id": "PAIR",
+      "base": "vastrayugma",
+      "guard": "ordinary deserving",
+      "affix": "ṭhak",
+      "result": "vāstrayugmika"
+    },
+    {
+      "id": "CHED",
+      "base": "cheda",
+      "guard": "constant deserving",
+      "affix": "ṭhak",
+      "result": "chaidika"
+    },
+    {
+      "id": "BHED",
+      "base": "bheda",
+      "guard": "constant deserving",
+      "affix": "ṭhak",
+      "result": "bhaidika"
+    },
+    {
+      "id": "VIR",
+      "base": "virāga",
+      "guard": "gaṇa member with constant deserving",
+      "affix": "viraṅga then ṭhak",
+      "result": "vairaṅgika"
+    },
+    {
+      "id": "HY",
+      "base": "śiras + cheda",
+      "guard": "qualified compound and suffix co-occur",
+      "affix": "śīrṣa then yat",
+      "result": "śīrṣacchedya"
+    },
+    {
+      "id": "HT",
+      "base": "śiras + cheda",
+      "guard": "qualified compound and suffix co-occur",
+      "affix": "śīrṣa then ṭhak",
+      "result": "śairṣacchedika"
+    },
+    {
+      "id": "D",
+      "base": "daṇḍa",
+      "guard": "daṇḍādi deserving",
+      "affix": "yat adopted, ya in Kāśikā wording",
+      "result": "daṇḍya"
+    },
+    {
+      "id": "M",
+      "base": "musala",
+      "guard": "daṇḍādi deserving",
+      "affix": "same source-specific assignment",
+      "result": "musalya"
+    },
+    {
+      "id": "NEG",
+      "base": "nañ + daṇḍya",
+      "guard": "negative contrast in verse",
+      "affix": "nañ compound",
+      "result": "adaṇḍya"
+    },
+    {
+      "id": "W",
+      "base": "udaka",
+      "guard": "Chandas example",
+      "affix": "yat",
+      "result": "udakya"
+    },
+    {
+      "id": "YU",
+      "base": "yūpa",
+      "guard": "suitable for a post",
+      "affix": "yat in K67, further ritual lexical use",
+      "result": "yūpya"
+    },
+    {
+      "id": "GA",
+      "base": "garta",
+      "guard": "Chandas example",
+      "affix": "yat",
+      "result": "gartya"
+    },
+    {
+      "id": "PG",
+      "base": "pātra",
+      "guard": "eligible for pātra",
+      "affix": "ghan",
+      "result": "pātriya"
+    },
+    {
+      "id": "PY",
+      "base": "pātra",
+      "guard": "same relation",
+      "affix": "yat",
+      "result": "pātrya"
+    },
+    {
+      "id": "FC",
+      "base": "kaḍaṅkara",
+      "guard": "deserving this feed",
+      "affix": "cha",
+      "result": "kaḍaṅkarīya"
+    },
+    {
+      "id": "FY",
+      "base": "kaḍaṅkara",
+      "guard": "same feed",
+      "affix": "yat",
+      "result": "kaḍaṅkarya"
+    },
+    {
+      "id": "DC",
+      "base": "dakṣiṇā",
+      "guard": "worthy of fee",
+      "affix": "cha",
+      "result": "dakṣiṇīya"
+    },
+    {
+      "id": "DY",
+      "base": "dakṣiṇā",
+      "guard": "worthy of fee",
+      "affix": "yat",
+      "result": "dakṣiṇya"
+    },
+    {
+      "id": "PC",
+      "base": "sthālībila",
+      "guard": "fitness for cooking",
+      "affix": "cha",
+      "result": "sthālībilīya"
+    },
+    {
+      "id": "PR",
+      "base": "sthālībila",
+      "guard": "same fitness",
+      "affix": "yat",
+      "result": "sthālībilya"
+    },
+    {
+      "id": "Y",
+      "base": "yajña",
+      "guard": "deserving",
+      "affix": "gha",
+      "result": "yajñiya"
+    },
+    {
+      "id": "R",
+      "base": "ṛtvij",
+      "guard": "deserving",
+      "affix": "khañ",
+      "result": "ārtvijīna"
+    },
+    {
+      "id": "YA",
+      "base": "yajña",
+      "guard": "fitness for its activity",
+      "affix": "gha",
+      "result": "yajñiya"
+    },
+    {
+      "id": "RA",
+      "base": "ṛtvij",
+      "guard": "fitness for priestly activity",
+      "affix": "khañ",
+      "result": "ārtvijīna"
+    }
+  ],
+  "nominal_positions": [
+    {
+      "id": "PARA",
+      "source": "K63",
+      "input_history": "PARA",
+      "case_number": "M NOMsg",
+      "word": "śvaitacchatrikaḥ",
+      "interpretation": "The person who merits the white parasol."
+    },
+    {
+      "id": "PAIR",
+      "source": "K63",
+      "input_history": "PAIR",
+      "case_number": "M NOMsg",
+      "word": "vāstrayugmikaḥ",
+      "interpretation": "One deserving a pair of garments."
+    },
+    {
+      "id": "CHED",
+      "source": "K63",
+      "input_history": "CHED",
+      "case_number": "M NOMsg",
+      "word": "chaidikaḥ",
+      "interpretation": "Continual deserving is a property of the referent."
+    },
+    {
+      "id": "BHED",
+      "source": "K63",
+      "input_history": "BHED",
+      "case_number": "M NOMsg",
+      "word": "bhaidikaḥ",
+      "interpretation": "The second named member under that same qualification."
+    },
+    {
+      "id": "VIR",
+      "source": "K63",
+      "input_history": "VIR",
+      "case_number": "M NOMsg",
+      "word": "vairaṅgikaḥ",
+      "interpretation": "Gated member substitution viraṅga."
+    },
+    {
+      "id": "HEAD",
+      "source": "K65",
+      "input_history": "HY/HT",
+      "case_number": "M NOMsg",
+      "word": "śīrṣacchedyaḥ / śairṣacchedikaḥ",
+      "interpretation": "Two derivations on the specially shaped compound."
+    },
+    {
+      "id": "DAND",
+      "source": "K66",
+      "input_history": "D",
+      "case_number": "M NOMsg",
+      "word": "daṇḍyaḥ",
+      "interpretation": "Ordinary deserving. The unaccented word cannot decide the marker."
+    },
+    {
+      "id": "MUS",
+      "source": "K66",
+      "input_history": "M",
+      "case_number": "M NOMsg",
+      "word": "musalyaḥ",
+      "interpretation": "Second Kāśikā example for the same source-policy fork."
+    },
+    {
+      "id": "DOBJ",
+      "source": "MAN",
+      "input_history": "D",
+      "case_number": "M ACCpl",
+      "word": "daṇḍyān",
+      "interpretation": "Object of the negative participle; the verse joins final n to following ca."
+    },
+    {
+      "id": "NOBJ",
+      "source": "MAN",
+      "input_history": "NEG",
+      "case_number": "M ACCpl",
+      "word": "adaṇḍyān",
+      "interpretation": "Explicitly contrasted objects of the positive participle."
+    },
+    {
+      "id": "WATER",
+      "source": "K67",
+      "input_history": "W",
+      "case_number": "F NOMpl",
+      "word": "udakyāḥ",
+      "interpretation": "Plural adjective agreeing with vṛttayaḥ. The citation has udakyā before v."
+    },
+    {
+      "id": "TREE",
+      "source": "K67",
+      "input_history": "YU",
+      "case_number": "M NOMsg",
+      "word": "yūpyaḥ",
+      "interpretation": "The palāśa tree of the grammatical example."
+    },
+    {
+      "id": "PIT",
+      "source": "K67",
+      "input_history": "GA",
+      "case_number": "M NOMsg",
+      "word": "gartyaḥ",
+      "interpretation": "A place suitable for a pit."
+    },
+    {
+      "id": "BACC",
+      "source": "BAU",
+      "input_history": "YU",
+      "case_number": "M ACCsg",
+      "word": "yūpyam",
+      "interpretation": "Agrees with vṛkṣam in the ritual prose. Printed yūpyaṃ before ca."
+    },
+    {
+      "id": "BGEN",
+      "source": "BAU",
+      "input_history": "YU",
+      "case_number": "M GENsg",
+      "word": "yūpyasya",
+      "interpretation": "The following purpose contrasts this timber with the separately named plough timber."
+    },
+    {
+      "id": "VES",
+      "source": "K68",
+      "input_history": "PG/PY",
+      "case_number": "M NOMsg",
+      "word": "pātriyaḥ / pātryaḥ",
+      "interpretation": "Pātra supports two suffixes. The choice of a measure or vessel does not multiply the exemplified case."
+    },
+    {
+      "id": "FOD",
+      "source": "K69",
+      "input_history": "FC/FY",
+      "case_number": "M NOMsg",
+      "word": "kaḍaṅkarīyaḥ / kaḍaṅkaryaḥ",
+      "interpretation": "Both alternatives refer to the animal deserving the feed."
+    },
+    {
+      "id": "FEE",
+      "source": "K69",
+      "input_history": "DC/DY",
+      "case_number": "M NOMsg",
+      "word": "dakṣiṇīyaḥ / dakṣiṇyaḥ",
+      "interpretation": "The grammatical examples use a mendicant and a Brahmin respectively."
+    },
+    {
+      "id": "RICE",
+      "source": "K69",
+      "input_history": "PC/PR",
+      "case_number": "M NOMpl",
+      "word": "sthālībilīyāḥ / sthālībilyāḥ",
+      "interpretation": "Plural rice grains judged suitable for cooking."
+    },
+    {
+      "id": "YAJ",
+      "source": "K71",
+      "input_history": "Y",
+      "case_number": "M NOMsg",
+      "word": "yajñiyaḥ",
+      "interpretation": "A Brahmin qualified in relation to the sacrifice."
+    },
+    {
+      "id": "RTV",
+      "source": "K71",
+      "input_history": "R",
+      "case_number": "M NOMsg",
+      "word": "ārtvijīnaḥ",
+      "interpretation": "A Brahmin qualified in relation to the priest."
+    },
+    {
+      "id": "SITE",
+      "source": "SUP",
+      "input_history": "YA",
+      "case_number": "M NOMsg",
+      "word": "yajñiyaḥ",
+      "interpretation": "A place suitable for the sacrificial act, as distinct from the preceding person."
+    },
+    {
+      "id": "HOUSE",
+      "source": "SUP",
+      "input_history": "RA",
+      "case_number": "N NOMsg",
+      "word": "ārtvijīnam",
+      "interpretation": "Predicate for a Brahmin family qualified for priestly work."
+    },
+    {
+      "id": "NAME",
+      "source": "RV3",
+      "input_history": "YA",
+      "case_number": "N ACCpl",
+      "word": "yajñiyāni",
+      "interpretation": "Names which the Maruts took. The Pada resolves the verse junction."
+    },
+    {
+      "id": "WORTH",
+      "source": "RV46",
+      "input_history": "Y",
+      "case_number": "M NOMpl",
+      "word": "yajñiyāsaḥ",
+      "interpretation": "One inflection attested twice. Sāyaṇa distinguishes the respective referents."
+    },
+    {
+      "id": "MAT",
+      "source": "BHK",
+      "input_history": "YA",
+      "case_number": "M INSpl",
+      "word": "yajñiyaiḥ",
+      "interpretation": "Agrees with the masculine compound dravyagaṇaiḥ."
+    },
+    {
+      "id": "AGENT",
+      "source": "BHK",
+      "input_history": "RA",
+      "case_number": "M INSpl",
+      "word": "ārtvijīnaiḥ",
+      "interpretation": "Agents of kṛtam, with priestly activity in the commentary."
+    },
+    {
+      "id": "GIFTS",
+      "source": "MAL",
+      "input_history": "DY",
+      "case_number": "M INSpl",
+      "word": "dakṣiṇyaiḥ",
+      "interpretation": "Only the Sanskrit chāyā supplies this exact Sanskrit instrumental."
+    }
+  ],
+  "source_policy_decisions": [
+    {
+      "id": "QUAL",
+      "sources": "K63,K65",
+      "decision": "Separate the predicate qualification from affix choice. Block śīrṣa replacement without its co-conditioned affix."
+    },
+    {
+      "id": "MARK",
+      "sources": "K66,MAN",
+      "decision": "Keep literal ya and adopted yat histories. Count the shared unaccented word once on each actual case address."
+    },
+    {
+      "id": "POST",
+      "sources": "K67,BAU",
+      "decision": "Treat the Śrautasūtra as a witness to lexical use. Its two oblique cases do not establish a general unrestricted Classical yat rule."
+    },
+    {
+      "id": "PAIR",
+      "sources": "K68,K69,K71,SUP",
+      "decision": "Both suffixes distribute to both bases at 69; apply ordered pairing at 71. Exclude a reversed assignment."
+    },
+    {
+      "id": "GODS",
+      "sources": "RV3,RV46",
+      "decision": "The names are objects. The plural in 4 and 6 shares one inflection but has two documented interpretations."
+    },
+    {
+      "id": "POEM",
+      "sources": "BHK,JAY,MAL",
+      "decision": "Separate verse inflections, a compound-internal stem, the commentator's explanatory nominative and a play's Sanskrit chāyā. The different Bhaṭṭi citation in S1 stays Open."
+    }
+  ]
+}

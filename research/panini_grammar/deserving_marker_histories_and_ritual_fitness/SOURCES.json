@@ -1,0 +1,138 @@
+{
+  "project_dependencies": [
+    {
+      "commit": "efd3182b253041e5cae80c393fd0e1e5b16073e0",
+      "path": "research/panini_grammar/decades_harnessed_horses_and_measured_book_names/STATE.json",
+      "git_blob_sha": "ef9976a83e90d5579d6ef60440f51f5db634f265",
+      "sha256": "231b5b65e2982871689aea915eb4ea725fc6b593ca3e07eb9afca91bede9bec8",
+      "use": "Published baseline"
+    },
+    {
+      "commit": "efd3182b253041e5cae80c393fd0e1e5b16073e0",
+      "path": "research/panini_grammar/taddhita_functional/SOURCE_EXCERPTS.json",
+      "git_blob_sha": "31e85bd9fb220839f9162864d7040369e4c1e276",
+      "sha256": "61d315eabe902112f9af1f79ca00f2a49cc632164fa8349b2af5f76fecaf1c34",
+      "use": "PG36 archive with the grammatical examples at 5.1.63–71."
+    },
+    {
+      "commit": "efd3182b253041e5cae80c393fd0e1e5b16073e0",
+      "path": "research/panini_grammar/taddhita_functional/RULES_5_1_B.md",
+      "git_blob_sha": "04146317e9a8ccae9c3d21e5226474ed3abb13f7",
+      "sha256": "fb6256676098fbaf397fc82fc65ba94b90114d64a5bd652a14162f4707b9c015",
+      "use": "PG36 explicit Kaumudī marker policy at 66 and ordered pair at 71. No repeat stem credit."
+    },
+    {
+      "commit": "efd3182b253041e5cae80c393fd0e1e5b16073e0",
+      "path": "research/panini_grammar/bhatti_aghnaana_loci_and_vidhyamaana/WITNESSES.md",
+      "git_blob_sha": "ce2354918fe3c5efa1a145cb9704daf518a94778",
+      "sha256": "ef3971c66b5f00a87aeed686ae55fedaf230b93473a6b71d97bba38efd0b0765",
+      "use": "PG720 owns different Bhaṭṭi verses and S1 boundary."
+    },
+    {
+      "commit": "efd3182b253041e5cae80c393fd0e1e5b16073e0",
+      "path": "research/panini_grammar/SUTRAPATHA.tsv",
+      "git_blob_sha": "1840f3b5349b21112ac05a7efaa59705fd4efee0",
+      "sha256": "70dfdfe6ba433b6e211f0f01b078c1b6d13a1ad0938e06fd5789298a04583634",
+      "use": "Rule identifiers and exact Sanskrit scope."
+    },
+    {
+      "commit": "efd3182b253041e5cae80c393fd0e1e5b16073e0",
+      "path": "research/panini_grammar/grammar_construction/NATIVE_OPERATOR_LIFT.md",
+      "git_blob_sha": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+      "sha256": "f52e7f5cf539ef56859b890669ef738848491e4005e73be75baa49c899b5dafd",
+      "use": "PG14 full typed native carrier."
+    }
+  ],
+  "source_observations": [
+    {
+      "id": "K63",
+      "locator": "Kāśikā 5.1.63–64 and gaṇa note 112",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/5/5.1.64.htm",
+      "observation": "Ordinary and continual deserving differ. Virāga has a member-specific replacement."
+    },
+    {
+      "id": "K65",
+      "locator": "Kāśikā 5.1.65",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/5/5.1.65.htm",
+      "observation": "The substituted compound member requires the suffixal construction. Both affixes survive."
+    },
+    {
+      "id": "K66",
+      "locator": "Kāśikā and Kaumudī at 5.1.66, frozen PG36 records",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/5/5.1.66.htm",
+      "observation": "The former says ya and the latter specifies yat. The habitual qualification ends."
+    },
+    {
+      "id": "K67",
+      "locator": "Kāśikā 5.1.67",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/5/5.1.67.htm",
+      "observation": "Three grammatical examples for the Vedic deserving relation."
+    },
+    {
+      "id": "K68",
+      "locator": "Kāśikā 5.1.68",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/5/5.1.68.htm",
+      "observation": "Pātra admits both measure and vessel and the forms with ghan and yat."
+    },
+    {
+      "id": "K69",
+      "locator": "Kāśikā 5.1.69–70",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/5/5.1.69.htm",
+      "observation": "Both alternatives for each of the two bases. Rule 70 transmits both to the rice example."
+    },
+    {
+      "id": "K71",
+      "locator": "Kāśikā 5.1.71 and its supplement",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/5/5.1.71.htm",
+      "observation": "Ordered assignment. The supplement selects fitness for the corresponding activity."
+    },
+    {
+      "id": "MAN",
+      "locator": "Manusmṛti 8.128, GRETIL; compare Medhātithi at the same verse",
+      "url": "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/4_dharma/smrti/manu1__u.htm",
+      "observation": "Positive and negative accusatives plural have contrasting referents. The verse has pre-ca sandhi on the positive."
+    },
+    {
+      "id": "BAU",
+      "locator": "Baudhāyana Śrautasūtra 18.20",
+      "url": "https://sa.wikisource.org/wiki/बौधायनश्रौतसूत्रम्/प्रश्नः_१८",
+      "observation": "A tree suitable for a post and one suitable for a plough are distinguished. Accusative and genitive forms of the post adjective occur."
+    },
+    {
+      "id": "RV3",
+      "locator": "Śākala Ṛgveda 1.72.3, Pada and Sāyaṇa",
+      "url": "https://sthiramati.wordpress.com/rv1-72/",
+      "observation": "Neuter plural of names as objects of dadhire. Sāyaṇa expressly cites 5.1.71 and gha."
+    },
+    {
+      "id": "RV46",
+      "locator": "Śākala Ṛgveda 1.72.4 and 6, Pada and Sāyaṇa",
+      "url": "https://sthiramati.wordpress.com/rv1-72/",
+      "observation": "The same masculine nominative plural denotes gods at 4 and qualified sacrificers at 6 on the commentator's interpretation."
+    },
+    {
+      "id": "BHK",
+      "locator": "Bhaṭṭikāvya 2.29, independent verse text",
+      "url": "https://ambuda.org/texts/bhattikavyam/2",
+      "observation": "Two free instrumentals plural and one compound-initial fee adjective."
+    },
+    {
+      "id": "JAY",
+      "locator": "Jayamaṅgalā at Bhaṭṭi 2.29, 1928, printed pp. 30–31, digital leaf 69 rev. 376713 (verse on 68)",
+      "url": "https://sa.wikisource.org/w/index.php?title=पृष्ठम्:रामचरितम्_-_भट्टिकाव्यम्_-_1928.djvu/६९&oldid=376713",
+      "observation": "Names 69 and 71. The compound receives a paraphrase with sages deserving dakṣiṇā; the two instrumentals are explained by sacrificial materials and the priestly activity."
+    },
+    {
+      "id": "MAL",
+      "locator": "Kālidāsa, Mālavikāgnimitra V, Sārasaka's dialogue and Sanskrit chāyā",
+      "url": "https://sa.wikisource.org/wiki/मालविकाग्निमित्रम्/पञ्चमोऽङ्कः",
+      "observation": "The dialogue has a Middle Indic instrumental; the Sanskrit reading dakṣiṇyaiḥ is the edition's chāyā in note 3."
+    },
+    {
+      "id": "SUP",
+      "locator": "Vārttika as reported after 5.1.71, examples for place and priestly family",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/5/5.1.71.htm",
+      "observation": "The action-qualified supplement supplies a place and a family, each explicitly distinct from the person examples preceding it."
+    }
+  ]
+}
