@@ -1,0 +1,78 @@
+{
+  "upstream_pins": [
+    {
+      "repository": "ashtadhyayi-com/data",
+      "commit": "5744762f010d677cfb43f347a42d02796cf615d6",
+      "path": "sutraani/kashika.txt",
+      "local_snapshot_name": "kashika.txt",
+      "bytes": 3806703,
+      "sha256": "ccd6d554d10acbe89fd566730a59731ace38b2aad982becbbd653b77cca93254",
+      "git_blob_sha": "e525df7668835ef1dd7c5988c031da07ce0c162b"
+    },
+    {
+      "repository": "ashtadhyayi-com/data",
+      "commit": "5744762f010d677cfb43f347a42d02796cf615d6",
+      "path": "sutraani/balamanorama.txt",
+      "local_snapshot_name": "balamanorama.txt",
+      "bytes": 6995341,
+      "sha256": "0810e4c59d1642122186e1f0838af15859ea2d48487f6ee5e9006cf5302e9238",
+      "git_blob_sha": "8f7ab57f5b04648d914f85944b137504d1944961"
+    }
+  ],
+  "fields": [
+    {
+      "source": "kashika.txt",
+      "field": "53071",
+      "use": "actual before-ti akac placement; explicit prātipadika-level yuṣmakābhiḥ/asmakābhiḥ, yuṣmakāsu/asmakāsu, yuvakayoḥ/āvakayoḥ and subanta-level tvayakā/mayakā examples; raw locative singular retained Open"
+    },
+    {
+      "source": "balamanorama.txt",
+      "field": "53073",
+      "use": "vārttika explanation: o/s/bh-initial sup takes placement before prātipadika ṭi, elsewhere before subanta ṭi, restricted here to yuṣmad/asmad"
+    }
+  ],
+  "dependency_pins": [
+    {
+      "commit": "6c1ace891b22eae008cbb2156f3897fc70eeeeee",
+      "path": "research/panini_grammar/asmad_yusmad_full_cases_and_post_pada_clitics/STATE.json",
+      "bytes": 4101,
+      "sha256": "49b9b8d42024ead1d89ed55f85597911076f7bf9e2544ebdf3475dd2070e43a7",
+      "git_blob_sha": "9a68bf4cf7a9a56c41041032714372e22c2cae5e"
+    },
+    {
+      "commit": "6c1ace891b22eae008cbb2156f3897fc70eeeeee",
+      "path": "research/panini_grammar/determination_akac_payload_and_whole_kim_replacement/RELATION.json",
+      "bytes": 3611,
+      "sha256": "a7ec74e192d39ac3fcfa09f57d277ccfebc4c1494bb5be8c0b844302d59e6fe2",
+      "git_blob_sha": "c0eab835c9feff4a766e8527e224ece61646e85f"
+    },
+    {
+      "commit": "6c1ace891b22eae008cbb2156f3897fc70eeeeee",
+      "path": "research/panini_grammar/akac_yad_tad_three_genders_and_feminine_itva_block/STATE.json",
+      "bytes": 2313,
+      "sha256": "f189f048b9b2e6b3d0ed8ceaa05d630c2bdbafbdd72a2cef63f31aedb004ac71",
+      "git_blob_sha": "162ec9c36223c5e973fdc8a1750253cf669b2e25"
+    },
+    {
+      "commit": "6c1ace891b22eae008cbb2156f3897fc70eeeeee",
+      "path": "research/panini_grammar/grammar_construction/NATIVE_OPERATOR_LIFT.md",
+      "bytes": 11855,
+      "sha256": "f52e7f5cf539ef56859b890669ef738848491e4005e73be75baa49c899b5dafd",
+      "git_blob_sha": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b"
+    },
+    {
+      "commit": "6c1ace891b22eae008cbb2156f3897fc70eeeeee",
+      "path": "research/panini_grammar/grammar_construction/STATE_AND_COMPOSITION.md",
+      "bytes": 8210,
+      "sha256": "b9164206d5389f91a77bbd90b523dbce40a79e2dbd7983bc5adbad45a7539b99",
+      "git_blob_sha": "593f548f92c6398508db1fa943352fbe23cb51c9"
+    }
+  ],
+  "source_decisions": [
+    "Construct only ten forms directly supported by the paired witnesses; do not extrapolate a complete paradigm.",
+    "Keep o/s/bh prātipadika placement and cited instrumental-singular subanta placement as distinct typed modes.",
+    "Retain the raw tvayaki/mayakī locative-singular issue Open; no silent editorial normalization.",
+    "Do not infer a universal semantic gloss from a placement discussion; require a separately licensed akac request."
+  ],
+  "source_observation_credit": 0
+}

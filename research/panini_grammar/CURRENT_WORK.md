@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG656
+# Pāṇini grammar · current written coverage at PG657
+
+PG657: [Asmad/yuṣmad akac two-placement modes](asmad_yusmad_akac_two_placement_modes/README.md). Ten source-supported aliṅga case addresses now carry actual `ak`: eight o/s/bh-sup addresses insert before prātipadika ṭi, while cited instrumental singular inserts before subanta ṭi. This adds 10 nominal positions/readings and one morphology construction/10 readouts. Raw locative-singular `tvayaki/mayakī`, unlisted cases and full semantic licensing remain Open. Census 51,819 finite; 8,010 nominal/9,268 readings.
 
 PG656: [Asmad/yuṣmad full cases and post-pada clitics](asmad_yusmad_full_cases_and_post_pada_clitics/README.md). The two genderless personal pronouns now have complete ordinary seven-case, three-number fibres: 42 new nominal positions/60 readings. Eighteen readings are exact eligible post-pada anudātta substitutes, with same-sentence/noninitial and 8.1.24–25 blockers retained; they are not free synonyms. One morphology construction/18 readouts and one accent construction/18 readouts; zero source-observation credit. Census 51,819 finite; 8,000 nominal/9,258 readings. S4's 45 traditional licences remain Open.
 

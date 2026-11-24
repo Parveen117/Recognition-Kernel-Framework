@@ -3,6 +3,22 @@
 Monty. Dates follow Asia/Kolkata.
 
 
+## PG657 · Asmad/yuṣmad akac two-placement modes
+
+Previous publication: 6c1ace891b22eae008cbb2156f3897fc70eeeeee; tree d711ba58bac5991db928c78c308fff2d8a0b9a43. Necessary check: Python 3.12.14, 104 assertions, 3 attempts; attempt 1 was a raw sandhi-token assertion mismatch and attempt 2 caught the missing backlog census line before attempt 3 passed.
+
+PG657: [Asmad/yuṣmad akac two-placement modes](asmad_yusmad_akac_two_placement_modes/README.md). Exact Kāśikā/Bāla evidence separates prātipadika-level insertion before o/s/bh-initial sup from subanta-level insertion in cited instrumental singular. Ten nominal positions/readings and one morphology construction/10 readouts are new; zero semantic/source credits. Census 51,819 finite; 8,010 nominal/9,268 readings.
+
+PG521–657 cumulative: 2,232 nominal positions/2,525 readings, zero finite; 238 morphology/1,039 interfaces (821 nominal/stem +10 finite +180 avyaya +18 pronominal clitic +10 akac placement); 122 compound/583 plans; 8 accent/45 records; 148 semantics/433 records; 109 syntax/301 records; 36 source-policy decisions after PG555−1; 273 observations. One provenance correction/one proof addendum; no census correction.
+
+Ten directly supported akac placement positions locally CLOSED; wider written gates remain Open.
+- Raw Kāśikā locative-singular `tvayaki/mayakī`, all unlisted case addresses and the complete akac semantic partition remain Open, not Excluded.
+- Six K139 and three Vasu139 meanings, 128 critical variants, patradatam fork and C2–C5/S1–S7/native/global work remain genuine residuals.
+- Claude owns grammar execution/generators/untouched suites/certificate replay. PG335 correction and PG357–PG363 CLOSED remain preserved.
+
+The exact stage publication is the containing commit. Existing review branch only, nonforce; no elapsed-hours, ETA or complete-Sanskrit claim.
+
+
 ## PG656 · Asmad/yuṣmad full cases and post-pada clitics
 
 Previous publication: 70f8ae25687248b2adb1347304bb6e12f68e2512; tree 7514efe7bed6e4889776ec5240bb0b609777e126. Necessary check: Python 3.12.14, 130 assertions, 2 attempts; attempt 1 stopped only at the exact cached 8.1.25 sandhi-token spelling and attempt 2 passed without an authored grammar-result change.

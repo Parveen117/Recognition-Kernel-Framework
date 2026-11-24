@@ -3019,3 +3019,7 @@ padas, outer lakāras and exhaustive phonetic/accent alternatives stay open.
 ## PG384 · Phiñ initial replacement and masculine short-i
 
 [PG384](mimata_phin_initial_replacement_and_short_i/README.md) adds **23 nominal positions/readings** and one source observation. Initial ph→āyan preserves original phiñ-i and non-it replacement n; masculine ghi inflection differs from phak’s a-stem and feminine options. Old maimatāyaniḥ withheld; common admission under both declared policy records does not settle original Bhāṣya. Totals51,639 finite, nominal3,245/3,799. Full PG14 typed zero proof supplied; other genders/contexts/source/native gates Open, execution deferred.
+
+## PG657 · Asmad/yuṣmad akac two-placement modes
+
+[PG657](asmad_yusmad_akac_two_placement_modes/README.md) constructs ten exact akac-derived nominal addresses: eight o/s/bh-sup cases use prātipadika-ṭi placement and two instrumental-singular cases use subanta-ṭi placement. Actual payload remains `ak`; identical dual surfaces retain distinct genitive/locative keys. Ten new nominal positions/readings, one morphology construction/10 readouts; zero semantic/source credits. Census 51,819 finite; 8,010 nominal/9,268 readings. Raw locative singular and broader semantic/paradigm/global gates remain Open; Claude execution deferred.

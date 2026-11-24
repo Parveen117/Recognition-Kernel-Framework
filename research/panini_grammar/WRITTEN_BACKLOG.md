@@ -1,6 +1,8 @@
-# Written-development backlog at PG656
+# Written-development backlog at PG657
 
-Monty · 2026-11-24 · reviewed current parent 70f8ae25687248b2adb1347304bb6e12f68e2512; historical closures below retain their exact original pins.
+Monty · 2026-11-24 · reviewed current parent 6c1ace891b22eae008cbb2156f3897fc70eeeeee; historical closures below retain their exact original pins.
+
+PG657 closes ten directly supported asmad/yuṣmad akac placement positions: prātipadika-level insertion for o/s/bh-initial sup and subanta-level insertion for cited instrumental singular. Raw locative-singular `tvayaki/mayakī`, unlisted case addresses and complete semantic licensing remain genuine Open work; they are not exclusions. PG656's bare case fibres and conditioned clitics remain CLOSED and receive no repeated credit. Census: 51,819 finite; 8,010 nominal positions/9,268 readings.
 
 This is a current, evidence-linked queue, not a full-language denominator.
 The [original gates](COVERAGE_AND_GATES.md) require interpreted lexical/semantic

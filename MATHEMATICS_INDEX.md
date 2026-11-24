@@ -5251,3 +5251,7 @@ Existing RH, Yang-Mills, continuum and empirical claim boundaries remain in forc
 ## PG384 · Affix-initial replacement with retained suffix and payload owners
 
 [Mimata phiñ relation](research/panini_grammar/mimata_phin_initial_replacement_and_short_i/README.md) constructs23 new masculine short-i keys/readings and one marker/recipient observation. Full PG14 carrier/pairing and typed zero proof retain replaced ph, original i/ñ and non-it āyan-n, with policy-tagged common-edge admission. No old nominative or source-policy double word credits. Totals51,639 finite, nominal3,245/3,799. Original text/other genders/domains and wider gates Open; execution deferred.
+
+## PG657 · Recipient-typed akac insertion on personal pronouns
+
+[Asmad/yuṣmad akac placement](research/panini_grammar/asmad_yusmad_akac_two_placement_modes/DERIVATION_AND_NATIVE_RECOVERY.md) extends the full PG14 carrier with a typed recipient grade: o/s/bh-initial sup selects prātipadika-ṭi insertion, while the cited instrumental singular selects subanta-ṭi insertion. Typed zero-specialization preserves lemma, semantic licence, original sup, affix owner and genitive/locative collisions. Ten new nominal positions/readings and one morphology/10 interfaces; totals 51,819 finite, 8,010 nominal/9,268 readings. Disputed locative singular and wider gates remain Open.
