@@ -2,6 +2,16 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG713 · Two Uṇādi prints and the ḍit derivation of naṭa
+
+PG713 · [Two Uṇādi prints and the ḍit derivation of naṭa](unadi_4104_contiguous_text_and_nata_dit_ata/README.md). The 1844 and 1859 prints give distinct extension boundaries. The 1859 affix roster separates ḍaṭa and short aṭac. Its ḍit operation derives naṭa on the precedence source, yielding 24 new masculine positions and readings. The direct count for the four unresolved primary extension fields remains 99/103. Census 52,336 finite positions and 9,392 nominal positions with 10,992 nominal readings.
+
+0 new nonfinite constructions/0 retained paths. Accent 0/0, syntax 1/1, phonological junction 1/1 constructions/readouts. 6 source observations and 4 source-policy decisions. One morphology construction/1 interfaces. Finite increments 0 positions and 0 readings. Nominal increments 24 positions and 24 readings. The publication parent is 9e8bd6ec7fec281aeba26a16960c5dccb121ecd6. The containing commit pins the documents and evidence.
+
+PG521–713 cumulative: 517 finite positions/1,435 net finite readings, 3,614 nominal positions/4,249 readings, 287 morphology constructions/2,954 interfaces, 128 compound constructions/593 plans, 28 accent constructions/111 records, 153 semantics constructions/454 records, 136 syntax constructions/445 records, 144 source-policy decisions after PG555−1 and 466 observations. Twenty junction constructions/57 readouts since PG680 and 20 nonfinite constructions/26 paths since PG700. Four provenance corrections and one proof addendum. PG335 and PG357–363 CLOSED results are preserved.
+
+The named printed-boundary collation and printed 4.104 naṭa path close locally. Exact primary 4.105 sya, ḍha, ḍaṭ and long āṭac remain Open with their own lexical operands still required. Neither an inferred raw import origin nor an exclusion has been added. The old bharaṭa and matsya cases and feminine naṭī receive zero repeat credit. Other C2–C5/S1–S7 and Claude execution remain tracked.
+
 ## PG712 · Vedic sthana and the source-licensed plural patatriṇīḥ
 
 PG712 · [Vedic sthana and the source-licensed plural patatriṇīḥ](vedic_sthana_endings_and_patrin_nominative/README.md). One new nominal key and reading derives patatriṇīḥ with the long stem and Mahīdhara’s 6.1.106 source guard. Two new sthana readings extend the existing as-P2pl laṭ and loṭ keys through distinct ending histories. The short-i plural of the healing words retains its own unresolved operation. Census 52,336 finite positions and 9,368 nominal positions with 10,968 nominal readings.

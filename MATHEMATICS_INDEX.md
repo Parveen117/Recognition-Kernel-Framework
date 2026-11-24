@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG713 · [Two Uṇādi prints and the ḍit derivation of naṭa](research/panini_grammar/unadi_4104_contiguous_text_and_nata_dit_ata/README.md). Two printed contexts disambiguate the joined affix string and show ḍit-controlled lopa before sounded aṭa. The typed PG14 extension preserves the two independent root/affix possibilities and the selected naṭa case fibre.
+
 PG712 · [Vedic sthana and the source-licensed plural patatriṇīḥ](research/panini_grammar/vedic_sthana_endings_and_patrin_nominative/README.md). Two source-tagged ending substitutions descend through PG14 while preserving original laṭ tha and imperative ta. The separate long-ī nominal fibre recovers the same analyzed feminine plural and evidence at zero.
 
 PG711 · [Vedic babdhām, the strong bhas control and separated upa–ghrā](research/panini_grammar/vedic_bhas_babdham_and_split_upa_ghra/README.md). Four finite keys use the full PG14 carrier with copied versus original vowel identity, conditioned s-lopa, term-specific accent and an independently owned intervening accusative under Vedic upa.
