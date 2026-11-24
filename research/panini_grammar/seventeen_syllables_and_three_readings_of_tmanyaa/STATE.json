@@ -1,0 +1,36 @@
+{
+  "stage": "PG759",
+  "date": "2026-11-24",
+  "publication_parent": "10c1efab2e5afeee4e563a1300189ba065433b4c",
+  "baseline": {
+    "commit": "10c1efab2e5afeee4e563a1300189ba065433b4c",
+    "path": "research/panini_grammar/traveller_cases_and_two_directional_path_relations/STATE.json"
+  },
+  "finite_positions": 52345,
+  "nominal_positions": 20737,
+  "nominal_readings": 23430,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 5,
+  "new_nominal_readings": 5,
+  "new_morphology_constructions": 1,
+  "new_morphology_interfaces": 7,
+  "new_source_observations": 14,
+  "new_source_policy_decisions": 6,
+  "open_obligations": [
+    "The Saṃhitā or Brāhmaṇa containing the full chandasyaḥ wording and an independent Vedic occurrence of the cited ātmanīna adjective remain Open. The exact readings of the named witnesses are locally decided.",
+    "Resume the 5.1.78 time-word scope after this source return. The ascription of a single author-independent case to RV 10.110.10 remains Open."
+  ],
+  "local_closure": "PG14 recovery preserves witness, formula order, word boundary and attributed case.",
+  "global_gates": {
+    "C2–C5": "Open",
+    "S1–S7": "Open",
+    "S5_direct_fields": "99/103",
+    "S6": "Independent 5.56 k-it effect Open"
+  },
+  "protected_registers": {
+    "PG335": "-9 finite positions and -12 readings already applied",
+    "PG340/346, PG349–352, PG355–360, PG357–363": "CLOSED on registered scopes"
+  },
+  "runtime_policy": "Written derivation. Only changed-document, source and count checks. Claude owns grammar execution, generators, untouched suites and replay."
+}

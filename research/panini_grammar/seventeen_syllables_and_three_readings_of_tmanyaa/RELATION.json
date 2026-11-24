@@ -1,0 +1,128 @@
+{
+  "stage": "PG759",
+  "morphology_interfaces": [
+    {
+      "id": "CH",
+      "base": "chandas denoting a syllable aggregate",
+      "guard": "own sense under supplementary statement",
+      "affix": "yat",
+      "result": "chandasya"
+    },
+    {
+      "id": "VO",
+      "base": "vasu",
+      "guard": "own-sense conclusion of Bhāṣya",
+      "affix": "yat",
+      "result": "vasavya"
+    },
+    {
+      "id": "AB",
+      "base": "ātman",
+      "guard": "source in the Paippalāda passage",
+      "affix": "ablative singular with retained initial ā",
+      "result": "ātmanaḥ"
+    },
+    {
+      "id": "TI",
+      "base": "ātman",
+      "guard": "mantra, singular instrumental",
+      "affix": "initial ā deletion and instrumental ending",
+      "result": "tmanā"
+    },
+    {
+      "id": "XI",
+      "base": "ātman",
+      "guard": "Sāyaṇa's instrumental reading",
+      "affix": "initial ā deletion and yā substitute",
+      "result": "tmanyā"
+    },
+    {
+      "id": "XL",
+      "base": "ātman",
+      "guard": "Nyāsa's exceptional locative policy",
+      "affix": "initial ā deletion outside regular āṅ",
+      "result": "tmanyā"
+    },
+    {
+      "id": "XA",
+      "base": "ātman",
+      "guard": "Brahmamuni's accusative reading",
+      "affix": "initial ā deletion and Vedic yā under 7.1.39",
+      "result": "tmanyā"
+    }
+  ],
+  "nominal_positions": [
+    {
+      "id": "CH",
+      "source": "MB4",
+      "input_history": "CH",
+      "case_number": "M NOMsg",
+      "word": "chandasyaḥ",
+      "interpretation": "Explicit predicate in the grammatical citation describing Prajāpati."
+    },
+    {
+      "id": "VAS",
+      "source": "MB4",
+      "input_history": "VO",
+      "case_number": "M NOMpl",
+      "word": "vasavyāḥ",
+      "interpretation": "The Vasus as grammatical subjects of pāntu in the concluding own-sense analysis."
+    },
+    {
+      "id": "SELF",
+      "source": "PS",
+      "input_history": "AB",
+      "case_number": "M ABLsg",
+      "word": "ātmanaḥ",
+      "interpretation": "Pause analysis. The actual saṃhitā has ātmana before enaṃ. Source role by the paired clauses and Lubotsky."
+    },
+    {
+      "id": "INST",
+      "source": "RV1",
+      "input_history": "TI",
+      "case_number": "M INSsg",
+      "word": "tmanā",
+      "interpretation": "Word text separates the instrumental before Agni."
+    },
+    {
+      "id": "ALTS",
+      "source": "RVS",
+      "input_history": "XI/XL/XA",
+      "case_number": "M sg: INS (Sāyaṇa), LOC (Nyāsa), ACC (Brahmamuni)",
+      "word": "tmanyā",
+      "interpretation": "One RV word and one surface reading. Distinct author-specific case assignments, with RVS, KN and RVB as the respective evidence."
+    }
+  ],
+  "source_policy_decisions": [
+    {
+      "id": "WORD",
+      "sources": "MB4,MB4R,MS,TS,SB,KB",
+      "decision": "The grammatical quotation is established at an exact address. A Saṃhitā/Brāhmaṇa primary occurrence of that adjective in the quoted identification stays Open."
+    },
+    {
+      "id": "ORDER",
+      "sources": "MB4,K140,MS,TS,SB",
+      "decision": "Do not equate witnesses by their total. The Bhāṣya moves the five-syllable utterance ahead of the two-syllable command."
+    },
+    {
+      "id": "OWN",
+      "sources": "MB4,MB4R",
+      "decision": "The Bhāṣya distinguishes a proposed extra prescription from the final own-sense solution. Its nominative plural is a new case, with zero repeat credits for AV or RV."
+    },
+    {
+      "id": "SOURCE",
+      "sources": "PS,LUB,MB6",
+      "decision": "Parse the PS reading into the source and the object. The quotation with eva is a second textual witness, neither a verbatim PS match nor evidence of kha."
+    },
+    {
+      "id": "CASE",
+      "sources": "KN,RVS,RVB",
+      "decision": "The separated word is secure. Retain a three-valued source-indexed case assignment; no unqualified case analysis or triple textual credit."
+    },
+    {
+      "id": "INSTR",
+      "sources": "RV1,KN",
+      "decision": "Use the instrumental guard for tmanā. Exclude an unrestricted deletion across every ending."
+    }
+  ]
+}

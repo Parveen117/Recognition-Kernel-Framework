@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG758
+# Pāṇini grammar · current written coverage at PG759
+
+PG759 · [The seventeen-syllable quotation and the three cases assigned to tmanyā](seventeen_syllables_and_three_readings_of_tmanyaa/README.md). Locates the Mahābhāṣya wording behind PG747, collates the seventeen-syllable formulas and distinguishes three source-specific analyses of one Ṛgvedic word. Census: 52,345 finite positions, 20,737 nominal positions and 23,430 nominal readings.
 
 PG758 · [Three traveller paradigms and the route by which something comes](traveller_cases_and_two_directional_path_relations/README.md). Constructs the 5.1.72–77 recitation, distance and route cases, with three complete traveller paradigms and independent Hitopadeśa and Meghadūta-commentary witnesses. Census: 52,345 finite positions, 20,732 nominal positions and 23,425 nominal readings.
 

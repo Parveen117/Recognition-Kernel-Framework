@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG759 · [The seventeen-syllable quotation and the three cases assigned to tmanyā](research/panini_grammar/seventeen_syllables_and_three_readings_of_tmanyaa/README.md). PG14 recovery preserves witness, formula order, word boundary and attributed case.
+
 PG758 · [Three traveller paradigms and the route by which something comes](research/panini_grammar/traveller_cases_and_two_directional_path_relations/README.md). PG14 recovery preserves the argument case, ordinary or habitual travelling and both lexical markers of ṣkan.
 
 PG757 · [Deserving, sacrificial fitness and priestly work](research/panini_grammar/deserving_marker_histories_and_ritual_fitness/README.md). PG14 recovery preserves the source of the suffix, the ordered pair, activity and attestation layer.

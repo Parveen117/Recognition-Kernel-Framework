@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG759 · [The seventeen-syllable quotation and the three cases assigned to tmanyā](seventeen_syllables_and_three_readings_of_tmanyaa/README.md). Locates the Mahābhāṣya wording behind PG747, collates the seventeen-syllable formulas and distinguishes three source-specific analyses of one Ṛgvedic word. 5 new nominal positions and 5 readings. Finite positions and readings both increased by zero.
+
 PG758 · [Three traveller paradigms and the route by which something comes](traveller_cases_and_two_directional_path_relations/README.md). Constructs the 5.1.72–77 recitation, distance and route cases, with three complete traveller paradigms and independent Hitopadeśa and Meghadūta-commentary witnesses. 96 new nominal positions and 98 readings. Finite positions and readings both increased by zero.
 
 PG757 · [Deserving, sacrificial fitness and priestly work](deserving_marker_histories_and_ritual_fitness/README.md). Builds the 5.1.63–71 case evidence, including Sāyaṇa’s named gha, Jayamaṅgalā’s interpretation of Bhaṭṭi 2.29 and the Sanskrit chāyā in Mālavikāgnimitra V. 28 new nominal positions and 33 readings. Finite positions and readings both increased by zero.

@@ -1,0 +1,139 @@
+{
+  "project_dependencies": [
+    {
+      "commit": "10c1efab2e5afeee4e563a1300189ba065433b4c",
+      "path": "research/panini_grammar/traveller_cases_and_two_directional_path_relations/STATE.json",
+      "git_blob_sha": "ff0ed22c2663cd906b20f30139d1d20c2159ebc3",
+      "sha256": "ced438c470bfd4da0cd0020e776a2c20fe4902ab4872f243f5da73300ecdf6b9",
+      "use": "Published baseline"
+    },
+    {
+      "commit": "10c1efab2e5afeee4e563a1300189ba065433b4c",
+      "path": "research/panini_grammar/soma_eligibility_honey_material_and_tati_cases/RELATION.json",
+      "git_blob_sha": "42913955ebfcd97a9a7a4821ab8d5adeeaab667b",
+      "sha256": "0033d1369059aaf0b382452496be9fd922bb6e79d3215fccdf6668f1f3662f8e",
+      "use": "PG747 owns the VS/AV/RV forms and the MS count. Positive grammatical nominatives below are new."
+    },
+    {
+      "commit": "10c1efab2e5afeee4e563a1300189ba065433b4c",
+      "path": "research/panini_grammar/soma_eligibility_honey_material_and_tati_cases/SOURCES.json",
+      "git_blob_sha": "8722238aae4a04fe20cccdef45724e4f6e806be5",
+      "sha256": "9274a7de184069b67249f18c7e71d0f423ba0dbf53007c0e20cea136d6ac348c",
+      "use": "Exact Maitrāyaṇī and Atharvan source provenance."
+    },
+    {
+      "commit": "10c1efab2e5afeee4e563a1300189ba065433b4c",
+      "path": "research/panini_grammar/beneficiaries_grammatical_gender_and_two_poetic_kha_witnesses/SOURCES.json",
+      "git_blob_sha": "138949ff0e6b078fbce06dd15e3421e923b066e0",
+      "sha256": "31f1851107da3a76a831c0dc090b452dc29bad6c8bf44373c0c7e756af901de5",
+      "use": "PG749 direct Bhāravi case and its Paippalāda exclusion."
+    },
+    {
+      "commit": "10c1efab2e5afeee4e563a1300189ba065433b4c",
+      "path": "research/panini_grammar/measured_study_calendar_months_and_twenty_angiras_seers/RELATION.json",
+      "git_blob_sha": "e7e2980422e6ec39e899e7e039e63999f8fac7c0",
+      "sha256": "dac578ebee52527b07e1e222256855f939b47a9cf2e9965a0dc1a26c8b1b9c7a",
+      "use": "PG755 already owns the stoma nominative. Do not add saptadaśaḥ merely because another ritual prose passage uses it."
+    },
+    {
+      "commit": "10c1efab2e5afeee4e563a1300189ba065433b4c",
+      "path": "research/panini_grammar/SUTRAPATHA.tsv",
+      "git_blob_sha": "1840f3b5349b21112ac05a7efaa59705fd4efee0",
+      "sha256": "70dfdfe6ba433b6e211f0f01b078c1b6d13a1ad0938e06fd5789298a04583634",
+      "use": "Frozen 4.4.140 and 6.4.141."
+    },
+    {
+      "commit": "10c1efab2e5afeee4e563a1300189ba065433b4c",
+      "path": "research/panini_grammar/grammar_construction/NATIVE_OPERATOR_LIFT.md",
+      "git_blob_sha": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+      "sha256": "f52e7f5cf539ef56859b890669ef738848491e4005e73be75baa49c899b5dafd",
+      "use": "Full PG14 event and coefficient carrier."
+    }
+  ],
+  "source_observations": [
+    {
+      "id": "MB4",
+      "locator": "Mahābhāṣya 4.4.140, vārttikas 5583–86, oldid 85757; Kielhorn II.335.5–15",
+      "url": "https://sa.wikisource.org/w/index.php?title=महाभाष्यम्/चतुर्थोऽध्यायः/चतुर्थः_पादः&oldid=85757",
+      "observation": "The adjective chandasyaḥ is explicit. Discussion ends by deriving the Vasu form in its own sense. A masculine nominative plural appears in the illustrative conclusion."
+    },
+    {
+      "id": "MB4R",
+      "locator": "Roman Mahābhāṣya, 4.4.140, P II.335.5–15, R III.753–54",
+      "url": "https://www.intratext.com/IXT/SAN0011/_P11.HTM",
+      "observation": "Confirms the short first vowel in chandasyaḥ and the grammatical source address. Keep incidental electronic spelling differences local."
+    },
+    {
+      "id": "K140",
+      "locator": "Kāśikā 4.4.140, electronic text",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/4/4.4.140.htm",
+      "observation": "The order of the third and fourth formulas differs from the Bhāṣya passage. Distinguish source identity, word identity and numerical identity."
+    },
+    {
+      "id": "MS",
+      "locator": "Maitrāyaṇī Saṃhitā 1.4.11, prior text and reading pinned in PG747",
+      "url": "../soma_eligibility_honey_material_and_tati_cases/SOURCES.json",
+      "observation": "Already credited numerical evidence. The particular adjective was not established by the checked passage."
+    },
+    {
+      "id": "TS",
+      "locator": "Taittirīya Saṃhitā 1.6.11.1, text and commentary",
+      "url": "https://vishvasa.github.io/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/11_1-6-02_AshrAvaNAdimantravidhiH/",
+      "observation": "Counts in order 4,4,2,5,2. Seventeenfold Prajāpati is linked to the sacrifice with anvāyattaḥ."
+    },
+    {
+      "id": "SB",
+      "locator": "Mādhyandina Śatapatha 1.5.2.16–17, Weber and Śrīdharādi presentations",
+      "url": "https://vishvasa.github.io/vedAH_yajuH/vAjasaneyam/mAdhyandinam/shatapatha-brAhmaNam/sarva-prastutiH/01/05/2/",
+      "observation": "Five utterances in 16, their seventeen syllables in 17. Paṅkti-related description is in 16. The grammatical adjective is not in the checked identification."
+    },
+    {
+      "id": "KB",
+      "locator": "Kāṇva Śatapatha XIV.3.3.2, bilingual edition, vol. VII pp. 40–42",
+      "url": "https://vedicheritage.gov.in/ebooks/Kanvasatapathabrahmaaam_Vol_VII.pdf",
+      "observation": "The editor's translation identifies the five counts in the same order as TS. This passage treats what remains inexhaustible in the sacrifice. No Sanskrit word assignment is made from its translation."
+    },
+    {
+      "id": "PS",
+      "locator": "Paippalāda 5.11.8a–b, GRETIL",
+      "url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/html/sa_paippalAdasaMhitA.htm",
+      "observation": "Ātmana enaṃ begins the verse. A second-person ablative in the parallel request supports interpreting the first as source."
+    },
+    {
+      "id": "LUB",
+      "locator": "A. Lubotsky, Atharvaveda-Paippalāda, Kāṇḍa Five, 2002, note to 5.11.8a",
+      "url": "https://www.academia.edu/429905/Atharvaveda_Paippal%C4%81da_k%C4%81%E1%B9%87%E1%B8%8Da_five_Text_translation_commentary",
+      "observation": "Takes the first as source, notes the Kashmir reading and the metrical difficulty, and compares the reading eva in the Mahābhāṣya through Rau."
+    },
+    {
+      "id": "MB6",
+      "locator": "Patañjali on 6.4.141, Kielhorn III.225.1, as identified in Lubotsky at 5.11.8a",
+      "url": "https://www.ashtadhyayi.com/sutraani/6/4/141",
+      "observation": "The counterexample has ātmana eva in a discussion of extending deletion to every ending. It has no beneficiary adjective."
+    },
+    {
+      "id": "KN",
+      "locator": "Kāśikā and Nyāsa 6.4.141",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/6/6.4.141.htm",
+      "observation": "Āṅ names the singular instrumental. Nyāsa identifies the exceptional tmanyā citation as locative singular."
+    },
+    {
+      "id": "RV1",
+      "locator": "Śākala RV 1.79.6, word text and Sāyaṇa on the hymn",
+      "url": "https://sa.wikisource.org/wiki/ऋग्वेदः_सूक्तं_१.७९",
+      "observation": "Free tmanā in the address to Agni. The gloss contrasts personal action and action through others."
+    },
+    {
+      "id": "RVS",
+      "locator": "Śākala RV 10.110.10, Pada and Sāyaṇa",
+      "url": "https://sa.wikisource.org/wiki/ऋग्वेदः_सूक्तं_१०.११०",
+      "observation": "Sāyaṇa explicitly assigns a yā replacement to the third-case singular and cites the deletion of initial ā."
+    },
+    {
+      "id": "RVB",
+      "locator": "Brahmamuni on RV 10.110.10 and separate Pada on the same page",
+      "url": "https://vishvasa.github.io/vedAH_Rk/shAkalam/saMhitA/sarva-prastutiH/10/110/",
+      "observation": "Brahmamuni explicitly assigns the same token a second-case singular and appeals to 7.1.39. The displayed automated annotation has no decision here."
+    }
+  ]
+}

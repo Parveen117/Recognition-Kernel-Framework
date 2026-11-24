@@ -2,6 +2,12 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG759 · The seventeen-syllable quotation and the three cases assigned to tmanyā
+
+PG759 · [The seventeen-syllable quotation and the three cases assigned to tmanyā](seventeen_syllables_and_three_readings_of_tmanyaa/README.md). Locates the Mahābhāṣya wording behind PG747, collates the seventeen-syllable formulas and distinguishes three source-specific analyses of one Ṛgvedic word. 5 new nominal positions and 5 readings. Finite positions and readings both increased by zero. One written morphology construction with 7 interfaces, 14 source observations and 6 source decisions. Census: 52,345 finite positions, 20,737 nominal positions and 23,430 nominal readings.
+
+Parent 10c1efab2e5afeee4e563a1300189ba065433b4c. The containing commit pins this packet. The Saṃhitā or Brāhmaṇa containing the full chandasyaḥ wording and an independent Vedic occurrence of the cited ātmanīna adjective remain Open. The exact readings of the named witnesses are locally decided. Resume the 5.1.78 time-word scope after this source return. The ascription of a single author-independent case to RV 10.110.10 remains Open. C2–C5 and S1–S7 remain Open. Claude retains execution.
+
 ## PG758 · Three traveller paradigms and the route by which something comes
 
 PG758 · [Three traveller paradigms and the route by which something comes](traveller_cases_and_two_directional_path_relations/README.md). Constructs the 5.1.72–77 recitation, distance and route cases, with three complete traveller paradigms and independent Hitopadeśa and Meghadūta-commentary witnesses. 96 new nominal positions and 98 readings. Finite positions and readings both increased by zero. One written morphology construction with 27 interfaces, 10 source observations and 6 source decisions. Census: 52,345 finite positions, 20,732 nominal positions and 23,425 nominal readings.

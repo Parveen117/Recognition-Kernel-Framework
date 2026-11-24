@@ -1,6 +1,8 @@
-# Written-development backlog at PG758
+# Written-development backlog at PG759
 
-Monty · 2026-11-24 · reviewed parent 37fc8444f2c1f114b32e413aa1ff0ea88e2222b4. Historical closures below retain their exact pins.
+Monty · 2026-11-24 · reviewed parent 10c1efab2e5afeee4e563a1300189ba065433b4c. Historical closures below retain their exact pins.
+
+PG759 · [The seventeen-syllable quotation and the three cases assigned to tmanyā](seventeen_syllables_and_three_readings_of_tmanyaa/README.md). The Saṃhitā or Brāhmaṇa containing the full chandasyaḥ wording and an independent Vedic occurrence of the cited ātmanīna adjective remain Open. The exact readings of the named witnesses are locally decided. Resume the 5.1.78 time-word scope after this source return. The ascription of a single author-independent case to RV 10.110.10 remains Open. C2–C5 and S1–S7 remain Open.
 
 PG758 · [Three traveller paradigms and the route by which something comes](traveller_cases_and_two_directional_path_relations/README.md). The early provenance of the precise source spelling in the Hitopadeśa opening plural and complete independent literary witness sets for all seven route adjectives remain Open. Continue the time-word boundary from 5.1.78, distinguishing instrumental accomplishment, accusative duration and age. C2–C5 and S1–S7 remain Open.
 
