@@ -3,6 +3,19 @@
 Monty. Dates follow Asia/Kolkata.
 
 
+## PG667 · Nested gam active periphrastic-future completion
+
+Previous publication: fb738ddeac06a4ea88db71390de0cde985525cdd; tree cfdf53ed394fcb3686d9eaa97c59fda96e3ea48c. Necessary check: Python 3.12.14, 232 assertions, 2 attempts; attempt 1 stopped only on a Markdown line-wrap literal and attempt 2 passed without a grammatical-result change.
+
+PG667: [Nested gam active periphrastic-future completion](nested_gam_active_periphrastic_future_completion/README.md). PG17 `gamayit` plus PG16's full luṭ ending partition carries the two-hetu history through 18 P/A interfaces. Shared third-person words retain distinct original-pada histories. One morphology adapter/18 interfaces; zero finite/nominal/source credits.
+
+PG521–667 cumulative: 2,234 nominal positions/2,528 readings, zero finite; 242 morphology/1,118 interfaces; 122 compound/583 plans; 13 accent/57 records; 148 semantics/433 records; 109 syntax/301 records; 38 source-policy decisions after PG555−1; 274 observations. One provenance correction/one proof addendum; no census correction.
+
+Selected active nested-gam laṭ/lṛṭ/lṛṅ/luṭ person-number realization and selected passive laṭ realization are locally CLOSED. Other active/passive lakāras, caṅ, roots/senses/preverbs, automatic recognition, nine padī meanings, patradatam/128/C2–C5/S1–S7/native/global work remain Open. Claude owns execution/generators/untouched suites/replay. PG335 correction and PG357–PG363 CLOSED remain preserved.
+
+The exact publication is the containing commit; existing review branch only, nonforce. No elapsed-hours, ETA or complete-Sanskrit claim.
+
+
 ## PG666 · Nested gam active future and conditional completion
 
 Previous publication: 5eb4ea6f2585006bd0171b23ed7ae83bcc9f5b3d; tree dac1b390e4b7c9ff65a81e3613170f12146af455. Necessary check: Python 3.12.14, 389 assertions, 2 attempts; attempt 1 stopped only on a Markdown line-wrap literal and attempt 2 passed without a grammatical-result change.

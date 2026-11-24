@@ -1,6 +1,8 @@
-# Written-development backlog at PG666
+# Written-development backlog at PG667
 
-Monty · 2026-11-24 · reviewed current parent 5eb4ea6f2585006bd0171b23ed7ae83bcc9f5b3d; historical closures below retain their exact original pins.
+Monty · 2026-11-24 · reviewed current parent fb738ddeac06a4ea88db71390de0cde985525cdd; historical closures below retain their exact original pins.
+
+PG667 closes the selected active nested-gam luṭ layer: 18 P/A interfaces from PG17 `gamayit` and PG16's ending partition, one morphology adapter and zero finite/source credit. The three shared third-person surfaces retain distinct original-pada histories; suffix/ending ownership remains explicit. Active liṭ/luṅ/āśīrliṅ and present-system continuations, all passive outer lakāras, caṅ and wider lexical/semantic/native work remain unconstructed. Census unchanged at 51,819 finite; 8,012 nominal positions/9,271 readings.
 
 PG666 closes the selected active nested-gam lṛṭ/lṛṅ realization layer: 18 future and 18 conditional P/A cells, one nested-history morphology adapter/36 interfaces. Every surface is an inherited PG17/PG31 ordinary-causative control and receives zero finite-position/reading credit. H1/H2, D/Y/V, outer future-affix iṭ, conditional aṭ and the PG31 semantic certificate remain separately owned. Active luṭ/liṭ/luṅ/āśīrliṅ and present-system continuations, all passive outer lakāras, caṅ, other roots/senses/preverbs and automatic recognition remain genuine unconstructed work. Census unchanged at 51,819 finite; 8,012 nominal positions/9,271 readings.
 
