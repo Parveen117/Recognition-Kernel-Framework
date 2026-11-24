@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG696: [Owned suffix and accent transfer in trima-formations](research/panini_grammar/ktri_map_imap_and_shaakala_kritrima/README.md). Typed specialization retains the different i owners, and the Śākala accented form keeps the distinct śi, num and temporary case-owned nasal history.
+
 PG695: [Source-qualified result scope and the independent short lexical adjective](research/panini_grammar/aksadyutadi_nirvrtta_and_attested_gatanugatika/README.md). Typed zero-specialization preserves the two source membership registers, outcome/means separation, whole-member grade and the precise literary case/junction records.
 
 PG694: [Aṇ, competing hunting roles and the stage locative](research/panini_grammar/kutilika_an_roles_and_owned_gender/README.md). Typed zero-specialization preserves the means, actor and target, base-owned ik, aṇ and ṅīp owners, and the case boundary in kuṭilikāntare.

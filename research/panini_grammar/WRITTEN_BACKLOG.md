@@ -1,6 +1,8 @@
-# Written-development backlog at PG695
+# Written-development backlog at PG696
 
-Monty · 2026-11-24 · reviewed current parent c19eff9f207adc5905275c246519b67c02074b65. Historical closures below retain their exact pins.
+Monty · 2026-11-24 · reviewed current parent c264842f01febf02223d4396dfcb87f40baeef14. Historical closures below retain their exact pins.
+
+PG696 closes the [selected ktri result profiles, independent pāka–imap and exact Śākala kṛtrímā](ktri_map_imap_and_shaakala_kritrima/README.md) at 217 new nominal positions and 225 readings. It retains named competing i and accent owners, actual Bhaṭṭi compounds and the Sāyaṇa śi-lopa. The other ḍu and imap domains, Classical gender or contexts, further Vedic/affix and source decisions, 4.4.21 and C2–C5/S1–S7 remain Open. These Bhaṭṭi examples do not close the distinct S1 quoted verse. Claude execution is separate.
 
 PG695 closes the [twelve selected 4.4.19 neuter result fibres and three independent literary lexical fibres](aksadyutadi_nirvrtta_and_attested_gatanugatika/README.md) at 360 nominal positions/374 readings, with two directly checked literary contact records. The source-specific membership alternatives, outcome semantics and actual short/long grade contrast stay explicit. Wider M/F result and accent domains, the lexical short form's exact derivation, historical source-lineage decisions, independent witnesses for other addresses, 4.4.20–21 and C2–C5/S1–S7 remain Open. Claude execution is separate.
 

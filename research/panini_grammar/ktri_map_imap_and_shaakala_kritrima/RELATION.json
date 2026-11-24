@@ -1,0 +1,415 @@
+{
+  "schema": "rkf.panini.pg696.relation.v1",
+  "root_profiles": [
+    {
+      "id": "PAC",
+      "dp": "1011151",
+      "root": "pac",
+      "prefix": null,
+      "sense": "cooking",
+      "teaching": "ḍupacaṣ",
+      "ktri": "paktri",
+      "body": "paktrim",
+      "genders": [
+        "n"
+      ],
+      "policy": [
+        "Map",
+        "Ktri-Imap"
+      ]
+    },
+    {
+      "id": "VAP",
+      "dp": "1011158",
+      "root": "vap",
+      "prefix": null,
+      "sense": "sowing seed",
+      "teaching": "ḍuvap",
+      "ktri": "uptri",
+      "body": "uptrim",
+      "genders": [
+        "n"
+      ],
+      "policy": [
+        "Map",
+        "Ktri-Imap"
+      ]
+    },
+    {
+      "id": "KR",
+      "dp": "1080010",
+      "root": "kṛ",
+      "prefix": null,
+      "sense": "making",
+      "teaching": "ḍukṛñ",
+      "ktri": "kṛtri",
+      "body": "kṛtrim",
+      "genders": [
+        "m",
+        "f",
+        "n"
+      ],
+      "policy": [
+        "Map",
+        "Ktri-Imap"
+      ]
+    },
+    {
+      "id": "SAM_KR",
+      "dp": "1080010",
+      "root": "kṛ",
+      "prefix": "sam",
+      "sense": "preparation and finishing",
+      "teaching": "ḍukṛñ",
+      "ktri": "saṃskṛtri",
+      "body": "saṃskṛtrim",
+      "genders": [
+        "n"
+      ],
+      "policy": [
+        "Map"
+      ]
+    },
+    {
+      "id": "LABH",
+      "dp": "1011130",
+      "root": "labh",
+      "prefix": null,
+      "sense": "obtaining",
+      "teaching": "ḍulabhaṣ",
+      "ktri": "labdhri",
+      "body": "labdhrim",
+      "genders": [
+        "n"
+      ],
+      "policy": [
+        "Map"
+      ]
+    },
+    {
+      "id": "KRI",
+      "dp": "1090001",
+      "root": "krī",
+      "prefix": null,
+      "sense": "purchase or exchange",
+      "teaching": "ḍukrīñ",
+      "ktri": "krītri",
+      "body": "krītrim",
+      "genders": [
+        "n"
+      ],
+      "policy": [
+        "Map"
+      ]
+    }
+  ],
+  "outcome_types": {
+    "Map": {
+      "inner": "ktri",
+      "outer": "map",
+      "i_owner": "ktri",
+      "inner_gate": "actual ḍu, bhāva",
+      "exposed_inner": "Excluded"
+    },
+    "Ktri-Imap": {
+      "inner": "ktri",
+      "outer": "imap",
+      "i_owner": "imap",
+      "inner_i_deleted": "6.4.148",
+      "source": "Nyāsa and Bālamanoramā",
+      "domain": "PAC, VAP, KR, Classical only"
+    },
+    "Pāka-Imap": {
+      "inner": "ghañ bhāva action noun pāka",
+      "outer": "imap",
+      "i_owner": "imap",
+      "body": "pākim",
+      "genders": [
+        "n"
+      ],
+      "root_id": "1011151",
+      "preverb": null,
+      "inner_a_deleted": "6.4.148"
+    }
+  },
+  "syntax": [
+    {
+      "id": "BHK4_DUAL",
+      "locus": "4.37",
+      "subject": "two men",
+      "agreement": "m nom du",
+      "inputs": [
+        "asaṃskṛtrima-saṃvyānau",
+        "anuptrima-phalāśinau"
+      ]
+    },
+    {
+      "id": "BHK7_FRUITS",
+      "locus": "7.65",
+      "host": "phalaiḥ",
+      "agreement": "n ins pl",
+      "input": "labdhrimaiḥ"
+    },
+    {
+      "id": "RAM_POND",
+      "locus": "5.12.33",
+      "host": "dīrghikām",
+      "agreement": "f acc sg",
+      "input": "kṛtrimām"
+    },
+    {
+      "id": "RV_DWELLINGS",
+      "locus": "RV 1.55.6",
+      "host": "sádanāni",
+      "agreement": "n acc pl Śākala",
+      "input": "kṛtrímā"
+    }
+  ],
+  "compound_plans": [
+    {
+      "id": "GARMENT",
+      "locus": "Bhk_4.37-1",
+      "prefix": "nañ, a",
+      "stem": "saṃskṛtrima",
+      "host": "saṃvyāna",
+      "result": "asaṃskṛtrima-saṃvyānau"
+    },
+    {
+      "id": "FRUIT",
+      "locus": "Bhk_4.37-1",
+      "prefix": "nañ, an",
+      "stem": "uptrima",
+      "host": "phala in phalāśin",
+      "result": "anuptrima-phalāśinau",
+      "n_owner": "6.3.74 nuṭ"
+    }
+  ],
+  "accent_and_vedic": {
+    "accent_records": [
+      {
+        "id": "MAP",
+        "word": "kṛtrima",
+        "vowel": "i",
+        "owner": "ktri",
+        "basis": [
+          "3.1.3",
+          "3.1.4"
+        ]
+      },
+      {
+        "id": "IMAP",
+        "word": "kṛtrima",
+        "vowel": "i",
+        "owner": "imap",
+        "basis": [
+          "6.4.148",
+          "6.1.161"
+        ]
+      },
+      {
+        "id": "RV",
+        "word": "kṛtrímā",
+        "vowel": "i",
+        "owner": "ktri on Sāyaṇa Map",
+        "basis": [
+          "RV 1.55.6",
+          "Sāyaṇa"
+        ]
+      }
+    ],
+    "locus": "RV 1.55.6",
+    "classical": "kṛtrimāṇi",
+    "case": "acc",
+    "gender": "n",
+    "number": "pl",
+    "status": "Accepted Śākala exact Map occurrence",
+    "ending_path": [
+      "7.1.20 śas to śi",
+      "6.1.70 śi lopa",
+      "1.1.62 pratyayalakṣaṇa",
+      "7.1.72 num",
+      "6.4.8 length",
+      "8.2.7 padānta nominal n lopa"
+    ],
+    "other_affix_at_this_vedic_address": "Open"
+  },
+  "numbers": [
+    "sg",
+    "du",
+    "pl"
+  ],
+  "classical_tails": [
+    {
+      "case": "nom",
+      "m": [
+        "aḥ",
+        "au",
+        "āḥ"
+      ],
+      "f": [
+        "ā",
+        "e",
+        "āḥ"
+      ],
+      "n": [
+        "am",
+        "e",
+        "āṇi"
+      ]
+    },
+    {
+      "case": "acc",
+      "m": [
+        "am",
+        "au",
+        "ān"
+      ],
+      "f": [
+        "ām",
+        "e",
+        "āḥ"
+      ],
+      "n": [
+        "am",
+        "e",
+        "āṇi"
+      ]
+    },
+    {
+      "case": "ins",
+      "m": [
+        "eṇa",
+        "ābhyām",
+        "aiḥ"
+      ],
+      "f": [
+        "ayā",
+        "ābhyām",
+        "ābhiḥ"
+      ],
+      "n": [
+        "eṇa",
+        "ābhyām",
+        "aiḥ"
+      ]
+    },
+    {
+      "case": "dat",
+      "m": [
+        "āya",
+        "ābhyām",
+        "ebhyaḥ"
+      ],
+      "f": [
+        "āyai",
+        "ābhyām",
+        "ābhyaḥ"
+      ],
+      "n": [
+        "āya",
+        "ābhyām",
+        "ebhyaḥ"
+      ]
+    },
+    {
+      "case": "abl",
+      "m": [
+        [
+          "āt",
+          "ād"
+        ],
+        "ābhyām",
+        "ebhyaḥ"
+      ],
+      "f": [
+        "āyāḥ",
+        "ābhyām",
+        "ābhyaḥ"
+      ],
+      "n": [
+        [
+          "āt",
+          "ād"
+        ],
+        "ābhyām",
+        "ebhyaḥ"
+      ]
+    },
+    {
+      "case": "gen",
+      "m": [
+        "asya",
+        "ayoḥ",
+        "āṇām"
+      ],
+      "f": [
+        "āyāḥ",
+        "ayoḥ",
+        "āṇām"
+      ],
+      "n": [
+        "asya",
+        "ayoḥ",
+        "āṇām"
+      ]
+    },
+    {
+      "case": "loc",
+      "m": [
+        "e",
+        "ayoḥ",
+        "eṣu"
+      ],
+      "f": [
+        "āyām",
+        "ayoḥ",
+        "āsu"
+      ],
+      "n": [
+        "e",
+        "ayoḥ",
+        "eṣu"
+      ]
+    },
+    {
+      "case": "voc",
+      "m": [
+        "a",
+        "au",
+        "āḥ"
+      ],
+      "f": [
+        "e",
+        "e",
+        "āḥ"
+      ],
+      "n": [
+        "a",
+        "e",
+        "āṇi"
+      ]
+    }
+  ],
+  "counts": {
+    "classical_positions": 216,
+    "classical_readings": 224,
+    "vedic_positions": 1,
+    "vedic_readings": 1,
+    "positions": 217,
+    "readings": 225
+  },
+  "source_policies": {
+    "open": [
+      "other exact ḍu roots and root meanings",
+      "wider Imap gender/accent and Vedic domains",
+      "the alternative Imap account specifically at RV 1.55.6"
+    ],
+    "excluded": [
+      "numeral tri in 4.4.20",
+      "independently used plain ktri in these requested domains",
+      "copy Classical num retention to this exact Śākala locus",
+      "assign the an-u in anuptrima to verbal anu"
+    ]
+  },
+  "grammar_executions": []
+}

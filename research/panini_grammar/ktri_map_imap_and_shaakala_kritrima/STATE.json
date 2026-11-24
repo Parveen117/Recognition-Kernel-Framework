@@ -1,0 +1,51 @@
+{
+  "schema": "rkf.panini.pg696.state.v1",
+  "author": "Monty",
+  "date": "2026-11-24",
+  "publication_parent": "c264842f01febf02223d4396dfcb87f40baeef14",
+  "baseline": {
+    "commit": "c264842f01febf02223d4396dfcb87f40baeef14",
+    "path": "research/panini_grammar/aksadyutadi_nirvrtta_and_attested_gatanugatika/STATE.json"
+  },
+  "finite_positions": 52323,
+  "nominal_positions": 8997,
+  "nominal_readings": 10585,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 217,
+  "new_nominal_readings": 225,
+  "new_morphological_constructions": 3,
+  "new_morphological_readouts": 11,
+  "new_syntactic_constructions": 1,
+  "new_syntactic_readouts": 4,
+  "new_accent_constructions": 1,
+  "new_accent_readouts": 3,
+  "new_compound_constructions": 1,
+  "new_compound_readouts": 2,
+  "new_source_observations": 7,
+  "new_source_policy_decisions": 2,
+  "new_positions": 0,
+  "new_position_readings": 0,
+  "local_closure": "CLOSED on the nine Classical selected fibres and exact Śākala RV 1.55.6 kṛtrímā",
+  "open_obligations": [
+    "Other attested ḍu roots and the separate imap constructions, ktri beyond the supplied bhāva reading, other Classical genders.",
+    "Other Vedic forms and independently sourced accent and alternative-affix evidence; no resolution of the unrelated Bhaṭṭi mā verse.",
+    "4.4.21 and wider C2–C5/S1–S7, Claude execution."
+  ],
+  "authorization": {
+    "completion_status": "OPEN wider gates",
+    "PG335": "-9 finite/-12 readings preserved",
+    "PG357_PG363": "CLOSED preserved",
+    "continuous_executed_hours_claimed": false
+  },
+  "runtime_policy": {
+    "python": "3.12 only",
+    "document_check_status": "PASS",
+    "document_check_attempts": 1,
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "old_suites": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE"
+  },
+  "grammar_executions": []
+}

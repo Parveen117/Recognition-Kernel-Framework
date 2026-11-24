@@ -2,6 +2,16 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG696 · Dependent ktri, competing i owners and exact Śākala case/accents
+
+PG696: [Bound ktri, map/imap and the Śākala kṛtrímā](ktri_map_imap_and_shaakala_kritrima/README.md). The two suffix analyses preserve different owners of i. Sāyaṇa on RV 1.55.6 explicitly assigns ktri accent and Vedic śi-lopa under Map. Six source-named root profiles, pāka–imap and the selected genders add 216 Classical nominal positions/224 readings, plus one Śākala position/reading. Census 52,323 finite and 8,997 nominal positions/10,585 readings.
+
+Three morphology constructions/11 interfaces, one syntax construction/four records, one accent construction/three records, one compound construction/two plans, seven observations and two decisions. No finite positions or readings. The two outer-suffix accounts for the same Classical display share case-reading credit.
+
+PG521–696 cumulative: 504 finite positions/1,420 net credited finite readings, 3,219 nominal positions/3,842 readings, 272 morphology constructions/2,908 operative interfaces, 126 compound constructions/590 plans, 16 accent constructions/64 records, 151 semantics constructions/440 records, 120 syntax constructions/356 records, 61 source-policy decisions after PG555−1, and 322 observations. Four junction constructions/11 readouts since PG680, four provenance corrections and one proof addendum. PG335 and PG357–363 CLOSED preserved.
+
+The wider ḍu, imap, Vedic and result-affix gates remain Open. The 4.37/7.65 evidence is independent of the unresolved S1 quotation. C2–C5/S1–S7 remain tracked and Claude retains execution. The containing commit pins this packet.
+
 ## PG695 · Akṣadyūtādi outcomes and the short lexical adjective
 
 PG695: [Result adjectives and literary gatānugatika](aksadyutadi_nirvrtta_and_attested_gatanugatika/README.md). The named 4.4.19 membership choices give twelve neuter outcome fibres. Pañcatantra 1.373 and Mudrārākṣasa 6.5 independently supply the short-vowel lexical adjective, with masculine and feminine agreement respectively. The three lexical gender fibres and the outcome fibres add 360 nominal positions and 374 readings. Census 52,323 finite and 8,780 nominal positions/10,360 readings.

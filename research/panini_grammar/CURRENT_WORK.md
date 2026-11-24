@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG695
+# Pāṇini grammar · current written coverage at PG696
+
+PG696: [Bound ktri, map/imap and the Śākala kṛtrímā](ktri_map_imap_and_shaakala_kritrima/README.md). The two suffix analyses preserve different owners of i. Sāyaṇa on RV 1.55.6 explicitly assigns ktri accent and Vedic śi-lopa under Map. Six source-named root profiles, pāka–imap and the selected genders add 216 Classical nominal positions/224 readings, plus one Śākala position/reading. Census 52,323 finite and 8,997 nominal positions/10,585 readings.
 
 PG695: [Result adjectives and literary gatānugatika](aksadyutadi_nirvrtta_and_attested_gatanugatika/README.md). The named 4.4.19 membership choices give twelve neuter outcome fibres. Pañcatantra 1.373 and Mudrārākṣasa 6.5 independently supply the short-vowel lexical adjective, with masculine and feminine agreement respectively. The three lexical gender fibres and the outcome fibres add 360 nominal positions and 374 readings. Census 52,323 finite and 8,780 nominal positions/10,360 readings.
 
