@@ -2,6 +2,48 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG773 · Crop fields, the scope of “entirely,” and what a mirror shows
+
+PG773 · [Crop fields, the scope of “entirely,” and what a mirror shows](fields_for_specific_crops_and_two_markers_on_a_leather_object/README.md). Builds 5.2.1–6 with two complete neuter crop-field panels and separate accounts of whole leather objects and mirror reflections. 63 new nominal positions and 119 readings. Finite positions and readings both increased by zero. One written morphology construction with 14 interfaces, 11 source observations and 5 source decisions. Census: 52,347 finite positions, 21,103 nominal positions and 23,875 nominal readings.
+
+Parent 60ca8a1fc1ec5a751c0ec9ab279f47e9719015de. The containing commit pins this packet. The cause of the short a in the displayed aṇavīna lexical index and the history of the frozen misordered vrīhi signs remain Open. Wider case and accented usage are unreviewed. Continue 5.2.7–17 on extent, movement and named expressions, checking the existing footwear, traveller and figurative state owners. C2–C5 and S1–S7 remain Open. Claude retains execution.
+
+## Publication register from PG746
+
+The starting census at [PG746](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/1338c7689f0ab0040538b31264274695a4d12441) was 52,345 finite positions, 20,351 nominal positions and 22,984 nominal readings. Each following line is the increment owned by that stage. The finite-reading column measures additions. The stage states do not register an absolute finite-reading census.
+
+| Stage | Publication | Finite positions | Finite readings | Nominal positions | Nominal readings | Morphology constructions | Interfaces | Source observations | Source decisions | Additional units |
+|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---|
+| PG747 | [b59844d39905dfcb7a7c6f31581ae20253ab2d73](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/b59844d39905dfcb7a7c6f31581ae20253ab2d73) | 0 | 0 | 14 | 14 | 1 | 16 | 15 | 10 | — |
+| PG748 | [e26f6e8e7efdfd67103e53f4c62f8a5b1ce9e88d](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/e26f6e8e7efdfd67103e53f4c62f8a5b1ce9e88d) | 0 | 0 | 22 | 27 | 1 | 26 | 12 | 9 | — |
+| PG749 | [9c1acb438f4727da30069642132ff773fb9f5aa4](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/9c1acb438f4727da30069642132ff773fb9f5aa4) | 0 | 0 | 36 | 38 | 1 | 35 | 14 | 8 | — |
+| PG750 | [e3d7d7a3dac7c49f3e4249f71207a7ce4ddda3eb](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/e3d7d7a3dac7c49f3e4249f71207a7ce4ddda3eb) | 0 | 0 | 18 | 19 | 1 | 19 | 12 | 7 | — |
+| PG751 | [541eca4e0240c645d667484f927347f584996e7e](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/541eca4e0240c645d667484f927347f584996e7e) | 0 | 0 | 29 | 34 | 1 | 29 | 12 | 6 | — |
+| PG752 | [379fe3da2caec03fa23b164916e66fc80d9a3172](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/379fe3da2caec03fa23b164916e66fc80d9a3172) | 0 | 0 | 42 | 62 | 1 | 39 | 18 | 7 | — |
+| PG753 | [550965ed2975787e28e9eb70dfd2ac2bb8eb7e62](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/550965ed2975787e28e9eb70dfd2ac2bb8eb7e62) | 0 | 0 | 27 | 30 | 1 | 25 | 17 | 6 | — |
+| PG754 | [14e1d19ffb882aaf057e5e55b9bf49f2545e6ba3](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/14e1d19ffb882aaf057e5e55b9bf49f2545e6ba3) | 0 | 0 | 29 | 44 | 1 | 28 | 16 | 6 | — |
+| PG755 | [a2cc20f51fbb092758c43936e2151603409786a5](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/a2cc20f51fbb092758c43936e2151603409786a5) | 0 | 0 | 21 | 21 | 1 | 23 | 9 | 6 | — |
+| PG756 | [efd3182b253041e5cae80c393fd0e1e5b16073e0](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/efd3182b253041e5cae80c393fd0e1e5b16073e0) | 0 | 0 | 19 | 21 | 1 | 18 | 11 | 5 | — |
+| PG757 | [37fc8444f2c1f114b32e413aa1ff0ea88e2222b4](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/37fc8444f2c1f114b32e413aa1ff0ea88e2222b4) | 0 | 0 | 28 | 33 | 1 | 25 | 15 | 6 | — |
+| PG758 | [10c1efab2e5afeee4e563a1300189ba065433b4c](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/10c1efab2e5afeee4e563a1300189ba065433b4c) | 0 | 0 | 96 | 98 | 1 | 27 | 10 | 6 | — |
+| PG759 | [6151f8002a28ab1d1d0ddba33b35d97b27a2bbfb](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/6151f8002a28ab1d1d0ddba33b35d97b27a2bbfb) | 0 | 0 | 5 | 5 | 1 | 7 | 14 | 6 | — |
+| PG760 | [25f63fe26c9a611308dec7384e51de8d83a4c181](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/25f63fe26c9a611308dec7384e51de8d83a4c181) | 0 | 0 | 27 | 43 | 1 | 33 | 16 | 6 | — |
+| PG761 | [8a5625669faf6c7d796d12c7771e84690bf5a863](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/8a5625669faf6c7d796d12c7771e84690bf5a863) | 0 | 0 | 0 | 0 | 0 | 0 | 8 | 4 | — |
+| PG762 | [6eeb5bc7bf1a3257ca21709d1bac90eedc15b756](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/6eeb5bc7bf1a3257ca21709d1bac90eedc15b756) | 0 | 0 | 0 | 0 | 0 | 0 | 7 | 4 | — |
+| PG763 | [40986f8866a49405643c55845b25945a4959f912](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/40986f8866a49405643c55845b25945a4959f912) | 0 | 0 | 57 | 62 | 1 | 27 | 17 | 6 | — |
+| PG764 | [87e59d08233b6fd63a1797739df2feee10fda147](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/87e59d08233b6fd63a1797739df2feee10fda147) | 0 | 0 | 0 | 0 | 0 | 0 | 8 | 4 | — |
+| PG765 | [00edbd94430c600ae11f7b5aa4e7febe8c300636](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/00edbd94430c600ae11f7b5aa4e7febe8c300636) | 0 | 0 | 23 | 24 | 1 | 19 | 17 | 5 | — |
+| PG766 | [c792a706df538102a9ff6b922f34b5c1b8ab70fd](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/c792a706df538102a9ff6b922f34b5c1b8ab70fd) | 0 | 0 | 35 | 36 | 1 | 19 | 17 | 5 | — |
+| PG767 | [08b5344c50306f7e5a5bfd080519239f7be06f86](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/08b5344c50306f7e5a5bfd080519239f7be06f86) | 0 | 0 | 7 | 7 | 1 | 15 | 12 | 5 | 1 syntax constructions, 17 syntax readouts |
+| PG768 | [def772c6c8f0d3a19af40a77e3253d6a6418a669](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/def772c6c8f0d3a19af40a77e3253d6a6418a669) | 0 | 0 | 4 | 4 | 1 | 6 | 13 | 6 | 1 accent constructions, 5 accent readouts |
+| PG769 | [c57b9b6265841acabaf8e8cff1377005dc41ea30](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/c57b9b6265841acabaf8e8cff1377005dc41ea30) | 0 | 0 | 51 | 51 | 1 | 12 | 15 | 6 | — |
+| PG770 | [55e75a781e9de41a408b4721a628b8aeeadd482a](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/55e75a781e9de41a408b4721a628b8aeeadd482a) | 0 | 0 | 43 | 43 | 1 | 21 | 17 | 6 | — |
+| PG771 | [8b80a9224a1dfb98439f33459671dfd28fedcf5f](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/8b80a9224a1dfb98439f33459671dfd28fedcf5f) | 0 | 0 | 54 | 54 | 1 | 16 | 14 | 6 | — |
+| PG772 | [60ca8a1fc1ec5a751c0ec9ab279f47e9719015de](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/60ca8a1fc1ec5a751c0ec9ab279f47e9719015de) | 2 | 2 | 2 | 2 | 1 | 8 | 10 | 6 | 1 syntax constructions, 3 syntax readouts |
+| PG773 | Containing commit | 0 | 0 | 63 | 119 | 1 | 14 | 11 | 5 | — |
+
+Through PG773 the census is 52,347 finite positions, 21,103 nominal positions and 23,875 nominal readings. The PG335 correction is carried through the baseline. Protected registers contribute no new units here.
+
 ## PG772 · Two causal predicates and the changing cases of hotrā in Aitareya 6.14
 
 PG772 · [Two causal predicates and the changing cases of hotrā in Aitareya 6.14](two_causal_predicates_and_the_hotraa_offices_in_aitareya/README.md). Builds the two finite pra-bhū causal forms of Aitareya 6.14.4 and resolves the first oblique of 6.14.2 on Sāyaṇa’s explanation. 2 new nominal positions and 2 readings. 2 new finite positions and 2 finite readings. One syntax construction with three readouts. One written morphology construction with 8 interfaces, 10 source observations and 6 source decisions. Census: 52,347 finite positions, 21,040 nominal positions and 23,756 nominal readings.

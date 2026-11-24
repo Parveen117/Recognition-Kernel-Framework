@@ -1,0 +1,636 @@
+{
+  "stage": "PG773",
+  "morphology_interfaces": [
+    {
+      "id": "GRAIN",
+      "base": "mudga, kodrava, kulattha",
+      "guard": "their growing field",
+      "affix": "khañ",
+      "result": "maudgīna, kaudravīṇa, kaulatthīna"
+    },
+    {
+      "id": "HGR",
+      "base": "nīvāra",
+      "guard": "Haima wild-rice example",
+      "affix": "Haima field suffix",
+      "result": "naivārīṇa"
+    },
+    {
+      "id": "RICE",
+      "base": "vrīhi or śāli",
+      "guard": "two named rice fields",
+      "affix": "ḍhak",
+      "result": "vraiheya or śāleya"
+    },
+    {
+      "id": "YAV",
+      "base": "yava, yavaka, ṣaṣṭika",
+      "guard": "three named crops",
+      "affix": "yat",
+      "result": "yavya, yavakya, ṣaṣṭikya"
+    },
+    {
+      "id": "TILY",
+      "base": "tila",
+      "guard": "first permitted field history",
+      "affix": "yat",
+      "result": "tilya"
+    },
+    {
+      "id": "TAIL",
+      "base": "tila",
+      "guard": "alternative with grade",
+      "affix": "khañ",
+      "result": "tailīna"
+    },
+    {
+      "id": "MASHY",
+      "base": "māṣa",
+      "guard": "ṣ can reach an outer n",
+      "affix": "yat",
+      "result": "māṣya"
+    },
+    {
+      "id": "MASHIN",
+      "base": "māṣa",
+      "guard": "ṣ reaches the inner suffix n",
+      "affix": "khañ",
+      "result": "māṣīṇa"
+    },
+    {
+      "id": "OPTY",
+      "base": "umā, bhaṅgā, aṇu",
+      "guard": "optional field branch",
+      "affix": "yat",
+      "result": "umya, bhaṅgya, aṇavya"
+    },
+    {
+      "id": "OPTK",
+      "base": "same three named crops",
+      "guard": "alternative with grade",
+      "affix": "khañ",
+      "result": "aumīna, bhāṅgīna, āṇavīna"
+    },
+    {
+      "id": "LEKH",
+      "base": "sarva plus carman",
+      "guard": "whole object made of leather",
+      "affix": "kha",
+      "result": "sarvacarmīṇa"
+    },
+    {
+      "id": "LEKJ",
+      "base": "same material and scope",
+      "guard": "alternative with initial grade",
+      "affix": "khañ",
+      "result": "sārvacarmīṇa"
+    },
+    {
+      "id": "IMG",
+      "base": "yathāmukha",
+      "guard": "support of a likeness",
+      "affix": "kha",
+      "result": "yathāmukhīna"
+    },
+    {
+      "id": "ALL",
+      "base": "sammukha",
+      "guard": "support which displays the entire face",
+      "affix": "kha",
+      "result": "sammukhīna"
+    }
+  ],
+  "nominal_positions": [
+    {
+      "id": "P01",
+      "source": "K1",
+      "input_history": "GRAIN",
+      "case_number": "N NOMsg",
+      "word": "maudgīnam",
+      "interpretation": "The particular grain grows in the field qualified by this adjective."
+    },
+    {
+      "id": "P02",
+      "source": "K1",
+      "input_history": "GRAIN",
+      "case_number": "N NOMsg",
+      "word": "kaudravīṇam",
+      "interpretation": "The particular grain grows in the field qualified by this adjective."
+    },
+    {
+      "id": "P03",
+      "source": "K1",
+      "input_history": "GRAIN",
+      "case_number": "N NOMsg",
+      "word": "kaulatthīnam",
+      "interpretation": "The particular grain grows in the field qualified by this adjective."
+    },
+    {
+      "id": "P04",
+      "source": "HEMA",
+      "input_history": "HGR",
+      "case_number": "N NOMsg",
+      "word": "naivārīṇam",
+      "interpretation": "Nīvāra field in the Siddhahema example."
+    },
+    {
+      "id": "P05",
+      "source": "K2",
+      "input_history": "RICE",
+      "case_number": "N NOMsg",
+      "word": "vraiheyam",
+      "interpretation": "Separate grammatical citation. Amara joins the rice terms in a single expression."
+    },
+    {
+      "id": "P06",
+      "source": "K2",
+      "input_history": "RICE",
+      "case_number": "N NOMsg",
+      "word": "śāleyam",
+      "interpretation": "Separate grammatical citation. Amara joins the rice terms in a single expression."
+    },
+    {
+      "id": "P07",
+      "source": "AM",
+      "input_history": "YAV",
+      "case_number": "N NOMsg",
+      "word": "yavyam",
+      "interpretation": "Separate word in Amara 2.9.7.1 with field as referent."
+    },
+    {
+      "id": "P08",
+      "source": "AM",
+      "input_history": "YAV",
+      "case_number": "N NOMsg",
+      "word": "yavakyam",
+      "interpretation": "Separate word in Amara 2.9.7.1 with field as referent."
+    },
+    {
+      "id": "P09",
+      "source": "AM",
+      "input_history": "YAV",
+      "case_number": "N NOMsg",
+      "word": "ṣaṣṭikyam",
+      "interpretation": "Separate word in Amara 2.9.7.1 with field as referent."
+    },
+    {
+      "id": "P10",
+      "source": "K4",
+      "input_history": "TILY/TAIL",
+      "case_number": "N NOMsg",
+      "word": "tilyam / tailīnam",
+      "interpretation": "Growing field of tila. Cited alternatives."
+    },
+    {
+      "id": "P11",
+      "source": "GRID",
+      "input_history": "TILY/TAIL",
+      "case_number": "N NOMdu",
+      "word": "tilye / tailīne",
+      "interpretation": "Growing field of tila. Written on the pinned ordinary neuter model."
+    },
+    {
+      "id": "P12",
+      "source": "GRID",
+      "input_history": "TILY/TAIL",
+      "case_number": "N NOMpl",
+      "word": "tilyāni / tailīnāni",
+      "interpretation": "Growing field of tila. Written on the pinned ordinary neuter model."
+    },
+    {
+      "id": "P13",
+      "source": "GRID",
+      "input_history": "TILY/TAIL",
+      "case_number": "N ACCsg",
+      "word": "tilyam / tailīnam",
+      "interpretation": "Growing field of tila. Written on the pinned ordinary neuter model."
+    },
+    {
+      "id": "P14",
+      "source": "GRID",
+      "input_history": "TILY/TAIL",
+      "case_number": "N ACCdu",
+      "word": "tilye / tailīne",
+      "interpretation": "Growing field of tila. Written on the pinned ordinary neuter model."
+    },
+    {
+      "id": "P15",
+      "source": "GRID",
+      "input_history": "TILY/TAIL",
+      "case_number": "N ACCpl",
+      "word": "tilyāni / tailīnāni",
+      "interpretation": "Growing field of tila. Written on the pinned ordinary neuter model."
+    },
+    {
+      "id": "P16",
+      "source": "GRID",
+      "input_history": "TILY/TAIL",
+      "case_number": "N INSsg",
+      "word": "tilyena / tailīnena",
+      "interpretation": "Growing field of tila. Written on the pinned ordinary neuter model."
+    },
+    {
+      "id": "P17",
+      "source": "GRID",
+      "input_history": "TILY/TAIL",
+      "case_number": "N INSdu",
+      "word": "tilyābhyām / tailīnābhyām",
+      "interpretation": "Growing field of tila. Written on the pinned ordinary neuter model."
+    },
+    {
+      "id": "P18",
+      "source": "GRID",
+      "input_history": "TILY/TAIL",
+      "case_number": "N INSpl",
+      "word": "tilyaiḥ / tailīnaiḥ",
+      "interpretation": "Growing field of tila. Written on the pinned ordinary neuter model."
+    },
+    {
+      "id": "P19",
+      "source": "GRID",
+      "input_history": "TILY/TAIL",
+      "case_number": "N DATsg",
+      "word": "tilyāya / tailīnāya",
+      "interpretation": "Growing field of tila. Written on the pinned ordinary neuter model."
+    },
+    {
+      "id": "P20",
+      "source": "GRID",
+      "input_history": "TILY/TAIL",
+      "case_number": "N DATdu",
+      "word": "tilyābhyām / tailīnābhyām",
+      "interpretation": "Growing field of tila. Written on the pinned ordinary neuter model."
+    },
+    {
+      "id": "P21",
+      "source": "GRID",
+      "input_history": "TILY/TAIL",
+      "case_number": "N DATpl",
+      "word": "tilyebhyaḥ / tailīnebhyaḥ",
+      "interpretation": "Growing field of tila. Written on the pinned ordinary neuter model."
+    },
+    {
+      "id": "P22",
+      "source": "GRID",
+      "input_history": "TILY/TAIL",
+      "case_number": "N ABLsg",
+      "word": "tilyād / tilyāt / tailīnād / tailīnāt",
+      "interpretation": "Growing field of tila. Written on the pinned ordinary neuter model."
+    },
+    {
+      "id": "P23",
+      "source": "GRID",
+      "input_history": "TILY/TAIL",
+      "case_number": "N ABLdu",
+      "word": "tilyābhyām / tailīnābhyām",
+      "interpretation": "Growing field of tila. Written on the pinned ordinary neuter model."
+    },
+    {
+      "id": "P24",
+      "source": "GRID",
+      "input_history": "TILY/TAIL",
+      "case_number": "N ABLpl",
+      "word": "tilyebhyaḥ / tailīnebhyaḥ",
+      "interpretation": "Growing field of tila. Written on the pinned ordinary neuter model."
+    },
+    {
+      "id": "P25",
+      "source": "GRID",
+      "input_history": "TILY/TAIL",
+      "case_number": "N GENsg",
+      "word": "tilyasya / tailīnasya",
+      "interpretation": "Growing field of tila. Written on the pinned ordinary neuter model."
+    },
+    {
+      "id": "P26",
+      "source": "GRID",
+      "input_history": "TILY/TAIL",
+      "case_number": "N GENdu",
+      "word": "tilyayoḥ / tailīnayoḥ",
+      "interpretation": "Growing field of tila. Written on the pinned ordinary neuter model."
+    },
+    {
+      "id": "P27",
+      "source": "GRID",
+      "input_history": "TILY/TAIL",
+      "case_number": "N GENpl",
+      "word": "tilyānām / tailīnānām",
+      "interpretation": "Growing field of tila. Written on the pinned ordinary neuter model."
+    },
+    {
+      "id": "P28",
+      "source": "GRID",
+      "input_history": "TILY/TAIL",
+      "case_number": "N LOCsg",
+      "word": "tilye / tailīne",
+      "interpretation": "Growing field of tila. Written on the pinned ordinary neuter model."
+    },
+    {
+      "id": "P29",
+      "source": "GRID",
+      "input_history": "TILY/TAIL",
+      "case_number": "N LOCdu",
+      "word": "tilyayoḥ / tailīnayoḥ",
+      "interpretation": "Growing field of tila. Written on the pinned ordinary neuter model."
+    },
+    {
+      "id": "P30",
+      "source": "GRID",
+      "input_history": "TILY/TAIL",
+      "case_number": "N LOCpl",
+      "word": "tilyeṣu / tailīneṣu",
+      "interpretation": "Growing field of tila. Written on the pinned ordinary neuter model."
+    },
+    {
+      "id": "P31",
+      "source": "GRID",
+      "input_history": "TILY/TAIL",
+      "case_number": "N VOCsg",
+      "word": "tilya / tailīna",
+      "interpretation": "Growing field of tila. Written on the pinned ordinary neuter model."
+    },
+    {
+      "id": "P32",
+      "source": "GRID",
+      "input_history": "TILY/TAIL",
+      "case_number": "N VOCdu",
+      "word": "tilye / tailīne",
+      "interpretation": "Growing field of tila. Written on the pinned ordinary neuter model."
+    },
+    {
+      "id": "P33",
+      "source": "GRID",
+      "input_history": "TILY/TAIL",
+      "case_number": "N VOCpl",
+      "word": "tilyāni / tailīnāni",
+      "interpretation": "Growing field of tila. Written on the pinned ordinary neuter model."
+    },
+    {
+      "id": "P34",
+      "source": "K4",
+      "input_history": "MASHY/MASHIN",
+      "case_number": "N NOMsg",
+      "word": "māṣyam / māṣīṇam",
+      "interpretation": "Growing field of māṣa. Cited alternatives."
+    },
+    {
+      "id": "P35",
+      "source": "GRID",
+      "input_history": "MASHY/MASHIN",
+      "case_number": "N NOMdu",
+      "word": "māṣye / māṣīṇe",
+      "interpretation": "Growing field of māṣa. Written on the pinned ordinary neuter model."
+    },
+    {
+      "id": "P36",
+      "source": "GRID",
+      "input_history": "MASHY/MASHIN",
+      "case_number": "N NOMpl",
+      "word": "māṣyāṇi / māṣīṇāni",
+      "interpretation": "Growing field of māṣa. Written on the pinned ordinary neuter model."
+    },
+    {
+      "id": "P37",
+      "source": "GRID",
+      "input_history": "MASHY/MASHIN",
+      "case_number": "N ACCsg",
+      "word": "māṣyam / māṣīṇam",
+      "interpretation": "Growing field of māṣa. Written on the pinned ordinary neuter model."
+    },
+    {
+      "id": "P38",
+      "source": "GRID",
+      "input_history": "MASHY/MASHIN",
+      "case_number": "N ACCdu",
+      "word": "māṣye / māṣīṇe",
+      "interpretation": "Growing field of māṣa. Written on the pinned ordinary neuter model."
+    },
+    {
+      "id": "P39",
+      "source": "GRID",
+      "input_history": "MASHY/MASHIN",
+      "case_number": "N ACCpl",
+      "word": "māṣyāṇi / māṣīṇāni",
+      "interpretation": "Growing field of māṣa. Written on the pinned ordinary neuter model."
+    },
+    {
+      "id": "P40",
+      "source": "GRID",
+      "input_history": "MASHY/MASHIN",
+      "case_number": "N INSsg",
+      "word": "māṣyeṇa / māṣīṇena",
+      "interpretation": "Growing field of māṣa. Written on the pinned ordinary neuter model."
+    },
+    {
+      "id": "P41",
+      "source": "GRID",
+      "input_history": "MASHY/MASHIN",
+      "case_number": "N INSdu",
+      "word": "māṣyābhyām / māṣīṇābhyām",
+      "interpretation": "Growing field of māṣa. Written on the pinned ordinary neuter model."
+    },
+    {
+      "id": "P42",
+      "source": "GRID",
+      "input_history": "MASHY/MASHIN",
+      "case_number": "N INSpl",
+      "word": "māṣyaiḥ / māṣīṇaiḥ",
+      "interpretation": "Growing field of māṣa. Written on the pinned ordinary neuter model."
+    },
+    {
+      "id": "P43",
+      "source": "GRID",
+      "input_history": "MASHY/MASHIN",
+      "case_number": "N DATsg",
+      "word": "māṣyāya / māṣīṇāya",
+      "interpretation": "Growing field of māṣa. Written on the pinned ordinary neuter model."
+    },
+    {
+      "id": "P44",
+      "source": "GRID",
+      "input_history": "MASHY/MASHIN",
+      "case_number": "N DATdu",
+      "word": "māṣyābhyām / māṣīṇābhyām",
+      "interpretation": "Growing field of māṣa. Written on the pinned ordinary neuter model."
+    },
+    {
+      "id": "P45",
+      "source": "GRID",
+      "input_history": "MASHY/MASHIN",
+      "case_number": "N DATpl",
+      "word": "māṣyebhyaḥ / māṣīṇebhyaḥ",
+      "interpretation": "Growing field of māṣa. Written on the pinned ordinary neuter model."
+    },
+    {
+      "id": "P46",
+      "source": "GRID",
+      "input_history": "MASHY/MASHIN",
+      "case_number": "N ABLsg",
+      "word": "māṣyād / māṣyāt / māṣīṇād / māṣīṇāt",
+      "interpretation": "Growing field of māṣa. Written on the pinned ordinary neuter model."
+    },
+    {
+      "id": "P47",
+      "source": "GRID",
+      "input_history": "MASHY/MASHIN",
+      "case_number": "N ABLdu",
+      "word": "māṣyābhyām / māṣīṇābhyām",
+      "interpretation": "Growing field of māṣa. Written on the pinned ordinary neuter model."
+    },
+    {
+      "id": "P48",
+      "source": "GRID",
+      "input_history": "MASHY/MASHIN",
+      "case_number": "N ABLpl",
+      "word": "māṣyebhyaḥ / māṣīṇebhyaḥ",
+      "interpretation": "Growing field of māṣa. Written on the pinned ordinary neuter model."
+    },
+    {
+      "id": "P49",
+      "source": "GRID",
+      "input_history": "MASHY/MASHIN",
+      "case_number": "N GENsg",
+      "word": "māṣyasya / māṣīṇasya",
+      "interpretation": "Growing field of māṣa. Written on the pinned ordinary neuter model."
+    },
+    {
+      "id": "P50",
+      "source": "GRID",
+      "input_history": "MASHY/MASHIN",
+      "case_number": "N GENdu",
+      "word": "māṣyayoḥ / māṣīṇayoḥ",
+      "interpretation": "Growing field of māṣa. Written on the pinned ordinary neuter model."
+    },
+    {
+      "id": "P51",
+      "source": "GRID",
+      "input_history": "MASHY/MASHIN",
+      "case_number": "N GENpl",
+      "word": "māṣyāṇām / māṣīṇānām",
+      "interpretation": "Growing field of māṣa. Written on the pinned ordinary neuter model."
+    },
+    {
+      "id": "P52",
+      "source": "GRID",
+      "input_history": "MASHY/MASHIN",
+      "case_number": "N LOCsg",
+      "word": "māṣye / māṣīṇe",
+      "interpretation": "Growing field of māṣa. Written on the pinned ordinary neuter model."
+    },
+    {
+      "id": "P53",
+      "source": "GRID",
+      "input_history": "MASHY/MASHIN",
+      "case_number": "N LOCdu",
+      "word": "māṣyayoḥ / māṣīṇayoḥ",
+      "interpretation": "Growing field of māṣa. Written on the pinned ordinary neuter model."
+    },
+    {
+      "id": "P54",
+      "source": "GRID",
+      "input_history": "MASHY/MASHIN",
+      "case_number": "N LOCpl",
+      "word": "māṣyeṣu / māṣīṇeṣu",
+      "interpretation": "Growing field of māṣa. Written on the pinned ordinary neuter model."
+    },
+    {
+      "id": "P55",
+      "source": "GRID",
+      "input_history": "MASHY/MASHIN",
+      "case_number": "N VOCsg",
+      "word": "māṣya / māṣīṇa",
+      "interpretation": "Growing field of māṣa. Written on the pinned ordinary neuter model."
+    },
+    {
+      "id": "P56",
+      "source": "GRID",
+      "input_history": "MASHY/MASHIN",
+      "case_number": "N VOCdu",
+      "word": "māṣye / māṣīṇe",
+      "interpretation": "Growing field of māṣa. Written on the pinned ordinary neuter model."
+    },
+    {
+      "id": "P57",
+      "source": "GRID",
+      "input_history": "MASHY/MASHIN",
+      "case_number": "N VOCpl",
+      "word": "māṣyāṇi / māṣīṇāni",
+      "interpretation": "Growing field of māṣa. Written on the pinned ordinary neuter model."
+    },
+    {
+      "id": "P58",
+      "source": "K4",
+      "input_history": "OPTY/OPTK",
+      "case_number": "N NOMsg",
+      "word": "umyam / aumīnam",
+      "interpretation": "Both cited words answer the same field request."
+    },
+    {
+      "id": "P59",
+      "source": "K4",
+      "input_history": "OPTY/OPTK",
+      "case_number": "N NOMsg",
+      "word": "bhaṅgyam / bhāṅgīnam",
+      "interpretation": "Both cited words answer the same field request."
+    },
+    {
+      "id": "P60",
+      "source": "K4",
+      "input_history": "OPTY/OPTK",
+      "case_number": "N NOMsg",
+      "word": "aṇavyam / āṇavīnam",
+      "interpretation": "Both cited words answer the same field request."
+    },
+    {
+      "id": "P61",
+      "source": "K5",
+      "input_history": "LEKH/LEKJ",
+      "case_number": "M NOMsg",
+      "word": "sarvacarmīṇaḥ / sārvacarmīṇaḥ",
+      "interpretation": "The resulting object is entirely made of leather."
+    },
+    {
+      "id": "P62",
+      "source": "K6",
+      "input_history": "IMG",
+      "case_number": "M NOMsg",
+      "word": "yathāmukhīnaḥ",
+      "interpretation": "Medium showing a likeness of the face."
+    },
+    {
+      "id": "P63",
+      "source": "K6",
+      "input_history": "ALL",
+      "case_number": "M NOMsg",
+      "word": "sammukhīnaḥ",
+      "interpretation": "Medium showing the entire face."
+    }
+  ],
+  "source_policy_decisions": [
+    {
+      "id": "FIELD",
+      "sources": "K1,K2,K3,AM,HEMA",
+      "decision": "Record the grain that grows. Price, seed measure and benefit are separate historical owners."
+    },
+    {
+      "id": "TEXT",
+      "sources": "K2,K4,AM,IDX",
+      "decision": "The later examples resolve the isolated tala reading. Preserve the index’s short vowel; exclude it as an optional Pāṇinian spelling without additional evidence."
+    },
+    {
+      "id": "UNITS",
+      "sources": "K3,K4,AM",
+      "decision": "Separate words actually written in the verse from compounds, an index expansion and an authored case paradigm."
+    },
+    {
+      "id": "NASAL",
+      "sources": "K4,GRID,NAT",
+      "decision": "Keep the ṇ of the field suffix apart from an outer instrumental n, neuter num or genitive nuṭ. The same ṣ cannot cross an intervening ṇ."
+    },
+    {
+      "id": "SCOPE",
+      "sources": "K5,K6",
+      "decision": "Leather describes the material and sarva the product. The whole face and the reflection support in the second mirror example are different referents."
+    }
+  ]
+}

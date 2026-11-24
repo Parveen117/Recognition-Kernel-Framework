@@ -1,6 +1,8 @@
-# Written-development backlog at PG772
+# Written-development backlog at PG773
 
-Monty · 2026-11-25 · reviewed parent 8b80a9224a1dfb98439f33459671dfd28fedcf5f. Historical closures below retain their exact pins.
+Monty · 2026-11-25 · reviewed parent 60ca8a1fc1ec5a751c0ec9ab279f47e9719015de. Historical closures below retain their exact pins.
+
+PG773 · [Crop fields, the scope of “entirely,” and what a mirror shows](fields_for_specific_crops_and_two_markers_on_a_leather_object/README.md). The cause of the short a in the displayed aṇavīna lexical index and the history of the frozen misordered vrīhi signs remain Open. Wider case and accented usage are unreviewed. Continue 5.2.7–17 on extent, movement and named expressions, checking the existing footwear, traveller and figurative state owners. C2–C5 and S1–S7 remain Open.
 
 PG772 · [Two causal predicates and the changing cases of hotrā in Aitareya 6.14](two_causal_predicates_and_the_hotraa_offices_in_aitareya/README.md). The critical text of the earlier first oblique and unique comparative-historical mood classification of the proposal remain Open. No whole paradigm or unwitnessed auxiliary alternatives are credited. Continue with the rice-field, crop and land relations at 5.2.1 onward, checking prior measured-field owners. S1–S7 retain their separate evidence requirements. C2–C5 and S1–S7 remain Open.
 

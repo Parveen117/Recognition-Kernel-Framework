@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG772
+# Pāṇini grammar · current written coverage at PG773
+
+PG773 · [Crop fields, the scope of “entirely,” and what a mirror shows](fields_for_specific_crops_and_two_markers_on_a_leather_object/README.md). Builds 5.2.1–6 with two complete neuter crop-field panels and separate accounts of whole leather objects and mirror reflections. Census: 52,347 finite positions, 21,103 nominal positions and 23,875 nominal readings.
 
 PG772 · [Two causal predicates and the changing cases of hotrā in Aitareya 6.14](two_causal_predicates_and_the_hotraa_offices_in_aitareya/README.md). Builds the two finite pra-bhū causal forms of Aitareya 6.14.4 and resolves the first oblique of 6.14.2 on Sāyaṇa’s explanation. Census: 52,347 finite positions, 21,040 nominal positions and 23,756 nominal readings.
 
