@@ -1,6 +1,8 @@
-# Written-development backlog at PG747
+# Written-development backlog at PG748
 
-Monty · 2026-11-24 · reviewed parent 1338c7689f0ab0040538b31264274695a4d12441. Historical closures below retain their exact pins.
+Monty · 2026-11-24 · reviewed parent b59844d39905dfcb7a7c6f31581ae20253ab2d73. Historical closures below retain their exact pins.
+
+PG748 · [The wool measure, offering options and the gavādi exceptions](blanket_measure_offering_options_and_gavadi_exceptions/README.md). The longer gavādi and apūpādi witnesses still require a member-by-member concordance and case construction. Original print lineage of the reported Haima calibrations is Open. Continue the additional 5.1.6–11 beneficiaries, including 5.1.8 thyan forms and the compound-sensitive 5.1.9 selection. C2–C5 and S1–S7 remain Open.
 
 PG747 · [Soma eligibility, honey material and the Vedic tāti cases](soma_eligibility_honey_material_and_tati_cases/README.md). Exact primary chandasyaḥ, an independent material vasavya passage and a unique analysis of disputed tāti uses remain Open. Next construct the pre-krīta default and restricted named measure at 5.1.1–5, with 5.1.2/4 priority and lexical exceptions. C2–C5 and S1–S7 remain Open.
 

@@ -2,6 +2,12 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG748 · The wool measure, offering options and the gavādi exceptions
+
+PG748 · [The wool measure, offering options and the gavādi exceptions](blanket_measure_offering_options_and_gavadi_exceptions/README.md). Extends 5.1.1–5 to case readings for default cha, protected and optional yat, the dog-grade accent contrast and the two purchases measured in wool. 22 new nominal positions and 27 readings. Finite positions and readings both increased by zero. One written morphology construction with 26 interfaces, 12 source observations and 9 source decisions. Census: 52,345 finite positions, 20,387 nominal positions and 23,025 nominal readings.
+
+Parent b59844d39905dfcb7a7c6f31581ae20253ab2d73. The containing commit pins this packet. The longer gavādi and apūpādi witnesses still require a member-by-member concordance and case construction. Original print lineage of the reported Haima calibrations is Open. Continue the additional 5.1.6–11 beneficiaries, including 5.1.8 thyan forms and the compound-sensitive 5.1.9 selection. C2–C5 and S1–S7 remain Open. Claude retains execution.
+
 ## PG747 · Soma eligibility, honey material and the Vedic tāti cases
 
 PG747 · [Soma eligibility, honey material and the Vedic tāti cases](soma_eligibility_honey_material_and_tati_cases/README.md). KS 5.2 and PS 1.88.2 establish separate eligibility and material cases. Two wealth interpretations and the maker/state evidence are keyed to their actual verse endings. 14 new nominal positions and 14 readings. Finite positions and readings both increased by zero. One written morphology construction with 16 interfaces, 15 source observations and 10 source decisions. Census: 52,345 finite positions, 20,365 nominal positions and 22,998 nominal readings.

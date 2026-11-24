@@ -1,0 +1,412 @@
+{
+  "stage": "PG748",
+  "morphology_interfaces": [
+    {
+      "id": "CALF",
+      "base": "vatsa",
+      "guard": "5.1.5 benefit to the calves",
+      "affix": "cha",
+      "result": "vatsīya"
+    },
+    {
+      "id": "CAMEL",
+      "base": "karabha",
+      "guard": "5.1.5 benefit to the young camel",
+      "affix": "cha",
+      "result": "karabhīya"
+    },
+    {
+      "id": "STAKE",
+      "base": "śaṅku",
+      "guard": "u-final; target dāru",
+      "affix": "yat",
+      "result": "śaṅkavya"
+    },
+    {
+      "id": "COTTON",
+      "base": "picu",
+      "guard": "u-final; cotton material",
+      "affix": "yat",
+      "result": "picavya"
+    },
+    {
+      "id": "POT",
+      "base": "kamaṇḍalu",
+      "guard": "u-final; clay",
+      "affix": "yat + ṭāp",
+      "result": "kamaṇḍalavyā"
+    },
+    {
+      "id": "HIDE",
+      "base": "sanaṅgu",
+      "guard": "u-final and leather, earlier priority",
+      "affix": "yat",
+      "result": "sanaṅgavya"
+    },
+    {
+      "id": "RICE",
+      "base": "caru",
+      "guard": "u-final and offering, earlier priority",
+      "affix": "yat",
+      "result": "caravya"
+    },
+    {
+      "id": "GRAIN",
+      "base": "saktu",
+      "guard": "u-final and food product, earlier priority",
+      "affix": "yat + ṭāp",
+      "result": "saktavyā"
+    },
+    {
+      "id": "WHEEL",
+      "base": "nābhi",
+      "guard": "wheel member with coupled nabha",
+      "affix": "gavādi yat",
+      "result": "nabhya"
+    },
+    {
+      "id": "BODY",
+      "base": "nābhi",
+      "guard": "part of living body under 5.1.6",
+      "affix": "body-part yat",
+      "result": "nābhya"
+    },
+    {
+      "id": "DS",
+      "base": "śvan",
+      "guard": "gavādi, retained shortened grade with n",
+      "affix": "yat",
+      "result": "śunya"
+    },
+    {
+      "id": "DL",
+      "base": "śvan",
+      "guard": "gavādi, optional length with retained n",
+      "affix": "yat",
+      "result": "śūnya"
+    },
+    {
+      "id": "UDD",
+      "base": "ūdhas",
+      "guard": "ganasūtra substitution",
+      "affix": "anaṅ with yat",
+      "result": "ūdhanya"
+    },
+    {
+      "id": "WEIGHT",
+      "base": "kambala",
+      "guard": "technical wool measure",
+      "affix": "yat",
+      "result": "kambalya"
+    },
+    {
+      "id": "HW",
+      "base": "kambala",
+      "guard": "Haima 7.1.34 published own predicate",
+      "affix": "Haima ya",
+      "result": "kambalya"
+    },
+    {
+      "id": "WOOL",
+      "base": "kambala",
+      "guard": "wool suitable for a blanket, without measure name",
+      "affix": "cha + ṭāp",
+      "result": "kambalīyā"
+    },
+    {
+      "id": "BUY2",
+      "base": "dvi + kambalya",
+      "guard": "purchase caused by two technical units",
+      "affix": "inner yat; outer price affix luk; ṭāp",
+      "result": "dvikambalyā"
+    },
+    {
+      "id": "BUY3",
+      "base": "tri + kambalya",
+      "guard": "purchase caused by three technical units",
+      "affix": "inner yat; outer price affix luk; ṭāp",
+      "result": "trikambalyā"
+    },
+    {
+      "id": "CURDY",
+      "base": "āmikṣā",
+      "guard": "offering kind",
+      "affix": "yat",
+      "result": "āmikṣya"
+    },
+    {
+      "id": "CURDC",
+      "base": "āmikṣā",
+      "guard": "same offering",
+      "affix": "cha",
+      "result": "āmikṣīya"
+    },
+    {
+      "id": "CAKEY",
+      "base": "puroḍāśa",
+      "guard": "offering kind",
+      "affix": "yat",
+      "result": "puroḍāśya"
+    },
+    {
+      "id": "CAKEC",
+      "base": "puroḍāśa",
+      "guard": "same offering",
+      "affix": "cha",
+      "result": "puroḍāśīya"
+    },
+    {
+      "id": "AY",
+      "base": "apūpa",
+      "guard": "named gaṇa member",
+      "affix": "yat",
+      "result": "apūpya"
+    },
+    {
+      "id": "AC",
+      "base": "apūpa",
+      "guard": "same gaṇa member",
+      "affix": "cha",
+      "result": "apūpīya"
+    },
+    {
+      "id": "TY",
+      "base": "taṇḍula",
+      "guard": "named gaṇa member",
+      "affix": "yat",
+      "result": "taṇḍulya"
+    },
+    {
+      "id": "TC",
+      "base": "taṇḍula",
+      "guard": "same gaṇa member",
+      "affix": "cha",
+      "result": "taṇḍulīya"
+    }
+  ],
+  "nominal_positions": [
+    {
+      "id": "CALF",
+      "source": "K1",
+      "input_history": "CALF",
+      "case_number": "M NOMsg",
+      "word": "vatsīyaḥ",
+      "interpretation": "A milker beneficial to calves. Citation vatsīyo before g."
+    },
+    {
+      "id": "CAMEL",
+      "source": "K1",
+      "input_history": "CAMEL",
+      "case_number": "M NOMsg",
+      "word": "karabhīyaḥ",
+      "interpretation": "A camel described in relation to its young."
+    },
+    {
+      "id": "STAKE",
+      "source": "K2",
+      "input_history": "STAKE",
+      "case_number": "N NOMsg",
+      "word": "śaṅkavyam",
+      "interpretation": "Agrees with dāru in the predicative citation."
+    },
+    {
+      "id": "COTTON",
+      "source": "K2",
+      "input_history": "COTTON",
+      "case_number": "M NOMsg",
+      "word": "picavyaḥ",
+      "interpretation": "Agrees with kārpāsaḥ."
+    },
+    {
+      "id": "POT",
+      "source": "K2",
+      "input_history": "POT",
+      "case_number": "F NOMsg",
+      "word": "kamaṇḍalavyā",
+      "interpretation": "Clay suitable as material for a vessel, with mṛttikā."
+    },
+    {
+      "id": "HIDE",
+      "source": "K2",
+      "input_history": "HIDE",
+      "case_number": "N NOMsg",
+      "word": "sanaṅgavyam",
+      "interpretation": "Predicate of carma. The leather-specific exception does not win here."
+    },
+    {
+      "id": "RICE",
+      "source": "K2",
+      "input_history": "RICE",
+      "case_number": "M NOMpl",
+      "word": "caravyāḥ",
+      "interpretation": "Rice grains for caru. Citation surface before taṇḍulāḥ preserves the plural."
+    },
+    {
+      "id": "GRAIN",
+      "source": "K2",
+      "input_history": "GRAIN",
+      "case_number": "F NOMpl",
+      "word": "saktavyāḥ",
+      "interpretation": "With dhānāḥ."
+    },
+    {
+      "id": "AXLE",
+      "source": "K2",
+      "input_history": "WHEEL",
+      "case_number": "M NOMsg",
+      "word": "nabhyaḥ",
+      "interpretation": "An axle suitable for the wheel nave, nabhyo before akṣaḥ."
+    },
+    {
+      "id": "GREASE",
+      "source": "K2",
+      "input_history": "WHEEL",
+      "case_number": "N NOMsg",
+      "word": "nabhyam",
+      "interpretation": "The cited ointment for the nave."
+    },
+    {
+      "id": "OIL",
+      "source": "K2",
+      "input_history": "BODY",
+      "case_number": "N NOMsg",
+      "word": "nābhyam",
+      "interpretation": "Oil benefiting the bodily navel."
+    },
+    {
+      "id": "DOG",
+      "source": "N2",
+      "input_history": "DS/DL",
+      "case_number": "N NOMsg",
+      "word": "śunyam / śūnyam",
+      "interpretation": "Two lengths on one dog-benefit request. Under Nyāsa the pitch is initial on the short and final on the long."
+    },
+    {
+      "id": "WELL",
+      "source": "K2",
+      "input_history": "UDD",
+      "case_number": "M NOMsg",
+      "word": "ūdhanyaḥ",
+      "interpretation": "A well, on the joined kūpaḥ commentary reading."
+    },
+    {
+      "id": "WEIGHT",
+      "source": "K3",
+      "input_history": "WEIGHT/HW",
+      "case_number": "N NOMsg",
+      "word": "kambalyam",
+      "interpretation": "Name of the wool quantity; the two grammar histories converge."
+    },
+    {
+      "id": "WOOL",
+      "source": "K3",
+      "input_history": "WOOL",
+      "case_number": "F NOMsg",
+      "word": "kambalīyā",
+      "interpretation": "Ordinary wool for a blanket."
+    },
+    {
+      "id": "PRICE",
+      "source": "B22",
+      "input_history": "WEIGHT",
+      "case_number": "N INSdu",
+      "word": "kambalyābhyām",
+      "interpretation": "Two such measures as price. Normalized dental l; digital Bāla gives a retroflex lateral."
+    },
+    {
+      "id": "BUY2",
+      "source": "K22",
+      "input_history": "BUY2",
+      "case_number": "F NOMsg",
+      "word": "dvikambalyā",
+      "interpretation": "A feminine referent bought for two measures, inner yat retained."
+    },
+    {
+      "id": "BUY3",
+      "source": "K22",
+      "input_history": "BUY3",
+      "case_number": "F NOMsg",
+      "word": "trikambalyā",
+      "interpretation": "A feminine referent bought for three measures."
+    },
+    {
+      "id": "CURD",
+      "source": "K4",
+      "input_history": "CURDY/CURDC",
+      "case_number": "N NOMsg",
+      "word": "āmikṣyam / āmikṣīyam",
+      "interpretation": "Curd appropriate for the dairy offering."
+    },
+    {
+      "id": "CAKE-RICE",
+      "source": "K4",
+      "input_history": "CAKEY/CAKEC",
+      "case_number": "M NOMpl",
+      "word": "puroḍāśyāḥ / puroḍāśīyāḥ",
+      "interpretation": "Rice grains for puroḍāśa."
+    },
+    {
+      "id": "APUPA",
+      "source": "K4",
+      "input_history": "AY/AC",
+      "case_number": "N NOMsg",
+      "word": "apūpyam / apūpīyam",
+      "interpretation": "The grammarian's neuter predicative citation for the cake."
+    },
+    {
+      "id": "TANDULA",
+      "source": "K4",
+      "input_history": "TY/TC",
+      "case_number": "N NOMsg",
+      "word": "taṇḍulyam / taṇḍulīyam",
+      "interpretation": "The two neuter predicative citations for rice."
+    }
+  ],
+  "source_policy_decisions": [
+    {
+      "id": "SCOPE",
+      "sources": "K1,K4",
+      "decision": "Benefit, intended raw material and potential inclusion are distinct input relations under the heading, PG36 5.1.5/12/16. The next price meaning bounds the heading."
+    },
+    {
+      "id": "PRIORITY",
+      "sources": "K2,N2,K4",
+      "decision": "Literal priority for sanaṅgu, caru and saktu. The optionality for offering names does not supply a cha on these protected requests."
+    },
+    {
+      "id": "WHEEL",
+      "sources": "K2,N2",
+      "decision": "Only the wheel-nave lexical route owns nabha. Terminal i deletion on the body-part path leaves its long ā."
+    },
+    {
+      "id": "DOG",
+      "sources": "N2,K2",
+      "decision": "The two segmental alternatives share n retention. Nyāsa correlates final accent with optional length, where the archived English Vasu displays both words with final marking."
+    },
+    {
+      "id": "WELL",
+      "sources": "K2,N2",
+      "decision": "Read kūpaḥ as the explicit cited head in this edition. K's pinned roster instead punctuates kūpa as a separate item; status as a member in other lists remains source-specific."
+    },
+    {
+      "id": "MEASURE",
+      "sources": "K3,IT,H34",
+      "decision": "Naming or citing the unit and deriving it with a t-marked suffix supply different information. Keep the same-surface Haima ya and the two P semantic explanations distinct."
+    },
+    {
+      "id": "CALIBRATION",
+      "sources": "K3,H34,H186",
+      "decision": "The K and Dhundhikā witnesses give 100 palas. Retain the two alternative numerical expressions as attributed reports. No physical conversion or global unit definition follows."
+    },
+    {
+      "id": "PURCHASE",
+      "sources": "B22,K22,K28",
+      "decision": "Inner named unit survives; the outer price affix is the token deleted. The outer result is an ordinary purchase description. The measure-specific block acts on ṅīp."
+    },
+    {
+      "id": "OPTION",
+      "sources": "K4,K2",
+      "decision": "Literal havis and a word designating an offering have different membership tests. PG744 already owns the Vedic praise case with its inner offering history."
+    }
+  ]
+}

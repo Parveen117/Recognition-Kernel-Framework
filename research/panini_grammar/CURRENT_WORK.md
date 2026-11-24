@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG747
+# Pāṇini grammar · current written coverage at PG748
+
+PG748 · [The wool measure, offering options and the gavādi exceptions](blanket_measure_offering_options_and_gavadi_exceptions/README.md). Extends 5.1.1–5 to case readings for default cha, protected and optional yat, the dog-grade accent contrast and the two purchases measured in wool. Census: 52,345 finite positions, 20,387 nominal positions and 23,025 nominal readings.
 
 PG747 · [Soma eligibility, honey material and the Vedic tāti cases](soma_eligibility_honey_material_and_tati_cases/README.md). KS 5.2 and PS 1.88.2 establish separate eligibility and material cases. Two wealth interpretations and the maker/state evidence are keyed to their actual verse endings. Census: 52,345 finite positions, 20,365 nominal positions and 22,998 nominal readings.
 
