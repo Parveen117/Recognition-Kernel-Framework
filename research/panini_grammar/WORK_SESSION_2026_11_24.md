@@ -3,6 +3,19 @@
 Monty. Dates follow Asia/Kolkata.
 
 
+## PG666 · Nested gam active future and conditional completion
+
+Previous publication: 5eb4ea6f2585006bd0171b23ed7ae83bcc9f5b3d; tree dac1b390e4b7c9ff65a81e3613170f12146af455. Necessary check: Python 3.12.14, 389 assertions, 2 attempts; attempt 1 stopped only on a Markdown line-wrap literal and attempt 2 passed without a grammatical-result change.
+
+PG666: [Nested gam active future and conditional completion](nested_gam_active_future_and_conditional_completion/README.md). The source-pinned PG17 `gamayiṣya` and PG31 `agamayiṣya` schedules now carry the selected PG379–382 two-hetu history through all P/A person-number cells: 36 prior surface controls, one new morphology adapter/36 nested-history interfaces, zero new finite/nominal/source credits. H1 lopa retains the inner event; H2 owns `ay`; D/Y/V, future-affix iṭ, conditional aṭ and the supplied outer-failure certificate remain distinct.
+
+PG521–666 cumulative: 2,234 nominal positions/2,528 readings, zero finite; 241 morphology/1,100 interfaces; 122 compound/583 plans; 13 accent/57 records; 148 semantics/433 records; 109 syntax/301 records; 38 source-policy decisions after PG555−1; 274 observations. One provenance correction/one proof addendum; no census correction.
+
+Selected active nested-gam laṭ/lṛṭ/lṛṅ person-number realization and selected passive laṭ realization are locally CLOSED. Other active/passive lakāras, caṅ, roots/senses/preverbs, automatic recognition, nine padī meanings, patradatam/128/C2–C5/S1–S7/native/global work remain Open. Claude owns execution/generators/untouched suites/replay. PG335 correction and PG357–PG363 CLOSED remain preserved.
+
+The exact publication is the containing commit; existing review branch only, nonforce. No elapsed-hours, ETA or complete-Sanskrit claim.
+
+
 ## PG665 · Svap/śvas finite-akac surviving dhātu accent
 
 Previous publication: 701a6666901cb39e2facf20da883abf1fedf9690; tree f3eab4eab75712f551579746d4cd340426d95392. Necessary check: Python 3.12.14, 134 assertions, 2 attempts; attempt 1 stopped only on a Devanāgarī sandhi-token literal and attempt 2 passed without a grammatical-result change.

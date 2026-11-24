@@ -1,6 +1,8 @@
-# Written-development backlog at PG665
+# Written-development backlog at PG666
 
-Monty · 2026-11-24 · reviewed current parent 701a6666901cb39e2facf20da883abf1fedf9690; historical closures below retain their exact original pins.
+Monty · 2026-11-24 · reviewed current parent 5eb4ea6f2585006bd0171b23ed7ae83bcc9f5b3d; historical closures below retain their exact original pins.
+
+PG666 closes the selected active nested-gam lṛṭ/lṛṅ realization layer: 18 future and 18 conditional P/A cells, one nested-history morphology adapter/36 interfaces. Every surface is an inherited PG17/PG31 ordinary-causative control and receives zero finite-position/reading credit. H1/H2, D/Y/V, outer future-affix iṭ, conditional aṭ and the PG31 semantic certificate remain separately owned. Active luṭ/liṭ/luṅ/āśīrliṅ and present-system continuations, all passive outer lakāras, caṅ, other roots/senses/preverbs and automatic recognition remain genuine unconstructed work. Census unchanged at 51,819 finite; 8,012 nominal positions/9,271 readings.
 
 PG665 positively closes the surviving non-ending accent for exact `svapitaki/śvasitaki`. The fixed 7.2.76 iṭ blocks 6.1.188's aniṭ-only optional initial route; after PG661's ending anudātta, 6.1.162 owns dhātu-final udātta. One accent construction/two records and one bounded source decision; no word/morphology/source-observation recredit. All four fixed PG533 finite-akac words now have local accent owners. Other finite/nominal akac cells, recitation/sandhi and wider gates remain Open. Census unchanged at 51,819 finite; 8,012 nominal positions/9,271 readings.
 

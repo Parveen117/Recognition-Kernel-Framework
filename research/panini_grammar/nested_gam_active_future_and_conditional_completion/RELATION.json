@@ -1,0 +1,56 @@
+{
+  "schema": "rkf.panini.pg666.relation.v1",
+  "scope": "Selected two-hetu gam active lrt/lrng person-number realization",
+  "root": {
+    "id": "1011137",
+    "lemma": "gam",
+    "sense": "admitted movement frame",
+    "preverb": null,
+    "voice": "active kartari",
+    "affix_history": "H1 causal event retained with owned H1 lopa; H2 hetumat nic retained as ay before affix-owned i; sya; outer at only for lrng; selected ting ending"
+  },
+  "roles": {
+    "D": "outer causee, instrumental",
+    "Y": "goal/object, accusative",
+    "V": "outer causer/controller, agrees in person and number"
+  },
+  "admission": {
+    "lrt": "PG17 ordinary future request",
+    "lrng": "PG31 supplied kriyatipatti, temporal interpretation and effective ling-nimitta certificate; failed outer event"
+  },
+  "pada_policies": [
+    {
+      "pada": "P",
+      "condition": "PG382 ordinary residual P or admitted F2+U2 residual P",
+      "lrt_factor": "gamayisya",
+      "lrng_factor": "agamayisya"
+    },
+    {
+      "pada": "A",
+      "condition": "PG382 outer result to V, with or without the admitted result upapada",
+      "lrt_factor": "gamayisya",
+      "lrng_factor": "agamayisya"
+    }
+  ],
+  "accounting": {
+    "total_readouts": 36,
+    "surface_controls": "All 36 surface words already occur in PG17/PG31 ordinary-causative registers and receive zero finite-reading credit.",
+    "new_morphological_constructions": 1,
+    "new_morphological_readouts": 36,
+    "new_finite_positions": 0,
+    "new_finite_readings": 0,
+    "new_source_observations": 0
+  },
+  "open": [
+    "Active lut, lit, lung, asirling and present-system lang/lot/ordinary-ling realization of the nested event",
+    "All passive outer lakaras, cang, other roots, senses, preverbs and automatic semantic recognition",
+    "Independent full-sentence attestation, accent and wider C2-C5/S1-S7/native/global gates"
+  ],
+  "excluded": [
+    "Promoting instrumental D to agreement controller in this inherited frame",
+    "Treating H1 lopa as deletion of the inner causal event",
+    "Treating future-affix i as H2 or conditional at as a preverb",
+    "Admitting lrng from negated lrt without the PG31 semantic certificate",
+    "Crediting homographic ordinary-causative surface words as new finite positions or readings"
+  ]
+}

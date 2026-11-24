@@ -1,0 +1,64 @@
+{
+  "project_dependencies": [
+    {
+      "commit": "1290aa8c8808838aad72038c69c548ddc0550c62",
+      "path": "research/panini_grammar/nested_gam_present_person_number_completion/RELATION.json",
+      "use": "nested root, H1/H2 history, D/Y/V roles and active P/A policies"
+    },
+    {
+      "commit": "8d878f6677f597479fd79d46033cd433a30a49eb",
+      "path": "research/panini_grammar/future_extension/CAUSATIVE_FUTURES.md",
+      "bytes": 9073,
+      "sha256": "4fe5fe29c76a21d2bf430dce6c76937651fb29d5699910a41819186157932e05",
+      "git_blob_sha": "4fe5c0b815ba6014113326f793dac233936fb8a2",
+      "use": "derived gam future factor, outer i ownership, retained nic and gam mit policy"
+    },
+    {
+      "commit": "8d878f6677f597479fd79d46033cd433a30a49eb",
+      "path": "research/panini_grammar/future_extension/PARADIGMS.md",
+      "bytes": 9107,
+      "sha256": "f74286f1de33e753a33a29aa35bb51e2fd7d5c10754bfa8c2e652c504bb94ac5",
+      "git_blob_sha": "8fa9371dd6332f58fd26a86e135d827a9f9677b5",
+      "use": "complete P/A lrt gamayisya ending schedule"
+    },
+    {
+      "commit": "8d878f6677f597479fd79d46033cd433a30a49eb",
+      "path": "research/panini_grammar/future_extension/SOURCE_PINS.json",
+      "bytes": 11740,
+      "sha256": "84aa3906a8704d98ec5a75763f342aeafc342b36f7e8d10eac552456b904a32e",
+      "git_blob_sha": "74924abe5196833569d0dac56e8f473430018930",
+      "use": "immutable PG17 upstream source ledger"
+    },
+    {
+      "commit": "bf22c19eb2e07b34ff240747fc76d69cd976721a",
+      "path": "research/panini_grammar/counterfactual_contexts/SYA_TRANSPORT.md",
+      "bytes": 8096,
+      "sha256": "be7ead05308ecbdbc8bc0bfa0c6feed81e6d60090de8ff1d8b8cec0032e0c9a9",
+      "git_blob_sha": "adf5cdbcaa8ceeac5292373f25da2a9965ee1dbc",
+      "use": "conditional aṭ, retained causal owners and remote-kit block"
+    },
+    {
+      "commit": "bf22c19eb2e07b34ff240747fc76d69cd976721a",
+      "path": "research/panini_grammar/counterfactual_contexts/PARADIGMS.md",
+      "bytes": 11109,
+      "sha256": "a832b9d9263aee559e80ce32458a452f7c27c87e7348decd0d381db5698c255b",
+      "git_blob_sha": "fc6ee9aa1b780fd0c0dbc3f1e2cf8eb7888baabf",
+      "use": "complete P/A lrng agamayisya ending schedule"
+    },
+    {
+      "commit": "bf22c19eb2e07b34ff240747fc76d69cd976721a",
+      "path": "research/panini_grammar/counterfactual_contexts/SOURCE_PINS.json",
+      "bytes": 19642,
+      "sha256": "9272b8b1f4abb3e918253220d19fde8ae754dc82070bb7ab97f8c9f835fa3645",
+      "git_blob_sha": "a404f1345de48596f37b1e8ec5586bd1c45125e0",
+      "use": "immutable PG31 upstream source ledger"
+    }
+  ],
+  "source_decisions": [
+    "Reuse the PG379-PG382 and PG663 nested event/role/pada history without reopening or recrediting it.",
+    "Lift PG17's exact gamayisya and PG31's exact agamayisya P/A schedules into that history; do not infer lrng without PG31's semantic certificate.",
+    "Treat all 36 words as prior surface controls and credit only the new nested-history interfaces."
+  ],
+  "source_observation_credit": 0,
+  "source_policy_decision_credit": 0
+}
