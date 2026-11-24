@@ -1,6 +1,8 @@
-# Written-development backlog at PG792
+# Written-development backlog at PG793
 
-Monty · 2026-11-25 · reviewed parent 698d75056ba0e7e44b0bded453294a70dd84f959. Historical closures below retain their exact pins.
+Monty · 2026-11-25 · reviewed parent b163176d64cc0e9f1fefa525e2635b9af3c4ef5b. Historical closures below retain their exact pins.
+
+PG793 · [Hymn and chapter names, and skilled domains](hymn_chapter_names_and_skilled_domains/README.md). Selected 5.2.59–64 outputs and source-labelled forks are CLOSED. Full gaṇa coverage, critical spelling priority, paradigms and accent remain Open. Continue from 5.2.65. S5 remains 99/103; S6 retains the independent 5.56 k-it effect. C2–C5 and S1–S7 remain Open.
 
 PG792 · [Quantity ordinals and the scope of tamaṭ](quantity_ordinals_and_tamat_scope/README.md). Selected 5.2.53–58 outputs and declared alternatives are CLOSED. Full paradigms, exact accent under augment-versus-affix analyses and critical priority of Kāśikā `ekasaptataḥ` versus Vasu English `ekasaptamaḥ` remain Open. Continue from 5.2.59. S5 remains 99/103; S6 retains the independent specific 5.56 k-it effect. C2–C5 and S1–S7 remain Open.
 

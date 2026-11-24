@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG793 · [Hymn and chapter names, and skilled domains](research/panini_grammar/hymn_chapter_names_and_skilled_domains/README.md). PG14 retains cited shape, containing-text or skill predicate, affix/luk history and source fork through typed zero specialization.
+
 PG792 · [Quantity ordinals and the scope of tamaṭ](research/panini_grammar/quantity_ordinals_and_tamat_scope/README.md). PG14 retains quantity base, special suffix, optional or obligatory `tamaṭ`, prefix scope and source fork through typed zero specialization.
 
 PG791 · [Ordinal augment families and Vedic alternatives](research/panini_grammar/ordinal_augment_families_and_vedic_alternatives/README.md). PG14 retains the completion request, original `ḍaṭ`, each augment, register and source accent through typed zero specialization.

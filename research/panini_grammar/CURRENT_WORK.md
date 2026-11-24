@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG792
+# Pāṇini grammar · current written coverage at PG793
+
+PG793 · [Hymn and chapter names, and skilled domains](hymn_chapter_names_and_skilled_domains/README.md). Completes selected 5.2.59–64 surfaces while preserving three source spelling forks. Census: 52,357 finite positions, 21,407 nominal positions and 24,218 nominal readings.
 
 PG792 · [Quantity ordinals and the scope of tamaṭ](quantity_ordinals_and_tamat_scope/README.md). Completes selected 5.2.53–58 surfaces, including the source-qualified seventy-one fork. Census: 52,357 finite positions, 21,390 nominal positions and 24,195 nominal readings.
 

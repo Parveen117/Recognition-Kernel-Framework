@@ -1,0 +1,26 @@
+{
+  "stage":"PG793",
+  "morphology_constructions":[
+    {"id":"HYMN_CHA","rule":"5.2.59","interfaces":["A","M","Y","V","AV","KQ"]},
+    {"id":"CHAPTER_LUK","rule":"5.2.60","interfaces":["G","DJ","P"]},
+    {"id":"LIST_AN","rule":"5.2.61","interfaces":["VM","DA"]},
+    {"id":"LIST_VUN","rule":"5.2.62","interfaces":["GS","IT","MS"]},
+    {"id":"PATH_SKILL","rule":"5.2.63","interfaces":["PATH"]},
+    {"id":"LIST_SKILL","rule":"5.2.64","interfaces":["AK","TS"]}
+  ],
+  "nominal_positions":[
+    {"id":"A","readings":["acchāvākīyam"]},{"id":"M","readings":["maitrāvaruṇīyam"]},{"id":"Y","readings":["yajñāyajñīyam"]},{"id":"V","readings":["vāravantīyam"]},{"id":"AV","readings":["asyavāmīyam"]},{"id":"KQ","readings":["kayāśubhīyam [K]","kayāpumīyam [Vasu]"]},
+    {"id":"G","readings":["gardabhāṇḍaḥ","gardabhāṇḍīyaḥ"]},{"id":"DJ","readings":["dīrghajīvitaḥ","dīrghajīvitīyaḥ","dīrghajīvatīyaḥ [Vasu]"]},{"id":"P","readings":["palitastambhaḥ","palitastambhīyaḥ"]},
+    {"id":"VM","readings":["vaimuktaḥ"]},{"id":"DA","readings":["daivāsuraḥ"]},
+    {"id":"GS","readings":["goṣadakaḥ"]},{"id":"IT","readings":["iṣetvakaḥ"]},{"id":"MS","readings":["mātariśvakaḥ"]},
+    {"id":"PATH","readings":["pathakaḥ"]},{"id":"AK","readings":["ākarṣakaḥ","ākaṣakaḥ [Vasu variant]"]},{"id":"TS","readings":["tsarukaḥ"]}
+  ],
+  "source_policy_decisions":[
+    {"id":"CITED_SHAPE","decision":"Permit a cited multiword phrase as the source shape only in the named text-title construction."},
+    {"id":"LUK","decision":"Correlate chapter-title cha and optional luk; a bare word is not automatically a title."},
+    {"id":"AN_LIST","decision":"Restrict aṇ to the listed title bases and retain their vṛddhi history."},
+    {"id":"VUN_LIST","decision":"Restrict title-vun to the named list; do not transfer it to path skill."},
+    {"id":"PREDICATE","decision":"Keep textual containment distinct from skill in a locative domain."},
+    {"id":"FORKS","decision":"Retain the quoted-phrase, long-derivative and ākarṣa/ākaṣa forks as source-labelled readings; critical priority remains Open."}
+  ]
+}

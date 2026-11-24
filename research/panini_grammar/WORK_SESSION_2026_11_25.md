@@ -158,9 +158,16 @@ The starting census at [PG746](https://github.com/Parveen117/Recognition-Kernel-
 | PG789 | [021199725240e1795780a5540a3e71a7867b028b](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/021199725240e1795780a5540a3e71a7867b028b) | 0 | 0 | 23 | 26 | 4 | 23 | 0 | 4 | 2 accent constructions, 3 accent records |
 | PG790 | [59ff177813fbd614358940bcb77791931f7204e5](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/59ff177813fbd614358940bcb77791931f7204e5) | 0 | 0 | 11 | 11 | 2 | 11 | 0 | 3 | — |
 | PG791 | [698d75056ba0e7e44b0bded453294a70dd84f959](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/698d75056ba0e7e44b0bded453294a70dd84f959) | 0 | 0 | 18 | 21 | 5 | 18 | 0 | 5 | 1 accent construction, 4 accent records |
-| PG792 | Containing commit | 0 | 0 | 22 | 30 | 6 | 22 | 0 | 6 | — |
+| PG792 | [b163176d64cc0e9f1fefa525e2635b9af3c4ef5b](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/b163176d64cc0e9f1fefa525e2635b9af3c4ef5b) | 0 | 0 | 22 | 30 | 6 | 22 | 0 | 6 | — |
+| PG793 | Containing commit | 0 | 0 | 17 | 23 | 6 | 17 | 0 | 6 | — |
 
-Through PG792 the census is 52,357 finite positions, 21,390 nominal positions and 24,195 nominal readings. The PG335 correction is carried through the baseline. Protected registers contribute no new units here.
+Through PG793 the census is 52,357 finite positions, 21,407 nominal positions and 24,218 nominal readings. The PG335 correction is carried through the baseline. Protected registers contribute no new units here.
+
+## PG793 · Hymn and chapter names, and skilled domains
+
+PG793 · [Hymn and chapter names, and skilled domains](hymn_chapter_names_and_skilled_domains/README.md). Completes selected 5.2.59–64 surfaces: 17 nominal positions/23 readings, six constructions/17 interfaces, zero source observations and six decisions. Census: 52,357 finite; 21,407 nominal positions/24,218 readings.
+
+Parent b163176d64cc0e9f1fefa525e2635b9af3c4ef5b. The containing commit pins this packet. Source spelling priority, full lists, paradigms and accent remain Open. Continue from 5.2.65. C2–C5 and S1–S7 remain Open; Claude retains execution.
 
 ## PG792 · Quantity ordinals and the scope of tamaṭ
 
