@@ -1,6 +1,8 @@
-# Written-development backlog at PG734
+# Written-development backlog at PG735
 
-Monty · 2026-11-24 · reviewed current parent 217278a9c35ddc45dcee7d875065612610a89729. Historical closures below retain their exact pins.
+Monty · 2026-11-24 · reviewed current parent 5071150f130cc321b74ecc29d90f23f48af35476. Historical closures below retain their exact pins.
+
+PG735 · [Piercing conditions and the two cases governed by labdhā](piercing_instrument_guards_and_labdha_case_government/README.md). The named piercing cases, ordinary tṛn/tṛc receiving agents and selected wealth, group and food recipients are locally CLOSED. Vasu confirms the actual rules and the potential-bow control. The genitive Kaṭha use has direct evidence and a source-qualified parse. Ānna feminine, wider double-source instrument conditions, the dhanuṣ etymology, other recitations and 4.4.86 onward remain constructive or Open as addressed. C2–C5/S1–S7 and Claude execution retain their standing obligations.
 
 PG734 · [The yoke’s lexical r and the wedding readings of janya](dhur_lexical_r_and_janya_wedding_witnesses/README.md). The selected ordinary dhur case panel, the direct Bhaṭṭi and Śākala locatives and the named 4.4.82 and H 7.1.11 roles are locally CLOSED. The exact 1928 and printed wedding-variant witnesses are pinned. Other doubling and recitational policies, the critical relationships among kanyām/janyām/janyān, the origin of the maternal-friend stem and wider non-wedding formations remain Open. The independent conditions of 4.4.83 onward remain constructive work. C2–C5/S1–S7 and Claude execution retain their standing obligations.
 

@@ -1,0 +1,70 @@
+{
+  "schema": "rkf.panini.pg735.state.v1",
+  "author": "Monty",
+  "date": "2026-11-24",
+  "publication_parent": "5071150f130cc321b74ecc29d90f23f48af35476",
+  "baseline": {
+    "commit": "5071150f130cc321b74ecc29d90f23f48af35476",
+    "path": "research/panini_grammar/dhur_lexical_r_and_janya_wedding_witnesses/STATE.json"
+  },
+  "finite_positions": 52341,
+  "nominal_positions": 17559,
+  "nominal_readings": 19969,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 337,
+  "new_nominal_readings": 344,
+  "new_nominal_readings_on_new_positions": 344,
+  "new_nominal_readings_on_existing_positions": 0,
+  "new_vedic_nominal_positions": 1,
+  "new_vedic_nominal_readings": 1,
+  "new_positions": 337,
+  "new_position_readings": 344,
+  "new_morphology_constructions": 1,
+  "new_morphology_interfaces": 18,
+  "reused_morphology_interfaces": 1,
+  "new_compound_constructions": 0,
+  "new_compound_plans": 0,
+  "new_semantic_constructions": 1,
+  "new_semantic_readouts": 10,
+  "new_accent_constructions": 1,
+  "new_accent_readouts": 2,
+  "new_phonological_constructions": 1,
+  "new_phonological_readouts": 11,
+  "new_syntactic_constructions": 1,
+  "new_syntactic_readouts": 12,
+  "new_nonfinite_constructions": 0,
+  "new_nonfinite_readouts": 0,
+  "new_source_observations": 18,
+  "new_source_policy_decisions": 13,
+  "direct_multiple_affix_fields": 99,
+  "open_fields": 4,
+  "local_closure": [
+    "Selected 14 ordinary case fibres, one Upaniṣadic case, and exact source-owned instrument/case contracts CLOSED",
+    "P 6.3.53 and 6.1.79 alias decisions positive for preserved sources",
+    "PG191 kartṛ and previous pādya stem retained without prior credit"
+  ],
+  "open_obligations": [
+    "Wider P licensing for other explicitly named external means and additional piercer words needs its own lexical and instrument evidence. The named P/H cases and the attested negative tests retain their current boundaries.",
+    "A literal ānna female panel, non-Classical labdhṛ declension and independent recitational accent evidence for the Kaṭha slot remain Open. The positive singular evidence does not generalize to an unrestricted Vedic ṛ-stem profile.",
+    "Full lexical derivation of dhanuṣ in the nañ group and a systematic comparison of the transmitted Nyāsa rule numbers stay Open beyond the named addressed rules.",
+    "The exact vaśya base and senses at 4.4.86, footprint-bearing padya at 4.4.87 and subsequent stem and lexical-ownership constructions remain active. Wider C2–C5/S1–S7 and S5 99/103 remain on the written register.",
+    "Grammar execution, Sanskrit generators, untouched suites and certificate replay remain assigned to Claude."
+  ],
+  "authorization": {
+    "completion_status": "OPEN wider gates",
+    "PG335": "-9 finite/-12 readings preserved",
+    "PG357_PG363": "CLOSED preserved",
+    "continuous_executed_hours_claimed": false
+  },
+  "runtime_policy": {
+    "python": "3.12 only",
+    "document_check_status": "PASS",
+    "document_check_attempts": 1,
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "old_suites": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE"
+  },
+  "grammar_executions": []
+}

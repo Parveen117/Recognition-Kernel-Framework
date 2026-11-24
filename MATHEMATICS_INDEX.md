@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG735 · [Piercing conditions and the two cases governed by labdhā](research/panini_grammar/piercing_instrument_guards_and_labdha_case_government/README.md). The PG14 histories keep separate P and Haima instrument masks and the tṛn and tṛc government edges. Typed zero specialization recovers the two different object cases on one segmental labdhā.
+
 PG734 · [The yoke’s lexical r and the wedding readings of janya](research/panini_grammar/dhur_lexical_r_and_janya_wedding_witnesses/README.md). Separates lexical r and ru at locative su, including the two source presentations of the Vedic slot, and derives named janya case fibres with separate lexical and textual policies. PG14 zero specialization retains the original r owner and witness.
 
 PG733 · [Loaded yokes, plough carriers and the owners of luk](research/panini_grammar/loaded_yokes_ploughs_and_distinct_luk_owners/README.md). Extends the PG14 history carrier with distinct kha-luk and yat-luk maps and the shared but explicitly triggered ṭāp-luk operation. It derives the named compound and case fibres and the ñit tone from the exact 1910 print.

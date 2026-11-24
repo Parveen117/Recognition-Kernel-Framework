@@ -2,6 +2,16 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG735 · Piercing conditions and the two cases governed by labdhā
+
+PG735 · [Piercing conditions and the two cases governed by labdhā](piercing_instrument_guards_and_labdha_case_government/README.md). Constructs the named 4.4.83–85 and Haima 7.1.8–10 forms. The P possibility-of-bow test stays distinct from Haima’s self-instrument condition. The two labdhā agents have different governed cases and an exact Kaṭha witness anchors the genitive. Census 52,341 finite positions and 17,559 nominal positions with 19,969 nominal readings.
+
+Finite increments 0 positions and 0 readings. Nominal increments 337 positions and 344 readings, including one separately witnessed Upaniṣadic key. One morphology construction with 18 new interfaces and one cited existing stem interface, one syntax construction with 12 readouts, one semantic construction with 10 readouts, one junction construction with 11 readouts and one accent construction with 2 records. 18 source observations and 13 source-policy decisions. Publication parent 5071150f130cc321b74ecc29d90f23f48af35476. The containing commit pins the documents and evidence.
+
+PG521–735 cumulative: 522 finite positions and 1,440 net finite readings, 11,781 nominal positions and 13,226 readings. 309 morphology constructions, 3419 interfaces, 141 compound constructions and 656 plans, 41 accent constructions and 163 records, 167 semantics constructions and 557 records, 156 syntax constructions and 648 records, 409 source-policy decisions after PG555−1 and 827 observations. The PG680 onward junction total is 39 constructions and 167 readouts. PG700 onward nonfinite total remains 22 constructions and 28 paths. PG335 and PG357–363 CLOSED results are preserved.
+
+The named piercing cases, ordinary tṛn/tṛc receiving agents and selected wealth, group and food recipients are locally CLOSED. Vasu confirms the actual rules and the potential-bow control. The genitive Kaṭha use has direct evidence and a source-qualified parse. Ānna feminine, wider double-source instrument conditions, the dhanuṣ etymology, other recitations and 4.4.86 onward remain constructive or Open as addressed. C2–C5/S1–S7 and Claude execution retain their standing obligations.
+
 ## PG734 · The yoke’s lexical r and the wedding readings of janya
 
 PG734 · [The yoke’s lexical r and the wedding readings of janya](dhur_lexical_r_and_janya_wedding_witnesses/README.md). Derives the ordinary consonantal dhur cases and the distinct lexical and poetic wedding roles. The 1928 Bhaṭṭi print proves suffixal ṣ. Mallinātha’s distinct singular/plural analyses and Hemacandra’s exact printed alternative keep their own witness histories. Census 52,341 finite positions and 17,222 nominal positions with 19,625 nominal readings.
