@@ -2,6 +2,12 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG765 · Means, capability, and the time that has come for an offering
+
+PG765 · [Means, capability, and the time that has come for an offering](means_capability_and_time_arrived_for_an_offering/README.md). Constructs the means, capability and arrived-time domains of 5.1.98–108, with direct evidence for the bow's case, the seasonal fire-stick adjective and three ritual-portion cases. 23 new nominal positions and 24 readings. Finite positions and readings both increased by zero. One written morphology construction with 19 interfaces, 17 source observations and 5 source decisions. Census: 52,345 finite positions, 20,844 nominal positions and 23,559 nominal readings.
+
+Parent 87e59d08233b6fd63a1797739df2feee10fda147. The containing commit pins this packet. The precise reason Harisvāmin's presented reference uses the 5.1.97 supplement where the Kāśikā lists the word at 105 remains Open. The exact derivational suffix of the participant adjective is unassigned. Continue 5.1.109 onward, with the different traditions for the path and likeness or conduct expressions. C2–C5 and S1–S7 remain Open. Claude retains execution.
+
 ## PG764 · The May 2020 rule records before the commentary split
 
 PG764 · [The May 2020 rule records before the commentary split](dhi_ca_may_2020_rule_files_before_the_commentary_split/README.md). Traces both misplaced 82025 commentaries to the initial May 2020 per-rule file and demonstrates exact transmission through the October split. 0 new nominal positions and 0 readings. Finite positions and readings both increased by zero. Eight source observations and four source decisions, with zero new morphology constructions or interfaces. Census: 52,345 finite positions, 20,821 nominal positions and 23,535 nominal readings.

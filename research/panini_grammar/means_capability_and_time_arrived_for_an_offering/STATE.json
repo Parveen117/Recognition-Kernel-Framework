@@ -1,0 +1,36 @@
+{
+  "stage": "PG765",
+  "date": "2026-11-25",
+  "publication_parent": "87e59d08233b6fd63a1797739df2feee10fda147",
+  "baseline": {
+    "commit": "87e59d08233b6fd63a1797739df2feee10fda147",
+    "path": "research/panini_grammar/dhi_ca_may_2020_rule_files_before_the_commentary_split/STATE.json"
+  },
+  "finite_positions": 52345,
+  "nominal_positions": 20844,
+  "nominal_readings": 23559,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 23,
+  "new_nominal_readings": 24,
+  "new_morphology_constructions": 1,
+  "new_morphology_interfaces": 19,
+  "new_source_observations": 17,
+  "new_source_policy_decisions": 5,
+  "open_obligations": [
+    "The precise reason Harisvāmin's presented reference uses the 5.1.97 supplement where the Kāśikā lists the word at 105 remains Open. The exact derivational suffix of the participant adjective is unassigned.",
+    "Continue 5.1.109 onward, with the different traditions for the path and likeness or conduct expressions."
+  ],
+  "local_closure": "PG14 histories retain affix pairing, semantic case, time condition, grammatical grade and commentary attribution.",
+  "global_gates": {
+    "C2–C5": "Open",
+    "S1–S7": "Open",
+    "S5_direct_fields": "99/103",
+    "S6": "Independent 5.56 k-it effect Open"
+  },
+  "protected_registers": {
+    "PG335": "-9 finite positions and -12 readings already applied",
+    "PG340/346, PG349–352, PG355–360, PG357–363": "CLOSED on registered scopes"
+  },
+  "runtime_policy": "Written derivation. Only changed-document, source and count checks. Claude owns grammar execution, generators, untouched suites and replay."
+}

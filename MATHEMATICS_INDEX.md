@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG765 · [Means, capability, and the time that has come for an offering](research/panini_grammar/means_capability_and_time_arrived_for_an_offering/README.md). PG14 histories retain affix pairing, semantic case, time condition, grammatical grade and commentary attribution.
+
 PG764 · [The May 2020 rule records before the commentary split](research/panini_grammar/dhi_ca_may_2020_rule_files_before_the_commentary_split/README.md). Closes the electronic per-rule entry and split boundaries on the two named fields.
 
 PG763 · [Five year names, the keeper of a vow, and the sacrifice fee](research/panini_grammar/five_year_names_vows_and_seasonal_offerings/README.md). PG14 histories retain source recension, support case, referent and inflection at zero specialization.

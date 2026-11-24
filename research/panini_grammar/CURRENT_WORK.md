@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG764
+# Pāṇini grammar · current written coverage at PG765
+
+PG765 · [Means, capability, and the time that has come for an offering](means_capability_and_time_arrived_for_an_offering/README.md). Constructs the means, capability and arrived-time domains of 5.1.98–108, with direct evidence for the bow's case, the seasonal fire-stick adjective and three ritual-portion cases. Census: 52,345 finite positions, 20,844 nominal positions and 23,559 nominal readings.
 
 PG764 · [The May 2020 rule records before the commentary split](dhi_ca_may_2020_rule_files_before_the_commentary_split/README.md). Traces both misplaced 82025 commentaries to the initial May 2020 per-rule file and demonstrates exact transmission through the October split. Census: 52,345 finite positions, 20,821 nominal positions and 23,535 nominal readings.
 

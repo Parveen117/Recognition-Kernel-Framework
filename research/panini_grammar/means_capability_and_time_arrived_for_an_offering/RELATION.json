@@ -1,0 +1,351 @@
+{
+  "stage": "PG765",
+  "morphology_interfaces": [
+    {
+      "id": "IND",
+      "base": "yathākathāca",
+      "guard": "indifferent manner of giving or doing",
+      "affix": "ṇa",
+      "result": "yāthākathāca"
+    },
+    {
+      "id": "HAND",
+      "base": "hasta",
+      "guard": "instrumental of means, given or done",
+      "affix": "yat",
+      "result": "hastya"
+    },
+    {
+      "id": "EAR",
+      "base": "karṇaveṣṭaka",
+      "guard": "ornament bringing out excellence of face",
+      "affix": "ṭhañ",
+      "result": "kārṇaveṣṭakika"
+    },
+    {
+      "id": "CLOTH",
+      "base": "vastrayuga",
+      "guard": "garments enhancing body",
+      "affix": "ṭhañ",
+      "result": "vāstrayugika"
+    },
+    {
+      "id": "WORK",
+      "base": "karman",
+      "guard": "instrumental of enhancement",
+      "affix": "yat",
+      "result": "karmaṇya"
+    },
+    {
+      "id": "COST",
+      "base": "veṣa",
+      "guard": "the performer's costume, enhancement",
+      "affix": "yat",
+      "result": "veṣya"
+    },
+    {
+      "id": "CAP",
+      "base": "santāpa or saṃnāha",
+      "guard": "dative complement of capacity, listed base",
+      "affix": "ṭhañ",
+      "result": "sāntāpika or sānnāhika"
+    },
+    {
+      "id": "YOGA",
+      "base": "yoga",
+      "guard": "dative yoga in the capability frame",
+      "affix": "yat or ṭhañ",
+      "result": "yogya or yaugika"
+    },
+    {
+      "id": "BOW",
+      "base": "karman",
+      "guard": "dative capability and named bow referent",
+      "affix": "ukañ",
+      "result": "kārmuka"
+    },
+    {
+      "id": "TIME",
+      "base": "samaya",
+      "guard": "this time has arrived for the referent",
+      "affix": "ṭhañ",
+      "result": "sāmayika"
+    },
+    {
+      "id": "FLOW",
+      "base": "ṛtu",
+      "guard": "season arrived for the flowering referent",
+      "affix": "aṇ with its own grade conditions",
+      "result": "ārtava"
+    },
+    {
+      "id": "ARR",
+      "base": "upavastṛ or prāśitṛ",
+      "guard": "named supplements, agent has arrived for this item",
+      "affix": "aṇ supplement at 105",
+      "result": "aupavastra or prāśitra"
+    },
+    {
+      "id": "HARI",
+      "base": "prāśitṛ",
+      "guard": "Harisvāmin's arrived-eater paraphrase and quoted agnipada supplement",
+      "affix": "aṇ, source-addressed citation",
+      "result": "prāśitra"
+    },
+    {
+      "id": "UNFIT",
+      "base": "aprāśitriya",
+      "guard": "TS lexical adjective of the participant",
+      "affix": "attested nominative, inner affix unassigned",
+      "result": "aprāśitriya"
+    },
+    {
+      "id": "RIVED",
+      "base": "ṛtu",
+      "guard": "Vedic arrived season, 105 overridden",
+      "affix": "ghas",
+      "result": "ṛtviya"
+    },
+    {
+      "id": "SAY",
+      "base": "ṛtviya",
+      "guard": "Sāyaṇa construes occurring in spring etc.",
+      "affix": "lexical interpretation of witnessed adjective",
+      "result": "ṛtviya"
+    },
+    {
+      "id": "DUE",
+      "base": "kāla",
+      "guard": "the time for heat or cold has arrived",
+      "affix": "yat",
+      "result": "kālya"
+    },
+    {
+      "id": "LONG",
+      "base": "kāla",
+      "guard": "prolonged time belonging to a debt or an enmity",
+      "affix": "ṭhañ",
+      "result": "kālika"
+    },
+    {
+      "id": "PER",
+      "base": "kālikā",
+      "guard": "monthly interest as explicitly defined in the text",
+      "affix": "periodic feminine designation, affix history open",
+      "result": "kālikā"
+    }
+  ],
+  "nominal_positions": [
+    {
+      "id": "MANNER",
+      "source": "K98",
+      "input_history": "IND",
+      "case_number": "N NOMsg",
+      "word": "yāthākathācam",
+      "interpretation": "Given or done without care. The instrumental relation is expressed by meaning alone."
+    },
+    {
+      "id": "HAND",
+      "source": "K98",
+      "input_history": "HAND",
+      "case_number": "N NOMsg",
+      "word": "hastyam",
+      "interpretation": "Given or done by hand."
+    },
+    {
+      "id": "EAR",
+      "source": "K99",
+      "input_history": "EAR",
+      "case_number": "N NOMsg",
+      "word": "kārṇaveṣṭakikam",
+      "interpretation": "The face enhanced by a pair of earrings."
+    },
+    {
+      "id": "CLOTH",
+      "source": "K99",
+      "input_history": "CLOTH",
+      "case_number": "N NOMsg",
+      "word": "vāstrayugikam",
+      "interpretation": "The body enhanced by the pair of garments."
+    },
+    {
+      "id": "WORK",
+      "source": "K99",
+      "input_history": "WORK",
+      "case_number": "N NOMsg",
+      "word": "karmaṇyam",
+      "interpretation": "The body in the work-based sampatti construction."
+    },
+    {
+      "id": "COST",
+      "source": "K99",
+      "input_history": "COST",
+      "case_number": "M NOMsg",
+      "word": "veṣyaḥ",
+      "interpretation": "The actor enhanced by costume."
+    },
+    {
+      "id": "HEAT",
+      "source": "K101",
+      "input_history": "CAP",
+      "case_number": "M NOMsg",
+      "word": "sāntāpikaḥ",
+      "interpretation": "Capable of enduring or meeting the stated santāpa."
+    },
+    {
+      "id": "PREP",
+      "source": "K101",
+      "input_history": "CAP",
+      "case_number": "M NOMsg",
+      "word": "sānnāhikaḥ",
+      "interpretation": "Entitled by listed saṃnāha."
+    },
+    {
+      "id": "YOGA",
+      "source": "K101",
+      "input_history": "YOGA",
+      "case_number": "M NOMsg",
+      "word": "yogyaḥ / yaugikaḥ",
+      "interpretation": "Both apply on the same dative yoga request."
+    },
+    {
+      "id": "BOW",
+      "source": "K103",
+      "input_history": "BOW",
+      "case_number": "N NOMsg",
+      "word": "kārmukam",
+      "interpretation": "Grammatical example with dhanuḥ as referent."
+    },
+    {
+      "id": "BOWOBJ",
+      "source": "EPIC",
+      "input_history": "BOW",
+      "case_number": "N ACCsg",
+      "word": "kārmukam",
+      "interpretation": "What Rāma took. The direct object licenses this separate case."
+    },
+    {
+      "id": "DUE",
+      "source": "K104",
+      "input_history": "TIME",
+      "case_number": "N NOMsg",
+      "word": "sāmayikam",
+      "interpretation": "Task whose time has arrived."
+    },
+    {
+      "id": "FLOW",
+      "source": "K104",
+      "input_history": "FLOW",
+      "case_number": "N NOMsg",
+      "word": "ārtavam",
+      "interpretation": "Flower whose season has arrived."
+    },
+    {
+      "id": "FAST",
+      "source": "K104",
+      "input_history": "ARR",
+      "case_number": "N NOMsg",
+      "word": "aupavastram",
+      "interpretation": "Named supplementary output in the arrived-agent paraphrase."
+    },
+    {
+      "id": "PORTION",
+      "source": "SB",
+      "input_history": "ARR/HARI",
+      "case_number": "N NOMsg",
+      "word": "prāśitram",
+      "interpretation": "The ritual portion named. Harisvāmin and the Kāśikā supply two source-address histories."
+    },
+    {
+      "id": "EAT",
+      "source": "TS",
+      "input_history": "ARR",
+      "case_number": "N ACCsg",
+      "word": "prāśitram",
+      "interpretation": "Portion as the object of eating."
+    },
+    {
+      "id": "OF",
+      "source": "PU",
+      "input_history": "ARR",
+      "case_number": "N GENsg",
+      "word": "prāśitrasya",
+      "interpretation": "Sāyaṇa's genitive in the narrative commentary, a distinct textual layer."
+    },
+    {
+      "id": "UNFIT",
+      "source": "PU",
+      "input_history": "UNFIT",
+      "case_number": "M NOMsg",
+      "word": "aprāśitriyaḥ",
+      "interpretation": "Pūṣan described as ineligible, distinct from the portion itself."
+    },
+    {
+      "id": "SEAT",
+      "source": "RV",
+      "input_history": "RIVED/SAY",
+      "case_number": "M NOMsg",
+      "word": "ṛtviyaḥ",
+      "interpretation": "Agni's place of origin. The same opening in AV 3.20.1 gives one case."
+    },
+    {
+      "id": "HOT",
+      "source": "K107",
+      "input_history": "DUE",
+      "case_number": "M NOMsg",
+      "word": "kālyaḥ",
+      "interpretation": "Heat for which the time has come."
+    },
+    {
+      "id": "COLD",
+      "source": "K107",
+      "input_history": "DUE",
+      "case_number": "N NOMsg",
+      "word": "kālyam",
+      "interpretation": "Cold for which the time has come."
+    },
+    {
+      "id": "LONG",
+      "source": "K107",
+      "input_history": "LONG",
+      "case_number": "N NOMsg",
+      "word": "kālikam",
+      "interpretation": "Both debt and enmity persist through a long time."
+    },
+    {
+      "id": "MONTH",
+      "source": "NAR",
+      "input_history": "PER",
+      "case_number": "F NOMsg",
+      "word": "kālikā",
+      "interpretation": "Periodic interest, defined by monthly accrual."
+    }
+  ],
+  "source_policy_decisions": [
+    {
+      "id": "PAIR",
+      "sources": "K98,K99",
+      "decision": "Pair the affixes in order, allowing both given and done independently for each. An indeclinable has no visible instrumental inflection."
+    },
+    {
+      "id": "KARM",
+      "sources": "K99,K101,K103,EPIC",
+      "decision": "Disambiguate karman by underlying syntactic support and sense. Bow is the explicit entitlement guard. The epic supplies the object case."
+    },
+    {
+      "id": "PORT",
+      "sources": "K104,SB,HARI,TS,PU",
+      "decision": "One portion with two explanatory addresses, three separately attested cases/layers and a different adjective for the ineligible eater. Preserve the literal attributed cross-reference."
+    },
+    {
+      "id": "YEAR",
+      "sources": "K104,K106,RV,AV",
+      "decision": "The regular aṇ and Vedic ghas differ in class and grade. Keep the Ṛgvedic commentator's occurrence paraphrase distinct from the grammatical arrival predicate. The AV parallel adds no duplicate word."
+    },
+    {
+      "id": "DEBT",
+      "sources": "K107,NAR,NLOC,MAN",
+      "decision": "Duration of a debt, periodicity of interest and Manu's compound are separate lexical and temporal evidence."
+    }
+  ]
+}

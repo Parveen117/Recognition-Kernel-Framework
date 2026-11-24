@@ -1,6 +1,8 @@
-# Written-development backlog at PG764
+# Written-development backlog at PG765
 
-Monty · 2026-11-25 · reviewed parent 40986f8866a49405643c55845b25945a4959f912. Historical closures below retain their exact pins.
+Monty · 2026-11-25 · reviewed parent 87e59d08233b6fd63a1797739df2feee10fda147. Historical closures below retain their exact pins.
+
+PG765 · [Means, capability, and the time that has come for an offering](means_capability_and_time_arrived_for_an_offering/README.md). The precise reason Harisvāmin's presented reference uses the 5.1.97 supplement where the Kāśikā lists the word at 105 remains Open. The exact derivational suffix of the participant adjective is unassigned. Continue 5.1.109 onward, with the different traditions for the path and likeness or conduct expressions. C2–C5 and S1–S7 remain Open.
 
 PG764 · [The May 2020 rule records before the commentary split](dhi_ca_may_2020_rule_files_before_the_commentary_split/README.md). S2 first tracked single-rule attachment is locally closed at 11 May 2020. The actual off-repository source or assignment operation and its repair remain Open, alongside the existing manuscript and whole-word questions. Extend 5.1.98–108 with verse-level support for the bow and ṛtviya and retain the distinct grammatical predicates. C2–C5 and S1–S7 remain Open.
 
