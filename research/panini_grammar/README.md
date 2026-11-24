@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG679: [Joined sam–gam active-P caṅ completion](sam_gam_joined_cang_active_p_completion/README.md). The positive AV-qualified sam–gam relation is now realized as a bounded ordinary joined P panel: nine new rule-composed finite positions/readings with explicit prefix/aṭ/copy/root/caṅ/ending ownership. A-pada is withheld. Census 51,882 finite and 8,012 nominal/9,271 readings.
+
 PG678: [Atharvaveda sam–gam tmesis and PG672 witness-scope correction](atharvaveda_sam_gam_tmesis_and_pg672_scope_correction/README.md). AVŚ 6.74.1 directly orders separated `sam`, intervening `vaḥ` and caṅ `ajīgamat`. The verbal factor remains a positive control, while the direct null-preverb witness label is narrowed. One syntax construction/four readouts, one source analysis/decision and one provenance correction; no position/readings change. Census remains 51,873 finite and 8,012 nominal/9,271 readings.
 
 PG677: [Nested gam passive blessing and aorist completion](nested_gam_passive_blessing_aorist_completion/README.md). The inherited inner `gamay` blocks a bare-gam mit branch after H2-lopa. Āśīrliṅ adds 9 positions/19 readings; luṅ adds 9/18, with actual ciṇ 3sg and dependent 2pl dh/ḍh ownership. Two morphology adapters/37 interfaces. The selected passive ten-lakāra layer is locally CLOSED. Census 51,873 finite and 8,012 nominal/9,271 readings.

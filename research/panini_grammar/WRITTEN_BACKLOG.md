@@ -1,6 +1,8 @@
-# Written-development backlog at PG678
+# Written-development backlog at PG679
 
-Monty · 2026-11-24 · reviewed current parent 2ee707a1ae94e1ea12f5d1024ded61a8e8b3df65; historical closures below retain their exact original pins.
+Monty · 2026-11-24 · reviewed current parent 6ff94e3fab7b36324ca288a9c18f7577159333d6; historical closures below retain their exact original pins.
+
+PG679 closes the bounded [joined sam–gam active-P caṅ panel](sam_gam_joined_cang_active_p_completion/README.md): nine new rule-composed finite positions/readings and one morphology construction/nine readouts. Prefix remains outside aṭ; copy/root/caṅ owners remain distinct. AV tmesis is not misreported as joined attestation, and A-pada remains genuinely Open pending its own result evidence. Census 51,882 finite; 8,012 nominal/9,271 readings.
 
 PG678 closes the exact AVŚ 6.74.1 [separated sam–gam witness scope](atharvaveda_sam_gam_tmesis_and_pg672_scope_correction/README.md). `sam < vaḥ < ajīgamat` is a typed Vedic tmesis history: PG672's caṅ factor and 18 closed interfaces remain valid, but the verse is not an independent null-preverb request witness. One syntax construction/four readouts, one source-analysis record/decision and one provenance correction; zero census change. Joined `samajīgamat`, wider preverbs/caṅ/karmans and global gates remain Open. Census 51,873 finite; 8,012 nominal/9,271 readings.
 

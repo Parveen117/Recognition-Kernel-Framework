@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG678
+# Pāṇini grammar · current written coverage at PG679
+
+PG679: [Joined sam–gam active-P caṅ completion](sam_gam_joined_cang_active_p_completion/README.md). PG678's positive sam/root/sense relation now composes with prefix-outside-aṭ ordering and PG672's P map: nine new rule-composed `samajīgam-` finite positions/readings, one morphology construction/nine readouts. A-pada remains Open rather than being inferred from P evidence. Census 51,882 finite and 8,012 nominal/9,271 readings.
 
 PG678: [Atharvaveda sam–gam tmesis and PG672 witness-scope correction](atharvaveda_sam_gam_tmesis_and_pg672_scope_correction/README.md). AVŚ 6.74.1 and its pada segmentation positively order `sam < vaḥ < ajīgamat`: the caṅ factor remains valid, but the verse is not an independent null-preverb clause witness. PG672's 18 interfaces and zero credits remain CLOSED. One syntax construction/four readouts, one source analysis/decision and one provenance correction; census unchanged at 51,873 finite and 8,012 nominal/9,271 readings.
 

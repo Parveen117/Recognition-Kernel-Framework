@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG679: [Joined sam–gam active-P caṅ completion](research/panini_grammar/sam_gam_joined_cang_active_p_completion/README.md). PG14's full carrier now lifts the bounded joined `sam + aṭ + jī + gam + caṅ-a + tiṅ` construction; typed zero specialization preserves prefix/aṭ and copy/root ownership. Nine new finite positions/readings; A-pada remains Open.
+
 PG678: [Atharvaveda sam–gam tmesis and PG672 witness-scope correction](research/panini_grammar/atharvaveda_sam_gam_tmesis_and_pg672_scope_correction/README.md). The full PG14 history carrier retains separated preverb, intervening clitic and caṅ verb as typed source-order grades; zero specialization recovers the clause without erasing `sam` or upgrading it to a null-preverb witness. One syntax construction/four readouts and one provenance correction; census unchanged.
 
 PG677: [Nested gam passive blessing and aorist completion](research/panini_grammar/nested_gam_passive_blessing_aorist_completion/README.md). The inherited inner `gamay` blocks a bare-gam mit branch after H2-lopa. Āśīrliṅ adds 9 positions/19 readings; luṅ adds 9/18, with actual ciṇ 3sg and dependent 2pl dh/ḍh ownership. Two morphology adapters/37 interfaces. The selected passive ten-lakāra layer is locally CLOSED. Census 51,873 finite and 8,012 nominal/9,271 readings.
