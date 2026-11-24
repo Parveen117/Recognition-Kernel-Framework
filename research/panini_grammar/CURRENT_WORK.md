@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG769
+# Pāṇini grammar · current written coverage at PG770
+
+PG770 · [Friendship, occupation and the two purposes in a wedding verse](friendship_trade_and_good_fortune_in_the_wedding_verse/README.md). Writes the state, conduct and own-sense cases at 5.1.124–130, including two governors of sakhyam in one verse and separate ritual explanations of the wedding datives. Census: 52,345 finite positions, 20,984 nominal positions and 23,700 nominal readings.
 
 PG769 · [Abstract nouns, negative compounds, and the breadth of a quality](abstract_nouns_negative_compounds_and_the_breadth_of_a_quality/README.md). Builds 5.1.119–123 on witnessed negative compounds, colour and measure abstracts, including one source divergence and two literary cases of breadth. Census: 52,345 finite positions, 20,941 nominal positions and 23,657 nominal readings.
 

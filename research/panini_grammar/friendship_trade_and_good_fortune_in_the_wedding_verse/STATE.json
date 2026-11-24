@@ -1,0 +1,36 @@
+{
+  "stage": "PG770",
+  "date": "2026-11-25",
+  "publication_parent": "c57b9b6265841acabaf8e8cff1377005dc41ea30",
+  "baseline": {
+    "commit": "c57b9b6265841acabaf8e8cff1377005dc41ea30",
+    "path": "research/panini_grammar/abstract_nouns_negative_compounds_and_the_breadth_of_a_quality/STATE.json"
+  },
+  "finite_positions": 52345,
+  "nominal_positions": 20984,
+  "nominal_readings": 23700,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 43,
+  "new_nominal_readings": 43,
+  "new_morphology_constructions": 1,
+  "new_morphology_interfaces": 21,
+  "new_source_observations": 17,
+  "new_source_policy_decisions": 6,
+  "open_obligations": [
+    "The inner historical derivation of saubhaga in the wedding verse and independent witnesses for all gaṇa members and rival readings remain Open.",
+    "Continue 5.1.131–136, especially the accusative and instrumental uses of school terms, named priestly functions, and brahman as officiant versus class word."
+  ],
+  "local_closure": "PG14 keeps each Vedic governor and the two commentarial accounts of the wedding purposes. PG736 retains its case positions.",
+  "global_gates": {
+    "C2–C5": "Open",
+    "S1–S7": "Open",
+    "S5_direct_fields": "99/103",
+    "S6": "Independent 5.56 k-it effect Open"
+  },
+  "protected_registers": {
+    "PG335": "-9 finite positions and -12 readings already applied",
+    "PG340/346, PG349–352, PG355–360, PG357–363": "CLOSED on registered scopes"
+  },
+  "runtime_policy": "Written derivation. Only changed-document, source and count checks. Claude owns grammar execution, generators, untouched suites and replay."
+}

@@ -2,6 +2,12 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG770 · Friendship, occupation and the two purposes in a wedding verse
+
+PG770 · [Friendship, occupation and the two purposes in a wedding verse](friendship_trade_and_good_fortune_in_the_wedding_verse/README.md). Writes the state, conduct and own-sense cases at 5.1.124–130, including two governors of sakhyam in one verse and separate ritual explanations of the wedding datives. 43 new nominal positions and 43 readings. Finite positions and readings both increased by zero. One written morphology construction with 21 interfaces, 17 source observations and 6 source decisions. Census: 52,345 finite positions, 20,984 nominal positions and 23,700 nominal readings.
+
+Parent c57b9b6265841acabaf8e8cff1377005dc41ea30. The containing commit pins this packet. The inner historical derivation of saubhaga in the wedding verse and independent witnesses for all gaṇa members and rival readings remain Open. Continue 5.1.131–136, especially the accusative and instrumental uses of school terms, named priestly functions, and brahman as officiant versus class word. C2–C5 and S1–S7 remain Open. Claude retains execution.
+
 ## PG769 · Abstract nouns, negative compounds, and the breadth of a quality
 
 PG769 · [Abstract nouns, negative compounds, and the breadth of a quality](abstract_nouns_negative_compounds_and_the_breadth_of_a_quality/README.md). Builds 5.1.119–123 on witnessed negative compounds, colour and measure abstracts, including one source divergence and two literary cases of breadth. 51 new nominal positions and 51 readings. Finite positions and readings both increased by zero. One written morphology construction with 12 interfaces, 15 source observations and 6 source decisions. Census: 52,345 finite positions, 20,941 nominal positions and 23,657 nominal readings.

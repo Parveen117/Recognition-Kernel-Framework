@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG770 · [Friendship, occupation and the two purposes in a wedding verse](friendship_trade_and_good_fortune_in_the_wedding_verse/README.md). Writes the state, conduct and own-sense cases at 5.1.124–130, including two governors of sakhyam in one verse and separate ritual explanations of the wedding datives. 43 new nominal positions and 43 readings. Finite positions and readings both increased by zero.
+
 PG769 · [Abstract nouns, negative compounds, and the breadth of a quality](abstract_nouns_negative_compounds_and_the_breadth_of_a_quality/README.md). Builds 5.1.119–123 on witnessed negative compounds, colour and measure abstracts, including one source divergence and two literary cases of breadth. 51 new nominal positions and 51 readings. Finite positions and readings both increased by zero.
 
 PG768 · [Three sevens and five accent readings in the Ṛbhu hymn](three_sevens_and_accent_in_the_rbhu_hymn/README.md). Adds the commentator’s singular group definition and three contextual case forms, with five explicitly attributed accent readings. 4 new nominal positions and 4 readings. Finite positions and readings both increased by zero.

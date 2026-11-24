@@ -1,0 +1,530 @@
+{
+  "stage": "PG770",
+  "morphology_interfaces": [
+    {
+      "id": "QUAL",
+      "base": "quality or brāhmaṇādi",
+      "guard": "state or activity",
+      "affix": "ṣyañ",
+      "result": "neuter abstract"
+    },
+    {
+      "id": "OWN",
+      "base": "named collection or other cited own-sense item",
+      "guard": "reference to the specified entity itself",
+      "affix": "ṣyañ under supplement",
+      "result": "own-sense derivative"
+    },
+    {
+      "id": "NUM",
+      "base": "arhat",
+      "guard": "specific gaṇa instruction",
+      "affix": "num plus ṣyañ",
+      "result": "ārhantya"
+    },
+    {
+      "id": "DBL",
+      "base": "caturveda",
+      "guard": "source expressly requires vṛddhi on both members",
+      "affix": "ṣyañ",
+      "result": "cāturvaidya"
+    },
+    {
+      "id": "STE",
+      "base": "stena",
+      "guard": "combined prescription",
+      "affix": "yat and deletion of n",
+      "result": "steya"
+    },
+    {
+      "id": "STAI",
+      "base": "stena",
+      "guard": "attributed division of 125",
+      "affix": "ṣyañ",
+      "result": "stainya"
+    },
+    {
+      "id": "FR",
+      "base": "sakhi",
+      "guard": "state or conduct of a friend",
+      "affix": "plain ya",
+      "result": "sakhya"
+    },
+    {
+      "id": "SUP",
+      "base": "dūta or vaṇij",
+      "guard": "explicit extension",
+      "affix": "plain ya",
+      "result": "dūtya or vaṇijya"
+    },
+    {
+      "id": "GR",
+      "base": "vaṇij",
+      "guard": "brāhmaṇādi answer",
+      "affix": "ṣyañ with grade",
+      "result": "vāṇijya"
+    },
+    {
+      "id": "DHA",
+      "base": "kapi or jñāti",
+      "guard": "each base with either state or conduct",
+      "affix": "ḍhak",
+      "result": "kāpeya or jñāteya"
+    },
+    {
+      "id": "PAT",
+      "base": "senāpati or prajāpati",
+      "guard": "pati-final base",
+      "affix": "yak",
+      "result": "saināpatya or prājāpatya"
+    },
+    {
+      "id": "OFF",
+      "base": "purohita or rājan",
+      "guard": "named list",
+      "affix": "yak",
+      "result": "paurohitya or rājya"
+    },
+    {
+      "id": "ANJ",
+      "base": "living-kind term",
+      "guard": "specific class",
+      "affix": "añ",
+      "result": "āśva or auṣṭra"
+    },
+    {
+      "id": "AGE",
+      "base": "kumāra or kiśora",
+      "guard": "age",
+      "affix": "añ",
+      "result": "kaumāra or kaiśora"
+    },
+    {
+      "id": "SING",
+      "base": "udgātṛ or unnetṛ",
+      "guard": "named performer",
+      "affix": "añ",
+      "result": "audgātra or aunnetra"
+    },
+    {
+      "id": "MAN",
+      "base": "subhaga",
+      "guard": "mantra occurrence, fortune",
+      "affix": "añ",
+      "result": "saubhaga"
+    },
+    {
+      "id": "WEALTH",
+      "base": "saubhaga",
+      "guard": "plural blessings or possessions",
+      "affix": "lexical reading of mantra form",
+      "result": "saubhagāni"
+    },
+    {
+      "id": "WED",
+      "base": "saubhaga",
+      "guard": "wedding purpose, commentary-specific inner analysis",
+      "affix": "outer tva and dative",
+      "result": "saubhagatvāya"
+    },
+    {
+      "id": "YEAR",
+      "base": "dvi or tri plus hāyana",
+      "guard": "compound ending in hāyana",
+      "affix": "aṇ",
+      "result": "dvaihāyana or traihāyana"
+    },
+    {
+      "id": "YUV",
+      "base": "yuvan or sthavira",
+      "guard": "named class overriding general age selector",
+      "affix": "aṇ",
+      "result": "yauvana or sthāvira"
+    },
+    {
+      "id": "SHRO",
+      "base": "śrotriya",
+      "guard": "specific supplement",
+      "affix": "aṇ and internal y loss",
+      "result": "śrautra"
+    }
+  ],
+  "nominal_positions": [
+    {
+      "id": "P01",
+      "source": "K124",
+      "input_history": "QUAL",
+      "case_number": "N NOMsg",
+      "word": "jāḍyam",
+      "interpretation": "Abstract state or conduct in the grammatical citation. One written case despite two admissible readings of the referent."
+    },
+    {
+      "id": "P02",
+      "source": "K124",
+      "input_history": "QUAL",
+      "case_number": "N NOMsg",
+      "word": "brāhmaṇyam",
+      "interpretation": "Abstract state or conduct in the grammatical citation. One written case despite two admissible readings of the referent."
+    },
+    {
+      "id": "P03",
+      "source": "K124",
+      "input_history": "QUAL",
+      "case_number": "N NOMsg",
+      "word": "māṇavyam",
+      "interpretation": "Abstract state or conduct in the grammatical citation. One written case despite two admissible readings of the referent."
+    },
+    {
+      "id": "P04",
+      "source": "K124",
+      "input_history": "OWN",
+      "case_number": "N NOMsg",
+      "word": "cāturāśramyam",
+      "interpretation": "The source admits the own-sense extension for the named word."
+    },
+    {
+      "id": "P05",
+      "source": "K124",
+      "input_history": "OWN",
+      "case_number": "N NOMsg",
+      "word": "trailokyam",
+      "interpretation": "The source admits the own-sense extension for the named word."
+    },
+    {
+      "id": "P06",
+      "source": "K124",
+      "input_history": "OWN",
+      "case_number": "N NOMsg",
+      "word": "traisvaryam",
+      "interpretation": "The source admits the own-sense extension for the named word."
+    },
+    {
+      "id": "P07",
+      "source": "K124",
+      "input_history": "OWN",
+      "case_number": "N NOMsg",
+      "word": "ṣāḍguṇyam",
+      "interpretation": "The source admits the own-sense extension for the named word."
+    },
+    {
+      "id": "P08",
+      "source": "K124",
+      "input_history": "OWN",
+      "case_number": "N NOMsg",
+      "word": "sainyam",
+      "interpretation": "The source admits the own-sense extension for the named word."
+    },
+    {
+      "id": "P09",
+      "source": "K124",
+      "input_history": "OWN",
+      "case_number": "N NOMsg",
+      "word": "sānnidhyam",
+      "interpretation": "The source admits the own-sense extension for the named word."
+    },
+    {
+      "id": "P10",
+      "source": "K124",
+      "input_history": "OWN",
+      "case_number": "N NOMsg",
+      "word": "sāmīpyam",
+      "interpretation": "The source admits the own-sense extension for the named word."
+    },
+    {
+      "id": "P11",
+      "source": "K124",
+      "input_history": "OWN",
+      "case_number": "N NOMsg",
+      "word": "aupamyam",
+      "interpretation": "The source admits the own-sense extension for the named word."
+    },
+    {
+      "id": "P12",
+      "source": "K124",
+      "input_history": "OWN",
+      "case_number": "N NOMsg",
+      "word": "saukhyam",
+      "interpretation": "The source admits the own-sense extension for the named word."
+    },
+    {
+      "id": "P13",
+      "source": "G4",
+      "input_history": "OWN",
+      "case_number": "N NOMsg",
+      "word": "cāturvarṇyam",
+      "interpretation": "Subject qualified by the passive sṛṣṭam. Śaṅkara paraphrases as the four classes themselves."
+    },
+    {
+      "id": "P14",
+      "source": "K124",
+      "input_history": "NUM",
+      "case_number": "N NOMsg",
+      "word": "ārhantyam",
+      "interpretation": "Arhat with the specially instructed n before the latter part of the stem."
+    },
+    {
+      "id": "P15",
+      "source": "K124",
+      "input_history": "DBL",
+      "case_number": "N NOMsg",
+      "word": "cāturvaidyam",
+      "interpretation": "The cited caturveda derivative has strengthening on both members."
+    },
+    {
+      "id": "P16",
+      "source": "MANU",
+      "input_history": "STE",
+      "case_number": "N NOMsg",
+      "word": "steyam",
+      "interpretation": "Predicate nominative with bhavet in Manu 8.332. The grammatical source gives the state and action alternatives."
+    },
+    {
+      "id": "P17",
+      "source": "K125",
+      "input_history": "STAI",
+      "case_number": "N NOMsg",
+      "word": "stainyam",
+      "interpretation": "Only under the attributed division of the prescription. The final n of the base is kept on this route."
+    },
+    {
+      "id": "P18",
+      "source": "R4",
+      "input_history": "FR",
+      "case_number": "N ACCsg",
+      "word": "sakhyam",
+      "interpretation": "In the first half, the activity of a friend is the object of jujoṣa. The next stanza also makes it the thing the speakers might praise."
+    },
+    {
+      "id": "P19",
+      "source": "R4",
+      "input_history": "FR",
+      "case_number": "N NOMsg",
+      "word": "sakhyam",
+      "interpretation": "In the second half, Sāyaṇa supplies bhavet. The friendship of Indra is the subject, its beneficiaries expressed separately."
+    },
+    {
+      "id": "P20",
+      "source": "R1",
+      "input_history": "FR",
+      "case_number": "N LOCsg",
+      "word": "sakhye",
+      "interpretation": "Standing in the friendship of Indra. Sāyaṇa identifies plain ya under 5.1.126 and affix accent."
+    },
+    {
+      "id": "P21",
+      "source": "K126",
+      "input_history": "SUP",
+      "case_number": "N NOMsg",
+      "word": "dūtyam",
+      "interpretation": "Supplemental plain ya on the envoy or trader."
+    },
+    {
+      "id": "P22",
+      "source": "K126",
+      "input_history": "SUP",
+      "case_number": "N NOMsg",
+      "word": "vaṇijyam",
+      "interpretation": "Supplemental plain ya on the envoy or trader."
+    },
+    {
+      "id": "P23",
+      "source": "K126",
+      "input_history": "GR",
+      "case_number": "N NOMsg",
+      "word": "vāṇijyam",
+      "interpretation": "Kāśikā expressly answers with brāhmaṇādi. The unlengthened form belongs to the preceding supplement."
+    },
+    {
+      "id": "P24",
+      "source": "K127",
+      "input_history": "DHA",
+      "case_number": "N NOMsg",
+      "word": "kāpeyam",
+      "interpretation": "Each base has access to each of the state and conduct interpretations."
+    },
+    {
+      "id": "P25",
+      "source": "K127",
+      "input_history": "DHA",
+      "case_number": "N NOMsg",
+      "word": "jñāteyam",
+      "interpretation": "Each base has access to each of the state and conduct interpretations."
+    },
+    {
+      "id": "P26",
+      "source": "K128",
+      "input_history": "PAT",
+      "case_number": "N NOMsg",
+      "word": "saināpatyam",
+      "interpretation": "The first member and the pati-final ending jointly supply a compound base."
+    },
+    {
+      "id": "P27",
+      "source": "K128",
+      "input_history": "PAT",
+      "case_number": "N NOMsg",
+      "word": "prājāpatyam",
+      "interpretation": "The first member and the pati-final ending jointly supply a compound base."
+    },
+    {
+      "id": "P28",
+      "source": "K128",
+      "input_history": "OFF",
+      "case_number": "N NOMsg",
+      "word": "paurohityam",
+      "interpretation": "Named member and derivation for the office or its acts."
+    },
+    {
+      "id": "P29",
+      "source": "K128",
+      "input_history": "OFF",
+      "case_number": "N NOMsg",
+      "word": "rājyam",
+      "interpretation": "Named member and derivation for the office or its acts."
+    },
+    {
+      "id": "P30",
+      "source": "K129",
+      "input_history": "ANJ",
+      "case_number": "N NOMsg",
+      "word": "āśvam",
+      "interpretation": "Living-kind input. Word denotes its qualifying state or action."
+    },
+    {
+      "id": "P31",
+      "source": "K129",
+      "input_history": "ANJ",
+      "case_number": "N NOMsg",
+      "word": "auṣṭram",
+      "interpretation": "Living-kind input. Word denotes its qualifying state or action."
+    },
+    {
+      "id": "P32",
+      "source": "G2",
+      "input_history": "AGE",
+      "case_number": "N NOMsg",
+      "word": "kaumāram",
+      "interpretation": "Childhood, coordinated with youth and old age in the body of the embodied one."
+    },
+    {
+      "id": "P33",
+      "source": "K129",
+      "input_history": "AGE",
+      "case_number": "N NOMsg",
+      "word": "kaiśoram",
+      "interpretation": "Age term with añ."
+    },
+    {
+      "id": "P34",
+      "source": "K129",
+      "input_history": "SING",
+      "case_number": "N NOMsg",
+      "word": "audgātram",
+      "interpretation": "Named officiant in the lexical class, distinct from the later priestly cha boundary."
+    },
+    {
+      "id": "P35",
+      "source": "K129",
+      "input_history": "SING",
+      "case_number": "N NOMsg",
+      "word": "aunnetram",
+      "interpretation": "Named officiant in the lexical class, distinct from the later priestly cha boundary."
+    },
+    {
+      "id": "P36",
+      "source": "R3",
+      "input_history": "MAN",
+      "case_number": "N DATsg",
+      "word": "saubhagāya",
+      "interpretation": "Fortune as the end for which the ritual post is raised in 3.8.2, and for which the axe led it in 3.8.11."
+    },
+    {
+      "id": "P37",
+      "source": "R6",
+      "input_history": "WEALTH",
+      "case_number": "N NOMpl",
+      "word": "saubhagāni",
+      "interpretation": "Possessions or blessings issue from Agni, with vi yanti. A vocative subhaga addresses him in the same line."
+    },
+    {
+      "id": "P38",
+      "source": "R10",
+      "input_history": "WED",
+      "case_number": "N DATsg",
+      "word": "saubhagatvāya",
+      "interpretation": "Purpose in taking the hand. The outer tva is exposed. Gadādhara treats the inner term as a collective on the parallel rite."
+    },
+    {
+      "id": "P39",
+      "source": "K130",
+      "input_history": "YEAR",
+      "case_number": "N NOMsg",
+      "word": "dvaihāyanam",
+      "interpretation": "State or activity associated with the stated number of years."
+    },
+    {
+      "id": "P40",
+      "source": "K130",
+      "input_history": "YEAR",
+      "case_number": "N NOMsg",
+      "word": "traihāyanam",
+      "interpretation": "State or activity associated with the stated number of years."
+    },
+    {
+      "id": "P41",
+      "source": "G2",
+      "input_history": "YUV",
+      "case_number": "N NOMsg",
+      "word": "yauvanam",
+      "interpretation": "Youth is coordinated with childhood but has the specific yuvan-class aṇ."
+    },
+    {
+      "id": "P42",
+      "source": "K130",
+      "input_history": "YUV",
+      "case_number": "N NOMsg",
+      "word": "sthāviram",
+      "interpretation": "A named member under the same selection."
+    },
+    {
+      "id": "P43",
+      "source": "K130",
+      "input_history": "SHRO",
+      "case_number": "N NOMsg",
+      "word": "śrautram",
+      "interpretation": "The supplement explicitly removes the y present in śrotriya."
+    }
+  ],
+  "source_policy_decisions": [
+    {
+      "id": "ACT",
+      "sources": "K124,K125,MANU,G4",
+      "decision": "Activity and own sense are distinct inputs. The creation verse exemplifies the latter on a different word from the theft example."
+    },
+    {
+      "id": "CASE",
+      "sources": "K126,R1,R4",
+      "decision": "The formal homograph in the two halves of one verse receives two cases specifically under the commentator's supplied predicate. The friends in the dative are different participants."
+    },
+    {
+      "id": "TRADE",
+      "sources": "K126,K124",
+      "decision": "Distinguish the two initial vowels and suffix paths of the trade terms. Kapi and jñāti under 127 do not force a distribution of senses by order."
+    },
+    {
+      "id": "HOUSE",
+      "sources": "K128,R10,HARA,GADA",
+      "decision": "Keep PG736's dative profiles. A further commentator's alternative fire interpretation in a parallel ritual text is a source reading only."
+    },
+    {
+      "id": "GOOD",
+      "sources": "K129,R3,R6,GADA,HARA,R10",
+      "decision": "Register the bare mantra dative, plural blessings and tva dative separately. Gadādhara's collective is a competing inner analysis. Keep one case on the wedding dative."
+    },
+    {
+      "id": "AGE",
+      "sources": "K129,K130,G2",
+      "decision": "Childhood and youth are parallel in the poem despite different suffix markers. The final feminine term anchors the clause and receives no new age-derivation credit."
+    }
+  ]
+}

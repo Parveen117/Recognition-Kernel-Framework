@@ -1,6 +1,8 @@
-# Written-development backlog at PG769
+# Written-development backlog at PG770
 
-Monty · 2026-11-25 · reviewed parent def772c6c8f0d3a19af40a77e3253d6a6418a669. Historical closures below retain their exact pins.
+Monty · 2026-11-25 · reviewed parent c57b9b6265841acabaf8e8cff1377005dc41ea30. Historical closures below retain their exact pins.
+
+PG770 · [Friendship, occupation and the two purposes in a wedding verse](friendship_trade_and_good_fortune_in_the_wedding_verse/README.md). The inner historical derivation of saubhaga in the wedding verse and independent witnesses for all gaṇa members and rival readings remain Open. Continue 5.1.131–136, especially the accusative and instrumental uses of school terms, named priestly functions, and brahman as officiant versus class word. C2–C5 and S1–S7 remain Open.
 
 PG769 · [Abstract nouns, negative compounds, and the breadth of a quality](abstract_nouns_negative_compounds_and_the_breadth_of_a_quality/README.md). The manuscript lineage of the budha/yudha readings, unreviewed gaṇa members and the remaining compound-sensitive options at 123 are Open. Continue 5.1.124–136 on quality, action, friendship, office, age and the priestly boundary. S1’s disputed finite line is independent of the directly located Bhaṭṭi 4.17. C2–C5 and S1–S7 remain Open.
 
