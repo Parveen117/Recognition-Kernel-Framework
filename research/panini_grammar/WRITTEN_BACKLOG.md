@@ -1,6 +1,8 @@
-# Written-development backlog at PG754
+# Written-development backlog at PG755
 
-Monty · 2026-11-24 · reviewed parent 550965ed2975787e28e9eb70dfd2ac2bb8eb7e62. Historical closures below retain their exact pins.
+Monty · 2026-11-24 · reviewed parent 14e1d19ffb882aaf057e5e55b9bf49f2545e6ba3. Historical closures below retain their exact pins.
+
+PG755 · [Measures of study, half-months and the twenty Aṅgiras seers](measured_study_calendar_months_and_twenty_angiras_seers/README.md). The exact source passage for the Kāśikā’s seven-group creation wording remains Open; the TS comparison independently establishes sāptāni under a different verb. Continue the intervening stipulated numerals and group alternatives at 5.1.59–60, then the named Brāhmaṇa titles at 62 and the deserving family from 63. Do not recount the 5.1.61 Vedic group. C2–C5 and S1–S7 remain Open.
 
 PG754 · [A payment and its recipient, carrying a load, and four outcomes for a measure](payment_recipient_price_burden_and_cooking_measures/README.md). The precise lexical interpretation of Vedic vasnam between price, value and ware remains source-dependent. Accent of the derivatives and the wider economic corpus remain Open. Continue 5.1.56–63 on share, purchase price, wage, transport, measure and merit. In particular do not collapse vasna, vetana and bhṛti by gloss alone. C2–C5 and S1–S7 remain Open.
 

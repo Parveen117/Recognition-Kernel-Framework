@@ -2,6 +2,12 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG755 · Measures of study, half-months and the twenty Aṅgiras seers
+
+PG755 · [Measures of study, half-months and the twenty Aṅgiras seers](measured_study_calendar_months_and_twenty_angiras_seers/README.md). Derives the measures and counted classes at 5.1.56–58 with a direct 5.1.61 Vedic cross-reference, including the accusative seers in the Gopatha Brāhmaṇa. 21 new nominal positions and 21 readings. Finite positions and readings both increased by zero. One written morphology construction with 23 interfaces, 9 source observations and 6 source decisions. Census: 52,345 finite positions, 20,589 nominal positions and 23,273 nominal readings.
+
+Parent 14e1d19ffb882aaf057e5e55b9bf49f2545e6ba3. The containing commit pins this packet. The exact source passage for the Kāśikā’s seven-group creation wording remains Open; the TS comparison independently establishes sāptāni under a different verb. Continue the intervening stipulated numerals and group alternatives at 5.1.59–60, then the named Brāhmaṇa titles at 62 and the deserving family from 63. Do not recount the 5.1.61 Vedic group. C2–C5 and S1–S7 remain Open. Claude retains execution.
+
 ## PG754 · A payment and its recipient, carrying a load, and four outcomes for a measure
 
 PG754 · [A payment and its recipient, carrying a load, and four outcomes for a measure](payment_recipient_price_burden_and_cooking_measures/README.md). Derives 5.1.47–55 from the traditional five payment roles to the four kulija forms, distinguishing corpus interest, Vedic price vocabulary and the cook’s droṇa. 29 new nominal positions and 44 readings. Finite positions and readings both increased by zero. One written morphology construction with 28 interfaces, 16 source observations and 6 source decisions. Census: 52,345 finite positions, 20,568 nominal positions and 23,252 nominal readings.

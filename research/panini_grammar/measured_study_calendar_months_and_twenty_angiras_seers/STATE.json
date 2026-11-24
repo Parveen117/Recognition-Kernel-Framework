@@ -1,0 +1,36 @@
+{
+  "stage": "PG755",
+  "date": "2026-11-24",
+  "publication_parent": "14e1d19ffb882aaf057e5e55b9bf49f2545e6ba3",
+  "baseline": {
+    "commit": "14e1d19ffb882aaf057e5e55b9bf49f2545e6ba3",
+    "path": "research/panini_grammar/payment_recipient_price_burden_and_cooking_measures/STATE.json"
+  },
+  "finite_positions": 52345,
+  "nominal_positions": 20589,
+  "nominal_readings": 23273,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 21,
+  "new_nominal_readings": 21,
+  "new_morphology_constructions": 1,
+  "new_morphology_interfaces": 23,
+  "new_source_observations": 9,
+  "new_source_policy_decisions": 6,
+  "open_obligations": [
+    "The exact source passage for the Kāśikā’s seven-group creation wording remains Open; the TS comparison independently establishes sāptāni under a different verb.",
+    "Continue the intervening stipulated numerals and group alternatives at 5.1.59–60, then the named Brāhmaṇa titles at 62 and the deserving family from 63. Do not recount the 5.1.61 Vedic group."
+  ],
+  "local_closure": "Typed PG14 recovery preserves what is measured, the numbered affix, the governing clause and its source.",
+  "global_gates": {
+    "C2–C5": "Open",
+    "S1–S7": "Open",
+    "S5_direct_fields": "99/103",
+    "S6": "Independent 5.56 k-it effect Open"
+  },
+  "protected_registers": {
+    "PG335": "-9 finite positions and -12 readings already applied",
+    "PG340/346, PG349–352, PG355–360, PG357–363": "CLOSED on registered scopes"
+  },
+  "runtime_policy": "Written derivation. Only changed-document, source and count checks. Claude owns grammar execution, generators, untouched suites and replay."
+}

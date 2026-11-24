@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG754
+# Pāṇini grammar · current written coverage at PG755
+
+PG755 · [Measures of study, half-months and the twenty Aṅgiras seers](measured_study_calendar_months_and_twenty_angiras_seers/README.md). Derives the measures and counted classes at 5.1.56–58 with a direct 5.1.61 Vedic cross-reference, including the accusative seers in the Gopatha Brāhmaṇa. Census: 52,345 finite positions, 20,589 nominal positions and 23,273 nominal readings.
 
 PG754 · [A payment and its recipient, carrying a load, and four outcomes for a measure](payment_recipient_price_burden_and_cooking_measures/README.md). Derives 5.1.47–55 from the traditional five payment roles to the four kulija forms, distinguishing corpus interest, Vedic price vocabulary and the cook’s droṇa. Census: 52,345 finite positions, 20,568 nominal positions and 23,252 nominal readings.
 

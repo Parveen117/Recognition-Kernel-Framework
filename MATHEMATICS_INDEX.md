@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG755 · [Measures of study, half-months and the twenty Aṅgiras seers](research/panini_grammar/measured_study_calendar_months_and_twenty_angiras_seers/README.md). Typed PG14 recovery preserves what is measured, the numbered affix, the governing clause and its source.
+
 PG754 · [A payment and its recipient, carrying a load, and four outcomes for a measure](research/panini_grammar/payment_recipient_price_burden_and_cooking_measures/README.md). Typed PG14 recovery preserves the payment relation, the load’s lexical structure, the affix under luk and its feminine successor.
 
 PG753 · [The price instrumental, three royal predicates and sowing capacity](research/panini_grammar/price_as_instrument_royal_predicates_and_field_capacity/README.md). Typed PG14 recovery preserves the support case and semantic request through equal royal predicates and separately sourced feminine affixes.

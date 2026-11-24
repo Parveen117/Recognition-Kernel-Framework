@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG755 · [Measures of study, half-months and the twenty Aṅgiras seers](measured_study_calendar_months_and_twenty_angiras_seers/README.md). Derives the measures and counted classes at 5.1.56–58 with a direct 5.1.61 Vedic cross-reference, including the accusative seers in the Gopatha Brāhmaṇa. 21 new nominal positions and 21 readings. Finite positions and readings both increased by zero.
+
 PG754 · [A payment and its recipient, carrying a load, and four outcomes for a measure](payment_recipient_price_burden_and_cooking_measures/README.md). Derives 5.1.47–55 from the traditional five payment roles to the four kulija forms, distinguishing corpus interest, Vedic price vocabulary and the cook’s droṇa. 29 new nominal positions and 44 readings. Finite positions and readings both increased by zero.
 
 PG753 · [The price instrumental, three royal predicates and sowing capacity](price_as_instrument_royal_predicates_and_field_capacity/README.md). Derives 5.1.37–46 price, occasion, sovereignty, local renown and seed-capacity predicates with Rāmāyaṇa, Aitareya and Kālidāsa witnesses. 27 new nominal positions and 30 readings. Finite positions and readings both increased by zero.

@@ -1,0 +1,368 @@
+{
+  "stage": "PG755",
+  "morphology_interfaces": [
+    {
+      "id": "SHARE",
+      "base": "pañcan",
+      "guard": "personal share",
+      "affix": "kan",
+      "result": "pañcaka"
+    },
+    {
+      "id": "COST",
+      "base": "pañcan",
+      "guard": "article price",
+      "affix": "kan",
+      "result": "pañcaka"
+    },
+    {
+      "id": "WAGE",
+      "base": "pañcan",
+      "guard": "wage",
+      "affix": "kan",
+      "result": "pañcaka"
+    },
+    {
+      "id": "HEAP",
+      "base": "prastha",
+      "guard": "measure of heap",
+      "affix": "ṭhañ",
+      "result": "prāsthika"
+    },
+    {
+      "id": "LIFE",
+      "base": "dvi-ṣaṣṭi",
+      "guard": "lifespan re-prescription",
+      "affix": "ṭhañ without luk",
+      "result": "dviṣāṣṭika"
+    },
+    {
+      "id": "LIFE2",
+      "base": "dvi-saptati",
+      "guard": "lifespan re-prescription",
+      "affix": "ṭhañ without luk",
+      "result": "dvisāptatika"
+    },
+    {
+      "id": "BIRDS",
+      "base": "pañcan",
+      "guard": "technical naming supplement",
+      "affix": "kan",
+      "result": "pañcaka"
+    },
+    {
+      "id": "SAL",
+      "base": "tri",
+      "guard": "technical naming supplement",
+      "affix": "kan",
+      "result": "trika"
+    },
+    {
+      "id": "GROUP",
+      "base": "aṣṭan",
+      "guard": "living association",
+      "affix": "kan",
+      "result": "aṣṭaka"
+    },
+    {
+      "id": "PAN",
+      "base": "aṣṭan",
+      "guard": "grammar measured in chapters",
+      "affix": "kan",
+      "result": "aṣṭaka"
+    },
+    {
+      "id": "VYA",
+      "base": "daśan",
+      "guard": "grammar measured in chapters",
+      "affix": "kan",
+      "result": "daśaka"
+    },
+    {
+      "id": "KAS",
+      "base": "tri",
+      "guard": "grammar measured in chapters",
+      "affix": "kan",
+      "result": "trika"
+    },
+    {
+      "id": "STUDY",
+      "base": "pañcan",
+      "guard": "number of recitations",
+      "affix": "kan",
+      "result": "pañcaka"
+    },
+    {
+      "id": "ST15",
+      "base": "pañcadaśan",
+      "guard": "stoma",
+      "affix": "ḍa",
+      "result": "pañcadaśa"
+    },
+    {
+      "id": "ST17",
+      "base": "saptadaśan",
+      "guard": "stoma",
+      "affix": "ḍa",
+      "result": "saptadaśa"
+    },
+    {
+      "id": "ST21",
+      "base": "ekaviṃśati",
+      "guard": "stoma",
+      "affix": "ḍa",
+      "result": "ekaviṃśa"
+    },
+    {
+      "id": "HALF",
+      "base": "pañcadaśan",
+      "guard": "Vedic numbered time unit",
+      "affix": "ḍini",
+      "result": "pañcadaśin"
+    },
+    {
+      "id": "MONTH",
+      "base": "triṃśat",
+      "guard": "Vedic numbered time unit",
+      "affix": "ḍini",
+      "result": "triṃśin"
+    },
+    {
+      "id": "SEERS",
+      "base": "viṃśati",
+      "guard": "explicit separate Vedic extension",
+      "affix": "ḍini",
+      "result": "viṃśin"
+    },
+    {
+      "id": "A16",
+      "base": "ṣoḍaśan",
+      "guard": "Vedic numbered class",
+      "affix": "ḍini",
+      "result": "ṣoḍaśin"
+    },
+    {
+      "id": "A18",
+      "base": "aṣṭādaśan",
+      "guard": "Vedic numbered class",
+      "affix": "ḍini",
+      "result": "aṣṭādaśin"
+    },
+    {
+      "id": "A12",
+      "base": "dvādaśan",
+      "guard": "Vedic numbered class",
+      "affix": "ḍini",
+      "result": "dvādaśin"
+    },
+    {
+      "id": "AGN",
+      "base": "saptan",
+      "guard": "named Vedic group",
+      "affix": "añ",
+      "result": "sāpta"
+    }
+  ],
+  "nominal_positions": [
+    {
+      "id": "SHARE",
+      "source": "K56",
+      "input_history": "SHARE/COST/WAGE",
+      "case_number": "M NOMsg",
+      "word": "pañcakaḥ",
+      "interpretation": "Five as share, price or wage. Three interpretations, one case reading."
+    },
+    {
+      "id": "HEAP",
+      "source": "K57",
+      "input_history": "HEAP",
+      "case_number": "M NOMsg",
+      "word": "prāsthikaḥ",
+      "interpretation": "A heap measures a prastha; distinct from PG754's container."
+    },
+    {
+      "id": "LIFE",
+      "source": "K57",
+      "input_history": "LIFE",
+      "case_number": "M NOMsg",
+      "word": "dviṣāṣṭikaḥ",
+      "interpretation": "Two periods of sixty as the measure of life."
+    },
+    {
+      "id": "LIFE2",
+      "source": "K57",
+      "input_history": "LIFE2",
+      "case_number": "M NOMsg",
+      "word": "dvisāptatikaḥ",
+      "interpretation": "Two periods of seventy as the measure of life."
+    },
+    {
+      "id": "BIRDS",
+      "source": "K58",
+      "input_history": "BIRDS",
+      "case_number": "M NOMpl",
+      "word": "pañcakāḥ",
+      "interpretation": "A group so named of five birds, own-sense usage."
+    },
+    {
+      "id": "SAL",
+      "source": "K58",
+      "input_history": "SAL",
+      "case_number": "M NOMpl",
+      "word": "trikāḥ",
+      "interpretation": "Named group of Śālaṅkāyanas."
+    },
+    {
+      "id": "GROUP",
+      "source": "K58",
+      "input_history": "GROUP",
+      "case_number": "M NOMsg",
+      "word": "aṣṭakaḥ",
+      "interpretation": "Living association of eight."
+    },
+    {
+      "id": "PAN",
+      "source": "K58",
+      "input_history": "PAN",
+      "case_number": "N NOMsg",
+      "word": "aṣṭakam",
+      "interpretation": "Eight chapters characterize the Pāṇinian work."
+    },
+    {
+      "id": "VYA",
+      "source": "K58",
+      "input_history": "VYA",
+      "case_number": "N NOMsg",
+      "word": "daśakam",
+      "interpretation": "The ten-chapter work in the grammatical account."
+    },
+    {
+      "id": "KAS",
+      "source": "K58",
+      "input_history": "KAS",
+      "case_number": "N NOMsg",
+      "word": "trikam",
+      "interpretation": "The three-chapter work in the grammatical account."
+    },
+    {
+      "id": "STUDY",
+      "source": "K58",
+      "input_history": "STUDY",
+      "case_number": "N NOMsg",
+      "word": "pañcakam",
+      "interpretation": "The act of study is measured by five repetitions."
+    },
+    {
+      "id": "ST15",
+      "source": "VS",
+      "input_history": "ST15",
+      "case_number": "M NOMsg",
+      "word": "pañcadaśaḥ",
+      "interpretation": "Fifteen-member stoma."
+    },
+    {
+      "id": "ST17",
+      "source": "VS",
+      "input_history": "ST17",
+      "case_number": "M NOMsg",
+      "word": "saptadaśaḥ",
+      "interpretation": "Seventeen-member stoma."
+    },
+    {
+      "id": "ST21",
+      "source": "VS",
+      "input_history": "ST21",
+      "case_number": "M NOMsg",
+      "word": "ekaviṃśaḥ",
+      "interpretation": "Twenty-one-member stoma."
+    },
+    {
+      "id": "HALF",
+      "source": "TS7",
+      "input_history": "HALF",
+      "case_number": "M NOMpl",
+      "word": "pañcadaśinaḥ",
+      "interpretation": "Fifteen-fold half-months in the subject series."
+    },
+    {
+      "id": "MONTH",
+      "source": "TS7",
+      "input_history": "MONTH",
+      "case_number": "M NOMpl",
+      "word": "triṃśinaḥ",
+      "interpretation": "Thirty-fold months in the same series."
+    },
+    {
+      "id": "SEERS",
+      "source": "GB",
+      "input_history": "SEERS",
+      "case_number": "M ACCpl",
+      "word": "viṃśinaḥ",
+      "interpretation": "Created seers. Pronoun tān and ṛṣīn confirm case."
+    },
+    {
+      "id": "A16",
+      "source": "GB",
+      "input_history": "A16",
+      "case_number": "M ACCpl",
+      "word": "ṣoḍaśinaḥ",
+      "interpretation": "One class in the second, expressly accusative list."
+    },
+    {
+      "id": "A18",
+      "source": "GB",
+      "input_history": "A18",
+      "case_number": "M ACCpl",
+      "word": "aṣṭādaśinaḥ",
+      "interpretation": "Another class in the same list."
+    },
+    {
+      "id": "A12",
+      "source": "GB",
+      "input_history": "A12",
+      "case_number": "M ACCpl",
+      "word": "dvādaśinaḥ",
+      "interpretation": "Third numbered in-stem before the list turns to ṛc compounds."
+    },
+    {
+      "id": "AGN",
+      "source": "TS5",
+      "input_history": "AGN",
+      "case_number": "N ACCpl",
+      "word": "sāptāni",
+      "interpretation": "Agni’s sets of seven are the object of prīṇāti; independently identified verb."
+    }
+  ],
+  "source_policy_decisions": [
+    {
+      "id": "POSSESSION",
+      "sources": "K56,K57",
+      "decision": "Three possible relations share a numeral, but a single interrogative input has to specify which. For census the three five-unit histories are represented by one surface-case position with three queryable semantic branches."
+    },
+    {
+      "id": "STUDY",
+      "sources": "K58",
+      "decision": "Counting chapters, members of an animate association, and repetitions of study are distinct. The names of works are grammatical testimony to their descriptions."
+    },
+    {
+      "id": "STOMA",
+      "sources": "K58,VS",
+      "decision": "Three bare stoma adjectives have direct Mādhyandina support; no generic original Vedic suffix assignment follows from a matching word."
+    },
+    {
+      "id": "MONTH",
+      "sources": "K58,TS7",
+      "decision": "Retain the underlying word end of both nominatives through external sandhi; the predicate series and the paired calendar nouns determine case."
+    },
+    {
+      "id": "SEERS",
+      "sources": "K58,GB",
+      "decision": "The Gopatha source assigns the seer group an accusative. Additional short citations without a governing verb cannot alone establish a nominative."
+    },
+    {
+      "id": "SEVEN",
+      "sources": "K61,TS5,TC",
+      "decision": "The traditional creation example and the checked primary gratification clause share the group word and case. Exact source of the grammatical example with creation stays Open."
+    }
+  ]
+}
