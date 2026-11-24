@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG711 · [Vedic babdhām, the strong bhas control and separated upa–ghrā](research/panini_grammar/vedic_bhas_babdham_and_split_upa_ghra/README.md). Four finite keys use the full PG14 carrier with copied versus original vowel identity, conditioned s-lopa, term-specific accent and an independently owned intervening accusative under Vedic upa.
+
 PG710 · [Vedic rāti as gift, giver and giving instrument](research/panini_grammar/vedic_rati_donor_gift_and_nanj_policies/README.md). The typed relation separates ktiN and ktiC, the giver and gift argument structures, the mantra and c-it accent owners, and the two licensed nañ compounds before the common readout.
 
 PG709 · [The Vedic rite-maker and maternal remedy under retained or deleted n](research/panini_grammar/vedic_nis_kr_maker_and_maternal_remedy/README.md). Two addressed nominal fibres preserve owned prefix-loss, stem and sup events with distinct ritual bearers, recensional readouts and typed PG14 recovery. The current witness explains n-loss without importing the siC or root-s loss of PG708.

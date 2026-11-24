@@ -2,6 +2,16 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG711 · Vedic babdhām, the strong bhas control and separated upa–ghrā
+
+PG711 · [Vedic babdhām, the strong bhas control and separated upa–ghrā](vedic_bhas_babdham_and_split_upa_ghra/README.md). Four new finite positions and four readings derive the Nirukta’s babdhām and jighratām, Śaunaka’s babhasti and the commentary’s bapsati. Bhas preserves the strong/weak marker split. The older binding-root objection and the exact s/ṣ difference in the Nirukta’s residue word remain distinct evidence. Census 52,336 finite positions and 9,367 nominal positions with 10,967 nominal readings.
+
+0 new nonfinite constructions/0 retained paths. Accent 1/3, syntax 1/4, phonological junction 1/3 constructions/readouts. 8 source observations and 6 source-policy decisions. One morphology construction/5 interfaces. Finite increments 4 positions and 4 readings. Nominal increments 0 positions and 0 readings. The publication parent is 29902540566431200ec8b4a2852a4ba21e71f5e9. The containing commit pins the documents and evidence.
+
+PG521–711 cumulative: 517 finite positions/1,433 net finite readings, 3,589 nominal positions/4,224 readings, 285 morphology constructions/2,950 interfaces, 128 compound constructions/593 plans, 27 accent constructions/108 records, 153 semantics constructions/454 records, 134 syntax constructions/439 records, 134 source-policy decisions after PG555−1 and 452 observations. Eighteen junction constructions/53 readouts since PG680 and 20 nonfinite constructions/26 paths since PG700. Four provenance corrections and one proof addendum. PG335 and PG357–363 CLOSED results are preserved.
+
+The named Vedic bhas imperative, strong and weak controls, and the separated upa–ghrā request are locally CLOSED. Two competing s-loss paths survive under one bhas reading. The Bhāṣya binding-root attribution and Nyāsa replacement proposal have positive scope as source policies. Their independent full licensing, original Saṃhitā locus and recitational source lineage remain Open. The remaining C2–C5 and S1–S7 work stays explicit. Claude retains execution.
+
 ## PG710 · Vedic rāti as gift, giver and giving instrument
 
 PG710 · [Vedic rāti as gift, giver and giving instrument](vedic_rati_donor_gift_and_nanj_policies/README.md). Six new nominal positions and six readings distinguish ktiN gift and instrument, ktiC donor and the two sources of the negative-agent form. Sāyaṇa’s giver and the Śukla gift analyses share rātim but differ in their argument structure. The two competing compound histories converge on árātayaḥ. Census 52,332 finite positions and 9,367 nominal positions with 10,967 nominal readings.

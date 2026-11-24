@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG710
+# Pāṇini grammar · current written coverage at PG711
+
+PG711 · [Vedic babdhām, the strong bhas control and separated upa–ghrā](vedic_bhas_babdham_and_split_upa_ghra/README.md). Four new finite positions and four readings derive the Nirukta’s babdhām and jighratām, Śaunaka’s babhasti and the commentary’s bapsati. Bhas preserves the strong/weak marker split. The older binding-root objection and the exact s/ṣ difference in the Nirukta’s residue word remain distinct evidence. Census 52,336 finite positions and 9,367 nominal positions with 10,967 nominal readings.
 
 PG710 · [Vedic rāti as gift, giver and giving instrument](vedic_rati_donor_gift_and_nanj_policies/README.md). Six new nominal positions and six readings distinguish ktiN gift and instrument, ktiC donor and the two sources of the negative-agent form. Sāyaṇa’s giver and the Śukla gift analyses share rātim but differ in their argument structure. The two competing compound histories converge on árātayaḥ. Census 52,332 finite positions and 9,367 nominal positions with 10,967 nominal readings.
 

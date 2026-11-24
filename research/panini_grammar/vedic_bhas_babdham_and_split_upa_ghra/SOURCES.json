@@ -1,0 +1,148 @@
+{
+  "publication_parent": "29902540566431200ec8b4a2852a4ba21e71f5e9",
+  "date": "2026-11-24",
+  "project_dependencies": [
+    {
+      "commit": "29902540566431200ec8b4a2852a4ba21e71f5e9",
+      "path": "research/panini_grammar/vedic_rati_donor_gift_and_nanj_policies/STATE.json",
+      "git_blob_sha": "6d0197da5159128e0f99c30aa53a1d090ce04c7a",
+      "bytes": 2394,
+      "sha256": "eaa2f3239b80b583836b41f9ed6cfb3539e106c00cd466ac05a005c897fcf886",
+      "use": "Inherited census and the nominal-only predecessor increment"
+    },
+    {
+      "commit": "b05e46bf78f165e17c4766d6d1179a1699a72fcf",
+      "path": "research/panini_grammar/grammar_construction/NATIVE_OPERATOR_LIFT.md",
+      "git_blob_sha": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+      "bytes": 11855,
+      "sha256": "f52e7f5cf539ef56859b890669ef738848491e4005e73be75baa49c899b5dafd",
+      "use": "Full PG14 right modules, residue algebra, cuts, pairing and specialization"
+    },
+    {
+      "commit": "0b11d88d55e499d664b98a7e6a08a62d4c4cf324",
+      "path": "research/panini_grammar/nasal_present/LEXICAL_ENTRIES.json",
+      "git_blob_sha": "9fe86301c813ed7e5d6c57ecbbc2904facb13dec",
+      "bytes": 137344,
+      "sha256": "06619efc9260bf2265561cda158d3ed51643001aac635bf1eb67d0e3dedeac53",
+      "use": "Old bandh 09.0044 as a different lexical address from Nyāsa's badh"
+    },
+    {
+      "commit": "ada439f6ba3109d798b41c216fe7cedc79e60afb",
+      "path": "research/panini_grammar/SUTRAPATHA.tsv",
+      "git_blob_sha": "1840f3b5349b21112ac05a7efaa59705fd4efee0",
+      "bytes": 270179,
+      "sha256": "70dfdfe6ba433b6e211f0f01b078c1b6d13a1ad0938e06fd5789298a04583634",
+      "use": "Exact Pāṇinian addresses and rule phonology"
+    },
+    {
+      "commit": "c1d8e4d47b2f81ed6999534f340d62bae27484c3",
+      "path": "research/panini_grammar/dhi_ca_printed_debate_pada_boundary_and_sagdhi/SOURCES.json",
+      "git_blob_sha": "e13ca7dab1a1785f66dc799066e59821a0e1d124",
+      "bytes": 8860,
+      "sha256": "3904424545e029a96f2e7d509569ed382358d078c25d59afd3030ac2dac5cff9",
+      "use": "Kielhorn III pp. 402–403 and Osmania vol. II pp. 915–916 already visually checked"
+    },
+    {
+      "commit": "29902540566431200ec8b4a2852a4ba21e71f5e9",
+      "path": "research/panini_grammar/anga_affix_abhyasa/RULES_6_4_B.md",
+      "git_blob_sha": "e5ef6bc41ed31df4cce1e3bec0fd43ddb5490aca",
+      "bytes": 13009,
+      "sha256": "4abe53ee3fa5aff864c98bd929058f4326d2630897237b54915e702b229be063",
+      "use": "Pre-existing 6.4.100 interpretation and citation, retained with zero repeated source or rule credit"
+    },
+    {
+      "commit": "c1d8e4d47b2f81ed6999534f340d62bae27484c3",
+      "path": "research/panini_grammar/dhi_ca_printed_debate_pada_boundary_and_sagdhi/RELATION.json",
+      "git_blob_sha": "eca4e767e2d07693ce82f2b5564d934de48d391d",
+      "bytes": 6712,
+      "sha256": "8ad66f4797a5ac8574b1e2d43fab3665976415e7bc0c48c9586b9730ac14661f",
+      "use": "Independent inherited sagdhi derivation and s-lopa policy credits"
+    }
+  ],
+  "web_evidence": [
+    {
+      "id": "NIR",
+      "url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/html/sa_yAska-nirukta.htm",
+      "locator": "Nirukta 5.12, line 173, Sarup-based GRETIL transcription, edition metadata line 29",
+      "use": "Whole quoted two-predicate text, root sense and prior abhyāsa"
+    },
+    {
+      "id": "NIR-SVARA",
+      "url": "https://indike.org/pramana/in.vedanga.nirukta.yaska.5",
+      "locator": "Nirukta 5.12, lines 310–329, source-marked quotation",
+      "use": "Svara and ṣ in ṛjīṣaṃ in this electronic presentation"
+    },
+    {
+      "id": "AV",
+      "url": "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/1_veda/1_sam/avs_acu.htm",
+      "locator": "AVŚ 6.49.1c and 6.49.2c lines 2934 and 2936",
+      "use": "Two witnessed strong babhasti forms with distinct preceding noun controllers/complements and no autonomous high on the verb"
+    },
+    {
+      "id": "AV-DEV",
+      "url": "https://glossario.vedanta.com.br/biblioteca/atharvaveda-shaunakiya-kanda-6",
+      "locator": "Śaunaka 6.49, electronic line 325",
+      "use": "Independent Devanagari check of final n and intact bhas vowel"
+    },
+    {
+      "id": "K100",
+      "url": "https://akshara.ru/sutraani/6/4/100",
+      "locator": "Kāśikā on 6.4.100 lines 224–225, Nyāsa lines 226–227",
+      "use": "Reduced bhas with consonant- and vowel-initial ṅit continuations, prior doubling and pit negative control"
+    },
+    {
+      "id": "N158",
+      "url": "https://www.bodharesearch.in/library/sections/ashtadhyayi/1.1.58",
+      "locator": "Commentarial discussion of 1.1.58 and detailed Vasu account under babdhām",
+      "use": "A jaś query uses actual adjacency after 6.4.100 and 8.2.26"
+    },
+    {
+      "id": "K25",
+      "url": "https://sanskritdocuments.org/~sanskrit/learning_tools/ashtadhyayi/vyakhya/8/8.2.25.htm",
+      "locator": "Kāśikā 8.2.25, chāndasa loss examples under the narrow policy",
+      "use": "Operative narrow policy supports independent Vedic s loss on bhas"
+    },
+    {
+      "id": "NY25",
+      "url": "https://akshara.ru/sutraani/8/2/25",
+      "locator": "Nyāsa line 174 and Padamañjarī 177, including bhasa and badha",
+      "use": "Two Vedic s-loss accounts and the badh with two vyatyaya substitutions"
+    },
+    {
+      "id": "BHAS",
+      "url": "https://ashtadhyayi.com/dhatu?filters=gana~3",
+      "locator": "Dhātupāṭha 03.0019, Kaumudī root 1100",
+      "use": "Teaching form bhasa, Juhotyādi P and conventional censure/shining senses"
+    },
+    {
+      "id": "BADH",
+      "url": "https://samsaadhanii-concordance.vipran.in/dhatu/1452-baXaz-banXane-baX1",
+      "locator": "Concordance entry 1452 bádh, bádh bandhane, class and nitya-san discussion",
+      "use": "Separable n-less binding root with an ordinarily constrained construction"
+    },
+    {
+      "id": "DP973",
+      "url": "https://sa.wikisource.org/wiki/पाणिनीयधातुपाठः",
+      "locator": "Dhātupāṭha concordance row 1080/Kaumudī 973, line 1299",
+      "use": "Explicit badh bandhane root anchor distinct from bandh 09.0044"
+    },
+    {
+      "id": "GHRA",
+      "url": "https://www.ashtadhyayi.com/upasargarthachandrika/123?highlight=%E0%A4%AE%E0%A5%8B%E0%A4%B9&scroll=chandrika-199-4",
+      "locator": "ghrā gandhopādāne, Dhātupāṭha 01.1075 associated entry",
+      "use": "Exact root ID for the smell predicate, independent of the cited book's example prefix"
+    },
+    {
+      "id": "K378",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/7/7.3.78.htm",
+      "locator": "Kāśikā 7.3.78 and Bālamanoramā line 27: ghrā→jighra on the class affix śit",
+      "use": "Actual whole-root substitution with independent thematic affix"
+    },
+    {
+      "id": "ACC466",
+      "url": "https://sanskritdocuments.org/~sanskrit/learning_tools/ashtadhyayi/vyakhya/8/8.4.66.htm",
+      "locator": "Kāśikā 8.4.66, inherited saṃhitā query",
+      "use": "Dependent svarita after udātta"
+    }
+  ]
+}

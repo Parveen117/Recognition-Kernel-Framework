@@ -1,0 +1,320 @@
+{
+  "forms": [
+    {
+      "category": "finite",
+      "id": "NIR-EAT-LOT-P3D",
+      "profile": {
+        "root": "03.0019 bhas",
+        "sense": "Vedic eating",
+        "prefix": null,
+        "pada": "P",
+        "lakara": "loṭ",
+        "slot": "3du"
+      },
+      "paths": [
+        {
+          "root": "03.0019",
+          "affix": "ślu + tas→tām",
+          "policy": [
+            "K100",
+            "N158",
+            "NIR"
+          ],
+          "segment": "babdhām",
+          "markers": [
+            "śaP→ślu",
+            "apit→ṅit",
+            "root s lopa 8.2.26"
+          ],
+          "status": "Accepted Kāśikā/Vasu composition"
+        },
+        {
+          "root": "03.0019",
+          "affix": "ślu + tas→tām",
+          "policy": [
+            "K25",
+            "NY25",
+            "NIR"
+          ],
+          "segment": "babdhām",
+          "markers": [
+            "śaP→ślu",
+            "apit→ṅit",
+            "independent Chāndasa root s lopa"
+          ],
+          "status": "Accepted distinct narrow-policy composition"
+        }
+      ]
+    },
+    {
+      "category": "finite",
+      "id": "AV-EAT-LAT-P3S",
+      "profile": {
+        "root": "03.0019 bhas",
+        "sense": "Vedic eating",
+        "prefix": null,
+        "pada": "P",
+        "lakara": "laṭ",
+        "slot": "3sg"
+      },
+      "paths": [
+        {
+          "root": "03.0019",
+          "affix": "ślu + tiP",
+          "policy": [
+            "K100",
+            "AV"
+          ],
+          "segment": "babhasti",
+          "markers": [
+            "śaP→ślu",
+            "P retained; pit is outside 6.4.100"
+          ],
+          "status": "Accepted direct Śaunaka positive control"
+        }
+      ]
+    },
+    {
+      "category": "finite",
+      "id": "K-EAT-LAT-P3P",
+      "profile": {
+        "root": "03.0019 bhas",
+        "sense": "Vedic eating continuation",
+        "prefix": null,
+        "pada": "P",
+        "lakara": "laṭ",
+        "slot": "3pl"
+      },
+      "paths": [
+        {
+          "root": "03.0019",
+          "affix": "ślu + jhi→at+i",
+          "policy": [
+            "K100"
+          ],
+          "segment": "bapsati",
+          "markers": [
+            "śaP→ślu",
+            "apit→ṅit",
+            "abhyasta adādeśa",
+            "root s retained before a"
+          ],
+          "status": "Accepted named commentary construction, independent recited locus Open"
+        }
+      ]
+    },
+    {
+      "category": "finite",
+      "id": "NIR-SMELL-LOT-P3D",
+      "profile": {
+        "root": "01.1075 ghrā",
+        "sense": "smelling Soma residue",
+        "prefix": "upa",
+        "surface_preverb": "separated by object",
+        "pada": "P",
+        "lakara": "loṭ",
+        "slot": "3du"
+      },
+      "paths": [
+        {
+          "root": "01.1075",
+          "affix": "śaP + tas→tām",
+          "policy": [
+            "NIR",
+            "NIR-SVARA",
+            "GHRA",
+            "K378"
+          ],
+          "segment": "jighratām",
+          "markers": [
+            "śaP śit retained",
+            "root ghrā→jighra",
+            "upa as separated preverb"
+          ],
+          "status": "Accepted directly cited finite output under supplied preverb attachment"
+        }
+      ]
+    }
+  ],
+  "accent": [
+    [
+      "NIR-EAT-SVARA",
+      "babdhām",
+      "Nirukta 5.12 electronic svara witness marks the first ba low and the following te low. Retain the actual address and printed pattern. Its full derivational accent history stays Open.",
+      "NIR-SVARA"
+    ],
+    [
+      "NIR-SMELL-SVARA",
+      "jighratām",
+      "The source marks ghra with svarita in the separated upa clause. Root replacement is proven independently of the historical pitch assignment.",
+      "NIR-SVARA"
+    ],
+    [
+      "AV-SVARITA",
+      "aṃśū́n babhasti",
+      "The Śaunaka Roman representation has no lexical acute on the finite word. The received Kāśikā accent glyph on its first ba is a dependent svarita from the preceding acute ū under the stated 8.1.28 and 8.4.66 contact views.",
+      "AV,K100,ACC466"
+    ]
+  ],
+  "syntax": [
+    [
+      "EAT-SUBJECT",
+      "The two horses are the distinct nominative dual controller of the eating predicate, with the grains as its object. The enclitic te attaches a singular addressee/possessor.",
+      "NIR,NIR-SVARA"
+    ],
+    [
+      "SMELL-SUBJECT",
+      "The same horses control the third-dual smell predicate. Soma residue is its object and retains its own lexical history.",
+      "NIR,NIR-SVARA"
+    ],
+    [
+      "UPA-TMESIS",
+      "The actual placement upa < ṛjīsam/ṛjīṣam < jighratām yields the Vedic separated preverbal attachment, and the first predicate does not take upa.",
+      "NIR,NIR-SVARA"
+    ],
+    [
+      "AV-STRONG",
+      "Śaunaka 6.49.1 supplies kapiḥ and an independent tejana object. 6.49.2 has aṃśūn and the same strong finite word. Context identities stay local to each clause.",
+      "AV,AV-DEV"
+    ]
+  ],
+  "contact": [
+    [
+      "DENTAL-M",
+      "babdhām te → babdhāṃ te",
+      "Outer finite m receives anusvāra before t under 8.3.23.",
+      "NIR,NIR-SVARA"
+    ],
+    [
+      "PALATAL-M",
+      "ṛjīṣam jighratām → ṛjīṣaṃ jighratām",
+      "Outer nominal m before j receives anusvāra on the selected ṣ spelling. GRETIL's s spelling retains its diplomatic address.",
+      "NIR,NIR-SVARA"
+    ],
+    [
+      "AV-N",
+      "aṃśūn babhasti",
+      "Final n of the preceding nominal remains. 8.3.24 for non-final n cannot assimilate it; the subsequent tone relation sees the vowel ū.",
+      "AV,AV-DEV"
+    ]
+  ],
+  "observations": [
+    [
+      "NIR-CLAUSE",
+      "NIR",
+      "Direct Nirukta text supplies the two imperative predicates and names the Indra-related quotation."
+    ],
+    [
+      "NIR-EATING",
+      "NIR",
+      "Yāska describes prior initial copying and loss of the upadhā, identifies the verb as eating, and explicitly explains the residue noun."
+    ],
+    [
+      "NIR-READINGS",
+      "NIR,NIR-SVARA",
+      "The Sarup-based GRETIL displays ṛjīsam and word separators; the named electronic recension displays ṣ and particular svara marks."
+    ],
+    [
+      "AV-STRONG",
+      "AV,AV-DEV",
+      "Kāśikā’s strong pit control is directly identifiable at Śaunaka 6.49.2. The same strong predicate is separately witnessed at 6.49.1."
+    ],
+    [
+      "AV-TONE",
+      "AV,K100",
+      "The Roman Śaunaka source leaves the verb without an autonomous acute, and the accented Kāśikā citation explicitly marks a dependent initial svarita after aṃśū́n."
+    ],
+    [
+      "NA-BIND",
+      "NY25,DP973",
+      "Nyāsa positively gives the distinct badh root and gives two separate Vedic replacements for the Bhāṣya objection; no s is posited."
+    ],
+    [
+      "NITYASAN-CONTROL",
+      "BADH,DP973",
+      "The cited n-less badh is Bhvādi and has an independent ordinary nitya-san treatment. Its lexical type is not the frozen Kriyādi bandh 09.0044."
+    ],
+    [
+      "JAS-VIEW",
+      "N158",
+      "The visible adjacency after original vowel and s loss licenses the root labial jaś test, with the previous deleted vowels retained only in their historical channel."
+    ]
+  ],
+  "decisions": [
+    [
+      "NIR-EDIBLE",
+      "NIR,BHAS,K100",
+      "Apply the explicit Vedic eating sense on bhas 03.0019. The Dhātupāṭha teaching gloss and the witness's attested predicate remain separately stated."
+    ],
+    [
+      "NIR-LOSS",
+      "NIR,K25,K100,NY25",
+      "Admit the same bhas word with the two named reasons for deleting the root s. Neither uses siC."
+    ],
+    [
+      "BIND-LOCAL",
+      "NY25,DP973,BADH,NIR",
+      "Preserve the binding-root objection and the supplied Vyatyaya operations. The particular quotation’s eating interpretation is independently positive. Full exceptional badh admission remains Open."
+    ],
+    [
+      "DEP-SVARA",
+      "AV,K100,ACC466",
+      "A lack of Roman lexical acute and a Devanagari dependent svarita are compatible on the named clause."
+    ],
+    [
+      "UPA-LICENSE",
+      "NIR,NIR-SVARA,GHRA,K378",
+      "The separated Vedic attachment is locally licensed under 1.4.82 on the smell predicate. Exact joined recitation or a generalized free-position rule remains Open."
+    ],
+    [
+      "TEXT-RESIDUE",
+      "NIR,NIR-SVARA",
+      "Accept both diplomatic s and ṣ witnesses on their own text addresses. Keep the exact edition/transfer mechanism Open."
+    ]
+  ],
+  "morphology": [
+    [
+      "NIR-EAT-BROAD",
+      "NIR-EAT-LOT-P3D",
+      "babdhām",
+      "root s-lopa in the 6.4.100/8.2.26 view after reduplication",
+      "NIR,K100,N158"
+    ],
+    [
+      "NIR-EAT-NARROW",
+      "NIR-EAT-LOT-P3D",
+      "babdhām",
+      "independent Chāndasa root s-lopa under narrow 8.2.25",
+      "NIR,K25,NY25"
+    ],
+    [
+      "AV-EAT",
+      "AV-EAT-LAT-P3S",
+      "babhasti",
+      "strong pit tiP leaves the original root vowel and s",
+      "AV,K100"
+    ],
+    [
+      "K-PL",
+      "K-EAT-LAT-P3P",
+      "bapsati",
+      "weak ati continuation deletes original root vowel, and vowel-initial plan retains its s",
+      "K100"
+    ],
+    [
+      "NIR-OPA",
+      "NIR-SMELL-LOT-P3D",
+      "jighratām",
+      "jighra under visible śit and separated upa with independent 3du tām",
+      "NIR,GHRA,K378"
+    ]
+  ],
+  "nominal": [],
+  "reported_alternatives": [
+    [
+      "BIND-ATTRIBUTION",
+      "Kielhorn III p. 403 and Nyāsa 8.2.25",
+      "Bhāṣya opponent attributes the word to bandh. Nyāsa specifies badh Kaumudī 973 with Vedic t→dh and root dh→b. Their scope is Accepted as a quoted lexical derivation, and full affix admission and independent contextual grounding stay Open."
+    ]
+  ]
+}
