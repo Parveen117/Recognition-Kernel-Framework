@@ -2,6 +2,12 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG775 · Two middle verbs and the Rāma epithet in Bhaṭṭi 7.101
+
+PG775 · [Two middle verbs and the Rāma epithet in Bhaṭṭi 7.101](two_middle_predicates_and_the_raghuttama_address_in_bhatti_7_101/README.md). Checks Bhaṭṭi 7.101 against S1 and writes its hope of meeting and its causal command to gladden Rāma. 0 new nominal positions and 0 readings. 2 new finite positions and 2 finite readings. One syntax construction with four clause readouts. One written morphology construction with 5 interfaces, 12 source observations and 5 source decisions. Census: 52,349 finite positions, 21,123 nominal positions and 23,895 nominal readings.
+
+Parent b8137aca3ae784aab7e4c19671d51ecd41c0d32a. The containing commit pins this packet. S1 retains its exact independent poem address and actual mood requirement. The internal prefix/pada account of the signalling clause and the precise motivation for the causal middle remain Open. Continue the written extent and movement sequence from 5.2.12. C2–C5 and S1–S7 remain Open. Claude retains execution.
+
 ## PG774 · The extent of a wingspan and a chain of counsellors
 
 PG774 · [The extent of a wingspan and a chain of counsellors](extent_of_a_wingspan_and_a_chain_of_counsellors/README.md). Writes 5.2.7–11 and identifies the literary wingspan and the independent counsellor-chain quotation. 20 new nominal positions and 20 readings. Finite positions and readings both increased by zero. One written morphology construction with 19 interfaces, 12 source observations and 6 source decisions. Census: 52,347 finite positions, 21,123 nominal positions and 23,895 nominal readings.

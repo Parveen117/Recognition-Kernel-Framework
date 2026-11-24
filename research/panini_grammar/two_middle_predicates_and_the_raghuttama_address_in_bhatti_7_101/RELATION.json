@@ -1,0 +1,68 @@
+{
+  "stage": "PG775",
+  "morphology_interfaces": [
+    {
+      "id": "GAM",
+      "base": "sam plus gam 01.1137",
+      "guard": "nontransitive gathering and wish",
+      "affix": "luṅ, sic with kit, second-plural middle",
+      "result": "samagadhvam"
+    },
+    {
+      "id": "MUD",
+      "base": "mud 01.0016 with ṇic",
+      "guard": "plural addressees cause the object to rejoice",
+      "affix": "loṭ, second-plural middle",
+      "result": "modayadhvam"
+    },
+    {
+      "id": "SIGN",
+      "base": "yam in gandhana",
+      "guard": "fear taken as information revealed",
+      "affix": "obligatory sic-kit under 1.2.15 on Jayamaṅgalā’s analysis",
+      "result": "upāyadhvam in continuous nopāyadhvam"
+    },
+    {
+      "id": "MARRY",
+      "base": "upa plus yam 01.1139",
+      "guard": "acquisition in the marital sense",
+      "affix": "unmarked sic alternative in the optional kit domain",
+      "result": "upāyaṃsta, PG86"
+    },
+    {
+      "id": "QUOTE",
+      "base": "ā plus han with clitic mā",
+      "guard": "two elliptic analyses already owned",
+      "affix": "source frame retained",
+      "result": "āhadhvaṃ mā raghūttamam, exact poem address Open"
+    }
+  ],
+  "nominal_positions": [],
+  "source_policy_decisions": [
+    {
+      "id": "LOCUS",
+      "sources": "BK,PAR,JAY,LAV,NARR",
+      "decision": "Exclude 7.101 as S1’s address in these editions. Its finite verb, object reference and addressees are evidenced separately. The named scene in 3.19–23 is also insufficient."
+    },
+    {
+      "id": "WISH",
+      "sources": "BK,JAY,WISH,GAMROOT,GAMRULE",
+      "decision": "Credit the witnessed sam-gam aorist with kit. The prospective sense does not license substituting a loṭ spelling in the text."
+    },
+    {
+      "id": "JOY",
+      "sources": "BK,PAR,JAY,MUDROOT,NIC",
+      "decision": "Admit the joy causative from the object and gloss. Exclude the contact homograph. A commentary paraphrase in another pada adds no finite position."
+    },
+    {
+      "id": "YAM",
+      "sources": "BK,JAY,BOM,YAM",
+      "decision": "The verse supplies direct literary support on the PG86 marriage branch. Keep the distinct signalling sense and the uncertainty about āṅ attachment in the apparatus. No new finite row for either yam token here."
+    },
+    {
+      "id": "OWN",
+      "sources": "BK,LAV,NARR",
+      "decision": "Retain the finite quote, the pronominal expansion and both supplied elliptic frames at their prior owners. No additional noun case position."
+    }
+  ]
+}

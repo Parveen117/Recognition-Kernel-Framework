@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG775 · [Two middle verbs and the Rāma epithet in Bhaṭṭi 7.101](two_middle_predicates_and_the_raghuttama_address_in_bhatti_7_101/README.md). Checks Bhaṭṭi 7.101 against S1 and writes its hope of meeting and its causal command to gladden Rāma. 0 new nominal positions and 0 readings. 2 new finite positions and 2 finite readings.
+
 PG774 · [The extent of a wingspan and a chain of counsellors](extent_of_a_wingspan_and_a_chain_of_counsellors/README.md). Writes 5.2.7–11 and identifies the literary wingspan and the independent counsellor-chain quotation. 20 new nominal positions and 20 readings. Finite positions and readings both increased by zero.
 
 PG773 · [Crop fields, the scope of “entirely,” and what a mirror shows](fields_for_specific_crops_and_two_markers_on_a_leather_object/README.md). Builds 5.2.1–6 with two complete neuter crop-field panels and separate accounts of whole leather objects and mirror reflections. 63 new nominal positions and 119 readings. Finite positions and readings both increased by zero.

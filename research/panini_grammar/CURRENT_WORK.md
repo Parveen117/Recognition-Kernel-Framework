@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG774
+# Pāṇini grammar · current written coverage at PG775
+
+PG775 · [Two middle verbs and the Rāma epithet in Bhaṭṭi 7.101](two_middle_predicates_and_the_raghuttama_address_in_bhatti_7_101/README.md). Checks Bhaṭṭi 7.101 against S1 and writes its hope of meeting and its causal command to gladden Rāma. Census: 52,349 finite positions, 21,123 nominal positions and 23,895 nominal readings.
 
 PG774 · [The extent of a wingspan and a chain of counsellors](extent_of_a_wingspan_and_a_chain_of_counsellors/README.md). Writes 5.2.7–11 and identifies the literary wingspan and the independent counsellor-chain quotation. Census: 52,347 finite positions, 21,123 nominal positions and 23,895 nominal readings.
 

@@ -1,6 +1,8 @@
-# Written-development backlog at PG774
+# Written-development backlog at PG775
 
-Monty · 2026-11-25 · reviewed parent 558df53c57f8b2c4e199075b07b1263c42871e38. Historical closures below retain their exact pins.
+Monty · 2026-11-25 · reviewed parent b8137aca3ae784aab7e4c19671d51ecd41c0d32a. Historical closures below retain their exact pins.
+
+PG775 · [Two middle verbs and the Rāma epithet in Bhaṭṭi 7.101](two_middle_predicates_and_the_raghuttama_address_in_bhatti_7_101/README.md). S1 retains its exact independent poem address and actual mood requirement. The internal prefix/pada account of the signalling clause and the precise motivation for the causal middle remain Open. Continue the written extent and movement sequence from 5.2.12. C2–C5 and S1–S7 remain Open.
 
 PG774 · [The extent of a wingspan and a chain of counsellors](extent_of_a_wingspan_and_a_chain_of_counsellors/README.md). The particular board game, lexical gender of the wingspan at Bhaṭṭi 5.101 and origin of the short digital heat spelling remain Open. Continue with annual and imminent birth and the movement and labour relations at 5.2.12–19. C2–C5 and S1–S7 remain Open.
 
