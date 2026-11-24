@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG796 · [Ritual consumers, followers, witnesses and indriya histories](ritual_consumers_followers_witnesses_and_indriya_histories/README.md). Completes selected 5.2.85–93 outputs: 26 new nominal positions and 28 readings, nine constructions/26 interfaces and nine source decisions.
+
 PG795 · [Lovers, acquisition attempts, named fevers and feast days](lovers_acquisition_attempts_named_fevers_and_feast_days/README.md). Completes selected 5.2.74–84 outputs: 30 new nominal positions and 36 readings, eleven constructions/30 interfaces and eleven source decisions.
 
 PG794 · [Desire, body-part devotion and nine k-family predicates](desire_body_devotion_and_nine_k_predicates/README.md). Completes selected 5.2.65–73 outputs: 19 new nominal positions/readings, nine constructions/19 interfaces and nine source decisions; three unresolved source/commentary readings remain Open and uncredited.

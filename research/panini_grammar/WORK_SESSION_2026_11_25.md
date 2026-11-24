@@ -2,6 +2,12 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG796 · Ritual consumers, followers, witnesses and indriya histories
+
+PG796 · [Ritual consumers, followers, witnesses and indriya histories](ritual_consumers_followers_witnesses_and_indriya_histories/README.md). Completes selected 5.2.85–93 surfaces with 26 new nominal positions and 28 readings. Finite positions/readings increase by zero. Nine morphology constructions/26 interfaces, zero new source observations and nine source-policy decisions. Census: 52,357 finite positions, 21,482 nominal positions and 24,301 nominal readings.
+
+Parent 9dda6301120b9ae24fb59dd0c0777b4693599ca4. The containing commit pins this packet. Selected literal outputs and source-explicit guards are CLOSED. The remaining iṣṭādi list, critical Vedic adversary form, historical priority of the `kṣetriya` senses and `indriya` explanations, complete paradigms and accent remain Open. Continue from 5.2.94. C2–C5 and S1–S7 remain Open; S5 remains 99/103 and S6 retains the independent 5.56 k-it effect. Claude retains execution, generators, untouched suites and replay.
+
 ## PG795 · Lovers, acquisition attempts, named fevers and feast days
 
 PG795 · [Lovers, acquisition attempts, named fevers and feast days](lovers_acquisition_attempts_named_fevers_and_feast_days/README.md). Completes selected 5.2.74–84 surfaces with 30 new nominal positions and 36 readings. Finite positions/readings increase by zero. Eleven morphology constructions/30 interfaces, zero new source observations and eleven source-policy decisions. Census: 52,357 finite positions, 21,456 nominal positions and 24,273 nominal readings.

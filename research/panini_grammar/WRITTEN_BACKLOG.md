@@ -1,6 +1,8 @@
-# Written-development backlog at PG795
+# Written-development backlog at PG796
 
-Monty · 2026-11-25 · reviewed parent 9246005c4560f8bfa80c28da87e80bbfc45dd0e8. Historical closures below retain their exact pins.
+Monty · 2026-11-25 · reviewed parent 9dda6301120b9ae24fb59dd0c0777b4693599ca4. Historical closures below retain their exact pins.
+
+PG796 · [Ritual consumers, followers, witnesses and indriya histories](ritual_consumers_followers_witnesses_and_indriya_histories/README.md). Selected 5.2.85–93 outputs, alternatives and explicit guards are CLOSED. The remaining iṣṭādi list, critical adversary form, `kṣetriya` and `indriya` historical priorities, complete paradigms and accent remain Open. Continue from 5.2.94. A next-day `śrāddhika` and giver/receiver as technical witness are Excluded only by source-explicit guards. S5 remains 99/103; S6 retains the independent 5.56 k-it effect. C2–C5 and S1–S7 remain Open.
 
 PG795 · [Lovers, acquisition attempts, named fevers and feast days](lovers_acquisition_attempts_named_fevers_and_feast_days/README.md). Selected 5.2.74–84 outputs and correlated alternatives are CLOSED. The two spelling forks, wider feast-name membership, `śrotriya/chāndasa` commentary policy, full paradigms, productivity and wider accent remain Open. Continue from 5.2.85. The enemy sentence is Excluded only from the 5.2.78 leader branch. S5 remains 99/103; S6 retains the independent 5.56 k-it effect. C2–C5 and S1–S7 remain Open.
 

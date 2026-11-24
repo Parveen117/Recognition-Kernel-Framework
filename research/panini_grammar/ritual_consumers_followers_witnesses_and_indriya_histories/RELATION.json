@@ -1,0 +1,36 @@
+{
+  "stage":"PG796",
+  "morphology_constructions":[
+    {"id":"SAME_TIME_SRADDHA","rule":"5.2.85","interfaces":["SR85"]},
+    {"id":"BARE_PURVA_INI","rule":"5.2.86","interfaces":["P1","P2","PP"]},
+    {"id":"PURVA_COMPOUND_INI","rule":"5.2.87","interfaces":["KP87","BP87"]},
+    {"id":"ISTADI_INI_SELECTED","rule":"5.2.88","interfaces":["I88","PU88"]},
+    {"id":"VEDIC_ADVERSARIES","rule":"5.2.89","interfaces":["PA89","PP89"]},
+    {"id":"FOLLOWER_SEARCHER","rule":"5.2.90","interfaces":["AG90","AU90"]},
+    {"id":"TECHNICAL_WITNESS","rule":"5.2.91","interfaces":["S1","S2","SP"]},
+    {"id":"KSHETRIYA_DOMAINS","rule":"5.2.92","interfaces":["KV92","KK92","KVI92","KT92","KA92"]},
+    {"id":"INDRIYA_ETYMOLOGIES","rule":"5.2.93","interfaces":["IL93","ID93","IS93","IJ93","IT93","IU93"]}
+  ],
+  "nominal_positions":[
+    {"id":"SR85","readings":["śrāddhī","śrāddhikaḥ"]},
+    {"id":"P1","readings":["pūrvī"]},{"id":"P2","readings":["pūrviṇau"]},{"id":"PP","readings":["pūrviṇaḥ"]},
+    {"id":"KP87","readings":["kṛtapūrvī kaṭam"]},{"id":"BP87","readings":["bhuktapūrvī odanam"]},
+    {"id":"I88","readings":["iṣṭī yajñe"]},{"id":"PU88","readings":["pūrtī śrāddhe"]},
+    {"id":"PA89","readings":["मा त्वा॑ परिप॒रिणो॑ विद॒न्"]},{"id":"PP89","readings":["मा त्वा॑ परिप॒न्थिनो॑ विद॒न् [K]","मा त्वा॑ परिपं॒थिनो विद॒न् [Vasu]"]},
+    {"id":"AG90","readings":["anupadī gavām"]},{"id":"AU90","readings":["anupadī uṣṭrāṇām"]},
+    {"id":"S1","readings":["sākṣī"]},{"id":"S2","readings":["sākṣiṇau"]},{"id":"SP","readings":["sākṣiṇaḥ"]},
+    {"id":"KV92","readings":["kṣetriyo vyādhiḥ"]},{"id":"KK92","readings":["kṣetriyaṃ kuṣṭham"]},{"id":"KVI92","readings":["kṣetriyaṃ viṣam"]},{"id":"KT92","readings":["kṣetriyāṇi tṛṇāni"]},{"id":"KA92","readings":["kṣetriyaḥ pāradārikaḥ"]},
+    {"id":"IL93","readings":["indriyam [liṅga]"]},{"id":"ID93","readings":["indriyam [dṛṣṭa]"]},{"id":"IS93","readings":["indriyam [sṛṣṭa]"]},{"id":"IJ93","readings":["indriyam [juṣṭa]"]},{"id":"IT93","readings":["indriyam [datta]"]},{"id":"IU93","readings":["indriyam [durjaya, Vasu iti example]"]}
+  ],
+  "source_policy_decisions":[
+    {"id":"SAME_TIME","status":"Accepted/Excluded","decision":"Accept the ini/ṭhan pair only under the simultaneous eating guard; exclude next-day designation from this branch."},
+    {"id":"BARE_PURVA","status":"Accepted","decision":"Retain supplied action with bare pūrva and the three displayed number positions."},
+    {"id":"COMPOUND_PURVA","status":"Accepted","decision":"Form the action-pūrva compound before outer ini and retain the governed object."},
+    {"id":"ISTADI_SCOPE","status":"Accepted/Open","decision":"Accept iṣṭī and pūrtī; retain the rest of the printed iṣṭādi list as genuinely unconstructed Open work."},
+    {"id":"VEDIC_FORK","status":"Accepted/Open","decision":"Accept both adversary lexemes and keep the second quotation's n/anusvāra-accent presentation source-labelled pending critical priority."},
+    {"id":"FOLLOWER_DOMAIN","status":"Accepted","decision":"Retain separate cow and camel genitive search domains for anupadī."},
+    {"id":"WITNESS_NAME","status":"Accepted/Excluded","decision":"Accept spectator singular, dual and plural; exclude giver and receiver only from the technical witness name."},
+    {"id":"KSHETRIYA_SENSES","status":"Accepted/Open","decision":"Accept the five displayed domain positions; their historical/semantic priority remains Open."},
+    {"id":"INDRIYA_BRANCHES","status":"Accepted/Open","decision":"Accept the five rule-named analyses and Vasu's explicit iti example; wider possible etymologies and priority remain Open."}
+  ]
+}

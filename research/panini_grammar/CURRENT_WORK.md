@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG795
+# Pāṇini grammar · current written coverage at PG796
+
+PG796 · [Ritual consumers, followers, witnesses and indriya histories](ritual_consumers_followers_witnesses_and_indriya_histories/README.md). Completes selected 5.2.85–93 surfaces while leaving the remainder of iṣṭādi and critical source priorities explicitly Open. Census: 52,357 finite positions, 21,482 nominal positions and 24,301 nominal readings.
 
 PG795 · [Lovers, acquisition attempts, named fevers and feast days](lovers_acquisition_attempts_named_fevers_and_feast_days/README.md). Completes selected 5.2.74–84 surfaces, including correlated lopa alternatives and source-labelled spelling/commentary forks. Census: 52,357 finite positions, 21,456 nominal positions and 24,273 nominal readings.
 

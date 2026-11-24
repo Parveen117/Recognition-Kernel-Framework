@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG796 · [Ritual consumers, followers, witnesses and indriya histories](research/panini_grammar/ritual_consumers_followers_witnesses_and_indriya_histories/README.md). PG14 retains inner action, affix/stipulation owner, governed object, semantic domain, source policy and guarded outcome through typed zero specialization.
+
 PG795 · [Lovers, acquisition attempts, named fevers and feast days](research/panini_grammar/lovers_acquisition_attempts_named_fevers_and_feast_days/README.md). PG14 retains support relation, optional or obligatory lopa, affix owner, bearer class, accent, source fork and outcome through typed zero specialization.
 
 PG794 · [Desire, body-part devotion and nine k-family predicates](research/panini_grammar/desire_body_devotion_and_nine_k_predicates/README.md). PG14 retains support case, semantic guard, affix or deletion owner, bearer, source policy and Accepted/Open/Excluded outcome through typed zero specialization.
