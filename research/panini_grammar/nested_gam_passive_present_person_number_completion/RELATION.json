@@ -1,0 +1,47 @@
+{
+  "schema": "rkf.panini.pg664.relation.v1",
+  "scope": "Selected two-hetu gam passive lat A person-number realization",
+  "root": {
+    "id": "1011137",
+    "lemma": "gam",
+    "sense": "gatau ordinary movement",
+    "preverbs": [],
+    "voice": "passive karmani",
+    "affix_history": "H1 and H2 causal events retained; H1 and H2 undergo separate owned lopa; anit yak supplies ya; selected A ending follows"
+  },
+  "roles": {
+    "Y": "unique expressed karman and person-number agreement controller",
+    "D": "inner inducing agent / outer immediate causee-agent, instrumental",
+    "V": "outer inducing agent, instrumental"
+  },
+  "person_number_policy": "Each row is a fibre over a different admitted Y controller; the PG409 proper-name 3sg example is not relabelled first or second person.",
+  "forms": ["gamyate", "gamyete", "gamyante", "gamyase", "gamyethe", "gamyadhve", "gamye", "gamyāvahe", "gamyāmahe"],
+  "accounting": {
+    "total_readouts": 9,
+    "old_controls": ["A3sg gamyate"],
+    "new_morphological_constructions": 1,
+    "new_morphological_readouts": 8,
+    "new_finite_positions": 0,
+    "new_finite_readings": 0,
+    "new_nominal_positions": 0,
+    "new_nominal_readings": 0,
+    "new_source_observations": 0
+  },
+  "accepted": [
+    "PG409 unique-Y passive controller and distinct D/V instrumental roles",
+    "nine explicit A present ending realizations on the owned two-lopa yak stem",
+    "same surface forms as the pinned PG15 gam row with distinct nested history labels"
+  ],
+  "open": [
+    "Additional goal or secondary karman, unspecified objects and identity-coincident participants",
+    "Other lakaras, cang, roots, senses, preverbs, accent and independent full-clause attestation",
+    "Automatic role recognition and wider C2-C5/S1-S7/native/global gates"
+  ],
+  "excluded": [
+    "Promoting D or V to agreement controller in the admitted unique-Y frame",
+    "Treating either nic lopa as deletion of its causal event",
+    "Merging active gamayate with passive gamyate",
+    "Recrediting the old 3sg control or homographic one-nic words as new positions",
+    "Assigning first/second person to the historical proper-name Yajnadatta token"
+  ]
+}

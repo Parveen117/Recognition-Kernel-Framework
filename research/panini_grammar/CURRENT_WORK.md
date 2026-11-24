@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG663
+# Pāṇini grammar · current written coverage at PG664
+
+PG664: [Nested gam passive present person-number completion](nested_gam_passive_present_person_number_completion/README.md). PG409's unique-Y controller, distinct instrumental D/V agents and two owned ṇic lopas now carry the complete passive laṭ Ā display: nine cells, old `gamyate` withheld, one morphology construction/eight new interfaces. The fibres vary the admitted Y controller rather than changing the historical Yajñadatta token's person. Zero new finite/nominal/source credits; census unchanged at 51,819 finite and 8,012 nominal/9,271 readings.
 
 PG663: [Nested gam present person-number completion](nested_gam_present_person_number_completion/README.md). The pinned PG379–382 two-hetu event, role/case and P/A policies now carry a complete active laṭ display: 18 cells, two old 3sg controls withheld, one morphology construction/16 new interfaces. Zero new finite/nominal/source credits; census unchanged at 51,819 finite and 8,012 nominal/9,271 readings.
 

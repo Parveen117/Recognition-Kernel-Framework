@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG664: [Nested gam passive present person-number completion](nested_gam_passive_present_person_number_completion/README.md). PG409's unique-Y controller, distinct instrumental D/V agents and two owned ṇic lopas now carry the complete passive laṭ Ā display: nine cells, old `gamyate` withheld, one morphology construction/eight new interfaces. The fibres vary the admitted Y controller rather than changing the historical Yajñadatta token's person. Zero new finite/nominal/source credits; census unchanged at 51,819 finite and 8,012 nominal/9,271 readings.
+
 PG663: [Nested gam present person-number completion](nested_gam_present_person_number_completion/README.md). The pinned PG379–382 two-hetu event, role/case and P/A policies now carry a complete active laṭ display: 18 cells, two old 3sg controls withheld, one morphology construction/16 new interfaces. Zero new finite/nominal/source credits; census unchanged at 51,819 finite and 8,012 nominal/9,271 readings.
 
 PG662: [Pac/jalp finite-akac surviving dhātu accent](pac_jalp_finite_akac_surviving_dhatu_accent/README.md). After PG661 blocks cit-final accent and fixes the ending as anudātta, Kāśikā 6.1.162/6.1.158 positively select the dhātu-final vowel for exact `pacataki/jalpataki`. One accent construction/two records; zero word, morphology or source credits. `svapitaki/śvasitaki` remain Open. Census unchanged at 51,819 finite and 8,012 nominal/9,271 readings.

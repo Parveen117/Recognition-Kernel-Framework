@@ -1,0 +1,57 @@
+{
+  "upstream": [
+    {
+      "repository": "ashtadhyayi-com/data",
+      "commit": "5744762f010d677cfb43f347a42d02796cf615d6",
+      "path": "sutraani/kashika.txt",
+      "bytes": 3806703,
+      "sha256": "ccd6d554d10acbe89fd566730a59731ace38b2aad982becbbd653b77cca93254",
+      "git_blob_sha": "e525df7668835ef1dd7c5988c031da07ce0c162b",
+      "fields": [
+        {
+          "field": "34078",
+          "text": "लस्य तिबादय आदेशा भवन्ति। तिप्सिप्मिपां पकारः स्वरार्थः। इटष्टकार <<इटोऽत्>>[[३.४.१०६]] इति विशेषणार्थः, तिबादिभिरादेशैस्तुल्यत्वाद् न देशविध्यर्थः। महिङो ङकारस्तिङ् इति प्रत्याहारग्रहणार्थः। पचति, पचतः, पचन्ति। पचसि, पचथः, पचथ। पचामि, पचावः, पचामः। पचते, पचेते, पचन्ते। पचसे, पचेथे, पचध्वे। पचे, पचावहे, पचामहे। एवमन्येष्वपि लकारेषूदाहार्यम्॥",
+          "use": "complete A ting series and present ending display template"
+        }
+      ]
+    }
+  ],
+  "project_dependencies": [
+    {
+      "commit": "ee70c4e19ab7efb9edcf762ed6e63a85fb1ad97a",
+      "path": "research/panini_grammar/nested_gam_passive_two_lopas_and_retained_agents/STATE.json",
+      "bytes": 1996,
+      "sha256": "c826a94fa3405625e2d9132bbb6672d33e6e70e8fe4d8bd3de5ac2f92ba2bea2",
+      "git_blob_sha": "73509ddecb47fc56425bf1646d57046ccd0b087e"
+    },
+    {
+      "commit": "ee70c4e19ab7efb9edcf762ed6e63a85fb1ad97a",
+      "path": "research/panini_grammar/nested_gam_passive_two_lopas_and_retained_agents/RELATION.json",
+      "bytes": 3387,
+      "sha256": "74f74ef50b0b003d4535ecd0c736b38e73c6d6ae5aa9f6a91e06dc7d2b069e08",
+      "git_blob_sha": "6ca7de72f5a49235103bf3d983b0b3be8bb9c912"
+    },
+    {
+      "commit": "ee70c4e19ab7efb9edcf762ed6e63a85fb1ad97a",
+      "path": "research/panini_grammar/nested_gam_passive_two_lopas_and_retained_agents/DERIVATION_AND_NATIVE_RECOVERY.md",
+      "bytes": 9550,
+      "sha256": "ff7e63141901a6feafeccc34a2d583fe16ae4e9afdfcd7284d00739d8acc85d9",
+      "git_blob_sha": "63db19102a5b4bd1d97daef9b0a795e58150dea8"
+    },
+    {
+      "commit": "287083b7f756dc0994816f67091f09b6aa874f62",
+      "path": "research/panini_grammar/causative_passive/DERIVATIONS.md",
+      "bytes": 14817,
+      "sha256": "375f00444d2ca47c14ae07a826fc92b01366de75d907917a7cbe037ff1ee875a",
+      "git_blob_sha": "e91975bfbc487470c5d92080e5bd3bd56b4ed71e"
+    }
+  ],
+  "source_decisions": [
+    "Reuse PG409's unique-Y role, two-lopa yak history and A policy without reopening them.",
+    "Use the explicit 3.4.78 A ting series and the frozen PG15 exact gam passive table for the nine forms.",
+    "Withhold old A3sg gamyate and count the other eight as nested-history realization interfaces, not new finite census positions.",
+    "Treat first/second-person rows as different admitted Y-controller fibres, not mutations of the historical Yajnadatta token."
+  ],
+  "source_observation_credit": 0,
+  "source_policy_decision_credit": 0
+}

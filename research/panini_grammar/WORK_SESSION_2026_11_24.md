@@ -3,6 +3,19 @@
 Monty. Dates follow Asia/Kolkata.
 
 
+## PG664 · Nested gam passive present person-number completion
+
+Previous publication: 1290aa8c8808838aad72038c69c548ddc0550c62; tree 3937a24701b59bda630ac438f2c90769a83087f8. Necessary check: Python 3.12.14, 122 assertions, 2 attempts; attempt 1 stopped only on a Markdown line-wrap literal and attempt 2 passed without a grammatical-result change.
+
+PG664: [Nested gam passive present person-number completion](nested_gam_passive_present_person_number_completion/README.md). PG409's selected unique-Y two-hetu passive now has all nine Ā present person-number readouts; old `gamyate` is withheld. One morphology construction/eight interfaces; zero finite/nominal/source credits. Census unchanged at 51,819 finite; 8,012 nominal/9,271 readings.
+
+PG521–664 cumulative: 2,234 nominal positions/2,528 readings, zero finite; 240 morphology/1,064 interfaces; 122 compound/583 plans; 12 accent/55 records; 148 semantics/433 records; 109 syntax/301 records; 37 source-policy decisions after PG555−1; 274 observations. One provenance correction/one proof addendum; no census correction.
+
+Selected nested-gam active and passive laṭ person-number realization locally CLOSED. Other lakāras, additional/unknown karmans, caṅ, roots/senses/preverbs, accent/attestation, automatic recognition, nine padī meanings, patradatam/128/C2–C5/S1–S7/native/global work remain Open. Claude owns execution/generators/untouched suites/replay. PG335 correction and PG357–PG363 CLOSED remain preserved.
+
+The exact publication is the containing commit; existing review branch only, nonforce. No elapsed-hours, ETA or complete-Sanskrit claim.
+
+
 ## PG663 · Nested gam present person-number completion
 
 Previous publication: 0938f19987f5a999f68877fecd9e171398d8f1a4; tree 207e8b97e69844d27aff3bb3852389c2067925c1. Necessary check: Python 3.12.14, 99 assertions, 1 attempt.

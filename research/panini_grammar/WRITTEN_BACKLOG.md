@@ -1,6 +1,8 @@
-# Written-development backlog at PG663
+# Written-development backlog at PG664
 
-Monty · 2026-11-24 · reviewed current parent 0938f19987f5a999f68877fecd9e171398d8f1a4; historical closures below retain their exact original pins.
+Monty · 2026-11-24 · reviewed current parent 1290aa8c8808838aad72038c69c548ddc0550c62; historical closures below retain their exact original pins.
+
+PG664 closes the explicitly listed other-person gap for the selected PG409 nested-gam passive present: nine Ā cells, old `gamyate` withheld, one morphology construction/eight interfaces. Y remains the expressed controller; D/V remain distinct instrumental causal agents; H1/H2 lopa owners remain labelled. The first/second-person rows are controller fibres, not mutations of Yajñadatta. Other lakāras, additional/unknown karmans, caṅ, roots/senses/preverbs and automatic recognition remain genuine Open work. Census unchanged at 51,819 finite; 8,012 nominal positions/9,271 readings.
 
 PG663 closes the explicitly listed other-person gap for the selected PG379–382 active present nested-gam frame: 18 P/A cells, two old 3sg controls withheld, one morphology construction/16 new interfaces. Roles, H1/H2 and pada conditions retain their owners; no word/source recredit. Other lakāras, passive/caṅ, roots/senses/preverbs and automatic F2/U2 recognition remain genuine Open work. Census unchanged at 51,819 finite; 8,012 nominal positions/9,271 readings.
 
