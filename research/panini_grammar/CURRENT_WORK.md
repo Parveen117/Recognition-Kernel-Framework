@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG783
+# Pāṇini grammar · current written coverage at PG784
+
+PG784 · [Two mountain sites and the flowering of speech](two_mountain_sites_and_the_flowering_of_speech/README.md). Constructs 5.2.34–36, locates both poetic perfect-participle quotations, and writes the witnessed reception and speech predicates. Census: 52,353 finite positions, 21,285 nominal positions and 24,074 nominal readings.
 
 PG783 · [The bend of a nose, a pair of eyes and the fist that opens](nose_bend_eye_pair_and_the_fist_that_opens/README.md). Constructs 5.2.30–33 with independent texts for the grip and the nose compound, and traces two similar words to different replacements. Census: 52,351 finite positions, 21,264 nominal positions and 24,052 nominal readings.
 

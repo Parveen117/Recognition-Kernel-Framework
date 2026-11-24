@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG784 · [Two mountain sites and the flowering of speech](two_mountain_sites_and_the_flowering_of_speech/README.md). Constructs 5.2.34–36, locates both poetic perfect-participle quotations, and writes the witnessed reception and speech predicates. 21 new nominal positions and 22 readings. 2 new finite positions and 2 finite readings.
+
 PG783 · [The bend of a nose, a pair of eyes and the fist that opens](nose_bend_eye_pair_and_the_fist_that_opens/README.md). Constructs 5.2.30–33 with independent texts for the grip and the nose compound, and traces two similar words to different replacements. 11 new nominal positions and 11 readings. Finite positions and readings both increased by zero.
 
 PG782 · [Wide horns, the two Rāmas and the oil poured for the fawn](wide_horns_the_two_ramas_and_the_oil_poured_for_the_fawn/README.md). Constructs the named extensions at 5.2.28–29 and derives a past narrative laṭ in Bhaṭṭi and a passive laṅ in Kālidāsa. 34 new nominal positions and 34 readings. 2 new finite positions and 2 finite readings.

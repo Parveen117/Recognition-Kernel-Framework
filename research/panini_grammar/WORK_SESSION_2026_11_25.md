@@ -2,6 +2,12 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG784 · Two mountain sites and the flowering of speech
+
+PG784 · [Two mountain sites and the flowering of speech](two_mountain_sites_and_the_flowering_of_speech/README.md). Constructs 5.2.34–36, locates both poetic perfect-participle quotations, and writes the witnessed reception and speech predicates. 21 new nominal positions and 22 readings. 2 new finite positions and 2 finite readings. One nonfinite construction with [two readings](two_mountain_sites_and_the_flowering_of_speech/PARTICIPLES.json). [Finite words](two_mountain_sites_and_the_flowering_of_speech/FINITE_READINGS.json). One written morphology construction with 14 interfaces, 17 source observations and 5 source decisions. Census: 52,353 finite positions, 21,285 nominal positions and 24,074 nominal readings.
+
+Parent 78092066c1b487c5b51f1560550a3807cc8ba850. The containing commit pins this packet. The earliest transmission of the disputed numbered kvasu reference and the relative historical priority of the two lodhra-tree readings remain Open. The poetic extension has evidence on the named participles only. Continue 5.2.37–38 with the older palm-height owner and the different two readings of upamāna or pramāṇa kept distinct. S2 and S3 still require an upstream editorial disposition. C2–C5 and S1–S7 remain Open. Claude retains execution.
+
 ## PG783 · The bend of a nose, a pair of eyes and the fist that opens
 
 PG783 · [The bend of a nose, a pair of eyes and the fist that opens](nose_bend_eye_pair_and_the_fist_that_opens/README.md). Constructs 5.2.30–33 with independent texts for the grip and the nose compound, and traces two similar words to different replacements. 11 new nominal positions and 11 readings. Finite positions and readings both increased by zero. One syntax construction with [four role readings](nose_bend_eye_pair_and_the_fist_that_opens/SYNTAX_READOUTS.json). One written morphology construction with 14 interfaces, 12 source observations and 5 source decisions. Census: 52,351 finite positions, 21,264 nominal positions and 24,052 nominal readings.
@@ -119,9 +125,10 @@ The starting census at [PG746](https://github.com/Parveen117/Recognition-Kernel-
 | PG780 | [e6b93cd7f8947be7eda5d2a5a595c1e9df65c66c](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/e6b93cd7f8947be7eda5d2a5a595c1e9df65c66c) | 0 | 0 | 6 | 6 | 1 | 5 | 12 | 5 | 1 accent constructions, 3 accent readouts |
 | PG781 | [08d74d39a4fe871c4d7d0e1a6d98f1e967025271](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/08d74d39a4fe871c4d7d0e1a6d98f1e967025271) | 0 | 0 | 0 | 0 | 0 | 0 | 8 | 4 | — |
 | PG782 | [31645b9b433a2a90afb01f41532ea27dc6e690c6](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/31645b9b433a2a90afb01f41532ea27dc6e690c6) | 2 | 2 | 34 | 34 | 1 | 15 | 15 | 5 | — |
-| PG783 | Containing commit | 0 | 0 | 11 | 11 | 1 | 14 | 12 | 5 | 1 syntax constructions, 4 syntax readouts |
+| PG783 | [78092066c1b487c5b51f1560550a3807cc8ba850](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/78092066c1b487c5b51f1560550a3807cc8ba850) | 0 | 0 | 11 | 11 | 1 | 14 | 12 | 5 | 1 syntax constructions, 4 syntax readouts |
+| PG784 | Containing commit | 2 | 2 | 21 | 22 | 1 | 14 | 17 | 5 | 1 nonfinite constructions, 2 nonfinite readouts |
 
-Through PG783 the census is 52,351 finite positions, 21,264 nominal positions and 24,052 nominal readings. The PG335 correction is carried through the baseline. Protected registers contribute no new units here.
+Through PG784 the census is 52,353 finite positions, 21,285 nominal positions and 24,074 nominal readings. The PG335 correction is carried through the baseline. Protected registers contribute no new units here.
 
 ## PG772 · Two causal predicates and the changing cases of hotrā in Aitareya 6.14
 

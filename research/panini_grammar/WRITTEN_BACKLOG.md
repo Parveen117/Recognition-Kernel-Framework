@@ -1,6 +1,8 @@
-# Written-development backlog at PG783
+# Written-development backlog at PG784
 
-Monty · 2026-11-25 · reviewed parent 31645b9b433a2a90afb01f41532ea27dc6e690c6. Historical closures below retain their exact pins.
+Monty · 2026-11-25 · reviewed parent 78092066c1b487c5b51f1560550a3807cc8ba850. Historical closures below retain their exact pins.
+
+PG784 · [Two mountain sites and the flowering of speech](two_mountain_sites_and_the_flowering_of_speech/README.md). The earliest transmission of the disputed numbered kvasu reference and the relative historical priority of the two lodhra-tree readings remain Open. The poetic extension has evidence on the named participles only. Continue 5.2.37–38 with the older palm-height owner and the different two readings of upamāna or pramāṇa kept distinct. S2 and S3 still require an upstream editorial disposition. C2–C5 and S1–S7 remain Open.
 
 PG783 · [The bend of a nose, a pair of eyes and the fist that opens](nose_bend_eye_pair_and_the_fist_that_opens/README.md). The transmission of the erroneous k equation and the independent origin of the b spelling at 5.2.30 remain Open. The Raghuvaṃśa commentator establishes the self-agent reading at his verse only. Continue the mountain sites, effort and emergence at 5.2.34–36. The two maintainer questions in the dated handoff continue to govern S2 and S3. C2–C5 and S1–S7 remain Open.
 

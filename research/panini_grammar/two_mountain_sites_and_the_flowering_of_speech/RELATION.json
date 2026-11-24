@@ -1,0 +1,300 @@
+{
+  "stage": "PG784",
+  "morphology_interfaces": [
+    {
+      "id": "LOWER",
+      "base": "upa, land close to a mountain",
+      "guard": "named terrain adjoining the mountain",
+      "affix": "tyakan with feminine ā, preserve a before k",
+      "result": "upatyakā"
+    },
+    {
+      "id": "UPPER",
+      "base": "adhi, elevated site of a mountain",
+      "guard": "named ground on high",
+      "affix": "tyakan and feminine ā, preserve a before k",
+      "result": "adhityakā"
+    },
+    {
+      "id": "EFFORT",
+      "base": "karman in the locative",
+      "guard": "a person makes effort in their work",
+      "affix": "aṭhac after loss of final ṭi of karman",
+      "result": "karmaṭha"
+    },
+    {
+      "id": "ARISE",
+      "base": "star or other lexical class member, nominative",
+      "guard": "this has arisen for the named bearer",
+      "affix": "itac, with distinct base and bearer",
+      "result": "tārakita"
+    },
+    {
+      "id": "PRESENT",
+      "base": "noun of hunger or thirst",
+      "guard": "condition present now",
+      "affix": "itac in the Nyāsa’s account",
+      "result": "bubhukṣita or pipāsita"
+    },
+    {
+      "id": "GARBHA",
+      "base": "garbha present in the rice",
+      "guard": "the grammatical example treats the bearer as aprāṇin",
+      "affix": "itac",
+      "result": "garbhita"
+    },
+    {
+      "id": "ANIMAL",
+      "base": "garbha borne by a cow",
+      "guard": "living bearer excluded from the preceding itac restriction",
+      "affix": "separate possessor stem and feminine",
+      "result": "garbhiṇī"
+    },
+    {
+      "id": "TREE",
+      "base": "trees whose flowers have appeared",
+      "guard": "a mountain is described through them",
+      "affix": "flowering adjective inside a possessive compound",
+      "result": "puṣpitadruma"
+    },
+    {
+      "id": "FIGURE",
+      "base": "blossoms and speech",
+      "guard": "word applied to its figurative bearer",
+      "affix": "itac with feminine agreement, on Rāmarāya’s analysis",
+      "result": "puṣpitā"
+    },
+    {
+      "id": "BLOOM",
+      "base": "full in flowering or phal in splitting",
+      "guard": "Mallinātha’s alternative accounts of the tree",
+      "affix": "pacādi ac or agentive kta respectively",
+      "result": "praphulla or praphulta"
+    },
+    {
+      "id": "PERFSTAND",
+      "base": "sthā",
+      "guard": "standing participant in a poetic context",
+      "affix": "liṭ with kvasu, iṭ on the ā-final root, strong masculine accusative",
+      "result": "tasthivāṃsam"
+    },
+    {
+      "id": "PERFGAIN",
+      "base": "adhi with gam, object attained",
+      "guard": "poetic perfect participle on a genitive possessor",
+      "affix": "kvasu with weak uṣ before the oblique ending",
+      "result": "adhijagmuṣaḥ"
+    },
+    {
+      "id": "MEET",
+      "base": "prati then ud with gam 01.1137",
+      "guard": "the king comes out to meet Aja",
+      "affix": "simple liṭ P 3sg with both prefix junctions",
+      "result": "pratyujjagāma"
+    },
+    {
+      "id": "SAY",
+      "base": "pra with vad 01.1164",
+      "guard": "the plural speakers utter a direct object",
+      "affix": "laṭ P 3pl",
+      "result": "pravadanti"
+    }
+  ],
+  "nominal_positions": [
+    {
+      "id": "UP",
+      "source": "SKANDA",
+      "input_history": "LOWER",
+      "case_number": "F LOCpl",
+      "word": "upatyakāsu",
+      "interpretation": "Site where the hermitages are seen."
+    },
+    {
+      "id": "ASH",
+      "source": "SKANDA",
+      "input_history": "LOWER",
+      "case_number": "M NOMpl",
+      "word": "tāpasāśramāḥ",
+      "interpretation": "Hermitages are the plural subject."
+    },
+    {
+      "id": "HIGH",
+      "source": "R2",
+      "input_history": "UPPER",
+      "case_number": "F LOCsg",
+      "word": "adhityakāyām",
+      "interpretation": "The mountain plateau in the comparison."
+    },
+    {
+      "id": "MINERAL",
+      "source": "R2",
+      "input_history": "UPPER",
+      "case_number": "F LOCsg",
+      "word": "dhātumayyām",
+      "interpretation": "Modifies the plateau in the same case."
+    },
+    {
+      "id": "MOUNT",
+      "source": "R2",
+      "input_history": "UPPER",
+      "case_number": "M GENsg",
+      "word": "sānumataḥ",
+      "interpretation": "Of the mountain to which the plateau belongs, as glossed adreḥ."
+    },
+    {
+      "id": "STAND",
+      "source": "R2",
+      "input_history": "PERFSTAND",
+      "case_number": "M ACCsg",
+      "word": "tasthivāṃsam",
+      "interpretation": "A lion in 2.29. The same inflected form describes Aja in 5.61, without a second morphological credit."
+    },
+    {
+      "id": "LION",
+      "source": "R2",
+      "input_history": "PERFSTAND",
+      "case_number": "M ACCsg",
+      "word": "kesariṇam",
+      "interpretation": "The seen lion is the bearer of the participle."
+    },
+    {
+      "id": "FLOWER",
+      "source": "R2",
+      "input_history": "BLOOM",
+      "case_number": "M ACCsg",
+      "word": "praphullam / praphultam",
+      "interpretation": "Readings of the adjective agreeing with the lodhra tree. The first is in the verse. The second is a reported reading with a separate derivation."
+    },
+    {
+      "id": "LOD",
+      "source": "R2",
+      "input_history": "BLOOM",
+      "case_number": "M ACCsg",
+      "word": "lodhradrumam",
+      "interpretation": "The presented object of comparison."
+    },
+    {
+      "id": "WORK",
+      "source": "K35",
+      "input_history": "EFFORT",
+      "case_number": "N LOCsg",
+      "word": "karmaṇi",
+      "interpretation": "The noun locates the effort in work."
+    },
+    {
+      "id": "RICE",
+      "source": "K36",
+      "input_history": "GARBHA",
+      "case_number": "M NOMpl",
+      "word": "garbhitāḥ",
+      "interpretation": "The rice plants have developed grain on the commentator’s analysis."
+    },
+    {
+      "id": "COW",
+      "source": "K36",
+      "input_history": "ANIMAL",
+      "case_number": "F NOMsg",
+      "word": "garbhiṇī",
+      "interpretation": "The contrasting cow receives the feminine possessor expression."
+    },
+    {
+      "id": "SKY",
+      "source": "K36",
+      "input_history": "ARISE",
+      "case_number": "N NOMsg",
+      "word": "tārakitam",
+      "interpretation": "The sky in the commentary’s nominative example."
+    },
+    {
+      "id": "THIRST",
+      "source": "K36",
+      "input_history": "PRESENT",
+      "case_number": "M NOMsg",
+      "word": "pipāsitaḥ",
+      "interpretation": "Nyāsa’s present-condition reading of the named person."
+    },
+    {
+      "id": "HUNGER",
+      "source": "K36",
+      "input_history": "PRESENT",
+      "case_number": "M NOMsg",
+      "word": "bubhukṣitaḥ",
+      "interpretation": "Second named present-state example in Nyāsa."
+    },
+    {
+      "id": "HILL",
+      "source": "VRI",
+      "input_history": "TREE",
+      "case_number": "M NOMsg",
+      "word": "puṣpitadrumaḥ",
+      "interpretation": "Outer case agrees with Ṛṣyamūka, whose trees are flowering."
+    },
+    {
+      "id": "SPEECH",
+      "source": "BG",
+      "input_history": "FIGURE",
+      "case_number": "F ACCsg",
+      "word": "puṣpitām",
+      "interpretation": "Modifies the speech that the plural speakers utter."
+    },
+    {
+      "id": "WORDS",
+      "source": "BG",
+      "input_history": "FIGURE",
+      "case_number": "F ACCsg",
+      "word": "vācam",
+      "interpretation": "Direct object of pravadanti."
+    },
+    {
+      "id": "ATTAIN",
+      "source": "R34",
+      "input_history": "PERFGAIN",
+      "case_number": "M GENsg",
+      "word": "adhijagmuṣaḥ",
+      "interpretation": "The addressee of the blessing has attained benefits."
+    },
+    {
+      "id": "BENEFITS",
+      "source": "R34",
+      "input_history": "PERFGAIN",
+      "case_number": "N ACCpl",
+      "word": "śreyāṃsi",
+      "interpretation": "Object of the attainment. Mallinātha supplies śubhāni."
+    },
+    {
+      "id": "OUTSKIRTS",
+      "source": "R5",
+      "input_history": "MEET",
+      "case_number": "N LOCsg",
+      "word": "nagaropakaṇṭhe",
+      "interpretation": "The location of the waiting prince."
+    }
+  ],
+  "source_policy_decisions": [
+    {
+      "id": "SITE",
+      "sources": "K34,AM,SKANDA,R2",
+      "decision": "The upper and lower locations have different bases and literary case endings. Preserve both traditional explanations for retaining the vowel before k."
+    },
+    {
+      "id": "WORK",
+      "sources": "K35,TAIL",
+      "decision": "The locative of karman and the intransitive effort verb give the affix its meaning. The spelling retains ṭh. The sense of a water jar and a general direct-object relation are Excluded here."
+    },
+    {
+      "id": "BLOSSOM",
+      "sources": "K36,VRI,BG,RAMA,R2",
+      "decision": "Nyāsa’s present condition, the figurative speech with independently named itac, the flowering trees of a mountain, and the two root derivations of the lodhra adjective have distinct histories."
+    },
+    {
+      "id": "POET",
+      "sources": "KV,R2,R5,R34,PM,IT",
+      "decision": "Locate both examples in the Prauḍhamanoramā. Preserve 3.2.102 as a reported digital address. The cited title belongs to 3.2.107 in the pinned text. Poetic attestation does not extend the enumerated general bhāṣā list."
+    },
+    {
+      "id": "PRED",
+      "sources": "GAM,VAD,R5,BG",
+      "decision": "Admit a singular active perfect with two ordered prefixes in the reception scene and a plural active present with a single prefix in the speech clause. Source, root, participant and tense are explicit."
+    }
+  ]
+}
