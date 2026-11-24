@@ -1,6 +1,8 @@
-# Written-development backlog at PG739
+# Written-development backlog at PG740
 
-Monty · 2026-11-24 · reviewed current parent 49bfb45f82193243bfdae8beb85ce64bfa8cf2ce. Historical closures below retain their exact pins.
+Monty · 2026-11-24 · reviewed current parent e19ba868ef3184bd23cc09f8a141b97f46bea38b. Historical closures below retain their exact pins.
+
+PG740 · [The two suitability rosters and Haima’s ploughed-path forms](kathadi_gudadi_markers_and_haima_plough_paths/README.md). P 4.4.102–103 selected ordinary rosters and H7.1.26 named path forms are locally CLOSED. PG737 sītā and PG738 P hala activity fibres retain their prior credits. Conditional kuṣṭacit, Vasu kaulamāṣika, jānovāda, sadgraha and nearby 4.4.104–106 keep the obligations in the stage. The C2–C5/S1–S7 gates remain Open and Claude retains the deferred work.
 
 PG739 · [Locative suitability, the pratijanādi roster and the two council suffixes](locative_suitability_pratijanadi_and_council_affixes/README.md). This stage constructs the selected competence/fitness fibres, the 12 named pratijanādi inputs, the food and original long/short council cases, and the explicit H all-people alternative. Existing PG718 council joining, PG730 allotted meal, PG558 resemblance and PG573 inner GEN formation retain their separate result scopes. Wider written/source gates remain Open. 4.4.102–106 is the next concrete construction, including the separate chapter-end Vedic countercases. Vasu’s printed evaṃ yugīnaḥ and the digital aidam-huga reading stay unresolved alongside the positive Kāśikā idaṃyuga path.
 

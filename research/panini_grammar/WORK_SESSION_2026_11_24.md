@@ -2,6 +2,16 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG740 · The two suitability rosters and Haima’s ploughed-path forms
+
+PG740 · [The two suitability rosters and Haima’s ploughed-path forms](kathadi_gudadi_markers_and_haima_plough_paths/README.md). Writes the selected kathādi and guḍādi fibres with distinct ṭhak and ṭhañ markers, and derives the positively attested Vācaspatyam specialist. Haima gives seven ploughed-path profiles and an independent formation for four already written furrow forms. Census 52,345 finite positions and 19,966 nominal positions with 22,566 nominal readings.
+
+Zero new finite positions or readings. 888 new nominal positions and 919 readings. One morphology construction with 44 interfaces, one compound construction with five plans, one accent construction with two records, one semantic construction with eight readouts, one syntax construction with seven readouts, and one junction construction with eleven readouts. Fifteen source observations and ten source-policy decisions. Publication parent e19ba868ef3184bd23cc09f8a141b97f46bea38b. The containing commit pins the documents and evidence.
+
+PG521–740 cumulative adds 526 finite positions and 1,444 net finite readings, and 14,188 nominal positions with 15,823 readings. 314 morphology constructions with 3568 interfaces, 146 compound constructions with 674 plans, 46 accent constructions with 181 records, 172 semantic constructions with 600 readouts, 161 syntax constructions with 696 readouts, and 469 source-policy decisions after PG555−1 with 911 observations. The PG680 onward junction total is 44 constructions with 217 readouts. PG700 onward nonfinite total remains 22 constructions with 28 paths. PG335 and PG357–363 CLOSED are preserved.
+
+P 4.4.102–103 selected ordinary rosters and H7.1.26 named path forms are locally CLOSED. PG737 sītā and PG738 P hala activity fibres retain their prior credits. Conditional kuṣṭacit, Vasu kaulamāṣika, jānovāda, sadgraha and nearby 4.4.104–106 keep the obligations in the stage. The C2–C5/S1–S7 gates remain Open and Claude retains the deferred work.
+
 ## PG739 · Locative suitability, the pratijanādi roster and the two council suffixes
 
 PG739 · [Locative suitability, the pratijanādi roster and the two council suffixes](locative_suitability_pratijanadi_and_council_affixes/README.md). Writes the named suitability fibres, all twelve pratijanādi operands and the bhakta and council exceptions. The external sources clarify retained inner genitives, the comparison with benefactive kha, and the short Haima council stem alongside the P long one. Census 52,345 finite positions and 19,078 nominal positions with 21,647 nominal readings.

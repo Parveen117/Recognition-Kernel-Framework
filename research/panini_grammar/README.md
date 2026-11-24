@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG740 · [The two suitability rosters and Haima’s ploughed-path forms](kathadi_gudadi_markers_and_haima_plough_paths/README.md). Writes the selected kathādi and guḍādi fibres with distinct ṭhak and ṭhañ markers, and derives the positively attested Vācaspatyam specialist. Haima gives seven ploughed-path profiles and an independent formation for four already written furrow forms. Census 52,345 finite positions and 19,966 nominal positions with 22,566 nominal readings.
+
 PG739 · [Locative suitability, the pratijanādi roster and the two council suffixes](locative_suitability_pratijanadi_and_council_affixes/README.md). Writes the named suitability fibres, all twelve pratijanādi operands and the bhakta and council exceptions. The external sources clarify retained inner genitives, the comparison with benefactive kha, and the short Haima council stem alongside the P long one. Census 52,345 finite positions and 19,078 nominal positions with 21,647 nominal readings.
 
 PG738 · [Will, kinship and three genitive yat relations](kinship_mantra_and_ordered_genitive_yat/README.md). Derives will-based production, both son affixes and the three ordered genitive bases. PG501 supplies the binding-mantra formation, which now has a masculine case readout. Haima’s production of intoxication and the Pāṇinian verbal affix retain their distinct histories. Census 52,345 finite positions and 18,622 nominal positions with 21,097 nominal readings.
