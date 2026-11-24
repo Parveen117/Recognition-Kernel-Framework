@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG675
+# Pāṇini grammar · current written coverage at PG676
+
+PG676: [Nested gam passive perfect policy completion](nested_gam_passive_perfect_policy_completion/README.md). Primary `gamayām` retains H1 lopa and H2-owned ay; passive Y-agreement transfers Ā to kṛ/bhū/as. Nine new liṭ positions carry 49 distinct readings/65 correlated policy paths, one morphology adapter/65 interfaces. Census 51,855 finite and 8,012 nominal/9,271 readings.
 
 PG675: [Nested gam passive periphrastic-future completion](nested_gam_passive_periphrastic_future_completion/README.md). Nine luṭ keys now carry O/C-short/C-long through the unique-Y two-hetu history: 27 interfaces, with broad 2pl tās-s lopa selected and the competing narrow request kept Open. All surfaces are frozen controls, so one morphology adapter/27 interfaces and zero census/source credits. Census remains 51,846 finite and 8,012 nominal/9,271 readings.
 

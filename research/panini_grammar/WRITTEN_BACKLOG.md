@@ -1,6 +1,8 @@
-# Written-development backlog at PG675
+# Written-development backlog at PG676
 
-Monty · 2026-11-24 · reviewed current parent b4ccd750cadb294f249e881e4aaed39ddbc4b250; historical closures below retain their exact original pins.
+Monty · 2026-11-24 · reviewed current parent b7775b10d3b00720648da3530dedeb10dd6029b4; historical closures below retain their exact original pins.
+
+PG676 closes [selected nested-gam passive liṭ](nested_gam_passive_perfect_policy_completion/README.md): nine new positions/49 readings/65 policy paths. Primary `gamayām` preserves H1/H2 ownership; passive Y-agreement gives kṛ/bhū/as Ā. H/I/S remain correlated policies, not free per-cell toggles. Passive luṅ/āśīrliṅ and wider obligations remain Open. Census 51,855 finite; 8,012 nominal/9,271 readings.
 
 PG675 closes [selected nested-gam passive luṭ](nested_gam_passive_periphrastic_future_completion/README.md): nine keys/27 O/C-short/C-long interfaces, with distinct H1/H2 histories and Y/D/V ownership. The broad 2pl tās-s-lopa policy is selected; the competing narrow full request remains Open. All surfaces are frozen controls, so no census/source recredit. Passive liṭ/luṅ/āśīrliṅ and wider obligations remain unconstructed. Census 51,846 finite; 8,012 nominal/9,271 readings.
 

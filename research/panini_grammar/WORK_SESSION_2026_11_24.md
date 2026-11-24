@@ -3,6 +3,19 @@
 Monty. Dates follow Asia/Kolkata.
 
 
+## PG676 · Nested gam passive perfect policy completion
+
+Previous publication: b7775b10d3b00720648da3530dedeb10dd6029b4; tree 445eb2a71e61d762afacc3a8b41ca4fde9b4a9a8. Necessary check: Python 3.12.14, 137 assertions, one attempt.
+
+PG676: [Nested gam passive perfect policy completion](nested_gam_passive_perfect_policy_completion/README.md). Nine new passive liṭ positions carry 49 readings/65 retained paths. `gamayām`, three Ā auxiliaries and correlated H/I/S policies preserve H1/H2 and Y/D/V ownership. One morphology adapter/65 interfaces; no source credit.
+
+PG521–676 cumulative: 36 finite positions/76 readings; 2,234 nominal positions/2,528 readings; 251 morphology/1,474 interfaces; 122 compound/583 plans; 13 accent/57 records; 148 semantics/433 records; 109 syntax/301 records; 39 source-policy decisions after PG555−1; 275 observations. Absolute census 51,855 finite; 8,012 nominal/9,271 readings. One provenance correction/one proof addendum; no census correction.
+
+Selected active ten-lakāra and passive present-system/lṛṭ/lṛṅ/luṭ/liṭ domains are locally CLOSED. Passive luṅ/āśīrliṅ and wider gates remain Open. Claude owns execution/generators/old suites/replay; PG335 and PG357–PG363 remain preserved.
+
+The exact publication is the containing commit; existing review branch only, nonforce. No elapsed-hours, ETA or complete-Sanskrit claim.
+
+
 ## PG675 · Nested gam passive periphrastic-future completion
 
 Previous publication: b4ccd750cadb294f249e881e4aaed39ddbc4b250; tree df35487707552589c9414d4b80a43d654ddd4d29. Necessary check: Python 3.12.14, 122 assertions, one attempt.
