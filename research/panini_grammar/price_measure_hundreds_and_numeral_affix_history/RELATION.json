@@ -1,0 +1,474 @@
+{
+  "stage": "PG751",
+  "morphology_interfaces": [
+    {
+      "id": "TAIL",
+      "base": "gopuccha",
+      "guard": "exception to inner default",
+      "affix": "ṭhañ",
+      "result": "gaupucchika"
+    },
+    {
+      "id": "PRA",
+      "base": "prastha",
+      "guard": "technical capacity",
+      "affix": "ṭhañ",
+      "result": "prāsthika"
+    },
+    {
+      "id": "KUD",
+      "base": "kuḍava",
+      "guard": "technical capacity",
+      "affix": "ṭhañ",
+      "result": "kauḍavika"
+    },
+    {
+      "id": "NIS",
+      "base": "niṣka",
+      "guard": "uncompounded list member",
+      "affix": "ṭhak",
+      "result": "naiṣkika"
+    },
+    {
+      "id": "PAN",
+      "base": "paṇa",
+      "guard": "uncompounded list member",
+      "affix": "ṭhak",
+      "result": "pāṇika"
+    },
+    {
+      "id": "PAD",
+      "base": "pāda",
+      "guard": "uncompounded list member",
+      "affix": "ṭhak",
+      "result": "pādika"
+    },
+    {
+      "id": "MAS",
+      "base": "māṣa",
+      "guard": "uncompounded list member",
+      "affix": "ṭhak",
+      "result": "māṣika"
+    },
+    {
+      "id": "NIS2",
+      "base": "dvi-niṣka",
+      "guard": "causal numeral compound",
+      "affix": "ṭhañ retained or luk",
+      "result": "dviniṣka / dvinaiṣkika"
+    },
+    {
+      "id": "NIS3",
+      "base": "tri-niṣka",
+      "guard": "causal numeral compound",
+      "affix": "ṭhañ retained or luk",
+      "result": "triniṣka / trinaiṣkika"
+    },
+    {
+      "id": "BAS2",
+      "base": "two śūrpas",
+      "guard": "causal purchase",
+      "affix": "ārhīya affix with luk",
+      "result": "dviśūrpa"
+    },
+    {
+      "id": "BAS3",
+      "base": "three śūrpas",
+      "guard": "causal purchase",
+      "affix": "ārhīya affix with luk",
+      "result": "triśūrpa"
+    },
+    {
+      "id": "BAS2B",
+      "base": "dviśūrpa",
+      "guard": "noncausal outer purchase with older luk",
+      "affix": "ṭhañ",
+      "result": "dviśaurpika"
+    },
+    {
+      "id": "BAS3B",
+      "base": "triśūrpa",
+      "guard": "noncausal outer purchase with older luk",
+      "affix": "ṭhañ",
+      "result": "triśaurpika"
+    },
+    {
+      "id": "HUN-T",
+      "base": "śata",
+      "guard": "uncompounded, incidental price",
+      "affix": "ṭhan",
+      "result": "śatika"
+    },
+    {
+      "id": "HUN-Y",
+      "base": "śata",
+      "guard": "uncompounded, incidental price",
+      "affix": "yat",
+      "result": "śatya"
+    },
+    {
+      "id": "COL",
+      "base": "śata",
+      "guard": "hundred essential to referent",
+      "affix": "kan",
+      "result": "śataka"
+    },
+    {
+      "id": "H2",
+      "base": "dviśata",
+      "guard": "compound, purchased article",
+      "affix": "kan",
+      "result": "dviśataka"
+    },
+    {
+      "id": "FIVE",
+      "base": "pañcan",
+      "guard": "ordinary number",
+      "affix": "kan",
+      "result": "pañcaka"
+    },
+    {
+      "id": "MANY",
+      "base": "bahu",
+      "guard": "technical numeral",
+      "affix": "kan",
+      "result": "bahuka"
+    },
+    {
+      "id": "GAN",
+      "base": "gaṇa",
+      "guard": "technical numeral",
+      "affix": "kan",
+      "result": "gaṇaka"
+    },
+    {
+      "id": "SEV",
+      "base": "saptati",
+      "guard": "meaningful ti-final, no narrower rule",
+      "affix": "ṭhañ",
+      "result": "sāptatika"
+    },
+    {
+      "id": "FORT",
+      "base": "catvāriṃśat",
+      "guard": "śat-ending control",
+      "affix": "ṭhañ after t",
+      "result": "cātvāriṃśatka"
+    },
+    {
+      "id": "HOW",
+      "base": "kati",
+      "guard": "ḍati provenance",
+      "affix": "kan",
+      "result": "katika"
+    },
+    {
+      "id": "THAT",
+      "base": "tad + vatup",
+      "guard": "technical numeral, that amount",
+      "affix": "kan with optional iṭ",
+      "result": "tāvatka / tāvatika"
+    },
+    {
+      "id": "WHICH",
+      "base": "yad + vatup",
+      "guard": "technical numeral, relative amount",
+      "affix": "kan with optional iṭ",
+      "result": "yāvatka / yāvatika"
+    },
+    {
+      "id": "TW",
+      "base": "viṃśati",
+      "guard": "non-name",
+      "affix": "ḍvun, 6.4.142",
+      "result": "viṃśaka"
+    },
+    {
+      "id": "TH",
+      "base": "triṃśat",
+      "guard": "non-name",
+      "affix": "ḍvun, 6.4.143",
+      "result": "triṃśaka"
+    },
+    {
+      "id": "TWN",
+      "base": "viṃśati",
+      "guard": "name",
+      "affix": "kan",
+      "result": "viṃśatika"
+    },
+    {
+      "id": "THN",
+      "base": "triṃśat",
+      "guard": "name",
+      "affix": "kan",
+      "result": "triṃśatka"
+    }
+  ],
+  "nominal_positions": [
+    {
+      "id": "TAIL",
+      "source": "K19",
+      "input_history": "TAIL",
+      "case_number": "N NOMsg",
+      "word": "gaupucchikam",
+      "interpretation": "Article obtained for an ox-tail."
+    },
+    {
+      "id": "PRA",
+      "source": "K19",
+      "input_history": "PRA",
+      "case_number": "N NOMsg",
+      "word": "prāsthikam",
+      "interpretation": "A prastha container measure as price."
+    },
+    {
+      "id": "KUD",
+      "source": "K19",
+      "input_history": "KUD",
+      "case_number": "N NOMsg",
+      "word": "kauḍavikam",
+      "interpretation": "A kuḍava container measure as price."
+    },
+    {
+      "id": "NIS",
+      "source": "K20",
+      "input_history": "NIS",
+      "case_number": "N NOMsg",
+      "word": "naiṣkikam",
+      "interpretation": "An uncompounded niṣka as price."
+    },
+    {
+      "id": "PAN",
+      "source": "K20",
+      "input_history": "PAN",
+      "case_number": "N NOMsg",
+      "word": "pāṇikam",
+      "interpretation": "An uncompounded paṇa as price."
+    },
+    {
+      "id": "PAD",
+      "source": "K20",
+      "input_history": "PAD",
+      "case_number": "N NOMsg",
+      "word": "pādikam",
+      "interpretation": "An uncompounded pāda as price."
+    },
+    {
+      "id": "MAS",
+      "source": "K20",
+      "input_history": "MAS",
+      "case_number": "N NOMsg",
+      "word": "māṣikam",
+      "interpretation": "An uncompounded māṣa as price."
+    },
+    {
+      "id": "NIS2",
+      "source": "K30",
+      "input_history": "NIS2",
+      "case_number": "N NOMsg",
+      "word": "dviniṣkam / dvinaiṣkikam",
+      "interpretation": "One purchase, two possible realizations of the outer affix."
+    },
+    {
+      "id": "NIS3",
+      "source": "K30",
+      "input_history": "NIS3",
+      "case_number": "N NOMsg",
+      "word": "triniṣkam / trinaiṣkikam",
+      "interpretation": "One purchase, three niṣkas, two realizations."
+    },
+    {
+      "id": "BAS2",
+      "source": "M20",
+      "input_history": "BAS2",
+      "case_number": "N NOMsg",
+      "word": "dviśūrpam",
+      "interpretation": "An item bought for two baskets."
+    },
+    {
+      "id": "BAS3",
+      "source": "M20",
+      "input_history": "BAS3",
+      "case_number": "N NOMsg",
+      "word": "triśūrpam",
+      "interpretation": "An item bought for three baskets."
+    },
+    {
+      "id": "BAS2B",
+      "source": "M20",
+      "input_history": "BAS2B",
+      "case_number": "N NOMsg",
+      "word": "dviśaurpikam",
+      "interpretation": "Second purchase for the already qualified item."
+    },
+    {
+      "id": "BAS3B",
+      "source": "M20",
+      "input_history": "BAS3B",
+      "case_number": "N NOMsg",
+      "word": "triśaurpikam",
+      "interpretation": "Second purchase for the already qualified item."
+    },
+    {
+      "id": "HUN",
+      "source": "K21",
+      "input_history": "HUN-T/HUN-Y",
+      "case_number": "N NOMsg",
+      "word": "śatikam / śatyam",
+      "interpretation": "Ordinary object bought for a hundred. It can incidentally be a hundred garments."
+    },
+    {
+      "id": "COL",
+      "source": "K21",
+      "input_history": "COL",
+      "case_number": "N NOMsg",
+      "word": "śatakam",
+      "interpretation": "Nidānam, a hundred as the defining count."
+    },
+    {
+      "id": "H2",
+      "source": "K21",
+      "input_history": "H2",
+      "case_number": "N NOMsg",
+      "word": "dviśatakam",
+      "interpretation": "Compound as price in the cited additive analysis."
+    },
+    {
+      "id": "FIVE",
+      "source": "K22",
+      "input_history": "FIVE",
+      "case_number": "M NOMsg",
+      "word": "pañcakaḥ",
+      "interpretation": "Paṭa bought for five."
+    },
+    {
+      "id": "MANY",
+      "source": "K22",
+      "input_history": "MANY",
+      "case_number": "M NOMsg",
+      "word": "bahukaḥ",
+      "interpretation": "Technical numerous base under 1.1.23 in the pinned numbering."
+    },
+    {
+      "id": "GAN",
+      "source": "K22",
+      "input_history": "GAN",
+      "case_number": "M NOMsg",
+      "word": "gaṇakaḥ",
+      "interpretation": "Technical gaṇa on the priced article reading."
+    },
+    {
+      "id": "SEV",
+      "source": "K22",
+      "input_history": "SEV",
+      "case_number": "M NOMsg",
+      "word": "sāptatikaḥ",
+      "interpretation": "Seventy as price, outside the kan class."
+    },
+    {
+      "id": "FORT",
+      "source": "K22",
+      "input_history": "FORT",
+      "case_number": "M NOMsg",
+      "word": "cātvāriṃśatkaḥ",
+      "interpretation": "Forty as price; visible ka from a different suffix."
+    },
+    {
+      "id": "HOW",
+      "source": "K22",
+      "input_history": "HOW",
+      "case_number": "M NOMsg",
+      "word": "katikaḥ",
+      "interpretation": "Kati with ḍati as prior owner of the audible ti."
+    },
+    {
+      "id": "HOWN",
+      "source": "M22",
+      "input_history": "HOW",
+      "case_number": "N NOMsg",
+      "word": "katikam",
+      "interpretation": "Neuter predicate in Patañjali’s purchase question."
+    },
+    {
+      "id": "THAT",
+      "source": "K23",
+      "input_history": "THAT",
+      "case_number": "M NOMsg",
+      "word": "tāvatkaḥ / tāvatikaḥ",
+      "interpretation": "Bought for that much, optional augment of kan."
+    },
+    {
+      "id": "WHICH",
+      "source": "K23",
+      "input_history": "WHICH",
+      "case_number": "M NOMsg",
+      "word": "yāvatkaḥ / yāvatikaḥ",
+      "interpretation": "Bought for as much, same augment attached to the other pronoun history."
+    },
+    {
+      "id": "TW",
+      "source": "K24",
+      "input_history": "TW",
+      "case_number": "M NOMsg",
+      "word": "viṃśakaḥ",
+      "interpretation": "Non-name, twenty as price."
+    },
+    {
+      "id": "TH",
+      "source": "K24",
+      "input_history": "TH",
+      "case_number": "M NOMsg",
+      "word": "triṃśakaḥ",
+      "interpretation": "Non-name, thirty as price."
+    },
+    {
+      "id": "TWN",
+      "source": "K24",
+      "input_history": "TWN",
+      "case_number": "M NOMsg",
+      "word": "viṃśatikaḥ",
+      "interpretation": "Name, base retained."
+    },
+    {
+      "id": "THN",
+      "source": "K24",
+      "input_history": "THN",
+      "case_number": "M NOMsg",
+      "word": "triṃśatkaḥ",
+      "interpretation": "Name, base retained."
+    }
+  ],
+  "source_policy_decisions": [
+    {
+      "id": "DEFAULT",
+      "sources": "K18,K19,K20",
+      "decision": "Preserve nested defaults, narrow and broad measurement interpretations, and the seven-member exception. The licensed sense must first be supplied."
+    },
+    {
+      "id": "PRICE",
+      "sources": "K20,M20,K30",
+      "decision": "Causality and an already elided inner affix decide the second basket purchase. An unelided niṣka derivative also exists for a single purchase."
+    },
+    {
+      "id": "HUNDRED",
+      "sources": "K21,M21",
+      "decision": "Only identity of the essential hundred at the derivative relation blocks 21. Incidental lexical identity elsewhere in the phrase leaves it available."
+    },
+    {
+      "id": "NUMBER",
+      "sources": "K22,M22",
+      "decision": "The ti segment of ḍati is not a separately meaningful numeral ending. Patañjali gives both the objection and contrast-based answer."
+    },
+    {
+      "id": "AUGMENT",
+      "sources": "K23",
+      "decision": "The iṭ permission addresses only a following kan. Both printed pairs have one counted case each."
+    },
+    {
+      "id": "NAME",
+      "sources": "K24,T143",
+      "decision": "Twenty and thirty have different loss operations and explicit name qualifications. Nyāsa assigns narrower work to the split rule for thirty."
+    }
+  ]
+}

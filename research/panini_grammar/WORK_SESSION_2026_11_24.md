@@ -2,6 +2,12 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG751 · Prices, two kinds of hundred and the history of a numeral suffix
+
+PG751 · [Prices, two kinds of hundred and the history of a numeral suffix](price_measure_hundreds_and_numeral_affix_history/README.md). Derives purchased-article cases at 5.1.18–24, including Patañjali’s successive basket purchases and a distinct history for the two nominatives of katika. 29 new nominal positions and 34 readings. Finite positions and readings both increased by zero. One written morphology construction with 29 interfaces, 12 source observations and 6 source decisions. Census: 52,345 finite positions, 20,470 nominal positions and 23,116 nominal readings.
+
+Parent e3d7d7a3dac7c49f3e4249f71207a7ce4ddda3eb. The containing commit pins this packet. Outside the named prices, unknown units, lexical names and compound histories remain Open. The wider PG36 domains are retained. Continue 5.1.25–36, beginning with the explicitly feminine coin derivatives, the two readings of śūrpa, and distinct causal versus pre-existing compounds. C2–C5 and S1–S7 remain Open. Claude retains execution.
+
 ## PG750 · Intended material, sufficient capacity and the leather strap
 
 PG750 · [Intended material, sufficient capacity and the leather strap](intended_material_sufficient_capacity_and_leather_strap/README.md). Derives the intended-material and adequacy cases at 5.1.12–17, with a Kālidāsa offering witness and an inner derivation for the strap previously supplied at PG608. 18 new nominal positions and 19 readings. Finite positions and readings both increased by zero. One written morphology construction with 19 interfaces, 12 source observations and 7 source decisions. Census: 52,345 finite positions, 20,441 nominal positions and 23,082 nominal readings.

@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG750
+# Pāṇini grammar · current written coverage at PG751
+
+PG751 · [Prices, two kinds of hundred and the history of a numeral suffix](price_measure_hundreds_and_numeral_affix_history/README.md). Derives purchased-article cases at 5.1.18–24, including Patañjali’s successive basket purchases and a distinct history for the two nominatives of katika. Census: 52,345 finite positions, 20,470 nominal positions and 23,116 nominal readings.
 
 PG750 · [Intended material, sufficient capacity and the leather strap](intended_material_sufficient_capacity_and_leather_strap/README.md). Derives the intended-material and adequacy cases at 5.1.12–17, with a Kālidāsa offering witness and an inner derivation for the strap previously supplied at PG608. Census: 52,345 finite positions, 20,441 nominal positions and 23,082 nominal readings.
 

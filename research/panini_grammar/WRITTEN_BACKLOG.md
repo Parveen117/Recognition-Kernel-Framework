@@ -1,6 +1,8 @@
-# Written-development backlog at PG750
+# Written-development backlog at PG751
 
-Monty · 2026-11-24 · reviewed parent 9c1acb438f4727da30069642132ff773fb9f5aa4. Historical closures below retain their exact pins.
+Monty · 2026-11-24 · reviewed parent e3d7d7a3dac7c49f3e4249f71207a7ce4ddda3eb. Historical closures below retain their exact pins.
+
+PG751 · [Prices, two kinds of hundred and the history of a numeral suffix](price_measure_hundreds_and_numeral_affix_history/README.md). Outside the named prices, unknown units, lexical names and compound histories remain Open. The wider PG36 domains are retained. Continue 5.1.25–36, beginning with the explicitly feminine coin derivatives, the two readings of śūrpa, and distinct causal versus pre-existing compounds. C2–C5 and S1–S7 remain Open.
 
 PG750 · [Intended material, sufficient capacity and the leather strap](intended_material_sufficient_capacity_and_leather_strap/README.md). The PG608 r-bearing strap now has an independently attributable inner history; the stem spellings across other editions and the PG747 exact chandasyaḥ citation remain Open. Continue the new pre-vati and ārhīya selection at 5.1.18–24, checking lexical and measurement types and the priced numeral contrasts. C2–C5 and S1–S7 remain Open.
 

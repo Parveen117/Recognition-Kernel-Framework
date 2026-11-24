@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG751 · [Prices, two kinds of hundred and the history of a numeral suffix](research/panini_grammar/price_measure_hundreds_and_numeral_affix_history/README.md). Typed PG14 recovery preserves the measure, prior luk, numeral affix and name status at every case readout.
+
 PG750 · [Intended material, sufficient capacity and the leather strap](research/panini_grammar/intended_material_sufficient_capacity_and_leather_strap/README.md). Typed PG14 recovery retains intention, sufficiency, and separate inner and outer affix owners in the strap derivation.
 
 PG749 · [Beneficiaries, compound heads and two poetic witnesses for kha](research/panini_grammar/beneficiaries_grammatical_gender_and_two_poetic_kha_witnesses/README.md). The selected beneficiary, compound, suffix-marker and case histories have typed zero recovery, including the female beneficiary and the source-restricted dental n.
