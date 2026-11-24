@@ -1,6 +1,8 @@
-# Written-development backlog at PG790
+# Written-development backlog at PG791
 
-Monty · 2026-11-25 · reviewed parent 021199725240e1795780a5540a3e71a7867b028b. Historical closures below retain their exact pins.
+Monty · 2026-11-25 · reviewed parent 59ff177813fbd614358940bcb77791931f7204e5. Historical closures below retain their exact pins.
+
+PG791 · [Ordinal augment families and Vedic alternatives](ordinal_augment_families_and_vedic_alternatives/README.md). Selected literal 5.2.48–52 outputs, Vedic alternatives and direct accent records are CLOSED. Complete gender/case paradigms, wider Vedic recitation, historical variant priority and unrestricted ordinal productivity remain Open. Continue from 5.2.53. S5 remains 99/103; S6 retains the independent specific 5.56 k-it-effect requirement. C2–C5 and S1–S7 remain Open.
 
 PG790 · [Extended surplus numerals and exchange ratios](extended_surplus_numerals_and_exchange_ratios/README.md). Selected literal 5.2.46 surplus forms and both directions of the 5.2.47 exchange ratio are CLOSED. Complete paradigms, accent, broader barter vocabulary and historical price systems remain Open. Continue the ordinal family from 5.2.48. S5 remains 99/103; S6 retains the independent specific 5.56 k-it-effect requirement. C2–C5 and S1–S7 remain Open.
 

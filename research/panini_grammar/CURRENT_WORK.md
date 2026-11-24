@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG790
+# Pāṇini grammar · current written coverage at PG791
+
+PG791 · [Ordinal augment families and Vedic alternatives](ordinal_augment_families_and_vedic_alternatives/README.md). Completes selected 5.2.48–52 outputs with generic `ḍaṭ`, separately owned augments, Vedic alternatives and four direct accent records. Census: 52,357 finite positions, 21,368 nominal positions and 24,165 nominal readings.
 
 PG790 · [Extended surplus numerals and exchange ratios](extended_surplus_numerals_and_exchange_ratios/README.md). Completes selected 5.2.46–47 surfaces while keeping pure-number surplus, `nimāna`, reciprocal `nimeya` and generic multiplicative uses distinct. Census: 52,357 finite positions, 21,350 nominal positions and 24,144 nominal readings.
 

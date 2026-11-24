@@ -1,0 +1,42 @@
+{
+  "stage": "PG791",
+  "morphology_constructions": [
+    {"id":"GENERAL","rule":"5.2.48","history":"numerical completion + ḍaṭ","interfaces":["O11","O13"]},
+    {"id":"MAT","rule":"5.2.49","history":"n-final uncompounded numeral + maṭ before ḍaṭ","interfaces":["O5","O7","O20"]},
+    {"id":"VEDIC","rule":"5.2.50","history":"Vedic thaṭ with maṭ alternative","interfaces":["V5P","V5M","V7M","V5N"]},
+    {"id":"THUK","rule":"5.2.51","history":"listed bases + thuk, with separate catur supplement","interfaces":["S6","SK","SKP","S4","S4A"]},
+    {"id":"TITHUK","rule":"5.2.52","history":"listed bases + tithuk and rule-specific ordinal admission","interfaces":["TB","TP","TG","TS"]}
+  ],
+  "nominal_positions": [
+    {"id":"O11","address":"M NOMsg","readings":["ekādaśaḥ"]},
+    {"id":"O13","address":"M NOMsg","readings":["trayodaśaḥ"]},
+    {"id":"O5","address":"M NOMsg","readings":["pañcamaḥ"]},
+    {"id":"O7","address":"M NOMsg","readings":["saptamaḥ"]},
+    {"id":"O20","address":"M NOMsg","readings":["viṃśaḥ"]},
+    {"id":"V5P","address":"N NOMpl Vedic","readings":["pañcathāni"]},
+    {"id":"V5M","address":"M NOMsg Vedic","readings":["pañcathaḥ","pañcamaḥ"]},
+    {"id":"V7M","address":"M NOMsg Vedic","readings":["saptathaḥ","saptamaḥ"]},
+    {"id":"V5N","address":"N NOMsg Vedic","readings":["pañcamam"]},
+    {"id":"S6","address":"M NOMsg","readings":["ṣaṣṭhaḥ"]},
+    {"id":"SK","address":"M NOMsg","readings":["katithaḥ"]},
+    {"id":"SKP","address":"M NOMsg","readings":["katipayathaḥ"]},
+    {"id":"S4","address":"M NOMsg","readings":["caturthaḥ"]},
+    {"id":"S4A","address":"M NOMsg","readings":["turīyaḥ","turyaḥ"]},
+    {"id":"TB","address":"M NOMsg","readings":["bahutithaḥ"]},
+    {"id":"TP","address":"M NOMsg","readings":["pūgatithaḥ"]},
+    {"id":"TG","address":"M NOMsg","readings":["gaṇatithaḥ"]},
+    {"id":"TS","address":"M NOMsg","readings":["saṃghatithaḥ"]}
+  ],
+  "source_policy_decisions": [
+    {"id":"COMPLETION","decision":"Require completion of a number; an object completing a nonnumerical collection does not receive the ordinal suffix."},
+    {"id":"MAT_SCOPE","decision":"Insert maṭ only after an uncompounded n-final numeral. Preserve viṃśa and ekādaśa as general-ḍaṭ controls."},
+    {"id":"VEDIC_OPTION","decision":"Retain thaṭ and maṭ as Vedic alternatives on the stated inputs without transferring thaṭ to ordinary prose."},
+    {"id":"CATUR","decision":"Keep caturtha, turīya and turya as three accepted histories; do not infer one from another by surface similarity."},
+    {"id":"RULE_SPECIFIC_ADMISSION","decision":"Admit katipaya, pūga, gaṇa and saṃgha only under their explicit ordinal rules, not as generally productive numerals."}
+  ],
+  "open_or_blocked": [
+    "Complete gender/case paradigms, wider Vedic accent and historical variant priority remain Open.",
+    "Unlisted collective nouns do not inherit tithuk by analogy.",
+    "The following ordinal rules from 5.2.53 onward remain unconstructed."
+  ]
+}

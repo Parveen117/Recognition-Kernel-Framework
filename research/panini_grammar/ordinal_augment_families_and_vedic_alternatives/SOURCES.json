@@ -1,0 +1,54 @@
+{
+  "project_dependencies": [
+    {
+      "commit": "59ff177813fbd614358940bcb77791931f7204e5",
+      "path": "research/panini_grammar/extended_surplus_numerals_and_exchange_ratios/STATE.json",
+      "git_blob_sha": "7e6409d3ac23c45d2fe5e783291b0789356903ec",
+      "sha256": "027cee9ad14649b5ba4e19d875b17c61239bf69ae77c1da9f8d74299c0957613",
+      "use": "Published PG790 baseline"
+    },
+    {
+      "commit": "59ff177813fbd614358940bcb77791931f7204e5",
+      "path": "research/panini_grammar/possession_adverbials/SOURCE_EXCERPTS.json",
+      "git_blob_sha": "56ed94a5eb382934b25425b216cc534504796a3a",
+      "sha256": "b331a2ae11cca694fb978fc08eff91999aedd9be8d4f70039e12f09fd6837fd4",
+      "use": "Frozen complete Kāśikā and Vasu fields for 5.2.48–52"
+    },
+    {
+      "commit": "59ff177813fbd614358940bcb77791931f7204e5",
+      "path": "research/panini_grammar/possession_adverbials/RULE_REGISTER.json",
+      "git_blob_sha": "a5069519fc22c47e37cb8cecb111cbe670fa624b",
+      "sha256": "f9475d6dfe3ed6c9e8591b0ea126af33187814fef252029ebdc8f6625baeec09",
+      "use": "PG37 bounded ordinal contracts marked not executed"
+    },
+    {
+      "commit": "59ff177813fbd614358940bcb77791931f7204e5",
+      "path": "research/panini_grammar/SUTRAPATHA.tsv",
+      "git_blob_sha": "1840f3b5349b21112ac05a7efaa59705fd4efee0",
+      "sha256": "70dfdfe6ba433b6e211f0f01b078c1b6d13a1ad0938e06fd5789298a04583634",
+      "use": "Frozen rule identities for ordinal suffix, augments and their recipients"
+    },
+    {
+      "commit": "59ff177813fbd614358940bcb77791931f7204e5",
+      "path": "research/panini_grammar/grammar_construction/NATIVE_OPERATOR_LIFT.md",
+      "git_blob_sha": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+      "sha256": "f52e7f5cf539ef56859b890669ef738848491e4005e73be75baa49c899b5dafd",
+      "use": "PG14 full operator/history carrier"
+    }
+  ],
+  "source_fields_reused_without_new_observation_credit": [
+    {
+      "rules": "5.2.48–52",
+      "sources": "Kāśikā and Vasu English",
+      "urls": [
+        "https://ashtadhyayi.com/sutraani/5/2/48",
+        "https://ashtadhyayi.com/sutraani/5/2/49",
+        "https://ashtadhyayi.com/sutraani/5/2/50",
+        "https://ashtadhyayi.com/sutraani/5/2/51",
+        "https://ashtadhyayi.com/sutraani/5/2/52"
+      ],
+      "reason": "PG37 already imported and credited the literal fields; PG791 completes the surface and accent layer."
+    }
+  ],
+  "source_observations_new": 0
+}

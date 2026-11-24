@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG791 · [Ordinal augment families and Vedic alternatives](research/panini_grammar/ordinal_augment_families_and_vedic_alternatives/README.md). PG14 retains the completion request, original `ḍaṭ`, each augment, register and source accent through typed zero specialization.
+
 PG790 · [Extended surplus numerals and exchange ratios](research/panini_grammar/extended_surplus_numerals_and_exchange_ratios/README.md). PG14 retains pure-number status, surplus target, commodity direction and integral `x:1` ratio through typed zero specialization.
 
 PG789 · [Numeral parts, their whole and surplus hundreds](research/panini_grammar/numeral_parts_wholes_and_surplus_hundreds/README.md). PG14 retains the constituent-to-whole relation, original `tayap`, optional or obligatory `ayac`, accent recipient and same-unit surplus history through typed zero specialization.

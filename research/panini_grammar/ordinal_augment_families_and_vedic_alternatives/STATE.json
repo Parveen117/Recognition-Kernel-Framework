@@ -1,0 +1,39 @@
+{
+  "stage": "PG791",
+  "date": "2026-11-25",
+  "publication_parent": "59ff177813fbd614358940bcb77791931f7204e5",
+  "baseline": {
+    "commit": "59ff177813fbd614358940bcb77791931f7204e5",
+    "path": "research/panini_grammar/extended_surplus_numerals_and_exchange_ratios/STATE.json"
+  },
+  "finite_positions": 52357,
+  "nominal_positions": 21368,
+  "nominal_readings": 24165,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 18,
+  "new_nominal_readings": 21,
+  "new_morphology_constructions": 5,
+  "new_morphology_interfaces": 18,
+  "new_accent_constructions": 1,
+  "new_accent_records": 4,
+  "new_source_observations": 0,
+  "new_source_policy_decisions": 5,
+  "open_obligations": [
+    "Complete gender/case paradigms, wider Vedic accent and historical variant priority remain Open.",
+    "Continue the ordinal family from 5.2.53 onward with each augment and register retained.",
+    "S5 remains 99/103 direct assignments and S6 retains the independent specific 5.56 k-it-effect requirement."
+  ],
+  "local_closure": "Selected literal 5.2.48–52 ordinal outputs, Vedic alternatives and four direct accent records are CLOSED.",
+  "global_gates": {
+    "C2–C5": "Open",
+    "S1–S7": "Open",
+    "S5_direct_fields": "99/103",
+    "S6": "Independent 5.56 k-it effect Open"
+  },
+  "protected_registers": {
+    "PG335": "-9 finite positions and -12 readings already applied",
+    "PG340/346, PG349–352, PG355–360, PG357–363": "CLOSED on registered scopes"
+  },
+  "runtime_policy": "Written derivation only. Claude owns grammar execution, generators, untouched suites and certificate replay."
+}

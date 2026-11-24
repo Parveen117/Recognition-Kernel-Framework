@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG791 · [Ordinal augment families and Vedic alternatives](ordinal_augment_families_and_vedic_alternatives/README.md). Completes selected 5.2.48–52 outputs: 18 new nominal positions and 21 readings, five morphology constructions/18 interfaces and one accent construction/four records.
+
 PG790 · [Extended surplus numerals and exchange ratios](extended_surplus_numerals_and_exchange_ratios/README.md). Completes selected 5.2.46–47 surfaces: 11 new nominal positions/readings, two morphology constructions/11 interfaces and zero repeated source credit.
 
 PG789 · [Numeral parts, their whole and surplus hundreds](numeral_parts_wholes_and_surplus_hundreds/README.md). Completes 5.2.42–45 without repeating PG37 source credit: 23 new nominal positions and 26 readings. Finite positions and readings both increase by zero.
