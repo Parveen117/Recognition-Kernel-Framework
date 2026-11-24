@@ -1,0 +1,36 @@
+{
+  "stage": "PG771",
+  "date": "2026-11-25",
+  "publication_parent": "55e75a781e9de41a408b4721a628b8aeeadd482a",
+  "baseline": {
+    "commit": "55e75a781e9de41a408b4721a628b8aeeadd482a",
+    "path": "research/panini_grammar/friendship_trade_and_good_fortune_in_the_wedding_verse/STATE.json"
+  },
+  "finite_positions": 52345,
+  "nominal_positions": 21038,
+  "nominal_readings": 23754,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 54,
+  "new_nominal_readings": 54,
+  "new_morphology_constructions": 1,
+  "new_morphology_interfaces": 16,
+  "new_source_observations": 14,
+  "new_source_policy_decisions": 6,
+  "open_obligations": [
+    "The source history of the differing priest lists, and the exact syntactic analysis of the first oblique in AB 6.14.2 across editions, remain Open.",
+    "Aitareya 6.14.4 supplies a causal pra-bhū construction with two numbers of role participant. Return to its finite and syntactic history, then continue 5.2.1 onward. The open C and S gates retain their individual criteria."
+  ],
+  "local_closure": "PG14 separates lineage and school cases, feminine ritual offices and the priestly tva exception.",
+  "global_gates": {
+    "C2–C5": "Open",
+    "S1–S7": "Open",
+    "S5_direct_fields": "99/103",
+    "S6": "Independent 5.56 k-it effect Open"
+  },
+  "protected_registers": {
+    "PG335": "-9 finite positions and -12 readings already applied",
+    "PG340/346, PG349–352, PG355–360, PG357–363": "CLOSED on registered scopes"
+  },
+  "runtime_policy": "Written derivation. Only changed-document, source and count checks. Claude owns grammar execution, generators, untouched suites and replay."
+}

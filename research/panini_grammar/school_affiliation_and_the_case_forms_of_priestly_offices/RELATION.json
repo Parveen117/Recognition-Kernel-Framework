@@ -1,0 +1,583 @@
+{
+  "stage": "PG771",
+  "morphology_interfaces": [
+    {
+      "id": "IK",
+      "base": "ik-final base",
+      "guard": "immediately preceding light syllable",
+      "affix": "aṇ",
+      "result": "neuter abstract"
+    },
+    {
+      "id": "DEF",
+      "base": "base outside current special conditions",
+      "guard": "5.1.119–120 defaults",
+      "affix": "tva",
+      "result": "condition in the requested case"
+    },
+    {
+      "id": "KAVI",
+      "base": "kavi",
+      "guard": "positive brāhmaṇādi attribution",
+      "affix": "ṣyañ",
+      "result": "kāvya"
+    },
+    {
+      "id": "YUP",
+      "base": "ramaṇīya or vāsanīya",
+      "guard": "y-upadhā and heavy penultimate syllable in eligible base",
+      "affix": "vuñ",
+      "result": "abstract in -aka"
+    },
+    {
+      "id": "SAH",
+      "base": "sahāya",
+      "guard": "named extension",
+      "affix": "vuñ",
+      "result": "sāhāyaka"
+    },
+    {
+      "id": "SAH2",
+      "base": "sahāya",
+      "guard": "Jayāditya branch reported in Bhāṣāvṛtti",
+      "affix": "brāhmaṇādi ṣyañ",
+      "result": "sāhāyya"
+    },
+    {
+      "id": "DV",
+      "base": "coordinated nominal base",
+      "guard": "joint condition or work",
+      "affix": "vuñ with feminine realization",
+      "result": "compound abstract in ikā"
+    },
+    {
+      "id": "MAN",
+      "base": "manojña or kalyāṇa",
+      "guard": "listed separately from dvandva",
+      "affix": "vuñ",
+      "result": "mānojñaka or kālyāṇaka"
+    },
+    {
+      "id": "INS",
+      "base": "lineage or school",
+      "guard": "self-praise or disparagement",
+      "affix": "vuñ, feminine instrumental",
+      "result": "gārgikayā or kāṭhikayā"
+    },
+    {
+      "id": "ACC",
+      "base": "lineage or school",
+      "guard": "attainment or knowledge",
+      "affix": "vuñ, feminine accusative",
+      "result": "qualifying -ikām"
+    },
+    {
+      "id": "CH",
+      "base": "individual named officiant",
+      "guard": "abstract of particular ritual work",
+      "affix": "cha",
+      "result": "neuter grammatical citation in īya"
+    },
+    {
+      "id": "HOT",
+      "base": "named office qualified by the officiant",
+      "guard": "feminine hotrā, independently established in the ritual text",
+      "affix": "īya with feminine inflection",
+      "result": "brāhmaṇācchaṃsīyā and other agreed case forms"
+    },
+    {
+      "id": "DT",
+      "base": "brāhmaṇācchaṃsin or brāhmaṇa",
+      "guard": "status on its own lexical base",
+      "affix": "tva or tal",
+      "result": "brāhmaṇācchaṃsitva or brāhmaṇatā"
+    },
+    {
+      "id": "OFF",
+      "base": "brahman designating the officiant",
+      "guard": "priestly work or status",
+      "affix": "special tva",
+      "result": "brahmatva"
+    },
+    {
+      "id": "CLASS",
+      "base": "brahman denoting the class",
+      "guard": "ordinary abstract alternatives",
+      "affix": "tva or tal",
+      "result": "brahmatva or brahmatā"
+    },
+    {
+      "id": "OTH",
+      "base": "hotṛ, adhvaryu, udgātṛ",
+      "guard": "direct objects denoting priestly functions",
+      "affix": "aṇ on hotṛ or añ on the other two",
+      "result": "hautra, ādhvaryava, audgātra"
+    }
+  ],
+  "nominal_positions": [
+    {
+      "id": "P01",
+      "source": "GITA",
+      "input_history": "IK",
+      "case_number": "N NOMsg",
+      "word": "śaucam",
+      "interpretation": "Bodily or mental austerity in the coordinated lists, 17.14 and 17.16 respectively."
+    },
+    {
+      "id": "P02",
+      "source": "GITA",
+      "input_history": "IK",
+      "case_number": "N NOMsg",
+      "word": "maunam",
+      "interpretation": "Bodily or mental austerity in the coordinated lists, 17.14 and 17.16 respectively."
+    },
+    {
+      "id": "P03",
+      "source": "YOGA",
+      "input_history": "IK",
+      "case_number": "N ABLsg",
+      "word": "śaucāt",
+      "interpretation": "Source of the consequences of purification in Yogasūtra 2.40."
+    },
+    {
+      "id": "P04",
+      "source": "YOGA",
+      "input_history": "IK",
+      "case_number": "N ACCsg",
+      "word": "śaucam",
+      "interpretation": "Object of undertaking purification, in the Bhāṣya on that sūtra."
+    },
+    {
+      "id": "P05",
+      "source": "K131",
+      "input_history": "IK",
+      "case_number": "N NOMsg",
+      "word": "nāgaram",
+      "interpretation": "Cited qualification under the light-before-final-ik selection."
+    },
+    {
+      "id": "P06",
+      "source": "K131",
+      "input_history": "IK",
+      "case_number": "N NOMsg",
+      "word": "hārītakam",
+      "interpretation": "Cited qualification under the light-before-final-ik selection."
+    },
+    {
+      "id": "P07",
+      "source": "K131",
+      "input_history": "IK",
+      "case_number": "N NOMsg",
+      "word": "pāṭavam",
+      "interpretation": "Cited qualification under the light-before-final-ik selection."
+    },
+    {
+      "id": "P08",
+      "source": "K131",
+      "input_history": "IK",
+      "case_number": "N NOMsg",
+      "word": "lāghavam",
+      "interpretation": "Cited qualification under the light-before-final-ik selection."
+    },
+    {
+      "id": "P09",
+      "source": "K131",
+      "input_history": "DEF",
+      "case_number": "N NOMsg",
+      "word": "kaṇḍūtvam",
+      "interpretation": "The default remains. No independent aṇ from the blocked phonological predicate."
+    },
+    {
+      "id": "P10",
+      "source": "K131",
+      "input_history": "DEF",
+      "case_number": "N NOMsg",
+      "word": "pāṇḍutvam",
+      "interpretation": "The default remains. No independent aṇ from the blocked phonological predicate."
+    },
+    {
+      "id": "P11",
+      "source": "K131",
+      "input_history": "DEF",
+      "case_number": "N NOMsg",
+      "word": "paṭatvam",
+      "interpretation": "The default remains. No independent aṇ from the blocked phonological predicate."
+    },
+    {
+      "id": "P12",
+      "source": "K131",
+      "input_history": "DEF",
+      "case_number": "N NOMsg",
+      "word": "ghaṭatvam",
+      "interpretation": "The default remains. No independent aṇ from the blocked phonological predicate."
+    },
+    {
+      "id": "P13",
+      "source": "K131",
+      "input_history": "KAVI",
+      "case_number": "N NOMsg",
+      "word": "kāvyam",
+      "interpretation": "The grammar explicitly assigns the word to the brāhmaṇādi selector."
+    },
+    {
+      "id": "P14",
+      "source": "K132",
+      "input_history": "YUP",
+      "case_number": "N NOMsg",
+      "word": "rāmaṇīyakam",
+      "interpretation": "Vuñ under both conditions on the penultimate consonant and syllable."
+    },
+    {
+      "id": "P15",
+      "source": "K132",
+      "input_history": "YUP",
+      "case_number": "N NOMsg",
+      "word": "vāsanīyakam",
+      "interpretation": "Vuñ under both conditions on the penultimate consonant and syllable."
+    },
+    {
+      "id": "P16",
+      "source": "K132",
+      "input_history": "DEF",
+      "case_number": "N NOMsg",
+      "word": "vimānatvam",
+      "interpretation": "Cited failures of different vuñ guards."
+    },
+    {
+      "id": "P17",
+      "source": "K132",
+      "input_history": "DEF",
+      "case_number": "N NOMsg",
+      "word": "kṣatriyatvam",
+      "interpretation": "Cited failures of different vuñ guards."
+    },
+    {
+      "id": "P18",
+      "source": "K132",
+      "input_history": "SAH",
+      "case_number": "N NOMsg",
+      "word": "sāhāyakam",
+      "interpretation": "Optional named extension."
+    },
+    {
+      "id": "P19",
+      "source": "BV",
+      "input_history": "SAH2",
+      "case_number": "N NOMsg",
+      "word": "sāhāyyam",
+      "interpretation": "Bhāṣāvṛtti attributes acceptance through brāhmaṇādi to Jayāditya and reports a contrary Bhāgavṛtti."
+    },
+    {
+      "id": "P20",
+      "source": "K133",
+      "input_history": "DV",
+      "case_number": "F NOMsg",
+      "word": "gaupālapaśupālikā",
+      "interpretation": "Feminine abstract from coordinated input."
+    },
+    {
+      "id": "P21",
+      "source": "K133",
+      "input_history": "DV",
+      "case_number": "F NOMsg",
+      "word": "śaiṣyopādhyāyikā",
+      "interpretation": "Feminine abstract from coordinated input."
+    },
+    {
+      "id": "P22",
+      "source": "K133",
+      "input_history": "DV",
+      "case_number": "F NOMsg",
+      "word": "kautsakuśikikā",
+      "interpretation": "Feminine abstract from coordinated input."
+    },
+    {
+      "id": "P23",
+      "source": "BV",
+      "input_history": "DV",
+      "case_number": "F NOMsg",
+      "word": "paitāputrikā",
+      "interpretation": "Additional father-and-son coordination in Bhāṣāvṛtti."
+    },
+    {
+      "id": "P24",
+      "source": "K133",
+      "input_history": "MAN",
+      "case_number": "N NOMsg",
+      "word": "mānojñakam",
+      "interpretation": "Vuñ on the named class apart from coordination."
+    },
+    {
+      "id": "P25",
+      "source": "K133",
+      "input_history": "MAN",
+      "case_number": "N NOMsg",
+      "word": "kālyāṇakam",
+      "interpretation": "Vuñ on the named class apart from coordination."
+    },
+    {
+      "id": "P26",
+      "source": "K134",
+      "input_history": "INS",
+      "case_number": "F INSsg",
+      "word": "gārgikayā",
+      "interpretation": "The ground of self-praise or disparagement. Two semantic settings share one case."
+    },
+    {
+      "id": "P27",
+      "source": "K134",
+      "input_history": "INS",
+      "case_number": "F INSsg",
+      "word": "kāṭhikayā",
+      "interpretation": "The ground of self-praise or disparagement. Two semantic settings share one case."
+    },
+    {
+      "id": "P28",
+      "source": "K134",
+      "input_history": "ACC",
+      "case_number": "F ACCsg",
+      "word": "gārgikām",
+      "interpretation": "The target attained or understood in the stated interpretation of aveta."
+    },
+    {
+      "id": "P29",
+      "source": "K134",
+      "input_history": "ACC",
+      "case_number": "F ACCsg",
+      "word": "kāṭhikām",
+      "interpretation": "The target attained or understood in the stated interpretation of aveta."
+    },
+    {
+      "id": "P30",
+      "source": "BV",
+      "input_history": "ACC",
+      "case_number": "F ACCsg",
+      "word": "dākṣikām",
+      "interpretation": "Additional descent and school targets explicitly cited with aveta."
+    },
+    {
+      "id": "P31",
+      "source": "BV",
+      "input_history": "ACC",
+      "case_number": "F ACCsg",
+      "word": "bāhavṛcikām",
+      "interpretation": "Additional descent and school targets explicitly cited with aveta."
+    },
+    {
+      "id": "P32",
+      "source": "K134",
+      "input_history": "DEF",
+      "case_number": "N NOMsg",
+      "word": "gārgyatvam",
+      "interpretation": "Outside the specified special discourse settings."
+    },
+    {
+      "id": "P33",
+      "source": "K134",
+      "input_history": "DEF",
+      "case_number": "N NOMsg",
+      "word": "kaṭhatvam",
+      "interpretation": "Outside the specified special discourse settings."
+    },
+    {
+      "id": "P34",
+      "source": "K134",
+      "input_history": "DEF",
+      "case_number": "N INSsg",
+      "word": "gārgyatvena",
+      "interpretation": "Actual explanatory instrumentals of the ordinary tva words in Kāśikā."
+    },
+    {
+      "id": "P35",
+      "source": "K134",
+      "input_history": "DEF",
+      "case_number": "N INSsg",
+      "word": "kaṭhatvena",
+      "interpretation": "Actual explanatory instrumentals of the ordinary tva words in Kāśikā."
+    },
+    {
+      "id": "P36",
+      "source": "K135",
+      "input_history": "CH",
+      "case_number": "N NOMsg",
+      "word": "acchāvākīyam",
+      "interpretation": "Frozen Kāśikā grammatical citation. No transfer of case or sex from the human officiant."
+    },
+    {
+      "id": "P37",
+      "source": "K135",
+      "input_history": "CH",
+      "case_number": "N NOMsg",
+      "word": "mitrāvaruṇīyam",
+      "interpretation": "Frozen Kāśikā grammatical citation. No transfer of case or sex from the human officiant."
+    },
+    {
+      "id": "P38",
+      "source": "K135",
+      "input_history": "CH",
+      "case_number": "N NOMsg",
+      "word": "brāhmaṇācchaṃsīyam",
+      "interpretation": "Frozen Kāśikā grammatical citation. No transfer of case or sex from the human officiant."
+    },
+    {
+      "id": "P39",
+      "source": "K135",
+      "input_history": "CH",
+      "case_number": "N NOMsg",
+      "word": "āgnīdhrīyam",
+      "interpretation": "Frozen Kāśikā grammatical citation. No transfer of case or sex from the human officiant."
+    },
+    {
+      "id": "P40",
+      "source": "K135",
+      "input_history": "CH",
+      "case_number": "N NOMsg",
+      "word": "pratiprasthātrīyam",
+      "interpretation": "Frozen Kāśikā grammatical citation. No transfer of case or sex from the human officiant."
+    },
+    {
+      "id": "P41",
+      "source": "K135",
+      "input_history": "CH",
+      "case_number": "N NOMsg",
+      "word": "tvaṣṭrīyam",
+      "interpretation": "Frozen Kāśikā grammatical citation. No transfer of case or sex from the human officiant."
+    },
+    {
+      "id": "P42",
+      "source": "K135",
+      "input_history": "CH",
+      "case_number": "N NOMsg",
+      "word": "potrīyam",
+      "interpretation": "Frozen Kāśikā grammatical citation. No transfer of case or sex from the human officiant."
+    },
+    {
+      "id": "P43",
+      "source": "AB",
+      "input_history": "HOT",
+      "case_number": "F DATsg",
+      "word": "potrīyāyai",
+      "interpretation": "Two distinct offices allocated their respective recitations in AB 6.14.2."
+    },
+    {
+      "id": "P44",
+      "source": "AB",
+      "input_history": "HOT",
+      "case_number": "F DATsg",
+      "word": "neṣṭrīyāyai",
+      "interpretation": "Two distinct offices allocated their respective recitations in AB 6.14.2."
+    },
+    {
+      "id": "P45",
+      "source": "AB",
+      "input_history": "HOT",
+      "case_number": "F ACCsg",
+      "word": "āgnīdhrīyām",
+      "interpretation": "AB 6.14.4, role acted upon with a verse. The gods are the causers."
+    },
+    {
+      "id": "P46",
+      "source": "GB19",
+      "input_history": "HOT",
+      "case_number": "F NOMsg",
+      "word": "brāhmaṇācchaṃsīyā",
+      "interpretation": "Agreeing with feminine hotrā in GBr 1.2.19dd."
+    },
+    {
+      "id": "P47",
+      "source": "GB19",
+      "input_history": "DT",
+      "case_number": "N NOMsg",
+      "word": "brāhmaṇācchaṃsitvam",
+      "interpretation": "In 1.2.19cc the officiant’s status has a separate tva noun predicated of tad."
+    },
+    {
+      "id": "P48",
+      "source": "K136",
+      "input_history": "OFF/CLASS",
+      "case_number": "N NOMsg",
+      "word": "brahmatvam",
+      "interpretation": "The same citation covers priestly function and class on separately permitted histories. One word and case."
+    },
+    {
+      "id": "P49",
+      "source": "K136",
+      "input_history": "CLASS",
+      "case_number": "F NOMsg",
+      "word": "brahmatā",
+      "interpretation": "On the class reading of brahman. The specific officiant restriction bars this tal output."
+    },
+    {
+      "id": "P50",
+      "source": "GB11",
+      "input_history": "OFF",
+      "case_number": "N ACCsg",
+      "word": "brahmatvam",
+      "interpretation": "Object of karoti on repeated explicit descriptions of the brahman’s priestly office."
+    },
+    {
+      "id": "P51",
+      "source": "GB11",
+      "input_history": "DT",
+      "case_number": "F ACCsg",
+      "word": "brāhmaṇatām",
+      "interpretation": "Object of vidyāt, on the distinct base brāhmaṇa. Ordinary tal on this base does not override 136."
+    },
+    {
+      "id": "P52",
+      "source": "GB11",
+      "input_history": "OTH",
+      "case_number": "N ACCsg",
+      "word": "hautram",
+      "interpretation": "Three offices in the same questions, independently governed by karoti. Hautra follows the hotṛ entry in yuvādi, the next two the udgātṛ class."
+    },
+    {
+      "id": "P53",
+      "source": "GB11",
+      "input_history": "OTH",
+      "case_number": "N ACCsg",
+      "word": "ādhvaryavam",
+      "interpretation": "Three offices in the same questions, independently governed by karoti. Hautra follows the hotṛ entry in yuvādi, the next two the udgātṛ class."
+    },
+    {
+      "id": "P54",
+      "source": "GB11",
+      "input_history": "OTH",
+      "case_number": "N ACCsg",
+      "word": "audgātram",
+      "interpretation": "Three offices in the same questions, independently governed by karoti. Hautra follows the hotṛ entry in yuvādi, the next two the udgātṛ class."
+    }
+  ],
+  "source_policy_decisions": [
+    {
+      "id": "PHON",
+      "sources": "K131,K132,GITA,YOGA",
+      "decision": "Enforce the immediately relevant syllable, not a merely similar spelling. Record nominative, ablative and accusative śauca on their individual governors."
+    },
+    {
+      "id": "SAH",
+      "sources": "K132,BV",
+      "decision": "Keep Jayāditya’s choice and the reported Bhāgavṛtti rejection separate."
+    },
+    {
+      "id": "SCHOOL",
+      "sources": "K133,K134,BV",
+      "decision": "Coordinated father and son is not a lineage predicate. Identical instrumentals of self-praise and disparagement acquire one case each."
+    },
+    {
+      "id": "OFFICE",
+      "sources": "K135,VAS,AB,GB19",
+      "decision": "Preserve literal source forms. Direct neṣṭrīyāyai at 6.14 is evidence of the neṣṭṛ office, not a silent emendation of Vasu’s field or a spelling of tvaṣṭṛ."
+    },
+    {
+      "id": "BRAH",
+      "sources": "K136,GB11,GB19,PG129",
+      "decision": "Register distinct bases, suffixes and cases of the office holder, the office performed and the class property known."
+    },
+    {
+      "id": "EDGE",
+      "sources": "AB,K135",
+      "decision": "The first oblique āgnīdhrīyāyā before uktham has no overt -yai. No third dative is credited by analogy. The accusative under the causal verb is secure."
+    }
+  ]
+}

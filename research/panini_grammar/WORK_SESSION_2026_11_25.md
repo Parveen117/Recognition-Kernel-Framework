@@ -2,6 +2,12 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG771 · School affiliation and the grammatical cases of priestly offices
+
+PG771 · [School affiliation and the grammatical cases of priestly offices](school_affiliation_and_the_case_forms_of_priestly_offices/README.md). Completes the selected 5.1.131–136 case constructions and locates four priestly functions in a single Gopatha question. 54 new nominal positions and 54 readings. Finite positions and readings both increased by zero. One written morphology construction with 16 interfaces, 14 source observations and 6 source decisions. Census: 52,345 finite positions, 21,038 nominal positions and 23,754 nominal readings.
+
+Parent 55e75a781e9de41a408b4721a628b8aeeadd482a. The containing commit pins this packet. The source history of the differing priest lists, and the exact syntactic analysis of the first oblique in AB 6.14.2 across editions, remain Open. Aitareya 6.14.4 supplies a causal pra-bhū construction with two numbers of role participant. Return to its finite and syntactic history, then continue 5.2.1 onward. The open C and S gates retain their individual criteria. C2–C5 and S1–S7 remain Open. Claude retains execution.
+
 ## PG770 · Friendship, occupation and the two purposes in a wedding verse
 
 PG770 · [Friendship, occupation and the two purposes in a wedding verse](friendship_trade_and_good_fortune_in_the_wedding_verse/README.md). Writes the state, conduct and own-sense cases at 5.1.124–130, including two governors of sakhyam in one verse and separate ritual explanations of the wedding datives. 43 new nominal positions and 43 readings. Finite positions and readings both increased by zero. One written morphology construction with 21 interfaces, 17 source observations and 6 source decisions. Census: 52,345 finite positions, 20,984 nominal positions and 23,700 nominal readings.

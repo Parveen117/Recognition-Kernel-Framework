@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG770
+# Pāṇini grammar · current written coverage at PG771
+
+PG771 · [School affiliation and the grammatical cases of priestly offices](school_affiliation_and_the_case_forms_of_priestly_offices/README.md). Completes the selected 5.1.131–136 case constructions and locates four priestly functions in a single Gopatha question. Census: 52,345 finite positions, 21,038 nominal positions and 23,754 nominal readings.
 
 PG770 · [Friendship, occupation and the two purposes in a wedding verse](friendship_trade_and_good_fortune_in_the_wedding_verse/README.md). Writes the state, conduct and own-sense cases at 5.1.124–130, including two governors of sakhyam in one verse and separate ritual explanations of the wedding datives. Census: 52,345 finite positions, 20,984 nominal positions and 23,700 nominal readings.
 

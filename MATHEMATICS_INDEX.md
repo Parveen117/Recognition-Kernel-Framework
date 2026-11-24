@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG771 · [School affiliation and the grammatical cases of priestly offices](research/panini_grammar/school_affiliation_and_the_case_forms_of_priestly_offices/README.md). PG14 separates lineage and school cases, feminine ritual offices and the priestly tva exception.
+
 PG770 · [Friendship, occupation and the two purposes in a wedding verse](research/panini_grammar/friendship_trade_and_good_fortune_in_the_wedding_verse/README.md). PG14 keeps each Vedic governor and the two commentarial accounts of the wedding purposes. PG736 retains its case positions.
 
 PG769 · [Abstract nouns, negative compounds, and the breadth of a quality](research/panini_grammar/abstract_nouns_negative_compounds_and_the_breadth_of_a_quality/README.md). PG14 retains separate affix and case histories where the verses and commentaries exhibit exactly the same spelling.

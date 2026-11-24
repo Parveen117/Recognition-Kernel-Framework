@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG771 · [School affiliation and the grammatical cases of priestly offices](school_affiliation_and_the_case_forms_of_priestly_offices/README.md). Completes the selected 5.1.131–136 case constructions and locates four priestly functions in a single Gopatha question. 54 new nominal positions and 54 readings. Finite positions and readings both increased by zero.
+
 PG770 · [Friendship, occupation and the two purposes in a wedding verse](friendship_trade_and_good_fortune_in_the_wedding_verse/README.md). Writes the state, conduct and own-sense cases at 5.1.124–130, including two governors of sakhyam in one verse and separate ritual explanations of the wedding datives. 43 new nominal positions and 43 readings. Finite positions and readings both increased by zero.
 
 PG769 · [Abstract nouns, negative compounds, and the breadth of a quality](abstract_nouns_negative_compounds_and_the_breadth_of_a_quality/README.md). Builds 5.1.119–123 on witnessed negative compounds, colour and measure abstracts, including one source divergence and two literary cases of breadth. 51 new nominal positions and 51 readings. Finite positions and readings both increased by zero.

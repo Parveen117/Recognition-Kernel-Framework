@@ -1,6 +1,8 @@
-# Written-development backlog at PG770
+# Written-development backlog at PG771
 
-Monty · 2026-11-25 · reviewed parent c57b9b6265841acabaf8e8cff1377005dc41ea30. Historical closures below retain their exact pins.
+Monty · 2026-11-25 · reviewed parent 55e75a781e9de41a408b4721a628b8aeeadd482a. Historical closures below retain their exact pins.
+
+PG771 · [School affiliation and the grammatical cases of priestly offices](school_affiliation_and_the_case_forms_of_priestly_offices/README.md). The source history of the differing priest lists, and the exact syntactic analysis of the first oblique in AB 6.14.2 across editions, remain Open. Aitareya 6.14.4 supplies a causal pra-bhū construction with two numbers of role participant. Return to its finite and syntactic history, then continue 5.2.1 onward. The open C and S gates retain their individual criteria. C2–C5 and S1–S7 remain Open.
 
 PG770 · [Friendship, occupation and the two purposes in a wedding verse](friendship_trade_and_good_fortune_in_the_wedding_verse/README.md). The inner historical derivation of saubhaga in the wedding verse and independent witnesses for all gaṇa members and rival readings remain Open. Continue 5.1.131–136, especially the accusative and instrumental uses of school terms, named priestly functions, and brahman as officiant versus class word. C2–C5 and S1–S7 remain Open.
 
