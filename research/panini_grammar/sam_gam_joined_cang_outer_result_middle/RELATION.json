@@ -1,0 +1,115 @@
+{
+  "schema": "rkf.panini.pg686.relation.v1",
+  "scope": {
+    "root_id": 1011137,
+    "root": "gam",
+    "preverb": "sam joined",
+    "sense": "cause to come together",
+    "voice": "kartari",
+    "lakara": "luṅ",
+    "formation": "two hetumat events; H2 caṅ",
+    "actors": {
+      "Y": "moving theme and immediate E1 karman",
+      "D": "inner causer",
+      "V": "outer causer, controller and recipient of principal result in A"
+    }
+  },
+  "conditions": [
+    {
+      "id": "P_EXTERNAL",
+      "input": "E1_transitive_H1",
+      "result_outer_V": false,
+      "spoken_cue": false,
+      "pada": "P",
+      "reason": "1.3.78",
+      "credit": "PG679 surface control"
+    },
+    {
+      "id": "A_SELF",
+      "input": "E1_transitive_H1",
+      "result_outer_V": true,
+      "spoken_cue": false,
+      "pada": "A",
+      "reason": "1.3.74",
+      "credit": "PG686 own-result A"
+    },
+    {
+      "id": "A_UPAPADA",
+      "input": "E1_transitive_H1",
+      "result_outer_V": true,
+      "spoken_cue": true,
+      "pada": "A",
+      "reason": "1.3.77 under named policy",
+      "credit": "same A key and word with separate role path"
+    },
+    {
+      "id": "P_UPAPADA",
+      "input": "E1_transitive_H1",
+      "result_outer_V": true,
+      "spoken_cue": true,
+      "pada": "P",
+      "reason": "1.3.77 and 78 under named policy",
+      "credit": "PG679 spelling reused, condition path only"
+    },
+    {
+      "id": "P_ONE_HETU",
+      "input": "E0_akarmaka_conscious_Y",
+      "result_outer_V": true,
+      "spoken_cue": false,
+      "pada": "P",
+      "reason": "1.3.88 overrides 74",
+      "credit": "negative A guard control, zero word credit"
+    }
+  ],
+  "readout": "PARADIGM.tsv",
+  "source_policies": [
+    {
+      "id": "K_N",
+      "status": "Accepted",
+      "note": "Kāśikā/Nyāsa and their aprāpta analysis for the spoken-cue branch, held distinct"
+    },
+    {
+      "id": "B",
+      "status": "Accepted",
+      "note": "Bālamanoramā's prāpta option differs in ordering, yielding the same P/A set for supplied F2=U2=true"
+    }
+  ],
+  "homograph": {
+    "text": "samajīgamata",
+    "existing": "PG679 P2pl",
+    "new": "PG686 A3sg",
+    "distinct_new_spellings_relative_to_matching_P_panel": 8
+  },
+  "excluded": [
+    "using single-hetu conscious intransitive motion as the positive A input",
+    "transferring A entitlement from san or passive result",
+    "erasing H1/H2 under lopa",
+    "counting 1.3.77's P as a new PG679 spelling",
+    "calling the new A grid Vedic attestation"
+  ],
+  "open": [
+    "Direct corpus attestation and named accent source for a joined sam–gam A word with the specified two-hetu/construal evidence",
+    "Other joined sam–gam lakāras, single-hetu middle under different immediate base roles, wider caṅ/formation/role and C2–C5/S1–S7 domains",
+    "Exact recensional and commentary questions tracked in PG684–685"
+  ],
+  "credit": {
+    "finite_positions": 9,
+    "finite_readings": 9,
+    "nominal_positions": 0,
+    "nominal_readings": 0,
+    "syntactic_constructions": 1,
+    "syntactic_readouts": 5,
+    "morphological_constructions": 1,
+    "morphological_readouts": 9,
+    "phonological_constructions": 0,
+    "phonological_readouts": 0,
+    "accent_constructions": 0,
+    "accent_readouts": 0,
+    "semantic_constructions": 0,
+    "semantic_readouts": 0,
+    "compound_constructions": 0,
+    "compound_readouts": 0,
+    "source_observations": 0,
+    "source_policy_decisions": 1
+  }
+}

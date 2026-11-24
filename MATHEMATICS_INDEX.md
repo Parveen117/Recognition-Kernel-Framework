@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG686: [Joined sam–gam caṅ outer-result A](research/panini_grammar/sam_gam_joined_cang_outer_result_middle/README.md). The typed zero square preserves the immediate base for the 1.3.88 query, the E2 result and cue for 1.3.74/77, and the distinct secondary endings of the A3sg/P2pl homograph.
+
 PG685: [Complete selected sam–gam san active grid](research/panini_grammar/sam_gam_san_blessing_aorist_perfect_completion/README.md). Typed specialization preserves primary word status before the inner iṭ query. The original middle entitlement and the auxiliary's liṭ history have separate owners.
 
 PG684: [Direct Paippalāda gam clauses and retained ayam](research/panini_grammar/paippalada_cang_roles_and_ayam_parallel/README.md). Clause operators retain recension, address, role/case, grammatical person and vowel ownership through typed zero specialization. The Paippalāda text has separate accent obligations.

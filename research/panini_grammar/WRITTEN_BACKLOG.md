@@ -1,6 +1,8 @@
-# Written-development backlog at PG685
+# Written-development backlog at PG686
 
-Monty · 2026-11-24 · reviewed current parent e27e5a39f750fad441543d6f973d3c05db28d7df; historical closures below retain their exact original pins.
+Monty · 2026-11-24 · reviewed current parent b247630f908a691abd6b82d077c3e24326885798; historical closures below retain their exact original pins.
+
+PG686 closes the [joined two-hetu active sam–gam caṅ P/A luṅ set](sam_gam_joined_cang_outer_result_middle/README.md) on explicit principal-result and immediate-base guards, 18 keys/readings with nine new A. The old P panel stays frozen. Other joined lakāras, additional single-hetu role profiles, independent evidence for the actual A utterance and C2–C5/S1–S7 stay Open. One-hetu P under 1.3.88 is a positive control on a restricted frame. Claude execution is separate.
 
 PG685 closes the [two selected Classical active sam–gam san profiles](sam_gam_san_blessing_aorist_perfect_completion/README.md) across all ten lakāras at 180 keys/454 readings. The last three add 54/238. Liṭ-luk licenses inner iṭ on both first words under the selected 7.2.58 policy while 1.3.63 selects A kṛ on the companion profile. Cross-policy and independent word attestation remain Open alongside ordinary joined caṅ A-pada and the wider written gates. No new nominal increment.
 

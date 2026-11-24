@@ -2,6 +2,16 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG686 · Joined sam–gam caṅ outer-result A
+
+PG686: [Joined sam–gam caṅ outer-result A](sam_gam_joined_cang_outer_result_middle/README.md). 1.3.74 licenses A on the supplied outer principal result. 1.3.88 instead gives P on the separate conscious intransitive one-hetu control. The joined two-hetu active luṅ set closes at 18 positions/readings: nine old P and nine new A. Census 52,071 finite and 8,012 nominal positions/9,271 readings.
+
+One morphology construction/nine readouts, one syntax construction/five readouts and one source-policy decision. Zero additions to nominal or source-observation totals. A3sg and the old P2pl share a spelling and keep distinct requested person/pada and ending ownership. The new nine forms are written rule compositions.
+
+PG521–686 cumulative: 252 finite positions/585 readings, 2,234 nominal positions/2,528 readings, 258 morphology constructions/1,985 interfaces, 122 compound constructions/583 plans, 15 accent constructions/61 records, 150 semantics constructions/437 records, 114 syntax constructions/334 records, 47 source-policy decisions after PG555−1, and 290 observations. Dedicated junction count since PG680 is three constructions/nine readouts. Two provenance corrections and one proof addendum. Historical PG335 and PG357–363 CLOSED preserved.
+
+The selected two-hetu joined active caṅ P/A luṅ result is locally closed. Other joined lakāras and qualified single-hetu A profiles, independent source witnesses/recitations and C2–C5/S1–S7 remain. Claude retains generators, grammar execution, untouched suites and certificate replay. The containing commit is the publication pin.
+
 ## PG685 · Selected sam–gam san active-grid completion
 
 PG685: [Complete selected sam–gam san active grid](sam_gam_san_blessing_aorist_perfect_completion/README.md). The last three lakāras add 54 new positions/238 readings. Primary liṭ-luk precedes tiṅ, so both perfect first words take inner iṭ under the selected 7.2.58 policy. Companion A transfers only to auxiliary kṛ. The two ten-lakāra profiles close at 180 positions/454 readings. Census 52,062 finite and 8,012 nominal positions/9,271 readings.
