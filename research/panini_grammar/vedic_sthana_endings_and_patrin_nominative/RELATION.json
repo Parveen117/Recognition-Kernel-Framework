@@ -1,0 +1,284 @@
+{
+  "forms": [
+    {
+      "category": "finite",
+      "id": "AS-P2PL-LAT-READING",
+      "prior_key": "1020060:P:5",
+      "profile": {
+        "root": "02.0060 as bhuvi",
+        "prefix": null,
+        "pada": "P",
+        "lakara": "laṭ",
+        "slot": "2pl"
+      },
+      "paths": [
+        {
+          "root": "02.0060",
+          "affix": "laṭ tha→thana",
+          "policy": [
+            "VS",
+            "K64111"
+          ],
+          "segment": "sthana",
+          "markers": [
+            "śaP-luk",
+            "apit→ṅit",
+            "named extension of thana to laṭ tha"
+          ],
+          "status": "Accepted under Mahīdhara’s local source policy"
+        }
+      ]
+    },
+    {
+      "category": "finite",
+      "id": "AS-P2PL-LOT-READING",
+      "prior_key": "athematic_modals:as:P:lot:2pl",
+      "profile": {
+        "root": "02.0060 as bhuvi",
+        "prefix": null,
+        "pada": "P",
+        "lakara": "loṭ",
+        "slot": "2pl"
+      },
+      "paths": [
+        {
+          "root": "02.0060",
+          "affix": "loṭ ta→thana",
+          "policy": [
+            "AV-LOT",
+            "K744",
+            "K745",
+            "K64111"
+          ],
+          "segment": "sthana",
+          "markers": [
+            "śaP-luk",
+            "apit→ṅit",
+            "loṭ ta recipient retained"
+          ],
+          "status": "Accepted under the named loṭ reading for AVŚ 1.31.2"
+        }
+      ]
+    }
+  ],
+  "accent": [
+    [
+      "PAT-AC",
+      "patatríṇīḥ",
+      "The received high is the vowel of ri. The Taittirīya direct rendering marks it on the same syllable. Common pitch need not adjudicate the further historical stem analysis.",
+      "RV,TS"
+    ],
+    [
+      "AS-HERB-AC",
+      "sthana",
+      "The healing-hymn readout follows the prior nominal; it lacks the independent high observed in the AV relative clause. The padapāṭha in TS keeps the low signs.",
+      "RV,VS,TS"
+    ],
+    [
+      "AS-AV-AC",
+      "sthána",
+      "The received accented Śaunaka rendering has high on the first vowel. Its address is a yá-relative clause. The relative clause's retention condition under 8.1.66 is distinct from any general loṭ accent claim.",
+      "AV,AV-ACC"
+    ]
+  ],
+  "syntax": [
+    [
+      "H-CTRL",
+      "The first plural predicate stha takes the addressed herbs as subject and niṣkṛtīḥ/saṅkṛtīḥ as plural complement on their separate source addresses.",
+      "RV,VS,TS"
+    ],
+    [
+      "H-PATR",
+      "The next plural predicate sthana takes the same discourse addressees and patatriṇīḥ as a feminine plural predicate, alongside sīrāḥ or sarāḥ.",
+      "RV,VS,TS"
+    ],
+    [
+      "PAT-M",
+      "Mahīdhara supplies a possessive explanation in terms of spreading/movement. Sāyaṇa in Taittirīya gives the distinct leaf and return explanation.",
+      "VS,TS"
+    ],
+    [
+      "AV-FRAME",
+      "In AVŚ 1.31.2 the yá-relative clause characterizes the guardians. The main release request is separately expressed by muñcata.",
+      "AV,AV-ACC"
+    ],
+    [
+      "AS-LOT",
+      "Kṣemakaraṇa Dāsa identifies the smaller clause's sthana with the same root as 02.0060 and loṭ. The relative reading remains explicit in the received-word interpretation.",
+      "AV-LOT,AV"
+    ]
+  ],
+  "contact": [
+    [
+      "PAT-H",
+      "patatriṇīḥ sthana",
+      "The s of jas gives ru and the selected visarga outcome before the sibilant of the separately owned as root under 8.3.36 with 8.3.15.",
+      "RV,VS,TS"
+    ],
+    [
+      "NIS-KRV",
+      "niḥ kṛtha → niṣ kṛtha",
+      "The Śākala pada retains niḥ separately. The joined sibilant in the corresponding part is prefix-derived ṣ under 8.3.41; the tense history of kṛtha stays Open.",
+      "RV"
+    ],
+    [
+      "NIS-KTS",
+      "nir iti | kṛta with niṣkṛta in saṃhitā",
+      "Taittirīya has a different local finite word. Its displayed combination before k gives the prefix's ṣ without borrowing the Śākala aspiration.",
+      "TS"
+    ]
+  ],
+  "observations": [
+    [
+      "VS-LONG",
+      "VS",
+      "Mahīdhara quotes 6.1.106 exactly for patatriṇīḥ and paraphrases the plural as patatriṇyaḥ. His earlier short-i niṣkṛtīḥ has a separate paraphrase."
+    ],
+    [
+      "VS-THANA",
+      "VS",
+      "Mahīdhara gives tha→thana after the feminine plural and interprets the verb through bhavatha."
+    ],
+    [
+      "RV-TANA",
+      "RV",
+      "The received Śākala text has sthana. The cited Sāyaṇa line prints tana as the alternative ending label."
+    ],
+    [
+      "TS-PADA",
+      "TS",
+      "The direct segmented present pair preserves stha and sthana. Its plural is sam-kṛtīḥ with long ī in the named padapāṭha."
+    ],
+    [
+      "PAT-MEANING",
+      "TS,VS",
+      "The Taittirīya Sāyaṇa gloss relates the term to a leaf and return; Mahīdhara relates it to motion or spread."
+    ],
+    [
+      "AV-REL",
+      "AV,AV-ACC",
+      "Śaunaka's relative clause prints sthána. The main verb separately requests release."
+    ],
+    [
+      "AV-STAT",
+      "AV",
+      "Whitney reports the commentary's unaspirated stana, distinct from the presence of aspiration in the received saṃhitā and pada."
+    ],
+    [
+      "AV-LOT",
+      "AV-LOT",
+      "The printed note explicitly assigns the form as-P2pl loṭ and 7.1.45 thana."
+    ]
+  ],
+  "decisions": [
+    [
+      "PAT-106",
+      "VS,TS,RV,K61106",
+      "Accept the named long-ī plural under 6.1.106. The readout on the directly witnessed ṅīP form is independent of the short-i issue at the preceding noun."
+    ],
+    [
+      "AS-THA",
+      "VS,RV",
+      "Accept Mahīdhara's source-specific tha→thana construction. The transmitted tana label in the Ṛgvedic gloss stays explicit and does not silently revise the attested word."
+    ],
+    [
+      "AS-TA",
+      "AV-LOT,K744,K745",
+      "Accept the independently named loṭ-ta analysis. It shares the word but preserves a different underlying affix and finite request."
+    ],
+    [
+      "AV-READINGS",
+      "AV,AV-ACC,AV-LOT",
+      "Keep the direct aspirated word and the reported unaspirated commentary reading. Exact original commentary and the source’s use of tana or thana remain Open for stana."
+    ],
+    [
+      "HERB-SHORT-I",
+      "RV,VS,TS",
+      "Accept the case evidence for the received n-retaining and sam plural displays. Attribution of the short-i inflection to a specific Pāṇinian route is Open."
+    ],
+    [
+      "PAIRED-PRED",
+      "RV,VS,TS",
+      "Keep the verb pair and the two nominal complements tied to the herb clause. The last distinct Śākala kṛtha and TS kṛta receive no word credit from their boundary attestation."
+    ]
+  ],
+  "morphology": [
+    [
+      "LA-P2P",
+      "AS-P2PL-LAT-READING",
+      "sthana",
+      "Inherited laṭ tha, locally authorized thana, weak as vowel loss",
+      "VS,K64111"
+    ],
+    [
+      "LO-P2P",
+      "AS-P2PL-LOT-READING",
+      "sthana",
+      "Inherited imperative ta, thana under the named 7.1.45 policy, weak as vowel loss",
+      "AV-LOT,K744,K745,K64111"
+    ],
+    [
+      "PAT-NP",
+      "PATATRI-F-NOM-PL",
+      "patatriṇīḥ",
+      "ini extension and ṅīP feminine before the case-owned s. Source 6.1.106 retains the strong long vowel junction.",
+      "RV,VS,TS,K61106"
+    ]
+  ],
+  "nominal": [
+    {
+      "id": "PATATRI-F-NOM-PL",
+      "key": [
+        "patatra",
+        "wing/motion-bearing herb description",
+        "ini",
+        "ṅīP",
+        "f",
+        "nom",
+        "pl"
+      ],
+      "visible": [
+        "patatriṇīḥ"
+      ],
+      "source_groups": {
+        "patatriṇīḥ": [
+          "RV",
+          "VS",
+          "TS"
+        ]
+      },
+      "policy": [
+        "VS",
+        "TS",
+        "K61106",
+        "PAT"
+      ],
+      "owners": {
+        "stem": [
+          "patatra",
+          "patatrin"
+        ],
+        "taddhita": [
+          "ini",
+          "in"
+        ],
+        "feminine": [
+          "ṅīP",
+          "ī"
+        ],
+        "sup": [
+          "jas",
+          "as",
+          "s",
+          "ru",
+          "ḥ"
+        ]
+      },
+      "status": "Accepted in the addressed Vedic statements"
+    }
+  ],
+  "prior_finite_keys": [
+    "1020060:P:5",
+    "athematic_modals:as:P:lot:2pl"
+  ]
+}

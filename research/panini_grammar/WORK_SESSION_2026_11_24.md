@@ -2,6 +2,16 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG712 · Vedic sthana and the source-licensed plural patatriṇīḥ
+
+PG712 · [Vedic sthana and the source-licensed plural patatriṇīḥ](vedic_sthana_endings_and_patrin_nominative/README.md). One new nominal key and reading derives patatriṇīḥ with the long stem and Mahīdhara’s 6.1.106 source guard. Two new sthana readings extend the existing as-P2pl laṭ and loṭ keys through distinct ending histories. The short-i plural of the healing words retains its own unresolved operation. Census 52,336 finite positions and 9,368 nominal positions with 10,968 nominal readings.
+
+0 new nonfinite constructions/0 retained paths. Accent 1/3, syntax 1/5, phonological junction 1/3 constructions/readouts. 8 source observations and 6 source-policy decisions. One morphology construction/3 interfaces. Finite increments 0 positions and 2 readings. Nominal increments 1 positions and 1 readings. The publication parent is c8dac621a78981b01bde6e7534d7470d534dc969. The containing commit pins the documents and evidence.
+
+PG521–712 cumulative: 517 finite positions/1,435 net finite readings, 3,590 nominal positions/4,225 readings, 286 morphology constructions/2,953 interfaces, 128 compound constructions/593 plans, 28 accent constructions/111 records, 153 semantics constructions/454 records, 135 syntax constructions/444 records, 140 source-policy decisions after PG555−1 and 460 observations. Nineteen junction constructions/56 readouts since PG680 and 20 nonfinite constructions/26 paths since PG700. Four provenance corrections and one proof addendum. PG335 and PG357–363 CLOSED results are preserved.
+
+The named patatriṇīḥ plural and the two qualified sthana ending histories close locally. The older stha/sta positions carry zero new finite credit. The short-i nominative-plural mechanism for niṣkṛtīḥ/saṃkṛtīḥ, other 7.1.45 scopes, and the exact AV commentary stana source remain Open. The other C2–C5 and S1–S7 obligations and Claude execution remain on their own records.
+
 ## PG711 · Vedic babdhām, the strong bhas control and separated upa–ghrā
 
 PG711 · [Vedic babdhām, the strong bhas control and separated upa–ghrā](vedic_bhas_babdham_and_split_upa_ghra/README.md). Four new finite positions and four readings derive the Nirukta’s babdhām and jighratām, Śaunaka’s babhasti and the commentary’s bapsati. Bhas preserves the strong/weak marker split. The older binding-root objection and the exact s/ṣ difference in the Nirukta’s residue word remain distinct evidence. Census 52,336 finite positions and 9,367 nominal positions with 10,967 nominal readings.

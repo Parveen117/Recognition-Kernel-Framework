@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG712 · [Vedic sthana and the source-licensed plural patatriṇīḥ](vedic_sthana_endings_and_patrin_nominative/README.md). One new nominal key and reading derives patatriṇīḥ with the long stem and Mahīdhara’s 6.1.106 source guard. Two new sthana readings extend the existing as-P2pl laṭ and loṭ keys through distinct ending histories. The short-i plural of the healing words retains its own unresolved operation. Census 52,336 finite positions and 9,368 nominal positions with 10,968 nominal readings.
+
 PG711 · [Vedic babdhām, the strong bhas control and separated upa–ghrā](vedic_bhas_babdham_and_split_upa_ghra/README.md). Four new finite positions and four readings derive the Nirukta’s babdhām and jighratām, Śaunaka’s babhasti and the commentary’s bapsati. Bhas preserves the strong/weak marker split. The older binding-root objection and the exact s/ṣ difference in the Nirukta’s residue word remain distinct evidence. Census 52,336 finite positions and 9,367 nominal positions with 10,967 nominal readings.
 
 PG710 · [Vedic rāti as gift, giver and giving instrument](vedic_rati_donor_gift_and_nanj_policies/README.md). Six new nominal positions and six readings distinguish ktiN gift and instrument, ktiC donor and the two sources of the negative-agent form. Sāyaṇa’s giver and the Śukla gift analyses share rātim but differ in their argument structure. The two competing compound histories converge on árātayaḥ. Census 52,332 finite positions and 9,367 nominal positions with 10,967 nominal readings.

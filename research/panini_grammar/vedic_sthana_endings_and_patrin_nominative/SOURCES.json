@@ -1,0 +1,144 @@
+{
+  "publication_parent": "c8dac621a78981b01bde6e7534d7470d534dc969",
+  "date": "2026-11-24",
+  "project_dependencies": [
+    {
+      "commit": "c8dac621a78981b01bde6e7534d7470d534dc969",
+      "path": "research/panini_grammar/vedic_bhas_babdham_and_split_upa_ghra/STATE.json",
+      "git_blob_sha": "0b8e3b6e2d01fa1e3bd28c643d325408c57c2809",
+      "bytes": 2498,
+      "sha256": "1d7a22376ff46a8f0aab3bd20c93b1dd2d5dc77aecd4cf202f9bdbaffeb00c69",
+      "use": "Inherited census"
+    },
+    {
+      "commit": "b05e46bf78f165e17c4766d6d1179a1699a72fcf",
+      "path": "research/panini_grammar/grammar_construction/NATIVE_OPERATOR_LIFT.md",
+      "git_blob_sha": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+      "bytes": 11855,
+      "sha256": "f52e7f5cf539ef56859b890669ef738848491e4005e73be75baa49c899b5dafd",
+      "use": "Full PG14 right modules, residue algebra and zero-reading theorem"
+    },
+    {
+      "commit": "7ef51011b4ac8bfe22fc6e4261545fa1fc85f1f2",
+      "path": "research/panini_grammar/exception_lat/REFERENCE_CASES.json",
+      "git_blob_sha": "38f3b2aa81fa60329b7f03588dffbe4053ceb3c1",
+      "bytes": 29864,
+      "sha256": "52175b6c5ee44f0f3d2d00deee8dd50f89c61df11ec00f449c55228072c3c932",
+      "use": "Frozen as 1020060 P2pl laṭ stha control, inspected without execution"
+    },
+    {
+      "commit": "2399cc88fef340acb364c5b927c6cf5cbd341d1a",
+      "path": "research/panini_grammar/athematic_modals/PARADIGMS.md",
+      "git_blob_sha": "623356e24a76ce515ae0ec2015f6f98381b6f5de",
+      "bytes": 7560,
+      "sha256": "671c60ec2d3e586ff8ec0b44013aeb09bdbe305b6c8324820392c268399b177b",
+      "use": "Frozen as P2pl loṭ sta position"
+    },
+    {
+      "commit": "8944036b7a39f457f013e8bf4c1903f56c7644fb",
+      "path": "research/panini_grammar/vedic_nis_kr_maker_and_maternal_remedy/RELATION.json",
+      "git_blob_sha": "c75390aa00b2aa5be9016a1798c633fb0bcc2ec2",
+      "bytes": 9218,
+      "sha256": "1a20fc935058837caba434637432d966ba637fb3fd3a7ee677f2ca6da5d06afa",
+      "use": "Earlier singular remedy readings and previous plural observations"
+    },
+    {
+      "commit": "4f7451502fd3bbef5e43f84e273f9c65f3f92b26",
+      "path": "research/panini_grammar/anga_affix_abhyasa/SOURCE_EXCERPTS.json",
+      "git_blob_sha": "5deccfa3a413c5721d902714f4c3de35891cadae",
+      "bytes": 1639658,
+      "sha256": "e4eadb5573832ae88192d5c1fe9c2f5f18b0bafe427b5af571c9bdce178fcb7b",
+      "use": "Existing 7.1.45 ta/taP/tanaP/tana/thana framework, receiving zero repeat credit"
+    },
+    {
+      "commit": "ada439f6ba3109d798b41c216fe7cedc79e60afb",
+      "path": "research/panini_grammar/SUTRAPATHA.tsv",
+      "git_blob_sha": "1840f3b5349b21112ac05a7efaa59705fd4efee0",
+      "bytes": 270179,
+      "sha256": "70dfdfe6ba433b6e211f0f01b078c1b6d13a1ad0938e06fd5789298a04583634",
+      "use": "Exact rule text pins"
+    },
+    {
+      "commit": "51badc7a87c2058157331600224f356b4a77a77a",
+      "path": "research/panini_grammar/hastin_compound_admission/DERIVATIONS.md",
+      "git_blob_sha": "ac220fa32a141af34b23d75d44b621a87437f159",
+      "bytes": 12858,
+      "sha256": "8ee59767bee29153b1f6eb0365b0365892c122e6bc7f1cf92047c9345a2d38f6",
+      "use": "Shared possessed-base ini analysis with separately owned stem-vowel and feminine ending"
+    }
+  ],
+  "web_evidence": [
+    {
+      "id": "RV",
+      "url": "https://vishvasa.github.io/vedAH_Rk/shAkalam/saMhitA/sarva-prastutiH/10/097/",
+      "locator": "Śākala 10.97.9, direct padapāṭha 1834–1836, annotated form lines 1814–1829 and Sāyaṇa line 1925",
+      "use": "Second-plural stha/sthana, feminine plural and the commentary's exact tana wording"
+    },
+    {
+      "id": "VS",
+      "url": "https://vishvasa.github.io/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/uvaTa-mahIdharau/12/",
+      "locator": "VSM 12.83, lines 631–635, exact Uvaṭa/Mahīdhara layers",
+      "use": "Feminine plural, 6.1.106, tha→thana, different local glosses, kṛtha explanation"
+    },
+    {
+      "id": "TS",
+      "url": "https://vishvasa.github.io/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/",
+      "locator": "TS 4.2.6.2–3 crossing, lines 262–281, text, padapāṭha and Sāyaṇa",
+      "use": "Segmented saṅkṛtīḥ, same two as forms, different sarāḥ/leaf gloss and nir iti kṛta"
+    },
+    {
+      "id": "AV",
+      "url": "https://vishvasa.github.io/vedAH/atharva/shaunakam/rUDha-saMhitA/sarva-prastutiH/01/031_pAshamochanam/",
+      "locator": "AVŚ 1.31.2, lines 129–183, direct saṃhitā, pada and Whitney report",
+      "use": "Sthana in the relative clause and the reported commentary's stana"
+    },
+    {
+      "id": "AV-ACC",
+      "url": "https://textgridrep.de/browse/49knk.0?lang=en&mode=gallery",
+      "locator": "AVŚ 1.31.2a, independent accented Roman display",
+      "use": "Received high on first vowel of sthána"
+    },
+    {
+      "id": "AV-LOT",
+      "url": "https://sa.wikisource.org/wiki/पृष्ठम्:अथर्ववेदभाष्यम्-काण्डम्_१_(क्षेमकरणदास्_त्रिवेदी).pdf/१७७",
+      "locator": "Kṣemakaraṇa Dāsa Trivedī, scan 177, AVŚ 1.31.2 annotation",
+      "use": "Named loṭ as 2pl and 7.1.45 thana"
+    },
+    {
+      "id": "K744",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/7/7.1.44.htm",
+      "locator": "Kāśikā and Nyāsa 7.1.44, lines 12–19",
+      "use": "Explicit inherited imperative ta input"
+    },
+    {
+      "id": "K745",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/7/7.1.45.htm",
+      "locator": "Kāśikā 7.1.45, lines 12–14",
+      "use": "Four replacements and the original pit contrast"
+    },
+    {
+      "id": "K64111",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/6/6.4.111.htm",
+      "locator": "Kāśikā 6.4.111, line 14",
+      "use": "Weak apit/ṅit as vowel loss"
+    },
+    {
+      "id": "K61106",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/6/6.1.106.htm",
+      "locator": "Kāśikā/Nyāsa 6.1.106, lines 14–19",
+      "use": "Long stem before jas, alternate case junctions in named Vedic contexts"
+    },
+    {
+      "id": "PAT",
+      "url": "https://www.wisdomlib.org/definition/patatrin",
+      "locator": "Patatrin, dictionary head and the RV 10.97.9 citation where provided",
+      "use": "Independent adjectival lexeme and the wing/mobility family"
+    },
+    {
+      "id": "K52115",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/5/5.2.115.htm",
+      "locator": "Kāśikā 5.2.115 heading within text. The page also displays 5.2.114 in other headings.",
+      "use": "Supplied short-a nominal with ini in the possessed-property sense and the named usage cautions"
+    }
+  ]
+}

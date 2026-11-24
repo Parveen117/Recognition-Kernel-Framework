@@ -1,0 +1,60 @@
+{
+  "schema": "rkf.panini.pg712.state.v1",
+  "author": "Monty",
+  "date": "2026-11-24",
+  "publication_parent": "c8dac621a78981b01bde6e7534d7470d534dc969",
+  "baseline": {
+    "commit": "c8dac621a78981b01bde6e7534d7470d534dc969",
+    "path": "research/panini_grammar/vedic_bhas_babdham_and_split_upa_ghra/STATE.json"
+  },
+  "finite_positions": 52336,
+  "nominal_positions": 9368,
+  "nominal_readings": 10968,
+  "new_finite_positions": 0,
+  "new_finite_readings": 2,
+  "new_finite_readings_on_prior_keys": 2,
+  "new_nominal_positions": 1,
+  "new_nominal_readings": 1,
+  "new_positions": 1,
+  "new_position_readings": 3,
+  "new_compound_constructions": 0,
+  "new_compound_plans": 0,
+  "new_morphology_constructions": 1,
+  "new_morphology_interfaces": 3,
+  "new_nonfinite_constructions": 0,
+  "new_nonfinite_readouts": 0,
+  "new_accent_constructions": 1,
+  "new_accent_readouts": 3,
+  "new_syntactic_constructions": 1,
+  "new_syntactic_readouts": 5,
+  "new_phonological_constructions": 1,
+  "new_phonological_readouts": 3,
+  "new_source_observations": 8,
+  "new_source_policy_decisions": 6,
+  "local_closure": [
+    "One source-licensed nominal position and reading",
+    "Two new accepted readings on previously credited finite positions with explicit lakāra and ending ownership"
+  ],
+  "open_obligations": [
+    "Exact short-i nominative-plural mechanism for niṣkṛtīḥ and saṅkṛtīḥ, and the historical meaning and accent on the competing leaf/mobility interpretations beyond these clauses.",
+    "Independent scan of Whitney's reported unaspirated AV commentary, positive derivation of its ending, and the rationale for the transmitted tana label of the Ṛgveda comment.",
+    "General scope of 7.1.45 beyond the source-named as forms. The Vedic finite derivations of kṛtha/kṛta, exact Śukla versus Taittirīya sentence contexts of the final predicate and full original text lineage stay Open.",
+    "C2–C5 and S1–S7 remain active. Claude retains generators, grammar execution, old suites and certificate replay."
+  ],
+  "authorization": {
+    "completion_status": "OPEN wider gates",
+    "PG335": "-9 finite/-12 readings preserved",
+    "PG357_PG363": "CLOSED preserved",
+    "continuous_executed_hours_claimed": false
+  },
+  "runtime_policy": {
+    "python": "3.12 only",
+    "document_check_status": "PASS",
+    "document_check_attempts": 1,
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "old_suites": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE"
+  },
+  "grammar_executions": []
+}

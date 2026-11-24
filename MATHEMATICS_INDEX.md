@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG712 · [Vedic sthana and the source-licensed plural patatriṇīḥ](research/panini_grammar/vedic_sthana_endings_and_patrin_nominative/README.md). Two source-tagged ending substitutions descend through PG14 while preserving original laṭ tha and imperative ta. The separate long-ī nominal fibre recovers the same analyzed feminine plural and evidence at zero.
+
 PG711 · [Vedic babdhām, the strong bhas control and separated upa–ghrā](research/panini_grammar/vedic_bhas_babdham_and_split_upa_ghra/README.md). Four finite keys use the full PG14 carrier with copied versus original vowel identity, conditioned s-lopa, term-specific accent and an independently owned intervening accusative under Vedic upa.
 
 PG710 · [Vedic rāti as gift, giver and giving instrument](research/panini_grammar/vedic_rati_donor_gift_and_nanj_policies/README.md). The typed relation separates ktiN and ktiC, the giver and gift argument structures, the mantra and c-it accent owners, and the two licensed nañ compounds before the common readout.
