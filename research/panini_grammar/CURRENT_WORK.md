@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG715
+# Pāṇini grammar · current written coverage at PG716
+
+PG716 · [Censured giving, paired loan affixes and vārdhuṣi](censured_lending_owned_suffixes_and_amara_controls/README.md). Writes five masculine lending stems, two specifically licensed feminines and the separate Amara i-stem. The two vārdhuṣika analyses converge while the creditor/repayment interface, lexical ka-lopa and distinct accent owners stay explicit. Census 52,341 finite positions and 9,853 nominal positions with 11,460 nominal readings.
 
 PG715 · [Vedic kṛtha, kṛta and the remedy plurals](vedic_kri_root_present_aorist_and_remedy_plurals/README.md). Constructs five selected finite keys and five nominal keys. The bare and prefixed root-aorist imperatives retain their sources, akran anchors aug and chli-luk membership, and the two remedy NOMpl spellings have a descriptive case relation with the exact traditional marker issue still Open. Census 52,341 finite positions and 9,661 nominal positions with 11,261 nominal readings.
 

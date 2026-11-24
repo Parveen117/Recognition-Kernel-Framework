@@ -1,6 +1,8 @@
-# Written-development backlog at PG715
+# Written-development backlog at PG716
 
-Monty · 2026-11-24 · reviewed current parent a5f6e3910ded1eaf55975fb363b5cc2fa7e07f9b. Historical closures below retain their exact pins.
+Monty · 2026-11-24 · reviewed current parent 56590d17e699b8258e00bd5a38cc6dd7331fbc38. Historical closures below retain their exact pins.
+
+PG716 · [Censured giving, paired loan affixes and vārdhuṣi](censured_lending_owned_suffixes_and_amara_controls/README.md). Selected 4.4.30–31 lending and Amara case fibres are locally CLOSED at 192 positions/199 readings. Padamañjarī supplies the two earlier kūla bahuvrīhi controls and both paripārśva readings, with zero repeat nominal credit. The short triguṇika witness, long-ū metadata, wider doubling, the unlocated Padamañjarī quotation and original vārttika authority remain distinct Open obligations. Next C4 includes the active 4.4.32–36 semantic contrasts. Wider C2–C5/S1–S7 and Claude execution stay explicit.
 
 PG715 · [Vedic kṛtha, kṛta and the remedy plurals](vedic_kri_root_present_aorist_and_remedy_plurals/README.md). The selected kṛtha/kṛta, akran, āmayati and five named nominal requests are locally CLOSED on their source-qualified relations. The exact primary-rule competition for the short-i nominatives, 3.1.79 precedence in Mahīdhara's śap analysis, the other recensions and independent accent derivations remain Open. The predecessor's selected as and maternal singular credits are unchanged. C2–C5/S1–S7 and Claude execution remain on their own records.
 

@@ -2,6 +2,16 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG716 · Censured giving, paired loan affixes and vārdhuṣi
+
+PG716 · [Censured giving, paired loan affixes and vārdhuṣi](censured_lending_owned_suffixes_and_amara_controls/README.md). Writes five masculine lending stems, two specifically licensed feminines and the separate Amara i-stem. The two vārdhuṣika analyses converge while the creditor/repayment interface, lexical ka-lopa and distinct accent owners stay explicit. Census 52,341 finite positions and 9,853 nominal positions with 11,460 nominal readings.
+
+0 new nonfinite constructions/0 retained paths. Accent 1/2, syntax 1/8, phonological junction 1/4 constructions/readouts. 11 source observations and 8 source-policy decisions. One morphology construction/9 interfaces. One compound construction/one new plan, with three inherited addresses reviewed without repeat credit. Finite increments 0 positions and 0 readings. Nominal increments 192 positions and 199 readings. The publication parent is 56590d17e699b8258e00bd5a38cc6dd7331fbc38. The containing commit pins the documents and evidence.
+
+PG521–716 cumulative: 522 finite positions/1,440 net finite readings, 4,075 nominal positions/4,717 readings, 290 morphology constructions/2,985 interfaces, 130 compound constructions/600 plans, 30 accent constructions/118 records, 153 semantics constructions/454 records, 139 syntax constructions/477 records, 169 source-policy decisions after PG555−1 and 500 observations. Twenty-two junction constructions/64 readouts since PG680 and 20 nonfinite constructions/26 paths since PG700. Four provenance corrections and one proof addendum. PG335 and PG357–363 CLOSED results are preserved.
+
+Selected 4.4.30–31 lending and Amara case fibres are locally CLOSED at 192 positions/199 readings. Padamañjarī supplies the two earlier kūla bahuvrīhi controls and both paripārśva readings, with zero repeat nominal credit. The short triguṇika witness, long-ū metadata, wider doubling, the unlocated Padamañjarī quotation and original vārttika authority remain distinct Open obligations. Next C4 includes the active 4.4.32–36 semantic contrasts. Wider C2–C5/S1–S7 and Claude execution stay explicit.
+
 ## PG715 · Vedic kṛtha, kṛta and the remedy plurals
 
 PG715 · [Vedic kṛtha, kṛta and the remedy plurals](vedic_kri_root_present_aorist_and_remedy_plurals/README.md). Constructs five selected finite keys and five nominal keys. The bare and prefixed root-aorist imperatives retain their sources, akran anchors aug and chli-luk membership, and the two remedy NOMpl spellings have a descriptive case relation with the exact traditional marker issue still Open. Census 52,341 finite positions and 9,661 nominal positions with 11,261 nominal readings.

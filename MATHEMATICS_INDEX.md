@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG716 · [Censured giving, paired loan affixes and vārdhuṣi](research/panini_grammar/censured_lending_owned_suffixes_and_amara_controls/README.md). The actual 4.4.30–31 creditor, due amount and repayment roles precede suffix selection. The selected vṛdhuṣi substitution and independent lexical entry preserve distinct histories through the same case outputs. The stage lifts them into the complete PG14 history carrier.
+
 PG715 · [Vedic kṛtha, kṛta and the remedy plurals](research/panini_grammar/vedic_kri_root_present_aorist_and_remedy_plurals/README.md). The Vedic root-present, three root-aorist requests and the curādi affliction request use distinct augment, marker and inflection addresses. A separate source-qualified nominal relation retains short-i case analogies and the āmayati homograph under typed PG14 specialization.
 
 PG714 · [Instrument and manner under vartate](research/panini_grammar/vartate_instrument_manner_and_pari_taddhita/README.md). The eleven selected ṭhak fibres preserve separate instrumental/manner grades, inner ap/loman and peri-compound owners, and the two source-specific pari histories under a common surface. Entrywise augmentation commutes with the complete PG14 operator diagram.
