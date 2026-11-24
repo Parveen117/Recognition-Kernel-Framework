@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG688
+# Pāṇini grammar · current written coverage at PG689
+
+PG689: [Complete selected joined sam–gam two-hetu active grid](sam_gam_joined_nested_active_ten_lakara_completion/README.md). Uvaṭa and Mahīdhara's `saṃgamayati` glosses of VS 17.19 supply a joined lexical control apart from the mantra's root dham. Eight new lakāras add 144 positions/400 readings; the ten selected lakāras close at 180 keys/456 readings. Census 52,233 finite and 8,012 nominal positions/9,271 readings.
 
 PG688: [Nested gam passive blessing and aorist ownership repair](nested_gam_passive_blessing_aorist_owner_reconciliation/README.md). Nyāsa confirms first-ṇic deletion and root length in the double-causative control. On the same 18 PG677 keys, 55 corrected readings preserve actual ciṇ versus ciṇvat and the late 2pl owner. There are 38 newly admitted and 20 retired old readings, for a net increment of 18 and zero new positions.
 

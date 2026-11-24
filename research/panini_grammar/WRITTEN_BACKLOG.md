@@ -1,6 +1,8 @@
-# Written-development backlog at PG688
+# Written-development backlog at PG689
 
-Monty · 2026-11-24 · reviewed current parent 284c0a3d50367cfbeaa11ee3a9651fd665ff550d; historical closures below retain their exact original pins.
+Monty · 2026-11-24 · reviewed current parent 87db65f0cadea2e3586e0594064fab1a31297aa2; historical closures below retain their exact original pins.
+
+PG689 closes the [selected joined two-hetu sam–gam active ten-lakāra set](sam_gam_joined_nested_active_ten_lakara_completion/README.md) at 180 keys/456 readings. Eight labels add 144/400. The joined lexical control is exact in the VS 17.19 commentaries, with separate original and gloss root ownership. Other joined voices and role/formation profiles remain unconstructed. Direct evidence for the two-hetu joined frame, source and recitation issues and C2–C5/S1–S7 stay Open. Claude execution is separate.
 
 PG688 closes the [PG677 owner and count reconciliation](nested_gam_passive_blessing_aorist_owner_reconciliation/README.md) on the existing 18 passive āśīrliṅ/luṅ keys. Nyāsa's exact two-ṇic control and the selected 6.4.62/93/actual-ciṇ rules give 55 operative readings, with 38 newly admitted, 20 retired and 17 shared. Those shared words now have the correct O histories. The historical PG677 packet remains frozen. Other passive inputs, the outstanding joined active lakāras, independent textual and recitational evidence and C2–C5/S1–S7 remain Open. Claude execution is separate.
 

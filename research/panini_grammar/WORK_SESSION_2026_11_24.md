@@ -2,6 +2,16 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG689 · Selected joined sam–gam two-hetu active-grid completion
+
+PG689: [Complete selected joined sam–gam two-hetu active grid](sam_gam_joined_nested_active_ten_lakara_completion/README.md). Uvaṭa and Mahīdhara's `saṃgamayati` glosses of VS 17.19 supply a joined lexical control apart from the mantra's root dham. Eight new lakāras add 144 positions/400 readings; the ten selected lakāras close at 180 keys/456 readings. Census 52,233 finite and 8,012 nominal positions/9,271 readings.
+
+One morphology construction/400 readouts, one syntax construction/four readouts, one source observation and one source-policy decision. Zero new nominal counts. The earlier joined luṅ and āśīrliṅ panels and unprefixed controls receive no repeated credit.
+
+PG521–689 cumulative: 414 finite positions/1,041 net credited finite readings, 2,234 nominal positions/2,528 readings, 260 morphology constructions/2,441 operative interfaces, 122 compound constructions/583 plans, 15 accent constructions/61 records, 150 semantics constructions/437 records, 115 syntax constructions/338 records, 50 source-policy decisions after PG555−1, and 292 observations. Dedicated junction count since PG680 is three constructions/nine readouts. Four provenance corrections and one proof addendum. PG335 correction and PG357–363 CLOSED preserved.
+
+The selected joined active P/A profile is closed in the written relation. Broader joined voices/roles and independent attestations, C2–C5/S1–S7 and Claude execution remain. The containing commit is the publication pin.
+
 ## PG688 · Nested gam passive blessing and aorist ownership repair
 
 PG688: [Nested gam passive blessing and aorist ownership repair](nested_gam_passive_blessing_aorist_owner_reconciliation/README.md). Nyāsa confirms first-ṇic deletion and root length in the double-causative control. On the same 18 PG677 keys, 55 corrected readings preserve actual ciṇ versus ciṇvat and the late 2pl owner. There are 38 newly admitted and 20 retired old readings, for a net increment of 18 and zero new positions.
