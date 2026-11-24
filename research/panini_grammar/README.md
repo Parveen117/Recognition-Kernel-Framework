@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG724 · [The seventh Uṇādi suffix and the actor noun’s second gender](unadi_seventh_suffix_and_nat_ac_gender/README.md). Direct print collation separates 1844 ṣaṇṭha, 1859 śaṇṭha and the Kaumudī ṣaṇḍha. The Vyutpattiratnākara identifies the actor’s pacādi ac and supports its known masculine and newly written neuter cases. Census 52,341 finite positions and 11,869 nominal positions with 13,658 nominal readings.
+
 PG723 · [Named acts of seeing, customary duties and levies](named_seeing_customary_entitlement_and_avakraya/README.md). Constructs 29 source-qualified case fibres for 4.4.46–50. Padamañjarī preserves the ritual and action-based hotṛ accounts. The distinct customary-duty and avakraya queries share stems but keep their meanings and gender separate. Census 52,341 finite positions and 11,821 nominal positions with 13,608 nominal readings.
 
 PG722 · [Habitual conduct and the two pratipatha suffixes](habitual_conduct_and_pratipatha_affix_policies/README.md). Writes four masculine case fibres. The two Mahābhāṣya passages and Nyāsa supply three authorization paths for ādharmika. Paired Pāṇinian and Haima suffixes agree in the sounds of pratipathika and prātipathika. Census 52,341 finite positions and 11,125 nominal positions with 12,883 nominal readings.

@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG724 · [The seventh Uṇādi suffix and the actor noun’s second gender](research/panini_grammar/unadi_seventh_suffix_and_nat_ac_gender/README.md). The rule keeps the seventh affix and the sound boundary independent of textual spelling, and adds 48 case positions and 50 readings for printed śaṇṭha and neuter naṭa. The alternative act-root history is admitted at its own precisely supported lexical scope.
+
 PG723 · [Named acts of seeing, customary duties and levies](research/panini_grammar/named_seeing_customary_entitlement_and_avakraya/README.md). The written operator tracks named denotation, customary support, gaṇa and ṛ-final routing, special deletion, and payment. Its 696 nominal positions and 725 readings retain the source-specific histories through typed zero specialization.
 
 PG722 · [Habitual conduct and the two pratipatha suffixes](research/panini_grammar/habitual_conduct_and_pratipatha_affix_policies/README.md). The two conduct and two path fibres carry 96 nominal positions and 150 readings. The two suffix-conditioned stems of pratipatha and the competing rules for adharma preserve their own typed histories after zero specialization.

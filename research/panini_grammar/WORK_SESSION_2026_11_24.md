@@ -2,6 +2,16 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG724 · The seventh Uṇādi suffix and the actor noun’s second gender
+
+PG724 · [The seventh Uṇādi suffix and the actor noun’s second gender](unadi_seventh_suffix_and_nat_ac_gender/README.md). Direct print collation separates 1844 ṣaṇṭha, 1859 śaṇṭha and the Kaumudī ṣaṇḍha. The Vyutpattiratnākara identifies the actor’s pacādi ac and supports its known masculine and newly written neuter cases. Census 52,341 finite positions and 11,869 nominal positions with 13,658 nominal readings.
+
+Finite increments 0 positions/0 readings. Nominal increments 48 positions/50 readings. One morphology construction/4 interfaces, one semantic construction/4 readouts and one junction construction/3 readouts. 10 source observations and 8 source-policy decisions. Publication parent 5e05ca695b1f9e1a48d95382fe0c6ea728a721ce. The containing commit pins the documents and evidence.
+
+PG521–724 cumulative: 522 finite positions/1,440 net finite readings, 6,091 nominal positions/6,915 readings, 298 morphology constructions/3,095 interfaces, 135 compound constructions/618 plans, 32 accent constructions/126 records, 156 semantics constructions/470 records, 145 syntax constructions/539 records, 248 source-policy decisions after PG555−1 and 609 observations. Twenty-eight junction constructions/87 readouts since PG680 and 22 nonfinite constructions/28 paths since PG700. Four earlier provenance corrections and one proof addendum. PG335 and PG357–363 CLOSED results are preserved.
+
+The 1859 śaṇṭha and Haima neuter naṭa fibres are locally CLOSED. The previously closed PG205 ṣaṇḍha and śaṇḍha, PG201 fish and PG212/PG713 actor positions receive no repeat credit. The 1844 ṣaṇṭha sense, exact source alignment of the two dancing root IDs, and the four direct primary 4.105 fields remain Open. C2–C5/S1–S7 and Claude execution stay on their registers.
+
 ## PG723 · Named acts of seeing, customary duties and levies
 
 PG723 · [Named acts of seeing, customary duties and levies](named_seeing_customary_entitlement_and_avakraya/README.md). Constructs 29 source-qualified case fibres for 4.4.46–50. Padamañjarī preserves the ritual and action-based hotṛ accounts. The distinct customary-duty and avakraya queries share stems but keep their meanings and gender separate. Census 52,341 finite positions and 11,821 nominal positions with 13,608 nominal readings.

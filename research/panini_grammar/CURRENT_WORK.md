@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG723
+# Pāṇini grammar · current written coverage at PG724
+
+PG724 · [The seventh Uṇādi suffix and the actor noun’s second gender](unadi_seventh_suffix_and_nat_ac_gender/README.md). Direct print collation separates 1844 ṣaṇṭha, 1859 śaṇṭha and the Kaumudī ṣaṇḍha. The Vyutpattiratnākara identifies the actor’s pacādi ac and supports its known masculine and newly written neuter cases. Census 52,341 finite positions and 11,869 nominal positions with 13,658 nominal readings.
 
 PG723 · [Named acts of seeing, customary duties and levies](named_seeing_customary_entitlement_and_avakraya/README.md). Constructs 29 source-qualified case fibres for 4.4.46–50. Padamañjarī preserves the ritual and action-based hotṛ accounts. The distinct customary-duty and avakraya queries share stems but keep their meanings and gender separate. Census 52,341 finite positions and 11,821 nominal positions with 13,608 nominal readings.
 
