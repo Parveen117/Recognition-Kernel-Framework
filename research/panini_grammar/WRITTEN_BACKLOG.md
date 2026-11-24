@@ -1,6 +1,8 @@
-# Written-development backlog at PG736
+# Written-development backlog at PG737
 
-Monty · 2026-11-24 · reviewed current parent 62e98a2fb6c0771a03b96bf25a75e76d2ffb0132. Historical closures below retain their exact pins.
+Monty · 2026-11-24 · reviewed current parent e6cdd3d73118015c615d834eaaab6016502ad20a. Historical closures below retain their exact pins.
+
+PG737 · [The ordered yat pairs, price interpretations and licensed furrow heads](ordered_yat_boat_price_and_furrow_relations/README.md). The 4.4.91–92 yat profiles, 7.1.11–13 parallels and two exact Śākala nau cases are locally CLOSED. PG651’s ordinary nau and PG736’s crop stay closed with zero repeated credit. PG736’s three dhenuṣyā GENpl spellings have count-neutral keyed corrections. The observed uttara alternative and acoustic source of navigable nāvya remain Open. Continue 4.4.93–97, and preserve the wider unconstructed C2–C5 and unresolved S1–S7 work, S5 99/103, and Claude-deferred implementation.
 
 PG736 · [Footprint visibility, uprooting and the two gārhapatya histories](footprint_uprooting_and_two_garhapatya_histories/README.md). The written stage closes P 4.4.86–90 on the selected case fibres and four vṛh witness cells. The b readings, expanded lexicon, Vedic accent and additional root or case domains retain the precise Open obligations enumerated in the stage. P 4.4.91 and the Haima monetary distinctions are next concrete derivational work. Earlier C2–C5 and S1–S7 remain Open, including S5 99/103 and S6 5.56 k-it positive effect. Claude owns the deferred implementation work.
 

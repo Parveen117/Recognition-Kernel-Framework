@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG737 · [The ordered yat pairs, price interpretations and licensed furrow heads](research/panini_grammar/ordered_yat_boat_price_and_furrow_relations/README.md). The PG14 typed lift composes the ordered operand filter with restricted compound-head admission and case-specific readout. Zero specialization preserves the original scope of both mūla and dharma histories.
+
 PG736 · [Footprint visibility, uprooting and the two gārhapatya histories](research/panini_grammar/footprint_uprooting_and_two_garhapatya_histories/README.md). The PG14 lift keeps the actual NOM/LOC and NOM/GEN supports, finite strength, the named fire and household abstract in separate typed grades. The case and finite readouts commute with their typed zero projections.
 
 PG735 · [Piercing conditions and the two cases governed by labdhā](research/panini_grammar/piercing_instrument_guards_and_labdha_case_government/README.md). The PG14 histories keep separate P and Haima instrument masks and the tṛn and tṛc government edges. Typed zero specialization recovers the two different object cases on one segmental labdhā.

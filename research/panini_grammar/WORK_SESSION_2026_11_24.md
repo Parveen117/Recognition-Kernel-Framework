@@ -2,6 +2,16 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG737 · The ordered yat pairs, price interpretations and licensed furrow heads
+
+PG737 · [The ordered yat pairs, price interpretations and licensed furrow heads](ordered_yat_boat_price_and_furrow_relations/README.md). Derives the boat, friend, fruit, punishment, monetary, furrow and balance families and four named ablatival conditions. The primary Mahābhāṣya supplies the restricted furrow-head rule, and the physical Haima page separates the uprooted crop from two money readings. Census 52,345 finite positions and 18,383 nominal positions with 20,823 nominal readings.
+
+Zero new finite positions or readings. 530 new nominal positions and 551 readings, including two individually attested Śākala cases. Three older nominal readings replaced, with no net change from those corrections. One morphology construction with 38 interfaces, one compound construction with five plans, one accent construction with five records, one semantic construction with eleven readouts, one syntax construction with thirteen readouts, and one junction construction with ten readouts. 20 source observations and 14 source-policy decisions. Publication parent e6cdd3d73118015c615d834eaaab6016502ad20a. The containing commit pins the documents and evidence.
+
+PG521–737 cumulative adds 526 finite positions and 1,444 net finite readings, and 12,605 nominal positions with 14,080 readings. 311 morphology constructions with 3,478 interfaces, 143 compound constructions with 662 plans, 43 accent constructions with 171 records, 169 semantic constructions with 578 readouts, and 158 syntax constructions with 673 readouts. Source-policy decisions total 437 after PG555−1 and observations 866. The PG680 onward junction total is 41 constructions with 188 readouts. The PG700 onward nonfinite total remains 22 constructions with 28 paths. PG335 and PG357–363 CLOSED results retain their pins.
+
+The 4.4.91–92 yat profiles, 7.1.11–13 parallels and two exact Śākala nau cases are locally CLOSED. PG651’s ordinary nau and PG736’s crop stay closed with zero repeated credit. PG736’s three dhenuṣyā GENpl spellings have count-neutral keyed corrections. The observed uttara alternative and acoustic source of navigable nāvya remain Open. Continue 4.4.93–97, and preserve the wider unconstructed C2–C5 and unresolved S1–S7 work, S5 99/103, and Claude-deferred implementation.
+
 ## PG736 · Footprint visibility, uprooting and the two gārhapatya histories
 
 PG736 · [Footprint visibility, uprooting and the two gārhapatya histories](footprint_uprooting_and_two_garhapatya_histories/README.md). Derives the visible footprint and uprooted crop conditions, distinguishes the three qualified milk-pledge or caretaker profiles, and gives four attested ud-vṛh forms. The Dvivedī Manu leaf confirms the two v letters where two other editions give b. The ritual fire and householder abstract preserve separate affixes and Vedic witnesses. Census 52,345 finite positions and 17,853 nominal positions with 20,272 nominal readings.
