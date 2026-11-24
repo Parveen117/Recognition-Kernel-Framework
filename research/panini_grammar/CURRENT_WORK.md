@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG716
+# Pāṇini grammar · current written coverage at PG717
+
+PG717 · [Hemacandra’s kīnāśa and two grain-ear roots](haima_kinasa_kanisa_and_possessive_kanisa/README.md). Adds the fourth source-qualified Yama formation, seven selected nominal fibres and two independent Amarasudhā analyses of kaṇiśa. Hemacandra’s distinct root vowels and affix markers survive case specialization. Census 52,341 finite positions and 10,021 nominal positions with 11,635 nominal readings.
 
 PG716 · [Censured giving, paired loan affixes and vārdhuṣi](censured_lending_owned_suffixes_and_amara_controls/README.md). Writes five masculine lending stems, two specifically licensed feminines and the separate Amara i-stem. The two vārdhuṣika analyses converge while the creditor/repayment interface, lexical ka-lopa and distinct accent owners stay explicit. Census 52,341 finite positions and 9,853 nominal positions with 11,460 nominal readings.
 

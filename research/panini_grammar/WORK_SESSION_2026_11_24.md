@@ -2,6 +2,16 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG717 · Hemacandra’s kīnāśa and two grain-ear roots
+
+PG717 · [Hemacandra’s kīnāśa and two grain-ear roots](haima_kinasa_kanisa_and_possessive_kanisa/README.md). Adds the fourth source-qualified Yama formation, seven selected nominal fibres and two independent Amarasudhā analyses of kaṇiśa. Hemacandra’s distinct root vowels and affix markers survive case specialization. Census 52,341 finite positions and 10,021 nominal positions with 11,635 nominal readings.
+
+Finite increments 0 positions/0 readings. Nominal increments 168 positions/175 readings. One morphology construction/7 interfaces, one compound construction/one plan and one semantic construction/5 readouts. 13 source observations and 8 source-policy decisions. Publication parent feec1b8c35ff89e69cf717fd6254ed4aa37af251. The containing commit pins the documents and evidence.
+
+PG521–717 cumulative: 522 finite positions/1,440 net finite readings, 4,243 nominal positions/4,892 readings, 291 morphology constructions/2,992 interfaces, 131 compound constructions/601 plans, 30 accent constructions/118 records, 154 semantics constructions/459 records, 139 syntax constructions/477 records, 177 source-policy decisions after PG555−1 and 513 observations. Twenty-two junction constructions/64 readouts since PG680 and 20 nonfinite constructions/26 paths since PG700. Four provenance corrections and one proof addendum. PG335 and PG357–363 CLOSED results are preserved.
+
+The Hema 530, 533–535 controls, three named new kīnāśa senses, and the Śrīvallabha grain-ear gender fibres are locally CLOSED. Amarasudhā supplies two distinct kaṇiśa formation paths. The older Yama, miser, cultivator and hair positions take no repeat credit. The independent five-pāda k effect, exact OCR glyphs, Nighaṇṭu secondary e reading and the remaining source/gender/accent issues stay Open. The C4 4.4.32–36 semantic contrast is still a live construction queue. Wider C2–C5/S1–S7 stay on the underlying registers and Claude retains execution.
+
 ## PG716 · Censured giving, paired loan affixes and vārdhuṣi
 
 PG716 · [Censured giving, paired loan affixes and vārdhuṣi](censured_lending_owned_suffixes_and_amara_controls/README.md). Writes five masculine lending stems, two specifically licensed feminines and the separate Amara i-stem. The two vārdhuṣika analyses converge while the creditor/repayment interface, lexical ka-lopa and distinct accent owners stay explicit. Census 52,341 finite positions and 9,853 nominal positions with 11,460 nominal readings.

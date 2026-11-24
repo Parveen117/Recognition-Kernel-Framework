@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG717 · [Hemacandra’s kīnāśa and two grain-ear roots](haima_kinasa_kanisa_and_possessive_kanisa/README.md). Adds the fourth source-qualified Yama formation, seven selected nominal fibres and two independent Amarasudhā analyses of kaṇiśa. Hemacandra’s distinct root vowels and affix markers survive case specialization. Census 52,341 finite positions and 10,021 nominal positions with 11,635 nominal readings.
+
 PG716 · [Censured giving, paired loan affixes and vārdhuṣi](censured_lending_owned_suffixes_and_amara_controls/README.md). Writes five masculine lending stems, two specifically licensed feminines and the separate Amara i-stem. The two vārdhuṣika analyses converge while the creditor/repayment interface, lexical ka-lopa and distinct accent owners stay explicit. Census 52,341 finite positions and 9,853 nominal positions with 11,460 nominal readings.
 
 PG715 · [Vedic kṛtha, kṛta and the remedy plurals](vedic_kri_root_present_aorist_and_remedy_plurals/README.md). Constructs five selected finite keys and five nominal keys. The bare and prefixed root-aorist imperatives retain their sources, akran anchors aug and chli-luk membership, and the two remedy NOMpl spellings have a descriptive case relation with the exact traditional marker issue still Open. Census 52,341 finite positions and 9,661 nominal positions with 11,261 nominal readings.

@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG717 · [Hemacandra’s kīnāśa and two grain-ear roots](research/panini_grammar/haima_kinasa_kanisa_and_possessive_kanisa/README.md). The typed relation distinguishes vowel substitution, kit and the lexical grain-ear body. The same written output retains the four school-specific Yama histories and the distinct grain-ear mechanisms. The typed PG14 proof covers the full set of admitted interfaces. 168 new nominal keys and 175 readings. Wider gates remain Open.
+
 PG716 · [Censured giving, paired loan affixes and vārdhuṣi](research/panini_grammar/censured_lending_owned_suffixes_and_amara_controls/README.md). The actual 4.4.30–31 creditor, due amount and repayment roles precede suffix selection. The selected vṛdhuṣi substitution and independent lexical entry preserve distinct histories through the same case outputs. The stage lifts them into the complete PG14 history carrier.
 
 PG715 · [Vedic kṛtha, kṛta and the remedy plurals](research/panini_grammar/vedic_kri_root_present_aorist_and_remedy_plurals/README.md). The Vedic root-present, three root-aorist requests and the curādi affliction request use distinct augment, marker and inflection addresses. A separate source-qualified nominal relation retains short-i case analogies and the āmayati homograph under typed PG14 specialization.

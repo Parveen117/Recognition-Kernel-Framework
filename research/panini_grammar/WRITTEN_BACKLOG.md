@@ -1,6 +1,8 @@
-# Written-development backlog at PG716
+# Written-development backlog at PG717
 
-Monty · 2026-11-24 · reviewed current parent 56590d17e699b8258e00bd5a38cc6dd7331fbc38. Historical closures below retain their exact pins.
+Monty · 2026-11-24 · reviewed current parent feec1b8c35ff89e69cf717fd6254ed4aa37af251. Historical closures below retain their exact pins.
+
+PG717 · [Hemacandra’s kīnāśa and two grain-ear roots](haima_kinasa_kanisa_and_possessive_kanisa/README.md). The Hema 530, 533–535 controls, three named new kīnāśa senses, and the Śrīvallabha grain-ear gender fibres are locally CLOSED. Amarasudhā supplies two distinct kaṇiśa formation paths. The older Yama, miser, cultivator and hair positions take no repeat credit. The independent five-pāda k effect, exact OCR glyphs, Nighaṇṭu secondary e reading and the remaining source/gender/accent issues stay Open. The C4 4.4.32–36 semantic contrast is still a live construction queue. Wider C2–C5/S1–S7 stay on the underlying registers and Claude retains execution.
 
 PG716 · [Censured giving, paired loan affixes and vārdhuṣi](censured_lending_owned_suffixes_and_amara_controls/README.md). Selected 4.4.30–31 lending and Amara case fibres are locally CLOSED at 192 positions/199 readings. Padamañjarī supplies the two earlier kūla bahuvrīhi controls and both paripārśva readings, with zero repeat nominal credit. The short triguṇika witness, long-ū metadata, wider doubling, the unlocated Padamañjarī quotation and original vārttika authority remain distinct Open obligations. Next C4 includes the active 4.4.32–36 semantic contrasts. Wider C2–C5/S1–S7 and Claude execution stay explicit.
 
