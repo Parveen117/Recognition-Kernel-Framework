@@ -1,6 +1,8 @@
-# Written-development backlog at PG755
+# Written-development backlog at PG756
 
-Monty · 2026-11-24 · reviewed parent 14e1d19ffb882aaf057e5e55b9bf49f2545e6ba3. Historical closures below retain their exact pins.
+Monty · 2026-11-24 · reviewed parent a2cc20f51fbb092758c43936e2151603409786a5. Historical closures below retain their exact pins.
+
+PG756 · [Nine measures of Indra’s team, class sizes and two Brāhmaṇa titles](decades_harnessed_horses_and_measured_book_names/README.md). The independent application of the two 5.1.62 names to particular extant books and the exact source of PG755’s seven-group creation quotation remain Open. Continue 5.1.63–71, carrying the deserving predicate through its lexical exceptions until the inner suffix scope actually ends. Existing earlier deserving or Vedic case credits must be checked before additions. C2–C5 and S1–S7 remain Open.
 
 PG755 · [Measures of study, half-months and the twenty Aṅgiras seers](measured_study_calendar_months_and_twenty_angiras_seers/README.md). The exact source passage for the Kāśikā’s seven-group creation wording remains Open; the TS comparison independently establishes sāptāni under a different verb. Continue the intervening stipulated numerals and group alternatives at 5.1.59–60, then the named Brāhmaṇa titles at 62 and the deserving family from 63. Do not recount the 5.1.61 Vedic group. C2–C5 and S1–S7 remain Open.
 

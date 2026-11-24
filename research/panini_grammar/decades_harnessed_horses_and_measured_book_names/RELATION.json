@@ -1,0 +1,312 @@
+{
+  "stage": "PG756",
+  "morphology_interfaces": [
+    {
+      "id": "MET",
+      "base": "pañcan",
+      "guard": "measure of metre, stipulated",
+      "affix": "ti after ṭi loss",
+      "result": "paṅkti"
+    },
+    {
+      "id": "SER",
+      "base": "havis + paṅkti",
+      "guard": "series of offerings",
+      "affix": "compound with paṅkti as final member",
+      "result": "haviṣpaṅkti"
+    },
+    {
+      "id": "GEN",
+      "base": "paṅkti",
+      "guard": "anaphoric series in the ritual sentence",
+      "affix": "sup",
+      "result": "paṅkti"
+    },
+    {
+      "id": "ROW1",
+      "base": "brāhmaṇa + paṅkti",
+      "guard": "conventional row sense",
+      "affix": "compound",
+      "result": "brāhmaṇapaṅkti"
+    },
+    {
+      "id": "ROW2",
+      "base": "pipīlikā + paṅkti",
+      "guard": "conventional row sense",
+      "affix": "compound",
+      "result": "pipīlikāpaṅkti"
+    },
+    {
+      "id": "20",
+      "base": "two tens",
+      "guard": "vin substitute",
+      "affix": "śatic",
+      "result": "viṃśati"
+    },
+    {
+      "id": "30",
+      "base": "three tens",
+      "guard": "trin substitute",
+      "affix": "śat",
+      "result": "triṃśat"
+    },
+    {
+      "id": "40",
+      "base": "four tens",
+      "guard": "catvārin substitute",
+      "affix": "śat",
+      "result": "catvāriṃśat"
+    },
+    {
+      "id": "50",
+      "base": "five tens",
+      "guard": "pañcā substitute",
+      "affix": "śat",
+      "result": "pañcāśat"
+    },
+    {
+      "id": "60",
+      "base": "six tens",
+      "guard": "ṣaḍ, expressly not a pada here",
+      "affix": "ti",
+      "result": "ṣaṣṭi"
+    },
+    {
+      "id": "70",
+      "base": "seven tens",
+      "guard": "sapta substitute",
+      "affix": "ti",
+      "result": "saptati"
+    },
+    {
+      "id": "80",
+      "base": "eight tens",
+      "guard": "aśī substitute",
+      "affix": "ti",
+      "result": "aśīti"
+    },
+    {
+      "id": "90",
+      "base": "nine tens",
+      "guard": "nava substitute",
+      "affix": "ti",
+      "result": "navati"
+    },
+    {
+      "id": "100",
+      "base": "ten tens",
+      "guard": "śa substitute",
+      "affix": "ta",
+      "result": "śata"
+    },
+    {
+      "id": "C5",
+      "base": "pañcan",
+      "guard": "varga of five",
+      "affix": "ḍati or kan",
+      "result": "pañcat / pañcaka"
+    },
+    {
+      "id": "C10",
+      "base": "daśan",
+      "guard": "varga of ten",
+      "affix": "ḍati or kan",
+      "result": "daśat / daśaka"
+    },
+    {
+      "id": "B30",
+      "base": "triṃśat",
+      "guard": "named Brāhmaṇa text, thirty chapters",
+      "affix": "ḍaṇ",
+      "result": "traiṃśa"
+    },
+    {
+      "id": "B40",
+      "base": "catvāriṃśat",
+      "guard": "named Brāhmaṇa text, forty chapters",
+      "affix": "ḍaṇ",
+      "result": "cātvāriṃśa"
+    }
+  ],
+  "nominal_positions": [
+    {
+      "id": "MET",
+      "source": "SB",
+      "input_history": "MET",
+      "case_number": "F NOMsg",
+      "word": "paṅktiḥ",
+      "interpretation": "Predicate with pañcapadā, the five-footed metre."
+    },
+    {
+      "id": "SER",
+      "source": "SB",
+      "input_history": "SER",
+      "case_number": "F INSsg",
+      "word": "haviṣpaṅktyā",
+      "interpretation": "By the series of the five separately enumerated offerings."
+    },
+    {
+      "id": "END",
+      "source": "SB",
+      "input_history": "GEN",
+      "case_number": "F GENsg",
+      "word": "paṅkteḥ",
+      "interpretation": "Etasyāḥ and the wish for completeness identify the genitive series."
+    },
+    {
+      "id": "ROW1",
+      "source": "K59",
+      "input_history": "ROW1",
+      "case_number": "F NOMsg",
+      "word": "brāhmaṇapaṅktiḥ",
+      "interpretation": "A row of Brahmins, cardinality unspecified."
+    },
+    {
+      "id": "ROW2",
+      "source": "K59",
+      "input_history": "ROW2",
+      "case_number": "F NOMsg",
+      "word": "pipīlikāpaṅktiḥ",
+      "interpretation": "A line of ants, cardinality unspecified."
+    },
+    {
+      "id": "20",
+      "source": "RV5",
+      "input_history": "20",
+      "case_number": "F INSsg",
+      "word": "viṃśatyā",
+      "interpretation": "Twenty of the team."
+    },
+    {
+      "id": "30",
+      "source": "RV5",
+      "input_history": "30",
+      "case_number": "F INSsg",
+      "word": "triṃśatā",
+      "interpretation": "Thirty of the team."
+    },
+    {
+      "id": "40",
+      "source": "RV5",
+      "input_history": "40",
+      "case_number": "F INSsg",
+      "word": "catvāriṃśatā",
+      "interpretation": "Forty of the team."
+    },
+    {
+      "id": "50",
+      "source": "RV5",
+      "input_history": "50",
+      "case_number": "F INSsg",
+      "word": "pañcāśatā",
+      "interpretation": "Fifty of the team."
+    },
+    {
+      "id": "60",
+      "source": "RV5",
+      "input_history": "60",
+      "case_number": "F INSsg",
+      "word": "ṣaṣṭyā",
+      "interpretation": "Sixty, restored metrically as ṣaṣṭiyā in the modern edition."
+    },
+    {
+      "id": "70",
+      "source": "RV5",
+      "input_history": "70",
+      "case_number": "F INSsg",
+      "word": "saptatyā",
+      "interpretation": "Seventy of the team."
+    },
+    {
+      "id": "80",
+      "source": "RV6",
+      "input_history": "80",
+      "case_number": "F INSsg",
+      "word": "aśītyā",
+      "interpretation": "Eighty of the team."
+    },
+    {
+      "id": "90",
+      "source": "RV6",
+      "input_history": "90",
+      "case_number": "F INSsg",
+      "word": "navatyā",
+      "interpretation": "Ninety of the team."
+    },
+    {
+      "id": "100",
+      "source": "RV6",
+      "input_history": "100",
+      "case_number": "N INSsg",
+      "word": "śatena",
+      "interpretation": "A hundred horses in this line."
+    },
+    {
+      "id": "PRICE",
+      "source": "R8",
+      "input_history": "100",
+      "case_number": "N DATsg",
+      "word": "śatāya",
+      "interpretation": "An offer for a hundred; a separate dative word."
+    },
+    {
+      "id": "C5",
+      "source": "K60",
+      "input_history": "C5",
+      "case_number": "M NOMsg",
+      "word": "pañcat / pañcakaḥ",
+      "interpretation": "Five as the specification of vargaḥ; citation in contact pañcad vargaḥ."
+    },
+    {
+      "id": "C10",
+      "source": "K60",
+      "input_history": "C10",
+      "case_number": "M NOMsg",
+      "word": "daśat / daśakaḥ",
+      "interpretation": "Ten as the specification of vargaḥ; citation in contact daśad vargaḥ."
+    },
+    {
+      "id": "B30",
+      "source": "K62",
+      "input_history": "B30",
+      "case_number": "N NOMpl",
+      "word": "traiṃśāni",
+      "interpretation": "Named Brāhmaṇa books of thirty chapters on the grammatical account."
+    },
+    {
+      "id": "B40",
+      "source": "K62",
+      "input_history": "B40",
+      "case_number": "N NOMpl",
+      "word": "cātvāriṃśāni",
+      "interpretation": "Named Brāhmaṇa books of forty chapters."
+    }
+  ],
+  "source_policy_decisions": [
+    {
+      "id": "ROW",
+      "sources": "K59,SB",
+      "decision": "Five feet are explicit in the metre and five items in the ritual list. A line of ants need not have five members."
+    },
+    {
+      "id": "TEAM",
+      "sources": "RV5,RV6,MR",
+      "decision": "The number's case and grammatical number belong to the numeral. The restored extra syllable in the edition has no second case credit."
+    },
+    {
+      "id": "PRICE",
+      "sources": "R8",
+      "decision": "The price construction gives another inflection of the lexical hundred, without an outer price derivative."
+    },
+    {
+      "id": "CLASS",
+      "sources": "K59,K60",
+      "decision": "The pre-varga d spelling is voiced contact of the final stop. The optional kan is an independently licensed alternative."
+    },
+    {
+      "id": "TITLE",
+      "sources": "K62,H,KAU,AIT",
+      "decision": "The evidence verifies the two chapter counts. Edition identity rests on Haug's interpretation; exact independent occurrences of the names for those specific books remain Open."
+    }
+  ]
+}

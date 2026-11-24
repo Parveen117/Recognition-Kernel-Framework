@@ -2,6 +2,12 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG756 · Nine measures of Indra’s team, class sizes and two Brāhmaṇa titles
+
+PG756 · [Nine measures of Indra’s team, class sizes and two Brāhmaṇa titles](decades_harnessed_horses_and_measured_book_names/README.md). Derives 5.1.59–60 and 62 using the nine instrumental singulars of RV 2.18.5–6, the Śatapatha five-offering passage and the named book cases. 19 new nominal positions and 21 readings. Finite positions and readings both increased by zero. One written morphology construction with 18 interfaces, 11 source observations and 5 source decisions. Census: 52,345 finite positions, 20,608 nominal positions and 23,294 nominal readings.
+
+Parent a2cc20f51fbb092758c43936e2151603409786a5. The containing commit pins this packet. The independent application of the two 5.1.62 names to particular extant books and the exact source of PG755’s seven-group creation quotation remain Open. Continue 5.1.63–71, carrying the deserving predicate through its lexical exceptions until the inner suffix scope actually ends. Existing earlier deserving or Vedic case credits must be checked before additions. C2–C5 and S1–S7 remain Open. Claude retains execution.
+
 ## PG755 · Measures of study, half-months and the twenty Aṅgiras seers
 
 PG755 · [Measures of study, half-months and the twenty Aṅgiras seers](measured_study_calendar_months_and_twenty_angiras_seers/README.md). Derives the measures and counted classes at 5.1.56–58 with a direct 5.1.61 Vedic cross-reference, including the accusative seers in the Gopatha Brāhmaṇa. 21 new nominal positions and 21 readings. Finite positions and readings both increased by zero. One written morphology construction with 23 interfaces, 9 source observations and 6 source decisions. Census: 52,345 finite positions, 20,589 nominal positions and 23,273 nominal readings.

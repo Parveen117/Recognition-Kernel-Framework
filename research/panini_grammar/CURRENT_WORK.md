@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG755
+# Pāṇini grammar · current written coverage at PG756
+
+PG756 · [Nine measures of Indra’s team, class sizes and two Brāhmaṇa titles](decades_harnessed_horses_and_measured_book_names/README.md). Derives 5.1.59–60 and 62 using the nine instrumental singulars of RV 2.18.5–6, the Śatapatha five-offering passage and the named book cases. Census: 52,345 finite positions, 20,608 nominal positions and 23,294 nominal readings.
 
 PG755 · [Measures of study, half-months and the twenty Aṅgiras seers](measured_study_calendar_months_and_twenty_angiras_seers/README.md). Derives the measures and counted classes at 5.1.56–58 with a direct 5.1.61 Vedic cross-reference, including the accusative seers in the Gopatha Brāhmaṇa. Census: 52,345 finite positions, 20,589 nominal positions and 23,273 nominal readings.
 
