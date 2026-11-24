@@ -1,6 +1,8 @@
-# Written-development backlog at PG721
+# Written-development backlog at PG722
 
-Monty · 2026-11-24 · reviewed current parent 83d5fc260dc8fcb9eb8d5b5e0e89d350dfc6e81e. Historical closures below retain their exact pins.
+Monty · 2026-11-24 · reviewed current parent 0bdd99d35e457df57c6ec1110c35987c04adf738. Historical closures below retain their exact pins.
+
+PG722 · [Habitual conduct and the two pratipatha suffixes](habitual_conduct_and_pratipatha_affix_policies/README.md). Selected 4.4.41–42 cases and the directly parallel Haima 6.4.39 outputs are locally CLOSED. Both Mahābhāṣya grounds and Nyāsa’s independent ca scope remain addressable. The raw Nyāsa path spellings, additional cited gender and pitch witnesses, and the case placement of Haima 6.4.33 stay Open. The 4.4.46–50 teaching, entitlement and levy construction and parallel Haima 6.4.37, 6.4.40–41 remain live. Wider C2–C5/S1–S7 and Claude execution stay on their registers.
 
 PG721 · [Running paths, distress calls and word members](running_paths_distress_calls_and_word_members/README.md). Selected 4.4.37–40 masculine and attested ākranda feminine fibres are locally CLOSED. The two ākranda accents, verb-specific compound eligibility and Nyāsa’s reported verse-word scope remain distinct. The short Nyāsa toll spelling and exact scope beyond the admitted examples, further feminines and accent sources remain Open. 4.4.41–42 and subsequent C4 pairs still need their own derivations. Wider C2–C5/S1–S7 and Claude execution retain their separate obligations.
 

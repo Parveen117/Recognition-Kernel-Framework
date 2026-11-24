@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG722 · [Habitual conduct and the two pratipatha suffixes](research/panini_grammar/habitual_conduct_and_pratipatha_affix_policies/README.md). The two conduct and two path fibres carry 96 nominal positions and 150 readings. The two suffix-conditioned stems of pratipatha and the competing rules for adharma preserve their own typed histories after zero specialization.
+
 PG721 · [Running paths, distress calls and word members](research/panini_grammar/running_paths_distress_calls_and_word_members/README.md). The typed construction combines inner compound form, route or taking role, local ṭhak/ṭhañ choice, sound grade, accent and case. It contains 336 nominal positions and 348 readings and preserves role and accent histories at zero.
 
 PG720 · [Bhaṭṭi’s āghnāna and vidhyamāna](research/panini_grammar/bhatti_aghnaana_loci_and_vidhyamaana/README.md). Two participial constructors retain independent root, voice, argument and muk/grade histories. The two source contexts and surface-mood ambiguity specialize on the full PG14 carrier. 48 new nominal positions and 50 readings.

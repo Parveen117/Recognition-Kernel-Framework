@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG722 · [Habitual conduct and the two pratipatha suffixes](habitual_conduct_and_pratipatha_affix_policies/README.md). Writes four masculine case fibres. The two Mahābhāṣya passages and Nyāsa supply three authorization paths for ādharmika. Paired Pāṇinian and Haima suffixes agree in the sounds of pratipathika and prātipathika. Census 52,341 finite positions and 11,125 nominal positions with 12,883 nominal readings.
+
 PG721 · [Running paths, distress calls and word members](running_paths_distress_calls_and_word_members/README.md). Derives fourteen 4.4.37–40 case fibres. Two ākranda senses take both ṭhañ and ṭhak with independently confirmed accents, while the taking rules require the actual lexical compound members. Census 52,341 finite positions and 11,029 nominal positions with 12,733 nominal readings.
 
 PG720 · [Bhaṭṭi’s āghnāna and vidhyamāna](bhatti_aghnaana_loci_and_vidhyamaana/README.md). Identifies the actual participles at Apte’s two references and locates Jayamaṅgalā’s explanations. The two case fibres keep actor-middle han and passive vyadh apart. Census 52,341 finite positions and 10,693 nominal positions with 12,385 nominal readings.

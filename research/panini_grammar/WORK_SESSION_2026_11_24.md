@@ -2,6 +2,16 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG722 · Habitual conduct and the two pratipatha suffixes
+
+PG722 · [Habitual conduct and the two pratipatha suffixes](habitual_conduct_and_pratipatha_affix_policies/README.md). Writes four masculine case fibres. The two Mahābhāṣya passages and Nyāsa supply three authorization paths for ādharmika. Paired Pāṇinian and Haima suffixes agree in the sounds of pratipathika and prātipathika. Census 52,341 finite positions and 11,125 nominal positions with 12,883 nominal readings.
+
+Finite increments 0 positions/0 readings. Nominal increments 96 positions/150 readings. One morphology construction/14 interfaces, one compound construction/7 plans, one syntax construction/11 readouts, one accent construction/4 records and one junction construction/2 readouts. 15 source observations and 12 source-policy decisions. Publication parent 0bdd99d35e457df57c6ec1110c35987c04adf738. The containing commit pins the documents and evidence.
+
+PG521–722 cumulative: 522 finite positions/1,440 net finite readings, 5,347 nominal positions/6,140 readings, 296 morphology constructions/3,057 interfaces, 134 compound constructions/617 plans, 32 accent constructions/126 records, 154 semantics constructions/459 records, 144 syntax constructions/528 records, 227 source-policy decisions after PG555−1 and 583 observations. Twenty-six junction constructions/80 readouts since PG680 and 22 nonfinite constructions/28 paths since PG700. Four provenance corrections and one proof addendum. PG335 and PG357–363 CLOSED results are preserved.
+
+Selected 4.4.41–42 cases and the directly parallel Haima 6.4.39 outputs are locally CLOSED. Both Mahābhāṣya grounds and Nyāsa’s independent ca scope remain addressable. The raw Nyāsa path spellings, additional cited gender and pitch witnesses, and the case placement of Haima 6.4.33 stay Open. The 4.4.46–50 teaching, entitlement and levy construction and parallel Haima 6.4.37, 6.4.40–41 remain live. Wider C2–C5/S1–S7 and Claude execution stay on their registers.
+
 ## PG721 · Running paths, distress calls and word members
 
 PG721 · [Running paths, distress calls and word members](running_paths_distress_calls_and_word_members/README.md). Derives fourteen 4.4.37–40 case fibres. Two ākranda senses take both ṭhañ and ṭhak with independently confirmed accents, while the taking rules require the actual lexical compound members. Census 52,341 finite positions and 11,029 nominal positions with 12,733 nominal readings.
