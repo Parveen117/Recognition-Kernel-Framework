@@ -1,0 +1,134 @@
+{
+  "publication_parent": "83d5fc260dc8fcb9eb8d5b5e0e89d350dfc6e81e",
+  "date": "2026-11-24",
+  "project_dependencies": [
+    {
+      "commit": "83d5fc260dc8fcb9eb8d5b5e0e89d350dfc6e81e",
+      "path": "research/panini_grammar/bhatti_aghnaana_loci_and_vidhyamaana/STATE.json",
+      "git_blob_sha": "ea727c60e8ada94436f555299c7d804add0c19ec",
+      "sha256": "d2ea43206b85210c6986ad2dd437d4b1a7234fd3283407c3700032245541b7dd",
+      "bytes": 2688,
+      "use": "Fetched current census and S1 advance"
+    },
+    {
+      "commit": "b05e46bf78f165e17c4766d6d1179a1699a72fcf",
+      "path": "research/panini_grammar/grammar_construction/NATIVE_OPERATOR_LIFT.md",
+      "git_blob_sha": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+      "sha256": "f52e7f5cf539ef56859b890669ef738848491e4005e73be75baa49c899b5dafd",
+      "bytes": 11855,
+      "use": "Full PG14 typed operator/history construction"
+    },
+    {
+      "commit": "7842aa911bc4570c5e0d07125d0a1170b1753f38",
+      "path": "research/panini_grammar/taddhita_functional/RULES_4_4_A.md",
+      "git_blob_sha": "1245b03888b3faeb8bf9647b7abad5e089182b29",
+      "sha256": "fdf5739acfe0ca426f12957b65af6d664d7b494c4b7cf39da9f183b5b74f59aa",
+      "bytes": 18791,
+      "use": "Inherited 4.4.37–40 selection contracts without complete word credits"
+    },
+    {
+      "commit": "7842aa911bc4570c5e0d07125d0a1170b1753f38",
+      "path": "research/panini_grammar/taddhita_functional/SOURCE_EXCERPTS.json",
+      "git_blob_sha": "31e85bd9fb220839f9162864d7040369e4c1e276",
+      "sha256": "61d315eabe902112f9af1f79ca00f2a49cc632164fa8349b2af5f76fecaf1c34",
+      "bytes": 673280,
+      "use": "Literal pinned Kāśikā and Vasu's written accents"
+    },
+    {
+      "commit": "24fa1f1f242ae5cbb7ff253702ff2ebf9d1a3b2a",
+      "path": "research/panini_grammar/vivadha_vivadha_owned_conveyance/PANELS.md",
+      "git_blob_sha": "3a131cf2edcd1473ed94ab1172a696109d508c49",
+      "sha256": "8c4424915194a0b5b1660a686913d158170ac98af75b03ca8f0f7d140949894d",
+      "bytes": 2012,
+      "use": "Masculine a and feminine ī case maps"
+    },
+    {
+      "commit": "83d5fc260dc8fcb9eb8d5b5e0e89d350dfc6e81e",
+      "path": "research/panini_grammar/SUTRAPATHA.tsv",
+      "git_blob_sha": "1840f3b5349b21112ac05a7efaa59705fd4efee0",
+      "sha256": "70dfdfe6ba433b6e211f0f01b078c1b6d13a1ad0938e06fd5789298a04583634",
+      "bytes": 270179,
+      "use": "Exact rule addresses and supporting grammar"
+    }
+  ],
+  "web_evidence": [
+    {
+      "id": "K37",
+      "url": "https://sanskritdocuments.org/~sanskrit/learning_tools/ashtadhyayi/vyakhya/4/4.4.37.htm",
+      "locator": "Kāśikā, Nyāsa, Bāla and Tattva at 4.4.37, lines 12–29.",
+      "use": "Four named running paths, exact anu compound policy, long/short toll spellings and lexical mātha origin."
+    },
+    {
+      "id": "BV",
+      "url": "https://sa.wikisource.org/wiki/भाषावृत्तिः/चतुर्थोऽध्यायः/चतुर्थः_पादः",
+      "locator": "Bhāṣāvṛtti 4.4.37–40.",
+      "use": "Independent examples for the running/word grouping and ṭhañ/ṭhak variant."
+    },
+    {
+      "id": "K38",
+      "url": "https://sanskritdocuments.org/~sanskrit/learning_tools/ashtadhyayi/vyakhya/4/4.4.38.htm",
+      "locator": "Kāśikā, Nyāsa and Bāla at 4.4.38, lines 14–25.",
+      "use": "Both ākranda destinations, two suffixes, feminine and reported accent."
+    },
+    {
+      "id": "VASU",
+      "url": "https://ashtadhyayi.com/vasu_english/17",
+      "locator": "S. C. Vasu 4.4.38, both masculine accent displays, also pinned through the PG36 source excerpt file.",
+      "use": "Distinct initial and final pitch examples in writing."
+    },
+    {
+      "id": "A165",
+      "url": "https://sanskritdocuments.org/~sanskrit/learning_tools/ashtadhyayi/vyakhya/6/6.1.165.htm",
+      "locator": "Kāśikā 6.1.165, line 14.",
+      "use": "Final accent in a kit taddhita, explicitly including ṭhak."
+    },
+    {
+      "id": "A197",
+      "url": "https://sanskritdocuments.org/~sanskrit/learning_tools/ashtadhyayi/vyakhya/6/6.1.197.htm",
+      "locator": "Kāśikā 6.1.197, line 14.",
+      "use": "Initial accent for a ñit or nit affix."
+    },
+    {
+      "id": "F15",
+      "url": "https://sanskritdocuments.org/~sanskrit/learning_tools/ashtadhyayi/vyakhya/4/4.1.15.htm",
+      "locator": "Kāśikā 4.1.15, feminine ṅīp after the two relevant affixes.",
+      "use": "Named pathway to the source feminine form."
+    },
+    {
+      "id": "K39",
+      "url": "https://sanskritdocuments.org/~sanskrit/learning_tools/ashtadhyayi/vyakhya/4/4.4.39.htm",
+      "locator": "Kāśikā, Nyāsa and Bāla at 4.4.39, lines 14–24.",
+      "use": "Actual word member required, bahuc control, reported verse-quarter word."
+    },
+    {
+      "id": "K40",
+      "url": "https://sanskritdocuments.org/~sanskrit/learning_tools/ashtadhyayi/vyakhya/4/4.4.40.htm",
+      "locator": "Kāśikā, Nyāsa, Bāla and Tattva at 4.4.40, lines 14–30.",
+      "use": "Two positive prati–kaṇṭha parses, one explicit rejected prādi path, artha and mark as separate lexical operands."
+    },
+    {
+      "id": "P40",
+      "url": "https://jainqq.org/explore/003298/527",
+      "locator": "Pāṇinīya Aṣṭādhyāyī Pravacanam, viewer leaf 527, 4.4.40.",
+      "use": "Heading's collection, while the three lexical bases individually take the affix."
+    },
+    {
+      "id": "DH",
+      "url": "https://sanskritdocuments.org/doc_z_misc_major_works/dhatupatha.html",
+      "locator": "01.0685 dhāvu gatī/śuddhi, 01.0983 mathe viloḍane and 09.0071 graha upādāne.",
+      "use": "Exact sources for running, the lexical path base and taking."
+    },
+    {
+      "id": "KR",
+      "url": "https://avg-sanskrit.org/2011/11/29/पाययत-2ap-लोँट्/",
+      "locator": "Krada at 01.0074, under an actual Bhāgavata krandanti example.",
+      "use": "Idit and num evidence for the bare root behind both ākranda senses."
+    },
+    {
+      "id": "B50",
+      "url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/html/sa_bhaTTi-rAvaNavadha.htm",
+      "locator": "Bhaṭṭikāvya 5.50, mṛgasyā’nupadī rāmo.",
+      "use": "Separate n-stem pursuit form as a comparison."
+    }
+  ]
+}

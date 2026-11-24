@@ -2,6 +2,16 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG721 · Running paths, distress calls and word members
+
+PG721 · [Running paths, distress calls and word members](running_paths_distress_calls_and_word_members/README.md). Derives fourteen 4.4.37–40 case fibres. Two ākranda senses take both ṭhañ and ṭhak with independently confirmed accents, while the taking rules require the actual lexical compound members. Census 52,341 finite positions and 11,029 nominal positions with 12,733 nominal readings.
+
+Finite increments 0 positions/0 readings. Nominal increments 336 positions/348 readings. One morphology construction/19 interfaces, one compound construction/8 plans, one syntax construction/14 readouts and one accent construction/4 records. 14 source observations and 10 source-policy decisions. Publication parent 83d5fc260dc8fcb9eb8d5b5e0e89d350dfc6e81e. The containing commit pins the documents and evidence.
+
+PG521–721 cumulative: 522 finite positions/1,440 net finite readings, 5,251 nominal positions/5,990 readings, 295 morphology constructions/3,043 interfaces, 133 compound constructions/610 plans, 31 accent constructions/122 records, 154 semantics constructions/459 records, 143 syntax constructions/517 records, 215 source-policy decisions after PG555−1 and 568 observations. Twenty-five junction constructions/78 readouts since PG680 and 22 nonfinite constructions/28 paths since PG700. Four provenance corrections and one proof addendum. PG335 and PG357–363 CLOSED results are preserved.
+
+Selected 4.4.37–40 masculine and attested ākranda feminine fibres are locally CLOSED. The two ākranda accents, verb-specific compound eligibility and Nyāsa’s reported verse-word scope remain distinct. The short Nyāsa toll spelling and exact scope beyond the admitted examples, further feminines and accent sources remain Open. 4.4.41–42 and subsequent C4 pairs still need their own derivations. Wider C2–C5/S1–S7 and Claude execution retain their separate obligations.
+
 ## PG720 · Bhaṭṭi’s āghnāna and vidhyamāna
 
 PG720 · [Bhaṭṭi’s āghnāna and vidhyamāna](bhatti_aghnaana_loci_and_vidhyamaana/README.md). Identifies the actual participles at Apte’s two references and locates Jayamaṅgalā’s explanations. The two case fibres keep actor-middle han and passive vyadh apart. Census 52,341 finite positions and 10,693 nominal positions with 12,385 nominal readings.

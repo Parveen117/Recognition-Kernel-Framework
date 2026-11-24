@@ -1,0 +1,62 @@
+{
+  "schema": "rkf.panini.pg721.state.v1",
+  "author": "Monty",
+  "date": "2026-11-24",
+  "publication_parent": "83d5fc260dc8fcb9eb8d5b5e0e89d350dfc6e81e",
+  "baseline": {
+    "commit": "83d5fc260dc8fcb9eb8d5b5e0e89d350dfc6e81e",
+    "path": "research/panini_grammar/bhatti_aghnaana_loci_and_vidhyamaana/STATE.json"
+  },
+  "finite_positions": 52341,
+  "nominal_positions": 11029,
+  "nominal_readings": 12733,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 336,
+  "new_nominal_readings": 348,
+  "new_positions": 336,
+  "new_position_readings": 348,
+  "new_morphology_constructions": 1,
+  "new_morphology_interfaces": 19,
+  "new_compound_constructions": 1,
+  "new_compound_plans": 8,
+  "new_semantic_constructions": 0,
+  "new_semantic_readouts": 0,
+  "new_accent_constructions": 1,
+  "new_accent_readouts": 4,
+  "new_phonological_constructions": 0,
+  "new_phonological_readouts": 0,
+  "new_syntactic_constructions": 1,
+  "new_syntactic_readouts": 14,
+  "new_nonfinite_constructions": 0,
+  "new_nonfinite_readouts": 0,
+  "new_source_observations": 14,
+  "new_source_policy_decisions": 10,
+  "local_closure": [
+    "Four named 4.4.37 masculine fibres and the exact anupada input construction.",
+    "Two ākranda senses with male/female fibres and distinct ṭhak/ṭhañ accent ownership.",
+    "Six exact selected 4.4.39–40 taking interfaces and tightly qualified compound support."
+  ],
+  "open_obligations": [
+    "The exact printed authority for the shorter Nyāsa śaulkamathika and complete history of the Tattva material displayed under 4.4.37.",
+    "Independent attestation of the reported ślaukapādapadika output and phonemic alternants beyond the named lexical and source addresses.",
+    "Further feminine and neuter addresses, dependent word pitch and accents outside the explicitly written masculine contrast. 4.4.41–42 need their own construction.",
+    "Wider C2–C5 and S1–S7 remain Open. Claude owns generators, grammar execution, old suites and replay."
+  ],
+  "authorization": {
+    "completion_status": "OPEN wider gates",
+    "PG335": "-9 finite/-12 readings preserved",
+    "PG357_PG363": "CLOSED preserved",
+    "continuous_executed_hours_claimed": false
+  },
+  "runtime_policy": {
+    "python": "3.12 only",
+    "document_check_status": "PASS",
+    "document_check_attempts": 1,
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "old_suites": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE"
+  },
+  "grammar_executions": []
+}

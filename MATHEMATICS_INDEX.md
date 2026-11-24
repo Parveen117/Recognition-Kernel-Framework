@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG721 · [Running paths, distress calls and word members](research/panini_grammar/running_paths_distress_calls_and_word_members/README.md). The typed construction combines inner compound form, route or taking role, local ṭhak/ṭhañ choice, sound grade, accent and case. It contains 336 nominal positions and 348 readings and preserves role and accent histories at zero.
+
 PG720 · [Bhaṭṭi’s āghnāna and vidhyamāna](research/panini_grammar/bhatti_aghnaana_loci_and_vidhyamaana/README.md). Two participial constructors retain independent root, voice, argument and muk/grade histories. The two source contexts and surface-mood ambiguity specialize on the full PG14 carrier. 48 new nominal positions and 50 readings.
 
 PG719 · [Species names, the two matsya readings and paripantha](research/panini_grammar/species_taddhitas_matsya_and_paripantha/README.md). The 4.4.35–36 relation keeps semantic membership, named commentary exclusions, inner grade and school-specific suffix paths at their own history addresses. The selected case fibres have 312 positions and 350 readings with typed PG14 specialization.

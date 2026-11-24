@@ -1,6 +1,8 @@
-# Written-development backlog at PG720
+# Written-development backlog at PG721
 
-Monty · 2026-11-24 · reviewed current parent 469c2a2088881724d2cc3ce4a73551e2132527aa. Historical closures below retain their exact pins.
+Monty · 2026-11-24 · reviewed current parent 83d5fc260dc8fcb9eb8d5b5e0e89d350dfc6e81e. Historical closures below retain their exact pins.
+
+PG721 · [Running paths, distress calls and word members](running_paths_distress_calls_and_word_members/README.md). Selected 4.4.37–40 masculine and attested ākranda feminine fibres are locally CLOSED. The two ākranda accents, verb-specific compound eligibility and Nyāsa’s reported verse-word scope remain distinct. The short Nyāsa toll spelling and exact scope beyond the admitted examples, further feminines and accent sources remain Open. 4.4.41–42 and subsequent C4 pairs still need their own derivations. Wider C2–C5/S1–S7 and Claude execution retain their separate obligations.
 
 PG720 · [Bhaṭṭi’s āghnāna and vidhyamāna](bhatti_aghnaana_loci_and_vidhyamaana/README.md). The exact Apte reference at 5.102 and the 1928 Jayamaṅgalā 5.102/8.15 source policies are locally CLOSED. The two masculine scope-selected participial fibres are constructed, with no repeat finite mā or āhadhvam credit. The attributed finite quotation, its lakāra and witness context remain Open under S1. The 4.4.37–42 construction queue and wider C2–C5/S1–S7 remain active. Claude retains execution.
 

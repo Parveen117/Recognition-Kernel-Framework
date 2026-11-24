@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG721 · [Running paths, distress calls and word members](running_paths_distress_calls_and_word_members/README.md). Derives fourteen 4.4.37–40 case fibres. Two ākranda senses take both ṭhañ and ṭhak with independently confirmed accents, while the taking rules require the actual lexical compound members. Census 52,341 finite positions and 11,029 nominal positions with 12,733 nominal readings.
+
 PG720 · [Bhaṭṭi’s āghnāna and vidhyamāna](bhatti_aghnaana_loci_and_vidhyamaana/README.md). Identifies the actual participles at Apte’s two references and locates Jayamaṅgalā’s explanations. The two case fibres keep actor-middle han and passive vyadh apart. Census 52,341 finite positions and 10,693 nominal positions with 12,385 nominal readings.
 
 PG719 · [Species names, the two matsya readings and paripantha](species_taddhitas_matsya_and_paripantha/README.md). Writes the twelve Pāṇinian species designations and the named waylayer family. The original Mahābhāṣya limits the fish synonym to mīna. Pāṇinian mātsyika and Haima mātsika attach to separate affix histories. Census 52,341 finite positions and 10,645 nominal positions with 12,335 nominal readings.
