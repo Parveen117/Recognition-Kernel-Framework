@@ -1,6 +1,8 @@
-# Written-development backlog at PG680
+# Written-development backlog at PG681
 
-Monty · 2026-11-24 · reviewed current parent 41672ee1e0ce1d4af9643accfe03ed116b5ad717; historical closures below retain their exact original pins.
+Monty · 2026-11-24 · reviewed current parent b8e504f4d8e117c40f04e7b5dff23d2f800aae2e; historical closures below retain their exact original pins.
+
+PG681 closes the [five Śaunaka contact decisions](shaunaka_o_a_absorption_and_ayam_scope/README.md) and the two local vo tone paths. 6.74.1's earlier `vo 'yam` and K's attested 19.36.5 `śātavāro ayam` are both Accepted with distinct source policies. Open: the cross-policy scope of 6.1.116, independent recensional/recitational collation and the yet unconstructed C2–C5 inventory. S1–S7 and Claude deferral retain their standing. Census unchanged.
 
 PG680 closes the [selected Śaunaka attestation, junction and accent contrast](shaunaka_sam_gam_attestation_and_owned_accent/README.md). Closed: adjacent P3sg witness at 6.32.2 and the different dependent accent targets in 6.32.2 and 6.74.1. Open text/recitation: adjudicate the earlier `vo 'yam` contact under the named 6.1.116 exception and collate the independent recensional evidence. Unconstructed: ordinary joined A-pada entitlement, other role or formation types and the remaining C2–C5 work. S1–S7 retain their own evidence. Claude-deferred: generators, execution, older suites and replay. Census 51,882 finite and 8,012 nominal/9,271 readings.
 

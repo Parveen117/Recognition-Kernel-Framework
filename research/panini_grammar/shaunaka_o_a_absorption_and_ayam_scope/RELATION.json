@@ -1,0 +1,108 @@
+{
+  "schema": "rkf.panini.pg681.relation.v1",
+  "scope": "five anchored Śaunaka e/o-before-short-a contacts and accent on the two 6.74.1 o vowels",
+  "junctions": [
+    {
+      "id": "J74c",
+      "locus": "6.74.1c",
+      "inputs": [
+        "vo.o",
+        "ayam.initial_a"
+      ],
+      "ca": "3.2.30",
+      "outcome": "absorb",
+      "surface": "vo 'yam",
+      "paninian": "6.1.115 y guard false; general 6.1.116 retention candidate unresolved for this locus"
+    },
+    {
+      "id": "J74d",
+      "locus": "6.74.1d",
+      "inputs": [
+        "vo.o",
+        "gam.aṭ.a"
+      ],
+      "ca": "3.2.31",
+      "outcome": "retain",
+      "surface": "vo ajīgamat",
+      "paninian": "PG680 6.1.115 control"
+    },
+    {
+      "id": "J36",
+      "locus": "19.36.5b",
+      "inputs": [
+        "śātavāro.o",
+        "ayam.initial_a"
+      ],
+      "ca": "3.2.31",
+      "outcome": "retain",
+      "surface": "śātavāro ayam",
+      "paninian": "explicitly cited by Kāśikā 6.1.116"
+    },
+    {
+      "id": "J17",
+      "locus": "5.17.1a",
+      "inputs": [
+        "te.e",
+        "avadan.initial_a"
+      ],
+      "ca": "3.2.30",
+      "outcome": "absorb",
+      "surface": "te 'vadan",
+      "paninian": "6.1.115 v guard false with avadan outside the exact 116 list"
+    },
+    {
+      "id": "J21",
+      "locus": "3.21.1a",
+      "inputs": [
+        "ye.e",
+        "agnayaḥ.initial_a"
+      ],
+      "ca": "3.2.31",
+      "outcome": "retain",
+      "surface": "ye agnayaḥ",
+      "paninian": "source-restricted 6.1.115 comparison"
+    }
+  ],
+  "accents": [
+    {
+      "id": "A74c",
+      "locus": "6.74.1c",
+      "target": "o jointly owned by vas/ayam contact",
+      "next": "ayam.final_a=U",
+      "ca": "3.3.21 and 25",
+      "outcome": "A, no dependent S",
+      "regional_policy": "Pāṇini 8.4.67 outside named schools and 1.2.40 lower A. Named exemption stays separate."
+    },
+    {
+      "id": "A74d",
+      "locus": "6.74.1d",
+      "target": "vo.o of vas alone",
+      "next": "gam.aṭ.a=A",
+      "ca": "3.3.18 and 13",
+      "outcome": "dependent tairovyañjana S",
+      "regional_policy": "PG680 dependent S control; no 8.4.67 blocker at this address"
+    }
+  ],
+  "excluded": [
+    "Choosing both readouts as free variants at either fixed textual address merely from kvacit",
+    "Transferring the aṭ owner to the first ayam contact",
+    "Assigning the earlier fused o a dependent svarita on the selected Śaunaka witness"
+  ],
+  "open": [
+    "Attribution of all recensional differences and precise distribution of the general Pāṇinian 6.1.116 exception outside its cited controls",
+    "Independent Paippalāda/lineage and recitation collation",
+    "Other sandhi, caṅ/pada/roles and C2–C5/S1–S7"
+  ],
+  "credit": {
+    "finite_positions": 0,
+    "finite_readings": 0,
+    "nominal_positions": 0,
+    "nominal_readings": 0,
+    "phonological_constructions": 1,
+    "phonological_readouts": 5,
+    "accent_constructions": 1,
+    "accent_readouts": 2,
+    "source_observations": 4,
+    "source_policy_decisions": 1
+  }
+}

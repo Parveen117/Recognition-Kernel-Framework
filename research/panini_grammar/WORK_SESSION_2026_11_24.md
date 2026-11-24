@@ -2,6 +2,16 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG681 · Śaunaka vowel absorption and the scope of ayam
+
+PG681: [Śaunaka vowel absorption and the scope of ayam](shaunaka_o_a_absorption_and_ayam_scope/README.md). The Śaunaka Prātiśākhya explains the contrast between absorbed `vo 'yam` and retained `vo ajīgamat` in 6.74.1. The independently located 19.36.5 `śātavāro ayam` confirms Kāśikā's 6.1.116 example. The written relation preserves the tension between extending that rule to the earlier contact and the transmitted absorption.
+
+One junction construction/five readouts, one accent construction/two readouts, four source observations and one source-policy decision. PG680's final contact is reused as a control for a different CA path. Zero new word positions/readings. Census 51,882 finite positions and 8,012 nominal positions/9,271 readings.
+
+PG521–681 cumulative: 63 finite positions/122 readings, 2,234 nominal positions/2,528 readings, 254 morphology constructions/1,520 interfaces, 122 compound constructions/583 plans, 15 accent constructions/61 records, 148 semantics constructions/433 records, 111 syntax constructions/307 records, 42 source-policy decisions after PG555−1, and 281 observations. Dedicated junction count since PG680 is two constructions/eight readouts. Two provenance corrections and one proof addendum. Historical PG335 and PG357–363 remain preserved.
+
+Closed on five addressed Śaunaka contacts and the two vo tone paths. General 6.1.116 scope outside the cited witnesses, independent recension/recitation, C2–C5 and S1–S7 stay Open. The containing commit is the publication pin. Claude retains execution, generators, untouched suites and replay.
+
 ## PG680 · Śaunaka sam–gam attestation and contextual accent
 
 PG680: [Śaunaka sam–gam attestation and contextual accent](shaunaka_sam_gam_attestation_and_owned_accent/README.md). AVŚ 6.32.2 attests adjacent `samajīgamat`; 6.74.1 places `vo` between the preverb and verb. The two contexts give dependent svarita to aṭ and to the clitic respectively. Sāyaṇa supplies the distinct role readings. Zero new word positions/readings.

@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG681: [Śaunaka vowel absorption and the scope of ayam](research/panini_grammar/shaunaka_o_a_absorption_and_ayam_scope/README.md). Typed junction operators preserve both incident vowel owners in a single substitute, and the accent guard reads the ordered result. Five addressed source-qualified contacts and two tone readouts recover at zero with their source policies.
+
 PG680: [Śaunaka sam–gam attestation and contextual accent](research/panini_grammar/shaunaka_sam_gam_attestation_and_owned_accent/README.md). The PG14 lift preserves the Śaunaka source and clitic/augment addresses through junction and accent selection. Its zero readout recovers the different owners of dependent svarita in AVŚ 6.32.2 and 6.74.1.
 
 PG679: [Joined sam–gam active-P caṅ completion](research/panini_grammar/sam_gam_joined_cang_active_p_completion/README.md). PG14's full carrier now lifts the bounded joined `sam + aṭ + jī + gam + caṅ-a + tiṅ` construction; typed zero specialization preserves prefix/aṭ and copy/root ownership. Nine new finite positions/readings; A-pada remains Open.

@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG680
+# Pāṇini grammar · current written coverage at PG681
+
+PG681: [Śaunaka vowel absorption and the scope of ayam](shaunaka_o_a_absorption_and_ayam_scope/README.md). The Śaunaka Prātiśākhya explains the contrast between absorbed `vo 'yam` and retained `vo ajīgamat` in 6.74.1. The independently located 19.36.5 `śātavāro ayam` confirms Kāśikā's 6.1.116 example. The written relation preserves the tension between extending that rule to the earlier contact and the transmitted absorption.
 
 PG680: [Śaunaka sam–gam attestation and contextual accent](shaunaka_sam_gam_attestation_and_owned_accent/README.md). AVŚ 6.32.2 attests adjacent `samajīgamat`; 6.74.1 places `vo` between the preverb and verb. The two contexts give dependent svarita to aṭ and to the clitic respectively. Sāyaṇa supplies the distinct role readings. Zero new word positions/readings.
 

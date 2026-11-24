@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG681: [Śaunaka vowel absorption and the scope of ayam](shaunaka_o_a_absorption_and_ayam_scope/README.md). The Śaunaka Prātiśākhya explains the contrast between absorbed `vo 'yam` and retained `vo ajīgamat` in 6.74.1. The independently located 19.36.5 `śātavāro ayam` confirms Kāśikā's 6.1.116 example. The written relation preserves the tension between extending that rule to the earlier contact and the transmitted absorption.
+
 PG680: [Śaunaka sam–gam attestation and contextual accent](shaunaka_sam_gam_attestation_and_owned_accent/README.md). AVŚ 6.32.2 attests adjacent `samajīgamat`; 6.74.1 places `vo` between the preverb and verb. The two contexts give dependent svarita to aṭ and to the clitic respectively. Sāyaṇa supplies the distinct role readings. Zero new word positions/readings.
 
 PG679: [Joined sam–gam active-P caṅ completion](sam_gam_joined_cang_active_p_completion/README.md). The positive AV-qualified sam–gam relation is now realized as a bounded ordinary joined P panel: nine new rule-composed finite positions/readings with explicit prefix/aṭ/copy/root/caṅ/ending ownership. A-pada is withheld. Census 51,882 finite and 8,012 nominal/9,271 readings.
