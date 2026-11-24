@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG690
+# Pāṇini grammar · current written coverage at PG691
+
+PG691: [Bharaṭa short aṭac and the owned ṣṭhan derivative](bharata_atac_and_bhastradi_sthan_owned_cases/README.md). Śabdakalpadruma gives short aṭac under 4.104. Kāśikā's bhastrādi case preserves original ṣ for ṅīṣ. Three written case fibres add 72 nominal positions and 74 readings. Census 52,323 finite and 8,084 nominal positions/9,345 readings. The four separate 4.105 fields stay Open.
 
 PG690: [Selected joined sam–gam two-hetu patient passive](sam_gam_joined_nested_patient_passive_ten_lakara/README.md). Y alone controls the passive. D and V keep separate instrumental histories. Ten panels add 90 finite positions and 379 readings on 411 paths. Haradatta's joined causative and co-arrival glosses give two independently addressed role controls. Census 52,323 finite and 8,012 nominal positions/9,271 readings.
 

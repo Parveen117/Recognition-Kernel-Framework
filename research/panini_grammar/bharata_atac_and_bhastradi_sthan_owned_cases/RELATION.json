@@ -1,0 +1,273 @@
+{
+  "schema": "rkf.panini.pg691.relation.v1",
+  "witnesses": [
+    {
+      "id": "SKD",
+      "root": "bhṛ",
+      "selected_root_entry": "03.0006 (bibharti)",
+      "affix": "aṭac",
+      "location": "Uṇādi 4.104 in Śabdakalpadruma",
+      "stem": "bharaṭa",
+      "sense": "potter",
+      "state": "Accepted"
+    },
+    {
+      "id": "PRIMARY",
+      "root": "bhṛñ",
+      "affix": "āṭac",
+      "location": "pinned 4.104 field 9",
+      "stem": "bharaṭa",
+      "sense": "potter or worker in its selected commentary",
+      "state": "Accepted source display; shortening path Open"
+    },
+    {
+      "id": "VCP",
+      "root": "bhṛ, gaṇa unspecified",
+      "affix": "aṭan",
+      "location": "Vācaspatyam p.4642 transcription",
+      "stem": "bharaṭa",
+      "sense": "potter",
+      "state": "Accepted source analysis, root-ID resolution Open"
+    },
+    {
+      "id": "K_4416",
+      "base": "bharaṭa",
+      "affix": "ṣṭhan",
+      "location": "Kāśikā 4.4.16, Vācaspatyam's corroborating instrumental paraphrase",
+      "stem": "bharaṭika / bharaṭikī with ṅīṣ",
+      "sense": "conveys by means of the supplied bharaṭa referent",
+      "state": "Accepted"
+    },
+    {
+      "id": "VCP_F",
+      "base": "bharaṭa",
+      "affix": "ṣṭhan and ṅīṣ reported in the same entry",
+      "stem": "bharāṭakī",
+      "sense": "feminine counterpart in the digital display",
+      "state": "Open derivation; exact print collation required"
+    }
+  ],
+  "nominal_panels": [
+    {
+      "profile": "SKD_POTTER",
+      "stem": "bharaṭa",
+      "body": "bharaṭ",
+      "gender": "m",
+      "column": 0,
+      "positions": 24,
+      "readings": 25,
+      "eligibility": "Holds the Śabdakalpadruma potter reading with short aṭac."
+    },
+    {
+      "profile": "K_4416_CONVEY_M",
+      "stem": "bharaṭika",
+      "body": "bharaṭik",
+      "gender": "m",
+      "column": 0,
+      "positions": 24,
+      "readings": 25,
+      "eligibility": "The base is independently supplied as the means of conveying in the bharaṭa membership entry."
+    },
+    {
+      "profile": "K_4416_CONVEY_F",
+      "stem": "bharaṭikī",
+      "body": "bharaṭik",
+      "gender": "f",
+      "column": 1,
+      "positions": 24,
+      "readings": 24,
+      "eligibility": "The same conveyed-by frame with female referent, original ṣ and separate ṅīṣ."
+    }
+  ],
+  "case_tail_readouts": [
+    {
+      "case": "nom",
+      "number_order": [
+        "sg",
+        "du",
+        "pl"
+      ],
+      "masculine": [
+        "aḥ",
+        "au",
+        "āḥ"
+      ],
+      "feminine": [
+        "ī",
+        "yau",
+        "yaḥ"
+      ]
+    },
+    {
+      "case": "acc",
+      "number_order": [
+        "sg",
+        "du",
+        "pl"
+      ],
+      "masculine": [
+        "am",
+        "au",
+        "ān"
+      ],
+      "feminine": [
+        "īm",
+        "yau",
+        "īḥ"
+      ]
+    },
+    {
+      "case": "ins",
+      "number_order": [
+        "sg",
+        "du",
+        "pl"
+      ],
+      "masculine": [
+        "ena",
+        "ābhyām",
+        "aiḥ"
+      ],
+      "feminine": [
+        "yā",
+        "ībhyām",
+        "ībhiḥ"
+      ]
+    },
+    {
+      "case": "dat",
+      "number_order": [
+        "sg",
+        "du",
+        "pl"
+      ],
+      "masculine": [
+        "āya",
+        "ābhyām",
+        "ebhyaḥ"
+      ],
+      "feminine": [
+        "yai",
+        "ībhyām",
+        "ībhyaḥ"
+      ]
+    },
+    {
+      "case": "abl",
+      "number_order": [
+        "sg",
+        "du",
+        "pl"
+      ],
+      "masculine": [
+        [
+          "āt",
+          "ād"
+        ],
+        "ābhyām",
+        "ebhyaḥ"
+      ],
+      "feminine": [
+        "yāḥ",
+        "ībhyām",
+        "ībhyaḥ"
+      ]
+    },
+    {
+      "case": "gen",
+      "number_order": [
+        "sg",
+        "du",
+        "pl"
+      ],
+      "masculine": [
+        "asya",
+        "ayoḥ",
+        "ānām"
+      ],
+      "feminine": [
+        "yāḥ",
+        "yoḥ",
+        "īnām"
+      ]
+    },
+    {
+      "case": "loc",
+      "number_order": [
+        "sg",
+        "du",
+        "pl"
+      ],
+      "masculine": [
+        "e",
+        "ayoḥ",
+        "eṣu"
+      ],
+      "feminine": [
+        "yām",
+        "yoḥ",
+        "īṣu"
+      ]
+    },
+    {
+      "case": "voc",
+      "number_order": [
+        "sg",
+        "du",
+        "pl"
+      ],
+      "masculine": [
+        "a",
+        "au",
+        "āḥ"
+      ],
+      "feminine": [
+        "i",
+        "yau",
+        "yaḥ"
+      ]
+    }
+  ],
+  "exclusion": [
+    "Shifting the 4.104 potter witness to an additional base at 4.105",
+    "Treating literal utsaṅgādi membership as the inherited gate at 4.4.16",
+    "Applying the adjacent 4.4.17 optional ṭhak selector to the selected literal bharaṭa 4.4.16 input",
+    "Making temporary ṭa the taddhita receiver of 7.3.50",
+    "Skipping lexical ṭ in the 8.4.2 interval"
+  ],
+  "primary_4_105": {
+    "direct": 99,
+    "total": 103,
+    "open_fields": [
+      "sya",
+      "ḍha",
+      "ḍaṭ",
+      "āṭac"
+    ]
+  },
+  "open": [
+    "Uṇādi 4.105 exact primary sya, ḍha, ḍaṭ and āṭac fields. 99/103 direct. The same-sense short-a precursor and PG498 raw history each retain their own evidence.",
+    "Independent print control and derivational reason for Vācaspatyam's reported bharāṭakī. Source attribution of the bhṛ entry supplying the aṭan branch is still Open.",
+    "Other members of the bhastrādi gaṇa, wider conveyance and inflection domains, exact accents, C2–C5/S1–S7 and Claude-deferred execution."
+  ],
+  "credit": {
+    "finite_positions": 0,
+    "finite_readings": 0,
+    "nominal_positions": 72,
+    "nominal_readings": 74,
+    "morphological_constructions": 2,
+    "morphological_readouts": 3,
+    "syntactic_constructions": 0,
+    "syntactic_readouts": 0,
+    "phonological_constructions": 0,
+    "phonological_readouts": 0,
+    "accent_constructions": 0,
+    "accent_readouts": 0,
+    "compound_constructions": 0,
+    "compound_readouts": 0,
+    "semantic_constructions": 0,
+    "semantic_readouts": 0,
+    "source_observations": 2,
+    "source_policy_decisions": 1
+  }
+}

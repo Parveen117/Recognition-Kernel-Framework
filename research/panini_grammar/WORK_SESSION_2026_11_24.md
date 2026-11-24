@@ -2,6 +2,16 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG691 · Bharaṭa, short aṭac and the ṣit feminine
+
+PG691: [Bharaṭa short aṭac and the owned ṣṭhan derivative](bharata_atac_and_bhastradi_sthan_owned_cases/README.md). Śabdakalpadruma gives short aṭac under 4.104. Kāśikā's bhastrādi case preserves original ṣ for ṅīṣ. Three written case fibres add 72 nominal positions and 74 readings. Census 52,323 finite and 8,084 nominal positions/9,345 readings. The four separate 4.105 fields stay Open.
+
+Two stem constructions/three readouts, two source observations and one source-policy decision. The original ṣ belongs to ṣṭhan after ika appears and licenses ṅīṣ at its own boundary. Lexical ṭ blocks ṇatva from the earlier r. The three exact nominal fibres add no new finite counts.
+
+PG521–691 cumulative: 504 finite positions/1,420 net credited finite readings, 2,306 nominal positions/2,602 readings, 263 morphology constructions/2,855 operative interfaces, 122 compound constructions/583 plans, 15 accent constructions/61 records, 150 semantics constructions/437 records, 116 syntax constructions/341 records, 52 source-policy decisions after PG555−1, and 296 observations. Three junction constructions/nine readouts since PG680, four provenance corrections and one proof addendum. PG335 and PG357–363 CLOSED preserved.
+
+At S5 the new direct reading addresses 4.104, with 99/103 direct assignments and all four 4.105 links still Open. The Vācaspatyam feminine requires primary print and derivational evidence. Wider written gates and Claude verification are separate. The containing commit pins this packet.
+
 ## PG690 · Selected joined sam–gam patient passive
 
 PG690: [Selected joined sam–gam two-hetu patient passive](sam_gam_joined_nested_patient_passive_ten_lakara/README.md). Y alone controls the passive. D and V keep separate instrumental histories. Ten panels add 90 finite positions and 379 readings on 411 paths. Haradatta's joined causative and co-arrival glosses give two independently addressed role controls. Census 52,323 finite and 8,012 nominal positions/9,271 readings.
