@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG752 · [Coin and vessel compounds, owned elision and a Vedic dual](price_compounds_owned_elision_and_vedic_satamana_dual/README.md). Derives the selected 5.1.25–36 coin and measure compounds and distinguishes the two grammatical cases of the Śatapatha śatamānau. 42 new nominal positions and 62 readings. Finite positions and readings both increased by zero.
+
 PG751 · [Prices, two kinds of hundred and the history of a numeral suffix](price_measure_hundreds_and_numeral_affix_history/README.md). Derives purchased-article cases at 5.1.18–24, including Patañjali’s successive basket purchases and a distinct history for the two nominatives of katika. 29 new nominal positions and 34 readings. Finite positions and readings both increased by zero.
 
 PG750 · [Intended material, sufficient capacity and the leather strap](intended_material_sufficient_capacity_and_leather_strap/README.md). Derives the intended-material and adequacy cases at 5.1.12–17, with a Kālidāsa offering witness and an inner derivation for the strap previously supplied at PG608. 18 new nominal positions and 19 readings. Finite positions and readings both increased by zero.

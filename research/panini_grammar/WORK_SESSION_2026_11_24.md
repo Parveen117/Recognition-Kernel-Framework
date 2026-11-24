@@ -2,6 +2,12 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG752 · Coin and vessel compounds, owned elision and a Vedic dual
+
+PG752 · [Coin and vessel compounds, owned elision and a Vedic dual](price_compounds_owned_elision_and_vedic_satamana_dual/README.md). Derives the selected 5.1.25–36 coin and measure compounds and distinguishes the two grammatical cases of the Śatapatha śatamānau. 42 new nominal positions and 62 readings. Finite positions and readings both increased by zero. One written morphology construction with 39 interfaces, 18 source observations and 7 source decisions. Census: 52,345 finite positions, 20,512 nominal positions and 23,178 nominal readings.
+
+Parent 541eca4e0240c645d667484f927347f584996e7e. The containing commit pins this packet. The exact critical source of the short online 5.1.32 first example is Open. The two named items at 28 do not establish a productive class of all five-member names. Continue at 5.1.37–44, independently checking number constraints on payment and separate cause, intended use and sown seed. The PG717 Haima kīnāśa analysis is already owned; the independent 5.56 k-it effect is still Open. C2–C5 and S1–S7 remain Open. Claude retains execution.
+
 ## PG751 · Prices, two kinds of hundred and the history of a numeral suffix
 
 PG751 · [Prices, two kinds of hundred and the history of a numeral suffix](price_measure_hundreds_and_numeral_affix_history/README.md). Derives purchased-article cases at 5.1.18–24, including Patañjali’s successive basket purchases and a distinct history for the two nominatives of katika. 29 new nominal positions and 34 readings. Finite positions and readings both increased by zero. One written morphology construction with 29 interfaces, 12 source observations and 6 source decisions. Census: 52,345 finite positions, 20,470 nominal positions and 23,116 nominal readings.

@@ -1,0 +1,653 @@
+{
+  "stage": "PG752",
+  "morphology_interfaces": [
+    {
+      "id": "KA",
+      "base": "kaṃsa",
+      "guard": "capacity",
+      "affix": "ṭiṭhan",
+      "result": "kaṃsika / kaṃsikī"
+    },
+    {
+      "id": "HAL",
+      "base": "ardha",
+      "guard": "supplement",
+      "affix": "ṭiṭhan",
+      "result": "ardhika / ardhikī"
+    },
+    {
+      "id": "CO",
+      "base": "kārṣāpaṇa",
+      "guard": "supplement",
+      "affix": "ṭiṭhan",
+      "result": "kārṣāpaṇika / kārṣāpaṇikī"
+    },
+    {
+      "id": "PR",
+      "base": "kārṣāpaṇa",
+      "guard": "prati replacement",
+      "affix": "ṭiṭhan",
+      "result": "pratika / pratikī"
+    },
+    {
+      "id": "SH",
+      "base": "śūrpa",
+      "guard": "single basket as price",
+      "affix": "añ or ṭhañ",
+      "result": "śaurpa / śaurpika"
+    },
+    {
+      "id": "SM",
+      "base": "śatamāna",
+      "guard": "named standard",
+      "affix": "aṇ",
+      "result": "śātamāna"
+    },
+    {
+      "id": "VT",
+      "base": "viṃśatika",
+      "guard": "named derivative as unit",
+      "affix": "aṇ",
+      "result": "vaiṃśatika"
+    },
+    {
+      "id": "SA",
+      "base": "sahasra",
+      "guard": "thousand",
+      "affix": "aṇ",
+      "result": "sāhasra"
+    },
+    {
+      "id": "VA",
+      "base": "vasana",
+      "guard": "cloth as payment",
+      "affix": "aṇ",
+      "result": "vāsana"
+    },
+    {
+      "id": "AK",
+      "base": "adhyardhakaṃsa",
+      "guard": "one and a half, non-name",
+      "affix": "owned luk",
+      "result": "adhyardhakaṃsa"
+    },
+    {
+      "id": "DK",
+      "base": "dvikaṃsa",
+      "guard": "causal dvigu, non-name",
+      "affix": "owned luk",
+      "result": "dvikaṃsa"
+    },
+    {
+      "id": "TK",
+      "base": "trikaṃsa",
+      "guard": "causal dvigu, non-name",
+      "affix": "owned luk",
+      "result": "trikaṃsa"
+    },
+    {
+      "id": "NL",
+      "base": "pañca + lohinī",
+      "guard": "name of derived result, measure",
+      "affix": "ṭhañ retained",
+      "result": "pāñcalohitika"
+    },
+    {
+      "id": "NK",
+      "base": "pañca + kalāpa",
+      "guard": "name of derived result, measure",
+      "affix": "ṭhañ retained",
+      "result": "pāñcakalāpika"
+    },
+    {
+      "id": "AC",
+      "base": "adhyardha-kārṣāpaṇa",
+      "guard": "one-and-a-half compound",
+      "affix": "ṭiṭhan, luk or retention incl. prati",
+      "result": "adhyardhakārṣāpaṇa / adhyardhakārṣāpaṇika / adhyardhapratika"
+    },
+    {
+      "id": "DC",
+      "base": "dvi-kārṣāpaṇa",
+      "guard": "causal dvigu",
+      "affix": "ṭiṭhan, luk or retention incl. prati",
+      "result": "dvikārṣāpaṇa / dvikārṣāpaṇika / dvipratika"
+    },
+    {
+      "id": "DS",
+      "base": "dvi-sahasra",
+      "guard": "numeral terminal",
+      "affix": "aṇ, optional luk",
+      "result": "dvisahasra / dvisāhasra"
+    },
+    {
+      "id": "DG",
+      "base": "dvi-suvarṇa",
+      "guard": "supplement",
+      "affix": "ṭhañ, optional luk",
+      "result": "dvisuvarṇa / dvisauvarṇika"
+    },
+    {
+      "id": "DM",
+      "base": "dvi-śatamāna",
+      "guard": "supplement",
+      "affix": "aṇ, optional luk",
+      "result": "dviśatamāna / dviśātamāna"
+    },
+    {
+      "id": "BN",
+      "base": "bahu-niṣka",
+      "guard": "supplement, causal",
+      "affix": "ṭhañ, optional luk",
+      "result": "bahuniṣka / bahunaiṣkika"
+    },
+    {
+      "id": "DB",
+      "base": "dvi-bista",
+      "guard": "31 inherits two",
+      "affix": "ṭhañ, optional luk",
+      "result": "dvibista / dvibaistika"
+    },
+    {
+      "id": "TB",
+      "base": "tri-bista",
+      "guard": "31 inherits three",
+      "affix": "ṭhañ, optional luk",
+      "result": "tribista / tribaistika"
+    },
+    {
+      "id": "BB",
+      "base": "bahu-bista",
+      "guard": "separate supplement",
+      "affix": "ṭhañ, optional luk",
+      "result": "bahubista / bahubaistika"
+    },
+    {
+      "id": "KV",
+      "base": "dvi-viṃśatika",
+      "guard": "positive compound selector",
+      "affix": "kha",
+      "result": "dviviṃśatikīna"
+    },
+    {
+      "id": "KVH",
+      "base": "adhyardha-viṃśatika",
+      "guard": "one and a half",
+      "affix": "kha",
+      "result": "adhyardhaviṃśatikīna"
+    },
+    {
+      "id": "KH",
+      "base": "dvi-khārī",
+      "guard": "compound",
+      "affix": "īkan",
+      "result": "dvikhārīka"
+    },
+    {
+      "id": "KH0",
+      "base": "khārī",
+      "guard": "bare supplement",
+      "affix": "īkan",
+      "result": "khārīka"
+    },
+    {
+      "id": "KK",
+      "base": "dvi-kākiṇī",
+      "guard": "supplement",
+      "affix": "īkan",
+      "result": "dvikākiṇīka"
+    },
+    {
+      "id": "KK0",
+      "base": "kākiṇī",
+      "guard": "bare supplement",
+      "affix": "īkan",
+      "result": "kākiṇīka"
+    },
+    {
+      "id": "PA",
+      "base": "dvi-paṇa",
+      "guard": "price",
+      "affix": "yat",
+      "result": "dvipaṇya"
+    },
+    {
+      "id": "PD",
+      "base": "dvi-pāda",
+      "guard": "quarter shares",
+      "affix": "yat",
+      "result": "dvipādya"
+    },
+    {
+      "id": "MA",
+      "base": "dvi-māṣa",
+      "guard": "price",
+      "affix": "yat",
+      "result": "dvimāṣya"
+    },
+    {
+      "id": "HU",
+      "base": "dvi-śata",
+      "guard": "34 plus 35 supplementary option",
+      "affix": "yat or elided alternative",
+      "result": "dviśatya / dviśata"
+    },
+    {
+      "id": "SHH",
+      "base": "adhyardha-śāṇa",
+      "guard": "35",
+      "affix": "yat or ṭhañ-luk",
+      "result": "adhyardhaśāṇya / adhyardhaśāṇa"
+    },
+    {
+      "id": "SH2",
+      "base": "dvi-śāṇa",
+      "guard": "36",
+      "affix": "aṇ or yat or ṭhañ-luk",
+      "result": "dvaiśāṇa / dviśāṇya / dviśāṇa"
+    },
+    {
+      "id": "SH3",
+      "base": "tri-śāṇa",
+      "guard": "36",
+      "affix": "aṇ or yat or ṭhañ-luk",
+      "result": "traiśāṇa / triśāṇya / triśāṇa"
+    },
+    {
+      "id": "BASECO",
+      "base": "kārṣāpaṇa",
+      "guard": "Manu, monetary base",
+      "affix": "sup",
+      "result": "kārṣāpaṇa"
+    },
+    {
+      "id": "BASESM",
+      "base": "śatamāna",
+      "guard": "Manu, silver standard",
+      "affix": "sup",
+      "result": "śatamāna"
+    },
+    {
+      "id": "SBR",
+      "base": "śatamāna",
+      "guard": "round pieces attached and given",
+      "affix": "dual sup",
+      "result": "śatamānau"
+    }
+  ],
+  "nominal_positions": [
+    {
+      "id": "KA-M",
+      "source": "K25",
+      "input_history": "KA",
+      "case_number": "M NOMsg",
+      "word": "kaṃsikaḥ",
+      "interpretation": "Article qualified by kaṃsa."
+    },
+    {
+      "id": "KA-F",
+      "source": "K25",
+      "input_history": "KA",
+      "case_number": "F NOMsg",
+      "word": "kaṃsikī",
+      "interpretation": "Explicit feminine derivative."
+    },
+    {
+      "id": "HAL-M",
+      "source": "M25",
+      "input_history": "HAL",
+      "case_number": "M NOMsg",
+      "word": "ardhikaḥ",
+      "interpretation": "Half-unit supplement."
+    },
+    {
+      "id": "HAL-F",
+      "source": "M25",
+      "input_history": "HAL",
+      "case_number": "F NOMsg",
+      "word": "ardhikī",
+      "interpretation": "Feminine of the half-unit derivative."
+    },
+    {
+      "id": "CO-M",
+      "source": "M25",
+      "input_history": "CO/PR",
+      "case_number": "M NOMsg",
+      "word": "kārṣāpaṇikaḥ / pratikaḥ",
+      "interpretation": "The coin name or its replacement."
+    },
+    {
+      "id": "CO-F",
+      "source": "M25",
+      "input_history": "CO/PR",
+      "case_number": "F NOMsg",
+      "word": "kārṣāpaṇikī / pratikī",
+      "interpretation": "Feminine with either base."
+    },
+    {
+      "id": "BASK",
+      "source": "K26",
+      "input_history": "SH",
+      "case_number": "N NOMsg",
+      "word": "śaurpam / śaurpikam",
+      "interpretation": "Bought for one basket."
+    },
+    {
+      "id": "UNIT",
+      "source": "K27",
+      "input_history": "SM",
+      "case_number": "N NOMsg",
+      "word": "śātamānam",
+      "interpretation": "Adjective of the article bought for a śatamāna, with strengthening."
+    },
+    {
+      "id": "TW",
+      "source": "K27",
+      "input_history": "VT",
+      "case_number": "N NOMsg",
+      "word": "vaiṃśatikam",
+      "interpretation": "Article priced in the derived unit viṃśatika."
+    },
+    {
+      "id": "TH",
+      "source": "K27",
+      "input_history": "SA",
+      "case_number": "N NOMsg",
+      "word": "sāhasram",
+      "interpretation": "Article priced at a thousand."
+    },
+    {
+      "id": "CLOTH",
+      "source": "K27",
+      "input_history": "VA",
+      "case_number": "N NOMsg",
+      "word": "vāsanam",
+      "interpretation": "Vasana as consideration for the article."
+    },
+    {
+      "id": "ONEHALF",
+      "source": "K28",
+      "input_history": "AK",
+      "case_number": "N NOMsg",
+      "word": "adhyardhakaṃsam",
+      "interpretation": "One-and-a-half kaṃsas, with luk."
+    },
+    {
+      "id": "TWOK",
+      "source": "K28",
+      "input_history": "DK",
+      "case_number": "N NOMsg",
+      "word": "dvikaṃsam",
+      "interpretation": "Two kaṃsas, with luk."
+    },
+    {
+      "id": "THREEK",
+      "source": "K28",
+      "input_history": "TK",
+      "case_number": "N NOMsg",
+      "word": "trikaṃsam",
+      "interpretation": "Three kaṃsas, with luk."
+    },
+    {
+      "id": "LOH",
+      "source": "K28",
+      "input_history": "NL",
+      "case_number": "N NOMsg",
+      "word": "pāñcalohitikam",
+      "interpretation": "Named result; compound contains lohinī with masculine-like treatment."
+    },
+    {
+      "id": "KAL",
+      "source": "K28",
+      "input_history": "NK",
+      "case_number": "N NOMsg",
+      "word": "pāñcakalāpikam",
+      "interpretation": "The second named result retains the derivative."
+    },
+    {
+      "id": "ONECO",
+      "source": "K29",
+      "input_history": "AC",
+      "case_number": "N NOMsg",
+      "word": "adhyardhakārṣāpaṇam / adhyardhakārṣāpaṇikam / adhyardhapratikam",
+      "interpretation": "One and a half, optional luk followed on retention by an optional substitute."
+    },
+    {
+      "id": "TWOCO",
+      "source": "K29",
+      "input_history": "DC",
+      "case_number": "N NOMsg",
+      "word": "dvikārṣāpaṇam / dvikārṣāpaṇikam / dvipratikam",
+      "interpretation": "Two coins, the three visible readings."
+    },
+    {
+      "id": "TWOT",
+      "source": "K29",
+      "input_history": "DS",
+      "case_number": "N NOMsg",
+      "word": "dvisahasram / dvisāhasram",
+      "interpretation": "Elision or retained aṇ."
+    },
+    {
+      "id": "TWOS",
+      "source": "K29",
+      "input_history": "DG",
+      "case_number": "N NOMsg",
+      "word": "dvisuvarṇam / dvisauvarṇikam",
+      "interpretation": "The supplemented unit has a different retained suffix."
+    },
+    {
+      "id": "TWOM",
+      "source": "K29",
+      "input_history": "DM",
+      "case_number": "N NOMsg",
+      "word": "dviśatamānam / dviśātamānam",
+      "interpretation": "A second explicitly supplemented unit."
+    },
+    {
+      "id": "MANYN",
+      "source": "M31",
+      "input_history": "BN",
+      "case_number": "N NOMsg",
+      "word": "bahuniṣkam / bahunaiṣkikam",
+      "interpretation": "Previously counted dvi/tri niṣka omitted."
+    },
+    {
+      "id": "TWOB",
+      "source": "K31",
+      "input_history": "DB",
+      "case_number": "N NOMsg",
+      "word": "dvibistam / dvibaistikam",
+      "interpretation": "Two bistas, optional luk."
+    },
+    {
+      "id": "THRB",
+      "source": "K31",
+      "input_history": "TB",
+      "case_number": "N NOMsg",
+      "word": "tribistam / tribaistikam",
+      "interpretation": "Three bistas, optional luk."
+    },
+    {
+      "id": "MANYB",
+      "source": "M31",
+      "input_history": "BB",
+      "case_number": "N NOMsg",
+      "word": "bahubistam / bahubaistikam",
+      "interpretation": "Many bistas in the explicit supplement."
+    },
+    {
+      "id": "TWOV",
+      "source": "K32",
+      "input_history": "KV",
+      "case_number": "N NOMsg",
+      "word": "dviviṃśatikīnam",
+      "interpretation": "Causal compound, positive outer kha."
+    },
+    {
+      "id": "HALV",
+      "source": "K32",
+      "input_history": "KVH",
+      "case_number": "N NOMsg",
+      "word": "adhyardhaviṃśatikīnam",
+      "interpretation": "Frozen Kāśikā reading for one and a half."
+    },
+    {
+      "id": "TWOKH",
+      "source": "K33",
+      "input_history": "KH",
+      "case_number": "N NOMsg",
+      "word": "dvikhārīkam",
+      "interpretation": "Two khārīs as a measure."
+    },
+    {
+      "id": "BAREKH",
+      "source": "K33",
+      "input_history": "KH0",
+      "case_number": "N NOMsg",
+      "word": "khārīkam",
+      "interpretation": "Bare khārī supplement."
+    },
+    {
+      "id": "TWOKAK",
+      "source": "K33",
+      "input_history": "KK",
+      "case_number": "N NOMsg",
+      "word": "dvikākiṇīkam",
+      "interpretation": "Two kākiṇīs under the separate supplement."
+    },
+    {
+      "id": "BAREKAK",
+      "source": "K33",
+      "input_history": "KK0",
+      "case_number": "N NOMsg",
+      "word": "kākiṇīkam",
+      "interpretation": "Uncompounded kākiṇī under the supplementary clause."
+    },
+    {
+      "id": "PAṆ",
+      "source": "K34",
+      "input_history": "PA",
+      "case_number": "N NOMsg",
+      "word": "dvipaṇyam",
+      "interpretation": "Two paṇas."
+    },
+    {
+      "id": "QUARTER",
+      "source": "K34",
+      "input_history": "PD",
+      "case_number": "N NOMsg",
+      "word": "dvipādyam",
+      "interpretation": "Two quarter shares, retaining long ā."
+    },
+    {
+      "id": "MAS",
+      "source": "K34",
+      "input_history": "MA",
+      "case_number": "N NOMsg",
+      "word": "dvimāṣyam",
+      "interpretation": "Two māṣas."
+    },
+    {
+      "id": "HUND",
+      "source": "K35",
+      "input_history": "HU",
+      "case_number": "N NOMsg",
+      "word": "dviśatyam / dviśatam",
+      "interpretation": "Hundred with two, attested yat and separately admitted luk."
+    },
+    {
+      "id": "SHH",
+      "source": "K35",
+      "input_history": "SHH",
+      "case_number": "N NOMsg",
+      "word": "adhyardhaśāṇyam / adhyardhaśāṇam",
+      "interpretation": "One and a half śāṇas, with only the two 35 outcomes."
+    },
+    {
+      "id": "SH2",
+      "source": "K36",
+      "input_history": "SH2",
+      "case_number": "N NOMsg",
+      "word": "dvaiśāṇam / dviśāṇyam / dviśāṇam",
+      "interpretation": "Two śāṇas."
+    },
+    {
+      "id": "SH3",
+      "source": "K36",
+      "input_history": "SH3",
+      "case_number": "N NOMsg",
+      "word": "traiśāṇam / triśāṇyam / triśāṇam",
+      "interpretation": "Three śāṇas."
+    },
+    {
+      "id": "MCO",
+      "source": "M136",
+      "input_history": "BASECO",
+      "case_number": "M NOMsg",
+      "word": "kārṣāpaṇaḥ",
+      "interpretation": "The monetary unit itself, sandhi kārṣāpaṇas tu."
+    },
+    {
+      "id": "MSM",
+      "source": "M137",
+      "input_history": "BASESM",
+      "case_number": "M NOMsg",
+      "word": "śatamānaḥ",
+      "interpretation": "The silver unit; nominative in the definition."
+    },
+    {
+      "id": "RACC",
+      "source": "SB",
+      "input_history": "SBR",
+      "case_number": "M ACCdu",
+      "word": "śatamānau",
+      "interpretation": "Objects fastened to the chariot stand in §24."
+    },
+    {
+      "id": "RNOM",
+      "source": "SB",
+      "input_history": "SBR",
+      "case_number": "M NOMdu",
+      "word": "śatamānau",
+      "interpretation": "The two pieces identified as the ritual fee in §26. The following distinct accusative pronoun marks their transfer."
+    }
+  ],
+  "source_policy_decisions": [
+    {
+      "id": "COIN",
+      "sources": "K25,M25,K29",
+      "decision": "Separate the affix, feminine marker and optional base replacement. Luk cannot leave visible prati in the listed 29 outcomes."
+    },
+    {
+      "id": "BASKET",
+      "sources": "K26,K28,M28",
+      "decision": "A single basket gives añ or ṭhañ. The two-basket compound is already owned by PG751. Patañjali also distinguishes the analytical phrase with a feminine basket input."
+    },
+    {
+      "id": "METAL",
+      "sources": "K27,M136,M137,SB,EG",
+      "decision": "Keep derived initial vṛddhi apart from the base noun. The silver coin standard in Manu and the paired sacrificial pieces in Śatapatha have their own attestations and cases."
+    },
+    {
+      "id": "MANY",
+      "sources": "M31,K31",
+      "decision": "The bahu examples are explicit vārttika extensions. The dvi/tri niṣka predicate positions already counted at PG751 take no new credit."
+    },
+    {
+      "id": "POSITIVE",
+      "sources": "K32,K33",
+      "decision": "Kha and īkan have positive work precisely where ordinary elision would erase the affix; bare khārī and bare kākiṇī need their own authority. An online first-example discrepancy at 32 stays a source observation."
+    },
+    {
+      "id": "QUARTER",
+      "sources": "K34,K35",
+      "decision": "Pāda used as a monetary fraction retains its vowel; the limb substitution cannot run. Śata receives an additional zero reading only under its own supplementary clause."
+    },
+    {
+      "id": "THREE",
+      "sources": "K35,K36",
+      "decision": "One and a half allows two readings and two or three allow a third. The initial member strengthens with aṇ because śāṇa is expressly excepted at 7.3.17."
+    }
+  ]
+}

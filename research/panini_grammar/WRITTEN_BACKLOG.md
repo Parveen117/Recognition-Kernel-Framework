@@ -1,6 +1,8 @@
-# Written-development backlog at PG751
+# Written-development backlog at PG752
 
-Monty · 2026-11-24 · reviewed parent e3d7d7a3dac7c49f3e4249f71207a7ce4ddda3eb. Historical closures below retain their exact pins.
+Monty · 2026-11-24 · reviewed parent 541eca4e0240c645d667484f927347f584996e7e. Historical closures below retain their exact pins.
+
+PG752 · [Coin and vessel compounds, owned elision and a Vedic dual](price_compounds_owned_elision_and_vedic_satamana_dual/README.md). The exact critical source of the short online 5.1.32 first example is Open. The two named items at 28 do not establish a productive class of all five-member names. Continue at 5.1.37–44, independently checking number constraints on payment and separate cause, intended use and sown seed. The PG717 Haima kīnāśa analysis is already owned; the independent 5.56 k-it effect is still Open. C2–C5 and S1–S7 remain Open.
 
 PG751 · [Prices, two kinds of hundred and the history of a numeral suffix](price_measure_hundreds_and_numeral_affix_history/README.md). Outside the named prices, unknown units, lexical names and compound histories remain Open. The wider PG36 domains are retained. Continue 5.1.25–36, beginning with the explicitly feminine coin derivatives, the two readings of śūrpa, and distinct causal versus pre-existing compounds. C2–C5 and S1–S7 remain Open.
 

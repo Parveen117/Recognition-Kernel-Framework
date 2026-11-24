@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG751
+# Pāṇini grammar · current written coverage at PG752
+
+PG752 · [Coin and vessel compounds, owned elision and a Vedic dual](price_compounds_owned_elision_and_vedic_satamana_dual/README.md). Derives the selected 5.1.25–36 coin and measure compounds and distinguishes the two grammatical cases of the Śatapatha śatamānau. Census: 52,345 finite positions, 20,512 nominal positions and 23,178 nominal readings.
 
 PG751 · [Prices, two kinds of hundred and the history of a numeral suffix](price_measure_hundreds_and_numeral_affix_history/README.md). Derives purchased-article cases at 5.1.18–24, including Patañjali’s successive basket purchases and a distinct history for the two nominatives of katika. Census: 52,345 finite positions, 20,470 nominal positions and 23,116 nominal readings.
 

@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG752 · [Coin and vessel compounds, owned elision and a Vedic dual](research/panini_grammar/price_compounds_owned_elision_and_vedic_satamana_dual/README.md). Typed PG14 recovery retains the causal affix identity, lexical replacement, result name and ritual case after specialization.
+
 PG751 · [Prices, two kinds of hundred and the history of a numeral suffix](research/panini_grammar/price_measure_hundreds_and_numeral_affix_history/README.md). Typed PG14 recovery preserves the measure, prior luk, numeral affix and name status at every case readout.
 
 PG750 · [Intended material, sufficient capacity and the leather strap](research/panini_grammar/intended_material_sufficient_capacity_and_leather_strap/README.md). Typed PG14 recovery retains intention, sufficiency, and separate inner and outer affix owners in the strap derivation.
