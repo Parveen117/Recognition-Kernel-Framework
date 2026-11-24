@@ -1,6 +1,8 @@
-# Written-development backlog at PG693
+# Written-development backlog at PG694
 
-Monty · 2026-11-24 · reviewed current parent 1cc6b8b3e3288f622d955415596127bee416775b. Historical closures below retain their exact pins.
+Monty · 2026-11-24 · reviewed current parent 24fa1f1f242ae5cbb7ff253702ff2ebf9d1a3b2a. Historical closures below retain their exact pins.
+
+PG694 closes the [selected 4.4.18 kuṭilikā/aṇ cases, role policies and local stage control](kutilika_an_roles_and_owned_gender/README.md) at 72 new nominal positions/73 readings and 171 owned paths. The deer and hunter reserve their own control histories. The exact Padamañjarī inner-affix reading and coal ablative provenance stay Open, as do theatre authorial and performance questions, further gender/accents, 4.4.19–21 work, C2–C5/S1–S7 and Claude execution.
 
 PG693 closes the [selected vivadha/vīvadha conveyance case fibres and the attested 6.308 feminine](vivadha_vivadha_owned_conveyance/README.md) at 72 new nominal positions/172 readings on 221 paths. The named short-sūtra-plus-vārttika and Kāśikā double-lemma policies concur on both inputs. The exact first-pāda and stem accent, ultimate textual priority, the original Harṣacarita occurrence and the 6.308 instrument and underlying base stay Open. Wider trade/neuter roles and the distinct 4.4.18 cases remain unconstructed. S1–S7/C2–C5 and Claude execution retain separate obligations.
 

@@ -2,6 +2,16 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG694 · Kuṭilikā, reversed actor policies and the stage locative
+
+PG694: [Kuṭilikā, aṇ and the deer/hunter/smith roles](kutilika_an_roles_and_owned_gender/README.md). The named sources reverse actor and target on the hunting frame and agree on the smith's tongs. Bhāṣāvṛtti supplies the feminine ṅīp stem. The separate Act IV stage direction gives the actual compound boundary. Three case fibres add 72 nominal positions and 73 readings. Census 52,323 finite and 8,420 nominal positions/9,986 readings.
+
+One morphology construction/five stem histories, one syntax construction/five records, one compound construction/one plan, five observations and two source decisions. Zero new finite positions and readings. The three masculine controllers share a single written case fibre while their retained role histories remain distinct.
+
+PG521–694 cumulative: 504 finite positions/1,420 net credited finite readings, 2,642 nominal positions/3,243 readings, 267 morphology constructions/2,882 operative interfaces, 125 compound constructions/588 plans, 15 accent constructions/61 records, 151 semantics constructions/440 records, 118 syntax constructions/347 records, 57 source-policy decisions after PG555−1, and 310 observations. Three junction constructions/nine readouts since PG680, four provenance corrections and one proof addendum. PG335 and PG357–363 CLOSED preserved.
+
+Open: wider 4.4.19–21 domains, isolated coal ablative and Padamañjarī inner analysis, theatre authorial/performance tradition, other gender/accent evidence and C2–C5/S1–S7. Claude retains execution. The containing commit pins this packet.
+
 ## PG693 · Conveyance affix alternatives and Rājataraṅgiṇī 6.308
 
 PG693: [Vivadha/vīvadha, affix convergence and the attested feminine](vivadha_vivadha_owned_conveyance/README.md). The short sūtra plus vārttika and the two-base Kāśikā sūtra both admit the selected inputs. The residual ṭhak histories converge as vaivadhika, and Rājataraṅgiṇī 6.308 supplies the actual feminine vaivadhikī. Three case fibres add 72 nominal positions and 172 readings on 221 paths. Census 52,323 finite and 8,348 nominal positions/9,913 readings.

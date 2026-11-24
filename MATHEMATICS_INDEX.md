@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG694: [Aṇ, competing hunting roles and the stage locative](research/panini_grammar/kutilika_an_roles_and_owned_gender/README.md). Typed zero-specialization preserves the means, actor and target, base-owned ik, aṇ and ṅīp owners, and the case boundary in kuṭilikāntare.
+
 PG693: [Convergent conveyance affix histories and an attested feminine](research/panini_grammar/vivadha_vivadha_owned_conveyance/README.md). The typed word and witness histories distinguish the ṭhak grade, ṣṭhan and ṭhak feminine owners, and the possible readings of Rājataraṅgiṇī 6.308 before the surface quotient.
 
 PG692: [Locative load compounds and the scoped conveyance taddhita](research/panini_grammar/bhastradi_head_shoulder_aluk_and_owned_taddhita/README.md). Typed zero-specialization separately preserves the source membership, locative ending, supporting instrumental and final sup/num/nuṭ history.

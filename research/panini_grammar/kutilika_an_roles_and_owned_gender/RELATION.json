@@ -1,0 +1,262 @@
+{
+  "schema": "rkf.panini.pg694.relation.v1",
+  "means_case": "tṛtīyā kuṭilikayā",
+  "support_verb": {
+    "root_id": "1011046",
+    "root": "hṛñ",
+    "sense": "haraṇe",
+    "preverb": null,
+    "form": "harati",
+    "voice": "kartari",
+    "pada": "P",
+    "person_number": "3sg"
+  },
+  "base": {
+    "stem": "kuṭilikā",
+    "body": "kuṭilik",
+    "gender": "f",
+    "internal_ik_owner": "base",
+    "roles": [
+      "movement",
+      "tongs",
+      "stage"
+    ]
+  },
+  "formation": {
+    "sutra": "4.4.18",
+    "affix": "aṇ",
+    "sound": "a",
+    "sup_deletion": "2.4.71",
+    "marker": "ṇ",
+    "grade": "u to au under 7.2.115/117",
+    "base_final_lopa": "ā under 6.4.148",
+    "feminine": "ṅīp under 4.1.15",
+    "taddhita_final_lopa": "a under 6.4.148 before ī",
+    "masculine_stem": "kauṭilika",
+    "feminine_stem": "kauṭilikī",
+    "case_body": "kauṭilik"
+  },
+  "role_paths": [
+    {
+      "id": "DEER",
+      "actor": "mṛgaḥ",
+      "object": "vyādham",
+      "means": "kuṭilikayā, crooked movement",
+      "source": "K",
+      "gender": "m",
+      "status": "Accepted"
+    },
+    {
+      "id": "HUNTER",
+      "actor": "vyādhaḥ",
+      "object": "mṛgān",
+      "means": "kuṭilikayā, hunter's movement",
+      "source": "SK+SKD",
+      "gender": "m",
+      "status": "Accepted"
+    },
+    {
+      "id": "SMITH",
+      "actor": "karmāraḥ",
+      "object": "aṅgārān",
+      "means": "kuṭilikayā, iron tongs",
+      "source": "K+SK+SD Bālamanoramā",
+      "gender": "m",
+      "status": "Accepted"
+    },
+    {
+      "id": "COURTESAN",
+      "actor": "veśyā",
+      "object": null,
+      "means": "crooked gait on the Bhāṣāvṛtti example group",
+      "source": "BV",
+      "gender": "f",
+      "status": "Accepted"
+    }
+  ],
+  "compound": {
+    "source": "VO",
+    "locus": "Act IV after 53, parenthetical direction",
+    "literal": "कुटिलिकान्तरें चर्चरी",
+    "normalized": "kuṭilikāntare carcarī",
+    "first_member": "kuṭilikā",
+    "head": "antara",
+    "first_sup": "luk 2.4.71",
+    "boundary": "ā+a to ā 6.1.101",
+    "outer_case": "loc sg of antara",
+    "4.4.18_on_stage_context": "Excluded"
+  },
+  "source_policies": {
+    "open": [
+      "Literal aṅgārāt as separate SD reading, role and transmission Open",
+      "Padamañjarī internal kan hypothesis and exact uparamaṇamu wording",
+      "Authorship, final mark and performance/music interpretation of the stage direction",
+      "Broader feminine contexts, neuters and exact accent"
+    ],
+    "excluded": [
+      "Copy 4.4.17 optional ṣṭhan/ṭhak into this 4.4.18 request",
+      "Use the supplied Act IV stage direction as a harati means clause",
+      "Treat base-owned ik as a replacement of aṇ"
+    ]
+  },
+  "numbers": [
+    "sg",
+    "du",
+    "pl"
+  ],
+  "tails": [
+    {
+      "case": "nom",
+      "base_f": [
+        "ā",
+        "e",
+        "āḥ"
+      ],
+      "derived_m": [
+        "aḥ",
+        "au",
+        "āḥ"
+      ],
+      "derived_f": [
+        "ī",
+        "yau",
+        "yaḥ"
+      ]
+    },
+    {
+      "case": "acc",
+      "base_f": [
+        "ām",
+        "e",
+        "āḥ"
+      ],
+      "derived_m": [
+        "am",
+        "au",
+        "ān"
+      ],
+      "derived_f": [
+        "īm",
+        "yau",
+        "īḥ"
+      ]
+    },
+    {
+      "case": "ins",
+      "base_f": [
+        "ayā",
+        "ābhyām",
+        "ābhiḥ"
+      ],
+      "derived_m": [
+        "ena",
+        "ābhyām",
+        "aiḥ"
+      ],
+      "derived_f": [
+        "yā",
+        "ībhyām",
+        "ībhiḥ"
+      ]
+    },
+    {
+      "case": "dat",
+      "base_f": [
+        "āyai",
+        "ābhyām",
+        "ābhyaḥ"
+      ],
+      "derived_m": [
+        "āya",
+        "ābhyām",
+        "ebhyaḥ"
+      ],
+      "derived_f": [
+        "yai",
+        "ībhyām",
+        "ībhyaḥ"
+      ]
+    },
+    {
+      "case": "abl",
+      "base_f": [
+        "āyāḥ",
+        "ābhyām",
+        "ābhyaḥ"
+      ],
+      "derived_m": [
+        [
+          "āt",
+          "ād"
+        ],
+        "ābhyām",
+        "ebhyaḥ"
+      ],
+      "derived_f": [
+        "yāḥ",
+        "ībhyām",
+        "ībhyaḥ"
+      ]
+    },
+    {
+      "case": "gen",
+      "base_f": [
+        "āyāḥ",
+        "ayoḥ",
+        "ānām"
+      ],
+      "derived_m": [
+        "asya",
+        "ayoḥ",
+        "ānām"
+      ],
+      "derived_f": [
+        "yāḥ",
+        "yoḥ",
+        "īnām"
+      ]
+    },
+    {
+      "case": "loc",
+      "base_f": [
+        "āyām",
+        "ayoḥ",
+        "āsu"
+      ],
+      "derived_m": [
+        "e",
+        "ayoḥ",
+        "eṣu"
+      ],
+      "derived_f": [
+        "yām",
+        "yoḥ",
+        "īṣu"
+      ]
+    },
+    {
+      "case": "voc",
+      "base_f": [
+        "e",
+        "e",
+        "āḥ"
+      ],
+      "derived_m": [
+        "a",
+        "au",
+        "āḥ"
+      ],
+      "derived_f": [
+        "i",
+        "yau",
+        "yaḥ"
+      ]
+    }
+  ],
+  "inherited_census_and_counts": {
+    "positions": 72,
+    "readings": 73,
+    "stem_ending_paths": 171
+  },
+  "grammar_executions": []
+}
