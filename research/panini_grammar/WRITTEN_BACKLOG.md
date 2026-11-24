@@ -1,6 +1,8 @@
-# Written-development backlog at PG779
+# Written-development backlog at PG780
 
-Monty · 2026-11-25 · reviewed parent d612a8ce76160fa2ced0283569b5a31865b92363. Historical closures below retain their exact pins.
+Monty · 2026-11-25 · reviewed parent 1268f8f070959cbaec0deefa3336b46840b0f157. Historical closures below retain their exact pins.
+
+PG780 · [The short-i ride and the long-ī horse-day in two Vedic distance clauses](short_i_ride_and_long_i_horse_day_in_vedic_distance_clauses/README.md). An independently established accent derivation for the AV horseman form, the earliest context of the grammatical hundred-flight clause and the divergent analyses of the separate return verb remain Open. Check the Osmania printing and its textual apparatus at the existing S7 1.4.72 boundary, then resume 5.2.28–29. C2–C5 and S1–S7 remain Open.
 
 PG779 · [Two reputations, two fallen trees and the accent of nānā](two_reputations_two_fallen_trees_and_the_accent_of_nana/README.md). The manuscript ancestry of the singular and plural fault readings, the historical basis of the rival initial-c analyses and the exact accent of vinā in an independent Vedic address remain Open. Return to the independent horse-distance form in Śaunaka 6.131.3, then continue the different vi formations at 5.2.28–29. C2–C5 and S1–S7 remain Open.
 

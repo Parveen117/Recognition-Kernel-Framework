@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG779
+# Pāṇini grammar · current written coverage at PG780
+
+PG780 · [The short-i ride and the long-ī horse-day in two Vedic distance clauses](short_i_ride_and_long_i_horse_day_in_vedic_distance_clauses/README.md). Verifies three measured extents in Śaunaka 6.131.3 and the explicit 5.2.19 analysis of the thousandfold locative in Aitareya 2.17.8. Census: 52,349 finite positions, 21,219 nominal positions and 24,007 nominal readings.
 
 PG779 · [Two reputations, two fallen trees and the accent of nānā](two_reputations_two_fallen_trees_and_the_accent_of_nana/README.md). Connects both reputation suffixes to Bhaṭṭi 2.32, verifies initial accent in RV 3.55.11, and identifies Harivaṃśa 51.29 behind the accusative quotation. Census: 52,349 finite positions, 21,213 nominal positions and 24,001 nominal readings.
 

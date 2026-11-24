@@ -1,0 +1,117 @@
+{
+  "stage": "PG780",
+  "morphology_interfaces": [
+    {
+      "id": "THREE",
+      "base": "tri and yojana",
+      "guard": "a place or extent of three units",
+      "affix": "numeral compound used as extent",
+      "result": "triyojanam"
+    },
+    {
+      "id": "FIVE",
+      "base": "pañca and yojana",
+      "guard": "a place or extent of five units",
+      "affix": "numeral compound used as extent",
+      "result": "pañcayojanam"
+    },
+    {
+      "id": "HORSEMAN",
+      "base": "aśvin, horseman",
+      "guard": "rider-accessible distance, non-descendant",
+      "affix": "Trivedī’s aṇ, initial grade, retention of in by 6.4.164",
+      "result": "āśvina"
+    },
+    {
+      "id": "THOUSAND",
+      "base": "aśva and a thousand-fold measure",
+      "guard": "distance in one horse-day multiplied by a thousand",
+      "affix": "5.2.19 khañ in the base, outer compound and locative",
+      "result": "sahasrāśvīne"
+    },
+    {
+      "id": "LIT",
+      "base": "the divine twins",
+      "guard": "metres for them or their recitation",
+      "affix": "ritual attribution, separate from distance",
+      "result": "āśvina"
+    }
+  ],
+  "nominal_positions": [
+    {
+      "id": "THREE",
+      "source": "SAY",
+      "input_history": "THREE",
+      "case_number": "M/N ACCsg",
+      "word": "triyojanam",
+      "interpretation": "Extent under dhāvasi. Sāyaṇa supplies masculine deśa. Neuter measure and masculine accusative coincide here."
+    },
+    {
+      "id": "FIVE",
+      "source": "SAY",
+      "input_history": "FIVE",
+      "case_number": "M/N ACCsg",
+      "word": "pañcayojanam",
+      "interpretation": "Second extent, a longer journey under Sāyaṇa’s interpretation. The coalesced final consonant before the next vowel leaves its case unchanged."
+    },
+    {
+      "id": "RIDE",
+      "source": "AV",
+      "input_history": "HORSEMAN",
+      "case_number": "M/N ACCsg",
+      "word": "āśvinam",
+      "interpretation": "Short-i extent of running. Masculine agreement with the commentary’s supplied place and a nominal measure are compatible with the same ending."
+    },
+    {
+      "id": "LOC",
+      "source": "AB",
+      "input_history": "THOUSAND",
+      "case_number": "M LOCsg",
+      "word": "sahasrāśvīne",
+      "interpretation": "Long-ī compound measuring the location. Masculine deśa supplied in the printed exposition."
+    },
+    {
+      "id": "METRES",
+      "source": "AB",
+      "input_history": "LIT",
+      "case_number": "N ACCpl",
+      "word": "āśvināni",
+      "interpretation": "Short-i attribute of the seven metres recited for the divine twins."
+    },
+    {
+      "id": "SERVICE",
+      "source": "RITE",
+      "input_history": "LIT",
+      "case_number": "N LOCsg",
+      "word": "āśvine",
+      "interpretation": "The Aśvin recitation is the ritual setting in which other deities have a share."
+    }
+  ],
+  "source_policy_decisions": [
+    {
+      "id": "GOV",
+      "sources": "AV,PAD,SAY,WH",
+      "decision": "The three distance expressions belong to the act of running. The requested return is a later clause. Use one case credit for a syncretic expression with an understood place."
+    },
+    {
+      "id": "SHORT",
+      "sources": "TRI,RET,ACC",
+      "decision": "The underived comparison unit of 5.2.19 cannot supply the short i. The horseman analysis gives an explicit segmental account. Preserve the independently observed accent and its open historical explanation."
+    },
+    {
+      "id": "LONG",
+      "sources": "AB,PRINT,HAUG,K",
+      "decision": "Aitareya supplies a single compound in the locative. One thousand recitations and a thousand horse-days occupy different positions in the argument."
+    },
+    {
+      "id": "RITUAL",
+      "sources": "AB,HAUG,RITE",
+      "decision": "The short-i deity relation is independently fixed by the recited metres and by the named contest. It receives no metric reading."
+    },
+    {
+      "id": "QUOTATION",
+      "sources": "K,AB,AV",
+      "decision": "The measured thousand in Aitareya, the three alternatives under dhāvasi and PG776’s previously located Pañcaviṃśa parallels leave the exact hundred-flight quotation Open."
+    }
+  ]
+}
