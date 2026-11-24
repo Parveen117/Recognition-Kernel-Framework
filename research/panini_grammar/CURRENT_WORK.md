@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG738
+# Pāṇini grammar · current written coverage at PG739
+
+PG739 · [Locative suitability, the pratijanādi roster and the two council suffixes](locative_suitability_pratijanadi_and_council_affixes/README.md). Writes the named suitability fibres, all twelve pratijanādi operands and the bhakta and council exceptions. The external sources clarify retained inner genitives, the comparison with benefactive kha, and the short Haima council stem alongside the P long one. Census 52,345 finite positions and 19,078 nominal positions with 21,647 nominal readings.
 
 PG738 · [Will, kinship and three genitive yat relations](kinship_mantra_and_ordered_genitive_yat/README.md). Derives will-based production, both son affixes and the three ordered genitive bases. PG501 supplies the binding-mantra formation, which now has a masculine case readout. Haima’s production of intoxication and the Pāṇinian verbal affix retain their distinct histories. Census 52,345 finite positions and 18,622 nominal positions with 21,097 nominal readings.
 

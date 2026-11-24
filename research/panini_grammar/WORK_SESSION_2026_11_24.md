@@ -2,6 +2,16 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG739 · Locative suitability, the pratijanādi roster and the two council suffixes
+
+PG739 · [Locative suitability, the pratijanādi roster and the two council suffixes](locative_suitability_pratijanadi_and_council_affixes/README.md). Writes the named suitability fibres, all twelve pratijanādi operands and the bhakta and council exceptions. The external sources clarify retained inner genitives, the comparison with benefactive kha, and the short Haima council stem alongside the P long one. Census 52,345 finite positions and 19,078 nominal positions with 21,647 nominal readings.
+
+Zero new finite positions or readings. 456 new nominal positions and 550 readings. One morphology construction with 30 interfaces, one compound construction with four plans, one accent construction with four records, one semantic construction with seven readouts, one syntax construction with eight readouts, and one junction construction with ten readouts. 16 source observations and 12 source-policy decisions. Publication parent 49bfb45f82193243bfdae8beb85ce64bfa8cf2ce. The containing commit pins the documents and evidence.
+
+PG521–739 cumulative adds 526 finite positions and 1,444 net finite readings, and 13,300 nominal positions with 14,904 readings. 313 morphology constructions with 3,524 interfaces, 145 compound constructions with 669 plans, 45 accent constructions with 179 records, 171 semantic constructions with 592 readouts, 160 syntax constructions with 689 readouts, and 459 source-policy decisions after PG555−1 with 896 observations. The PG680 onward junction total is 43 constructions with 206 readouts. The PG700 onward nonfinite total remains 22 constructions with 28 paths. PG335, PG357–363 CLOSED and the PG737 PG736-key corrections remain frozen.
+
+This stage constructs the selected competence/fitness fibres, the 12 named pratijanādi inputs, the food and original long/short council cases, and the explicit H all-people alternative. Existing PG718 council joining, PG730 allotted meal, PG558 resemblance and PG573 inner GEN formation retain their separate result scopes. Wider written/source gates remain Open. 4.4.102–106 is the next concrete construction, including the separate chapter-end Vedic countercases. Vasu’s printed evaṃ yugīnaḥ and the digital aidam-huga reading stay unresolved alongside the positive Kāśikā idaṃyuga path.
+
 ## PG738 · Will, kinship and three genitive yat relations
 
 PG738 · [Will, kinship and three genitive yat relations](kinship_mantra_and_ordered_genitive_yat/README.md). Derives will-based production, both son affixes and the three ordered genitive bases. PG501 supplies the binding-mantra formation, which now has a masculine case readout. Haima’s production of intoxication and the Pāṇinian verbal affix retain their distinct histories. Census 52,345 finite positions and 18,622 nominal positions with 21,097 nominal readings.

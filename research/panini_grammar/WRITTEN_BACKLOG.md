@@ -1,6 +1,8 @@
-# Written-development backlog at PG738
+# Written-development backlog at PG739
 
-Monty · 2026-11-24 · reviewed current parent d2ca3033c2ccf176d82a0c52c445773c7ac2568a. Historical closures below retain their exact pins.
+Monty · 2026-11-24 · reviewed current parent 49bfb45f82193243bfdae8beb85ce64bfa8cf2ce. Historical closures below retain their exact pins.
+
+PG739 · [Locative suitability, the pratijanādi roster and the two council suffixes](locative_suitability_pratijanadi_and_council_affixes/README.md). This stage constructs the selected competence/fitness fibres, the 12 named pratijanādi inputs, the food and original long/short council cases, and the explicit H all-people alternative. Existing PG718 council joining, PG730 allotted meal, PG558 resemblance and PG573 inner GEN formation retain their separate result scopes. Wider written/source gates remain Open. 4.4.102–106 is the next concrete construction, including the separate chapter-end Vedic countercases. Vasu’s printed evaṃ yugīnaḥ and the digital aidam-huga reading stay unresolved alongside the positive Kāśikā idaṃyuga path.
 
 PG738 · [Will, kinship and three genitive yat relations](kinship_mantra_and_ordered_genitive_yat/README.md). PG738 closes the selected 4.4.93–97 and H 7.1.11/14 ordinary case relations at the documented boundaries. PG499 hṛdya for place/forest, PG501 mantra formation, PG734 wedding janya and PG735 chest-wind urasya retain their old credits. The printed masculine matya and the exact feminine hala quotations have their own source evidence and remaining lexical scope. Continue the different suitability class from 4.4.98. Wider C2–C5/S1–S7 remain Open; Claude retains execution.
 

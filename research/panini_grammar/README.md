@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG739 · [Locative suitability, the pratijanādi roster and the two council suffixes](locative_suitability_pratijanadi_and_council_affixes/README.md). Writes the named suitability fibres, all twelve pratijanādi operands and the bhakta and council exceptions. The external sources clarify retained inner genitives, the comparison with benefactive kha, and the short Haima council stem alongside the P long one. Census 52,345 finite positions and 19,078 nominal positions with 21,647 nominal readings.
+
 PG738 · [Will, kinship and three genitive yat relations](kinship_mantra_and_ordered_genitive_yat/README.md). Derives will-based production, both son affixes and the three ordered genitive bases. PG501 supplies the binding-mantra formation, which now has a masculine case readout. Haima’s production of intoxication and the Pāṇinian verbal affix retain their distinct histories. Census 52,345 finite positions and 18,622 nominal positions with 21,097 nominal readings.
 
 PG737 · [The ordered yat pairs, price interpretations and licensed furrow heads](ordered_yat_boat_price_and_furrow_relations/README.md). Derives the boat, friend, fruit, punishment, monetary, furrow and balance families and four named ablatival conditions. The primary Mahābhāṣya supplies the restricted furrow-head rule, and the physical Haima page separates the uprooted crop from two money readings. Census 52,345 finite positions and 18,383 nominal positions with 20,823 nominal readings.

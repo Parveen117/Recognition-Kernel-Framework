@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG739 · [Locative suitability, the pratijanādi roster and the two council suffixes](research/panini_grammar/locative_suitability_pratijanadi_and_council_affixes/README.md). The PG14 lift forms the locative skill filter, named gaṇa replacement, independently typed benefactive path and qualifying compound roles in the same full history algebra.
+
 PG738 · [Will, kinship and three genitive yat relations](research/panini_grammar/kinship_mantra_and_ordered_genitive_yat/README.md). The PG14 lift gives named kinship, independently sourced GEN relations and source-specific hṛdya use their own typed domains. Equal spellings preserve root or affix ownership through zero specialization.
 
 PG737 · [The ordered yat pairs, price interpretations and licensed furrow heads](research/panini_grammar/ordered_yat_boat_price_and_furrow_relations/README.md). The PG14 typed lift composes the ordered operand filter with restricted compound-head admission and case-specific readout. Zero specialization preserves the original scope of both mūla and dharma histories.
