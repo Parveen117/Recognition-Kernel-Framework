@@ -3,6 +3,19 @@
 Monty. Dates follow Asia/Kolkata.
 
 
+## PG674 · Nested gam passive future and conditional completion
+
+Previous publication: fab17f48987f8027755fbf2a08a3062954d71e7a; tree fad386d0fd892faa81389e46f99da2e50d7bd336. Necessary check: Python 3.12.14, 215 assertions, one attempt.
+
+PG674: [Nested gam passive future and conditional completion](nested_gam_passive_future_conditional_completion/README.md). Frozen causal-gam lṛṭ/lṛṅ O/C-short/C-long paths now retain the selected unique-Y two-hetu history through 18 keys/54 interfaces. H1/H2 and D/V/Y remain distinct; all surfaces are prior controls. One morphology adapter/54 interfaces; zero finite/nominal/source credits.
+
+PG521–674 cumulative: 27 finite positions/readings; 2,234 nominal positions/2,528 readings; 249 morphology/1,382 interfaces; 122 compound/583 plans; 13 accent/57 records; 148 semantics/433 records; 109 syntax/301 records; 39 source-policy decisions after PG555−1; 275 observations. Absolute census: 51,846 finite positions; 8,012 nominal positions/9,271 readings. One provenance correction/one proof addendum; no census correction.
+
+Selected active nested-gam ten-lakāra layer and selected passive present system/lṛṭ/lṛṅ are locally CLOSED. Passive luṭ/liṭ/luṅ/āśīrliṅ, broader caṅ, additional/unknown karmans and wider gates remain Open. Claude owns execution/generators/untouched suites/replay; PG335 and PG357–PG363 remain preserved.
+
+The exact publication is the containing commit; existing review branch only, nonforce. No elapsed-hours, ETA or complete-Sanskrit claim.
+
+
 ## PG673 · Nested gam passive present-system completion
 
 Previous publication: 8d7cc15835df9daa99f27430a2511d41d2d6ae7e; tree 59f0913f3952d7edab921af540ac04221484c8fe. Necessary check: Python 3.12.14, 249 assertions, three attempts; attempts 1–2 exposed only a missing backlog link and missing absolute census in this handoff, repaired before the passing attempt.

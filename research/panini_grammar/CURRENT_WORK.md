@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG673
+# Pāṇini grammar · current written coverage at PG674
+
+PG674: [Nested gam passive future and conditional completion](nested_gam_passive_future_conditional_completion/README.md). The unique-Y two-hetu history now carries frozen causal-gam O/C-short/C-long lṛṭ/lṛṅ paths: 18 keys/54 nested-history interfaces. O retains H2 as `ay`; C deletes H2 and keeps short/long mit branches; H1's earlier lopa remains owned. All surfaces are prior controls, so one morphology adapter/54 interfaces and zero finite/nominal/source credits. Census remains 51,846 finite and 8,012 nominal/9,271 readings.
 
 PG673: [Nested gam passive present-system completion](nested_gam_passive_present_system_completion/README.md). PG409/PG664's unique-Y, two-lopa `gam-y-a` history now composes with PG365's source-pinned loṭ, laṅ and ordinary vidhiliṅ schedules: 27 genuinely new finite positions/readings and one morphology construction/27 readouts. Laṭ's nine old controls are withheld. The selected passive present system is locally CLOSED at 36 cells; other passive lakāras and wider gates remain Open. Census 51,846 finite and 8,012 nominal/9,271 readings.
 

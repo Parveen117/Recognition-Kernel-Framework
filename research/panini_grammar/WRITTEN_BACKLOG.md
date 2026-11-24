@@ -1,6 +1,8 @@
-# Written-development backlog at PG673
+# Written-development backlog at PG674
 
-Monty · 2026-11-24 · reviewed current parent 8d7cc15835df9daa99f27430a2511d41d2d6ae7e; historical closures below retain their exact original pins.
+Monty · 2026-11-24 · reviewed current parent fab17f48987f8027755fbf2a08a3062954d71e7a; historical closures below retain their exact original pins.
+
+PG674 closes [selected nested-gam passive lṛṭ/lṛṅ](nested_gam_passive_future_conditional_completion/README.md): 18 keys/54 O/C-short/C-long history interfaces. H1 remains the earlier owned lopa; O retains H2, while C deletes H2 and keeps the source-qualified short/long mit branch. All 54 surfaces are frozen causal-passive controls, so no finite/readings/source credit is repeated. Passive luṭ/liṭ/luṅ/āśīrliṅ, wider caṅ/roles/lexical/native work remain genuine Open obligations. Census remains 51,846 finite; 8,012 nominal positions/9,271 readings.
 
 PG673 closes the [selected nested-gam passive present system](nested_gam_passive_present_system_completion/README.md). The frozen unique-Y/two-lopa `gam-y-a` history receives nine loṭ, nine source-qualified laṅ and nine ordinary vidhiliṅ positions/readings from PG365's pinned schedules: 27 new finite positions/readings and one morphology adapter/27 readouts. Nine PG664 laṭ controls receive no repeated credit. Other passive lakāras, additional/unknown karmans, broader caṅ, other roots/senses/preverbs and wider lexical/semantic/native work remain genuinely unconstructed. Census 51,846 finite; 8,012 nominal positions/9,271 readings.
 
