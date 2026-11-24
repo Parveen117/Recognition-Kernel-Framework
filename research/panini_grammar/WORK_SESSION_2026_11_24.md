@@ -2,6 +2,16 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG710 · Vedic rāti as gift, giver and giving instrument
+
+PG710 · [Vedic rāti as gift, giver and giving instrument](vedic_rati_donor_gift_and_nanj_policies/README.md). Six new nominal positions and six readings distinguish ktiN gift and instrument, ktiC donor and the two sources of the negative-agent form. Sāyaṇa’s giver and the Śukla gift analyses share rātim but differ in their argument structure. The two competing compound histories converge on árātayaḥ. Census 52,332 finite positions and 9,367 nominal positions with 10,967 nominal readings.
+
+0 new nonfinite constructions/0 retained paths. Accent 1/5, syntax 1/7, phonological junction 1/7 constructions/readouts. 8 source observations and 6 source-policy decisions. One morphology construction/7 interfaces. One compound construction/two plans. Finite increments 0 positions and 0 readings. Nominal increments 6 positions and 6 readings. The publication parent is 8944036b7a39f457f013e8bf4c1903f56c7644fb. The containing commit pins the documents and evidence.
+
+PG521–710 cumulative: 513 finite positions/1,429 net finite readings, 3,589 nominal positions/4,224 readings, 284 morphology constructions/2,945 interfaces, 128 compound constructions/593 plans, 26 accent constructions/105 records, 153 semantics constructions/454 records, 133 syntax constructions/435 records, 128 source-policy decisions after PG555−1 and 444 observations. Seventeen junction constructions/50 readouts since PG680 and 20 nonfinite constructions/26 paths since PG700. Four provenance corrections and one proof addendum. PG335 and PG357–363 CLOSED results are preserved.
+
+The six selected rāti and arāti nominal positions close locally. The evidence gives an explicit 3.3.174 example for the donor inside the negative construction, separate from the maternal remedy’s still-Open ktiC entitlement. The wider agentive/feminine Vedic and Classical inventories and their source policies remain unconstructed. C2–C5 and S1–S7 retain their open work. Claude retains execution.
+
 ## PG709 · The Vedic rite-maker and maternal remedy under retained or deleted n
 
 PG709 · [The Vedic rite-maker and maternal remedy under retained or deleted n](vedic_nis_kr_maker_and_maternal_remedy/README.md). Two new nominal positions and four readings derive the rite-maker and the maternal remedy. Vājasaneyi Prātiśākhya specifies initial preverb-n loss. Śākala and Śukla witnesses admit the loss at the named positions, and Taittirīya preserves n. The maker’s syntactic bearer and the remedy’s competing affix analyses retain their own source policies. Census 52,332 finite positions and 9,361 nominal positions with 10,961 nominal readings.

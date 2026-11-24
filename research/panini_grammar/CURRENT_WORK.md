@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG709
+# Pāṇini grammar · current written coverage at PG710
+
+PG710 · [Vedic rāti as gift, giver and giving instrument](vedic_rati_donor_gift_and_nanj_policies/README.md). Six new nominal positions and six readings distinguish ktiN gift and instrument, ktiC donor and the two sources of the negative-agent form. Sāyaṇa’s giver and the Śukla gift analyses share rātim but differ in their argument structure. The two competing compound histories converge on árātayaḥ. Census 52,332 finite positions and 9,367 nominal positions with 10,967 nominal readings.
 
 PG709 · [The Vedic rite-maker and maternal remedy under retained or deleted n](vedic_nis_kr_maker_and_maternal_remedy/README.md). Two new nominal positions and four readings derive the rite-maker and the maternal remedy. Vājasaneyi Prātiśākhya specifies initial preverb-n loss. Śākala and Śukla witnesses admit the loss at the named positions, and Taittirīya preserves n. The maker’s syntactic bearer and the remedy’s competing affix analyses retain their own source policies. Census 52,332 finite positions and 9,361 nominal positions with 10,961 nominal readings.
 

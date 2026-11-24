@@ -1,0 +1,58 @@
+{
+  "schema": "rkf.panini.pg710.state.v1",
+  "author": "Monty",
+  "date": "2026-11-24",
+  "publication_parent": "8944036b7a39f457f013e8bf4c1903f56c7644fb",
+  "baseline": {
+    "commit": "8944036b7a39f457f013e8bf4c1903f56c7644fb",
+    "path": "research/panini_grammar/vedic_nis_kr_maker_and_maternal_remedy/STATE.json"
+  },
+  "finite_positions": 52332,
+  "nominal_positions": 9367,
+  "nominal_readings": 10967,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 6,
+  "new_nominal_readings": 6,
+  "new_positions": 6,
+  "new_position_readings": 6,
+  "new_compound_constructions": 1,
+  "new_compound_plans": 2,
+  "new_morphology_constructions": 1,
+  "new_morphology_interfaces": 7,
+  "new_nonfinite_constructions": 0,
+  "new_nonfinite_readouts": 0,
+  "new_accent_constructions": 1,
+  "new_accent_readouts": 5,
+  "new_syntactic_constructions": 1,
+  "new_syntactic_readouts": 7,
+  "new_phonological_constructions": 1,
+  "new_phonological_readouts": 7,
+  "new_source_observations": 8,
+  "new_source_policy_decisions": 6,
+  "local_closure": [
+    "Six attested rā dāne nominal positions and six segmental readings on their declared Vedic domains",
+    "Two source-named negative-compound plans with a common accepted plural and initial accent"
+  ],
+  "open_obligations": [
+    "Exact primary authorization of ktiC outside the addressed Vedic contexts and whether the positive RV 1.29.3 donor is analyzed with that same affix by another precise witness.",
+    "Remaining cases, recensions, undesignated lexical roles and the exact wider relation of 3.3.94 to non-agentive kāraka designations. The maternal-remedy ktiC licensing, other 3.3.174 words, the broader scope of Vedic vikalpa and the unresolved C2–C5/S1–S7 materials remain Open.",
+    "Claude retains generators, grammar execution, old suites and certificate replay."
+  ],
+  "authorization": {
+    "completion_status": "OPEN wider gates",
+    "PG335": "-9 finite/-12 readings preserved",
+    "PG357_PG363": "CLOSED preserved",
+    "continuous_executed_hours_claimed": false
+  },
+  "runtime_policy": {
+    "python": "3.12 only",
+    "document_check_status": "PASS",
+    "document_check_attempts": 2,
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "old_suites": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE"
+  },
+  "grammar_executions": []
+}
