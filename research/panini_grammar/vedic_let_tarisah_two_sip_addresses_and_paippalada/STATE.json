@@ -1,0 +1,54 @@
+{
+  "schema": "rkf.panini.pg705.state.v1",
+  "author": "Monty",
+  "date": "2026-11-24",
+  "publication_parent": "a6bff8cdb287e691a871cdde59b365b710ad0880",
+  "baseline": {
+    "commit": "a6bff8cdb287e691a871cdde59b365b710ad0880",
+    "path": "research/panini_grammar/vedic_let_tarisat_marker_grade_and_patati_control/STATE.json"
+  },
+  "finite_positions": 52329,
+  "nominal_positions": 9358,
+  "nominal_readings": 10956,
+  "new_finite_positions": 1,
+  "new_finite_readings": 1,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 0,
+  "new_positions": 1,
+  "new_position_readings": 1,
+  "new_morphology_constructions": 1,
+  "new_morphology_interfaces": 2,
+  "new_nonfinite_constructions": 0,
+  "new_nonfinite_readouts": 0,
+  "new_accent_constructions": 1,
+  "new_accent_readouts": 2,
+  "new_syntactic_constructions": 1,
+  "new_syntactic_readouts": 6,
+  "new_phonological_constructions": 1,
+  "new_phonological_readouts": 2,
+  "new_source_observations": 9,
+  "new_source_policy_decisions": 5,
+  "local_closure": "CLOSED for the selected second-singular position and the exact source-qualified longevity and donor relations. Paippalāda variants and wider source obligations remain Open.",
+  "open_obligations": [
+    "Original print glyphs behind the 3.2.34 citation and lineage of the electronic transcription.",
+    "Direct manuscript or facsimile collation of the two PS endings, their exact finite histories and recensional accents. Kubisch’s conjectures retain a separate type.",
+    "Further donor formula and longevity recensions, the earlier causal tārayati path, and a broader leṭ construction inventory. C2–C5 and S1–S7 remain active and execution is Claude-deferred."
+  ],
+  "authorization": {
+    "completion_status": "OPEN wider gates",
+    "PG335": "-9 finite/-12 readings preserved",
+    "PG357_PG363": "CLOSED preserved",
+    "continuous_executed_hours_claimed": false
+  },
+  "runtime_policy": {
+    "python": "3.12 only",
+    "document_check_status": "PASS",
+    "document_check_attempts": 1,
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "old_suites": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE"
+  },
+  "grammar_executions": [],
+  "accounting_correction": "The PG701–704 handoff overcounted junction constructions by two. Their running construction totals since PG680 are 9, 10, 11 and 12. The corresponding readouts stay 22, 25, 27 and 29. PG705 derives one construction and two readouts, giving 13/31. This corrects the handoff sums only."
+}

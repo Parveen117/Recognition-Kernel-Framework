@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG705 · [Second-singular tāriṣaḥ and the Anumati and donor witnesses](vedic_let_tarisah_two_sip_addresses_and_paippalada/README.md). Mahīdhara’s second singular uses two differently owned siP records. The Anumati and donor formulas support one new finite position and reading. The Śukla repeated preverb and the Taittirīya nominal prefix remain distinct, and the Paippalāda readings retain their manuscript and conjectural statuses. Census 52,329 finite positions and 9,358 nominal positions with 10,956 nominal readings.
+
 PG704 · [Two grade histories for tāriṣat and the no-siP patāti control](vedic_let_tarisat_marker_grade_and_patati_control/README.md). Two source policies produce the long vowel in tāriṣat. The exact patāti control has śaP and retains finite i, while Nyāsa’s padāti follows its own source-qualified d-root history. Three new finite positions and readings are credited, two directly attested and one constructed from a named commentary example. Census 52,328 finite positions and 9,358 nominal positions with 10,956 nominal readings.
 
 PG703 · [Two source-qualified Vedic leṭ predicates](vedic_let_vyath_jus_owned_sip_and_hi_accent/README.md). Mahīdhara’s vyathiṣat and the Ṛgvedic jóṣiṣat now have written leṭ derivations. The retroflexed siP, inserted iṭ and t-ending retain separate owners. The received RV accent has Sāyaṇa’s explicit hi exception. Two new finite positions and two readings are credited. Census 52,325 finite positions and 9,358 nominal positions with 10,956 nominal readings.

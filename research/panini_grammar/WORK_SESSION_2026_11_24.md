@@ -2,6 +2,18 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG705 · Second-singular tāriṣaḥ and the Anumati and donor witnesses
+
+PG705 · [Second-singular tāriṣaḥ and the Anumati and donor witnesses](vedic_let_tarisah_two_sip_addresses_and_paippalada/README.md). Mahīdhara’s second singular uses two differently owned siP records. The Anumati and donor formulas support one new finite position and reading. The Śukla repeated preverb and the Taittirīya nominal prefix remain distinct, and the Paippalāda readings retain their manuscript and conjectural statuses. Census 52,329 finite positions and 9,358 nominal positions with 10,956 nominal readings.
+
+0 new nonfinite constructions/0 retained paths. Accent 1/2, syntax 1/6, phonological junction 1/2 constructions/readouts. 9 source observations and 5 source-policy decisions. One morphology construction/2 interfaces. Finite increments 1 positions and 1 readings. Nominal increments 0 positions and 0 readings. The publication parent is a6bff8cdb287e691a871cdde59b365b710ad0880. The containing commit pins the documents and evidence.
+
+PG521–705 cumulative: 510 finite positions/1,426 net finite readings, 3,580 nominal positions/4,213 readings, 280 morphology constructions/2,930 interfaces, 126 compound constructions/590 plans, 22 accent constructions/90 records, 153 semantics constructions/454 records, 129 syntax constructions/417 records, 102 source-policy decisions after PG555−1 and 404 observations. Thirteen junction constructions/31 readouts since PG680 and 20 nonfinite constructions/26 paths since PG700. Four provenance corrections and one proof addendum. PG335 and PG357–363 CLOSED preserved.
+
+The PG701–704 handoff overcounted junction constructions by two. Their running construction totals since PG680 are 9, 10, 11 and 12. The corresponding readouts stay 22, 25, 27 and 29. PG705 derives one construction and two readouts, giving 13/31. This corrects the handoff sums only.
+
+The P2sg route, two siP owners and parallel donor and longevity formulas are addressed. The Paippalāda manuscript endings, exact other-recension forms and the earlier causal path retain their separate obligations. C2–C5 and S1–S7 stay Open overall. Claude retains execution.
+
 ## PG704 · Two grade histories for tāriṣat and the no-siP patāti control
 
 PG704 · [Two grade histories for tāriṣat and the no-siP patāti control](vedic_let_tarisat_marker_grade_and_patati_control/README.md). Two source policies produce the long vowel in tāriṣat. The exact patāti control has śaP and retains finite i, while Nyāsa’s padāti follows its own source-qualified d-root history. Three new finite positions and readings are credited, two directly attested and one constructed from a named commentary example. Census 52,328 finite positions and 9,358 nominal positions with 10,956 nominal readings.

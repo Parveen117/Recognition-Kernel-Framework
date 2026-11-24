@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG705 · [Second-singular tāriṣaḥ and the Anumati and donor witnesses](research/panini_grammar/vedic_let_tarisah_two_sip_addresses_and_paippalada/README.md). Specialization retains the dual siP ownership, final consonant and clause-boundary operators. All source histories share one finite reading and preserve their distinct grades and attachments.
+
 PG704 · [Two grade histories for tāriṣat and the no-siP patāti control](research/panini_grammar/vedic_let_tarisat_marker_grade_and_patati_control/README.md). Retained marker identity distinguishes long root grade from vowel contact. Specialization keeps four operative histories, the attested t and commentarial d distinction, and the readout quotient by finite word.
 
 PG703 · [Two source-qualified Vedic leṭ predicates](research/panini_grammar/vedic_let_vyath_jus_owned_sip_and_hi_accent/README.md). The sounded iṭ, pedagogical siP i and finite tiP i have separate owners. Source-conditioned cuts retain pada, actual tone and suffix spelling.

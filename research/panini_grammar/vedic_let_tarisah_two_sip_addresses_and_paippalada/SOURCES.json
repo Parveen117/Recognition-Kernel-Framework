@@ -1,0 +1,114 @@
+{
+  "publication_parent": "a6bff8cdb287e691a871cdde59b365b710ad0880",
+  "date": "2026-11-24",
+  "project_dependencies": [
+    {
+      "commit": "a6bff8cdb287e691a871cdde59b365b710ad0880",
+      "path": "research/panini_grammar/vedic_let_tarisat_marker_grade_and_patati_control/STATE.json",
+      "git_blob_sha": "a3bc94ac7f93c85f8fe28cb48558a51221666d87",
+      "bytes": 2263,
+      "sha256": "4b76557a61812607125be3f7bb13075b68cddb4bc7e0bb1d8b200e065beca60f",
+      "use": "Absolute census and distinct third-person word prior"
+    },
+    {
+      "commit": "a6bff8cdb287e691a871cdde59b365b710ad0880",
+      "path": "research/panini_grammar/vedic_let_tarisat_marker_grade_and_patati_control/RELATION.json",
+      "git_blob_sha": "b8ac1a4466acfe2917f721feebd0eeacf46684c1",
+      "bytes": 6468,
+      "sha256": "d5eb18d7603d0af2adac1aaf8b3ade8c37c2bdce053d9ba329a5f9f44b263e63",
+      "use": "Bare tṝ grade alternatives and separate pra/naḥ boundary"
+    },
+    {
+      "commit": "500b4e98f4b6f0442065eedad9832b3e7c5683dd",
+      "path": "research/panini_grammar/vedic_let_vyath_jus_owned_sip_and_hi_accent/RELATION.json",
+      "git_blob_sha": "198510b6b068b836727bf81d3c00bc67606d5882",
+      "bytes": 4931,
+      "sha256": "68ae89cf8f2292961658adf032dd95704bc7931caf0008f29ffeb3b5dbb06900",
+      "use": "Original siP pronunciation i, inserted iṭ and tiṅ i distinction"
+    },
+    {
+      "commit": "b05e46bf78f165e17c4766d6d1179a1699a72fcf",
+      "path": "research/panini_grammar/grammar_construction/NATIVE_OPERATOR_LIFT.md",
+      "git_blob_sha": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+      "bytes": 11855,
+      "sha256": "f52e7f5cf539ef56859b890669ef738848491e4005e73be75baa49c899b5dafd",
+      "use": "PG14 full construction and zero-specialization"
+    },
+    {
+      "commit": "ada439f6ba3109d798b41c216fe7cedc79e60afb",
+      "path": "research/panini_grammar/SUTRAPATHA.tsv",
+      "git_blob_sha": "1840f3b5349b21112ac05a7efaa59705fd4efee0",
+      "bytes": 270179,
+      "sha256": "70dfdfe6ba433b6e211f0f01b078c1b6d13a1ad0938e06fd5789298a04583634",
+      "use": "Exact 31034/32034, 34078, 81006 and sound contacts"
+    }
+  ],
+  "web_evidence": [
+    {
+      "id": "VS34",
+      "url": "https://sa.wikisource.org/wiki/शुक्लयजुर्वेदः/अध्यायः_३४",
+      "locator": "Mādhyandina 34.8, lines 303–306",
+      "use": "Actual Anumati petition; two glosses; Mahīdhara's ṇ-it attribution with raw 3.2.34"
+    },
+    {
+      "id": "W570",
+      "url": "https://sa.wikisource.org/wiki/पृष्ठम्:शुक्लयजुर्वेदसंहिता_(उवट-महीधर)_Shukla_Yajurveda.pdf/५७०",
+      "locator": "Digital page transcript 570, lines 94–97",
+      "use": "Same exact assigned Anumati verse and quotation; print glyph check Open"
+    },
+    {
+      "id": "TS3",
+      "url": "https://infolyter.in/gran/stotrams/kyts-3.3-agne-tejasvintejasvee-krishna-yajurveda-taittiriya-samhita-patha",
+      "locator": "Taittirīya 3.3.11.4, continuous section 35, line 205",
+      "use": "Actual Anumati formula ending tāriṣaḥ with preceding kratve and dakṣāya"
+    },
+    {
+      "id": "KS",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/ind/aind/ved/yvs/ks/kst.htm",
+      "locator": "Kāṭhaka XIII.16, p. 199 line 14, electronic line 8596",
+      "use": "Different nourishment clause followed by the same actual second singular ending"
+    },
+    {
+      "id": "PS",
+      "url": "https://d-nb.info/104295707X/34",
+      "locator": "Philipp Kubisch, pp. 40–41 for PS 20.4.10, lines 2064–2086, and PS 20.27.10 lines 7940–7961; method line 373",
+      "use": "Conjectural +tāriṣaḥ and exact Orissa and Kashmir variants in two clauses"
+    },
+    {
+      "id": "VS11",
+      "url": "https://vishvasa.github.io/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/uvaTa-mahIdharau/11/",
+      "locator": "Mādhyandina 11.83 lines 604, 607, 611–612",
+      "use": "Direct double pra, Uvaṭa paraphrase and Mahīdhara's detailed leṭ P2 derivation and metric rule"
+    },
+    {
+      "id": "DONA",
+      "url": "https://vedapath.app/en/shukla-yajurveda/adhyaya-11/83",
+      "locator": "Mādhyandina 11.83, marked Sanskrit and transliteration",
+      "use": "Surface tāriṣa ūrjam, accent and preverb occurrence"
+    },
+    {
+      "id": "TS4",
+      "url": "https://vedapath.app/en/krishna-yajurveda/kanda-4/2/3/1",
+      "locator": "Taittirīya 4.2.3.1 original and padapāṭha display",
+      "use": "Nominal pradātāram and separate pra"
+    },
+    {
+      "id": "TSG",
+      "url": "https://vedavms.in/docs/TSG4/TS%204.2%20Ghanam%20Sanskrit.pdf",
+      "locator": "Taittirīya 4.2.3.1 ghaṇa, P10 units 8–11, lines 1881–1900",
+      "use": "Explicit separate pra, donor, terminal s/visarga and long-ū contacts"
+    },
+    {
+      "id": "TSK",
+      "url": "https://vedavms.in/docs/TSK5-Kramam/TS%205.2%20Kramam%20Sanskrit.pdf",
+      "locator": "TS 5.2 krama, annapate ritual explanation around pradātāram",
+      "use": "Explicit pra-dātāram segmentation with preceding independent pra"
+    },
+    {
+      "id": "MBH",
+      "url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/html/sa_pataJjali-vyAkaraNamahAbhASya.htm",
+      "locator": "Kielhorn II.44.9, Vārttika after 3.1.34, event 27",
+      "use": "Exact identification of the ṇ-it Vārttika"
+    }
+  ]
+}
