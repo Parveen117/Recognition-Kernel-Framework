@@ -1,6 +1,8 @@
-# Written-development backlog at PG672
+# Written-development backlog at PG673
 
-Monty · 2026-11-24 · reviewed current parent b17aa2c2e1b508858c24f6820203279522676e9a; historical closures below retain their exact original pins.
+Monty · 2026-11-24 · reviewed current parent 8d7cc15835df9daa99f27430a2511d41d2d6ae7e; historical closures below retain their exact original pins.
+
+PG673 closes the [selected nested-gam passive present system](nested_gam_passive_present_system_completion/README.md). The frozen unique-Y/two-lopa `gam-y-a` history receives nine loṭ, nine source-qualified laṅ and nine ordinary vidhiliṅ positions/readings from PG365's pinned schedules: 27 new finite positions/readings and one morphology adapter/27 readouts. Nine PG664 laṭ controls receive no repeated credit. Other passive lakāras, additional/unknown karmans, broader caṅ, other roots/senses/preverbs and wider lexical/semantic/native work remain genuinely unconstructed. Census 51,846 finite; 8,012 nominal positions/9,271 readings.
 
 PG672 closes selected active nested-gam luṅ: Atharvaveda 6.74.1 positively controls `ajīgamat`; pinned caṅ and secondary-ending maps compose 18 P/A interfaces while marking 17 as rule-composed. One morphology adapter, one observation/decision, zero finite credit. The selected active ten-lakāra layer is locally closed. All passive outer lakāras, broader caṅ, other roots/senses/preverbs and wider lexical/semantic/native work remain unconstructed. Census unchanged at 51,819 finite; 8,012 nominal positions/9,271 readings.
 

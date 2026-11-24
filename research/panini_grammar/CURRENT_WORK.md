@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG672
+# Pāṇini grammar · current written coverage at PG673
+
+PG673: [Nested gam passive present-system completion](nested_gam_passive_present_system_completion/README.md). PG409/PG664's unique-Y, two-lopa `gam-y-a` history now composes with PG365's source-pinned loṭ, laṅ and ordinary vidhiliṅ schedules: 27 genuinely new finite positions/readings and one morphology construction/27 readouts. Laṭ's nine old controls are withheld. The selected passive present system is locally CLOSED at 36 cells; other passive lakāras and wider gates remain Open. Census 51,846 finite and 8,012 nominal/9,271 readings.
 
 PG672: [Nested gam active caṅ-aorist completion](nested_gam_active_cang_aorist_completion/README.md). Atharvaveda 6.74.1 positively controls P3sg `ajīgamat`; pinned caṅ and ending schedules compose the other 17 P/A cells without claiming individual attestation. One morphology adapter/18 interfaces, one observation/decision; zero finite/nominal credits. The selected active ten-lakāra layer closes locally; passive/wider gates remain Open.
 

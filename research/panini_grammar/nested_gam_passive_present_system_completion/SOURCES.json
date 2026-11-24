@@ -1,0 +1,15 @@
+{
+  "schema": "rkf.panini.pg673.sources.v1",
+  "source_policy": "Reuse PG365's pinned Kashika/Kaumudi/Balamanorama fields and passive present-system schedules; transfer only the matching yak-final short-a ending seam to the frozen PG409/PG664 nested-gam stem.",
+  "dependency_pins": [
+    {"commit":"ee70c4e19ab7efb9edcf762ed6e63a85fb1ad97a","path":"research/panini_grammar/nested_gam_passive_two_lopas_and_retained_agents/STATE.json","bytes":1996,"sha256":"c826a94fa3405625e2d9132bbb6672d33e6e70e8fe4d8bd3de5ac2f92ba2bea2","git_blob_sha":"73509ddecb47fc56425bf1646d57046ccd0b087e"},
+    {"commit":"ee70c4e19ab7efb9edcf762ed6e63a85fb1ad97a","path":"research/panini_grammar/nested_gam_passive_two_lopas_and_retained_agents/RELATION.json","bytes":3387,"sha256":"74f74ef50b0b003d4535ecd0c736b38e73c6d6ae5aa9f6a91e06dc7d2b069e08","git_blob_sha":"6ca7de72f5a49235103bf3d983b0b3be8bb9c912"},
+    {"commit":"701a6666901cb39e2facf20da883abf1fedf9690","path":"research/panini_grammar/nested_gam_passive_present_person_number_completion/STATE.json","bytes":2735,"sha256":"9e85514a707de60a4d2f2d60ebe88e3d31958fbb75c2a3ede6265d5bf8438b7e","git_blob_sha":"a62afc1448b1258766d74baea05b54ff0c63c03f"},
+    {"commit":"701a6666901cb39e2facf20da883abf1fedf9690","path":"research/panini_grammar/nested_gam_passive_present_person_number_completion/PASSIVE_PRESENT_READOUTS.tsv","bytes":782,"sha256":"27a17603e246298da930396435873b0ee4294157c265ac4cecaa15f4afc201dc","git_blob_sha":"3e419486604895ab8b2cedc43223252b04b77c6b"},
+    {"commit":"07dcddc1d77101221dfe8912eb9757b79d8e7aa8","path":"research/panini_grammar/bhid_causative_passive_present_system_completion/SOURCES.json","bytes":35151,"sha256":"72243611825d59d5086fdf7f5a0dd51e901cd6fcc0ddcce03f83055712ca2e2d","git_blob_sha":"d57e12266fd75717abdebffda11fde8a13032185"},
+    {"commit":"07dcddc1d77101221dfe8912eb9757b79d8e7aa8","path":"research/panini_grammar/bhid_causative_passive_present_system_completion/PARADIGMS.md","bytes":892,"sha256":"7bbcccd5b0ed019765d38e2eb900de3f9d341bd38b6dd46fbb401b54dba0a448","git_blob_sha":"f06ed14b9b7e1d1b37fcaa3fe3bdbd3aed93fc8b"},
+    {"commit":"8d7cc15835df9daa99f27430a2511d41d2d6ae7e","path":"research/panini_grammar/nested_gam_active_cang_aorist_completion/STATE.json","bytes":2385,"sha256":"cdccb41453d3e499d2611ee507af02b3341d1e9699c865ac10f0428ffbe57d43","git_blob_sha":"6d476c55df7de840f9d146f1b07806b9663454f1"}
+  ],
+  "borrowed_source_fields": ["Kashika 1.3.13, 3.1.67, 3.3.161-162, 3.4.78-80, 3.4.85, 3.4.90-93, 3.4.99-107, 3.4.113, 6.4.71, 7.2.79, 7.2.81", "Kaumudi/Balamanorama 3.2.111 selected lang reading"],
+  "decisions": ["Count 27 previously unconstructed finite keys/readings; withhold nine PG664 lat controls.", "Treat every word as a rule-composed readout, not an independently attested quotation.", "Keep raw transmitted lung and every other passive lakara Open."]
+}

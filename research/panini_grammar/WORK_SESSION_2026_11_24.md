@@ -3,6 +3,19 @@
 Monty. Dates follow Asia/Kolkata.
 
 
+## PG673 · Nested gam passive present-system completion
+
+Previous publication: 8d7cc15835df9daa99f27430a2511d41d2d6ae7e; tree 59f0913f3952d7edab921af540ac04221484c8fe. Necessary check: Python 3.12.14, 249 assertions, three attempts; attempts 1–2 exposed only a missing backlog link and missing absolute census in this handoff, repaired before the passing attempt.
+
+PG673: [Nested gam passive present-system completion](nested_gam_passive_present_system_completion/README.md). PG409/PG664's unique-Y controller, distinct instrumental D/V agents and two owned lopas now carry PG365's source-pinned loṭ, laṅ and ordinary vidhiliṅ schedules: 27 new finite positions/readings, one morphology adapter/27 readouts. Nine laṭ controls are withheld; no source-observation credit is repeated.
+
+PG521–673 cumulative: 27 finite positions/readings; 2,234 nominal positions/2,528 readings; 248 morphology/1,328 interfaces; 122 compound/583 plans; 13 accent/57 records; 148 semantics/433 records; 109 syntax/301 records; 39 source-policy decisions after PG555−1; 275 observations. Absolute census: 51,846 finite positions; 8,012 nominal positions/9,271 readings. One provenance correction/one proof addendum; no census correction.
+
+Selected active nested-gam ten-lakāra layer and selected passive laṭ/loṭ/laṅ/ordinary-vidhiliṅ present system are locally CLOSED. Other passive lakāras, broader caṅ, additional/unknown karmans, lexical/semantic/automatic recognition, nine padī meanings, patradatam/128/C2–C5/S1–S7/native/global work remain Open. Claude owns execution/generators/untouched suites/replay. PG335 correction and PG357–PG363 CLOSED remain preserved.
+
+The exact publication is the containing commit; existing review branch only, nonforce. No elapsed-hours, ETA or complete-Sanskrit claim.
+
+
 ## PG672 · Nested gam active caṅ-aorist completion
 
 Previous publication: b17aa2c2e1b508858c24f6820203279522676e9a; tree b308d28f8851b61ad854a609bf7933382a533719. Necessary check: Python 3.12.14, 277 assertions, one attempt.
