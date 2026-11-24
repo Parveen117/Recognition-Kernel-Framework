@@ -1,3 +1,6 @@
+Warning: truncated output (original token count: 20102)
+Total output lines: 612
+
 Warning: truncated output (original token count: 20109)
 Total output lines: 609
 
@@ -5,6 +8,8 @@ Warning: truncated output (original token count: 129617)
 Total output lines: 5565
 
 # Canonical Mathematics Index
+
+PG802 · [Obligatory compound ṭhañ, rūpya and vini possession](research/panini_grammar/obligatory_compound_than_rupya_and_vini_possession/README.md). PG14 retains compound and semantic relation, eligibility guard, suffix/samāsānta owner, source and outcome through typed zero specialization.
 
 PG801 · [Named valac, nipātana and selected ini-ṭhan classes](research/panini_grammar/named_valac_nipatana_and_selected_ini_than_classes/README.md). PG14 retains base, possession/name/enlargement relation, referent guard, affix/augment/lopa owner, roster boundary, source and outcome through typed zero specialization.
 
@@ -254,9 +259,7 @@ PG679: [Joined sam–gam active-P caṅ completion](research/panini_grammar/sam_
 
 PG678: [Atharvaveda sam–gam tmesis and PG672 witness-scope correction](research/panini_grammar/atharvaveda_sam_gam_tmesis_and_pg672_scope_correction/README.md). The full PG14 history carrier retains separated preverb, intervening clitic and caṅ verb as typed source-order grades; zero specialization recovers the clause without erasing `sam` or upgrading it to a null-preverb witness. One syntax construction/four readouts and one provenance correction; census unchanged.
 
-PG677: [Nested gam passive blessing and aorist completion](research/panini_grammar/nested_gam_passive_blessing_aorist_completion/README.md). The inherited inner `gamay` blocks a bare-gam mit branch after H2-lopa. Āśīrliṅ adds 9 positions/19 readings; luṅ adds 9/18, with actual ciṇ 3sg and dependent 2pl dh/ḍh ownership. Two morphology adapters/37 interfaces. The selected passive ten-lakāra layer is locally CLOSED. Census 51,873 finite and 8,012 nominal/9,271 readings.
-
-PG676: [Nested g…109 tokens truncated…(papers/rkf_completed_weil_endpoint/development/SE19_SE18_AUDIT.md)
+PG677: [Nested gam passive blessing and aorist completion](research/panini_grammar/nested_gam_passive_blessing_aorist_com…102 tokens truncated…(papers/rkf_completed_weil_endpoint/development/SE19_SE18_AUDIT.md)
 withdraws its inferred eta_pw>=0.58938/tightness and its finite-stage
 max-only local-to-global conclusion. The audit repairs the slope proof,
 auxiliary-row limit, pole polynomial and exterior majorant, and restores

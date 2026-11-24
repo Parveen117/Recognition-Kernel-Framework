@@ -1,12 +1,17 @@
+Warning: truncated output (original token count: 20153)
+Total output lines: 499
+
 Warning: truncated output (original token count: 20180)
 Total output lines: 496
 
 Warning: truncated output (original token count: 93375)
 Total output lines: 2193
 
-# Written-development backlog at PG801
+# Written-development backlog at PG802
 
-Monty · 2026-11-25 · reviewed parent 226b57bd20ee8e2f9edcef9664b319eba5a4cb99. Historical closures below retain their exact pins.
+Monty · 2026-11-25 · reviewed parent f9bff952738b78c0a982e0ee3e069ae250fda8a2. Historical closures below retain their exact pins.
+
+PG802 · [Obligatory compound ṭhañ, rūpya and vini possession](obligatory_compound_than_rupya_and_vini_possession/README.md). Selected 5.2.118–121 outputs and guards are CLOSED. Patanjali/Kāśikā anuvṛtti priority, wider compound productivity, monetary evidence, paradigms and accent remain Open. The large 5.2.122 Vedic bahula roster is genuinely unconstructed and next. C2–C5 and S1–S7 remain Open; S5 is 99/103 and S6 retains the independent 5.56 k-it effect. Claude retains execution.
 
 PG801 · [Named valac, nipātana and selected ini-ṭhan classes](named_valac_nipatana_and_selected_ini_than_classes/README.md). Selected 5.2.113–117 outputs, controls and operation owners are CLOSED. Undisplayed vṛīhyādi/tuṇḍādi members remain genuinely unconstructed; complete paradigms, accent and source priority for the sthūṇā gender and `sva` vowel remain Open. Vasu-only `kāryika/hāryika` are Accepted on that source, not shared evidence. Continue from 5.2.118. C2–C5 and S1–S7 remain Open; S5 is 99/103 and S6 retains the independent 5.56 k-it effect. Claude retains execution.
 
@@ -156,9 +161,7 @@ PG729 · [Recitation errors, food suitability and assigned portions](recitation_
 
 PG728 · [The printed chattrādi rosters and prefixed sthā](chattradi_print_rosters_and_prefixed_stha_nominals/README.md). The Kāśikā list's nine outstanding head slots, including the three named prefixed sthā realizations of one slot, have their written case fibres. Four additional Vasu heads and three earlier male heads have source-qualified feminine derivations. The seven other Vasu operands or alternatives, the joined Gaṇapāṭha label and its discrepant lexical shapes retain the obligations recorded in the stage. 4.4.63–65 has direct print evidence and separate scope work. Wider C2–C5/S1–S7 and Claude execution retain their obligations.
 
-PG727 · [Quoted belief, habitual acts and two feminine affix routes](belief_habit_feminine_and_mallinatha_readings/README.md). Selected 4.4.60–62 case fibres, the named 4.4.57 Bhāṣāvṛtti addition, and the two long 4.4.59 feminines are locally CLOSED. The original Bhāṣāvṛtti short female glyph, the primary transmission of Māgha's alternate lexical readings and the remaining qualified chattrādi members retain their own work. Follow the separate Kāśikā and Vasu lists, then 4.4.63–65. Wider C2–C5/S1–S7 and Claude execution retain their obligations.
-
-PG726 · [Craft, implement suffixes and Bhaṭṭi’s short readings](craft_and_implement_affix_and_bhatti_policies/README.md). Selected 4.4.55–59 case fibres and the 1928 printed short vowel and lexical-head collation are locally CLOSED. The print basis for the extra Mahābhāṣya craft examples, exact primary paiṭharika interpretation, and authority and derivation for the two short Bhaṭṭi spellings outside their actual compound addresses remain Open. 4.4.60–62 belief, h…180 tokens truncated…ed. Puṃs nasal alternatives retained; all full strong-case/accent products remain Open.
+PG727 · [Quoted belief, habitual acts and two feminine affix routes](belief_habit_feminine_and_mallinatha_readings/README.md). Selected 4.4.60–62 case fibres, the named 4.4.57 Bhāṣāvṛtti addition, and the two long 4.4.59 feminines are locally CLOSED. The original Bhāṣāvṛtti short female glyph, the primary transmission of Māgha's alternate lexical readings and the remaining qualified chattrādi members retain their own work. Follow the separate Kāśikā and Vas…153 tokens truncated…ed. Puṃs nasal alternatives retained; all full strong-case/accent products remain Open.
 - Next actual13918-entry and12813-entry registers/two bāhu senses/prohyapadi;142 patra and older unresolved source/critical/C2–C5/S1–S7/native/global work. Wider written gates remain Open; Claude execution distinct.
 
 

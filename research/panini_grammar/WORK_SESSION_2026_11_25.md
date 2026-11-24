@@ -2,6 +2,12 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG802 · Obligatory compound ṭhañ, rūpya and vini possession
+
+PG802 · [Obligatory compound ṭhañ, rūpya and vini possession](obligatory_compound_than_rupya_and_vini_possession/README.md). Constructs selected 5.2.118–121 outputs with 21 new nominal positions and 23 readings. Finite positions/readings increase by zero. Eight constructions/21 interfaces, zero new source observations and eight decisions. Census: 52,357 finite positions, 21,663 nominal positions and 24,545 nominal readings.
+
+Parent `f9bff952738b78c0a982e0ee3e069ae250fda8a2`. The containing commit pins this packet. Displayed outputs and guards are CLOSED. Patanjali/Kāśikā scope priority, wider productivity, monetary evidence, paradigms and accent remain Open. The large 5.2.122 Vedic bahula roster is next. C2–C5 and S1–S7 remain Open; S5 is 99/103 and S6 retains the independent 5.56 k-it effect. Claude retains execution, generators, untouched suites and replay.
+
 ## PG801 · Named valac, nipātana and selected ini-ṭhan classes
 
 PG801 · [Named valac, nipātana and selected ini-ṭhan classes](named_valac_nipatana_and_selected_ini_than_classes/README.md). Constructs selected 5.2.113–117 outputs with 31 new nominal positions and 57 readings. Finite positions/readings increase by zero. Seventeen constructions/31 interfaces, zero new source observations and ten decisions. Census: 52,357 finite positions, 21,642 nominal positions and 24,522 nominal readings.

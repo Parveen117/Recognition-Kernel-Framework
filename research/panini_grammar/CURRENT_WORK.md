@@ -1,10 +1,15 @@
+Warning: truncated output (original token count: 20107)
+Total output lines: 243
+
 Warning: truncated output (original token count: 20111)
 Total output lines: 240
 
 Warning: truncated output (original token count: 58560)
 Total output lines: 894
 
-# Pāṇini grammar · current written coverage at PG801
+# Pāṇini grammar · current written coverage at PG802
+
+PG802 · [Obligatory compound ṭhañ, rūpya and vini possession](obligatory_compound_than_rupya_and_vini_possession/README.md). Constructs selected 5.2.118–121 compound-value, stamped/praised form and vini possession outputs. Census: 52,357 finite positions, 21,663 nominal positions and 24,545 nominal readings.
 
 PG801 · [Named valac, nipātana and selected ini-ṭhan classes](named_valac_nipatana_and_selected_ini_than_classes/README.md). Constructs selected 5.2.113–117 name-domain, nipātana, short-a alternative, control and displayed roster outputs. Census: 52,357 finite positions, 21,642 nominal positions and 24,522 nominal readings.
 
@@ -198,7 +203,7 @@ PG707 · [Vedic stoṣam and the Aśvins’ dual aorists](vedic_stosam_and_ashvi
 
 PG706 · [Two printed Kāśikā witnesses for anadyatana laṅ](anadyatana_two_printed_kasika_prescriptions/README.md). Two visually collated print editions agree on the operative laṅ, with genuine luṅ visible under neighboring 3.2.110. The 1952 editor separately reports Nyāsa padāti in a note to main-text patāti. Three observations and two decisions leave word credits unchanged. Census 52,329 finite positions and 9,358 nominal positions with 10,956 nominal readings.
 
-PG705 · [Second-singular tāriṣaḥ and the Anumati and donor witnesses](vedic_let_tarisah_two_sip_addresses_and_paippalada/README.md). Mahīdhara’s second singular uses two differently owned siP records. The Anumati and donor formulas support one new finite position and reading. The Śukla repeated preverb and the Taittirīya nominal prefix remain distinct, and the Paippalāda readings retain their manuscript and conjectural statuses. Census 52,329 finite positions and 9,358 nominal positions with 10,956 nominal rea…111 tokens truncated…marker views;0 finite/nominal/source credits. Original git enters root guṇa/iṭ conditions but not6.4.66/24; root n→ṅ differs from suffix n→ṇ, and outer jas has its own guṇa owner. Reported Vedic source word is old. Rival kit policy, independent Saṃhitā/accent and wider gates remain Open.
+PG705 · [Second-singular tāriṣaḥ and the Anumati and donor witnesses](vedic_let_tarisah_two_sip_addresses_and_paippalada/R…107 tokens truncated…marker views;0 finite/nominal/source credits. Original git enters root guṇa/iṭ conditions but not6.4.66/24; root n→ṅ differs from suffix n→ṇ, and outer jas has its own guṇa owner. Reported Vedic source word is old. Rival kit policy, independent Saṃhitā/accent and wider gates remain Open.
 
 
 PG385 constructs [gotra dvandva whole-affix luk](gotra_dvandva_luk_and_reported_gana_objection/README.md): one compound construction/two uniform readouts and one newly addressed Tattva report of a Kaiyaṭa gaṇa-list objection. Upaka–Lamaka retains independent phak/inner-sup owners;1.1.63 blocks lost-affix aṅga triggers. Old source words receive0 finite/nominal credits. Original Bhāṣya/Kaiyaṭa/other-pair textual reconciliation and wider gates stay Open.

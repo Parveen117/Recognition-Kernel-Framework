@@ -1,0 +1,29 @@
+{
+  "stage":"PG802",
+  "morphology_constructions":[
+    {"id":"EKA_GO_OBLIGATORY_THAN","rule":"5.2.118","interfaces":["ES118","EH118","GS118","GH118"]},
+    {"id":"COMPOUND_BASE_EXPLANATIONS","rule":"5.2.118","interfaces":["EG118","GK118"]},
+    {"id":"NISHKA_VALUES","rule":"5.2.119","interfaces":["NS119","NH119"]},
+    {"id":"STAMPED_RUPYA","rule":"5.2.120","interfaces":["RD120","RK120","RC120"]},
+    {"id":"PRAISED_AND_CONTROL_RUPA","rule":"5.2.120","interfaces":["RP120","RV120"]},
+    {"id":"FURTHER_YAP","rule":"5.2.120 supplement","interfaces":["HI120","GU120"]},
+    {"id":"AS_FINAL_VINI","rule":"5.2.121","interfaces":["YS121","TS121","PS121"]},
+    {"id":"NAMED_VINI_BASES","rule":"5.2.121","interfaces":["MY121","ME121","SR121"]}
+  ],
+  "nominal_positions":[
+    {"id":"ES118","readings":["aikaśatikaḥ"]},{"id":"EH118","readings":["aikasahasrikaḥ"]},{"id":"GS118","readings":["gauśatikaḥ"]},{"id":"GH118","readings":["gausahasrikaḥ"]},{"id":"EG118","readings":["aikagavikaḥ"]},{"id":"GK118","readings":["gauśakaṭikaḥ"]},
+    {"id":"NS119","readings":["naiṣkaśatikaḥ"]},{"id":"NH119","readings":["naiṣkasahasrikaḥ"]},
+    {"id":"RD120","readings":["rūpyo dīnāraḥ"]},{"id":"RK120","readings":["rūpyaḥ kedāraḥ"]},{"id":"RC120","readings":["rūpyaṃ kārṣāpaṇam"]},{"id":"RP120","readings":["rūpyaḥ puruṣaḥ"]},{"id":"RV120","readings":["rūpavān"]},{"id":"HI120","readings":["himyāḥ parvatāḥ"]},{"id":"GU120","readings":["guṇyā brāhmaṇāḥ"]},
+    {"id":"YS121","readings":["yaśasvī"]},{"id":"TS121","readings":["tapasvī"]},{"id":"PS121","readings":["payasvī"]},{"id":"MY121","readings":["māyāvī","māyī","māyikaḥ"]},{"id":"ME121","readings":["medhāvī"]},{"id":"SR121","readings":["sragvī"]}
+  ],
+  "source_policy_decisions":[
+    {"id":"OBLIGATORY_THAN","status":"Accepted/Excluded","decision":"Accept ṭhañ on the displayed eligible compounds and exclude alternate matup only within this obligatory branch."},
+    {"id":"ATAH_SCOPE","status":"Accepted/Open","decision":"Use Kāśikā's short-a scope for the displayed forms; Patanjali priority remains Open."},
+    {"id":"APPARENT_EXCEPTIONS","status":"Accepted/Open","decision":"Accept aikagavika via samāsānta and gauśakaṭika via the source's short-a synonym; wider analysis remains Open."},
+    {"id":"NISHKA_IMMEDIACY","status":"Accepted/Excluded","decision":"Accept immediate niṣka compounds; exclude the displayed longer gold-niṣka compound from rule 119 only."},
+    {"id":"STAMPED_RUPYA","status":"Accepted","decision":"Keep three stamped-object requests separate."},
+    {"id":"PRAISE_AND_CONTROL","status":"Accepted/Excluded","decision":"Accept praised rūpya; retain rūpavān outside the two yap senses."},
+    {"id":"YAP_SUPPLEMENTS","status":"Accepted/Open","decision":"Accept the two displayed supplements without claiming general productivity."},
+    {"id":"VINI_AND_VRIHYADI","status":"Accepted","decision":"Keep māyāvī under vini and māyī/māyika under their separate 5.2.116 owners."}
+  ]
+}
