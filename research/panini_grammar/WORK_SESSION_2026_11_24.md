@@ -2,6 +2,16 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG718 · Gleaners, guardians, grammarians and assembly members
+
+PG718 · [Gleaners, guardians, grammarians and assembly members](gleaning_guardians_grammarians_and_joining/README.md). Derives the selected 4.4.32–34 and 4.4.43–45 masculine fibres. Protecting and joining can give the same spelling under different roles. The default, override and optional soldier suffixes keep their distinct markers. Census 52,341 finite positions and 10,333 nominal positions with 11,985 nominal readings.
+
+Finite increments 0 positions/0 readings. Nominal increments 312 positions/350 readings. One morphology construction/14 interfaces, one syntax construction/11 readouts and one junction construction/5 readouts. 15 source observations and 10 source-policy decisions. Publication parent a4381a6de87eee71d0e51bdd02ca98b4690f5b7b. The containing commit pins the documents and evidence.
+
+PG521–718 cumulative: 522 finite positions/1,440 net finite readings, 4,555 nominal positions/5,242 readings, 292 morphology constructions/3,006 interfaces, 131 compound constructions/601 plans, 30 accent constructions/118 records, 154 semantics constructions/459 records, 140 syntax constructions/488 records, 187 source-policy decisions after PG555−1 and 528 observations. Twenty-three junction constructions/69 readouts since PG680 and 20 nonfinite constructions/26 paths since PG700. Four provenance corrections and one proof addendum. PG335 and PG357–363 CLOSED results are preserved.
+
+The thirteen named masculine fibres under 4.4.32–34 and 4.4.43–45 are locally CLOSED. The Kāśikā guard and group-member spellings maintain their different roles. Exact wider feminine and accent uses, intra-source spellings, the Vācaspatyam ṭhañ entitlement, and the full Vedic or later usage scope stay Open. The adjacent 4.4.35–42 relations require their own lexical and sound proofs. C2–C5/S1–S7 remain Open overall, with execution assigned to Claude.
+
 ## PG717 · Hemacandra’s kīnāśa and two grain-ear roots
 
 PG717 · [Hemacandra’s kīnāśa and two grain-ear roots](haima_kinasa_kanisa_and_possessive_kanisa/README.md). Adds the fourth source-qualified Yama formation, seven selected nominal fibres and two independent Amarasudhā analyses of kaṇiśa. Hemacandra’s distinct root vowels and affix markers survive case specialization. Census 52,341 finite positions and 10,021 nominal positions with 11,635 nominal readings.

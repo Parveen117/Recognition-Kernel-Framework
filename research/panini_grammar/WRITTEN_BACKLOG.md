@@ -1,6 +1,8 @@
-# Written-development backlog at PG717
+# Written-development backlog at PG718
 
-Monty · 2026-11-24 · reviewed current parent feec1b8c35ff89e69cf717fd6254ed4aa37af251. Historical closures below retain their exact pins.
+Monty · 2026-11-24 · reviewed current parent a4381a6de87eee71d0e51bdd02ca98b4690f5b7b. Historical closures below retain their exact pins.
+
+PG718 · [Gleaners, guardians, grammarians and assembly members](gleaning_guardians_grammarians_and_joining/README.md). The thirteen named masculine fibres under 4.4.32–34 and 4.4.43–45 are locally CLOSED. The Kāśikā guard and group-member spellings maintain their different roles. Exact wider feminine and accent uses, intra-source spellings, the Vācaspatyam ṭhañ entitlement, and the full Vedic or later usage scope stay Open. The adjacent 4.4.35–42 relations require their own lexical and sound proofs. C2–C5/S1–S7 remain Open overall, with execution assigned to Claude.
 
 PG717 · [Hemacandra’s kīnāśa and two grain-ear roots](haima_kinasa_kanisa_and_possessive_kanisa/README.md). The Hema 530, 533–535 controls, three named new kīnāśa senses, and the Śrīvallabha grain-ear gender fibres are locally CLOSED. Amarasudhā supplies two distinct kaṇiśa formation paths. The older Yama, miser, cultivator and hair positions take no repeat credit. The independent five-pāda k effect, exact OCR glyphs, Nighaṇṭu secondary e reading and the remaining source/gender/accent issues stay Open. The C4 4.4.32–36 semantic contrast is still a live construction queue. Wider C2–C5/S1–S7 stay on the underlying registers and Claude retains execution.
 

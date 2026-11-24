@@ -1,0 +1,174 @@
+{
+  "publication_parent": "a4381a6de87eee71d0e51bdd02ca98b4690f5b7b",
+  "date": "2026-11-24",
+  "project_dependencies": [
+    {
+      "commit": "a4381a6de87eee71d0e51bdd02ca98b4690f5b7b",
+      "path": "research/panini_grammar/haima_kinasa_kanisa_and_possessive_kanisa/STATE.json",
+      "git_blob_sha": "e65686065354f9f1fff1f315f459b47d48cc8e2d",
+      "sha256": "ceb130d8effbe2f638e3be350ab878539e6275e5c7fe56ca04565f0b60f19042",
+      "bytes": 2814,
+      "use": "Current fetched census and prior stage"
+    },
+    {
+      "commit": "b05e46bf78f165e17c4766d6d1179a1699a72fcf",
+      "path": "research/panini_grammar/grammar_construction/NATIVE_OPERATOR_LIFT.md",
+      "git_blob_sha": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+      "sha256": "f52e7f5cf539ef56859b890669ef738848491e4005e73be75baa49c899b5dafd",
+      "bytes": 11855,
+      "use": "Full PG14 operator and typed history specialization"
+    },
+    {
+      "commit": "7842aa911bc4570c5e0d07125d0a1170b1753f38",
+      "path": "research/panini_grammar/taddhita_functional/RULES_4_4_A.md",
+      "git_blob_sha": "1245b03888b3faeb8bf9647b7abad5e089182b29",
+      "sha256": "fdf5739acfe0ca426f12957b65af6d664d7b494c4b7cf39da9f183b5b74f59aa",
+      "bytes": 18791,
+      "use": "In-scope historical PG36 semantic contract, no complete case credits"
+    },
+    {
+      "commit": "7842aa911bc4570c5e0d07125d0a1170b1753f38",
+      "path": "research/panini_grammar/taddhita_functional/SOURCE_EXCERPTS.json",
+      "git_blob_sha": "31e85bd9fb220839f9162864d7040369e4c1e276",
+      "sha256": "61d315eabe902112f9af1f79ca00f2a49cc632164fa8349b2af5f76fecaf1c34",
+      "bytes": 673280,
+      "use": "Pinned Kāśikā 4.4.32–34 and 43–45 primary wording"
+    },
+    {
+      "commit": "12558e5b2135b96729163e554b3c1812cbb2af60",
+      "path": "research/panini_grammar/apadana_role_relation/RELATION.json",
+      "git_blob_sha": "9390f30e64a901bd61b570e21905a62ef382380e",
+      "sha256": "49f5227ccc801f92db7d6d94253409cbe2a697719affb7f9e02d3cf51fd5fedb",
+      "bytes": 12682,
+      "use": "PG134 rakṣati threat in the ablative, no recredit"
+    },
+    {
+      "commit": "24fa1f1f242ae5cbb7ff253702ff2ebf9d1a3b2a",
+      "path": "research/panini_grammar/vivadha_vivadha_owned_conveyance/PANELS.md",
+      "git_blob_sha": "3a131cf2edcd1473ed94ab1172a696109d508c49",
+      "sha256": "8c4424915194a0b5b1660a686913d158170ac98af75b03ca8f0f7d140949894d",
+      "bytes": 2012,
+      "use": "Regular masculine case map and bounded singular pause alternative"
+    },
+    {
+      "commit": "a4381a6de87eee71d0e51bdd02ca98b4690f5b7b",
+      "path": "research/panini_grammar/SUTRAPATHA.tsv",
+      "git_blob_sha": "1840f3b5349b21112ac05a7efaa59705fd4efee0",
+      "sha256": "70dfdfe6ba433b6e211f0f01b078c1b6d13a1ad0938e06fd5789298a04583634",
+      "bytes": 270179,
+      "use": "Pāṇinian rule numbers and quotations"
+    },
+    {
+      "commit": "feec1b8c35ff89e69cf717fd6254ed4aa37af251",
+      "path": "research/panini_grammar/censured_lending_owned_suffixes_and_amara_controls/RELATION.json",
+      "git_blob_sha": "9ee8bbaee3b555889d6f203af5036c0a14a349f8",
+      "sha256": "e7225886378194f9b162acec4bdff3f119c87e80774ae047f2fdfec33ccaf419",
+      "bytes": 55178,
+      "use": "Prior creditor and ṭhak contracts and bounded pause history, no repeat case keys"
+    }
+  ],
+  "web_evidence": [
+    {
+      "id": "K32",
+      "url": "https://vishvasa.github.io/sanskrit/vyAkaraNam/pANinIyam/mUlAni/kAshikA/puShpA-pratiH/4/04/",
+      "locator": "Kāśikā 4.4.32 in Puṣpā text, lines 122–124.",
+      "use": "The three exact gleaning examples and the fallen-grain requirement."
+    },
+    {
+      "id": "S32",
+      "url": "https://sanskritdocuments.org/~sanskrit/learning_tools/ashtadhyayi/vyakhya/4/4.4.32.htm",
+      "locator": "Kāśikā/Nyāsa/Bāla/Tattva at 4.4.32, lines 14–37.",
+      "use": "Kāśikā u-cch display, Nyāsa uddhunoti and source context. The same page's rule and Kaumudī have uñch."
+    },
+    {
+      "id": "DHA",
+      "url": "https://sanskritdocuments.org/doc_z_misc_major_works/dhatupatha_index_svara.html",
+      "locator": "Teaching entries 1.243, 6.14 uchiṃ uñche, 1.244/6.15 uchī vivāse, rakṣ and iṇ entries. Include 8.10 ḍukṛñ karaṇe in the corresponding raw list.",
+      "use": "Root/marker/citation ownership. Numbering is this edition's."
+    },
+    {
+      "id": "MDA",
+      "url": "https://sanskritlibrary.org/Sanskrit/Vyakarana/Dhatupatha.old/mdhvindx/disp/mdhv_index.html",
+      "locator": "Mādhavīyadhātuvṛtti index, bhvādi local 133 pp. 96–97, tudādi local 16 p. 465.",
+      "use": "Independent two-gaṇa evidence. Its local numbers stay distinct."
+    },
+    {
+      "id": "SB",
+      "url": "https://sanskrit.nic.in/DigitalBook/S/sabdikabharanam/node16a.html",
+      "locator": "Śābdikābharaṇa, bare uchi uñche present entry.",
+      "use": "Direct num instruction and nasal present."
+    },
+    {
+      "id": "K33",
+      "url": "https://sanskritdocuments.org/~sanskrit/learning_tools/ashtadhyayi/vyakhya/4/4.4.33.htm",
+      "locator": "Kāśikā and Tattva at 4.4.33, lines 14 and 35–36.",
+      "use": "Guard frame, exact nasal spelling and collective base."
+    },
+    {
+      "id": "AJ",
+      "url": "https://sanskritdocuments.org/~sanskrit/learning_tools/ashtadhyayi/vyakhya/7/7.3.60.htm",
+      "locator": "Kāśikā 7.3.60, line 14 and Nyāsa.",
+      "use": "Samāja retains aj before ghañ with j preserved."
+    },
+    {
+      "id": "SKDAJ",
+      "url": "https://sa.wikisource.org/wiki/शब्दकल्पद्रुमः/सप्तनामा",
+      "locator": "Śabdakalpadruma samājaḥ, line 1616 region.",
+      "use": "Explicit sam + aj + ghañ inner assembly stem."
+    },
+    {
+      "id": "K34",
+      "url": "https://sanskritdocuments.org/~sanskrit/learning_tools/ashtadhyayi/vyakhya/4/4.4.34.htm",
+      "locator": "Kāśikā, Nyāsa, Bāla and the two Tattva paragraphs, lines 14–36.",
+      "use": "Literal two-head construction, grammarian's operation and percussion vessel."
+    },
+    {
+      "id": "VCP",
+      "url": "https://sa.wikisource.org/wiki/वाचस्पत्यम्/दानु",
+      "locator": "Vācaspatyam dārdurika entry.",
+      "use": "Earthen vessel as craft with a separately cited ṭhañ."
+    },
+    {
+      "id": "K43",
+      "url": "https://sanskritdocuments.org/~sanskrit/learning_tools/ashtadhyayi/vyakhya/4/4.4.43.htm",
+      "locator": "Kāśikā, Nyāsa, Bāla and Tattva 4.4.43, lines 14–30.",
+      "use": "Arrival vs part membership, locative usage and lexical domain."
+    },
+    {
+      "id": "UAC",
+      "url": "https://vishvasa.github.io/sanskrit/koshaH/upasargArtha-chandrikA/035_samava/",
+      "locator": "Upasargārthacandrikā sam + ava + i.",
+      "use": "Selected branch and explicitly distinguished other meanings."
+    },
+    {
+      "id": "ETI",
+      "url": "https://sanskritdocuments.org/~sanskrit/learning_tools/ashtadhyayi/vyakhya/6/6.1.89.htm",
+      "locator": "Kāśikā 6.1.89 paragraphs and avaiti control.",
+      "use": "Root iṇ's e grade under the preverb and sound interaction."
+    },
+    {
+      "id": "MAL",
+      "url": "https://www.transliteral.org/pages/z170621194951/view",
+      "locator": "Bhavabhūti Mālatīmādhava, opening of Act 1, the Naṭa speech at line 90.",
+      "use": "Sāmājikān, an audience, as accusative object of upāsmahe."
+    },
+    {
+      "id": "K44",
+      "url": "https://sanskritdocuments.org/~sanskrit/learning_tools/ashtadhyayi/vyakhya/4/4.4.44.htm",
+      "locator": "Kāśikā and Bāla 4.4.44, lines 14 and 24.",
+      "use": "Compulsory ṇya in the council member relation."
+    },
+    {
+      "id": "K45",
+      "url": "https://sanskritdocuments.org/~sanskrit/learning_tools/ashtadhyayi/vyakhya/4/4.4.45.htm",
+      "locator": "Kāśikā and Bāla 4.4.45, lines 14 and 24.",
+      "use": "Optional ṇya and ṭhak in the same army-member sense."
+    },
+    {
+      "id": "KR",
+      "url": "https://sanskritdocuments.org/doc_z_misc_major_works/dhatupatha.html",
+      "locator": "Raw 8.10, line 1932 (ḍukṛñ karaṇe).",
+      "use": "Exact lexical entry for bare active karoti as cited support."
+    }
+  ]
+}
