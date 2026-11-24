@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG785 · [Three altar heights and the thumb as a standard](research/panini_grammar/three_altar_heights_and_the_reversed_thumb_measure/README.md). The full carrier retains vertical direction, textual school, the measured participant and the two active predicates.
+
 PG784 · [Two mountain sites and the flowering of speech](research/panini_grammar/two_mountain_sites_and_the_flowering_of_speech/README.md). PG14 retains the terrain, bearer, comparison, participle grade and order of the preverbs.
 
 PG783 · [The bend of a nose, a pair of eyes and the fist that opens](research/panini_grammar/nose_bend_eye_pair_and_the_fist_that_opens/README.md). The written role history of Mallinātha’s perfect extends PG14 while retaining PG343 and PG359 finite ownership.

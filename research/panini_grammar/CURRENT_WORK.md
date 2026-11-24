@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG784
+# Pāṇini grammar · current written coverage at PG785
+
+PG785 · [Three altar heights and the thumb as a standard](three_altar_heights_and_the_reversed_thumb_measure/README.md). Constructs the two measure rules with a recited vertical series, a downward knee measure and the reverse human/standard roles of the Upaniṣad. Census: 52,355 finite positions, 21,303 nominal positions and 24,094 nominal readings.
 
 PG784 · [Two mountain sites and the flowering of speech](two_mountain_sites_and_the_flowering_of_speech/README.md). Constructs 5.2.34–36, locates both poetic perfect-participle quotations, and writes the witnessed reception and speech predicates. Census: 52,353 finite positions, 21,285 nominal positions and 24,074 nominal readings.
 

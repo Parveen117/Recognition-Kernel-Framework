@@ -1,0 +1,276 @@
+{
+  "stage": "PG785",
+  "morphology_interfaces": [
+    {
+      "id": "HEIGHT",
+      "base": "knee, thigh or navel as vertical standard",
+      "guard": "measure an object along the vertical",
+      "affix": "dvayasac or daghnac, also mātrac in its broader domain",
+      "result": "named relative heights"
+    },
+    {
+      "id": "SHORT",
+      "base": "grīvā as a height standard",
+      "guard": "the named Taittirīya neck measure",
+      "affix": "daghnac with the source’s 6.3.63 shortening of the first constituent",
+      "result": "grīvadaghna"
+    },
+    {
+      "id": "DEPTH",
+      "base": "knee as downward vertical extent",
+      "guard": "dig a specifically named altar bed",
+      "affix": "daghna with feminine ī",
+      "result": "jānudaghnīm"
+    },
+    {
+      "id": "VOLUME",
+      "base": "prastha as a quantity",
+      "guard": "the volume of what is measured",
+      "affix": "mātrac",
+      "result": "prasthamātram"
+    },
+    {
+      "id": "DOUBT",
+      "base": "named quantity, standard or number",
+      "guard": "quantity is in doubt under the supplement",
+      "affix": "mātrac with distinct compulsory dvigu luk when applicable",
+      "result": "practical comparison without a fixed modern unit"
+    },
+    {
+      "id": "PERSONMEASURE",
+      "base": "puruṣa explicitly the standard",
+      "guard": "measured thing supplied separately",
+      "affix": "aṇ with initial grade, or the three affixes carried by ca",
+      "result": "pauruṣa or a named alternative"
+    },
+    {
+      "id": "ELEPHANT",
+      "base": "hastin explicitly the standard",
+      "guard": "measure clearly distinguished from possession or descent",
+      "affix": "aṇ, initial grade and stem retention by 6.4.164",
+      "result": "hāstina"
+    },
+    {
+      "id": "MOAT",
+      "base": "number with a human-height unit",
+      "guard": "feminine moat and luk of the inner taddhita",
+      "affix": "ṅīp optional under 4.1.24",
+      "result": "dvipuruṣā or dvipuruṣī, and their three-person parallels"
+    },
+    {
+      "id": "FEMIN",
+      "base": "number with hastin",
+      "guard": "separate feminine bearer of the measure",
+      "affix": "dvigu luk, then ṅīp on n-final stem",
+      "result": "dvihastinī or trihastinī"
+    },
+    {
+      "id": "THUMB",
+      "base": "thumb in a size relation",
+      "guard": "puruṣa is the measured referent",
+      "affix": "mātra, masculine nominative",
+      "result": "aṅguṣṭhamātraḥ"
+    },
+    {
+      "id": "PALM",
+      "base": "fully grown palm and a human bearer",
+      "guard": "height alone is predicated",
+      "affix": "dvayasac with outer masculine agreement",
+      "result": "saṃpannatāladvayasaḥ"
+    },
+    {
+      "id": "BUILD",
+      "base": "ci 05.0005, no preverb",
+      "guard": "altar in successive instructions",
+      "affix": "registered middle optative and present, with separate present participle",
+      "result": "cinvīta, cinute, cinvānaḥ"
+    },
+    {
+      "id": "WIN",
+      "base": "abhi with ji 01.0642",
+      "guard": "the offered object is the world attained",
+      "affix": "laṭ P 3sg, separate Vedic preverb",
+      "result": "abhi jayati"
+    },
+    {
+      "id": "ASCEND",
+      "base": "abhi then ā with ruh 01.0195",
+      "guard": "three ascent clauses with three metrical instruments",
+      "affix": "laṭ P 3sg, vowel grade and i-to-y at the prefix boundary",
+      "result": "abhyārohati"
+    }
+  ],
+  "nominal_positions": [
+    {
+      "id": "KNEE",
+      "source": "TS",
+      "input_history": "HEIGHT",
+      "case_number": "M ACCsg",
+      "word": "jānudaghnam",
+      "interpretation": "The implied masculine altar is built up to the knee in the first clause."
+    },
+    {
+      "id": "NAVEL",
+      "source": "TS",
+      "input_history": "HEIGHT",
+      "case_number": "M ACCsg",
+      "word": "nābhidaghnam",
+      "interpretation": "Navel level in the second building."
+    },
+    {
+      "id": "NECK",
+      "source": "TS",
+      "input_history": "SHORT",
+      "case_number": "M ACCsg",
+      "word": "grīvadaghnam",
+      "interpretation": "The Pada separates grīva from daghnam. The commentary explains the short final vowel of the first constituent."
+    },
+    {
+      "id": "GAY",
+      "source": "PADA",
+      "input_history": "ASCEND",
+      "case_number": "F INSsg",
+      "word": "gāyatriyā",
+      "interpretation": "The Gāyatrī as the means in the first ascent clause, written गायत्रिया in the Pada."
+    },
+    {
+      "id": "TRI",
+      "source": "PADA",
+      "input_history": "ASCEND",
+      "case_number": "F INSsg",
+      "word": "triṣṭubhā",
+      "interpretation": "The second clause relates the Triṣṭubh to the midspace."
+    },
+    {
+      "id": "JAG",
+      "source": "PADA",
+      "input_history": "ASCEND",
+      "case_number": "F INSsg",
+      "word": "jagatyā",
+      "interpretation": "The third clause names the Jagatī as means."
+    },
+    {
+      "id": "SPACE",
+      "source": "PADA",
+      "input_history": "ASCEND",
+      "case_number": "N ACCsg",
+      "word": "antarikṣam",
+      "interpretation": "The destination of the second ascent."
+    },
+    {
+      "id": "DEPTH",
+      "source": "TAR",
+      "input_history": "DEPTH",
+      "case_number": "F ACCsg",
+      "word": "jānudaghnīm",
+      "interpretation": "Depth in digging, agreeing with the feminine bed of the altar."
+    },
+    {
+      "id": "BED",
+      "source": "TAR",
+      "input_history": "DEPTH",
+      "case_number": "F ACCsg",
+      "word": "uttaravedīm",
+      "interpretation": "The explicit accusative object of the prior digging."
+    },
+    {
+      "id": "THUMB",
+      "source": "KATH",
+      "input_history": "THUMB",
+      "case_number": "M NOMsg",
+      "word": "aṅguṣṭhamātraḥ",
+      "interpretation": "Thumb-sized. The bearer in this verse is puruṣaḥ."
+    },
+    {
+      "id": "PERSON",
+      "source": "KATH",
+      "input_history": "THUMB",
+      "case_number": "M NOMsg",
+      "word": "puruṣaḥ",
+      "interpretation": "The measured subject rather than a unit for a second entity."
+    },
+    {
+      "id": "H1",
+      "source": "K38",
+      "input_history": "PERSONMEASURE",
+      "case_number": "N NOMsg",
+      "word": "pauruṣam",
+      "interpretation": "Neuter cited measure with aṇ on puruṣa."
+    },
+    {
+      "id": "E1",
+      "source": "K38",
+      "input_history": "ELEPHANT",
+      "case_number": "N NOMsg",
+      "word": "hāstinam",
+      "interpretation": "Neuter elephant measure with grade and retained stem n."
+    },
+    {
+      "id": "TWO",
+      "source": "FEM",
+      "input_history": "MOAT",
+      "case_number": "F NOMsg",
+      "word": "dvipuruṣā / dvipuruṣī",
+      "interpretation": "Moat of two-person measure, explicitly both feminine forms."
+    },
+    {
+      "id": "THREE",
+      "source": "FEM",
+      "input_history": "MOAT",
+      "case_number": "F NOMsg",
+      "word": "tripuruṣā / tripuruṣī",
+      "interpretation": "The same two choices on the three-person standard."
+    },
+    {
+      "id": "ETWO",
+      "source": "K38",
+      "input_history": "FEMIN",
+      "case_number": "F NOMsg",
+      "word": "dvihastinī",
+      "interpretation": "Frozen long-ī nominative of the two-elephant measurement, after inner luk."
+    },
+    {
+      "id": "ETHREE",
+      "source": "K38",
+      "input_history": "FEMIN",
+      "case_number": "F NOMsg",
+      "word": "trihastinī",
+      "interpretation": "Three-elephant measurement on the same n-final feminine route."
+    },
+    {
+      "id": "PALM",
+      "source": "BK",
+      "input_history": "PALM",
+      "case_number": "M NOMsg",
+      "word": "saṃpannatāladvayasaḥ",
+      "interpretation": "The previously noted palm term now has its explicit nominative position. PG782 had no case row for it."
+    }
+  ],
+  "source_policy_decisions": [
+    {
+      "id": "HEIGHT",
+      "sources": "K37,MB,BK,TS",
+      "decision": "Vertical extent selects dvayasac or daghnac while mātrac also allows a vessel quantity. The attached marker histories survive when known units undergo luk. PG755 owns the counted seers."
+    },
+    {
+      "id": "READING",
+      "sources": "TS,PADA,BH,AP,VAR",
+      "decision": "Preserve neck with the Taittirīya short a and the other two textual landmarks as separate source observations. Only the named Taittirīya commentator explicitly gives this rule history."
+    },
+    {
+      "id": "INVERT",
+      "sources": "K38,KATH,FEM,IN",
+      "decision": "The human standard takes a separate measured bearer. At Kaṭha 2.1.12 the human is that bearer and the thumb supplies the standard. The optional human-unit and n-final elephant feminines have independent explanations."
+    },
+    {
+      "id": "BUILDING",
+      "sources": "TS,PADA,BH,TAR",
+      "decision": "An altar piled up and an altar bed dug down give distinct participants, gender and direction on the same knee standard. No new bare ci finite position is inferred from an independently attested token."
+    },
+    {
+      "id": "VERBS",
+      "sources": "TS,PADA,JI,RUH",
+      "decision": "Keep the divided abhi of victory, the ordered preverbs of ascent, and their respective active third singulars. Each repeated world/height association receives one source-local analysis."
+    }
+  ]
+}

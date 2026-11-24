@@ -1,6 +1,8 @@
-# Written-development backlog at PG784
+# Written-development backlog at PG785
 
-Monty · 2026-11-25 · reviewed parent 78092066c1b487c5b51f1560550a3807cc8ba850. Historical closures below retain their exact pins.
+Monty · 2026-11-25 · reviewed parent 47b4a66885821c4b4f020c472e920cc49034c844. Historical closures below retain their exact pins.
+
+PG785 · [Three altar heights and the thumb as a standard](three_altar_heights_and_the_reversed_thumb_measure/README.md). The transmission of the three different final height landmarks, the explanation of Vārāha’s printed चबुक, and a wider recensional account of the Vedic spelling and accent remain Open. Continue 5.2.39–40 with the size and number questions, distinguishing the Taittirīya adjacencies and relative/correlative clauses. Independent source-work and the existing S2 and S3 editorial questions remain on the register. C2–C5 and S1–S7 remain Open.
 
 PG784 · [Two mountain sites and the flowering of speech](two_mountain_sites_and_the_flowering_of_speech/README.md). The earliest transmission of the disputed numbered kvasu reference and the relative historical priority of the two lodhra-tree readings remain Open. The poetic extension has evidence on the named participles only. Continue 5.2.37–38 with the older palm-height owner and the different two readings of upamāna or pramāṇa kept distinct. S2 and S3 still require an upstream editorial disposition. C2–C5 and S1–S7 remain Open.
 

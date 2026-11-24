@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG785 · [Three altar heights and the thumb as a standard](three_altar_heights_and_the_reversed_thumb_measure/README.md). Constructs the two measure rules with a recited vertical series, a downward knee measure and the reverse human/standard roles of the Upaniṣad. 18 new nominal positions and 20 readings. 2 new finite positions and 2 finite readings.
+
 PG784 · [Two mountain sites and the flowering of speech](two_mountain_sites_and_the_flowering_of_speech/README.md). Constructs 5.2.34–36, locates both poetic perfect-participle quotations, and writes the witnessed reception and speech predicates. 21 new nominal positions and 22 readings. 2 new finite positions and 2 finite readings.
 
 PG783 · [The bend of a nose, a pair of eyes and the fist that opens](nose_bend_eye_pair_and_the_fist_that_opens/README.md). Constructs 5.2.30–33 with independent texts for the grip and the nose compound, and traces two similar words to different replacements. 11 new nominal positions and 11 readings. Finite positions and readings both increased by zero.
