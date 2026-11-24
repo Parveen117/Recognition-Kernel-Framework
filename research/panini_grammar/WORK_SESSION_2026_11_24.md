@@ -2,6 +2,16 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG746 · Day-specific strength, ancestor-made paths and the thousandfold
+
+PG746 · [Day-specific strength, ancestor-made paths and the thousandfold](vedic_strength_days_ancestral_paths_and_thousandfold/README.md). Writes ten source-qualified Vedic nominal positions and readings and constructs the full 4.4.130–136 affix selection. The exact short pūrviṇebhiḥ in KS and the Maitrāyaṇī long sahasrīyaḥ are independently pinned. Census 52,345 finite positions and 20,351 nominal positions with 22,984 nominal readings.
+
+Zero new finite positions or readings. Ten new Vedic nominal positions and readings, including one under the inherited duty history. One morphology construction with sixteen new interfaces and one inherited path, one compound construction with two plans, one accent construction with seven readouts, one semantic construction with eight readouts, one syntax construction with ten readouts, one junction construction with eleven readouts and one nonfinite construction with three readouts. Sixteen source observations and thirteen source decisions. Publication parent 6f01e1da5aec10f15505681acce4f40214c4fdd6. The containing commit pins the documents and evidence.
+
+PG521–746 cumulative adds 526 finite positions and 1,444 net finite readings, and 14,573 nominal positions with 16,241 readings. 320 morphology constructions with 3,662 interfaces, 152 compound constructions with 687 plans, 52 accent constructions with 233 records, 178 semantic constructions with 655 readouts, 167 syntax constructions with 754 readouts, and 544 source-policy decisions after PG555−1 with 1,013 observations.
+
+The selected 4.4.130–136 construction and primary cases are addressed. Open evidence includes the day and qualified bhaga primary uses, independent pūrvīṇa/ini, the long MS grade operation and the separate thousand-possession primary reading. The direct KS dūtya source is now positively recorded. 4.4.137–144 is the next unconstructed register. C2–C5 and S1–S7 remain Open. Claude retains execution.
+
 ## PG745 · Brick-placement mantras, two matup tokens and Vedic months
 
 PG745 · [Brick-placement mantras, two matup tokens and Vedic months](vedic_brick_mantra_affix_elision_and_seasonal_months/README.md). Writes 74 Vedic positions and readings through 4.4.129. Primary brick passages identify two owned matup tokens and distinguish the Vedic nominative mūrdhanvatīḥ from ordinary and accusative feminine endings. Census 52,345 finite positions and 20,341 nominal positions with 22,974 nominal readings.

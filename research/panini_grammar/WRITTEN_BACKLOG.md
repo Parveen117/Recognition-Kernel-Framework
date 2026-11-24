@@ -1,6 +1,8 @@
-# Written-development backlog at PG745
+# Written-development backlog at PG746
 
-Monty · 2026-11-24 · reviewed current parent 9cfb652b77ee71b5ecee6e940a55615a4c32f7f0. Historical closures below retain their exact pins.
+Monty · 2026-11-24 · reviewed current parent 6f01e1da5aec10f15505681acce4f40214c4fdd6. Historical closures below retain their exact pins.
+
+PG746 · [Day-specific strength, ancestor-made paths and the thousandfold](vedic_strength_days_ancestral_paths_and_thousandfold/README.md). The selected 4.4.130–136 construction and primary cases are addressed. Open evidence includes the day and qualified bhaga primary uses, independent pūrvīṇa/ini, the long MS grade operation and the separate thousand-possession primary reading. The direct KS dūtya source is now positively recorded. 4.4.137–144 is the next unconstructed register. C2–C5 and S1–S7 remain Open. Claude retains execution.
 
 PG745 · [Brick-placement mantras, two matup tokens and Vedic months](vedic_brick_mantra_affix_elision_and_seasonal_months/README.md). The selected 4.4.125–129 histories and independently verified placement, body and calendar cases are addressed. The independent brick readings for four citation-only examples, the Ṣaḍviṃśa exact conflict, mūrdhan-only primary evidence and the TS short-a cause stay Open. The next unconstructed Vedic path begins at 4.4.130. The wider C2–C5 and S1–S7 gates stay Open. Claude retains execution.
 

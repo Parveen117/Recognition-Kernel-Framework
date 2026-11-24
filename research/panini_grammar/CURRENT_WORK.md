@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG745
+# Pāṇini grammar · current written coverage at PG746
+
+PG746 · [Day-specific strength, ancestor-made paths and the thousandfold](vedic_strength_days_ancestral_paths_and_thousandfold/README.md). Writes ten source-qualified Vedic nominal positions and readings and constructs the full 4.4.130–136 affix selection. The exact short pūrviṇebhiḥ in KS and the Maitrāyaṇī long sahasrīyaḥ are independently pinned. Census 52,345 finite positions and 20,351 nominal positions with 22,984 nominal readings.
 
 PG745 · [Brick-placement mantras, two matup tokens and Vedic months](vedic_brick_mantra_affix_elision_and_seasonal_months/README.md). Writes 74 Vedic positions and readings through 4.4.129. Primary brick passages identify two owned matup tokens and distinguish the Vedic nominative mūrdhanvatīḥ from ordinary and accusative feminine endings. Census 52,345 finite positions and 20,341 nominal positions with 22,974 nominal readings.
 

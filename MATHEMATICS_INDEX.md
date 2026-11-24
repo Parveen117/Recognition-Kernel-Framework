@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG746 · [Day-specific strength, ancestor-made paths and the thousandfold](research/panini_grammar/vedic_strength_days_ancestral_paths_and_thousandfold/README.md). Instrumental supports, alternate compound analysis, affix provenance and Vedic accent and case readouts survive typed PG14 zero specialization.
+
 PG745 · [Brick-placement mantras, two matup tokens and Vedic months](research/panini_grammar/vedic_brick_mantra_affix_elision_and_seasonal_months/README.md). The PG14 lift tracks inner affix deletion, marker-sensitive outer affixes, observed case and co-recitation. Typed specialization respects the owner and visibility of every token.
 
 PG744 · [Vedic gifts, messenger duties, ritual bodies, praise and possession](research/panini_grammar/vedic_gift_messenger_praise_and_owned_maya/README.md). The PG14 history lift retains the six support domains, inner and outer suffix owners, and source-qualified realization. Typed zero specialization commutes with their ordered composition and case readouts.
