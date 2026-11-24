@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG720 · [Bhaṭṭi’s āghnāna and vidhyamāna](research/panini_grammar/bhatti_aghnaana_loci_and_vidhyamaana/README.md). Two participial constructors retain independent root, voice, argument and muk/grade histories. The two source contexts and surface-mood ambiguity specialize on the full PG14 carrier. 48 new nominal positions and 50 readings.
+
 PG719 · [Species names, the two matsya readings and paripantha](research/panini_grammar/species_taddhitas_matsya_and_paripantha/README.md). The 4.4.35–36 relation keeps semantic membership, named commentary exclusions, inner grade and school-specific suffix paths at their own history addresses. The selected case fibres have 312 positions and 350 readings with typed PG14 specialization.
 
 PG718 · [Gleaners, guardians, grammarians and assembly members](research/panini_grammar/gleaning_guardians_grammarians_and_joining/README.md). The derived 4.4.32–34 and 4.4.43–45 relations retain lexical role, inner sound grade, alternate affix and outer case identity. The typed PG14 proof covers the address-sensitive case fibres and controls. 312 new nominal positions with 350 readings.

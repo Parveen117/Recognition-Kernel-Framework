@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG720 · [Bhaṭṭi’s āghnāna and vidhyamāna](bhatti_aghnaana_loci_and_vidhyamaana/README.md). Identifies the actual participles at Apte’s two references and locates Jayamaṅgalā’s explanations. The two case fibres keep actor-middle han and passive vyadh apart. Census 52,341 finite positions and 10,693 nominal positions with 12,385 nominal readings.
+
 PG719 · [Species names, the two matsya readings and paripantha](species_taddhitas_matsya_and_paripantha/README.md). Writes the twelve Pāṇinian species designations and the named waylayer family. The original Mahābhāṣya limits the fish synonym to mīna. Pāṇinian mātsyika and Haima mātsika attach to separate affix histories. Census 52,341 finite positions and 10,645 nominal positions with 12,335 nominal readings.
 
 PG718 · [Gleaners, guardians, grammarians and assembly members](gleaning_guardians_grammarians_and_joining/README.md). Derives the selected 4.4.32–34 and 4.4.43–45 masculine fibres. Protecting and joining can give the same spelling under different roles. The default, override and optional soldier suffixes keep their distinct markers. Census 52,341 finite positions and 10,333 nominal positions with 11,985 nominal readings.

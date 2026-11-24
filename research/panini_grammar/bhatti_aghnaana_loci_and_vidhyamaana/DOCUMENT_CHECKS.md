@@ -1,0 +1,3 @@
+# PG720 changed-document check
+
+Python 3.12.14, with an explicit 3.12 assertion. Verified the predecessor census and exact historical pins, the old loṭ/laṅ/luṅ key addresses and PG332 citation, exact rule addresses, 48 case keys and 50 readings, source references, actor/patient distinctions and the two śānac paths, ownership sets, and changed-document links. Only documentary checks ran. Claude retains Sanskrit generators, grammar execution, old suites and replay. The first pass caught a nominative display in the stem field. Correcting the document data to store the two uninflected stems made the scoped retry pass.

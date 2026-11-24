@@ -2,6 +2,16 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG720 · Bhaṭṭi’s āghnāna and vidhyamāna
+
+PG720 · [Bhaṭṭi’s āghnāna and vidhyamāna](bhatti_aghnaana_loci_and_vidhyamaana/README.md). Identifies the actual participles at Apte’s two references and locates Jayamaṅgalā’s explanations. The two case fibres keep actor-middle han and passive vyadh apart. Census 52,341 finite positions and 10,693 nominal positions with 12,385 nominal readings.
+
+Finite increments 0 positions/0 readings. Nominal increments 48 positions/50 readings. Two nonfinite constructions/2 paths, one morphology construction/2 interfaces, one syntax construction/5 readouts and one junction construction/4 readouts. 10 source observations and 7 source-policy decisions. Publication parent 469c2a2088881724d2cc3ce4a73551e2132527aa. The containing commit pins the documents and evidence.
+
+PG521–720 cumulative: 522 finite positions/1,440 net finite readings, 4,915 nominal positions/5,642 readings, 294 morphology constructions/3,024 interfaces, 132 compound constructions/602 plans, 30 accent constructions/118 records, 154 semantics constructions/459 records, 142 syntax constructions/503 records, 205 source-policy decisions after PG555−1 and 554 observations. Twenty-five junction constructions/78 readouts since PG680 and 22 nonfinite constructions/28 paths since PG700. Four provenance corrections and one proof addendum. PG335 and PG357–363 CLOSED results are preserved.
+
+The exact Apte reference at 5.102 and the 1928 Jayamaṅgalā 5.102/8.15 source policies are locally CLOSED. The two masculine scope-selected participial fibres are constructed, with no repeat finite mā or āhadhvam credit. The attributed finite quotation, its lakāra and witness context remain Open under S1. The 4.4.37–42 construction queue and wider C2–C5/S1–S7 remain active. Claude retains execution.
+
 ## PG719 · Species names, the two matsya readings and paripantha
 
 PG719 · [Species names, the two matsya readings and paripantha](species_taddhitas_matsya_and_paripantha/README.md). Writes the twelve Pāṇinian species designations and the named waylayer family. The original Mahābhāṣya limits the fish synonym to mīna. Pāṇinian mātsyika and Haima mātsika attach to separate affix histories. Census 52,341 finite positions and 10,645 nominal positions with 12,335 nominal readings.
