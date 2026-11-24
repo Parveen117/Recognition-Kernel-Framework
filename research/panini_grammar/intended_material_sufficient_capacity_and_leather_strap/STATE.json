@@ -1,0 +1,36 @@
+{
+  "stage": "PG750",
+  "date": "2026-11-24",
+  "publication_parent": "9c1acb438f4727da30069642132ff773fb9f5aa4",
+  "baseline": {
+    "commit": "9c1acb438f4727da30069642132ff773fb9f5aa4",
+    "path": "research/panini_grammar/beneficiaries_grammatical_gender_and_two_poetic_kha_witnesses/STATE.json"
+  },
+  "finite_positions": 52345,
+  "nominal_positions": 20441,
+  "nominal_readings": 23082,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 18,
+  "new_nominal_readings": 19,
+  "new_morphology_constructions": 1,
+  "new_morphology_interfaces": 19,
+  "new_source_observations": 12,
+  "new_source_policy_decisions": 7,
+  "open_obligations": [
+    "The PG608 r-bearing strap now has an independently attributable inner history; the stem spellings across other editions and the PG747 exact chandasyaḥ citation remain Open.",
+    "Continue the new pre-vati and ārhīya selection at 5.1.18–24, checking lexical and measurement types and the priced numeral contrasts."
+  ],
+  "local_closure": "Typed PG14 recovery retains intention, sufficiency, and separate inner and outer affix owners in the strap derivation.",
+  "global_gates": {
+    "C2–C5": "Open",
+    "S1–S7": "Open",
+    "S5_direct_fields": "99/103",
+    "S6": "Independent 5.56 k-it effect Open"
+  },
+  "protected_registers": {
+    "PG335": "-9 finite positions and -12 readings already applied",
+    "PG340/346, PG349–352, PG355–360, PG357–363": "CLOSED on registered scopes"
+  },
+  "runtime_policy": "Written derivation. Only changed-document, source and count checks. Claude owns grammar execution, generators, untouched suites and replay."
+}

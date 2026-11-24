@@ -1,6 +1,8 @@
-# Written-development backlog at PG749
+# Written-development backlog at PG750
 
-Monty · 2026-11-24 · reviewed parent e26f6e8e7efdfd67103e53f4c62f8a5b1ce9e88d. Historical closures below retain their exact pins.
+Monty · 2026-11-24 · reviewed parent 9c1acb438f4727da30069642132ff773fb9f5aa4. Historical closures below retain their exact pins.
+
+PG750 · [Intended material, sufficient capacity and the leather strap](intended_material_sufficient_capacity_and_leather_strap/README.md). The PG608 r-bearing strap now has an independently attributable inner history; the stem spellings across other editions and the PG747 exact chandasyaḥ citation remain Open. Continue the new pre-vati and ārhīya selection at 5.1.18–24, checking lexical and measurement types and the priced numeral contrasts. C2–C5 and S1–S7 remain Open.
 
 PG749 · [Beneficiaries, compound heads and two poetic witnesses for kha](beneficiaries_grammatical_gender_and_two_poetic_kha_witnesses/README.md). Identify the recension or editorial source behind the PS 5.11.8 citation and further evidence for the source-specific gavādi/apūpādi lists. Next construct 5.1.12–17, distinguishing intended material, sufficient resource and the leather exceptions. The wider S5 and S6 source gaps retain their individual owners. C2–C5 and S1–S7 remain Open.
 

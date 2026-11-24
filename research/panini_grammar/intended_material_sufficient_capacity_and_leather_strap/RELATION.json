@@ -1,0 +1,321 @@
+{
+  "stage": "PG750",
+  "morphology_interfaces": [
+    {
+      "id": "FUEL",
+      "base": "aṅgāra",
+      "guard": "destined wood material",
+      "affix": "cha",
+      "result": "aṅgārīya"
+    },
+    {
+      "id": "WALL-I",
+      "base": "prākāra",
+      "guard": "bricks intended to become a wall",
+      "affix": "cha + ṭāp",
+      "result": "prākārīyā"
+    },
+    {
+      "id": "POST",
+      "base": "yūpa",
+      "guard": "wood for post",
+      "affix": "cha",
+      "result": "yūpīya"
+    },
+    {
+      "id": "ROOF",
+      "base": "chadis/chadiṣ",
+      "guard": "grass for roof",
+      "affix": "ḍhañ",
+      "result": "chādiṣeya"
+    },
+    {
+      "id": "AXLE",
+      "base": "upadhi",
+      "guard": "wood to make wheel part",
+      "affix": "ḍhañ",
+      "result": "aupadheya"
+    },
+    {
+      "id": "AXLE-O",
+      "base": "upadhi",
+      "guard": "the part itself, supplementary own sense",
+      "affix": "ḍhañ",
+      "result": "aupadheya"
+    },
+    {
+      "id": "GRAIN",
+      "base": "bali",
+      "guard": "grain for offering",
+      "affix": "ḍhañ",
+      "result": "bāleya"
+    },
+    {
+      "id": "CALF",
+      "base": "ṛṣabha",
+      "guard": "young animal reared for mature state",
+      "affix": "ñya",
+      "result": "ārṣabhya"
+    },
+    {
+      "id": "SHOE",
+      "base": "upānah",
+      "guard": "finished shoe, grass or hide material",
+      "affix": "ñya",
+      "result": "aupānahya"
+    },
+    {
+      "id": "INNER-R",
+      "base": "vṛdh",
+      "guard": "Uṇādi 2.28 leather → material product, strap",
+      "affix": "ran → aṇ → ṅīp",
+      "result": "vārdhrī"
+    },
+    {
+      "id": "STRAP-R",
+      "base": "vārdhrī or vardhra on the lexical direct route",
+      "guard": "leather for strap, r-bearing lineage",
+      "affix": "añ",
+      "result": "vārdhra"
+    },
+    {
+      "id": "STRAP-N",
+      "base": "vadhrī",
+      "guard": "leather for strap, vadh-source alternative",
+      "affix": "añ",
+      "result": "vādhra"
+    },
+    {
+      "id": "THONG",
+      "base": "varatrā",
+      "guard": "hide for thong",
+      "affix": "añ",
+      "result": "vāratra"
+    },
+    {
+      "id": "WALL-G",
+      "base": "prākāra",
+      "guard": "resources sufficient for wall, genitive readout",
+      "affix": "cha + ṭāp",
+      "result": "prākārīyā"
+    },
+    {
+      "id": "PAL-G",
+      "base": "prāsāda",
+      "guard": "timber sufficient for palace, genitive readout",
+      "affix": "cha",
+      "result": "prāsādīya"
+    },
+    {
+      "id": "WALL-L",
+      "base": "prākāra",
+      "guard": "place sufficient for wall, locative readout",
+      "affix": "cha",
+      "result": "prākārīya"
+    },
+    {
+      "id": "PAL-L",
+      "base": "prāsāda",
+      "guard": "ground sufficient for palace, locative readout",
+      "affix": "cha + ṭāp",
+      "result": "prāsādīyā"
+    },
+    {
+      "id": "DITCH-G",
+      "base": "parikhā",
+      "guard": "land affords the ditch",
+      "affix": "ḍhañ + ṅīp",
+      "result": "pārikheyī"
+    },
+    {
+      "id": "DITCH-L",
+      "base": "parikhā",
+      "guard": "ditch may be excavated in this land",
+      "affix": "ḍhañ + ṅīp",
+      "result": "pārikheyī"
+    }
+  ],
+  "nominal_positions": [
+    {
+      "id": "FUEL",
+      "source": "K12",
+      "input_history": "FUEL",
+      "case_number": "N NOMpl",
+      "word": "aṅgārīyāṇi",
+      "interpretation": "Wood set aside for charcoal."
+    },
+    {
+      "id": "BRICK-I",
+      "source": "K12",
+      "input_history": "WALL-I",
+      "case_number": "F NOMpl",
+      "word": "prākārīyāḥ",
+      "interpretation": "Bricks earmarked for construction of a wall."
+    },
+    {
+      "id": "POST",
+      "source": "BV",
+      "input_history": "POST",
+      "case_number": "N NOMsg",
+      "word": "yūpīyam",
+      "interpretation": "Wood for a sacrificial post."
+    },
+    {
+      "id": "ROOF",
+      "source": "K13",
+      "input_history": "ROOF",
+      "case_number": "N NOMpl",
+      "word": "chādiṣeyāṇi",
+      "interpretation": "Grasses to make a covering; retroflex ṇ in the plural."
+    },
+    {
+      "id": "AXLE",
+      "source": "K13",
+      "input_history": "AXLE/AXLE-O",
+      "case_number": "N NOMsg",
+      "word": "aupadheyam",
+      "interpretation": "The material wood and, under the supplement, the wheel component itself. Shared case reading."
+    },
+    {
+      "id": "GRAIN",
+      "source": "K13",
+      "input_history": "GRAIN",
+      "case_number": "M NOMpl",
+      "word": "bāleyāḥ",
+      "interpretation": "Rice grains for bali."
+    },
+    {
+      "id": "SEED",
+      "source": "RA",
+      "input_history": "GRAIN",
+      "case_number": "N ACCsg",
+      "word": "bāleyam",
+      "interpretation": "Bījam as an object of bringing. Mallinātha gives the purpose gloss."
+    },
+    {
+      "id": "CALF",
+      "source": "K14",
+      "input_history": "CALF",
+      "case_number": "M NOMsg",
+      "word": "ārṣabhyaḥ",
+      "interpretation": "Calf raised to reach the condition of a bull."
+    },
+    {
+      "id": "GRASS",
+      "source": "K14",
+      "input_history": "SHOE",
+      "case_number": "M NOMsg",
+      "word": "aupānahyaḥ",
+      "interpretation": "Muñja used for footwear."
+    },
+    {
+      "id": "HIDE",
+      "source": "K14",
+      "input_history": "SHOE",
+      "case_number": "N NOMsg",
+      "word": "aupānahyam",
+      "interpretation": "The same shoe endpoint has hide as the proposed material."
+    },
+    {
+      "id": "STRAP",
+      "source": "K15",
+      "input_history": "STRAP-R/STRAP-N",
+      "case_number": "N NOMsg",
+      "word": "vārdhram / vādhram",
+      "interpretation": "Two differently sourced strap stems give the distinct readings vārdhram and vādhram."
+    },
+    {
+      "id": "THONG",
+      "source": "K15",
+      "input_history": "THONG",
+      "case_number": "N NOMsg",
+      "word": "vāratram",
+      "interpretation": "Hide for a varatrā thong."
+    },
+    {
+      "id": "STRAP-D",
+      "source": "K15",
+      "input_history": "INNER-R",
+      "case_number": "F DATsg",
+      "word": "vārdhryai",
+      "interpretation": "The r-bearing strap as the intended product in Tattva's dative explanation."
+    },
+    {
+      "id": "BRICK-S",
+      "source": "K16",
+      "input_history": "WALL-G",
+      "case_number": "F NOMpl",
+      "word": "prākārīyāḥ",
+      "interpretation": "The bricks have sufficient quantity for a wall."
+    },
+    {
+      "id": "TIMBER",
+      "source": "K16",
+      "input_history": "PAL-G",
+      "case_number": "N NOMsg",
+      "word": "prāsādīyam",
+      "interpretation": "Sufficient timber for a palace."
+    },
+    {
+      "id": "SITE",
+      "source": "K16",
+      "input_history": "WALL-L",
+      "case_number": "M NOMsg",
+      "word": "prākārīyaḥ",
+      "interpretation": "Deśa suitable as a site for the wall."
+    },
+    {
+      "id": "LAND",
+      "source": "K16",
+      "input_history": "PAL-L",
+      "case_number": "F NOMsg",
+      "word": "prāsādīyā",
+      "interpretation": "Ground sufficient for a palace."
+    },
+    {
+      "id": "DITCH",
+      "source": "K17",
+      "input_history": "DITCH-G/DITCH-L",
+      "case_number": "F NOMsg",
+      "word": "pārikheyī",
+      "interpretation": "The land that affords the ditch or in which it can be made."
+    }
+  ],
+  "source_policy_decisions": [
+    {
+      "id": "MATERIAL",
+      "sources": "K12,BV",
+      "decision": "Intention alone fails for scabbard and sword; material origin alone fails without dedication. The two old PG748 examples are controls."
+    },
+    {
+      "id": "UPADHI",
+      "sources": "K13,KI,BV",
+      "decision": "A named inner prefixed ki and a different outer ḍhañ survive in two readings of the wheel wood. The English digital auṣadheya is not an adopted alternative in this history."
+    },
+    {
+      "id": "OFFERING",
+      "sources": "K13,RA",
+      "decision": "The corpus contributes a neuter accusative, separate from the grammar’s masculine rice nominative plural. Ritual purpose in the poem has explicit commentator authority."
+    },
+    {
+      "id": "LEATHER",
+      "sources": "K14,K15",
+      "decision": "Neither leather as a following material nor a surface substring selects añ. Shoe-production and the already admitted sanaṅgu retain earlier priority."
+    },
+    {
+      "id": "STRAP",
+      "sources": "K15,U28,PM",
+      "decision": "Connect the earlier named strap to vṛdh + ran, derivative aṇ and feminine ṅīp. Tattva’s independent vadhrī analysis remains a separate branch."
+    },
+    {
+      "id": "CAPACITY",
+      "sources": "K12,K16,K17",
+      "decision": "Hold the wall and bricks fixed and vary intention versus adequacy. Support case and role are queryable at zero even when the resulting endings coincide."
+    },
+    {
+      "id": "SYLLABLE",
+      "sources": "SB",
+      "decision": "PG747 extension: the Śatapatha has a direct five-formula count with a different final exclamation in §16. This supplies neither an MS emendation nor the exact missing adjective."
+    }
+  ]
+}

@@ -2,6 +2,12 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG750 · Intended material, sufficient capacity and the leather strap
+
+PG750 · [Intended material, sufficient capacity and the leather strap](intended_material_sufficient_capacity_and_leather_strap/README.md). Derives the intended-material and adequacy cases at 5.1.12–17, with a Kālidāsa offering witness and an inner derivation for the strap previously supplied at PG608. 18 new nominal positions and 19 readings. Finite positions and readings both increased by zero. One written morphology construction with 19 interfaces, 12 source observations and 7 source decisions. Census: 52,345 finite positions, 20,441 nominal positions and 23,082 nominal readings.
+
+Parent 9c1acb438f4727da30069642132ff773fb9f5aa4. The containing commit pins this packet. The PG608 r-bearing strap now has an independently attributable inner history; the stem spellings across other editions and the PG747 exact chandasyaḥ citation remain Open. Continue the new pre-vati and ārhīya selection at 5.1.18–24, checking lexical and measurement types and the priced numeral contrasts. C2–C5 and S1–S7 remain Open. Claude retains execution.
+
 ## PG749 · Beneficiaries, compound heads and two poetic witnesses for kha
 
 PG749 · [Beneficiaries, compound heads and two poetic witnesses for kha](beneficiaries_grammatical_gender_and_two_poetic_kha_witnesses/README.md). Derives the named benefit cases at 5.1.6–11. Bhāravi and Māgha supply independent cases of kha; the cited Paippalāda edition has a different reading at 5.11.8. 36 new nominal positions and 38 readings. Finite positions and readings both increased by zero. One written morphology construction with 35 interfaces, 14 source observations and 8 source decisions. Census: 52,345 finite positions, 20,423 nominal positions and 23,063 nominal readings.

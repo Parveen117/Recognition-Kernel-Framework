@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG749
+# Pāṇini grammar · current written coverage at PG750
+
+PG750 · [Intended material, sufficient capacity and the leather strap](intended_material_sufficient_capacity_and_leather_strap/README.md). Derives the intended-material and adequacy cases at 5.1.12–17, with a Kālidāsa offering witness and an inner derivation for the strap previously supplied at PG608. Census: 52,345 finite positions, 20,441 nominal positions and 23,082 nominal readings.
 
 PG749 · [Beneficiaries, compound heads and two poetic witnesses for kha](beneficiaries_grammatical_gender_and_two_poetic_kha_witnesses/README.md). Derives the named benefit cases at 5.1.6–11. Bhāravi and Māgha supply independent cases of kha; the cited Paippalāda edition has a different reading at 5.11.8. Census: 52,345 finite positions, 20,423 nominal positions and 23,063 nominal readings.
 

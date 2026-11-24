@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG750 · [Intended material, sufficient capacity and the leather strap](intended_material_sufficient_capacity_and_leather_strap/README.md). Derives the intended-material and adequacy cases at 5.1.12–17, with a Kālidāsa offering witness and an inner derivation for the strap previously supplied at PG608. 18 new nominal positions and 19 readings. Finite positions and readings both increased by zero.
+
 PG749 · [Beneficiaries, compound heads and two poetic witnesses for kha](beneficiaries_grammatical_gender_and_two_poetic_kha_witnesses/README.md). Derives the named benefit cases at 5.1.6–11. Bhāravi and Māgha supply independent cases of kha; the cited Paippalāda edition has a different reading at 5.11.8. 36 new nominal positions and 38 readings. Finite positions and readings both increased by zero.
 
 PG748 · [The wool measure, offering options and the gavādi exceptions](blanket_measure_offering_options_and_gavadi_exceptions/README.md). Extends 5.1.1–5 to case readings for default cha, protected and optional yat, the dog-grade accent contrast and the two purchases measured in wool. 22 new nominal positions and 27 readings. Finite positions and readings both increased by zero.

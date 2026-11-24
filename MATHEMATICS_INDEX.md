@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG750 · [Intended material, sufficient capacity and the leather strap](research/panini_grammar/intended_material_sufficient_capacity_and_leather_strap/README.md). Typed PG14 recovery retains intention, sufficiency, and separate inner and outer affix owners in the strap derivation.
+
 PG749 · [Beneficiaries, compound heads and two poetic witnesses for kha](research/panini_grammar/beneficiaries_grammatical_gender_and_two_poetic_kha_witnesses/README.md). The selected beneficiary, compound, suffix-marker and case histories have typed zero recovery, including the female beneficiary and the source-restricted dental n.
 
 PG748 · [The wool measure, offering options and the gavādi exceptions](research/panini_grammar/blanket_measure_offering_options_and_gavadi_exceptions/README.md). PG14 specialization preserves the lexical substitution, correlated length and accent, and the two suffix owners in measure-based purchases.
