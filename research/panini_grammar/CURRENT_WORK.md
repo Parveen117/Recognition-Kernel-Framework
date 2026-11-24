@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG731
+# Pāṇini grammar · current written coverage at PG732
+
+PG732 · [House residence, carrying and the two histories of yugya](house_residence_yat_carrying_and_yugya_accent/README.md). Writes separate ṣṭhal, yat, kyap and dhur derivations, closes the prefixed vas base required by the earlier āvasathya work, and preserves competing yugya accent policies and independently sourced dhaureyaka histories. Census 52,341 finite positions and 16,381 nominal positions with 18,613 nominal readings.
 
 PG731 · [Appointed buildings, prohibited study and two senses of residence](appointed_buildings_prohibited_study_and_residence/README.md). Derives the selected 4.4.70–73 locative forms and Hemacandra 6.4.75–77 parallels. The editions settle sāndhyika and the Vasu short crossroads spelling, and the residence commentators retain distinct conditions. Census 52,341 finite positions and 15,877 nominal positions with 18,019 nominal readings.
 

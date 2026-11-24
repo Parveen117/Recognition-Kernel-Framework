@@ -2,6 +2,16 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG732 · House residence, carrying and the two histories of yugya
+
+PG732 · [House residence, carrying and the two histories of yugya](house_residence_yat_carrying_and_yugya_accent/README.md). Writes separate ṣṭhal, yat, kyap and dhur derivations, closes the prefixed vas base required by the earlier āvasathya work, and preserves competing yugya accent policies and independently sourced dhaureyaka histories. Census 52,341 finite positions and 16,381 nominal positions with 18,613 nominal readings.
+
+Finite increments 0 positions/0 readings. Nominal increments 504 positions/594 readings. One morphology construction/39 interfaces, one compound construction/6 plans, one syntax construction/11 readouts, one semantic construction/11 readouts, one junction construction/9 readouts and one accent construction/7 records. 26 source observations and 17 source-policy decisions. Publication parent fa3c671d06f789cd0f6b49852493be6b5ff19dbb. The containing commit pins the documents and evidence.
+
+PG521–732 cumulative: 522 finite positions/1,440 net finite readings, 10,603 nominal positions/11,870 readings, 306 morphology constructions/3,334 interfaces, 140 compound constructions/648 plans, 38 accent constructions/159 records, 164 semantics constructions/528 records, 153 syntax constructions/614 records, 362 source-policy decisions after PG555−1 and 759 observations. Thirty-six junction constructions/135 readouts since PG680 and 22 nonfinite constructions/28 paths since PG700. PG335 and PG357–363 CLOSED results are preserved.
+
+Selected Pāṇinian 4.4.74–77, the separately addressed 3.1.121 and 4.3.121 variants, the competing commentary readings of yugya pitch and Haima correspondence have reviewable written traces. The exact print basis of the Padamañjarī ḍhañ string, the Bālamanoramā ḍhakañ report's transmission, the disputed Vedic accent restriction and wider female and case citation evidence stay Open. The 4.4.78–81 kh/luk and carriage implement forms remain constructive work. C2–C5/S1–S7 and Claude execution remain on their registers.
+
 ## PG731 · Appointed buildings, prohibited study and two senses of residence
 
 PG731 · [Appointed buildings, prohibited study and two senses of residence](appointed_buildings_prohibited_study_and_residence/README.md). Derives the selected 4.4.70–73 locative forms and Hemacandra 6.4.75–77 parallels. The editions settle sāndhyika and the Vasu short crossroads spelling, and the residence commentators retain distinct conditions. Census 52,341 finite positions and 15,877 nominal positions with 18,019 nominal readings.

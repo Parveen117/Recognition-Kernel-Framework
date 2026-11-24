@@ -1,0 +1,60 @@
+{
+  "schema": "rkf.panini.pg732.state.v1",
+  "author": "Monty",
+  "date": "2026-11-24",
+  "publication_parent": "fa3c671d06f789cd0f6b49852493be6b5ff19dbb",
+  "baseline": {
+    "commit": "fa3c671d06f789cd0f6b49852493be6b5ff19dbb",
+    "path": "research/panini_grammar/appointed_buildings_prohibited_study_and_residence/STATE.json"
+  },
+  "finite_positions": 52341,
+  "nominal_positions": 16381,
+  "nominal_readings": 18613,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 504,
+  "new_nominal_readings": 594,
+  "new_positions": 504,
+  "new_position_readings": 594,
+  "new_morphology_constructions": 1,
+  "new_morphology_interfaces": 39,
+  "new_compound_constructions": 1,
+  "new_compound_plans": 6,
+  "new_semantic_constructions": 1,
+  "new_semantic_readouts": 11,
+  "new_accent_constructions": 1,
+  "new_accent_readouts": 7,
+  "new_phonological_constructions": 1,
+  "new_phonological_readouts": 9,
+  "new_syntactic_constructions": 1,
+  "new_syntactic_readouts": 11,
+  "new_nonfinite_constructions": 0,
+  "new_nonfinite_readouts": 0,
+  "new_source_observations": 26,
+  "new_source_policy_decisions": 17,
+  "direct_multiple_affix_fields": 99,
+  "open_fields": 4,
+  "local_closure": "CLOSED for the 21 declared nominal case fibres, explicitly bounded āvasatha inner history and 4.4.74–77 and Haima scope transitions. Competing accent and primary print evidence retain their exact Open obligations.",
+  "open_obligations": [
+    "Direct Padamañjarī and Bālamanoramā editions for the ḍhañ and ḍhakañ reports, and independent lexical context of the quotations on printed p. 219.",
+    "An accented Vedic yugya witness and exact independent transmission of the two readings of 6.1.213. The two expressly supported commentary policies remain represented.",
+    "Further primary case and pitch attestations and the verse-number transmission beyond the named 1928 print. The 1928 compound itself does not choose a free first-member gender.",
+    "The broader dhur consonant paradigm, 4.4.78–81 special affixes, and the still-Open C2–C5 and S1–S7. S5 remains 99/103. Claude owns execution."
+  ],
+  "authorization": {
+    "completion_status": "OPEN wider gates",
+    "PG335": "-9 finite/-12 readings preserved",
+    "PG357_PG363": "CLOSED preserved",
+    "continuous_executed_hours_claimed": false
+  },
+  "runtime_policy": {
+    "python": "3.12 only",
+    "document_check_status": "PASS",
+    "document_check_attempts": 1,
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "old_suites": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE"
+  },
+  "grammar_executions": []
+}

@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG732 · [House residence, carrying and the two histories of yugya](research/panini_grammar/house_residence_yat_carrying_and_yugya_accent/README.md). Affix and contextual case ownership separate the last locative rule from the following accusative yat carrier. Same-surface kyap and yat histories support an exact compound-tone comparison without erasing lexical and source grounds.
+
 PG731 · [Appointed buildings, prohibited study and two senses of residence](research/panini_grammar/appointed_buildings_prohibited_study_and_residence/README.md). Four locative predicates extend the full PG14 carrier. The same form can preserve source-distinct suffix or residence eligibility, and study and residence remain separate roles for śmāśānika.
 
 PG730 · [Assigned dishes, ṭiṭhan and appointed offices](research/panini_grammar/assigned_dishes_title_affix_and_appointed_locus/README.md). The full PG14 cut-path history algebra transports disjoint recipient, ingredient and locative appointment requests. The local case and quote readouts preserve marker ownership even when the segmental word agrees.

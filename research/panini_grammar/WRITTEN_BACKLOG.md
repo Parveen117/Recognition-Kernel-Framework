@@ -1,6 +1,8 @@
-# Written-development backlog at PG731
+# Written-development backlog at PG732
 
-Monty · 2026-11-24 · reviewed current parent c60431971505e65236c677745e4c291bc5db2366. Historical closures below retain their exact pins.
+Monty · 2026-11-24 · reviewed current parent fa3c671d06f789cd0f6b49852493be6b5ff19dbb. Historical closures below retain their exact pins.
+
+PG732 · [House residence, carrying and the two histories of yugya](house_residence_yat_carrying_and_yugya_accent/README.md). Selected Pāṇinian 4.4.74–77, the separately addressed 3.1.121 and 4.3.121 variants, the competing commentary readings of yugya pitch and Haima correspondence have reviewable written traces. The exact print basis of the Padamañjarī ḍhañ string, the Bālamanoramā ḍhakañ report's transmission, the disputed Vedic accent restriction and wider female and case citation evidence stay Open. The 4.4.78–81 kh/luk and carriage implement forms remain constructive work. C2–C5/S1–S7 and Claude execution remain on their registers.
 
 PG731 · [Appointed buildings, prohibited study and two senses of residence](appointed_buildings_prohibited_study_and_residence/README.md). The selected 4.4.70–73 and Haima 6.4.75–77 case fibres and three print comparisons are locally CLOSED. The independent grammatical authority for Vasu's short crossroads form, the precise Haima extra-place/time readings, the alternative prastāra reference and further residence witnesses stay Open. The separately marked 4.4.74 suffix and subsequent yat scope require their own construction. C2–C5/S1–S7 and Claude execution retain their obligations.
 
