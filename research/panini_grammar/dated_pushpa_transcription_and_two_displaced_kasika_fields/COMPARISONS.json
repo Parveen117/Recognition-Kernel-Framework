@@ -1,0 +1,78 @@
+{
+  "source_files": [
+    {
+      "id": "CH3",
+      "commit": "0d571bfd85e5da16453f5fef06bc74bb450690ba",
+      "path": "vyAkaraNam/pANinIyam/mUlAni/kAshikA/puShpA-pratiH/3.md",
+      "bytes": 538139,
+      "git_blob_sha": "006d5a39d6199700a4e35857068692071d2c70fc",
+      "sha256": "1f69c10964e3d887a65bff4f79d2ae0062e280f25f8b73511d87429dc5e53ee0",
+      "url": "https://github.com/vishvAsa/sanskrit/blob/0d571bfd85e5da16453f5fef06bc74bb450690ba/vyAkaraNam/pANinIyam/mUlAni/kAshikA/puShpA-pratiH/3.md"
+    },
+    {
+      "id": "P32",
+      "commit": "277be27348d60eef5dc2d1fd8135b51ac38dd054",
+      "path": "vyAkaraNam/pANinIyam/mUlAni/kAshikA/puShpA-pratiH/3/02.md",
+      "bytes": 147852,
+      "git_blob_sha": "20bdb909fc53a04ee581cdc179cfa9f1cee5aa42",
+      "sha256": "e83ff557ca8119c2a9fadb9561c08289f4405a02c4e2ece06005e7cff4cf4194",
+      "url": "https://github.com/vishvAsa/sanskrit/blob/277be27348d60eef5dc2d1fd8135b51ac38dd054/vyAkaraNam/pANinIyam/mUlAni/kAshikA/puShpA-pratiH/3/02.md"
+    },
+    {
+      "id": "P42",
+      "commit": "277be27348d60eef5dc2d1fd8135b51ac38dd054",
+      "path": "vyAkaraNam/pANinIyam/mUlAni/kAshikA/puShpA-pratiH/4/02.md",
+      "bytes": 148428,
+      "git_blob_sha": "c4d16032fe3c5bb5b10257f193e404698576a529",
+      "sha256": "1190128f1128b7884f840e87438e13d9d8c011946aa445e9c76eb5c88e9772d7",
+      "url": "https://github.com/vishvAsa/sanskrit/blob/277be27348d60eef5dc2d1fd8135b51ac38dd054/vyAkaraNam/pANinIyam/mUlAni/kAshikA/puShpA-pratiH/4/02.md"
+    },
+    {
+      "id": "P74",
+      "commit": "277be27348d60eef5dc2d1fd8135b51ac38dd054",
+      "path": "vyAkaraNam/pANinIyam/mUlAni/kAshikA/puShpA-pratiH/7/04.md",
+      "bytes": 82884,
+      "git_blob_sha": "441a57c2c3fe9a1f6add71af5e1b8d4a8a490b0f",
+      "sha256": "61554d166c8bb366855d85aee66fb6ff25a74a02c0d5f49ddcb517c9a6ed8644",
+      "url": "https://github.com/vishvAsa/sanskrit/blob/277be27348d60eef5dc2d1fd8135b51ac38dd054/vyAkaraNam/pANinIyam/mUlAni/kAshikA/puShpA-pratiH/7/04.md"
+    }
+  ],
+  "targets": [
+    {
+      "canonical_key": "32111",
+      "target_key": "32111",
+      "source_file": "P32",
+      "source_line": 452,
+      "source_heading": "३.२.१११",
+      "matched_utf8_sha256": "560cbdceb0ae34effe568763f24d6cfb445334e581d16b927a96cc0e1db75944",
+      "exact_after_declared_normalization": true
+    },
+    {
+      "canonical_key": "32157",
+      "target_key": "31157",
+      "source_file": "P32",
+      "source_line": 642,
+      "source_heading": "३.१.१५७",
+      "matched_utf8_sha256": "71ae4f8310d5f82698680d7243d73f633c22c7fb8f25c6ca463aeda3dcb96c46",
+      "exact_after_declared_normalization": true
+    },
+    {
+      "canonical_key": "42028",
+      "target_key": "24028",
+      "source_file": "P42",
+      "source_line": 130,
+      "source_heading": "२.४.२८",
+      "matched_utf8_sha256": "677bb925af2891334c4eda1835e5d6c331dfb41d525636cdb95eeac570ee893e",
+      "exact_after_declared_normalization": true
+    }
+  ],
+  "normalization": "Trim leading/trailing whitespace, remove Markdown double-asterisk emphasis, map typographic paired quotes to << and >>. No inner whitespace or Sanskrit character normalization.",
+  "community_source_title": "पुष्पा-प्रतिः",
+  "target_sources": "../kasika_bulk_replacement_and_current_source_fields/SNAPSHOTS.json",
+  "earlier_target_locus": {
+    "file": "CH3",
+    "line": 1112,
+    "heading_line": 1110,
+    "identical_after_edge_trim_to_split_file": true
+  }
+}

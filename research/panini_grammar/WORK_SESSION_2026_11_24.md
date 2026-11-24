@@ -2,6 +2,12 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG762 · A dated Sanskrit transcription behind three matching Kāśikā records
+
+PG762 · [A dated Sanskrit transcription behind three matching Kāśikā records](dated_pushpa_transcription_and_two_displaced_kasika_fields/README.md). Finds the complete divergent paragraph in a 27 December 2023 Puṣpā-prati copy and positively matches two distinctive misplaced rule numbers to the 30 December import. 0 new nominal positions and 0 readings. Finite positions and readings both increased by zero. Seven source observations and four source decisions. No new morphology construction or interface. Census: 52,345 finite positions, 20,764 nominal positions and 23,473 nominal readings.
+
+Parent 8a5625669faf6c7d796d12c7771e84690bf5a863. The containing commit pins this packet. S3 has a pre-import digital witness with two independently matched displaced records. An explicit transfer or source-master record, the original motivation and an upstream repair remain Open. Resume the 5.1.91–97 year and vow constructions. C2–C5 and the other source registers retain their preceding status. C2–C5 and S1–S7 remain Open. Claude retains execution.
+
 ## PG761 · The 3.2.111 bulk replacement and the current upstream source fields
 
 PG761 · [The 3.2.111 bulk replacement and the current upstream source fields](kasika_bulk_replacement_and_current_source_fields/README.md). Compares the full source maps around cd9f92b and the immediate successor, and checks current upstream S2, S3 and S5 records against their frozen pins. 0 new nominal positions and 0 readings. Finite positions and readings both increased by zero. Eight source observations and four source decisions. No new morphology construction or interface. Census: 52,345 finite positions, 20,764 nominal positions and 23,473 nominal readings.

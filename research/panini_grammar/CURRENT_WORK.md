@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG761
+# Pāṇini grammar · current written coverage at PG762
+
+PG762 · [A dated Sanskrit transcription behind three matching Kāśikā records](dated_pushpa_transcription_and_two_displaced_kasika_fields/README.md). Finds the complete divergent paragraph in a 27 December 2023 Puṣpā-prati copy and positively matches two distinctive misplaced rule numbers to the 30 December import. Census: 52,345 finite positions, 20,764 nominal positions and 23,473 nominal readings.
 
 PG761 · [The 3.2.111 bulk replacement and the current upstream source fields](kasika_bulk_replacement_and_current_source_fields/README.md). Compares the full source maps around cd9f92b and the immediate successor, and checks current upstream S2, S3 and S5 records against their frozen pins. Census: 52,345 finite positions, 20,764 nominal positions and 23,473 nominal readings.
 

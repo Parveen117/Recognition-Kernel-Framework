@@ -1,0 +1,36 @@
+{
+  "stage": "PG762",
+  "date": "2026-11-24",
+  "publication_parent": "8a5625669faf6c7d796d12c7771e84690bf5a863",
+  "baseline": {
+    "commit": "8a5625669faf6c7d796d12c7771e84690bf5a863",
+    "path": "research/panini_grammar/kasika_bulk_replacement_and_current_source_fields/STATE.json"
+  },
+  "finite_positions": 52345,
+  "nominal_positions": 20764,
+  "nominal_readings": 23473,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 0,
+  "new_morphology_constructions": 0,
+  "new_morphology_interfaces": 0,
+  "new_source_observations": 7,
+  "new_source_policy_decisions": 4,
+  "open_obligations": [
+    "S3 has a pre-import digital witness with two independently matched displaced records. An explicit transfer or source-master record, the original motivation and an upstream repair remain Open.",
+    "Resume the 5.1.91–97 year and vow constructions. C2–C5 and the other source registers retain their preceding status."
+  ],
+  "local_closure": "Closes the named pre-import digital-locus question for 32111 and identifies two shared address errors.",
+  "global_gates": {
+    "C2–C5": "Open",
+    "S1–S7": "Open",
+    "S5_direct_fields": "99/103",
+    "S6": "Independent 5.56 k-it effect Open"
+  },
+  "protected_registers": {
+    "PG335": "-9 finite positions and -12 readings already applied",
+    "PG340/346, PG349–352, PG355–360, PG357–363": "CLOSED on registered scopes"
+  },
+  "runtime_policy": "Written derivation. Only changed-document, source and count checks. Claude owns grammar execution, generators, untouched suites and replay."
+}

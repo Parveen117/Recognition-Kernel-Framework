@@ -1,0 +1,90 @@
+{
+  "project_dependencies": [
+    {
+      "commit": "8a5625669faf6c7d796d12c7771e84690bf5a863",
+      "path": "research/panini_grammar/kasika_bulk_replacement_and_current_source_fields/STATE.json",
+      "git_blob_sha": "3a68e8b3fb0f395ed14c3348cb4b22777ac15bd4",
+      "sha256": "4de1700d716700e60eefd72b79070e1c4acb8b21b2b8c97864fca16e797b45f7",
+      "use": "Published baseline"
+    },
+    {
+      "commit": "8a5625669faf6c7d796d12c7771e84690bf5a863",
+      "path": "research/panini_grammar/kasika_bulk_replacement_and_current_source_fields/SNAPSHOTS.json",
+      "git_blob_sha": "ed8f35869a56ea47325558ec6e422dad17fe9a3e",
+      "sha256": "3efd64d2d8c3a1f3ba0c4d996b35c76ace13f0110391997a39992b731ddd4a52",
+      "use": "PG761 found the lost addresses, introduced 31157 and present 32111 state."
+    },
+    {
+      "commit": "8a5625669faf6c7d796d12c7771e84690bf5a863",
+      "path": "research/panini_grammar/anadyatana_two_printed_kasika_prescriptions/RELATION.json",
+      "git_blob_sha": "82c15826fe0cfeca71f75463fcecb7387b8979b7",
+      "sha256": "5527d2a1aea1bf08d5d57d164a5536f015cb2eb74388c6534a051928d4db00ed",
+      "use": "Printed 1952/Osmania prescription remains laṅ."
+    },
+    {
+      "commit": "8a5625669faf6c7d796d12c7771e84690bf5a863",
+      "path": "research/panini_grammar/anadyatana_direct_parent_lung_transition/SOURCES.json",
+      "git_blob_sha": "43015490bdcd3a4d37191022215eec95c15b6b0f",
+      "sha256": "2a07f47de717186d7293f576cecf906efbb0843feb5b022ac57cd4e26109b6e6",
+      "use": "PG477 immutable direct parent and child."
+    },
+    {
+      "commit": "8a5625669faf6c7d796d12c7771e84690bf5a863",
+      "path": "research/panini_grammar/SUTRAPATHA.tsv",
+      "git_blob_sha": "1840f3b5349b21112ac05a7efaa59705fd4efee0",
+      "sha256": "70dfdfe6ba433b6e211f0f01b078c1b6d13a1ad0938e06fd5789298a04583634",
+      "use": "Canonical locations of the three sūtras."
+    },
+    {
+      "commit": "8a5625669faf6c7d796d12c7771e84690bf5a863",
+      "path": "research/panini_grammar/grammar_construction/NATIVE_OPERATOR_LIFT.md",
+      "git_blob_sha": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+      "sha256": "f52e7f5cf539ef56859b890669ef738848491e4005e73be75baa49c899b5dafd",
+      "use": "PG14 source-owner and residue retention."
+    }
+  ],
+  "source_observations": [
+    {
+      "id": "CH3",
+      "locator": "Puṣpā-prati 3.md, 27 December 2023 at 13:59:17 UTC, file-addition commit",
+      "url": "https://github.com/vishvAsa/sanskrit/blob/0d571bfd85e5da16453f5fef06bc74bb450690ba/vyAkaraNam/pANinIyam/mUlAni/kAshikA/puShpA-pratiH/3.md",
+      "observation": "Full earlier chapter gives the laṅ heading and the divergent luṅ operative clause in the same paragraph."
+    },
+    {
+      "id": "P32",
+      "locator": "Puṣpā-prati 3/02.md at 14:01:26 UTC the same day",
+      "url": "https://github.com/vishvAsa/sanskrit/blob/277be27348d60eef5dc2d1fd8135b51ac38dd054/vyAkaraNam/pANinIyam/mUlAni/kAshikA/puShpA-pratiH/3/02.md",
+      "observation": "Newly divided chapter keeps the paragraph. Its emphasis is Markdown, absent in the 30 December digital dictionary."
+    },
+    {
+      "id": "J157",
+      "locator": "Puṣpā-prati 3/02.md, the jī/ji-list rule between 3.2.156 and 158",
+      "url": "https://github.com/vishvAsa/sanskrit/blob/277be27348d60eef5dc2d1fd8135b51ac38dd054/vyAkaraNam/pANinIyam/mUlAni/kAshikA/puShpA-pratiH/3/02.md",
+      "observation": "The heading literally has 3.1.157. The later transient JSON key 31157 carries the matching whole commentary, including the separate quoted root names."
+    },
+    {
+      "id": "C28",
+      "locator": "Puṣpā-prati 4/02.md, cha ca between 4.2.27 and 29",
+      "url": "https://github.com/vishvAsa/sanskrit/blob/277be27348d60eef5dc2d1fd8135b51ac38dd054/vyAkaraNam/pANinIyam/mUlAni/kAshikA/puShpA-pratiH/4/02.md",
+      "observation": "It is labelled 2.4.28. In the bulk JSON revision the commentary matches under the unrelated key 24028; its intended 42028 is absent."
+    },
+    {
+      "id": "P74",
+      "locator": "Puṣpā-prati 7/04.md at the same revision",
+      "url": "https://github.com/vishvAsa/sanskrit/blob/277be27348d60eef5dc2d1fd8135b51ac38dd054/vyAkaraNam/pANinIyam/mUlAni/kAshikA/puShpA-pratiH/7/04.md",
+      "observation": "A 7.4 chapter is present in this witness, despite all 97 keys of that pāda being absent in the later bulk revision."
+    },
+    {
+      "id": "A",
+      "locator": "ashtadhyayi-com/data, direct parent of the bulk update",
+      "url": "https://github.com/ashtadhyayi-com/data/blob/063648b627ea6a04687da305559777a7711c6ea9/sutraani/kashika.txt",
+      "observation": "The parent still uses laṅ at 32111 and normal addressing for the two comparison loci."
+    },
+    {
+      "id": "B",
+      "locator": "ashtadhyayi-com/data, bulk update of 30 December 2023",
+      "url": "https://github.com/ashtadhyayi-com/data/blob/cd9f92b000d46045f50419968497839e368f5c55/sutraani/kashika.txt",
+      "observation": "Whole-field comparisons bind all three readings to the earlier named digital text under explicit markup treatment."
+    }
+  ]
+}
