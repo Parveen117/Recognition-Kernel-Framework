@@ -1,0 +1,138 @@
+{
+  "project_dependencies": [
+    {
+      "commit": "1338c7689f0ab0040538b31264274695a4d12441",
+      "path": "research/panini_grammar/vedic_strength_days_ancestral_paths_and_thousandfold/STATE.json",
+      "git_blob_sha": "9f0b53526dbc23b2da0b556b3c0dbce2b58f10ed",
+      "sha256": "a812a79130a634859783b30a89f0b6ed59d748af74ac61f6097fad9057380a52",
+      "use": "Published baseline"
+    },
+    {
+      "commit": "1338c7689f0ab0040538b31264274695a4d12441",
+      "path": "research/panini_grammar/taddhita_functional/SOURCE_EXCERPTS.json",
+      "git_blob_sha": "31e85bd9fb220839f9162864d7040369e4c1e276",
+      "sha256": "61d315eabe902112f9af1f79ca00f2a49cc632164fa8349b2af5f76fecaf1c34",
+      "use": "PG36 Kāśikā and Vasu fields 4.4.137–144, including the differing source glosses and numbering."
+    },
+    {
+      "commit": "1338c7689f0ab0040538b31264274695a4d12441",
+      "path": "research/panini_grammar/taddhita_functional/RULES_4_4_B.md",
+      "git_blob_sha": "194098a4924040f275cd757414d30bb536d3255d",
+      "sha256": "32e59bd85a3124fd30370cb82660f91479388496b2406facba44b6d9e4d86241",
+      "use": "Already interpreted selectors. New credit is the owned extension to case witnesses."
+    },
+    {
+      "commit": "1338c7689f0ab0040538b31264274695a4d12441",
+      "path": "research/panini_grammar/grammar_construction/NATIVE_OPERATOR_LIFT.md",
+      "git_blob_sha": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+      "sha256": "f52e7f5cf539ef56859b890669ef738848491e4005e73be75baa49c899b5dafd",
+      "use": "PG14 N1–N5, original b05e46bf78f165e17c4766d6d1179a1699a72fcf."
+    },
+    {
+      "commit": "1338c7689f0ab0040538b31264274695a4d12441",
+      "path": "research/panini_grammar/vedic_brick_mantra_affix_elision_and_seasonal_months/PANELS.md",
+      "git_blob_sha": "a8d6999db79d7b70801966e643eb81a1c4cb0ed8",
+      "sha256": "1c5b1b22ab127922aa9d63d836f47f076106b338fa744e17c7f70bfe52cccf56",
+      "use": "PG745 TS-5293-MADH possession already credited at 6f01e1da5aec10f15505681acce4f40214c4fdd6."
+    },
+    {
+      "commit": "1338c7689f0ab0040538b31264274695a4d12441",
+      "path": "research/panini_grammar/SUTRAPATHA.tsv",
+      "git_blob_sha": "1840f3b5349b21112ac05a7efaa59705fd4efee0",
+      "sha256": "70dfdfe6ba433b6e211f0f01b078c1b6d13a1ad0938e06fd5789298a04583634",
+      "use": "Canonical IDs and affix text."
+    }
+  ],
+  "source_observations": [
+    {
+      "id": "K",
+      "locator": "Kāśikā 4.4.137–144, corresponding eight numbered vṛttis",
+      "url": "https://vishvasa.github.io/sanskrit/vyAkaraNam/pANinIyam/mUlAni/kAshikA/puShpA-pratiH/4/04/",
+      "observation": "Support case, continuation and termination of plain ya, scope of yat and gha, own sense, maker, state and supplementary rules."
+    },
+    {
+      "id": "KS",
+      "locator": "Kāṭhaka Saṃhitā 5.2, concluding formula",
+      "url": "https://sa.wikisource.org/wiki/काठकसंहिता_(विस्वरः)/स्थानकम्_०५",
+      "observation": "Relative ye and brāhmaṇās before somyās teṣām. The next negative genitive asomyasya contrasts exclusion from the offering."
+    },
+    {
+      "id": "R8S",
+      "locator": "Śākala RV 8.24.13, Saṃhitā, Pada, Sāyaṇa and annotations",
+      "url": "https://vishvasa.github.io/vedAH_Rk/shAkalam/saMhitA/sarva-prastutiH/08/024/",
+      "observation": "Pada separates somyam and madhu. Sāyaṇa construes the drink as made of Soma. The morph annotation labels the adjective NOM but madhu ACC."
+    },
+    {
+      "id": "P1",
+      "locator": "Paippalāda 1.88.2cd, GRETIL edition version 1",
+      "url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/html/sa_paippalAdasaMhitA.htm",
+      "observation": "Madhavyān agrees with stokān. The grammatical commentary identifies the composition as honey."
+    },
+    {
+      "id": "AV",
+      "locator": "Śaunaka 7.27.8 with Pada and Sāyaṇa; permanent revision 339065",
+      "url": "https://sa.wikisource.org/w/index.php?oldid=339065",
+      "observation": "Pada vasavyaiḥ with bahubhiḥ. Sāyaṇa names collections of goods and cites 4.4.140."
+    },
+    {
+      "id": "R4",
+      "locator": "Śākala RV 4.55.8 with Pada and Sāyaṇa",
+      "url": "https://vishvasa.github.io/vedAH_Rk/shAkalam/saMhitA/sarva-prastutiH/04/055/",
+      "observation": "Genitive vasavyasya governed by īśe. The commentator explains an aggregate of riches."
+    },
+    {
+      "id": "MS",
+      "locator": "Maitrāyaṇī Saṃhitā 1.4.11, Prajāpati sequence",
+      "url": "https://sa.wikisource.org/wiki/कृष्णयजुर्वेदः/मैत्रायणीसंहिता/काण्डं_१/प्रपाठकः_०४",
+      "observation": "Five formula counts are 4,4,2,5,2. The next identification names Prajāpati as seventeenfold in the sacrifice."
+    },
+    {
+      "id": "VS",
+      "locator": "Mādhyandina Vājasaneyi Saṃhitā 22.28 with Uvaṭa and Mahīdhara",
+      "url": "https://sa.wikisource.org/wiki/शुक्लयजुर्वेदः/अध्यायः_२२",
+      "observation": "Two consecutive svāhā clauses independently supply the simple and extended star datives."
+    },
+    {
+      "id": "R10S",
+      "locator": "Śākala RV 10.36.14, Pada and Sāyaṇa",
+      "url": "https://vishvasa.github.io/vedAH_Rk/shAkalam/saMhitA/sarva-prastutiH/10/036/",
+      "observation": "Sarvatātim is the single object of suvatu, glossed as all that is desired."
+    },
+    {
+      "id": "R3",
+      "locator": "Śākala RV 3.19.2, Pada and Sāyaṇa",
+      "url": "https://rigveda.sanatana.in/describe/rikMandala/3.19.2",
+      "observation": "Devá-tātim is singular in form. Sāyaṇa glosses it with plural devān and explicitly assigns tātil and its accent."
+    },
+    {
+      "id": "R8T",
+      "locator": "Śākala RV 8.18.7, Pada, Sāyaṇa and Jamison–Brereton notes",
+      "url": "https://vishvasa.github.io/vedAH_Rk/shAkalam/saMhitA/sarva-prastutiH/08/018/",
+      "observation": "Short śaṃtāti. Sāyaṇa takes a peace-bringing modifier of mayas. Competing proposals include a neuter noun and an indeclinable."
+    },
+    {
+      "id": "R1",
+      "locator": "Śākala RV 1.112.20, Pada and Sāyaṇa",
+      "url": "https://vishvasa.github.io/vedAH_Rk/shAkalam/saMhitA/sarva-prastutiH/01/112/",
+      "observation": "Pada records the long dual. Sāyaṇa assigns two makers of welfare to the two Aśvins under 4.4.143."
+    },
+    {
+      "id": "R10A",
+      "locator": "Śākala RV 10.60.7–9, Pada and comment on verse 8",
+      "url": "https://vishvasa.github.io/vedAH_Rk/shAkalam/saMhitA/sarva-prastutiH/10/060/",
+      "observation": "The repeated purpose dative is ariṣṭatātaye. Sāyaṇa calls the suffix svārthika, while Vasu adduces the refrain in the maker discussion."
+    },
+    {
+      "id": "P5S",
+      "locator": "Paippalāda 5.36.1–8, GRETIL version 1",
+      "url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/html/sa_paippalAdasaMhitA.htm",
+      "observation": "The repeated nominative precedes astu. The apparatus identifies K as writing the refrain at the specified interior verses."
+    },
+    {
+      "id": "P5I",
+      "locator": "Paippalāda 5.18.2ab, GRETIL version 1 and Bhattacharya apparatus",
+      "url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/html/sa_paippalAdasaMhitA.htm",
+      "observation": "Two coordinated instrumentals with come to you. The edition distinguishes its nasal notation from Bhattacharya’s first reading."
+    }
+  ]
+}

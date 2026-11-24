@@ -1,0 +1,283 @@
+{
+  "stage": "PG747",
+  "morphology_interfaces": [
+    {
+      "id": "S137",
+      "base": "soma",
+      "guard": "ACC object of arh, person entitled to Soma",
+      "affix": "ya",
+      "result": "somya"
+    },
+    {
+      "id": "S138",
+      "base": "soma",
+      "guard": "mayat-sense with support appropriate to the particular relation; here material",
+      "affix": "ya",
+      "result": "somya"
+    },
+    {
+      "id": "M139",
+      "base": "madhu",
+      "guard": "material of the drops",
+      "affix": "yat",
+      "result": "madhavya"
+    },
+    {
+      "id": "V140C",
+      "base": "vasu",
+      "guard": "collection",
+      "affix": "yat",
+      "result": "vasavya"
+    },
+    {
+      "id": "V140M",
+      "base": "vasu",
+      "guard": "material or other admitted mayaṭ relation",
+      "affix": "yat",
+      "result": "vasavya"
+    },
+    {
+      "id": "V140O",
+      "base": "vasu",
+      "guard": "supplement, same wealth referent",
+      "affix": "yat",
+      "result": "vasavya"
+    },
+    {
+      "id": "C140O",
+      "base": "chandas",
+      "guard": "supplement, syllable collection already denoted by base",
+      "affix": "yat",
+      "result": "chandasya"
+    },
+    {
+      "id": "N141",
+      "base": "nakṣatra",
+      "guard": "own sense in Chandas",
+      "affix": "gha",
+      "result": "nakṣatriya"
+    },
+    {
+      "id": "S142",
+      "base": "sarva",
+      "guard": "own sense in Chandas",
+      "affix": "tātil",
+      "result": "sarvatāti"
+    },
+    {
+      "id": "D142",
+      "base": "deva",
+      "guard": "own sense in Chandas",
+      "affix": "tātil",
+      "result": "devatāti"
+    },
+    {
+      "id": "ŠM",
+      "base": "śiva",
+      "guard": "maker of auspiciousness",
+      "affix": "tātil",
+      "result": "śivatāti"
+    },
+    {
+      "id": "ŚM",
+      "base": "śam",
+      "guard": "maker of welfare",
+      "affix": "tātil",
+      "result": "śaṃtāti"
+    },
+    {
+      "id": "AM",
+      "base": "ariṣṭa",
+      "guard": "maker of safety",
+      "affix": "tātil",
+      "result": "ariṣṭatāti"
+    },
+    {
+      "id": "ŠS",
+      "base": "śiva",
+      "guard": "state of auspiciousness",
+      "affix": "tātil",
+      "result": "śivatāti"
+    },
+    {
+      "id": "ŚS",
+      "base": "śam",
+      "guard": "state of welfare",
+      "affix": "tātil",
+      "result": "śaṃtāti"
+    },
+    {
+      "id": "AS",
+      "base": "ariṣṭa",
+      "guard": "state of safety",
+      "affix": "tātil",
+      "result": "ariṣṭatāti"
+    }
+  ],
+  "nominal_positions": [
+    {
+      "id": "KS-S",
+      "source": "KS",
+      "input_history": "S137",
+      "case_number": "M NOMpl",
+      "word": "somyāḥ",
+      "interpretation": "Eligibility of the Brāhmaṇas. Saṃhitā somyās teṣām. The negative genitive is a control."
+    },
+    {
+      "id": "RV-M",
+      "source": "R8S",
+      "input_history": "S138",
+      "case_number": "N ACCsg",
+      "word": "somyam",
+      "interpretation": "With madhu as the object of drinking. Recited somyaṃ before m."
+    },
+    {
+      "id": "PS-D",
+      "source": "P1",
+      "input_history": "M139",
+      "case_number": "M ACCpl",
+      "word": "madhavyān",
+      "interpretation": "The drops stokān supply masculine plural agreement."
+    },
+    {
+      "id": "AV-V",
+      "source": "AV",
+      "input_history": "V140C/V140O",
+      "case_number": "INSpl",
+      "word": "vasavyaiḥ",
+      "interpretation": "Sāyaṇa collection and Kāśikā own-sense. One observed ending."
+    },
+    {
+      "id": "RV-V",
+      "source": "R4",
+      "input_history": "V140O/V140C",
+      "case_number": "N GENsg",
+      "word": "vasavyasya",
+      "interpretation": "Own-sense in Kāśikā, aggregate of riches in Sāyaṇa."
+    },
+    {
+      "id": "VS-N",
+      "source": "VS",
+      "input_history": "N141",
+      "case_number": "DATpl",
+      "word": "nakṣatriyebhyaḥ",
+      "interpretation": "Second recipient with svāhā; first simple nakṣatrebhyaḥ is the comparison."
+    },
+    {
+      "id": "RV-S",
+      "source": "R10S",
+      "input_history": "S142",
+      "case_number": "F ACCsg",
+      "word": "sarvatātim",
+      "interpretation": "Everything desired, with suvatu. Saṃhitā final ṃ before s."
+    },
+    {
+      "id": "RV-D",
+      "source": "R3",
+      "input_history": "D142",
+      "case_number": "F ACCsg",
+      "word": "devatātim",
+      "interpretation": "Pada deva-tātim. The plural in the semantic gloss does not alter the singular form."
+    },
+    {
+      "id": "RV-T",
+      "source": "R8T",
+      "input_history": "ŚM",
+      "case_number": "N ACCsg",
+      "word": "śaṃtāti",
+      "interpretation": "Maker adjective under Sāyaṇa. Neuter noun also proposed. Indeclinable analysis recorded separately."
+    },
+    {
+      "id": "RV-2",
+      "source": "R1",
+      "input_history": "ŚM",
+      "case_number": "M NOMdu",
+      "word": "śaṃtātī",
+      "interpretation": "Predicate of the two Aśvins with bhavathaḥ. Long ī in the Pada."
+    },
+    {
+      "id": "RV-A",
+      "source": "R10A",
+      "input_history": "AS",
+      "case_number": "F DATsg",
+      "word": "ariṣṭatātaye",
+      "interpretation": "Purpose for preservation. Refrain counted once for verses 7–9."
+    },
+    {
+      "id": "PS-S",
+      "source": "P5S",
+      "input_history": "ŠS/ŠM",
+      "case_number": "NOMsg",
+      "word": "śivatātiḥ",
+      "interpretation": "State reading in the prayer with astu. Kāśikā also cites the locus for the maker. No separate gender inferred from the ending."
+    },
+    {
+      "id": "PS-I",
+      "source": "P5I",
+      "input_history": "ŚS",
+      "case_number": "INSpl",
+      "word": "śaṃtātibhiḥ",
+      "interpretation": "Edition śaṃtātibhir before atho. Bhattacharya’s śantātibhir is an apparatus spelling."
+    },
+    {
+      "id": "PS-A",
+      "source": "P5I",
+      "input_history": "AS",
+      "case_number": "INSpl",
+      "word": "ariṣṭatātibhiḥ",
+      "interpretation": "Second, separately coordinated instrumental of welfare or safety."
+    }
+  ],
+  "source_policy_decisions": [
+    {
+      "id": "ELIG",
+      "sources": "KS,K",
+      "decision": "Primary somyās with ye brāhmaṇāḥ confirms the unstrengthened eligibility stem. Vasu digital saumya is insufficient to change it."
+    },
+    {
+      "id": "MATERIAL",
+      "sources": "K,R8S,P1",
+      "decision": "Mayaṭ supplies a semantic model. The affixes actually selected are plain ya for soma and yat for madhu. Retain the RV annotation discrepancy and the PG745 possession control."
+    },
+    {
+      "id": "WEALTH",
+      "sources": "K,AV,R4",
+      "decision": "Own-sense and collection construals survive with named owners for the same two forms. Keep AV 7.26.8 in the vṛtti alongside 7.27.8 in the checked edition."
+    },
+    {
+      "id": "SYLLABLES",
+      "sources": "K,MS",
+      "decision": "Five positive counts give seventeen. Exact primary chandasyaḥ remains Open. Material vasavya is grammatically licensed but lacks a distinct identified primary here."
+    },
+    {
+      "id": "STARS",
+      "sources": "K,VS",
+      "decision": "Paired offering recipients supply a surface control for gha. The ritual commentators group these deities by their association with time."
+    },
+    {
+      "id": "BASES",
+      "sources": "K,R10S,R3",
+      "decision": "Separate sarva and deva. The deva plural paraphrase is compatible with a singular word."
+    },
+    {
+      "id": "SHORT",
+      "sources": "K,R8T",
+      "decision": "Retain Sāyaṇa’s maker adjective and the alternative noun and indeclinable analyses. An added nominative visarga is Excluded from this Pada."
+    },
+    {
+      "id": "DUAL",
+      "sources": "K,R1",
+      "decision": "Two makers, long dual ī. A singular headword in a grammar is not this verse form."
+    },
+    {
+      "id": "PURPOSE",
+      "sources": "K,R10A",
+      "decision": "Abstract purpose, Sāyaṇa’s own-sense explanation and Vasu's placement under maker remain attributed. Credit the DATsg once."
+    },
+    {
+      "id": "PS",
+      "sources": "P5S,P5I,K",
+      "decision": "Repeated nominative, two distinct instrumental stems and one nasal apparatus variant. Context and grammar leave the PS referent/semantic branch open where ambiguous."
+    }
+  ]
+}

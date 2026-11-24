@@ -1,6 +1,8 @@
-# Written-development backlog at PG746
+# Written-development backlog at PG747
 
-Monty · 2026-11-24 · reviewed current parent 6f01e1da5aec10f15505681acce4f40214c4fdd6. Historical closures below retain their exact pins.
+Monty · 2026-11-24 · reviewed parent 1338c7689f0ab0040538b31264274695a4d12441. Historical closures below retain their exact pins.
+
+PG747 · [Soma eligibility, honey material and the Vedic tāti cases](soma_eligibility_honey_material_and_tati_cases/README.md). Exact primary chandasyaḥ, an independent material vasavya passage and a unique analysis of disputed tāti uses remain Open. Next construct the pre-krīta default and restricted named measure at 5.1.1–5, with 5.1.2/4 priority and lexical exceptions. C2–C5 and S1–S7 remain Open.
 
 PG746 · [Day-specific strength, ancestor-made paths and the thousandfold](vedic_strength_days_ancestral_paths_and_thousandfold/README.md). The selected 4.4.130–136 construction and primary cases are addressed. Open evidence includes the day and qualified bhaga primary uses, independent pūrvīṇa/ini, the long MS grade operation and the separate thousand-possession primary reading. The direct KS dūtya source is now positively recorded. 4.4.137–144 is the next unconstructed register. C2–C5 and S1–S7 remain Open. Claude retains execution.
 

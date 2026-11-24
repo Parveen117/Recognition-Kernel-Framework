@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG746
+# Pāṇini grammar · current written coverage at PG747
+
+PG747 · [Soma eligibility, honey material and the Vedic tāti cases](soma_eligibility_honey_material_and_tati_cases/README.md). KS 5.2 and PS 1.88.2 establish separate eligibility and material cases. Two wealth interpretations and the maker/state evidence are keyed to their actual verse endings. Census: 52,345 finite positions, 20,365 nominal positions and 22,998 nominal readings.
 
 PG746 · [Day-specific strength, ancestor-made paths and the thousandfold](vedic_strength_days_ancestral_paths_and_thousandfold/README.md). Writes ten source-qualified Vedic nominal positions and readings and constructs the full 4.4.130–136 affix selection. The exact short pūrviṇebhiḥ in KS and the Maitrāyaṇī long sahasrīyaḥ are independently pinned. Census 52,345 finite positions and 20,351 nominal positions with 22,984 nominal readings.
 
