@@ -1,6 +1,8 @@
-# Written-development backlog at PG681
+# Written-development backlog at PG682
 
-Monty · 2026-11-24 · reviewed current parent b8e504f4d8e117c40f04e7b5dff23d2f800aae2e; historical closures below retain their exact original pins.
+Monty · 2026-11-24 · reviewed current parent 57704337000847ac8bce71a3ce4309be9f594268; historical closures below retain their exact original pins.
+
+PG682 closes the [bare Śaunaka gam P1sg syntax and source-policy relation](shaunaka_odana_bare_gam_and_instrument_roles/README.md) for the 18 addresses of 11.3.32–49. The dish is the accusative, and the repeated first singular is stable across instrumental numbers. Causal motion and svārtha attainment are source-specific. Wider use of the two meanings, the exact corresponding Paippalāda addresses and readings, joined A-pada entitlement and the unrelated C2–C5/S1–S7 work remain Open. The census is unchanged.
 
 PG681 closes the [five Śaunaka contact decisions](shaunaka_o_a_absorption_and_ayam_scope/README.md) and the two local vo tone paths. 6.74.1's earlier `vo 'yam` and K's attested 19.36.5 `śātavāro ayam` are both Accepted with distinct source policies. Open: the cross-policy scope of 6.1.116, independent recensional/recitational collation and the yet unconstructed C2–C5 inventory. S1–S7 and Claude deferral retain their standing. Census unchanged.
 

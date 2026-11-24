@@ -2,6 +2,16 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG682 · Bare gam in the Śaunaka rice-dish hymn
+
+PG682: [Bare gam in the Śaunaka rice-dish hymn](shaunaka_odana_bare_gam_and_instrument_roles/README.md). AVŚ 11.3.32–49 attests 18 null-preverb P1sg `ajīgamam` tokens with a first-person speaker, the rice dish as accusative and a changing instrument. Whitney's causal motion and Trivedi's svārtha attainment analyses remain source-labelled. Zero new word positions or readings.
+
+One syntax construction/18 readouts, one semantic construction/two readouts, three source observations and one source-policy decision. The 18 tokens witness one existing finite spelling and two contextual analyses. Census 51,882 finite and 8,012 nominal positions/9,271 readings.
+
+PG521–682 cumulative: 63 finite positions/122 readings, 2,234 nominal positions/2,528 readings, 254 morphology constructions/1,520 interfaces, 122 compound constructions/583 plans, 15 accent constructions/61 records, 149 semantics constructions/435 records, 112 syntax constructions/325 records, 43 source-policy decisions after PG555−1, and 284 observations. Dedicated junction count since PG680 is two constructions/eight readouts. Two provenance corrections and one proof addendum.
+
+Local closure covers the Śaunaka series. Paippalāda XVI primary collation and original lineage, ordinary joined sam–gam A-pada and C2–C5/S1–S7 remain Open. PG335 and PG357–363 CLOSED preserved. The containing commit is the publication pin. Claude retains execution, generators, old suites and replay.
+
 ## PG681 · Śaunaka vowel absorption and the scope of ayam
 
 PG681: [Śaunaka vowel absorption and the scope of ayam](shaunaka_o_a_absorption_and_ayam_scope/README.md). The Śaunaka Prātiśākhya explains the contrast between absorbed `vo 'yam` and retained `vo ajīgamat` in 6.74.1. The independently located 19.36.5 `śātavāro ayam` confirms Kāśikā's 6.1.116 example. The written relation preserves the tension between extending that rule to the earlier contact and the transmitted absorption.

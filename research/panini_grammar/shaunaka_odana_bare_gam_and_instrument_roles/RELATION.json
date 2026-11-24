@@ -1,0 +1,79 @@
+{
+  "schema": "rkf.panini.pg682.relation.v1",
+  "domain": {
+    "recension": "Śaunaka",
+    "locus": "11.3.32e–49e = 11.4.1e–18e in the split addressing",
+    "root_id": 1011137,
+    "root": "gam",
+    "preverb": null,
+    "lakara": "luṅ",
+    "affix_history": [
+      "one selected ṇic",
+      "caṅ",
+      "aṭ",
+      "P1sg secondary ending"
+    ],
+    "voice": "kartari",
+    "pada": "P",
+    "person": 1,
+    "number": "sg",
+    "readout": "ajīgamam",
+    "controller": "speaker (aham), 11.3.32c–49c",
+    "accusative": "enam → odana, the rice-dish",
+    "other_verb": "prāśiṣam has independent pra and its own accusative and instrumental token"
+  },
+  "interpretations": [
+    {
+      "id": "W",
+      "source": "WHITNEY",
+      "status": "Accepted",
+      "path": "causal ingestion",
+      "root_sense": "go or pass down",
+      "causee": "rice-dish as moving theme",
+      "karaka": "karman under 1.4.52",
+      "outer_cause": "speaker via instrument"
+    },
+    {
+      "id": "T",
+      "source": "TRIVEDI",
+      "status": "Accepted",
+      "path": "contextual attainment, svārtha-ṇic",
+      "root_sense": "attain or obtain",
+      "causee": null,
+      "karaka": "transitive root karman in this gloss",
+      "outer_cause": null
+    }
+  ],
+  "syntax_readouts": "READOUTS.tsv",
+  "excluded": [
+    "Binding pra of prāśiṣam or later sam of bhavati to ajīgamam in these addresses",
+    "Making the instrumental referent the grammatical controller or accusative flowing theme in this selected analysis",
+    "Using this homograph as attestation of a second hetu or of A-pada",
+    "Counting 18 contextual tokens or two interpretations as new finite slots or competing written word forms"
+  ],
+  "open": [
+    "Paippalāda XVI parallel with exact chapter, tokens and commentary; independent manuscript and recitation collation",
+    "Source-independent distribution of the transitive svārtha interpretation and other causee or result frames",
+    "Ordinary joined sam–gam A-pada and wider C2–C5/S1–S7 obligations"
+  ],
+  "credit": {
+    "finite_positions": 0,
+    "finite_readings": 0,
+    "nominal_positions": 0,
+    "nominal_readings": 0,
+    "syntactic_constructions": 1,
+    "syntactic_readouts": 18,
+    "semantic_constructions": 1,
+    "semantic_readouts": 2,
+    "source_observations": 3,
+    "source_policy_decisions": 1,
+    "morphological_constructions": 0,
+    "morphological_readouts": 0,
+    "accent_constructions": 0,
+    "accent_readouts": 0,
+    "phonological_constructions": 0,
+    "phonological_readouts": 0,
+    "compound_constructions": 0,
+    "compound_readouts": 0
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "publication_parent": "57704337000847ac8bce71a3ce4309be9f594268",
+  "date": "2026-11-24",
+  "web_evidence": [
+    {
+      "id": "AV_GRETIL",
+      "title": "GRETIL accented Śaunaka saṃhitā",
+      "url": "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/1_veda/1_sam/avs_acu.htm",
+      "addresses": "11.3.32–49 d–f, index [4.1]–[4.18]; especially 32e, 36e, 37e, 44e, 49e",
+      "use": "Direct repeated bare root attestation and accent/role slots. Retains m before the following vowel in the second accusative."
+    },
+    {
+      "id": "AV_VHP",
+      "title": "Vedic Heritage Portal Śaunaka saṃhitā 11.3",
+      "url": "https://vedicheritage.gov.in/samhitas/atharvaveda-samhitas/shaunaka-samhita/kanda-11-sukta-003/",
+      "addresses": "Second paryāya of 11.3, corresponding to 32–49 in Whitney",
+      "use": "Devanāgarī corroboration of the 18 occurrences. In 4.5 the predicative form is written अजीगमम्."
+    },
+    {
+      "id": "AV_PADAPATHA",
+      "title": "Śaunaka 11.3.36 pada transcription",
+      "url": "https://sanatankosh.sanatanhindudharma.org/atharvaveda/11/3/36",
+      "addresses": "11.3.36 [4.5], final two verbal predications",
+      "use": "Separates pra before first verb and separates the two instrumentals and accusatives. Exact local pada witness, same-recension corroboration."
+    },
+    {
+      "id": "AV_TITUS",
+      "title": "TITUS Śaunaka, 11.3 second paryāya",
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/ind/aind/ved/av/avs/avs466.htm",
+      "addresses": "4.13e and nearby; e cola",
+      "use": "Same caṅ form with preceding accusative transcribed enaṃ where GRETIL has enam. Keep representation distinction."
+    },
+    {
+      "id": "WHITNEY",
+      "title": "W. D. Whitney, revised C. R. Lanman, Atharva-Veda Saṃhitā, HOS 8 (1905)",
+      "url": "https://en.wikisource.org/wiki/Atharva-Veda_Samhita/Book_XI/Hymn_3",
+      "addresses": "Hymn introduction and nos. 32, 34, 36, 49",
+      "use": "Takes bare verb causatively with the dish and reports only a detailed-different Paippalāda XVI parallel. Notice of the edition difference in 34 is local to the instrument."
+    },
+    {
+      "id": "TRIVEDI",
+      "title": "Kṣemakaraṇadāsa Trivedi, Atharvavedabhāṣya, electronic presentation with named authorship",
+      "url": "https://vishvasa.github.io/vedAH/atharva/shaunakam/rUDha-saMhitA/sarva-prastutiH/11/003_odanaH/",
+      "addresses": "11.3.32 pāda notes to ajīgamam and 11.3.36 running gloss",
+      "use": "Explicit svārtha-ṇic, luṅ and caṅ, with attainment gloss. Do not attribute this to Sāyaṇa."
+    },
+    {
+      "id": "K_1452",
+      "title": "Kāśikā 1.4.52",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/1/1.4.52.htm",
+      "use": "Counterfactual base movement subject becomes karman with ṇic in W."
+    },
+    {
+      "id": "K_3126",
+      "title": "Kāśikā 3.1.26",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/3/3.1.26.htm",
+      "use": "Causal ṇic for the independently supplied hetumat reading only."
+    },
+    {
+      "id": "K_1442",
+      "title": "Kāśikā 1.4.42",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/1/1.4.42.htm",
+      "use": "Instrument is the supplied means of realizing the action."
+    }
+  ],
+  "project_dependencies": [
+    {
+      "commit": "57704337000847ac8bce71a3ce4309be9f594268",
+      "path": "research/panini_grammar/shaunaka_o_a_absorption_and_ayam_scope/STATE.json",
+      "git_blob_sha": "ab046cf48aa7264eeb02da2914f5a3f4fd1d76dc",
+      "bytes": 2023,
+      "sha256": "3a41f3a40e7ddc70285fe63c9c40dd51007b52ba3d0644be1287486437e55e5b",
+      "use": "PG681 exact census"
+    },
+    {
+      "commit": "8d7cc15835df9daa99f27430a2511d41d2d6ae7e",
+      "path": "research/panini_grammar/nested_gam_active_cang_aorist_completion/READOUTS.tsv",
+      "git_blob_sha": "8d3f1a125acc5375c7e3e36f423d49421a4fc7f0",
+      "bytes": 1206,
+      "sha256": "0b7174c00b2a184b50304c100f9ca96dd8aced4a3e692e8696dd5c61b35c9b85",
+      "use": "PG672 P1sg factor and existing composed interface"
+    },
+    {
+      "commit": "8d7cc15835df9daa99f27430a2511d41d2d6ae7e",
+      "path": "research/panini_grammar/nested_gam_active_cang_aorist_completion/DERIVATION_AND_NATIVE_RECOVERY.md",
+      "git_blob_sha": "a08774b5f031eba0b6628d4296f3dcc436a82537",
+      "bytes": 1981,
+      "sha256": "18edec086b5cb02f6c1e0134a92c3c84d0ea8648f6b4932dd48b5cd5cb4ad821",
+      "use": "PG672 ordered caṅ, aṭ and endings"
+    },
+    {
+      "commit": "6ff94e3fab7b36324ca288a9c18f7577159333d6",
+      "path": "research/panini_grammar/atharvaveda_sam_gam_tmesis_and_pg672_scope_correction/STATE.json",
+      "git_blob_sha": "2fe0a39862e3db19ba49c0cad8e24affa6b84f83",
+      "bytes": 2542,
+      "sha256": "ca9bb7648176319a84d2ab673e4bba1cec213577c3672a9b64ff0b66777d41ab",
+      "use": "PG678 source-scope correction"
+    },
+    {
+      "commit": "e8530fdd1c786ed5ebe5e1348ac6f7e336a5ab90",
+      "path": "research/panini_grammar/karman_and_agent_relation/README.md",
+      "git_blob_sha": "ee71a948ea36f9a6982ff409ff18e8801bc20ca9",
+      "bytes": 2299,
+      "sha256": "0b897b165997fb1a513256e5077ae6438353fb478438e874cdbcedf7dda43979",
+      "use": "Prior 1.4.52 role assignment controls, no word credit"
+    },
+    {
+      "commit": "b05e46bf78f165e17c4766d6d1179a1699a72fcf",
+      "path": "research/panini_grammar/grammar_construction/NATIVE_OPERATOR_LIFT.md",
+      "git_blob_sha": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+      "bytes": 11855,
+      "sha256": "f52e7f5cf539ef56859b890669ef738848491e4005e73be75baa49c899b5dafd",
+      "use": "Full PG14 §N1–N5 carrier"
+    }
+  ],
+  "observation_units": [
+    "Śaunaka second-paryāya null-preverb refrain with 18 addresses, one source series",
+    "Whitney's local causal analysis and subject/theme interpretation",
+    "Trivedi's individually attributed svārtha-ṇic and attainment reading"
+  ],
+  "decision": "Accept the bare P1sg token series and preserve the causal-role and svārtha analyses under separate source labels. Neither the word spelling nor its three instrumental numbers can supply a second independent finite paradigm."
+}

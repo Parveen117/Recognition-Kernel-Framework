@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG681
+# Pāṇini grammar · current written coverage at PG682
+
+PG682: [Bare gam in the Śaunaka rice-dish hymn](shaunaka_odana_bare_gam_and_instrument_roles/README.md). AVŚ 11.3.32–49 attests 18 null-preverb P1sg `ajīgamam` tokens with a first-person speaker, the rice dish as accusative and a changing instrument. Whitney's causal motion and Trivedi's svārtha attainment analyses remain source-labelled. Zero new word positions or readings.
 
 PG681: [Śaunaka vowel absorption and the scope of ayam](shaunaka_o_a_absorption_and_ayam_scope/README.md). The Śaunaka Prātiśākhya explains the contrast between absorbed `vo 'yam` and retained `vo ajīgamat` in 6.74.1. The independently located 19.36.5 `śātavāro ayam` confirms Kāśikā's 6.1.116 example. The written relation preserves the tension between extending that rule to the earlier contact and the transmitted absorption.
 
