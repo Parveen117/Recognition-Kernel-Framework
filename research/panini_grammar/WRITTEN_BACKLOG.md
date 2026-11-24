@@ -1,6 +1,8 @@
-# Written-development backlog at PG727
+# Written-development backlog at PG728
 
-Monty · 2026-11-24 · reviewed current parent aae0ce4ee06ad6ec05fbb7ee9f506c2637df04ac. Historical closures below retain their exact pins.
+Monty · 2026-11-24 · reviewed current parent 1b49acb6a87729b029356bd97b7c5669d93f3d0a. Historical closures below retain their exact pins.
+
+PG728 · [The printed chattrādi rosters and prefixed sthā](chattradi_print_rosters_and_prefixed_stha_nominals/README.md). The Kāśikā list's nine outstanding head slots, including the three named prefixed sthā realizations of one slot, have their written case fibres. Four additional Vasu heads and three earlier male heads have source-qualified feminine derivations. The seven other Vasu operands or alternatives, the joined Gaṇapāṭha label and its discrepant lexical shapes retain the obligations recorded in the stage. 4.4.63–65 has direct print evidence and separate scope work. Wider C2–C5/S1–S7 and Claude execution retain their obligations.
 
 PG727 · [Quoted belief, habitual acts and two feminine affix routes](belief_habit_feminine_and_mallinatha_readings/README.md). Selected 4.4.60–62 case fibres, the named 4.4.57 Bhāṣāvṛtti addition, and the two long 4.4.59 feminines are locally CLOSED. The original Bhāṣāvṛtti short female glyph, the primary transmission of Māgha's alternate lexical readings and the remaining qualified chattrādi members retain their own work. Follow the separate Kāśikā and Vasu lists, then 4.4.63–65. Wider C2–C5/S1–S7 and Claude execution retain their obligations.
 

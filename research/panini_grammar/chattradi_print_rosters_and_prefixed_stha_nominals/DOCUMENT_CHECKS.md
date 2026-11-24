@@ -1,0 +1,3 @@
+# PG728 changed-document check
+
+Python 3.12.14, with an explicit 3.12 assertion. Checked the predecessor census and frozen PG14, PG335 and PG357–363 pins, the 1896 print digest and visual leaf locators, both primary digital records and exact roster counts, 792 case keys and 831 readings, separate prefixed root and lexical addresses, the ṇa-based gender and case tails, prior unaffected case fibres, source references and changed-document links. The first attempt stopped before writing at the unsandhied avasthā string. The corrected exact avastheti check passed. Only documentary checks ran. Claude retains Sanskrit generators, grammar execution, old suites and replay.

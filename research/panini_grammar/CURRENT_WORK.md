@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG727
+# Pāṇini grammar · current written coverage at PG728
+
+PG728 · [The printed chattrādi rosters and prefixed sthā](chattradi_print_rosters_and_prefixed_stha_nominals/README.md). Collates Vasu’s 1896 print and the Kāśikā and Gaṇapāṭha lists. It derives the three expressly prefixed sthā bases and assigns their ṇa and feminine histories alongside the other admitted named inputs. Census 52,341 finite positions and 14,197 nominal positions with 16,244 nominal readings.
 
 PG727 · [Quoted belief, habitual acts and two feminine affix routes](belief_habit_feminine_and_mallinatha_readings/README.md). Writes the named belief and habit cases, including the marked habitual ṇa exception and the direct feminine īkak list. The fate reading of Māgha 2.86 and the rival naiṣṭhikatā reading keep distinct witness histories. Census 52,341 finite positions and 13,405 nominal positions with 15,413 nominal readings.
 

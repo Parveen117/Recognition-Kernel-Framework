@@ -2,6 +2,16 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG728 · The printed chattrādi rosters and prefixed sthā
+
+PG728 · [The printed chattrādi rosters and prefixed sthā](chattradi_print_rosters_and_prefixed_stha_nominals/README.md). Collates Vasu’s 1896 print and the Kāśikā and Gaṇapāṭha lists. It derives the three expressly prefixed sthā bases and assigns their ṇa and feminine histories alongside the other admitted named inputs. Census 52,341 finite positions and 14,197 nominal positions with 16,244 nominal readings.
+
+Finite increments 0 positions/0 readings. Nominal increments 792 positions/831 readings. One morphology construction/37 interfaces, one syntax construction/7 readouts, one semantic construction/6 readouts and one junction construction/6 readouts. 16 source observations and 12 source-policy decisions. Publication parent 1b49acb6a87729b029356bd97b7c5669d93f3d0a. The containing commit pins the documents and evidence.
+
+PG521–728 cumulative: 522 finite positions/1,440 net finite readings, 8,419 nominal positions/9,501 readings, 302 morphology constructions/3,210 interfaces, 136 compound constructions/621 plans, 34 accent constructions/137 records, 160 semantics constructions/495 records, 149 syntax constructions/572 records, 301 source-policy decisions after PG555−1 and 675 observations. Thirty-two junction constructions/107 readouts since PG680 and 22 nonfinite constructions/28 paths since PG700. PG335 and PG357–363 CLOSED results are preserved.
+
+The Kāśikā list's nine outstanding head slots, including the three named prefixed sthā realizations of one slot, have their written case fibres. Four additional Vasu heads and three earlier male heads have source-qualified feminine derivations. The seven other Vasu operands or alternatives, the joined Gaṇapāṭha label and its discrepant lexical shapes retain the obligations recorded in the stage. 4.4.63–65 has direct print evidence and separate scope work. Wider C2–C5/S1–S7 and Claude execution retain their obligations.
+
 ## PG727 · Quoted belief, habitual acts and two feminine affix routes
 
 PG727 · [Quoted belief, habitual acts and two feminine affix routes](belief_habit_feminine_and_mallinatha_readings/README.md). Writes the named belief and habit cases, including the marked habitual ṇa exception and the direct feminine īkak list. The fate reading of Māgha 2.86 and the rival naiṣṭhikatā reading keep distinct witness histories. Census 52,341 finite positions and 13,405 nominal positions with 15,413 nominal readings.

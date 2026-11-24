@@ -1,0 +1,61 @@
+{
+  "schema": "rkf.panini.pg728.state.v1",
+  "author": "Monty",
+  "date": "2026-11-24",
+  "publication_parent": "1b49acb6a87729b029356bd97b7c5669d93f3d0a",
+  "baseline": {
+    "commit": "1b49acb6a87729b029356bd97b7c5669d93f3d0a",
+    "path": "research/panini_grammar/belief_habit_feminine_and_mallinatha_readings/STATE.json"
+  },
+  "finite_positions": 52341,
+  "nominal_positions": 14197,
+  "nominal_readings": 16244,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 792,
+  "new_nominal_readings": 831,
+  "new_positions": 792,
+  "new_position_readings": 831,
+  "new_morphology_constructions": 1,
+  "new_morphology_interfaces": 37,
+  "new_compound_constructions": 0,
+  "new_compound_plans": 0,
+  "new_semantic_constructions": 1,
+  "new_semantic_readouts": 6,
+  "new_accent_constructions": 0,
+  "new_accent_readouts": 0,
+  "new_phonological_constructions": 1,
+  "new_phonological_readouts": 6,
+  "new_syntactic_constructions": 1,
+  "new_syntactic_readouts": 7,
+  "new_nonfinite_constructions": 0,
+  "new_nonfinite_readouts": 0,
+  "new_source_observations": 16,
+  "new_source_policy_decisions": 12,
+  "direct_multiple_affix_fields": 99,
+  "open_fields": 4,
+  "local_closure": "CLOSED for the 33 specified case fibres on their documented support and the direct 1896 print collation. The unconstructed wider forms, original roster genealogy and independently attested case evidence remain Open.",
+  "open_obligations": [
+    "Vasu 15 viśikhā, 16 viśikā, 18 udasthāna, 19 puroḍā, 20 vikṣā, 21 cukṣā and 22 mandra still need sense-qualified and corroborated word derivations. The total of seven head entries is preserved along with the starred and exclamation markers. The 16 parenthetical Kāśikā śibikā already has its case fibres.",
+    "Exact segmentation and printed history of the joined Gaṇapāṭha prarohasthā field. Its carā and paroḍā need independent grammatical and lexical corroboration. Existing curā and disputed puroḍā have their own addresses.",
+    "Prefixed sthā beyond the three actually constructed bases, independent free inflections and further gender and pitch readings. Any alternate feminine ending beyond the selected ṅīp histories needs evidence.",
+    "4.4.63–65 study-error and beneficial-food relations, wider C2–C5/S1–S7 and S5 99/103, and Claude's execution work."
+  ],
+  "authorization": {
+    "completion_status": "OPEN wider gates",
+    "PG335": "-9 finite/-12 readings preserved",
+    "PG357_PG363": "CLOSED preserved",
+    "continuous_executed_hours_claimed": false
+  },
+  "runtime_policy": {
+    "python": "3.12 only",
+    "document_check_status": "PASS",
+    "document_check_attempts": 2,
+    "document_check_retry_reason": "Matched source sandhi avastheti in the frozen Kāśikā string rather than its unsandhied analytical form.",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "old_suites": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE"
+  },
+  "grammar_executions": []
+}

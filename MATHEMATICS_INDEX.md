@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG728 · [The printed chattrādi rosters and prefixed sthā](research/panini_grammar/chattradi_print_rosters_and_prefixed_stha_nominals/README.md). The exact lexical and prefix cuts precede aṅ, ṭāp, vṛddhi and ṇa. The ordinary case and gender coordinates are then lifted through the full PG14 operator and history carrier.
+
 PG727 · [Quoted belief, habitual acts and two feminine affix routes](research/panini_grammar/belief_habit_feminine_and_mallinatha_readings/README.md). Typed quotations and semantic conditions lift separately from lexical affixes and gender. The written PG14 proof preserves named meanings, both student spellings, the two feminine scope extensions and the incompatible Māgha witness branches.
 
 PG726 · [Craft, implement suffixes and Bhaṭṭi’s short readings](research/panini_grammar/craft_and_implement_affix_and_bhatti_policies/README.md). Fourteen nominal case fibres, with independent craft licensing, affix/phonology schedules and witness-specific compound histories. The PG14 cut-path lift specializes to the source-qualified relation, preserving homophonous morphology and short compound forms.
