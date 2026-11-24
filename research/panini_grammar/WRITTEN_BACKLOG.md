@@ -1,6 +1,8 @@
-# Written-development backlog at PG732
+# Written-development backlog at PG733
 
-Monty · 2026-11-24 · reviewed current parent fa3c671d06f789cd0f6b49852493be6b5ff19dbb. Historical closures below retain their exact pins.
+Monty · 2026-11-24 · reviewed current parent 8e804f290830ab0842ed1af370d1946a97222efb. Historical closures below retain their exact pins.
+
+PG733 · [Loaded yokes, plough carriers and the owners of luk](loaded_yokes_ploughs_and_distinct_luk_owners/README.md). The selected 4.4.78–81 and Haima case fibres are locally CLOSED. The two P sources for outer luk, inner 1.2.49 and three Haima eka meanings are addressed. The 1910 primary ḍhañ and alternate ḍhak are directly verified. Independent Padamañjarī and ḍhakañ print lineage, the operation behind dvaihālika and dvaiśakaṭika, and a full bare dhur r-stem fibre stay Open. The indicated 4.4.82 onward scope remains constructive work. C2–C5/S1–S7 and Claude execution retain their standing obligations.
 
 PG732 · [House residence, carrying and the two histories of yugya](house_residence_yat_carrying_and_yugya_accent/README.md). Selected Pāṇinian 4.4.74–77, the separately addressed 3.1.121 and 4.3.121 variants, the competing commentary readings of yugya pitch and Haima correspondence have reviewable written traces. The exact print basis of the Padamañjarī ḍhañ string, the Bālamanoramā ḍhakañ report's transmission, the disputed Vedic accent restriction and wider female and case citation evidence stay Open. The 4.4.78–81 kh/luk and carriage implement forms remain constructive work. C2–C5/S1–S7 and Claude execution remain on their registers.
 

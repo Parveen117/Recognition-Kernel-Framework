@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG733 · [Loaded yokes, plough carriers and the owners of luk](research/panini_grammar/loaded_yokes_ploughs_and_distinct_luk_owners/README.md). Extends the PG14 history carrier with distinct kha-luk and yat-luk maps and the shared but explicitly triggered ṭāp-luk operation. It derives the named compound and case fibres and the ñit tone from the exact 1910 print.
+
 PG732 · [House residence, carrying and the two histories of yugya](research/panini_grammar/house_residence_yat_carrying_and_yugya_accent/README.md). Affix and contextual case ownership separate the last locative rule from the following accusative yat carrier. Same-surface kyap and yat histories support an exact compound-tone comparison without erasing lexical and source grounds.
 
 PG731 · [Appointed buildings, prohibited study and two senses of residence](research/panini_grammar/appointed_buildings_prohibited_study_and_residence/README.md). Four locative predicates extend the full PG14 carrier. The same form can preserve source-distinct suffix or residence eligibility, and study and residence remain separate roles for śmāśānika.

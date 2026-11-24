@@ -2,6 +2,16 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG733 · Loaded yokes, plough carriers and the owners of luk
+
+PG733 · [Loaded yokes, plough carriers and the owners of luk](loaded_yokes_ploughs_and_distinct_luk_owners/README.md). Derives the named 4.4.78–81 and Haima 7.1.3–7 case fibres. Kha-luk and yat-luk reach ekadhura through independently typed paths. The 1910 Bālamanoramā directly distinguishes ḍhañ and ḍhak, and the Bhaṭṭoji print preserves two further readings with Open operations. Census 52,341 finite positions and 17,005 nominal positions with 19,403 nominal readings.
+
+Finite increments 0 positions and 0 readings. Nominal increments 624 positions and 790 readings, with 741 at new keys and 49 at 48 old keys. One morphology construction with 53 interfaces, one compound construction with 8 plans, one syntax construction with 12 readouts, one semantic construction with 9 readouts, one junction construction with 10 readouts and one accent construction with 1 record. 26 source observations and 19 source-policy decisions. Publication parent 8e804f290830ab0842ed1af370d1946a97222efb. The containing commit pins the documents and evidence.
+
+PG521–733 cumulative: 522 finite positions and 1,440 net finite readings, 11,227 nominal positions and 12,660 readings, 307 morphology constructions and 3,387 interfaces, 141 compound constructions and 656 plans, 39 accent constructions and 160 records, 165 semantics constructions and 537 records, 154 syntax constructions and 626 records, 381 source-policy decisions after PG555−1 and 785 observations. The PG680 onward junction total is 37 constructions and 145 readouts. The PG700 onward nonfinite total remains 22 constructions and 28 paths. PG335 and PG357–363 CLOSED results are preserved.
+
+The selected 4.4.78–81 and Haima case fibres are locally CLOSED. The two P sources for outer luk, inner 1.2.49 and three Haima eka meanings are addressed. The 1910 primary ḍhañ and alternate ḍhak are directly verified. Independent Padamañjarī and ḍhakañ print lineage, the operation behind dvaihālika and dvaiśakaṭika, and a full bare dhur r-stem fibre stay Open. The indicated 4.4.82 onward scope remains constructive work. C2–C5/S1–S7 and Claude execution retain their standing obligations.
+
 ## PG732 · House residence, carrying and the two histories of yugya
 
 PG732 · [House residence, carrying and the two histories of yugya](house_residence_yat_carrying_and_yugya_accent/README.md). Writes separate ṣṭhal, yat, kyap and dhur derivations, closes the prefixed vas base required by the earlier āvasathya work, and preserves competing yugya accent policies and independently sourced dhaureyaka histories. Census 52,341 finite positions and 16,381 nominal positions with 18,613 nominal readings.

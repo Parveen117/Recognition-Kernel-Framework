@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG732
+# Pāṇini grammar · current written coverage at PG733
+
+PG733 · [Loaded yokes, plough carriers and the owners of luk](loaded_yokes_ploughs_and_distinct_luk_owners/README.md). Derives the named 4.4.78–81 and Haima 7.1.3–7 case fibres. Kha-luk and yat-luk reach ekadhura through independently typed paths. The 1910 Bālamanoramā directly distinguishes ḍhañ and ḍhak, and the Bhaṭṭoji print preserves two further readings with Open operations. Census 52,341 finite positions and 17,005 nominal positions with 19,403 nominal readings.
 
 PG732 · [House residence, carrying and the two histories of yugya](house_residence_yat_carrying_and_yugya_accent/README.md). Writes separate ṣṭhal, yat, kyap and dhur derivations, closes the prefixed vas base required by the earlier āvasathya work, and preserves competing yugya accent policies and independently sourced dhaureyaka histories. Census 52,341 finite positions and 16,381 nominal positions with 18,613 nominal readings.
 

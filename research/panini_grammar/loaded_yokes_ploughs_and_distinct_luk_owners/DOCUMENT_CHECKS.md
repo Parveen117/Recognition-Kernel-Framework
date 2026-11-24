@@ -1,0 +1,3 @@
+# PG733 changed-document check
+
+Python 3.12.14, with an explicit 3.12 assertion. Verified 624 new case keys and 741 readings at those keys, plus 49 disjoint readings at 48 old keys. The checks covered frozen provenance, source addresses and image digests, distinct luk owners, exact retroflexion and gender readouts, cumulative counts and changed-document links. The first check caught profile IDs shared by two-plough carriers and the older bare-dhur carriers. Separate IDs resolved the collision before any documents were written, and the second check passed. Claude retains Sanskrit generators, grammar execution, old suites and replay.
