@@ -1,0 +1,63 @@
+{
+  "upstream": [
+    {
+      "repository": "ashtadhyayi-com/data",
+      "commit": "5744762f010d677cfb43f347a42d02796cf615d6",
+      "path": "sutraani/kashika.txt",
+      "bytes": 3806703,
+      "sha256": "ccd6d554d10acbe89fd566730a59731ace38b2aad982becbbd653b77cca93254",
+      "git_blob_sha": "e525df7668835ef1dd7c5988c031da07ce0c162b",
+      "fields": [
+        {
+          "field": "34078",
+          "text": "लस्य तिबादय आदेशा भवन्ति। तिप्सिप्मिपां पकारः स्वरार्थः। इटष्टकार <<इटोऽत्>>[[३.४.१०६]] इति विशेषणार्थः, तिबादिभिरादेशैस्तुल्यत्वाद् न देशविध्यर्थः। महिङो ङकारस्तिङ् इति प्रत्याहारग्रहणार्थः। पचति, पचतः, पचन्ति। पचसि, पचथः, पचथ। पचामि, पचावः, पचामः। पचते, पचेते, पचन्ते। पचसे, पचेथे, पचध्वे। पचे, पचावहे, पचामहे। एवमन्येष्वपि लकारेषूदाहार्यम्॥",
+          "use": "complete P/A tiṅ series and present ending display template"
+        }
+      ]
+    }
+  ],
+  "project_dependencies": [
+    {
+      "commit": "d77b7214ebaab5ddfc1eb2017c4b10f8f11d40f3",
+      "path": "research/panini_grammar/nested_gam_outer_result_and_pada/STATE.json",
+      "bytes": 2870,
+      "sha256": "b3d35a9c296e005fa282bfec6b410aaacf06042e68b63c55fa67f78bd554651f",
+      "git_blob_sha": "2c3fe9b10ce8c7b056d7418be471bd4c93d24d4d"
+    },
+    {
+      "commit": "d77b7214ebaab5ddfc1eb2017c4b10f8f11d40f3",
+      "path": "research/panini_grammar/nested_gam_outer_result_and_pada/PADA_BRANCHES.tsv",
+      "bytes": 226,
+      "sha256": "6612184eaaacc7dc165ae964338ad36efae0f75514a1f42d5a1b6943238fd36d",
+      "git_blob_sha": "f72e5deb811745c94c7f9fd7cc99ad29a7d2811b"
+    },
+    {
+      "commit": "d77b7214ebaab5ddfc1eb2017c4b10f8f11d40f3",
+      "path": "research/panini_grammar/nested_gam_outer_result_and_pada/SOURCES.json",
+      "bytes": 23088,
+      "sha256": "518eb2abcd2c80ec48c2202c8bf8a4f46e69bba21e8407a346f3176f9414f04b",
+      "git_blob_sha": "4f838c7c171fbe2bd43e263f02fd8da1345cf3d2"
+    },
+    {
+      "commit": "d77b7214ebaab5ddfc1eb2017c4b10f8f11d40f3",
+      "path": "research/panini_grammar/nested_gam_immediate_input_and_causee_case/RELATION.json",
+      "bytes": 2456,
+      "sha256": "b2b3b443950ea369634ea104ad08de834e25de1c54330a65ac898d0932b38c45",
+      "git_blob_sha": "a1fb653f958aec63d322cdda98e3876563cb3734"
+    },
+    {
+      "commit": "d77b7214ebaab5ddfc1eb2017c4b10f8f11d40f3",
+      "path": "research/panini_grammar/nested_gam_owned_nic_lopa_and_present_bridge/STATE.json",
+      "bytes": 1577,
+      "sha256": "51be0c9952e05d5f175c99e2dd12ce75f2d7db1cd5172e46b0b19df9712a9fd0",
+      "git_blob_sha": "6d9914532efe604162e801c09ce38ce491d4bd57"
+    }
+  ],
+  "source_decisions": [
+    "Reuse PG379-PG382 root, nested event, role/case and pada ownership without reopening them.",
+    "Apply the explicit 3.4.78 P/A tiṅ series to the inherited gam-H1-lopa-H2-ay-śap base.",
+    "Withhold P3sg/A3sg controls and treat the remaining sixteen as realization interfaces, not new finite census positions."
+  ],
+  "source_observation_credit": 0,
+  "source_policy_decision_credit": 0
+}

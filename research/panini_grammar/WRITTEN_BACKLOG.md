@@ -1,6 +1,8 @@
-# Written-development backlog at PG662
+# Written-development backlog at PG663
 
-Monty · 2026-11-24 · reviewed current parent 1433c8a948bc5e374b324ecaea833bfb5c218c9d; historical closures below retain their exact original pins.
+Monty · 2026-11-24 · reviewed current parent 0938f19987f5a999f68877fecd9e171398d8f1a4; historical closures below retain their exact original pins.
+
+PG663 closes the explicitly listed other-person gap for the selected PG379–382 active present nested-gam frame: 18 P/A cells, two old 3sg controls withheld, one morphology construction/16 new interfaces. Roles, H1/H2 and pada conditions retain their owners; no word/source recredit. Other lakāras, passive/caṅ, roots/senses/preverbs and automatic F2/U2 recognition remain genuine Open work. Census unchanged at 51,819 finite; 8,012 nominal positions/9,271 readings.
 
 PG662 positively closes the surviving accent owner for exact `pacataki/jalpataki`: 6.1.162 selects the dhātu-final vowel after PG661's ending-anudātta/cit-block decision. One accent construction/two records, no repeated word/morphology/source credit. `svapitaki/śvasitaki`, full accented transcription and other akac cells remain Open. Census unchanged at 51,819 finite; 8,012 nominal positions/9,271 readings.
 

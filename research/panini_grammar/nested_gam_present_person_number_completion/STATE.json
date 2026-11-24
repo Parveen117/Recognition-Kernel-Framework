@@ -1,0 +1,68 @@
+{
+  "schema": "rkf.panini.pg663.state.v1",
+  "author": "Monty",
+  "date": "2026-11-24",
+  "publication_parent": "0938f19987f5a999f68877fecd9e171398d8f1a4",
+  "baseline": {
+    "commit": "0938f19987f5a999f68877fecd9e171398d8f1a4",
+    "path": "research/panini_grammar/pac_jalp_finite_akac_surviving_dhatu_accent/STATE.json"
+  },
+  "finite_positions": 51819,
+  "nominal_positions": 8012,
+  "nominal_readings": 9271,
+  "runtime_policy": {
+    "python": "3.12 only",
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "old_suites": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE",
+    "document_check_status": "PASS",
+    "document_check_runtime": "3.12.14",
+    "document_check_attempts": 1,
+    "document_check_assertions": 99
+  },
+  "grammar_executions": [],
+  "open_obligations": [
+    "Other nested gam lakāras, passive/caṅ, roots/senses/preverbs, accent/attestation and automatic F2/U2 recognition remain Open.",
+    "Nine padī meanings, patradatam/128, wider C2-C5/S1-S7/native/global obligations remain Open.",
+    "Claude execution separate; PG335 correction and PG357-PG363 CLOSED preserved."
+  ],
+  "authorization": {
+    "completion_status": "OPEN wider gates",
+    "PG335": "-9 finite/-12 readings correction preserved",
+    "PG357_PG363": "CLOSED preserved",
+    "continuous_executed_hours_claimed": false
+  },
+  "local_closure": "Selected two-hetu gam active laṭ P/A person-number realization CLOSED; other lakāras/voices and wider gates Open.",
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 0,
+  "new_morphological_constructions": 1,
+  "new_morphological_readouts": 16,
+  "new_compound_constructions": 0,
+  "new_compound_readouts": 0,
+  "new_semantic_constructions": 0,
+  "new_semantic_readouts": 0,
+  "new_syntactic_constructions": 0,
+  "new_syntactic_readouts": 0,
+  "new_source_policy_decisions": 0,
+  "new_source_observations": 0,
+  "new_source_analysis_records": 0,
+  "new_accent_constructions": 0,
+  "new_accent_readouts": 0,
+  "new_nonfinite_constructions": 0,
+  "new_nonfinite_readings": 0,
+  "new_provenance_corrections": 0,
+  "new_proof_addenda": 0,
+  "new_accounting_corrections": 0,
+  "new_morphological_permission_readouts": 0,
+  "new_positions": 0,
+  "new_position_readings": 0,
+  "inherited_accounting_guard": {
+    "PG335": "Frozen -9 finite/-12 readings duplicate correction; never restore PG334 duplicates.",
+    "PG357_PG363": "CLOSED historical results preserved",
+    "baseline_state": "PG662 exact baseline carries all earlier corrections unchanged",
+    "PG379_PG382": "Roles, H1/H2 morphology, pada policies and two 3sg displays are frozen controls; zero repeated credit."
+  }
+}

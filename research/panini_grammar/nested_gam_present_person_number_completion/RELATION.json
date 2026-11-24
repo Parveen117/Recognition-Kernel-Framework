@@ -1,0 +1,49 @@
+{
+  "schema": "rkf.panini.pg663.relation.v1",
+  "scope": "Selected two-hetu gam active laṭ person-number realization",
+  "root": {
+    "id": "1011137",
+    "lemma": "gam",
+    "sense": "admitted movement frame",
+    "preverb": null,
+    "voice": "active kartari",
+    "affix_history": "H1 causal event retained with H1 lopa; H2 hetumat ṇic supplies ay; śap plus selected tiṅ ending"
+  },
+  "roles": {
+    "D": "outer causee, instrumental",
+    "Y": "goal/object, accusative",
+    "V": "outer causer/controller, agrees in person and number"
+  },
+  "pada_policies": [
+    {
+      "pada": "P",
+      "condition": "PG382 ordinary residual P or admitted F2+U2 residual P",
+      "forms": ["gamayati", "gamayataḥ", "gamayanti", "gamayasi", "gamayathaḥ", "gamayatha", "gamayāmi", "gamayāvaḥ", "gamayāmaḥ"]
+    },
+    {
+      "pada": "A",
+      "condition": "PG382 outer result to V, with or without the admitted result upapada",
+      "forms": ["gamayate", "gamayete", "gamayante", "gamayase", "gamayethe", "gamayadhve", "gamaye", "gamayāvahe", "gamayāmahe"]
+    }
+  ],
+  "accounting": {
+    "total_readouts": 18,
+    "old_controls": ["P3sg gamayati", "A3sg gamayate"],
+    "new_morphological_constructions": 1,
+    "new_morphological_readouts": 16,
+    "new_finite_positions": 0,
+    "new_finite_readings": 0,
+    "new_source_observations": 0
+  },
+  "open": [
+    "Other lakāras, passive and caṅ realization of the nested event",
+    "Other roots, senses, preverbs and automatic F2/U2 recognition",
+    "Independent full-sentence attestation, accent and wider C2-C5/S1-S7/native/global gates"
+  ],
+  "excluded": [
+    "Promoting instrumental D to agreement controller in this inherited frame",
+    "Treating H1 lopa as deletion of the inner causal event",
+    "Merging active A forms with passive voice",
+    "Crediting the two old 3sg controls or homographic simple-causative words as new finite positions"
+  ]
+}

@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG663: [Nested gam present person-number completion](research/panini_grammar/nested_gam_present_person_number_completion/README.md). The pinned PG379–382 two-hetu event, role/case and P/A policies now carry a complete active laṭ display: 18 cells, two old 3sg controls withheld, one morphology construction/16 new interfaces. Zero new finite/nominal/source credits; census unchanged at 51,819 finite and 8,012 nominal/9,271 readings.
+
 PG662: [Pac/jalp finite-akac surviving dhātu accent](research/panini_grammar/pac_jalp_finite_akac_surviving_dhatu_accent/README.md). After PG661 blocks cit-final accent and fixes the ending as anudātta, Kāśikā 6.1.162/6.1.158 positively select the dhātu-final vowel for exact `pacataki/jalpataki`. One accent construction/two records; zero word, morphology or source credits. `svapitaki/śvasitaki` remain Open. Census unchanged at 51,819 finite and 8,012 nominal/9,271 readings.
 
 PG661: [Finite akac ending anudātta and blocked cit accent](research/panini_grammar/finite_akac_ending_anudatta_and_blocked_cit_accent/README.md). Kāśikā 6.1.186 explicitly overrides 6.1.163 cit-final accent on the original l-sārvadhātuka ending of PG533's `pacataki/jalpataki/svapitaki/śvasitaki`. One accent construction/four records; zero word, morphology or source credits. Exact non-ending accent remains Open. Census unchanged at 51,819 finite and 8,012 nominal/9,271 readings.
@@ -5283,3 +5285,7 @@ Existing RH, Yang-Mills, continuum and empirical claim boundaries remain in forc
 ## PG662 · Dhātu-recipient accent after the suffix conflict
 
 [Pac/jalp surviving accent](research/panini_grammar/pac_jalp_finite_akac_surviving_dhatu_accent/DERIVATION_AND_NATIVE_RECOVERY.md) retains root/sense, śap, original ending, akac placement and PG661 rule order in the full PG14 carrier, then types 6.1.162's recipient as the dhātu-final vowel. Typed zero-specialization cannot merge that vowel with śap-a, akac-a or final i. One accent/two records; word census unchanged and rudādi-iṭ accents Open.
+
+## PG663 · Nested event history through present endings
+
+[Nested gam present completion](research/panini_grammar/nested_gam_present_person_number_completion/DERIVATION_AND_NATIVE_RECOVERY.md) extends the full PG14 carrier with pada/person/number ending grades while retaining D/Y/V roles and H1/H2 histories. Typed zero-specialization cannot merge homographic simple-causative forms with the nested event or A with passive. One morphology/16 new interfaces after two controls; census unchanged.
