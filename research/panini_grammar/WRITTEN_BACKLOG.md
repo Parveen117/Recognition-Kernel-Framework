@@ -1,6 +1,8 @@
-# Written-development backlog at PG778
+# Written-development backlog at PG779
 
-Monty · 2026-11-25 · reviewed parent 910b5dc8796ed77aad022a1653ad9d7856974f0b. Historical closures below retain their exact pins.
+Monty · 2026-11-25 · reviewed parent d612a8ce76160fa2ced0283569b5a31865b92363. Historical closures below retain their exact pins.
+
+PG779 · [Two reputations, two fallen trees and the accent of nānā](two_reputations_two_fallen_trees_and_the_accent_of_nana/README.md). The manuscript ancestry of the singular and plural fault readings, the historical basis of the rival initial-c analyses and the exact accent of vinā in an independent Vedic address remain Open. Return to the independent horse-distance form in Śaunaka 6.131.3, then continue the different vi formations at 5.2.28–29. C2–C5 and S1–S7 remain Open.
 
 PG778 · [Ear roots, ribs, wing roots and the first lunar day](ear_roots_ribs_wing_roots_and_the_first_lunar_day/README.md). The remaining list variants, the independent accent histories of the calendrical and anatomical terms, and the etymological distribution of the prefixed anatomical name remain Open. Continue 5.2.26–27 with recognition by a quality, the u- and a-stems, and the differently marked indeclinable suffixes. C2–C5 and S1–S7 remain Open.
 

@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG778
+# Pāṇini grammar · current written coverage at PG779
+
+PG779 · [Two reputations, two fallen trees and the accent of nānā](two_reputations_two_fallen_trees_and_the_accent_of_nana/README.md). Connects both reputation suffixes to Bhaṭṭi 2.32, verifies initial accent in RV 3.55.11, and identifies Harivaṃśa 51.29 behind the accusative quotation. Census: 52,349 finite positions, 21,213 nominal positions and 24,001 nominal readings.
 
 PG778 · [Ear roots, ribs, wing roots and the first lunar day](ear_roots_ribs_wing_roots_and_the_first_lunar_day/README.md). Writes 5.2.24–25 with the lunar case sequence, the two levels in Bhaṭṭi’s adjective, and distinct avian and sacrificial anatomy. Census: 52,349 finite positions, 21,208 nominal positions and 23,996 nominal readings.
 

@@ -1,0 +1,116 @@
+{
+  "stage": "PG779",
+  "morphology_interfaces": [
+    {
+      "id": "WEAPON",
+      "base": "astra as distinguishing equipment",
+      "guard": "Rāma known for weapons",
+      "affix": "cuñcup, final p removed, u-stem",
+      "result": "astracuñcu"
+    },
+    {
+      "id": "MAGIC",
+      "base": "māyā as distinguishing accomplishment",
+      "guard": "Mārīca known for illusion",
+      "affix": "caṇap, final p removed, a-stem",
+      "result": "māyācaṇa"
+    },
+    {
+      "id": "WITHOUT",
+      "base": "vi with separation meaning",
+      "guard": "base already signifies separation",
+      "affix": "nā in own sense, invariant",
+      "result": "vinā"
+    },
+    {
+      "id": "DIVERSE",
+      "base": "nañ with separation meaning",
+      "guard": "recognize a distinction",
+      "affix": "nāñ with initial grade and initial accent",
+      "result": "nānā"
+    },
+    {
+      "id": "QUESTION",
+      "base": "two trees as patients, agent unknown",
+      "guard": "passive participle and agent question",
+      "affix": "nominative dual agreement and instrumental query",
+      "result": "imau pātitau drumau"
+    },
+    {
+      "id": "EDGE",
+      "base": "separation word and licensed co-participant",
+      "guard": "preserve edition, lexeme and predicate",
+      "affix": "2.3.32, plus accusative account",
+      "result": "case on the dependent"
+    }
+  ],
+  "nominal_positions": [
+    {
+      "id": "RAMA",
+      "source": "BK",
+      "input_history": "WEAPON",
+      "case_number": "M NOMsg",
+      "word": "astracuñcuḥ",
+      "interpretation": "The quality of the speaker. Its u-stem has the nominative ending here."
+    },
+    {
+      "id": "MAR",
+      "source": "BK",
+      "input_history": "MAGIC",
+      "case_number": "M ACCsg",
+      "word": "māyācaṇam",
+      "interpretation": "Attribute of Mārīca, the addressee of jagāda. Its a-stem supplies am."
+    },
+    {
+      "id": "FAULT",
+      "source": "HV",
+      "input_history": "WITHOUT",
+      "case_number": "M ACCsg",
+      "word": "doṣam",
+      "interpretation": "The epic’s one attributed fault is among the excluded causes."
+    },
+    {
+      "id": "TREES",
+      "source": "HV2",
+      "input_history": "QUESTION",
+      "case_number": "M NOMdu",
+      "word": "drumau",
+      "interpretation": "The two trees have fallen and agree with the past passive participle. Kena asks after the agent."
+    },
+    {
+      "id": "FORMS",
+      "source": "RV",
+      "input_history": "DIVERSE",
+      "case_number": "N ACCpl",
+      "word": "vapūṃṣi",
+      "interpretation": "The day and night pair makes different forms. The verb is transitive dual and the commentary supplies rūpāṇi."
+    }
+  ],
+  "source_policy_decisions": [
+    {
+      "id": "INITIAL",
+      "sources": "K26,B26,BK,J",
+      "decision": "Keep both initial c consonants, with their attributed explanations, and both final stem vowels. Each verse adjective applies to a different person."
+    },
+    {
+      "id": "BASE",
+      "sources": "K27,T27,KATH",
+      "decision": "Separation belongs to the input base. Supplying another semantic negation at the suffix changes the interpretation. Preserve both external sandhis in the Upaniṣad."
+    },
+    {
+      "id": "PITCH",
+      "sources": "RV,TONE,R9,K27,T27",
+      "decision": "Primary independent evidence for the first-syllable pitch at 3.55.11. The longer word and the compound at 9.112 have their own textual identity."
+    },
+    {
+      "id": "CASE",
+      "sources": "G,K32,HV,HV2",
+      "decision": "The epic’s four parallel exclusion phrases license accusatives. In the Gītā a separated instrumental depends on vinā. The grammatical case belongs to its dependent."
+    },
+    {
+      "id": "QUOTE",
+      "sources": "HV,HV2,HIST,K32",
+      "decision": "The literary locator is established. Retain plural elephant-caused faults in the Kāśikā and singular in the named epic edition. Repeated wind, rain and the shared syntactic rule retain earlier ownership."
+    }
+  ]
+}

@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG779 · [Two reputations, two fallen trees and the accent of nānā](research/panini_grammar/two_reputations_two_fallen_trees_and_the_accent_of_nana/README.md). PG14 retains the speaker, addressee, dependent, witness division and accent bearer.
+
 PG778 · [Ear roots, ribs, wing roots and the first lunar day](research/panini_grammar/ear_roots_ribs_wing_roots_and_the_first_lunar_day/README.md). PG37 owns the prior rule interfaces. PG778 owns the new contextual histories and the calendrical case requests.
 
 PG777 · [Seven spoken words and the named product of yesterday’s milking](research/panini_grammar/seven_spoken_words_and_the_named_product_of_yesterdays_milking/README.md). PG14 keeps the word, its semantic bearer and the source of the suffix distinct.

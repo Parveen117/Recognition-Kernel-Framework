@@ -2,6 +2,12 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG779 · Two reputations, two fallen trees and the accent of nānā
+
+PG779 · [Two reputations, two fallen trees and the accent of nānā](two_reputations_two_fallen_trees_and_the_accent_of_nana/README.md). Connects both reputation suffixes to Bhaṭṭi 2.32, verifies initial accent in RV 3.55.11, and identifies Harivaṃśa 51.29 behind the accusative quotation. 5 new nominal positions and 5 readings. Finite positions and readings both increased by zero. One syntax construction with [five role readings](two_reputations_two_fallen_trees_and_the_accent_of_nana/SYNTAX_READOUTS.json) and one accent construction with [one reading](two_reputations_two_fallen_trees_and_the_accent_of_nana/ACCENT_READOUTS.json). One written morphology construction with 6 interfaces, 15 source observations and 5 source decisions. Census: 52,349 finite positions, 21,213 nominal positions and 24,001 nominal readings.
+
+Parent d612a8ce76160fa2ced0283569b5a31865b92363. The containing commit pins this packet. The manuscript ancestry of the singular and plural fault readings, the historical basis of the rival initial-c analyses and the exact accent of vinā in an independent Vedic address remain Open. Return to the independent horse-distance form in Śaunaka 6.131.3, then continue the different vi formations at 5.2.28–29. C2–C5 and S1–S7 remain Open. Claude retains execution.
+
 ## PG778 · Ear roots, ribs, wing roots and the first lunar day
 
 PG778 · [Ear roots, ribs, wing roots and the first lunar day](ear_roots_ribs_wing_roots_and_the_first_lunar_day/README.md). Writes 5.2.24–25 with the lunar case sequence, the two levels in Bhaṭṭi’s adjective, and distinct avian and sacrificial anatomy. 32 new nominal positions and 36 readings. Finite positions and readings both increased by zero. One written morphology construction with 10 interfaces, 13 source observations and 5 source decisions. Census: 52,349 finite positions, 21,208 nominal positions and 23,996 nominal readings.
@@ -74,9 +80,11 @@ The starting census at [PG746](https://github.com/Parveen117/Recognition-Kernel-
 | PG774 | [b8137aca3ae784aab7e4c19671d51ecd41c0d32a](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/b8137aca3ae784aab7e4c19671d51ecd41c0d32a) | 0 | 0 | 20 | 20 | 1 | 19 | 12 | 6 | — |
 | PG775 | [f3435bd46829a88f40b292f059273de85c5f58d4](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/f3435bd46829a88f40b292f059273de85c5f58d4) | 2 | 2 | 0 | 0 | 1 | 5 | 12 | 5 | 1 syntax constructions, 4 syntax readouts |
 | PG776 | [05b82ff8bf310ea00dfa2a032b234f74cbef47ea](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/05b82ff8bf310ea00dfa2a032b234f74cbef47ea) | 0 | 0 | 40 | 52 | 1 | 13 | 14 | 5 | — |
-| PG777 | Containing commit | 0 | 0 | 13 | 13 | 1 | 10 | 15 | 5 | — |
+| PG777 | [910b5dc8796ed77aad022a1653ad9d7856974f0b](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/910b5dc8796ed77aad022a1653ad9d7856974f0b) | 0 | 0 | 13 | 13 | 1 | 10 | 15 | 5 | — |
+| PG778 | [d612a8ce76160fa2ced0283569b5a31865b92363](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/d612a8ce76160fa2ced0283569b5a31865b92363) | 0 | 0 | 32 | 36 | 1 | 10 | 13 | 5 | — |
+| PG779 | Containing commit | 0 | 0 | 5 | 5 | 1 | 6 | 15 | 5 | 1 syntax constructions, 5 syntax readouts, 1 accent constructions, 1 accent readouts |
 
-Through PG777 the census is 52,349 finite positions, 21,176 nominal positions and 23,960 nominal readings. The PG335 correction is carried through the baseline. Protected registers contribute no new units here.
+Through PG779 the census is 52,349 finite positions, 21,213 nominal positions and 24,001 nominal readings. The PG335 correction is carried through the baseline. Protected registers contribute no new units here.
 
 ## PG772 · Two causal predicates and the changing cases of hotrā in Aitareya 6.14
 
