@@ -2,6 +2,16 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG693 · Conveyance affix alternatives and Rājataraṅgiṇī 6.308
+
+PG693: [Vivadha/vīvadha, affix convergence and the attested feminine](vivadha_vivadha_owned_conveyance/README.md). The short sūtra plus vārttika and the two-base Kāśikā sūtra both admit the selected inputs. The residual ṭhak histories converge as vaivadhika, and Rājataraṅgiṇī 6.308 supplies the actual feminine vaivadhikī. Three case fibres add 72 nominal positions and 172 readings on 221 paths. Census 52,323 finite and 8,348 nominal positions/9,913 readings.
+
+One morphology construction/nine stem-history interfaces, one syntax construction/one verse record, one semantic construction/three role readings, five source observations and two decisions. Zero new finite positions and readings. The Kalhaṇa word is an attestation of the same case slot and receives no extra word credit.
+
+PG521–693 cumulative: 504 finite positions/1,420 net credited finite readings, 2,570 nominal positions/3,170 readings, 266 morphology constructions/2,877 operative interfaces, 124 compound constructions/587 plans, 15 accent constructions/61 records, 151 semantics constructions/440 records, 117 syntax constructions/342 records, 55 source-policy decisions after PG555−1, and 305 observations. Three junction constructions/nine readouts since PG680, four provenance corrections and one proof addendum. PG335 and PG357–363 CLOSED preserved.
+
+Open: 4.4.18 exact witness roles and cases, stem accent, lemma history, other neuter/trade domains, independent Harṣacarita locus and the Rājataraṅgiṇī material means and etymon, C2–C5/S1–S7 and Claude execution. The containing commit pins this packet.
+
 ## PG692 · Head and shoulder load case fibres
 
 PG692: [Head and shoulder loads, inner aluk and owned ṣṭhan](bhastradi_head_shoulder_aluk_and_owned_taddhita/README.md). Witness wording resolves two rule-number correspondences. The 4.4.16 paired load compounds preserve the inner aluk/luk choices through the later ṣṭhan and case operations. Eight case fibres add 192 nominal positions and 396 readings. Census 52,323 finite and 8,276 nominal positions/9,741 readings.

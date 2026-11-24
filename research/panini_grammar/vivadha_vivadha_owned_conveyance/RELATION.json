@@ -1,0 +1,324 @@
+{
+  "schema": "rkf.panini.pg693.relation.v1",
+  "support": {
+    "root_id": "1011046",
+    "root": "hṛñ",
+    "sense": "haraṇe",
+    "preverb": null,
+    "example_voice": "kartari P",
+    "hook": "tena harati",
+    "input_case": "instrumental"
+  },
+  "base_and_suffix_paths": [
+    {
+      "id": "S_SHORT",
+      "base": "vivadha",
+      "affix": "ṣṭhan",
+      "body": "vivadhik",
+      "initial_vowel": "retained",
+      "feminine": "ṅīṣ",
+      "genders": [
+        "m",
+        "f"
+      ]
+    },
+    {
+      "id": "S_LONG",
+      "base": "vīvadha",
+      "affix": "ṣṭhan",
+      "body": "vīvadhik",
+      "initial_vowel": "retained",
+      "feminine": "ṅīṣ",
+      "genders": [
+        "m",
+        "f"
+      ]
+    },
+    {
+      "id": "T_SHORT",
+      "base": "vivadha",
+      "affix": "ṭhak",
+      "body": "vaivadhik",
+      "initial_vowel": "vṛddhi to ai",
+      "feminine": "ṅīp",
+      "genders": [
+        "m",
+        "f",
+        "n"
+      ]
+    },
+    {
+      "id": "T_LONG",
+      "base": "vīvadha",
+      "affix": "ṭhak",
+      "body": "vaivadhik",
+      "initial_vowel": "vṛddhi to ai",
+      "feminine": "ṅīp",
+      "genders": [
+        "m",
+        "f"
+      ]
+    }
+  ],
+  "role_readings": [
+    {
+      "id": "PATH",
+      "source": "K",
+      "status": "Accepted",
+      "reading": "path as supporting means in the supplied sense"
+    },
+    {
+      "id": "CIRCUIT",
+      "source": "SD",
+      "status": "Accepted",
+      "reading": "paryāhāra identified by Nyāsa as conveying around"
+    },
+    {
+      "id": "CARRIER",
+      "source": "RT+CTX",
+      "status": "Accepted",
+      "reading": "Valgā as contextual bearer of the queen on the Stein reading"
+    }
+  ],
+  "neuter": {
+    "source": "SKD",
+    "scope": "tri adjectival label in supplied grain-dealing sense",
+    "path": "T_SHORT"
+  },
+  "cases": {
+    "number_order": [
+      "sg",
+      "du",
+      "pl"
+    ],
+    "tails": [
+      {
+        "case": "nom",
+        "m": [
+          "aḥ",
+          "au",
+          "āḥ"
+        ],
+        "f": [
+          "ī",
+          "yau",
+          "yaḥ"
+        ],
+        "n": [
+          "am",
+          "e",
+          "āni"
+        ]
+      },
+      {
+        "case": "acc",
+        "m": [
+          "am",
+          "au",
+          "ān"
+        ],
+        "f": [
+          "īm",
+          "yau",
+          "īḥ"
+        ],
+        "n": [
+          "am",
+          "e",
+          "āni"
+        ]
+      },
+      {
+        "case": "ins",
+        "m": [
+          "ena",
+          "ābhyām",
+          "aiḥ"
+        ],
+        "f": [
+          "yā",
+          "ībhyām",
+          "ībhiḥ"
+        ],
+        "n": [
+          "ena",
+          "ābhyām",
+          "aiḥ"
+        ]
+      },
+      {
+        "case": "dat",
+        "m": [
+          "āya",
+          "ābhyām",
+          "ebhyaḥ"
+        ],
+        "f": [
+          "yai",
+          "ībhyām",
+          "ībhyaḥ"
+        ],
+        "n": [
+          "āya",
+          "ābhyām",
+          "ebhyaḥ"
+        ]
+      },
+      {
+        "case": "abl",
+        "m": [
+          [
+            "āt",
+            "ād"
+          ],
+          "ābhyām",
+          "ebhyaḥ"
+        ],
+        "f": [
+          "yāḥ",
+          "ībhyām",
+          "ībhyaḥ"
+        ],
+        "n": [
+          [
+            "āt",
+            "ād"
+          ],
+          "ābhyām",
+          "ebhyaḥ"
+        ]
+      },
+      {
+        "case": "gen",
+        "m": [
+          "asya",
+          "ayoḥ",
+          "ānām"
+        ],
+        "f": [
+          "yāḥ",
+          "yoḥ",
+          "īnām"
+        ],
+        "n": [
+          "asya",
+          "ayoḥ",
+          "ānām"
+        ]
+      },
+      {
+        "case": "loc",
+        "m": [
+          "e",
+          "ayoḥ",
+          "eṣu"
+        ],
+        "f": [
+          "yām",
+          "yoḥ",
+          "īṣu"
+        ],
+        "n": [
+          "e",
+          "ayoḥ",
+          "eṣu"
+        ]
+      },
+      {
+        "case": "voc",
+        "m": [
+          "a",
+          "au",
+          "āḥ"
+        ],
+        "f": [
+          "i",
+          "yau",
+          "yaḥ"
+        ],
+        "n": [
+          "a",
+          "e",
+          "āni"
+        ]
+      }
+    ],
+    "per_load": [
+      {
+        "request": "load noun",
+        "gender": "m",
+        "body_tail": "bhār",
+        "positions": 24,
+        "readings": 50
+      },
+      {
+        "request": "conveyance adjective",
+        "gender": "m",
+        "body_tail": "bhārik",
+        "positions": 24,
+        "readings": 50
+      },
+      {
+        "request": "conveyance adjective",
+        "gender": "f",
+        "body_tail": "bhārik",
+        "positions": 24,
+        "readings": 48
+      },
+      {
+        "request": "conveyance adjective",
+        "gender": "n",
+        "body_tail": "bhārik",
+        "positions": 24,
+        "readings": 50
+      }
+    ]
+  },
+  "textual_and_source_policies": {
+    "accepted": [
+      "K/BV double lemma",
+      "MB short lemma with explicit vārttika",
+      "TB partial-change interpretation",
+      "K/BV vīvadhikī",
+      "SKD lexical trade reading",
+      "RT vaivadhikī feminine nominative singular and Valgā as agent of akārayat",
+      "CTX Stein porter contextual reading"
+    ],
+    "alternate_reports": [
+      "SD short feminine repeated in its 4.4.17 Kāśikā",
+      "CTX own hawker and lame Valgā rendering",
+      "MW masculine Harṣacarita work-level reference",
+      "HEMA uses different affix nomenclature on its separate rule"
+    ],
+    "open": [
+      "stem or case accent",
+      "historical order of the lemma readings",
+      "6.308 literal first-pāda collation, physical means and underlying vowel",
+      "other neuter inputs, wider trade scope and exact Harṣacarita locus"
+    ],
+    "excluded": [
+      "arbitrary instrument bases for 4.4.17",
+      "treat the 4.4.17 option as itself licensing a branch on 4.4.16 or 4.4.18",
+      "count paths coalescing within a key as different words"
+    ]
+  },
+  "witness": {
+    "work": "Rājataraṅgiṇī",
+    "verse": "6.308",
+    "tokyo_address": "KRT_6_0308cd",
+    "token": "वैवधिकी",
+    "case": "nom",
+    "number": "sg",
+    "gender": "f",
+    "referent": "Valgā",
+    "matrix_verb": "akārayat",
+    "matrix_object": "Valgāmaṭha",
+    "witness_supplies_first_vowel": false
+  },
+  "nominal_counts": {
+    "positions": 72,
+    "readings": 172,
+    "stem_ending_paths": 221
+  },
+  "grammar_executions": []
+}

@@ -1,6 +1,8 @@
-# Written-development backlog at PG692
+# Written-development backlog at PG693
 
-Monty · 2026-11-24 · reviewed current parent 03a94bb15f1af2b6d6fbc874646d58034a8403e9. Historical closures below retain their exact pins.
+Monty · 2026-11-24 · reviewed current parent 1cc6b8b3e3288f622d955415596127bee416775b. Historical closures below retain their exact pins.
+
+PG693 closes the [selected vivadha/vīvadha conveyance case fibres and the attested 6.308 feminine](vivadha_vivadha_owned_conveyance/README.md) at 72 new nominal positions/172 readings on 221 paths. The named short-sūtra-plus-vārttika and Kāśikā double-lemma policies concur on both inputs. The exact first-pāda and stem accent, ultimate textual priority, the original Harṣacarita occurrence and the 6.308 instrument and underlying base stay Open. Wider trade/neuter roles and the distinct 4.4.18 cases remain unconstructed. S1–S7/C2–C5 and Claude execution retain separate obligations.
 
 PG692 closes the [two source-named head/shoulder load doublets and their three-gender conveyors](bhastradi_head_shoulder_aluk_and_owned_taddhita/README.md). There are 192 new nominal positions/396 readings and four compound plans. Nyāsa's wording locates the project 2.1.40 and 6.3.14 even where its numerical cross-link differs. The printed gaṇa lineage, the primary stand-alone śīrṣa use, accent and independent contextual witnesses, S1–S7/C2–C5 and Claude execution remain distinct obligations.
 

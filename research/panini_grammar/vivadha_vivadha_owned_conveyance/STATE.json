@@ -1,0 +1,49 @@
+{
+  "schema": "rkf.panini.pg693.state.v1",
+  "author": "Monty",
+  "date": "2026-11-24",
+  "publication_parent": "1cc6b8b3e3288f622d955415596127bee416775b",
+  "baseline": {
+    "commit": "1cc6b8b3e3288f622d955415596127bee416775b",
+    "path": "research/panini_grammar/bhastradi_head_shoulder_aluk_and_owned_taddhita/STATE.json"
+  },
+  "finite_positions": 52323,
+  "nominal_positions": 8348,
+  "nominal_readings": 9913,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 72,
+  "new_nominal_readings": 172,
+  "new_morphological_constructions": 1,
+  "new_morphological_readouts": 9,
+  "new_syntactic_constructions": 1,
+  "new_syntactic_readouts": 1,
+  "new_semantic_constructions": 1,
+  "new_semantic_readouts": 3,
+  "new_source_observations": 5,
+  "new_source_policy_decisions": 2,
+  "new_positions": 0,
+  "new_position_readings": 0,
+  "local_closure": "CLOSED selected 4.4.17 masculine and feminine conveyance, supplied short-base lexical neuter and direct 6.308 case address",
+  "open_obligations": [
+    "4.4.18 written cases and commentary roles need their own witness collation and derivation.",
+    "Case accent, lemma textual history, independent Harṣacarita exact locus, 6.308 physical instrument and etymon, and other neuter/trade contexts remain Open.",
+    "Wider C2–C5/S1–S7 and Claude-deferred execution."
+  ],
+  "authorization": {
+    "completion_status": "OPEN wider gates",
+    "PG335": "-9 finite/-12 readings preserved",
+    "PG357_PG363": "CLOSED preserved",
+    "continuous_executed_hours_claimed": false
+  },
+  "runtime_policy": {
+    "python": "3.12 only",
+    "document_check_status": "PASS",
+    "document_check_attempts": 1,
+    "grammar_tests": "DEFERRED_TO_CLAUDE",
+    "generators": "DEFERRED_TO_CLAUDE",
+    "old_suites": "DEFERRED_TO_CLAUDE",
+    "certificate_replay": "DEFERRED_TO_CLAUDE"
+  },
+  "grammar_executions": []
+}

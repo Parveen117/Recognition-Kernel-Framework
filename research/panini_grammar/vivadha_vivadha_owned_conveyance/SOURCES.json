@@ -1,0 +1,137 @@
+{
+  "publication_parent": "1cc6b8b3e3288f622d955415596127bee416775b",
+  "date": "2026-11-24",
+  "project_dependencies": [
+    {
+      "commit": "1cc6b8b3e3288f622d955415596127bee416775b",
+      "path": "research/panini_grammar/bhastradi_head_shoulder_aluk_and_owned_taddhita/STATE.json",
+      "git_blob_sha": "d59d26682f7fffbdd3510a70b61a25bc45bbc7f5",
+      "bytes": 2235,
+      "sha256": "f3883a97652ec41309c50c94117e7265229961e4be953798108b0d8410435f2e",
+      "use": "PG692 census"
+    },
+    {
+      "commit": "1cc6b8b3e3288f622d955415596127bee416775b",
+      "path": "research/panini_grammar/bhastradi_head_shoulder_aluk_and_owned_taddhita/RELATION.json",
+      "git_blob_sha": "2afa72feb607d6a5640ded9f26ed5ae1e11f6d01",
+      "bytes": 7527,
+      "sha256": "4bddc0e5b9c240fd7cd996b8d3d4014e129c1279f93d31034fd26d22c1538073",
+      "use": "PG692 case/no-nasal-trigger comparison and inherited pause"
+    },
+    {
+      "commit": "7842aa911bc4570c5e0d07125d0a1170b1753f38",
+      "path": "research/panini_grammar/taddhita_functional/RULES_4_4_A.md",
+      "git_blob_sha": "1245b03888b3faeb8bf9647b7abad5e089182b29",
+      "bytes": 18791,
+      "sha256": "fdf5739acfe0ca426f12957b65af6d664d7b494c4b7cf39da9f183b5b74f59aa",
+      "use": "PG36 registered the stem witnesses and the semantic scope"
+    },
+    {
+      "commit": "ada439f6ba3109d798b41c216fe7cedc79e60afb",
+      "path": "research/panini_grammar/SUTRAPATHA.tsv",
+      "git_blob_sha": "1840f3b5349b21112ac05a7efaa59705fd4efee0",
+      "bytes": 270179,
+      "sha256": "70dfdfe6ba433b6e211f0f01b078c1b6d13a1ad0938e06fd5789298a04583634",
+      "use": "Frozen sūtra address and wording"
+    },
+    {
+      "commit": "1d49f0a822aaf7ad32870cda2505ffff39ccbc2e",
+      "path": "research/panini_grammar/benediction/SOURCE_EXCERPTS.json",
+      "git_blob_sha": "7d08e9d0a716a11c0a9f40d4d43cfb61fe2fc406",
+      "bytes": 274412,
+      "sha256": "58e26b2c10b496668ddc29b07e6d71f30e087a80fb10bd33eaa1a044810a55a2",
+      "use": "Raw 1011046 hṛñ supporting predicate"
+    },
+    {
+      "commit": "b05e46bf78f165e17c4766d6d1179a1699a72fcf",
+      "path": "research/panini_grammar/grammar_construction/NATIVE_OPERATOR_LIFT.md",
+      "git_blob_sha": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+      "bytes": 11855,
+      "sha256": "f52e7f5cf539ef56859b890669ef738848491e4005e73be75baa49c899b5dafd",
+      "use": "Full native carrier and typed zero"
+    }
+  ],
+  "web_evidence": [
+    {
+      "id": "K",
+      "url": "https://vishvasa.github.io/sanskrit/vyAkaraNam/pANinIyam/mUlAni/kAshikA/puShpA-pratiH/4/04/",
+      "locator": "Puṣpā 4.4.17, lines 69–71",
+      "use": "Double lemma, four affix inputs, long feminine vīvadhikī"
+    },
+    {
+      "id": "SD",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/4/4.4.17.htm",
+      "locator": "4.4.17 Kāśikā, Nyāsa and Tattvabodhinī entry 1200",
+      "use": "Printed repeated short feminine, circuit gloss and attribution of double lemma"
+    },
+    {
+      "id": "BV",
+      "url": "https://sa.wikisource.org/wiki/भाषावृत्तिः/चतुर्थोऽध्यायः/चतुर्थः_पादः",
+      "locator": "4.4.17 near lines 137–138",
+      "use": "Independent long-feminine reading and optional suffixes",
+      "revision": "355999"
+    },
+    {
+      "id": "MB",
+      "url": "https://sa.wikisource.org/wiki/महाभाष्यम्/चतुर्थोऽध्यायः/चतुर्थः_पादः",
+      "locator": "4.4.17 entry 1755 and vārttika 5561",
+      "use": "Short sūtra and express second input",
+      "revision": "85757"
+    },
+    {
+      "id": "SKD",
+      "url": "https://sa.wikisource.org/wiki/शब्दकल्पद्रुमः/वैजयन्ती",
+      "locator": "vaivadhikaḥ entry near lines 1795–1802",
+      "use": "Short vivadha, ṭhak, trade scope and tri gender",
+      "revision": "44073"
+    },
+    {
+      "id": "RT",
+      "url": "https://www.aa.tufs.ac.jp/~tjun/irc/rajatarangini.html",
+      "locator": "KRT_6_0308ab and KRT_6_0308cd, lines 9837–9838",
+      "use": "Direct feminine nominative singular and apposition"
+    },
+    {
+      "id": "RT_W",
+      "url": "https://sa.wikisource.org/wiki/राजतरङ्गिणी/षष्ठः_तरङ्गः",
+      "locator": "6.308, lines 784–785",
+      "use": "Independent display of same token with different first pāda",
+      "revision": "334259"
+    },
+    {
+      "id": "CTX",
+      "url": "https://sringeribelur.com/translation-of-rajatarangini-verses-pertaining-to-didda-and-the-war-with-ghazni/",
+      "locator": "6.308, lines 813–822",
+      "use": "Porter reading attributed to Stein and alternate contemporary rendering"
+    },
+    {
+      "id": "MW",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/MWScanpdf/mw1025-vairakRt.pdf",
+      "locator": "vaivadhika dictionary entry",
+      "use": "Reports Harṣacarita masculine and Rajatarangini feminine, keeps a trade reading"
+    },
+    {
+      "id": "GRADE",
+      "url": "https://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/7/7.2.118.htm",
+      "locator": "Kāśikā 7.2.118",
+      "use": "Initial-vowel vṛddhi in kit taddhita, with ṭhak control"
+    },
+    {
+      "id": "HEMA",
+      "url": "https://sanskrit.uohyd.ac.in/scl/kosha_concordance/haimanamamalashilonchadipika_shrivallabha/conc/haimanamamalashilonchadipika.html",
+      "locator": "vivadhika–vīvadhika entry",
+      "use": "Independent positive long feminine in non-Pāṇinian 6.4.25 ikaṭ/ikaṇ analysis, outside the operative affix paths"
+    }
+  ],
+  "observation_units": [
+    "Mahābhāṣya 1755/vārttika 5561 and Tattvabodhinī's different account of the same admission",
+    "Kāśikā digital short duplication compared with Puṣpā and Bhāṣāvṛtti long feminine",
+    "Śabdakalpadruma short-base grain trade ṭhak with tri gender",
+    "Direct 6.308 feminine and apposition, with its two textual displays and separately reported interpretations",
+    "Śrīvallabha's distinct Hema 6.4.25 control with all three feminine stems"
+  ],
+  "decisions": [
+    "Accept both lexical inputs on each of the named Pāṇinian textual policies, with four distinct operative histories. The long feminine is positive under the declared witnesses.",
+    "Accept the exact 6.308 token and its contextual carrier analysis per Stein. Preserve the trade gloss and alternate contextual policy at their own source addresses. Exact instrumental base and source accent stay Open."
+  ]
+}
