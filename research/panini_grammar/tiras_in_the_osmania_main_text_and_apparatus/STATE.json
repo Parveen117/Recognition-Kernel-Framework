@@ -1,0 +1,36 @@
+{
+  "stage": "PG781",
+  "date": "2026-11-25",
+  "publication_parent": "e6b93cd7f8947be7eda5d2a5a595c1e9df65c66c",
+  "baseline": {
+    "commit": "e6b93cd7f8947be7eda5d2a5a595c1e9df65c66c",
+    "path": "research/panini_grammar/short_i_ride_and_long_i_horse_day_in_vedic_distance_clauses/STATE.json"
+  },
+  "finite_positions": 52349,
+  "nominal_positions": 21219,
+  "nominal_readings": 24007,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 0,
+  "new_morphology_constructions": 0,
+  "new_morphology_interfaces": 0,
+  "new_source_observations": 8,
+  "new_source_policy_decisions": 4,
+  "open_obligations": [
+    "S7 1.4.72 is locally resolved for the Osmania main text, its first footnote and the 8.3.42 apparatus. Original Mādhava, the Tattva print glyphs, direct manuscript collation and the authorial explanation remain Open.",
+    "Next continue the vi derivatives at 5.2.28–29. The S2 and S3 upstream actions retain their distinct scope."
+  ],
+  "local_closure": "Adds source evidence to S7 on existing form histories.",
+  "global_gates": {
+    "C2–C5": "Open",
+    "S1–S7": "Open",
+    "S5_direct_fields": "99/103",
+    "S6": "Independent 5.56 k-it effect Open"
+  },
+  "protected_registers": {
+    "PG335": "-9 finite positions and -12 readings already applied",
+    "PG340/346, PG349–352, PG355–360, PG357–363": "CLOSED on registered scopes"
+  },
+  "runtime_policy": "Written derivation. Only changed-document, source and count checks. Claude owns grammar execution, generators, untouched suites and replay."
+}

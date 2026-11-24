@@ -1,0 +1,27 @@
+{
+  "stage": "PG781",
+  "morphology_interfaces": [],
+  "nominal_positions": [],
+  "source_policy_decisions": [
+    {
+      "id": "TEXT",
+      "sources": "MAIN,NOTE,PU,BHO",
+      "decision": "Close the four-display question for the named Osmania main text. State both ktvā orders and separate a grammatical list from continuous literary usage."
+    },
+    {
+      "id": "SCOPE",
+      "sources": "MAIN,NOTE,SOUND",
+      "decision": "At 1.4.72 the edition records the disputed reading and an objection. At 8.3.42 its main sound rule retains the gati requirement. The two facts can be registered simultaneously."
+    },
+    {
+      "id": "SIGLUM",
+      "sources": "SOUND,VAR,CRIT",
+      "decision": "Close the printed location of the separately reported s reading at the sound rule. Do not supply an unchecked manuscript identity, an independent stemma or the editors’ endorsement."
+    },
+    {
+      "id": "REUSE",
+      "sources": "MAIN,SOUND,PU",
+      "decision": "Neither the availability of the earlier reported non-gati policy nor PG42’s default needs a new word or operator credit. An editorial note about evidential support is itself a positive source event."
+    }
+  ]
+}

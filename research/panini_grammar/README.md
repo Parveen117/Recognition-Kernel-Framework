@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG781 · [Tiras in the Osmania main text and apparatus at 1.4.72 and 8.3.42](tiras_in_the_osmania_main_text_and_apparatus/README.md). Locates the contested ktvā spelling and the editors’ explicit objection, then collates the sound rule’s main text and apparatus in the same edition. 0 new nominal positions and 0 readings. Finite positions and readings both increased by zero.
+
 PG780 · [The short-i ride and the long-ī horse-day in two Vedic distance clauses](short_i_ride_and_long_i_horse_day_in_vedic_distance_clauses/README.md). Verifies three measured extents in Śaunaka 6.131.3 and the explicit 5.2.19 analysis of the thousandfold locative in Aitareya 2.17.8. 6 new nominal positions and 6 readings. Finite positions and readings both increased by zero.
 
 PG779 · [Two reputations, two fallen trees and the accent of nānā](two_reputations_two_fallen_trees_and_the_accent_of_nana/README.md). Connects both reputation suffixes to Bhaṭṭi 2.32, verifies initial accent in RV 3.55.11, and identifies Harivaṃśa 51.29 behind the accusative quotation. 5 new nominal positions and 5 readings. Finite positions and readings both increased by zero.

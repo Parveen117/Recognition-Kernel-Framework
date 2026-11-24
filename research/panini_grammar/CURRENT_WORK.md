@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG780
+# Pāṇini grammar · current written coverage at PG781
+
+PG781 · [Tiras in the Osmania main text and apparatus at 1.4.72 and 8.3.42](tiras_in_the_osmania_main_text_and_apparatus/README.md). Locates the contested ktvā spelling and the editors’ explicit objection, then collates the sound rule’s main text and apparatus in the same edition. Census: 52,349 finite positions, 21,219 nominal positions and 24,007 nominal readings.
 
 PG780 · [The short-i ride and the long-ī horse-day in two Vedic distance clauses](short_i_ride_and_long_i_horse_day_in_vedic_distance_clauses/README.md). Verifies three measured extents in Śaunaka 6.131.3 and the explicit 5.2.19 analysis of the thousandfold locative in Aitareya 2.17.8. Census: 52,349 finite positions, 21,219 nominal positions and 24,007 nominal readings.
 

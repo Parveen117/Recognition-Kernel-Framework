@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG781 · [Tiras in the Osmania main text and apparatus at 1.4.72 and 8.3.42](research/panini_grammar/tiras_in_the_osmania_main_text_and_apparatus/README.md). Adds source evidence to S7 on existing form histories.
+
 PG780 · [The short-i ride and the long-ī horse-day in two Vedic distance clauses](research/panini_grammar/short_i_ride_and_long_i_horse_day_in_vedic_distance_clauses/README.md). The short-i horseman, long-ī horse-day and short-i divine pair keep distinct lexical histories.
 
 PG779 · [Two reputations, two fallen trees and the accent of nānā](research/panini_grammar/two_reputations_two_fallen_trees_and_the_accent_of_nana/README.md). PG14 retains the speaker, addressee, dependent, witness division and accent bearer.

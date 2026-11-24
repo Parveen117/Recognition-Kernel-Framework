@@ -1,0 +1,96 @@
+{
+  "project_dependencies": [
+    {
+      "commit": "e6b93cd7f8947be7eda5d2a5a595c1e9df65c66c",
+      "path": "research/panini_grammar/short_i_ride_and_long_i_horse_day_in_vedic_distance_clauses/STATE.json",
+      "git_blob_sha": "52092d5da5e017332c046ff9099f5fdf756ef8ea",
+      "sha256": "ea3f0fa25b89814696c4ea8efafc4aa6aae0c84799c64d84837d6e67ae4f97a1",
+      "use": "Published baseline"
+    },
+    {
+      "commit": "e6b93cd7f8947be7eda5d2a5a595c1e9df65c66c",
+      "path": "research/panini_grammar/tiras_non_gati_s_and_reported_madhava_policy/RELATION.json",
+      "git_blob_sha": "10e6af0ad82aea6b9c0b5d7dd1e83a11a1488286",
+      "sha256": "ff044a11f4af3cde02fb6a236ac546d469fd3d5c97a3420fa03f68266c7a1a33",
+      "use": "Frozen gati and non-gati paths on √kṛ 08.0010, no new position."
+    },
+    {
+      "commit": "e6b93cd7f8947be7eda5d2a5a595c1e9df65c66c",
+      "path": "research/panini_grammar/tiras_non_gati_s_and_reported_madhava_policy/SOURCES.json",
+      "git_blob_sha": "28b6a6cd2cc88482473fcf6be5a7f121be19e78b",
+      "sha256": "b85a89994c0bef80a00461c21bdc9d9e562ab22d96495c4bfbdb5ebd557674d8",
+      "use": "Earlier Bālā and Tattva raw fields and their disputed attribution."
+    },
+    {
+      "commit": "e6b93cd7f8947be7eda5d2a5a595c1e9df65c66c",
+      "path": "research/panini_grammar/tiras_praudhamanorama_named_report/SOURCES.json",
+      "git_blob_sha": "213df71f12223395188a639e9625be575bea31cc",
+      "sha256": "025bd8382112dea0a8d48d221c1b8761f884277170c51ba3d0db1225d795ee1c",
+      "use": "Exact Prāuḍhamanoramā named-report locator and predecessor identities."
+    },
+    {
+      "commit": "e6b93cd7f8947be7eda5d2a5a595c1e9df65c66c",
+      "path": "research/panini_grammar/foundational_relations/RULES_1_4_C.md",
+      "git_blob_sha": "78aa3bd72bf6dc481c7ed853093b7484f46473b1",
+      "sha256": "ec91718180240658b59825fd2e0f25f6e6a0919af08236449390152ac9f7c8b8",
+      "use": "Original PG42 rule register and the four written displays."
+    },
+    {
+      "commit": "e6b93cd7f8947be7eda5d2a5a595c1e9df65c66c",
+      "path": "research/panini_grammar/grammar_construction/NATIVE_OPERATOR_LIFT.md",
+      "git_blob_sha": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+      "sha256": "f52e7f5cf539ef56859b890669ef738848491e4005e73be75baa49c899b5dafd",
+      "use": "PG14 complete history modules and operator specialization."
+    }
+  ],
+  "source_observations": [
+    {
+      "id": "INDEX",
+      "locator": "Sanskrit Library, Osmania edition index, 1.4.72 and 8.3.42",
+      "url": "https://sanskritlibrary.org/kasika.html",
+      "observation": "The two one-page scan files are indexed as p92 and p947. The second file shows the volume page number 295."
+    },
+    {
+      "id": "MAIN",
+      "locator": "Osmania Kāśikā vol. I, printed p. 92, 1.4.72, main text",
+      "url": "https://sanskritlibrary.org/kasikaImages/kasika-p92.pdf",
+      "observation": "The concealment rule prints both lyap forms and, after participial and finite examples, tiraskṛtvā followed by tiraḥ kṛtvā. The wood example follows the restriction."
+    },
+    {
+      "id": "NOTE",
+      "locator": "Same printed p. 92, apparatus note 1 linked to the ktvā example",
+      "url": "https://sanskritlibrary.org/kasikaImages/kasika-p92.pdf",
+      "observation": "The editors expressly question this arrangement of examples because evidence for s with a non-gati tiras is lacking on their analysis."
+    },
+    {
+      "id": "SOUND",
+      "locator": "Osmania Kāśikā, vol. II, printed p. 295, file p947, 8.3.42, main text",
+      "url": "https://sanskritlibrary.org/kasikaImages/kasika-p947.pdf",
+      "observation": "Alternation of s and visarga in agent, infinitive and necessity examples precedes the explicit gati restriction and the non-gati ktvā counterexample."
+    },
+    {
+      "id": "VAR",
+      "locator": "Same printed p. 295, apparatus note 13",
+      "url": "https://sanskritlibrary.org/kasikaImages/kasika-p947.pdf",
+      "observation": "The apparatus lists tiraskṛtvā under the printed siglum इ. in the vicinity of the non-gati control. The variant and the main text have separate documentary grades."
+    },
+    {
+      "id": "PU",
+      "locator": "Kāśikā in the Puṣpā-prati, 1.4.72",
+      "url": "https://vishvasa.github.io/sanskrit/vyAkaraNam/pANinIyam/mUlAni/kAshikA/puShpA-pratiH/1/04/",
+      "observation": "Preserves both ktvā displays. Their sequence puts the visarga form before the s form. The gati/lyap pair belongs earlier in the field."
+    },
+    {
+      "id": "BHO",
+      "locator": "Bhoja, Śṛṅgāraprakāśa, first chapter, indexed passage 648",
+      "url": "https://poorvam.com/pore/corpus/shringaraprakash/chapter/1/verse/648",
+      "observation": "The metalinguistic list under the numbered rule includes both ktvā spellings, with s first. This is a report of examples."
+    },
+    {
+      "id": "CRIT",
+      "locator": "Pascale Haag and Vincenzo Vergiani, study of the Kāśikāvṛtti, introduction on the Osmania edition",
+      "url": "https://api.pageplace.de/preview/DT0400.9781843318927_A26297861/preview-9781843318927_A26297861.pdf",
+      "observation": "Describes the negative apparatus and the need to check individual sources. The linked study treats the pratyāhāra section."
+    }
+  ]
+}

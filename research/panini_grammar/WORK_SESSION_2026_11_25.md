@@ -2,6 +2,12 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG781 · Tiras in the Osmania main text and apparatus at 1.4.72 and 8.3.42
+
+PG781 · [Tiras in the Osmania main text and apparatus at 1.4.72 and 8.3.42](tiras_in_the_osmania_main_text_and_apparatus/README.md). Locates the contested ktvā spelling and the editors’ explicit objection, then collates the sound rule’s main text and apparatus in the same edition. 0 new nominal positions and 0 readings. Finite positions and readings both increased by zero. Eight source observations and four source decisions on the existing constructions. Census: 52,349 finite positions, 21,219 nominal positions and 24,007 nominal readings.
+
+Parent e6b93cd7f8947be7eda5d2a5a595c1e9df65c66c. The containing commit pins this packet. S7 1.4.72 is locally resolved for the Osmania main text, its first footnote and the 8.3.42 apparatus. Original Mādhava, the Tattva print glyphs, direct manuscript collation and the authorial explanation remain Open. Next continue the vi derivatives at 5.2.28–29. The S2 and S3 upstream actions retain their distinct scope. C2–C5 and S1–S7 remain Open. Claude retains execution.
+
 ## PG780 · The short-i ride and the long-ī horse-day in two Vedic distance clauses
 
 PG780 · [The short-i ride and the long-ī horse-day in two Vedic distance clauses](short_i_ride_and_long_i_horse_day_in_vedic_distance_clauses/README.md). Verifies three measured extents in Śaunaka 6.131.3 and the explicit 5.2.19 analysis of the thousandfold locative in Aitareya 2.17.8. 6 new nominal positions and 6 readings. Finite positions and readings both increased by zero. One accent construction with [three readouts](short_i_ride_and_long_i_horse_day_in_vedic_distance_clauses/ACCENT_READOUTS.json). One written morphology construction with 5 interfaces, 12 source observations and 5 source decisions. Census: 52,349 finite positions, 21,219 nominal positions and 24,007 nominal readings.
@@ -89,9 +95,10 @@ The starting census at [PG746](https://github.com/Parveen117/Recognition-Kernel-
 | PG777 | [910b5dc8796ed77aad022a1653ad9d7856974f0b](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/910b5dc8796ed77aad022a1653ad9d7856974f0b) | 0 | 0 | 13 | 13 | 1 | 10 | 15 | 5 | — |
 | PG778 | [d612a8ce76160fa2ced0283569b5a31865b92363](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/d612a8ce76160fa2ced0283569b5a31865b92363) | 0 | 0 | 32 | 36 | 1 | 10 | 13 | 5 | — |
 | PG779 | [1268f8f070959cbaec0deefa3336b46840b0f157](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/1268f8f070959cbaec0deefa3336b46840b0f157) | 0 | 0 | 5 | 5 | 1 | 6 | 15 | 5 | 1 syntax constructions, 5 syntax readouts, 1 accent constructions, 1 accent readouts |
-| PG780 | Containing commit | 0 | 0 | 6 | 6 | 1 | 5 | 12 | 5 | 1 accent constructions, 3 accent readouts |
+| PG780 | [e6b93cd7f8947be7eda5d2a5a595c1e9df65c66c](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/e6b93cd7f8947be7eda5d2a5a595c1e9df65c66c) | 0 | 0 | 6 | 6 | 1 | 5 | 12 | 5 | 1 accent constructions, 3 accent readouts |
+| PG781 | Containing commit | 0 | 0 | 0 | 0 | 0 | 0 | 8 | 4 | — |
 
-Through PG780 the census is 52,349 finite positions, 21,219 nominal positions and 24,007 nominal readings. The PG335 correction is carried through the baseline. Protected registers contribute no new units here.
+Through PG781 the census is 52,349 finite positions, 21,219 nominal positions and 24,007 nominal readings. The PG335 correction is carried through the baseline. Protected registers contribute no new units here.
 
 ## PG772 · Two causal predicates and the changing cases of hotrā in Aitareya 6.14
 
