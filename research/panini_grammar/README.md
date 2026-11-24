@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG761 · [The 3.2.111 bulk replacement and the current upstream source fields](kasika_bulk_replacement_and_current_source_fields/README.md). Compares the full source maps around cd9f92b and the immediate successor, and checks current upstream S2, S3 and S5 records against their frozen pins. 0 new nominal positions and 0 readings. Finite positions and readings both increased by zero.
+
 PG760 · [Duration, age, and the visible or deleted suffix on a term of years](duration_age_and_suppressed_year_suffixes/README.md). Builds 5.1.78–90 with the age/non-age alternatives, future strengthening, obligatory year-suffix loss, two earlier-law-text compounds and the singular rice name. 27 new nominal positions and 43 readings. Finite positions and readings both increased by zero.
 
 PG759 · [The seventeen-syllable quotation and the three cases assigned to tmanyā](seventeen_syllables_and_three_readings_of_tmanyaa/README.md). Locates the Mahābhāṣya wording behind PG747, collates the seventeen-syllable formulas and distinguishes three source-specific analyses of one Ṛgvedic word. 5 new nominal positions and 5 readings. Finite positions and readings both increased by zero.

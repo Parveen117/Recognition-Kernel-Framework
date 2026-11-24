@@ -1,0 +1,103 @@
+{
+  "project_dependencies": [
+    {
+      "commit": "25f63fe26c9a611308dec7384e51de8d83a4c181",
+      "path": "research/panini_grammar/duration_age_and_suppressed_year_suffixes/STATE.json",
+      "git_blob_sha": "caee1422a64b017652832db6126f03ce66bf70fa",
+      "sha256": "11e7ea43519f96313c469d6e71a3ed08359c3b2d9c9605b0cc710f1127e9aa05",
+      "use": "Published baseline"
+    },
+    {
+      "commit": "25f63fe26c9a611308dec7384e51de8d83a4c181",
+      "path": "research/panini_grammar/anadyatana_direct_parent_lung_transition/SOURCES.json",
+      "git_blob_sha": "43015490bdcd3a4d37191022215eec95c15b6b0f",
+      "sha256": "2a07f47de717186d7293f576cecf906efbb0843feb5b022ac57cd4e26109b6e6",
+      "use": "PG477 exact parent and child bytes and frozen field."
+    },
+    {
+      "commit": "25f63fe26c9a611308dec7384e51de8d83a4c181",
+      "path": "research/panini_grammar/anadyatana_direct_parent_lung_transition/HISTORY_CAPTURE.json",
+      "git_blob_sha": "5eb376728c6432e95f8017e7f740e58e9769c387",
+      "sha256": "7c7d9fbef9ccaaaadd987b5b7de8b48bc03b1f3791b21749cbcbb08c369066f7",
+      "use": "The direct child of the transition and its separate timestamp."
+    },
+    {
+      "commit": "25f63fe26c9a611308dec7384e51de8d83a4c181",
+      "path": "research/panini_grammar/anadyatana_two_printed_kasika_prescriptions/RELATION.json",
+      "git_blob_sha": "82c15826fe0cfeca71f75463fcecb7387b8979b7",
+      "sha256": "5527d2a1aea1bf08d5d57d164a5536f015cb2eb74388c6534a051928d4db00ed",
+      "use": "PG706 printed 3.2.110–111 distinction."
+    },
+    {
+      "commit": "25f63fe26c9a611308dec7384e51de8d83a4c181",
+      "path": "research/panini_grammar/dhi_ca_initial_import_transmission_boundary/TRANSMISSION_RECORDS.json",
+      "git_blob_sha": "8a17a27dedd177e2ba16ca96765dc0ec9b190809",
+      "sha256": "548ca128bbcbd821df13e0fa729b515e01c5e13ac2f40ac8c6a01a15ffdde217",
+      "use": "PG463 both frozen decoded 82025 fields."
+    },
+    {
+      "commit": "25f63fe26c9a611308dec7384e51de8d83a4c181",
+      "path": "research/panini_grammar/unadi_4105_initial_import_and_unchanged_affix_row/HISTORY.json",
+      "git_blob_sha": "ad41c8ddbb6862693dcf88782ad89bc32fb5cd11",
+      "sha256": "e2c17433433e12d18f5476bb6e3c3206a519deed4eaf77a136a5b6042b90a228",
+      "use": "PG498 source blob and exact 4.105 label list."
+    },
+    {
+      "commit": "25f63fe26c9a611308dec7384e51de8d83a4c181",
+      "path": "research/panini_grammar/grammar_construction/NATIVE_OPERATOR_LIFT.md",
+      "git_blob_sha": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+      "sha256": "f52e7f5cf539ef56859b890669ef738848491e4005e73be75baa49c899b5dafd",
+      "use": "Full source-qualified native carrier."
+    }
+  ],
+  "source_observations": [
+    {
+      "id": "AB",
+      "locator": "Entire decoded Kāśikā parent and child dictionaries on the 30 December 2023 change",
+      "url": "https://github.com/ashtadhyayi-com/data/commit/cd9f92b000d46045f50419968497839e368f5c55",
+      "observation": "All 3882 shared values change. The parent has 3983 keys and the child 3883. The change removes 101 key addresses and introduces one."
+    },
+    {
+      "id": "NEXT",
+      "locator": "Direct child three minutes and eighteen seconds later",
+      "url": "https://github.com/ashtadhyayi-com/data/commit/366bd9726bf2b42d2ff031297b9f02f50ec7e55d",
+      "observation": "Same 3883 key addresses; only value 11058 changes. No edit of 32111 in this immediate follow-up."
+    },
+    {
+      "id": "NEIGH",
+      "locator": "Kāśikā 32110 and 32111 at the bulk revision",
+      "url": "https://github.com/ashtadhyayi-com/data/blob/cd9f92b000d46045f50419968497839e368f5c55/sutraani/kashika.txt",
+      "observation": "Both now share the contiguous prescription for luṅ. Only 32111 has changed from an operative laṅ. Its illustrative imperfects and later laṅ qualification remain."
+    },
+    {
+      "id": "NOW",
+      "locator": "Default branch at source retrieval, Kāśikā 32111",
+      "url": "https://github.com/ashtadhyayi-com/data/blob/db9a7f1dba06159e6bcd6efb92c9d01857939947/sutraani/kashika.txt",
+      "observation": "All 3983 parent keys are present again. The current target field remains byte-for-byte equal after JSON decoding to the bulk revision."
+    },
+    {
+      "id": "META",
+      "locator": "Commit comments and associated pulls endpoints for cd9f92b",
+      "url": "https://api.github.com/repos/ashtadhyayi-com/data/commits/cd9f92b000d46045f50419968497839e368f5c55/comments",
+      "observation": "Both returned empty arrays at inspection. The commit message is Update kashika.txt. No reason or source edition is given there."
+    },
+    {
+      "id": "BALA",
+      "locator": "Current Bālamanoramā, key 82025",
+      "url": "https://github.com/ashtadhyayi-com/data/blob/db9a7f1dba06159e6bcd6efb92c9d01857939947/sutraani/balamanorama.txt",
+      "observation": "Full decoded field equals PG463's frozen ho ḍhaḥ text."
+    },
+    {
+      "id": "TATT",
+      "locator": "Current Tattvabodhinī, key 82025",
+      "url": "https://github.com/ashtadhyayi-com/data/blob/db9a7f1dba06159e6bcd6efb92c9d01857939947/sutraani/tattvabodhini.txt",
+      "observation": "The other entire decoded field likewise equals the frozen entry."
+    },
+    {
+      "id": "UN",
+      "locator": "Current Uṇādi primary data, 4.105",
+      "url": "https://github.com/ashtadhyayi-com/data/blob/db9a7f1dba06159e6bcd6efb92c9d01857939947/unaadi/data.txt",
+      "observation": "The whole file has the PG498 frozen blob hash, including the four unresolved affix labels."
+    }
+  ]
+}

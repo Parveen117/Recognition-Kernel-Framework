@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG761 · [The 3.2.111 bulk replacement and the current upstream source fields](research/panini_grammar/kasika_bulk_replacement_and_current_source_fields/README.md). Closes the scope of the tracked bulk change and status of the named current fields.
+
 PG760 · [Duration, age, and the visible or deleted suffix on a term of years](research/panini_grammar/duration_age_and_suppressed_year_suffixes/README.md). PG14 recovery preserves time orientation, referent, strengthened member and the history of each deleted suffix.
 
 PG759 · [The seventeen-syllable quotation and the three cases assigned to tmanyā](research/panini_grammar/seventeen_syllables_and_three_readings_of_tmanyaa/README.md). PG14 recovery preserves witness, formula order, word boundary and attributed case.

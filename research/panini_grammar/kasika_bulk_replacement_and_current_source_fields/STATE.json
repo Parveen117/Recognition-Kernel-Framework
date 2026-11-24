@@ -1,0 +1,36 @@
+{
+  "stage": "PG761",
+  "date": "2026-11-24",
+  "publication_parent": "25f63fe26c9a611308dec7384e51de8d83a4c181",
+  "baseline": {
+    "commit": "25f63fe26c9a611308dec7384e51de8d83a4c181",
+    "path": "research/panini_grammar/duration_age_and_suppressed_year_suffixes/STATE.json"
+  },
+  "finite_positions": 52345,
+  "nominal_positions": 20764,
+  "nominal_readings": 23473,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 0,
+  "new_morphology_constructions": 0,
+  "new_morphology_interfaces": 0,
+  "new_source_observations": 8,
+  "new_source_policy_decisions": 4,
+  "open_obligations": [
+    "S3 now has the extent of the replacement, the immediate follow-up and the current raw state. The particular source edition, editorial rationale and repair remain Open. S2's two raw fields and S5's four lexical assignments remain Open.",
+    "Next return to the Vedic year forms at 5.1.91–97. S6 still requires an independently evidenced 5.56 k-it effect."
+  ],
+  "local_closure": "Closes the scope of the tracked bulk change and status of the named current fields.",
+  "global_gates": {
+    "C2–C5": "Open",
+    "S1–S7": "Open",
+    "S5_direct_fields": "99/103",
+    "S6": "Independent 5.56 k-it effect Open"
+  },
+  "protected_registers": {
+    "PG335": "-9 finite positions and -12 readings already applied",
+    "PG340/346, PG349–352, PG355–360, PG357–363": "CLOSED on registered scopes"
+  },
+  "runtime_policy": "Written derivation. Only changed-document, source and count checks. Claude owns grammar execution, generators, untouched suites and replay."
+}

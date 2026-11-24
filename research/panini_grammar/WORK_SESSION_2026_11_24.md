@@ -2,6 +2,12 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG761 · The 3.2.111 bulk replacement and the current upstream source fields
+
+PG761 · [The 3.2.111 bulk replacement and the current upstream source fields](kasika_bulk_replacement_and_current_source_fields/README.md). Compares the full source maps around cd9f92b and the immediate successor, and checks current upstream S2, S3 and S5 records against their frozen pins. 0 new nominal positions and 0 readings. Finite positions and readings both increased by zero. Eight source observations and four source decisions. No new morphology construction or interface. Census: 52,345 finite positions, 20,764 nominal positions and 23,473 nominal readings.
+
+Parent 25f63fe26c9a611308dec7384e51de8d83a4c181. The containing commit pins this packet. S3 now has the extent of the replacement, the immediate follow-up and the current raw state. The particular source edition, editorial rationale and repair remain Open. S2's two raw fields and S5's four lexical assignments remain Open. Next return to the Vedic year forms at 5.1.91–97. S6 still requires an independently evidenced 5.56 k-it effect. C2–C5 and S1–S7 remain Open. Claude retains execution.
+
 ## PG760 · Duration, age, and the visible or deleted suffix on a term of years
 
 PG760 · [Duration, age, and the visible or deleted suffix on a term of years](duration_age_and_suppressed_year_suffixes/README.md). Builds 5.1.78–90 with the age/non-age alternatives, future strengthening, obligatory year-suffix loss, two earlier-law-text compounds and the singular rice name. 27 new nominal positions and 43 readings. Finite positions and readings both increased by zero. One written morphology construction with 33 interfaces, 16 source observations and 6 source decisions. Census: 52,345 finite positions, 20,764 nominal positions and 23,473 nominal readings.

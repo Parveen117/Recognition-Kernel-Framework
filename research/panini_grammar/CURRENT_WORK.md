@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG760
+# Pāṇini grammar · current written coverage at PG761
+
+PG761 · [The 3.2.111 bulk replacement and the current upstream source fields](kasika_bulk_replacement_and_current_source_fields/README.md). Compares the full source maps around cd9f92b and the immediate successor, and checks current upstream S2, S3 and S5 records against their frozen pins. Census: 52,345 finite positions, 20,764 nominal positions and 23,473 nominal readings.
 
 PG760 · [Duration, age, and the visible or deleted suffix on a term of years](duration_age_and_suppressed_year_suffixes/README.md). Builds 5.1.78–90 with the age/non-age alternatives, future strengthening, obligatory year-suffix loss, two earlier-law-text compounds and the singular rice name. Census: 52,345 finite positions, 20,764 nominal positions and 23,473 nominal readings.
 
