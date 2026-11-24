@@ -1,0 +1,80 @@
+{
+  "stage": "PG787",
+  "morphology_interfaces": [
+    {
+      "id": "TONE",
+      "base": "vi + nā under the prior 5.2.27 analysis",
+      "guard": "edition and word located",
+      "affix": "existing indeclinable; no case ending",
+      "result": "vínā, first syllable bears udātta"
+    },
+    {
+      "id": "SPAN",
+      "base": "prādeśa span",
+      "guard": "distance measured between two outlines",
+      "affix": "mātrac under 5.2.37, neuter extent",
+      "result": "prādeśamātram"
+    },
+    {
+      "id": "AGREE",
+      "base": "prādeśa span",
+      "guard": "commentator measures the pits themselves",
+      "affix": "mātrac, adjective in masculine plural",
+      "result": "prādeśamātrān"
+    },
+    {
+      "id": "DRAW",
+      "base": "pari + likh 06.0092",
+      "guard": "narration of the outline procedure",
+      "affix": "tudādi śa, laṭ P 3sg",
+      "result": "parilikhati"
+    },
+    {
+      "id": "SHOULD",
+      "base": "pari + likh 06.0092",
+      "guard": "order prescribed within and between pairs",
+      "affix": "tudādi stem, vidhi-liṅ P 3sg",
+      "result": "parilikhet"
+    }
+  ],
+  "nominal_positions": [
+    {
+      "id": "GAP",
+      "source": "SCAN",
+      "input_history": "SPAN",
+      "case_number": "N ACCsg",
+      "word": "prādeśamātram",
+      "interpretation": "Extent set aside between outlines, construed with an understood interval in Sāyaṇa."
+    },
+    {
+      "id": "PITS",
+      "source": "GLOSS",
+      "input_history": "AGREE",
+      "case_number": "M ACCpl",
+      "word": "prādeśamātrān",
+      "interpretation": "Sāyaṇa’s adjective agrees with the four avaṭān in his explanation."
+    }
+  ],
+  "source_policy_decisions": [
+    {
+      "id": "ACCENT",
+      "sources": "SCAN,KEY,REC",
+      "decision": "Close the named Śatapatha accent witness. Leave historical accent derivation and the relation among manuscripts Open."
+    },
+    {
+      "id": "MEASURE",
+      "sources": "SCAN,GLOSS,TRANS",
+      "decision": "Place the gap and the plural pit adjective in separate case histories. The latter is commentarial."
+    },
+    {
+      "id": "MOOD",
+      "sources": "SCAN,ORDER,PAIR",
+      "decision": "One narrative present and one prescriptive optative. Repeated clauses and the earlier occurrence in a nominal panel add no second instance of either slot."
+    },
+    {
+      "id": "MILK",
+      "sources": "VERSE,VA6,VA8,JIVA",
+      "decision": "Close the explicit ārṣa classification for this commentator. The earlier short verse word and long adjective keep their existing case owners. The two close prose parallels do not provide a historical derivation."
+    }
+  ]
+}

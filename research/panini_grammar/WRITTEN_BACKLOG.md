@@ -1,6 +1,8 @@
-# Written-development backlog at PG786
+# Written-development backlog at PG787
 
-Monty · 2026-11-25 · reviewed parent 519bd08ce2b0c513490ccefc780921235688cd62. Historical closures below retain their exact pins.
+Monty · 2026-11-25 · reviewed parent fc1c29939bb9055a708bc9bfa2c43f3861c5a9b6. Historical closures below retain their exact pins.
+
+PG787 · [The accent of vínā between four pits and Vaṃśīdhara’s two butter forms](an_accented_span_between_pits_and_the_two_butter_forms/README.md). The exact Śatapatha accent address and Vaṃśīdhara’s explanation are locally resolved. Historical affix accent, independent recensional comparison and the development and transmission of the short butter form remain Open. Continue the pronoun-based quantity construction at 5.2.39–41, preserving existing numeral and indeclinable owners. C2–C5 and S1–S7 remain Open.
 
 PG786 · [Two Haima middle perfects of kṛp on one first-person request](two_haima_middle_perfects_of_krp/README.md). S4 now has a separately checkable Haima kṛp pair at 1sg and an explicit person for PG405. An early-middle Pāṇinian analysis, independent historical use and the remaining person, auxiliary and root cells remain Open. Return to the accent in Śatapatha 3.5.4.5 and the two Vaṃśīdhara passages, then continue 5.2.39–40. C2–C5 and S1–S7 remain Open.
 

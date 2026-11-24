@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG786
+# Pāṇini grammar · current written coverage at PG787
+
+PG787 · [The accent of vínā between four pits and Vaṃśīdhara’s two butter forms](an_accented_span_between_pits_and_the_two_butter_forms/README.md). Reads Weber’s accent sign, distinguishes the span between pits from their size, and locates Vaṃśīdhara’s explicit explanation of the short butter word. Census: 52,357 finite positions, 21,305 nominal positions and 24,096 nominal readings.
 
 PG786 · [Two Haima middle perfects of kṛp on one first-person request](two_haima_middle_perfects_of_krp/README.md). Locates both kṛp primary histories in adjacent first-singular middle rows and identifies the person of PG405’s older vṛdh and vṛt witnesses. Census: 52,355 finite positions, 21,303 nominal positions and 24,094 nominal readings.
 

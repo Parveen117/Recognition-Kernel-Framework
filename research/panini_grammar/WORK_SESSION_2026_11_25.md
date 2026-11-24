@@ -2,6 +2,12 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG787 · The accent of vínā between four pits and Vaṃśīdhara’s two butter forms
+
+PG787 · [The accent of vínā between four pits and Vaṃśīdhara’s two butter forms](an_accented_span_between_pits_and_the_two_butter_forms/README.md). Reads Weber’s accent sign, distinguishes the span between pits from their size, and locates Vaṃśīdhara’s explicit explanation of the short butter word. 2 new nominal positions and 2 readings. 2 new finite positions and 2 finite readings. One accent construction with one reading. One written morphology construction with 5 interfaces, 11 source observations and 4 source decisions. Census: 52,357 finite positions, 21,305 nominal positions and 24,096 nominal readings.
+
+Parent fc1c29939bb9055a708bc9bfa2c43f3861c5a9b6. The containing commit pins this packet. The exact Śatapatha accent address and Vaṃśīdhara’s explanation are locally resolved. Historical affix accent, independent recensional comparison and the development and transmission of the short butter form remain Open. Continue the pronoun-based quantity construction at 5.2.39–41, preserving existing numeral and indeclinable owners. C2–C5 and S1–S7 remain Open. Claude retains execution.
+
 ## PG786 · Two Haima middle perfects of kṛp on one first-person request
 
 PG786 · [Two Haima middle perfects of kṛp on one first-person request](two_haima_middle_perfects_of_krp/README.md). Locates both kṛp primary histories in adjacent first-singular middle rows and identifies the person of PG405’s older vṛdh and vṛt witnesses. 0 new nominal positions and 0 readings. Finite positions and readings both increased by zero. Thirteen source observations and four decisions on the existing requests. Census: 52,355 finite positions, 21,303 nominal positions and 24,094 nominal readings.
@@ -140,9 +146,10 @@ The starting census at [PG746](https://github.com/Parveen117/Recognition-Kernel-
 | PG783 | [78092066c1b487c5b51f1560550a3807cc8ba850](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/78092066c1b487c5b51f1560550a3807cc8ba850) | 0 | 0 | 11 | 11 | 1 | 14 | 12 | 5 | 1 syntax constructions, 4 syntax readouts |
 | PG784 | [47b4a66885821c4b4f020c472e920cc49034c844](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/47b4a66885821c4b4f020c472e920cc49034c844) | 2 | 2 | 21 | 22 | 1 | 14 | 17 | 5 | 1 nonfinite constructions, 2 nonfinite readouts |
 | PG785 | [519bd08ce2b0c513490ccefc780921235688cd62](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/519bd08ce2b0c513490ccefc780921235688cd62) | 2 | 2 | 18 | 20 | 1 | 14 | 15 | 5 | — |
-| PG786 | Containing commit | 0 | 0 | 0 | 0 | 0 | 0 | 13 | 4 | — |
+| PG786 | [fc1c29939bb9055a708bc9bfa2c43f3861c5a9b6](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/fc1c29939bb9055a708bc9bfa2c43f3861c5a9b6) | 0 | 0 | 0 | 0 | 0 | 0 | 13 | 4 | — |
+| PG787 | Containing commit | 2 | 2 | 2 | 2 | 1 | 5 | 11 | 4 | 1 accent constructions, 1 accent readings |
 
-Through PG786 the census is 52,355 finite positions, 21,303 nominal positions and 24,094 nominal readings. The PG335 correction is carried through the baseline. Protected registers contribute no new units here.
+Through PG787 the census is 52,357 finite positions, 21,305 nominal positions and 24,096 nominal readings. The PG335 correction is carried through the baseline. Protected registers contribute no new units here.
 
 ## PG772 · Two causal predicates and the changing cases of hotrā in Aitareya 6.14
 

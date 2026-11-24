@@ -1,0 +1,136 @@
+{
+  "project_dependencies": [
+    {
+      "commit": "fc1c29939bb9055a708bc9bfa2c43f3861c5a9b6",
+      "path": "research/panini_grammar/two_haima_middle_perfects_of_krp/STATE.json",
+      "git_blob_sha": "ca42a720cf73080217e042a4237eda848f7f3e05",
+      "sha256": "8afcdd4a71c5008d6875de5c97f2313c8f4b26f5d079c4ef24e52f4a53a041ca",
+      "use": "Published baseline"
+    },
+    {
+      "commit": "fc1c29939bb9055a708bc9bfa2c43f3861c5a9b6",
+      "path": "research/panini_grammar/two_reputations_two_fallen_trees_and_the_accent_of_nana/ACCENT_READOUTS.json",
+      "git_blob_sha": "0a14e23c0792d0ee7b256dcc913d40cee35ca987",
+      "sha256": "42a19d3d583c1204b5ed0b5577a9e4a626826034ef04f7fca4ae6c4e7ecd9002",
+      "use": "PG779 owns the RV nānā accent; the exact Śatapatha address was open."
+    },
+    {
+      "commit": "fc1c29939bb9055a708bc9bfa2c43f3861c5a9b6",
+      "path": "research/panini_grammar/seven_spoken_words_and_the_named_product_of_yesterdays_milking/RELATION.json",
+      "git_blob_sha": "672932a60da1a7104107cc6367ada09c3fdedb80",
+      "sha256": "cc106ed8f6c75c9e853b6adb078041b3971cd6ba56ca4d06bac514184524e04e",
+      "use": "PG777 owns the long accusative and EAT on the short word."
+    },
+    {
+      "commit": "fc1c29939bb9055a708bc9bfa2c43f3861c5a9b6",
+      "path": "research/panini_grammar/three_altar_heights_and_the_reversed_thumb_measure/RELATION.json",
+      "git_blob_sha": "23e36e0fa01a113f68a9bdb2e140a283e2e4a983",
+      "sha256": "7899b67bf058b45d911cdd81647090b93e84b0a1dbb0e12b8a5e9399298e82ad",
+      "use": "PG785 introduced the general mātrac measure and the separate height relations."
+    },
+    {
+      "commit": "fc1c29939bb9055a708bc9bfa2c43f3861c5a9b6",
+      "path": "research/panini_grammar/dental_and_retroflex_wells_in_three_vedic_sources/VEDIC_WELLS.tsv",
+      "git_blob_sha": "7a1f20f594aea2bdfe71a8dca85636f5420aeee0",
+      "sha256": "5239bb52bc9ededa015d94e507dea9d43f5c57c9898e98f3d0765f303517aed2",
+      "use": "A prior occurrence of parilikhati serves as context for an accusative well in 3.6.1.3."
+    },
+    {
+      "commit": "fc1c29939bb9055a708bc9bfa2c43f3861c5a9b6",
+      "path": "research/panini_grammar/hrdaya_lekha_exact_affix_and_surface_nonfactorability/SOURCES.json",
+      "git_blob_sha": "f1e276c729f90672d6b16fdd5b7ede95eebc508e",
+      "sha256": "25d81b29daa0702e862d6202865a7b20e5d41a1a54395d47ba792987a93bb852",
+      "use": "Frozen Dhātupāṭha root, class and voice, 06.0092."
+    },
+    {
+      "commit": "fc1c29939bb9055a708bc9bfa2c43f3861c5a9b6",
+      "path": "research/panini_grammar/grammar_construction/NATIVE_OPERATOR_LIFT.md",
+      "git_blob_sha": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+      "sha256": "f52e7f5cf539ef56859b890669ef738848491e4005e73be75baa49c899b5dafd",
+      "use": "Full operator, pairing and the earlier zero-reading."
+    }
+  ],
+  "source_observations": [
+    {
+      "id": "SCAN",
+      "locator": "Weber, Śatapatha Brāhmaṇa, Mādhyandina 3.5.4.5, p. 276",
+      "url": "https://sanskrit-lexicon-scans.github.io/shatapathabr/pdfpages/shat-0297.pdf",
+      "observation": "A single lower stroke lies under vi in the word following the span measure. The numeral ending the sentence is 5."
+    },
+    {
+      "id": "KEY",
+      "locator": "Weber, edition introduction, Accentuation",
+      "url": "https://vishvasa.github.io/vedAH_yajuH/vAjasaneyam/mAdhyandinam/shatapatha-brAhmaNam/meta/weber-srotaH/meta/weber_intro/",
+      "observation": "The edition prints a single stroke below the udātta itself and doubles the sign below the syllable preceding its svarita."
+    },
+    {
+      "id": "REC",
+      "locator": "Mādhyandina 3.5.4.3–5, recitation and transcriptions",
+      "url": "https://vishvasa.github.io/vedAH_yajuH/vAjasaneyam/mAdhyandinam/shatapatha-brAhmaNam/sarva-prastutiH/03/05/4/",
+      "observation": "The preceding context supplies the pits. The marked transcription represents initial udātta on vinā; the machine segmentation is labelled separately."
+    },
+    {
+      "id": "GLOSS",
+      "locator": "Sāyaṇa, same paragraph 5",
+      "url": "https://vishvasa.github.io/vedAH_yajuH/vAjasaneyam/mAdhyandinam/shatapatha-brAhmaNam/sarva-prastutiH/03/05/4/",
+      "observation": "Explains a span of space between successive pits and names four pits measured by a span. His plural adjective differs grammatically from the measure in the recited sentence."
+    },
+    {
+      "id": "TRANS",
+      "locator": "Eggeling, Śatapatha III.5.4.5, translation and note",
+      "url": "https://original.sacred-texts.com/hin/sbr/sbe26/sbe2622.htm",
+      "observation": "Renders the reserved span as an interval while the outlines are drawn."
+    },
+    {
+      "id": "ORDER",
+      "locator": "Weber, p. 276, paragraph 6",
+      "url": "https://sanskrit-lexicon-scans.github.io/shatapathabr/pdfpages/shat-0297.pdf",
+      "observation": "The optative of the outline verb follows a pair of eastern pits and the specification of their southern member."
+    },
+    {
+      "id": "PAIR",
+      "locator": "Mādhyandina 3.5.4.6, named eastern and western pairs",
+      "url": "https://vishvasa.github.io/vedAH_yajuH/vAjasaneyam/mAdhyandinam/shatapatha-brAhmaNam/sarva-prastutiH/03/05/4/",
+      "observation": "The paragraph gives an order within each pair and uses the same optative again. Repetition carries zero extra finite positions."
+    },
+    {
+      "id": "VERSE",
+      "locator": "Bhāgavata 10.9.6 and 10.9.8, verse layer",
+      "url": "https://github.com/vishvAsa/purANam_vaiShNavam/blob/b417ced9c3b271c411ddc4929be6fc50636b57df/bhAgavatam/gauDIya-prastutiH/10/01-11/09.md",
+      "observation": "The verse uses the short stem. PG777 owns the accusative on eating and its repetition at the distribution."
+    },
+    {
+      "id": "VA6",
+      "locator": "Vaṃśīdhara Bhāvārthadīpikāprakāśa on 10.9.6, line 360",
+      "url": "https://github.com/vishvAsa/purANam_vaiShNavam/blob/b417ced9c3b271c411ddc4929be6fc50636b57df/bhAgavatam/gauDIya-prastutiH/10/01-11/09.md#L360",
+      "observation": "Sets a long form next to the short verse form and invokes ārṣa usage. The electronic quotation of the named-product rule has an irregular spelling."
+    },
+    {
+      "id": "VA8",
+      "locator": "Vaṃśīdhara on 10.9.8, line 496",
+      "url": "https://github.com/vishvAsa/purANam_vaiShNavam/blob/b417ced9c3b271c411ddc4929be6fc50636b57df/bhAgavatam/gauDIya-prastutiH/10/01-11/09.md#L496",
+      "observation": "Uses the long word for the remaining butter in his own exposition."
+    },
+    {
+      "id": "JIVA",
+      "locator": "Jīva Gosvāmī, Laghuvaiṣṇavatoṣaṇī on 10.9.8",
+      "url": "https://github.com/vishvAsa/purANam_vaiShNavam/blob/b417ced9c3b271c411ddc4929be6fc50636b57df/bhAgavatam/gauDIya-prastutiH/10/01-11/09.md",
+      "observation": "The same long form occurs in closely parallel expository wording. This parallel does not demonstrate independent transmission."
+    }
+  ],
+  "checked_external_files": [
+    {
+      "url": "https://sanskrit-lexicon-scans.github.io/shatapathabr/pdfpages/shat-0297.pdf",
+      "sha256": "04ca08d8cdf1604d2a24496fb59a90c191d55179877007637784c9bde4eaab06",
+      "bytes": 532246
+    },
+    {
+      "url": "https://github.com/vishvAsa/purANam_vaiShNavam/blob/b417ced9c3b271c411ddc4929be6fc50636b57df/bhAgavatam/gauDIya-prastutiH/10/01-11/09.md",
+      "sha256": "b918f32f56c8830b8ba75ba435b6bf21c6565f938e62ac98d10bb67f92b44192",
+      "bytes": 258053,
+      "commit": "b417ced9c3b271c411ddc4929be6fc50636b57df",
+      "path": "bhAgavatam/gauDIya-prastutiH/10/01-11/09.md",
+      "git_blob_sha": "12d773c25573979dd377f8760aa674fb8c32dc21"
+    }
+  ]
+}

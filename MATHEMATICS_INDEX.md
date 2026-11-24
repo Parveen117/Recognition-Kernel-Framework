@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG787 · [The accent of vínā between four pits and Vaṃśīdhara’s two butter forms](research/panini_grammar/an_accented_span_between_pits_and_the_two_butter_forms/README.md). Two finite requests and two measured case positions accompany the located indeclinable accent.
+
 PG786 · [Two Haima middle perfects of kṛp on one first-person request](research/panini_grammar/two_haima_middle_perfects_of_krp/README.md). Source collation on existing PG175, PG189 and PG405 requests.
 
 PG785 · [Three altar heights and the thumb as a standard](research/panini_grammar/three_altar_heights_and_the_reversed_thumb_measure/README.md). The full carrier retains vertical direction, textual school, the measured participant and the two active predicates.

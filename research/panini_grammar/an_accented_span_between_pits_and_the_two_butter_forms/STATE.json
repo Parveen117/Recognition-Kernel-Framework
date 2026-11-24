@@ -1,0 +1,38 @@
+{
+  "stage": "PG787",
+  "date": "2026-11-25",
+  "publication_parent": "fc1c29939bb9055a708bc9bfa2c43f3861c5a9b6",
+  "baseline": {
+    "commit": "fc1c29939bb9055a708bc9bfa2c43f3861c5a9b6",
+    "path": "research/panini_grammar/two_haima_middle_perfects_of_krp/STATE.json"
+  },
+  "finite_positions": 52357,
+  "nominal_positions": 21305,
+  "nominal_readings": 24096,
+  "new_finite_positions": 2,
+  "new_finite_readings": 2,
+  "new_nominal_positions": 2,
+  "new_nominal_readings": 2,
+  "new_morphology_constructions": 1,
+  "new_morphology_interfaces": 5,
+  "new_source_observations": 11,
+  "new_source_policy_decisions": 4,
+  "new_accent_constructions": 1,
+  "new_accent_readings": 1,
+  "open_obligations": [
+    "The exact Śatapatha accent address and Vaṃśīdhara’s explanation are locally resolved. Historical affix accent, independent recensional comparison and the development and transmission of the short butter form remain Open.",
+    "Continue the pronoun-based quantity construction at 5.2.39–41, preserving existing numeral and indeclinable owners."
+  ],
+  "local_closure": "Two finite requests and two measured case positions accompany the located indeclinable accent.",
+  "global_gates": {
+    "C2–C5": "Open",
+    "S1–S7": "Open",
+    "S5_direct_fields": "99/103",
+    "S6": "Independent 5.56 k-it effect Open"
+  },
+  "protected_registers": {
+    "PG335": "-9 finite positions and -12 readings already applied",
+    "PG340/346, PG349–352, PG355–360, PG357–363": "CLOSED on registered scopes"
+  },
+  "runtime_policy": "Written derivation. Only changed-document, source and count checks. Claude owns grammar execution, generators, untouched suites and replay."
+}
