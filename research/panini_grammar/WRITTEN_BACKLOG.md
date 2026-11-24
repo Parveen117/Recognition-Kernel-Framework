@@ -1,6 +1,8 @@
-# Written-development backlog at PG782
+# Written-development backlog at PG783
 
-Monty · 2026-11-25 · reviewed parent 08d74d39a4fe871c4d7d0e1a6d98f1e967025271. Historical closures below retain their exact pins.
+Monty · 2026-11-25 · reviewed parent 31645b9b433a2a90afb01f41532ea27dc6e690c6. Historical closures below retain their exact pins.
+
+PG783 · [The bend of a nose, a pair of eyes and the fist that opens](nose_bend_eye_pair_and_the_fist_that_opens/README.md). The transmission of the erroneous k equation and the independent origin of the b spelling at 5.2.30 remain Open. The Raghuvaṃśa commentator establishes the self-agent reading at his verse only. Continue the mountain sites, effort and emergence at 5.2.34–36. The two maintainer questions in the dated handoff continue to govern S2 and S3. C2–C5 and S1–S7 remain Open.
 
 PG782 · [Wide horns, the two Rāmas and the oil poured for the fawn](wide_horns_the_two_ramas_and_the_oil_poured_for_the_fawn/README.md). The historical analyses of conventional quality words, the exact transmission of the oil-name variants and wider primary attestations of the supplements remain Open. Continue the two ava openings and the named nose shapes at 5.2.30–32. The check of the older 5.2.37 height construction remains separate from this verse’s quality and finite positions. C2–C5 and S1–S7 remain Open.
 

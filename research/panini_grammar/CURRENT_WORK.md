@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG782
+# Pāṇini grammar · current written coverage at PG783
+
+PG783 · [The bend of a nose, a pair of eyes and the fist that opens](nose_bend_eye_pair_and_the_fist_that_opens/README.md). Constructs 5.2.30–33 with independent texts for the grip and the nose compound, and traces two similar words to different replacements. Census: 52,351 finite positions, 21,264 nominal positions and 24,052 nominal readings.
 
 PG782 · [Wide horns, the two Rāmas and the oil poured for the fawn](wide_horns_the_two_ramas_and_the_oil_poured_for_the_fawn/README.md). Constructs the named extensions at 5.2.28–29 and derives a past narrative laṭ in Bhaṭṭi and a passive laṅ in Kālidāsa. Census: 52,351 finite positions, 21,253 nominal positions and 24,041 nominal readings.
 

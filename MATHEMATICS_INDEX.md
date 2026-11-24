@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG783 · [The bend of a nose, a pair of eyes and the fist that opens](research/panini_grammar/nose_bend_eye_pair_and_the_fist_that_opens/README.md). The written role history of Mallinātha’s perfect extends PG14 while retaining PG343 and PG359 finite ownership.
+
 PG782 · [Wide horns, the two Rāmas and the oil poured for the fawn](research/panini_grammar/wide_horns_the_two_ramas_and_the_oil_poured_for_the_fawn/README.md). The morphology of two witnessed predicates and the scope of the nominal supplements retain separate histories.
 
 PG781 · [Tiras in the Osmania main text and apparatus at 1.4.72 and 8.3.42](research/panini_grammar/tiras_in_the_osmania_main_text_and_apparatus/README.md). Adds source evidence to S7 on existing form histories.

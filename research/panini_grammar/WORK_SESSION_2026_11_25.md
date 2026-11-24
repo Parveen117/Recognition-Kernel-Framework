@@ -2,6 +2,12 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG783 · The bend of a nose, a pair of eyes and the fist that opens
+
+PG783 · [The bend of a nose, a pair of eyes and the fist that opens](nose_bend_eye_pair_and_the_fist_that_opens/README.md). Constructs 5.2.30–33 with independent texts for the grip and the nose compound, and traces two similar words to different replacements. 11 new nominal positions and 11 readings. Finite positions and readings both increased by zero. One syntax construction with [four role readings](nose_bend_eye_pair_and_the_fist_that_opens/SYNTAX_READOUTS.json). One written morphology construction with 14 interfaces, 12 source observations and 5 source decisions. Census: 52,351 finite positions, 21,264 nominal positions and 24,052 nominal readings.
+
+Parent 31645b9b433a2a90afb01f41532ea27dc6e690c6. The containing commit pins this packet. The transmission of the erroneous k equation and the independent origin of the b spelling at 5.2.30 remain Open. The Raghuvaṃśa commentator establishes the self-agent reading at his verse only. Continue the mountain sites, effort and emergence at 5.2.34–36. The two maintainer questions in the dated handoff continue to govern S2 and S3. C2–C5 and S1–S7 remain Open. Claude retains execution.
+
 ## PG782 · Wide horns, the two Rāmas and the oil poured for the fawn
 
 PG782 · [Wide horns, the two Rāmas and the oil poured for the fawn](wide_horns_the_two_ramas_and_the_oil_poured_for_the_fawn/README.md). Constructs the named extensions at 5.2.28–29 and derives a past narrative laṭ in Bhaṭṭi and a passive laṅ in Kālidāsa. 34 new nominal positions and 34 readings. 2 new finite positions and 2 finite readings. One written morphology construction with 15 interfaces, 15 source observations and 5 source decisions. Census: 52,351 finite positions, 21,253 nominal positions and 24,041 nominal readings.
@@ -112,9 +118,10 @@ The starting census at [PG746](https://github.com/Parveen117/Recognition-Kernel-
 | PG779 | [1268f8f070959cbaec0deefa3336b46840b0f157](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/1268f8f070959cbaec0deefa3336b46840b0f157) | 0 | 0 | 5 | 5 | 1 | 6 | 15 | 5 | 1 syntax constructions, 5 syntax readouts, 1 accent constructions, 1 accent readouts |
 | PG780 | [e6b93cd7f8947be7eda5d2a5a595c1e9df65c66c](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/e6b93cd7f8947be7eda5d2a5a595c1e9df65c66c) | 0 | 0 | 6 | 6 | 1 | 5 | 12 | 5 | 1 accent constructions, 3 accent readouts |
 | PG781 | [08d74d39a4fe871c4d7d0e1a6d98f1e967025271](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/08d74d39a4fe871c4d7d0e1a6d98f1e967025271) | 0 | 0 | 0 | 0 | 0 | 0 | 8 | 4 | — |
-| PG782 | Containing commit | 2 | 2 | 34 | 34 | 1 | 15 | 15 | 5 | — |
+| PG782 | [31645b9b433a2a90afb01f41532ea27dc6e690c6](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/31645b9b433a2a90afb01f41532ea27dc6e690c6) | 2 | 2 | 34 | 34 | 1 | 15 | 15 | 5 | — |
+| PG783 | Containing commit | 0 | 0 | 11 | 11 | 1 | 14 | 12 | 5 | 1 syntax constructions, 4 syntax readouts |
 
-Through PG782 the census is 52,351 finite positions, 21,253 nominal positions and 24,041 nominal readings. The PG335 correction is carried through the baseline. Protected registers contribute no new units here.
+Through PG783 the census is 52,351 finite positions, 21,264 nominal positions and 24,052 nominal readings. The PG335 correction is carried through the baseline. Protected registers contribute no new units here.
 
 ## PG772 · Two causal predicates and the changing cases of hotrā in Aitareya 6.14
 

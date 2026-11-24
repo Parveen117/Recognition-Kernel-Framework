@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG783 · [The bend of a nose, a pair of eyes and the fist that opens](nose_bend_eye_pair_and_the_fist_that_opens/README.md). Constructs 5.2.30–33 with independent texts for the grip and the nose compound, and traces two similar words to different replacements. 11 new nominal positions and 11 readings. Finite positions and readings both increased by zero.
+
 PG782 · [Wide horns, the two Rāmas and the oil poured for the fawn](wide_horns_the_two_ramas_and_the_oil_poured_for_the_fawn/README.md). Constructs the named extensions at 5.2.28–29 and derives a past narrative laṭ in Bhaṭṭi and a passive laṅ in Kālidāsa. 34 new nominal positions and 34 readings. 2 new finite positions and 2 finite readings.
 
 PG781 · [Tiras in the Osmania main text and apparatus at 1.4.72 and 8.3.42](tiras_in_the_osmania_main_text_and_apparatus/README.md). Locates the contested ktvā spelling and the editors’ explicit objection, then collates the sound rule’s main text and apparatus in the same edition. 0 new nominal positions and 0 readings. Finite positions and readings both increased by zero.

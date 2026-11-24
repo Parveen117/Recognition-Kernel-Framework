@@ -1,0 +1,220 @@
+{
+  "stage": "PG783",
+  "morphology_interfaces": [
+    {
+      "id": "DOWN",
+      "base": "ava in downward sense",
+      "guard": "direction",
+      "affix": "kuṭārac or kaṭac by ca",
+      "result": "avakuṭāra or avakaṭa"
+    },
+    {
+      "id": "AVABEND",
+      "base": "ava",
+      "guard": "conventional name of the bend of a nose",
+      "affix": "ṭīṭac, nāṭac or bhraṭac",
+      "result": "avaṭīṭam, avanāṭam or avabhraṭam"
+    },
+    {
+      "id": "AVABODY",
+      "base": "named bend with its bearer",
+      "guard": "association with nose or person",
+      "affix": "agreement with the selected referent",
+      "result": "avaṭīṭā for the nose, avaṭīṭaḥ for a man"
+    },
+    {
+      "id": "NIBEND",
+      "base": "ni",
+      "guard": "same named bend",
+      "affix": "biḍac or birīsac",
+      "result": "nibiḍam or nibirīsam"
+    },
+    {
+      "id": "NIBODY",
+      "base": "bend in relation to a person",
+      "guard": "agreement on bearer",
+      "affix": "associated application",
+      "result": "nibiḍaḥ or nibirīsaḥ"
+    },
+    {
+      "id": "LIKENESS",
+      "base": "dense hair or cloth",
+      "guard": "comparison licensed by Kāśikā",
+      "affix": "use the established adjective in agreement",
+      "result": "nibiḍāḥ or nibiḍam"
+    },
+    {
+      "id": "FIRST",
+      "base": "ni",
+      "guard": "first of the ordered pair",
+      "affix": "cika with inac",
+      "result": "cikinaḥ"
+    },
+    {
+      "id": "SECOND",
+      "base": "ni",
+      "guard": "second of the ordered pair",
+      "affix": "ci with piṭac",
+      "result": "cipiṭaḥ"
+    },
+    {
+      "id": "THIRD",
+      "base": "ni",
+      "guard": "separate supplement",
+      "affix": "cik with ka",
+      "result": "cikkaḥ"
+    },
+    {
+      "id": "EYES",
+      "base": "klinna",
+      "guard": "name the affected eyes themselves",
+      "affix": "cil, pil or cul with la",
+      "result": "cille, pille or culle in the dual"
+    },
+    {
+      "id": "PERSON",
+      "base": "eye condition present in the person",
+      "guard": "retain the text and argument",
+      "affix": "association in Kāśikā, possessive a in the Bhāṣya’s answer",
+      "result": "cillaḥ, pillaḥ or cullaḥ"
+    },
+    {
+      "id": "FIRM",
+      "base": "grip of the hand",
+      "guard": "attested firmness",
+      "affix": "nibiḍa agrees with the fist",
+      "result": "nibiḍo ’pi muṣṭiḥ"
+    },
+    {
+      "id": "SELF",
+      "base": "bhid and the singular fist",
+      "guard": "affected entity acts of itself on the commentator’s reading",
+      "affix": "PG343/359 own the finite surface and person grids",
+      "result": "bibhide"
+    },
+    {
+      "id": "COMPOUND",
+      "base": "cipiṭa as descriptor inside a compound",
+      "guard": "archaic text’s descriptive expression",
+      "affix": "cipiṭa plus nāsa, masculine agreement with person",
+      "result": "cipiṭanāsaḥ"
+    }
+  ],
+  "nominal_positions": [
+    {
+      "id": "NOSE",
+      "source": "SK",
+      "input_history": "AVABODY",
+      "case_number": "F NOMsg",
+      "word": "avaṭīṭā",
+      "interpretation": "The nose itself is the feminine referent."
+    },
+    {
+      "id": "HAIR",
+      "source": "K32",
+      "input_history": "LIKENESS",
+      "case_number": "M NOMpl",
+      "word": "nibiḍāḥ",
+      "interpretation": "Plural agreement with hairs in the commentators’ question."
+    },
+    {
+      "id": "CLOTH",
+      "source": "K32",
+      "input_history": "LIKENESS",
+      "case_number": "N NOMsg",
+      "word": "nibiḍam",
+      "interpretation": "Neuter agreement with the cloth in the nominative citation. The written neuter also occurs as the name for the bend, recorded among the interfaces."
+    },
+    {
+      "id": "EYE1",
+      "source": "K33",
+      "input_history": "EYES",
+      "case_number": "N NOMdu",
+      "word": "cille",
+      "interpretation": "Predicated of both eyes in the citation."
+    },
+    {
+      "id": "EYE2",
+      "source": "K33",
+      "input_history": "EYES",
+      "case_number": "N NOMdu",
+      "word": "pille",
+      "interpretation": "Second replacement on the same dual target."
+    },
+    {
+      "id": "EYE3",
+      "source": "K33",
+      "input_history": "EYES",
+      "case_number": "N NOMdu",
+      "word": "culle",
+      "interpretation": "Third replacement in the Kāśikā dual series."
+    },
+    {
+      "id": "GRIP",
+      "source": "RV",
+      "input_history": "FIRM",
+      "case_number": "M NOMsg",
+      "word": "nibiḍaḥ",
+      "interpretation": "Normalized final s in the nominative adjective, joined nibiḍo in the verse."
+    },
+    {
+      "id": "FIST",
+      "source": "RV",
+      "input_history": "SELF",
+      "case_number": "M NOMsg",
+      "word": "muṣṭiḥ",
+      "interpretation": "The singular fist opens."
+    },
+    {
+      "id": "OWNER",
+      "source": "RV",
+      "input_history": "SELF",
+      "case_number": "M GENsg",
+      "word": "tasya",
+      "interpretation": "The king whose fist is in question. The commentary explicitly supplies nṛpasya."
+    },
+    {
+      "id": "RECALL",
+      "source": "RV",
+      "input_history": "SELF",
+      "case_number": "M GENsg",
+      "word": "smarataḥ",
+      "interpretation": "The same possessor is remembering, in agreement with tasya."
+    },
+    {
+      "id": "FLAT",
+      "source": "BS",
+      "input_history": "COMPOUND",
+      "case_number": "M NOMsg",
+      "word": "cipiṭanāsaḥ",
+      "interpretation": "The compound adjective applies to the person. The nose is internal to it."
+    }
+  ],
+  "source_policy_decisions": [
+    {
+      "id": "DOWNWARD",
+      "sources": "K30,K31,SK",
+      "decision": "The 5.2.30 direction and the 5.2.31 conventional name require distinct histories. The compared sources disagree locally on one letter in 30. No extra suffix or reading is credited for it."
+    },
+    {
+      "id": "TRANSFER",
+      "sources": "K31,SK,K32,RV,MALL",
+      "decision": "Distinguish name of a bending, body part, associated person, and explicit analogies for hair and cloth. The verse establishes ordinary firm-grip usage. It does not itself derive that usage from a nose."
+    },
+    {
+      "id": "PAIR",
+      "sources": "K33,MB,EN",
+      "decision": "Exclude cillaḥ as the output of cik plus ka. Retain it on the different klinna eye route, and preserve the possessive-a explanation in the Bhāṣya. Record the cause of the English discrepancy as Open."
+    },
+    {
+      "id": "ROLE",
+      "sources": "RV,MALL,K87",
+      "decision": "The fist is both the entity undergoing change and the grammatical subject on Mallinātha’s reading. The king is its possessor. The poem supplies new role evidence and zero new finite words."
+    },
+    {
+      "id": "COMPOUND",
+      "sources": "BS,BS2,K33",
+      "decision": "Two edition addresses attest the same descriptive compound. Its masculine case belongs to the person. The standalone nasal derivative and internal compound member keep separate ownership."
+    }
+  ]
+}
