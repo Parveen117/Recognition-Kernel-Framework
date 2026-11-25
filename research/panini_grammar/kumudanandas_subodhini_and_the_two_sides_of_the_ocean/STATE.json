@@ -1,0 +1,146 @@
+{
+  "stage": "PG871",
+  "publication_parent": "58a11f242f71f9fe06934625e2497aa76957938b",
+  "baseline": "../sitas_waist_and_the_raksasis_departure/STATE.json",
+  "finite_positions": 52495,
+  "nominal_positions": 25661,
+  "nominal_readings": 29301,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 0,
+  "new_morphology_constructions": 0,
+  "new_morphology_interfaces": 0,
+  "source_decisions": [
+    "TWO_DISTINCT_SUBODHINI_TITLES",
+    "KUMUDANANDA_NAMED_IN_INITIAL_AND_COLOPHON_AT_1636",
+    "SEPARATE_SANKSIPTASARA_OWNER_AT_1637",
+    "END_EXCERPT_IDENTIFIED_AT_8_107",
+    "ABLATED_AND_GENITIVE_OCEAN_STANDARDS",
+    "ENAP_STANDARD_AND_TRAVERSED_OBJECTS",
+    "WIND_AGREEMENT_RESOLVES_CASE",
+    "GARUDA_WITH_VINA"
+  ],
+  "sources": {
+    "editions": {
+      "jayamangala": {
+        "item": "b3009303x",
+        "file": "b3009303x.pdf",
+        "pdf_sha256": "87059e6ea2e48e4755df0e675ff9999b15bdc9a31601609ccfae100a2d9a20aa",
+        "printed_page": 194,
+        "archive_leaf": 201
+      },
+      "mallinatha": {
+        "item": "BhattikavyaWithTheCommentaryOfMallinathaPart1CantosI-ix",
+        "file": "Bhatti-kavyaOrRavanavadhaVol.1Cantos1.pdf",
+        "pdf_sha256": "cc1e25fa4643d7528979dc01f9b1d9cb466fa1ff4ce5c29032f6e5e848493693",
+        "printed_pages": [
+          "xxiii",
+          "xxiv",
+          253,
+          297,
+          298
+        ],
+        "archive_leaves": [
+          31,
+          32,
+          295,
+          339,
+          340
+        ]
+      }
+    },
+    "gretil": {
+      "url": "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/5_poetry/2_kavya/bhattiku.htm",
+      "sha256": "3b4e0876703db37e0d07bafa13aba8bd137105d19f212c24073a4197ceeff167",
+      "key": "Bhk_8.107–109"
+    },
+    "upstream": {
+      "repository": "ashtadhyayi-com/data",
+      "commit": "5744762f010d677cfb43f347a42d02796cf615d6",
+      "files": {
+        "sutraani/kashika.txt": {
+          "blob": "e525df7668835ef1dd7c5988c031da07ce0c162b",
+          "keys": [
+            "23029",
+            "23030",
+            "23031",
+            "23032",
+            "53028",
+            "53035",
+            "53037",
+            "53038"
+          ]
+        }
+      }
+    },
+    "repository_blobs": {
+      "sitas_waist_and_the_raksasis_departure/STATE.json": "db816f51ef776fb4d4240e2c09b10c98f8c64987",
+      "mallinathas_bhatti_variant_and_yam_in_disclosure/README.md": "67397da514380ad71bebc1f7db1958c1de5d6cb2",
+      "directional_astati_atasuc_and_distance_adverbs/RELATION.json": "df87c8c7bc896edb0e1db3d9520a3ad6f26b622f",
+      "directional_astati_atasuc_and_distance_adverbs/PANELS.md": "e9ed311f7e09a60af09755ff13383f62bdd488a3",
+      "compound_case_derivation/RULES_2_3_A.md": "fd1ab992dfab07a1771583d28b56d21a5c6c02aa",
+      "grammar_construction/NATIVE_OPERATOR_LIFT.md": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b"
+    },
+    "mitra": {
+      "work": "Notices of Sanskrit MSS, IV (1877)",
+      "printed_page": 209,
+      "entries": [
+        1636,
+        1637
+      ],
+      "scan": "https://www.wisdomlib.org/uploads/ocr/essays/notices-sanskrit/1877-vol4/notices-sanskrit-vol4/229.jpg",
+      "sha256": "818e3eae5a3e46c518378d973c2e99dc609cb83a00f765cdb639fd41fb51c47c"
+    }
+  },
+  "execution": "Claude-deferred",
+  "new_syntax_constructions": 5,
+  "new_syntax_interfaces": 10,
+  "clause_frames": [
+    [
+      "8.107 north of the ocean",
+      "uttarāhi",
+      "samudrāt",
+      "Rāma",
+      "5.3.38",
+      "2.3.29"
+    ],
+    [
+      "8.107 south of the ocean",
+      "dakṣiṇataḥ",
+      "lavaṇatoyasya",
+      "city of the rākṣasas",
+      "5.3.28",
+      "2.3.30"
+    ],
+    [
+      "8.108 south of the Daṇḍakas",
+      "dakṣiṇena",
+      "daṇḍakān",
+      "Sītā in her account of removal",
+      "5.3.35",
+      "2.3.31"
+    ],
+    [
+      "8.109 apart from the wind",
+      "pṛthak",
+      "nabhasvataḥ (qualified by caṇḍāt)",
+      "wind",
+      "indeclinable",
+      "2.3.32"
+    ],
+    [
+      "8.109 without Garuḍa",
+      "vinā",
+      "vainateyena",
+      "Garuḍa",
+      "indeclinable",
+      "2.3.32"
+    ]
+  ],
+  "prior_direction_keys": [
+    "UH38L",
+    "DS28L",
+    "DE35L"
+  ]
+}

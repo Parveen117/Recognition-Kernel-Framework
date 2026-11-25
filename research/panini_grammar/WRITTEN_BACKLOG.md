@@ -1,4 +1,6 @@
-# Written-development backlog at PG870
+# Written-development backlog at PG871
+
+PG871 · [Kumudānanda’s Subodhinī and the two sides of the ocean](kumudanandas_subodhini_and_the_two_sides_of_the_ocean/README.md). The 1636 excerpt and five syntax frames are closed. S1 needs a witness to VII.103 and the mood of its separate reading. C2–C5, the remaining source gates and Claude’s execution retain their own obligations.
 
 PG870 · [Sītā’s slender waist and the departure of the rākṣasīs](sitas_waist_and_the_raksasis_departure/README.md). Feminine suṣupsu and both quality-stem branches of tanu are closed on these case requests. The separate recognition clause and inherited C2–C5 and S1–S7 still need work.
 

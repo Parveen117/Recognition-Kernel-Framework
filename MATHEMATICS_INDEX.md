@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG871 · [Kumudānanda’s Subodhinī and the two sides of the ocean](research/panini_grammar/kumudanandas_subodhini_and_the_two_sides_of_the_ocean/README.md). Two references to a single ocean select distinct case operators on source-labelled histories.
+
 PG870 · [Sītā’s slender waist and the departure of the rākṣasīs](research/panini_grammar/sitas_waist_and_the_raksasis_departure/README.md). A single case address supports alternative feminine stems and separate ṅit histories. The paired history retains both commentator-specific case assignments.
 
 PG869 · [Seven desiderative agents in Bhaṭṭi’s warning](research/panini_grammar/seven_desiderative_agents_in_bhattis_warning/README.md). Root-specific iṭ and kit decisions, outer agent u, agreement and the indeclinable comparison retain independent histories.

@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG870
+# Pāṇini grammar · current written coverage at PG871
+
+PG871 · [Kumudānanda’s Subodhinī and the two sides of the ocean](kumudanandas_subodhini_and_the_two_sides_of_the_ocean/README.md). Mitra’s Kumudānanda excerpt is located at VIII.107. Five new syntax constructions, zero inflectional additions. Census 52,495 finite, 25,661 nominal positions and 29,301 nominal readings.
 
 PG870 · [Sītā’s slender waist and the departure of the rākṣasīs](sitas_waist_and_the_raksasis_departure/README.md). 47 new nominal positions and 79 readings. Census 52,495 finite, 25,661 nominal positions and 29,301 nominal readings.
 

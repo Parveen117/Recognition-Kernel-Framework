@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG871 · [Kumudānanda’s Subodhinī and the two sides of the ocean](kumudanandas_subodhini_and_the_two_sides_of_the_ocean/README.md). The historical palm-leaf notice and two commentaries fix the directional passage. Five case relations retain their distinct governors.
+
 PG870 · [Sītā’s slender waist and the departure of the rākṣasīs](sitas_waist_and_the_raksasis_departure/README.md). Jayamaṅgalā and Mallinātha assign the waist instrumental on different grounds. Their destination words differ in number.
 
 PG869 · [Seven desiderative agents in Bhaṭṭi’s warning](seven_desiderative_agents_in_bhattis_warning/README.md). All six roots listed under 1.2.8 occur in two consecutive stanzas. Budh in the next stanza uses a different kit condition.
