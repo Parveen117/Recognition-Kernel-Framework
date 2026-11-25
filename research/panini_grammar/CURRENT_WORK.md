@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG840
+# Pāṇini grammar · current written coverage at PG841
+
+PG841 · [Sima in six hymns and the three agreement genders](sima_in_six_hymns_and_the_three_agreement_genders/README.md). Three agreement genders and six hymns. The accusative object and nominative subject interpretations at 10.28.11 have separate owners. New 62 nominal positions/65 readings, finite 0/0. Census 52,368 finite, 22,847 nominal positions/25,825 nominal readings.
 
 PG840 · [Two roots for Sītā’s words about the enemies in Bhaṭṭi 14.57](two_roots_for_the_enemies_in_bhatti_14_57/README.md). Bhaṭṭi 14.57 locates the second Mādhavīya quotation. Two new finite positions/three selected readings, nominal 0/0. Census 52,368 finite, 22,785 nominal positions/25,760 nominal readings.
 

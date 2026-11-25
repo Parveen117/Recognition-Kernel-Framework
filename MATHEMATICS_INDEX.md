@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG841 · [Sima in six hymns and the three agreement genders](research/panini_grammar/sima_in_six_hymns_and_the_three_agreement_genders/README.md). PG14 preserves the two syntactic roles at 10.28.11 and the relation between a vocative word and its continuous-text length.
+
 PG840 · [Two roots for Sītā’s words about the enemies in Bhaṭṭi 14.57](research/panini_grammar/two_roots_for_the_enemies_in_bhatti_14_57/README.md). A typed PG14 selection separates poem attestation, the two strong-ending controls and the disputed elision.
 
 PG839 · [Two Mādhavīya entries in the edition named by the transcription](research/panini_grammar/two_madhaviya_entries_in_the_named_benares_edition/README.md). The source collation map preserves edition, entry, position and report owner under the PG14 augmentation.

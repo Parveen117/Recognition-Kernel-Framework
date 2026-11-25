@@ -1,5 +1,7 @@
 # Written Pāṇini work session · 2026-11-25
 
+PG841 · [Sima in six hymns and the three agreement genders](sima_in_six_hymns_and_the_three_agreement_genders/README.md). Parent b8d79658a62a9152e284d4b2daa12314a69755eb. One 63-interface case construction, one Vedic address and one verse-specific accusative reading. Six source decisions. New nominal 62/65 and finite 0/0. Census 52,368 finite, 22,847 nominal positions/25,825 nominal readings.
+
 PG840 · [Two roots for Sītā’s words about the enemies in Bhaṭṭi 14.57](two_roots_for_the_enemies_in_bhatti_14_57/README.md). Parent fcb9adb9b45be1d807c2cba4e242cbb06c166354. Four source decisions, one two-root clause construction, two finite interfaces and three selected readings. Finite +2/+3, nominal 0/0. Census 52,368 finite, 22,785 nominal positions/25,760 nominal readings.
 
 PG839 · [Two Mādhavīya entries in the edition named by the transcription](two_madhaviya_entries_in_the_named_benares_edition/README.md). Parent 00bad82b424c63c918d70d39d1ae785323ca43a4. Four images, two XML entries and three source decisions. Finite 0/0, nominal 0/0. Census 52,366 finite and 22,785 nominal positions/25,760 nominal readings.

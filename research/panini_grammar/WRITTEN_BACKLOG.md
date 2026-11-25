@@ -1,4 +1,6 @@
-# Written-development backlog at PG840
+# Written-development backlog at PG841
+
+PG841 · [Sima in six hymns and the three agreement genders](sima_in_six_hymns_and_the_three_agreement_genders/README.md). Closed for whole-sense agreement and the six named passages. Other sima meanings, accent in other traditions, the exceptional plural and the exact Brāhmaṇa quotation loci remain Open. Sama’s other panels and the C2–C5 and S1–S7 registers remain distinct from Claude’s execution.
 
 PG840 · [Two roots for Sītā’s words about the enemies in Bhaṭṭi 14.57](two_roots_for_the_enemies_in_bhatti_14_57/README.md). Closed for Sītā’s second-singular enemy-striking clause, the two strong-ending controls and the reported contracted variant. S1’s different plural-addressed quotation, the actual manuscripts in the 1898 report, and wider C2–C5/S2–S7 work remain open. Execution belongs to Claude.
 

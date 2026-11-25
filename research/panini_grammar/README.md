@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG841 · [Sima in six hymns and the three agreement genders](sima_in_six_hymns_and_the_three_agreement_genders/README.md). The seven ordinary cases of sima accompany four newly located verse analyses and two previously identified verses with more precise source interpretation.
+
 PG840 · [Two roots for Sītā’s words about the enemies in Bhaṭṭi 14.57](two_roots_for_the_enemies_in_bhatti_14_57/README.md). The main text’s hiṃs perfect and the ni + han variant now have separate root, ending and source histories.
 
 PG839 · [Two Mādhavīya entries in the edition named by the transcription](two_madhaviya_entries_in_the_named_benares_edition/README.md). Two edition-to-transcript comparisons distinguish the first quoted plural, the second quoted singular and the separate tiras report.
