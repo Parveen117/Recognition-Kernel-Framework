@@ -1,0 +1,35 @@
+{
+  "stage": "PG899",
+  "date": "2026-11-26",
+  "publication_parent": "f9605a68ba1eb43c1e72f9d4ff87746786c581ce",
+  "baseline": "../ubhaya_vocative_credit_correction/STATE.json",
+  "finite_positions": 52531,
+  "nominal_positions": 26130,
+  "nominal_readings": 29788,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 6,
+  "new_nominal_readings": 6,
+  "new_morphology_constructions": 2,
+  "new_morphology_interfaces": 6,
+  "new_syntax_constructions": 1,
+  "new_syntax_interfaces": 6,
+  "new_source_observations": 6,
+  "new_source_policy_decisions": 3,
+  "local_closure": "Selected masculine and neuter tvat vocatives are CLOSED at six positions/readings; feminine remains source-unresolved.",
+  "accepted": [
+    "three masculine marut-pattern address keys",
+    "three neuter jagat-pattern address keys",
+    "pronoun tvat and yuṣmad ablative tvat as distinct histories"
+  ],
+  "open_obligations": [
+    "Feminine tvat, direct literary addresses, accent and critical reconciliation remain Open.",
+    "Six K139 and three extended-139 meanings, residual K128 variants, C2-C5/S1-S7 and native/global gates remain Open.",
+    "No source gap is converted into an exclusion."
+  ],
+  "protected_registers": {
+    "PG335": "-9 finite positions and -12 readings already applied",
+    "PG340/346, PG349-352, PG355-360, PG357-363": "CLOSED on registered scopes"
+  },
+  "runtime_policy": "Written derivation only. Claude owns execution, generators, untouched suites and certificate replay."
+}

@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG899 · [Masculine and neuter *tvat* vocatives](tvat_masculine_neuter_vocatives/README.md). Exact source/pattern admission constructs six M/N address histories while the internally conflicted feminine source grade and the yuṣmad ablative homograph remain separately typed.
+
 PG898 · [*Ubhaya* vocative credit correction](ubhaya_vocative_credit_correction/README.md). A first-owner projection removes PG885's nine repeated position credits and nine reading credits while preserving PG822/PG824/PG885 as separate source-labelled histories under typed zero-specialization.
 
 PG897 · [*Bhavat* honorific vocatives and third-person agreement](bhavat_honorific_vocatives_and_third_person_agreement/README.md). Three explicit pattern arrows admit nine gender-number address histories, while a separate source-bounded agreement operator selects third-person predicates without merging finite/Uṇādi homographs or excluding other registers.

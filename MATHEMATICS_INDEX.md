@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG899 · [Masculine and neuter *tvat* vocatives](research/panini_grammar/tvat_masculine_neuter_vocatives/README.md). Lexical admission, gender selection, named-pattern transport, address and realization commute with typed zero-specialization while feminine-source conflict and the yuṣmad homograph remain distinct grades.
+
 PG898 · [*Ubhaya* vocative credit correction](research/panini_grammar/ubhaya_vocative_credit_correction/README.md). Exact-key formation, first-owner selection, reading admission and ledger credit commute with typed zero-specialization while duplicate, incompatible and alternative-policy histories remain present on separate grades.
 
 PG897 · [*Bhavat* honorific vocatives and third-person agreement](research/panini_grammar/bhavat_honorific_vocatives_and_third_person_agreement/README.md). Source admission, named-pattern transport, address realization and the bounded agreement operator commute with typed zero-specialization while gender-number keys, nominal/finite/Uṇādi collisions and Open competing-register grades retain distinct histories.

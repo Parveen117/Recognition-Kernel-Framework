@@ -1,0 +1,76 @@
+{
+  "schema": "rkf.panini.pg899.relation.v1",
+  "stage": "PG899",
+  "input": {
+    "lemma": "tvat",
+    "sense": "other-pronoun",
+    "roots": null,
+    "preverbs": [],
+    "verbal_pada": null,
+    "voice": null,
+    "genders": ["M", "N"],
+    "numbers": ["sg", "du", "pl"],
+    "case": "vocative"
+  },
+  "source_ownership": {
+    "class": "Śabdamañjarī pronoun inventory: demonstrative tvat, other",
+    "masculine": "entry 123 plus explicit remainder-like-marut instruction and marut address row",
+    "neuter": "explicit like-jagat instruction and jagat address row",
+    "feminine": "Open: simultaneous i-final description and sarit comparison do not select one unambiguous stem"
+  },
+  "construction": {
+    "address_owner": "2.3.47 first-case endings in address",
+    "masculine": ["tvat", "tvatau", "tvatah"],
+    "neuter": ["tvat", "tvatii", "tvanti"],
+    "morphology_constructions": 2,
+    "morphology_interfaces": 6,
+    "address_constructions": 1,
+    "address_interfaces": 6,
+    "positions": 6,
+    "readings": 6
+  },
+  "source_observations": [
+    "tvat is listed among demonstrative pronouns with the meaning other",
+    "entry 123 prints masculine tvat, tvatau and tvatah",
+    "the masculine remainder is explicitly assigned to marut",
+    "the marut entry prints the corresponding three address words",
+    "the neuter tvat entry is explicitly assigned to jagat",
+    "the jagat entry prints jagat, jagatii and jaganti in the address row"
+  ],
+  "source_policy_decisions": [
+    "Compose the masculine tvat entry only with the named marut address pattern.",
+    "Compose the neuter tvat entry only with the named jagat address pattern.",
+    "Keep the internally conflicted feminine instruction Open and keep pronoun tvat distinct from yuṣmad ABLsg tvat."
+  ],
+  "controls": [
+    {
+      "id": "YUSMAD_ABLATIVE_HOMOGRAPH",
+      "status": "Accepted_distinct_histories",
+      "reason": "yuṣmad ABLsg tvat has another lemma, sense, case and derivation."
+    },
+    {
+      "id": "FEMININE_TVAT",
+      "status": "Open",
+      "reason": "The source's i-final description and sarit-pattern instruction have not been reconciled."
+    }
+  ],
+  "open": [
+    "feminine tvat stem and all three address words",
+    "direct literary address attestations",
+    "accent and critical reconciliation",
+    "other senses and competing commentary policies",
+    "C2-C5 and S1-S7"
+  ],
+  "counts": {
+    "new_finite_positions": 0,
+    "new_finite_readings": 0,
+    "new_nominal_positions": 6,
+    "new_nominal_readings": 6,
+    "new_morphology_constructions": 2,
+    "new_morphology_interfaces": 6,
+    "new_syntax_constructions": 1,
+    "new_syntax_interfaces": 6,
+    "new_source_observations": 6,
+    "new_source_policy_decisions": 3
+  }
+}

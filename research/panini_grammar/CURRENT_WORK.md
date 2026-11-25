@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG898
+# Pāṇini grammar · current written coverage at PG899
+
+PG899 · [Masculine and neuter *tvat* vocatives](tvat_masculine_neuter_vocatives/README.md). Śabdamañjarī's explicit `tvat→marut/jagat` arrows supply six M/N address keys. Its internally conflicted feminine instruction remains Open, and pronoun `tvat` stays distinct from yuṣmad ABLsg `tvat`. Census 52,531 finite, 26,130 nominal positions and 29,788 nominal readings.
 
 PG898 · [*Ubhaya* vocative credit correction](ubhaya_vocative_credit_correction/README.md). Exact key comparison shows that PG822 already owned six singular/plural vocatives and PG824 the three dual vocatives before PG885 counted all nine again. Six identical M/N readings and three incompatible feminine a-stem readings are removed from repeated credit without changing the frozen records. Corrected census 52,531 finite, 26,124 nominal positions and 29,782 nominal readings.
 
