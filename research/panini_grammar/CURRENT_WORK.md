@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG842
+# Pāṇini grammar · current written coverage at PG843
+
+PG843 · [All and equal in the cases of sama](all_and_equal_in_the_cases_of_sama/README.md). Equality and totality select different endings across the three genders. Gītā 2.38 supplies the neuter accusative dual same. Net 58 nominal positions/76 readings. Census 52,368 finite, 22,923 nominal positions/25,938 nominal readings.
 
 PG842 · [The boundary Indra broke and the two feminine stems](the_boundary_indra_broke_and_the_two_feminine_stems/README.md). JB 3.111 locates the Brāhmaṇa parallel and Manu distinguishes two case forms of boundary. New 18 nominal positions/37 readings. Census 52,368 finite, 22,865 nominal positions/25,862 nominal readings.
 

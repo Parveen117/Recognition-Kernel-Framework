@@ -1,4 +1,6 @@
-# Written-development backlog at PG842
+# Written-development backlog at PG843
+
+PG843 · [All and equal in the cases of sama](all_and_equal_in_the_cases_of_sama/README.md). Closed for the selected non-vocative free sama panels. Nema’s other genders, the separate noun for year, other Vedic senses and recitational settings keep their own registers. S2/S3 provenance and the other source gates, C2–C5 and Claude execution remain open separately.
 
 PG842 · [The boundary Indra broke and the two feminine stems](the_boundary_indra_broke_and_the_two_feminine_stems/README.md). Closed for JB 3.111, the selected feminine boundary cases and the main readings of Manu 8.245, 251, 252, 265. Sāyaṇa’s precise exemplars and the named Vājasaneyi parallel remain open. Four Uṇādi 4.105 links, the other source gates, C2–C5 and Claude’s execution retain their previous owners.
 
