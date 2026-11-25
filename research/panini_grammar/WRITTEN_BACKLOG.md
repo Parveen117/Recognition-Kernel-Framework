@@ -1,4 +1,6 @@
-# Written-development backlog at PG869
+# Written-development backlog at PG870
+
+PG870 · [Sītā’s slender waist and the departure of the rākṣasīs](sitas_waist_and_the_raksasis_departure/README.md). Feminine suṣupsu and both quality-stem branches of tanu are closed on these case requests. The separate recognition clause and inherited C2–C5 and S1–S7 still need work.
 
 PG869 · [Seven desiderative agents in Bhaṭṭi’s warning](seven_desiderative_agents_in_bhattis_warning/README.md). Closed seven masculine schedules and the feminine sleeper nominative plural. Other feminine cases, affix routes and inherited source obligations remain open.
 

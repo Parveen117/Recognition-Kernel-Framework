@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG869
+# Pāṇini grammar · current written coverage at PG870
+
+PG870 · [Sītā’s slender waist and the departure of the rākṣasīs](sitas_waist_and_the_raksasis_departure/README.md). 47 new nominal positions and 79 readings. Census 52,495 finite, 25,661 nominal positions and 29,301 nominal readings.
 
 PG869 · [Seven desiderative agents in Bhaṭṭi’s warning](seven_desiderative_agents_in_bhattis_warning/README.md). Seven masculine schedules and one feminine verse address add 168 nominal positions and readings. Census 52,495 finite, 25,614 nominal positions and 29,222 nominal readings.
 

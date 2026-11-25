@@ -1,0 +1,256 @@
+{
+  "stage": "PG870",
+  "publication_parent": "1001daf22a2fdab925fd93fed38e0da04bfb32cd",
+  "baseline": "../seven_desiderative_agents_in_bhattis_warning/STATE.json",
+  "finite_positions": 52495,
+  "nominal_positions": 25661,
+  "nominal_readings": 29301,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 47,
+  "new_nominal_readings": 79,
+  "new_morphology_constructions": 3,
+  "new_morphology_interfaces": 72,
+  "source_decisions": [
+    "DREAMER_AND_COMPANION_TWO_INSTRUMENTALS",
+    "WAIST_CHARACTERISTIC_VERSUS_BODY_PART",
+    "TANU_WITHOUT_NGIS_AND_TANVI_GLOSS",
+    "RAKSASIS_AND_NEXT_STANZA_LOCATIVE",
+    "FACES_VERSUS_WORDS_AND_DEEDS",
+    "COMPOUND_READING_REPORTED_BY_MALLINATHA",
+    "YATHAGATAM_TALPAM_VERSUS_YATHAYATHAM_TALPAN"
+  ],
+  "sources": {
+    "editions": {
+      "jayamangala": {
+        "item": "b3009303x",
+        "file": "b3009303x.pdf",
+        "pdf_sha256": "87059e6ea2e48e4755df0e675ff9999b15bdc9a31601609ccfae100a2d9a20aa",
+        "printed_page": 192,
+        "archive_leaf": 199
+      },
+      "mallinatha": {
+        "item": "BhattikavyaWithTheCommentaryOfMallinathaPart1CantosI-ix",
+        "file": "Bhatti-kavyaOrRavanavadhaVol.1Cantos1.pdf",
+        "pdf_sha256": "cc1e25fa4643d7528979dc01f9b1d9cb466fa1ff4ce5c29032f6e5e848493693",
+        "printed_pages": [
+          295,
+          296
+        ],
+        "archive_leaves": [
+          337,
+          338
+        ]
+      }
+    },
+    "gretil": {
+      "url": "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/5_poetry/2_kavya/bhattiku.htm",
+      "sha256": "3b4e0876703db37e0d07bafa13aba8bd137105d19f212c24073a4197ceeff167",
+      "key": "Bhk_8.99–103"
+    },
+    "upstream": {
+      "repository": "ashtadhyayi-com/data",
+      "commit": "5744762f010d677cfb43f347a42d02796cf615d6",
+      "files": {
+        "sutraani/kashika.txt": {
+          "blob": "e525df7668835ef1dd7c5988c031da07ce0c162b",
+          "keys": [
+            "14003",
+            "14006",
+            "14007",
+            "23018",
+            "23019",
+            "23020",
+            "23021",
+            "41044",
+            "61077",
+            "61089",
+            "61103",
+            "64003",
+            "71054",
+            "73111",
+            "73112",
+            "73113",
+            "73114",
+            "73119",
+            "73120",
+            "84001",
+            "84002"
+          ]
+        }
+      }
+    },
+    "repository_blobs": {
+      "seven_desiderative_agents_in_bhattis_warning/STATE.json": "b556699b63ed980ffd8687eee8a5a6045bafb2e8",
+      "catalogue_gap_closure/RULES_B1.md": "f825becce2f1131dbc253ae59948d27dcbf0b0fe",
+      "foundational_relations/RULES_1_4_A.md": "c5a6e4452f5d1ffa1ba7892958beef92ff90be25",
+      "compound_case_derivation/RULES_2_3_A.md": "fd1ab992dfab07a1771583d28b56d21a5c6c02aa",
+      "anga_affix_abhyasa/RULES_7_3_C.md": "5b6e4bb6b4b17dca7731d4d9322a39f0d7f2c0b6",
+      "unadi_madhi_and_feminine_suffix/NOMINAL_FORMS.tsv": "f2779f09dcab71a256571b71fb7691056da438ab",
+      "grammar_construction/NATIVE_OPERATOR_LIFT.md": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b"
+    }
+  },
+  "execution": "Claude-deferred",
+  "new_syntax_constructions": 4,
+  "new_syntax_interfaces": 8,
+  "nominal_rows": [
+    [
+      "NOM",
+      [
+        "suṣupsuḥ",
+        "suṣupsū",
+        "suṣupsavaḥ"
+      ],
+      [
+        "tanuḥ",
+        "tanū",
+        "tanavaḥ"
+      ],
+      [
+        "tanvī",
+        "tanvyau",
+        "tanvyaḥ"
+      ]
+    ],
+    [
+      "ACC",
+      [
+        "suṣupsum",
+        "suṣupsū",
+        "suṣupsūḥ"
+      ],
+      [
+        "tanum",
+        "tanū",
+        "tanūḥ"
+      ],
+      [
+        "tanvīm",
+        "tanvyau",
+        "tanvīḥ"
+      ]
+    ],
+    [
+      "INS",
+      [
+        "suṣupsvā",
+        "suṣupsubhyām",
+        "suṣupsubhiḥ"
+      ],
+      [
+        "tanvā",
+        "tanubhyām",
+        "tanubhiḥ"
+      ],
+      [
+        "tanvyā",
+        "tanvībhyām",
+        "tanvībhiḥ"
+      ]
+    ],
+    [
+      "DAT",
+      [
+        "suṣupsave ~ suṣupsvai",
+        "suṣupsubhyām",
+        "suṣupsubhyaḥ"
+      ],
+      [
+        "tanave ~ tanvai",
+        "tanubhyām",
+        "tanubhyaḥ"
+      ],
+      [
+        "tanvyai",
+        "tanvībhyām",
+        "tanvībhyaḥ"
+      ]
+    ],
+    [
+      "ABL",
+      [
+        "suṣupsoḥ ~ suṣupsvāḥ",
+        "suṣupsubhyām",
+        "suṣupsubhyaḥ"
+      ],
+      [
+        "tanoḥ ~ tanvāḥ",
+        "tanubhyām",
+        "tanubhyaḥ"
+      ],
+      [
+        "tanvyāḥ",
+        "tanvībhyām",
+        "tanvībhyaḥ"
+      ]
+    ],
+    [
+      "GEN",
+      [
+        "suṣupsoḥ ~ suṣupsvāḥ",
+        "suṣupsvoḥ",
+        "suṣupsūnām"
+      ],
+      [
+        "tanoḥ ~ tanvāḥ",
+        "tanvoḥ",
+        "tanūnām"
+      ],
+      [
+        "tanvyāḥ",
+        "tanvyoḥ",
+        "tanvīnām"
+      ]
+    ],
+    [
+      "LOC",
+      [
+        "suṣupsau ~ suṣupsvām",
+        "suṣupsvoḥ",
+        "suṣupsuṣu"
+      ],
+      [
+        "tanau ~ tanvām",
+        "tanvoḥ",
+        "tanuṣu"
+      ],
+      [
+        "tanvyām",
+        "tanvyoḥ",
+        "tanvīṣu"
+      ]
+    ],
+    [
+      "VOC",
+      [
+        "suṣupso",
+        "suṣupsū",
+        "suṣupsavaḥ"
+      ],
+      [
+        "tano",
+        "tanū",
+        "tanavaḥ"
+      ],
+      [
+        "tanvi",
+        "tanvyau",
+        "tanvyaḥ"
+      ]
+    ]
+  ],
+  "position_key": [
+    "lexeme_with_sense",
+    "gender",
+    "case",
+    "number"
+  ],
+  "reading_branches": [
+    "feminine agent u",
+    "unextended feminine tanu",
+    "feminine tanu + ṅīṣ"
+  ],
+  "reserved": [
+    "suṣupsu F NOM PL suṣupsavaḥ PG869"
+  ]
+}

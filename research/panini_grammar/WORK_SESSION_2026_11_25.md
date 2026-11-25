@@ -1,5 +1,7 @@
 # Written Pāṇini work session · 2026-11-25
 
+PG870 · [Sītā’s slender waist and the departure of the rākṣasīs](sitas_waist_and_the_raksasis_departure/README.md). Parent 1001daf22a2fdab925fd93fed38e0da04bfb32cd. 47 unique new nominal positions, 79 readings, three morphology constructions at 72 interfaces, four syntax constructions at eight interfaces, seven source decisions.
+
 PG869 · [Seven desiderative agents in Bhaṭṭi’s warning](seven_desiderative_agents_in_bhattis_warning/README.md). Parent 1de6063514954dac5b956895f1b6743b804530b9. 168 new nominal positions/readings, eight constructions/169 interfaces, three clause constructions/seven interfaces and nine source decisions.
 
 PG868 · [Understanding Sītā’s fate and the prohibition against disbelief](budh_in_an_exhortation_and_a_prohibition/README.md). Parent 7122d43c21c0c079ea3788bfad5bc687f40599f8. Three finite schedules, 27 interfaces, 24 new finite positions and 25 readings, seven source decisions and one two-clause comparison.

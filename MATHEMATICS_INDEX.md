@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG870 · [Sītā’s slender waist and the departure of the rākṣasīs](research/panini_grammar/sitas_waist_and_the_raksasis_departure/README.md). A single case address supports alternative feminine stems and separate ṅit histories. The paired history retains both commentator-specific case assignments.
+
 PG869 · [Seven desiderative agents in Bhaṭṭi’s warning](research/panini_grammar/seven_desiderative_agents_in_bhattis_warning/README.md). Root-specific iṭ and kit decisions, outer agent u, agreement and the indeclinable comparison retain independent histories.
 
 PG868 · [Understanding Sītā’s fate and the prohibition against disbelief](research/panini_grammar/budh_in_an_exhortation_and_a_prohibition/README.md). Typed recovery distinguishes optional actor ciṇ, sic with deletion, and prohibitive augment suppression on divādi budh.
