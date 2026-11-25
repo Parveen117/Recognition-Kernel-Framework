@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG857
+# Pāṇini grammar · current written coverage at PG858
+
+PG858 · [Two participles of repeated sleep in Pāṇinian and Haima sources](two_participles_of_repeated_sleep_in_paninian_and_haima_sources/README.md). 142 new nominal positions and 145 readings. Census 52,459 finite, 25,258 nominal and 28,859 nominal readings.
 
 PG857 · [Desire to sleep, repeated sleep, and deletion of the intensive suffix](desire_repeated_sleep_and_the_deleted_intensive/README.md). 20 new finite positions and 21 readings. Census 52,459 finite, 25,116 nominal and 28,714 nominal readings.
 

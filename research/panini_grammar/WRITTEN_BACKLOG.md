@@ -1,4 +1,6 @@
-# Written-development backlog at PG857
+# Written-development backlog at PG858
+
+PG858 · [Two participles of repeated sleep in Pāṇinian and Haima sources](two_participles_of_repeated_sleep_in_paninian_and_haima_sources/README.md). The two selected intensive niṣṭhā agreements are closed. The reciprocal control is already registered at PG40. C2–C5 and S1–S7 remain open.
 
 PG857 · [Desire to sleep, repeated sleep, and deletion of the intensive suffix](desire_repeated_sleep_and_the_deleted_intensive/README.md). The linked register distinguishes the closed PG114 causative, newly closed presents, other yaṅ-luk cells, and unresolved sources.
 

@@ -1,5 +1,7 @@
 # Written Pāṇini work session · 2026-11-25
 
+PG858 · [Two participles of repeated sleep in Pāṇinian and Haima sources](two_participles_of_repeated_sleep_in_paninian_and_haima_sources/README.md). Parent bdef34ef50ebf025ce3bad4f3367b401d5ad19de. Five decisions and two morphology constructions at 144 interfaces. Two earlier nominal positions and readings reserved.
+
 PG857 · [Desire to sleep, repeated sleep, and deletion of the intensive suffix](desire_repeated_sleep_and_the_deleted_intensive/README.md). Parent 031de295d20379128ba1df720fd6fe55b20b0946. Five source decisions and four morphology constructions at 22 interfaces. Two earlier anchors reserved.
 
 PG856 · [Before the 2020 import: two commentary passages and the Uṇādi examples](before_the_2020_import_two_commentaries_and_the_unadi_examples/README.md). Parent 57dc63ed085f029fa80be6aaac0fd5291a177674. Eight source decisions. No new finite or nominal positions, readings or grammar constructions. The 2016 comparison and 2017 editorial statement establish distinct facts.

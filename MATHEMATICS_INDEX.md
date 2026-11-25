@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG858 · [Two participles of repeated sleep in Pāṇinian and Haima sources](research/panini_grammar/two_participles_of_repeated_sleep_in_paninian_and_haima_sources/README.md). The lexical-marker restriction preserves kit on each intensive participle. Its agreement and pause grades are separately recoverable.
+
 PG857 · [Desire to sleep, repeated sleep, and deletion of the intensive suffix](research/panini_grammar/desire_repeated_sleep_and_the_deleted_intensive/README.md). Actual suffix visibility changes the allowed operator while the source-bearing history survives.
 
 PG856 · [Before the 2020 import: two commentary passages and the Uṇādi examples](research/panini_grammar/before_the_2020_import_two_commentaries_and_the_unadi_examples/README.md). Typed comparison separates normalized text, actual transfer, rule address and suffix assignment.

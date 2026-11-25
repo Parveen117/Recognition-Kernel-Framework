@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG858 · [Two participles of repeated sleep in Pāṇinian and Haima sources](two_participles_of_repeated_sleep_in_paninian_and_haima_sources/README.md). The past sleeper under kta and ktavatu, with separate Pāṇinian and Haima evidence and six agreement panels.
+
 PG857 · [Desire to sleep, repeated sleep, and deletion of the intensive suffix](desire_repeated_sleep_and_the_deleted_intensive/README.md). Two middle presents and four directly witnessed requests on the deleted-intensive branch.
 
 PG856 · [Before the 2020 import: two commentary passages and the Uṇādi examples](before_the_2020_import_two_commentaries_and_the_unadi_examples/README.md). The older commentaries are correctly addressed at ho ḍhaḥ. AVG supplied Patel’s Uṇādi text, and the four extension assignments remain open.

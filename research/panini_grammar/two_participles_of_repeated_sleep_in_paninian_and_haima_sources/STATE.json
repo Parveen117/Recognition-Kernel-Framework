@@ -1,0 +1,86 @@
+{
+  "stage": "PG858",
+  "publication_parent": "bdef34ef50ebf025ce3bad4f3367b401d5ad19de",
+  "baseline": "../desire_repeated_sleep_and_the_deleted_intensive/STATE.json",
+  "finite_positions": 52459,
+  "nominal_positions": 25258,
+  "nominal_readings": 28859,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 142,
+  "new_nominal_readings": 145,
+  "new_morphology_constructions": 2,
+  "new_morphology_interfaces": 144,
+  "source_decisions": [
+    "KAUMUDI_ANCHORS_BOTH_INTENSIVE_AFFIXES",
+    "MADHAVIYA_SPECIFIES_KIT_AND_YAN",
+    "HAIMA_4327_AVACURI_PAIRS_BOTH_WORDS",
+    "BALA_DENTAL_INITIAL_IS_SOURCE_SPECIFIC",
+    "PG40_ALREADY_OWNS_RECIPROCAL_RUT_CONTROL"
+  ],
+  "sources": {
+    "digital": {
+      "kashika": {
+        "repo": "ashtadhyayi-com/data",
+        "commit": "db9a7f1dba06159e6bcd6efb92c9d01857939947",
+        "path": "sutraani/kashika.txt",
+        "blob": "33aee69f03d8c88d8406875c82b5d0fb1bec9b7d",
+        "field": "12019"
+      },
+      "balamanorama": {
+        "repo": "ashtadhyayi-com/data",
+        "commit": "db9a7f1dba06159e6bcd6efb92c9d01857939947",
+        "path": "sutraani/balamanorama.txt",
+        "blob": "c4002fade0835db7534ff582fe94a20e4ebb54f4",
+        "field": "12019"
+      },
+      "tattvabodhini": {
+        "repo": "ashtadhyayi-com/data",
+        "commit": "db9a7f1dba06159e6bcd6efb92c9d01857939947",
+        "path": "sutraani/tattvabodhini.txt",
+        "blob": "278a54f50dd8e22a86d0eef88b88737b84474167",
+        "field": "12019"
+      },
+      "kaumudi": {
+        "repo": "ashtadhyayi-com/data",
+        "commit": "db9a7f1dba06159e6bcd6efb92c9d01857939947",
+        "path": "sutraani/kaumudi.txt",
+        "blob": "ccbbfe5e703894e8bd674aeb4eb68cff52a04eee",
+        "field": "12019"
+      }
+    },
+    "madhaviya_print": {
+      "item": "qVcq_madhaviya-dhatu-vritti-by-sayana-acharya-edited-by-swami-dwarika-das-shastri-198",
+      "leaf": 395,
+      "printed_page": 340,
+      "jp2_sha256": "24a5a68a920a61d1fffe07de17d21decda9a914cd3b660f85a37f3ff4b1cf611"
+    },
+    "scl": {
+      "commit": "1ec51dc4cbfecf271e4f3cb0bba41f25b5921572",
+      "path": "dhaatupaatha/files/madhaviya_XAwuvqwwi_new.xml",
+      "git_blob": "d14a4235af32a9256615e263b4589e61c9ce25e7",
+      "sha256": "4562749571a7efe3b474b1c68f821cfc7271b07893e753ffc66e2fc7a4a79e76",
+      "entry_id": 682,
+      "number": 1000
+    },
+    "haima": {
+      "record": "004402",
+      "host_page": 169,
+      "rule": "4.3.27",
+      "column": "left, medium commentary and avacūri",
+      "url": "https://s3.us-east-2.wasabisys.com/jainqq-hq/eef1d773a697787fd7e3d816d4722cffced53d7066d7b74e4f23c89331777aa4.jpg",
+      "image_sha256": "c99c57dc40ed227c9fd41318113762a2aa7f459710507fa2c342e6cf1c0ab736"
+    },
+    "repository_blobs": {
+      "desire_repeated_sleep_and_the_deleted_intensive/STATE.json": "443d59d60b12bf50b368f2c635c0bc27c3eb0a26",
+      "independent_written_closure/SOURCE_EXCERPTS.json": "3635d2caddce92f6ccf638dae28a0bf08fd23be8",
+      "anga_affix_abhyasa/RULES_7_1_A.md": "fd07e4424c5176ec926aaed2a86cb5feba4725a7",
+      "vah_causal_ktavatu_causer_and_three_gender_panels/PARADIGMS.md": "c2bf01c23584bafb3ca45bb6999a1ed9852af06b",
+      "vah_causal_kta_timed_lopa_and_three_gender_panels/PARADIGMS.md": "45e4f2b20bbdac0a71d5bd89ec5cf795101f972d",
+      "grammar_construction/NATIVE_OPERATOR_LIFT.md": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b"
+    }
+  },
+  "execution": "Claude-deferred",
+  "reserved_nominal_positions": 2,
+  "reserved_nominal_readings": 2
+}
