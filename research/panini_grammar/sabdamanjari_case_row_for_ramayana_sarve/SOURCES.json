@@ -1,0 +1,75 @@
+{
+  "project_dependencies": [
+    {
+      "commit": "bf480dc05ced5157360d320095e275d164c32e5a",
+      "path": "research/panini_grammar/sarve_plural_address_in_ramayana_7_45_2/STATE.json",
+      "git_blob_sha": "9ebf7e2725648e0e88c5e8fe49775ea83daf7f85",
+      "bytes": 1700,
+      "sha256": "d94cd400fb389c5f3490d463cf8f27e4e9405581c1fb270014f909572870f001",
+      "use": "PG891 cumulative baseline and exact NOM/VOC Open key"
+    },
+    {
+      "commit": "bf480dc05ced5157360d320095e275d164c32e5a",
+      "path": "research/panini_grammar/sarve_plural_address_in_ramayana_7_45_2/RELATION.json",
+      "git_blob_sha": "6bfbad8b86150b7bf2232502d7f5502b0cf29a48",
+      "bytes": 4297,
+      "sha256": "e1cb855df34c99d4d8473e0fd45248eb68b88530c76b49cf3bfa326b41994051",
+      "use": "Direct plural addressee role, discourse controls and no-recredit boundary"
+    },
+    {
+      "commit": "4eb9c1fcf4b87746b9a85838bef9d08580daedf5",
+      "path": "research/panini_grammar/sarva_vocative_panels/VOCATIVE_FORMS.tsv",
+      "git_blob_sha": "8dcb7d3796996bff0a45dc9f0569c5947cd13110",
+      "bytes": 869,
+      "sha256": "0619b362625df93b4436dcf34517057533fed7a106f98f0146c86e255eae51cd",
+      "use": "Already credited M VOCpl sarve key and jas-to-shi history"
+    },
+    {
+      "commit": "4eb9c1fcf4b87746b9a85838bef9d08580daedf5",
+      "path": "research/panini_grammar/sarva_vocative_panels/RELATION.json",
+      "git_blob_sha": "723359d4537511593f79b634917774fbeb313ce0",
+      "bytes": 1800,
+      "sha256": "e36772c11e81f7567dab878ad43a3b66fa13915fff360a66dc9f894c729120a8",
+      "use": "Exact freestanding all-entire sense and address ownership"
+    },
+    {
+      "commit": "10c6c94401d4ff3178bc4738469ce8d63087cc02",
+      "path": "research/panini_grammar/grammar_construction/NATIVE_OPERATOR_LIFT.md",
+      "git_blob_sha": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+      "bytes": 11855,
+      "sha256": "f52e7f5cf539ef56859b890669ef738848491e4005e73be75baa49c899b5dafd",
+      "use": "PG14 full operator/history carrier and typed zero-specialization"
+    }
+  ],
+  "external_witnesses": [
+    {
+      "work": "Sabdamanjari, entries 91-93, page label 61",
+      "host": "Veda Vijnana Vistaram",
+      "url": "https://vedavishtaram.in/sanskrit/s05_shabda_manjari.html",
+      "retrieved": "2026-11-25",
+      "observations": [
+        "entry 91 masculine pr. row ends in sarve",
+        "entry 91 separately labels the address row sam. pr. and prints he sarve",
+        "entry 92 feminine address row contains he sarve in singular and dual",
+        "entry 93 neuter address row contains he sarve in dual"
+      ]
+    },
+    {
+      "work": "Sabdamanjari bibliographic record",
+      "host": "Google Books",
+      "url": "https://books.google.com/books?id=x30hAAAAMAAJ",
+      "retrieved": "2026-11-25",
+      "observations": [
+        "Samskrit Education Society, 1986, 199 pages; University of Michigan original digitized 2006"
+      ]
+    }
+  ],
+  "local_excerpt": {
+    "path": "research/panini_grammar/sabdamanjari_case_row_for_ramayana_sarve/WITNESS_EXCERPTS.txt",
+    "bytes": 1855,
+    "sha256": "41c6b025ab94e1c2522dbf093a643d88d9b1bc383fad69b63663f1030c09970b",
+    "retrieved": "2026-11-25"
+  },
+  "source_observations_new": 5,
+  "source_policy_decisions_new": 3
+}

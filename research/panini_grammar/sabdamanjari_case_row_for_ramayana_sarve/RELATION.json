@@ -1,0 +1,101 @@
+{
+  "schema": "rkf.panini.pg892.relation.v1",
+  "stage": "PG892",
+  "title": "Sabdamanjari case row for Ramayana sarve",
+  "predecessor_review": "PG887 owns the M VOCpl sarve position and ending. PG891 directly establishes masculine-plural addressee function at Ramayana 7.45.2 but leaves exact NOM/VOC analysis Open. Neither predecessor credit is repeated.",
+  "source_request": {
+    "lemma": "sarva",
+    "sense": "all members of the seated addressed group",
+    "gender": "M",
+    "case": "VOC",
+    "number": "PL",
+    "surface": "sarve",
+    "roots": ["sru", "kr"],
+    "preverbs": [],
+    "verbal_pada": "P for srnuta; A for kurudhvam",
+    "voice": "active",
+    "affix_owner": "PG887 jas-to-shi address history; no new affix"
+  },
+  "case_interfaces": [
+    {
+      "id": "RAMAYANA_ADDRESSEE",
+      "source": "Ramayana 7.45.2",
+      "surface": "sarve",
+      "role": "masculine plural addressee before second-person plural commands",
+      "status": "Accepted_PG891_control"
+    },
+    {
+      "id": "SABDAMANJARI_M_NOM_PL",
+      "source": "Sabdamanjari 91, pr. row",
+      "surface": "sarve",
+      "gender": "M",
+      "case": "NOM",
+      "number": "PL",
+      "status": "Accepted_equal_surface_control"
+    },
+    {
+      "id": "SABDAMANJARI_M_VOC_PL",
+      "source": "Sabdamanjari 91, sam. pr. row",
+      "surface": "he sarve",
+      "gender": "M",
+      "case": "VOC",
+      "number": "PL",
+      "status": "Accepted_case_selector"
+    },
+    {
+      "id": "SABDAMANJARI_OTHER_SARVE",
+      "source": "Sabdamanjari 92-93",
+      "surface": "he sarve",
+      "gender": "F-or-N",
+      "case": "VOC",
+      "number": "SG-or-DU",
+      "status": "Accepted_nontransfer_controls"
+    }
+  ],
+  "source_policy_decisions": [
+    "Combine PG891's direct masculine-plural addressee syntax with Sabdamanjari 91's explicit he sarve address row to select M VOCpl in the repository case convention.",
+    "Preserve the identical M NOMpl surface as a separate morphology history; exclude only its third-person subject role at this Ramayana locus.",
+    "Treat the feminine and neuter he sarve rows as equal-surface grammatical controls, not literary attestations or licences to transfer the Ramayana token across gender or number."
+  ],
+  "controls": [
+    {
+      "id": "PG887_M_VOC_PL",
+      "status": "Closed_direct_text_plus_grammar_row",
+      "reason": "PG891 supplies the address discourse and Sabdamanjari supplies the explicit M plural address row"
+    },
+    {
+      "id": "M_NOM_PL_MORPHOLOGY",
+      "status": "Accepted_distinct_history",
+      "reason": "the table independently prints sarve in the masculine nominative row"
+    },
+    {
+      "id": "M_NOM_PL_ROLE_AT_RAMAYANA_7_45_2",
+      "status": "Excluded_at_this_locus",
+      "reason": "the token addresses second-person plural command recipients rather than heading a third-person assertion"
+    },
+    {
+      "id": "OTHER_SEVEN_PG887_DIRECT_KEYS",
+      "status": "Open_direct_attestation",
+      "reason": "one M plural locus and one paradigm table do not manufacture other literary addresses"
+    },
+    {
+      "id": "ACCENT_AND_CRITICAL_PRIORITY",
+      "status": "Open",
+      "reason": "the sources are unaccented and no independent print collation was performed"
+    }
+  ],
+  "counts": {
+    "new_finite_positions": 0,
+    "new_finite_readings": 0,
+    "new_nominal_positions": 0,
+    "new_nominal_readings": 0,
+    "new_morphology_constructions": 0,
+    "new_morphology_interfaces": 0,
+    "new_semantic_constructions": 0,
+    "new_semantic_interfaces": 0,
+    "new_syntax_constructions": 1,
+    "new_syntax_interfaces": 4,
+    "new_source_observations": 5,
+    "new_source_policy_decisions": 3
+  }
+}

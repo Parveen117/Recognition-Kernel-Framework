@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG891
+# Pāṇini grammar · current written coverage at PG892
+
+PG892 · [Śabdamañjarī case row for Rāmāyaṇa *sarve*](sabdamanjari_case_row_for_ramayana_sarve/README.md). Śabdamañjarī 91 separately prints M nominative `sarve` and address `he sarve`; PG891 supplies the matching masculine-plural command discourse. The combined source decision closes exact M VOCpl analysis without recrediting PG887. F/N equal-surface rows remain controls, not literary attestations. Census remains 52,531 finite, 26,040 nominal positions and 29,690 nominal readings.
 
 PG891 · [Plural *sarve* address in Rāmāyaṇa 7.45.2](sarve_plural_address_in_ramayana_7_45_2/README.md). `Sarve` governs two plural commands and co-refers with masculine `yuṣmān ... puruṣarṣabhāḥ`, `bhavantaḥ/bhavanto` and second-person `yūyam`. Masculine-plural addressee function is source-positive; exact NOM/VOC classification remains Open because the surface is syncretic and the witness has no explicit case gloss. No PG887 key is recredited. Census remains 52,531 finite, 26,040 nominal positions and 29,690 nominal readings.
 
