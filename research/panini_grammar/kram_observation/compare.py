@@ -10,6 +10,7 @@ from time import perf_counter_ns
 
 STATE = Path(__file__).resolve().parents[1] / "kram_future" / "STATE.json"
 STATE_SHA256 = "94a6ee65fb2042480823239444bbc86b45cfdd4ea4d49c514f830db6e0e847df"
+INPUTS_SHA256 = "780ee0263849d278d6de08c5ff8dc3ed61565882a61b170b36bfba2ee2f5078e"
 CONTRACT = "PG77_ORDERED_CAUSE_RECIPIENT_CONTRACT"
 POLICY = "PG77_BASIC_ROOT_DEPENDENT_A_IT_RESTRICTION_WITH_PG16_TASI_POLICY"
 SLOTS = ("3sg", "3du", "3pl", "2sg", "2du", "2pl", "1sg", "1du", "1pl")
@@ -45,6 +46,34 @@ def root_it(profile):
     raise ValueError(f"unsupported pada licence or cause: {cause}")
 
 
+def prefix_junction(prefix, lakara):
+    junction = None
+    surface_prefix = "ā" if prefix == "āṅ" else prefix
+    if lakara == "lrng":
+        surface_prefix = JUNCTION[prefix]
+        if prefix:
+            junction = "VI_I_TO_Y_BEFORE_AT_A_6_1_77" if prefix == "vi" else "SAVARNA_LONG_A_6_1_101"
+
+    return surface_prefix, junction
+
+
+def root_factor(has_it, is_tas):
+    if has_it:
+        nasal = "M_RETAINED_BEFORE_IT"
+        factor = "kramit" if is_tas else "kramiṣy"
+    elif is_tas:
+        nasal, factor = "LATE_DENTAL_N_BEFORE_T", "krant"
+    else:
+        nasal, factor = "ANUSVARA_BEFORE_NON_YAY_S", "kraṃsy"
+    return factor, nasal
+
+
+def word_stem(prefix, lakara, has_it):
+    surface_prefix, _ = prefix_junction(prefix, lakara)
+    factor, _ = root_factor(has_it, lakara == "lut")
+    return surface_prefix + factor
+
+
 def derive(name, profile, panel, lakara, context, slot, has_it):
     """Apply the supplied decision to this request's own affix, ending and path."""
     pada = profile["pada"]
@@ -61,12 +90,7 @@ def derive(name, profile, panel, lakara, context, slot, has_it):
             tas_action = "7.4.52_S_TO_H_BEFORE_E"
         elif dental_dh:
             tas_action = "8.2.25_SELECTED_SK_LOPA_BEFORE_DH"
-    junction = None
-    surface_prefix = "ā" if prefix == "āṅ" else prefix
-    if conditional:
-        surface_prefix = JUNCTION[prefix]
-        if prefix:
-            junction = "VI_I_TO_Y_BEFORE_AT_A_6_1_77" if prefix == "vi" else "SAVARNA_LONG_A_6_1_101"
+    surface_prefix, junction = prefix_junction(prefix, lakara)
 
     # Append the PG77 history in the packet's order. Only the Boolean above is shared.
     history = []
@@ -105,13 +129,7 @@ def derive(name, profile, panel, lakara, context, slot, has_it):
         "prefix_at_intervention": "BM_1_3_17_AD_VYAVAYA_ADAPTER" if junction else None,
     }
     history.append(("AUGMENT_AND_PREFIX_JUNCTION", augment))
-    if has_it:
-        nasal = "M_RETAINED_BEFORE_IT"
-        factor = "kramit" if is_tas else "kramiṣy"
-    elif is_tas:
-        nasal, factor = "LATE_DENTAL_N_BEFORE_T", "krant"
-    else:
-        nasal, factor = "ANUSVARA_BEFORE_NON_YAY_S", "kraṃsy"
+    factor, nasal = root_factor(has_it, is_tas)
     phonetics = {
         "sya_satva": "8.3.59_AFTER_IT" if has_it and not is_tas else None,
         "root_m_anusvara": None if has_it else "8.3.24_BEFORE_JHAL",
@@ -139,55 +157,132 @@ def derive(name, profile, panel, lakara, context, slot, has_it):
     return row, history
 
 
-def evaluate(state, shared, decide=root_it):
-    results = {}
+def selected_profiles(state, profile=None, lakara=None, slot=None):
+    """Intersect the query with each panel's individually certified domain."""
     for panel in state["position_accounting"]["panels"]:
         name = panel["profile"]
-        profile = state["contextual_profiles"][name]
+        if profile is not None and profile != name:
+            continue
+        spec = state["contextual_profiles"][name]
+        labels = panel["lakaras"]
+        slots = spec["slots"]
+        if lakara is not None:
+            if lakara not in labels:
+                continue
+            labels = (lakara,)
+        if slot is not None:
+            if slot not in slots:
+                continue
+            slots = (slot,)
+        yield panel, spec, labels, slots
+
+
+def iter_results(state, shared=True, decide=root_it, **filters):
+    for panel, spec, labels, slots in selected_profiles(state, **filters):
+        name = panel["profile"]
         if shared:
-            profile_it = decide(profile)
-        for lakara in panel["lakaras"]:
+            profile_it = decide(spec)
+        for lakara in labels:
             context = state["context_codes"][lakara]
-            for slot in profile["slots"]:
-                has_it = profile_it if shared else decide(profile)
+            for slot in slots:
+                has_it = profile_it if shared else decide(spec)
                 key = name, lakara, slot
-                results[key] = derive(name, profile, panel["panel"], lakara, context, slot, has_it)
-    return results
+                yield key, derive(name, spec, panel["panel"], lakara, context, slot, has_it)
 
 
-def compare(state):
-    archived = {(r["profile"], r["lakara"], r["slot"]): r for r in state["position_accounting"]["forms"]}
+def evaluate(state, shared, decide=root_it):
+    """Materialize the full keyed grid for callers requesting random access."""
+    return dict(iter_results(state, shared, decide))
+
+
+def iter_words(state, make_stem=word_stem, **filters):
+    """Terminal word projection; keys retain distinct grammatical requests."""
+    for panel, spec, labels, slots in selected_profiles(state, **filters):
+        has_it = root_it(spec)
+        prefix = "".join(spec["upasarga"])
+        for lakara in labels:
+            stem = make_stem(prefix, lakara, has_it)
+            endings = ENDINGS[lakara, spec["pada"]]
+            for slot in slots:
+                yield (panel["profile"], lakara, slot), stem + endings[SLOTS.index(slot)]
+
+
+def query_inputs(state):
+    """Select just the immutable declarations needed to evaluate PG77 queries."""
+    panels = [{k: p[k] for k in ("panel", "profile", "lakaras")}
+              for p in state["position_accounting"]["panels"]]
+    labels = {label for panel in panels for label in panel["lakaras"]}
+    return {
+        "source_sha256": STATE_SHA256,
+        "contextual_profiles": state["contextual_profiles"],
+        "position_accounting": {"panels": panels},
+        "context_codes": {k: v for k, v in state["context_codes"].items() if k in labels},
+    }
+
+
+def read_pinned(path, digest):
+    raw = path.read_bytes()
+    if hashlib.sha256(raw).hexdigest() != digest:
+        raise ValueError(f"{path.name} differs from the pinned edition")
+    return json.loads(raw)
+
+
+def compare(state, inputs=None):
+    if inputs is None:
+        inputs = query_inputs(state)
+    assert inputs == query_inputs(state)
+    forms = state["position_accounting"]["forms"]
+    archived = {(r["profile"], r["lakara"], r["slot"]): r for r in forms}
+    unseen = set(archived)
+    assert len(unseen) == len(forms) == 171
     order = state["smriti_contracts"][CONTRACT]
-    assert len(archived) == len(state["position_accounting"]["forms"]) == 171
-    counts = {}
-    for shared in (False, True):
-        calls = 0
+    calls = {"direct": 0, "shared": 0, "stems": 0}
 
-        def counted(profile):
-            nonlocal calls
-            calls += 1
-            return root_it(profile)
+    def counted(mode):
+        def decide(spec):
+            calls[mode] += 1
+            return root_it(spec)
+        return decide
 
-        results = evaluate(state, shared, counted)
-        assert results.keys() == archived.keys()
-        for key, (row, history) in results.items():
-            if row != archived[key]:
-                fields = [k for k in row.keys() | archived[key].keys() if row.get(k) != archived[key].get(k)]
-                raise ValueError(f"{key} differs from frozen row in {fields}")
-            assert [stage for stage, _ in history] == order, key
-        counts[shared] = calls
-        if not shared:
-            direct = results
-    assert direct == results
-    assert counts == {False: 171, True: 7}
-    # Same spelling, different endings and temporal histories. Dropping the trace
-    # or keying on the surface would lose a certified alternative analysis.
-    future, future_history = results["PARA_EFFORT", "lrt", "1sg"]
-    conditional, conditional_history = results["PARA_EFFORT", "lrng", "1sg"]
-    assert future["readings"] == conditional["readings"] == ["parākraṃsye"]
-    assert future_history != conditional_history
-    assert future["owners"]["first_singular_A_junction"] == "ENDING_I_TO_E_THEN_6_1_97"
-    assert conditional["owners"]["first_singular_A_junction"] == "RETAINED_ENDING_I_THEN_6_1_87"
+    def counted_stem(prefix, label, has_it):
+        calls["stems"] += 1
+        return word_stem(prefix, label, has_it)
+
+    direct = iter_results(state, False, counted("direct"))
+    shared = iter_results(inputs, True, counted("shared"))
+    words = iter_words(inputs, counted_stem)
+    for (key, reference), (shared_key, result), (word_key, word) in zip(direct, shared, words, strict=True):
+        assert key == shared_key == word_key
+        unseen.remove(key)
+        assert result == reference, key
+        row, history = result
+        if row != archived[key]:
+            fields = [k for k in row.keys() | archived[key].keys() if row.get(k) != archived[key].get(k)]
+            raise ValueError(f"{key} differs from frozen row in {fields}")
+        assert [stage for stage, _ in history] == order, key
+        assert archived[key]["readings"] == [word], key
+    assert not unseen
+    assert calls == {"direct": 171, "shared": 7, "stems": 21}
+
+    # Identical surfaces can have different futures and histories.
+    example = {"profile": "PARA_EFFORT", "slot": "1sg"}
+    selected = dict(iter_results(state, **example))
+    simple = dict(iter_words(state, **example))
+    assert len(simple) == len(selected) == 3
+    future = ("PARA_EFFORT", "lrt", "1sg")
+    conditional = ("PARA_EFFORT", "lrng", "1sg")
+    assert simple[future] == simple[conditional] == "parākraṃsye"
+    assert selected[future][1] != selected[conditional][1]
+    assert selected[future][0]["owners"]["first_singular_A_junction"] == "ENDING_I_TO_E_THEN_6_1_97"
+    assert selected[conditional][0]["owners"]["first_singular_A_junction"] == "RETAINED_ENDING_I_THEN_6_1_87"
+    # Query restriction must not invent luminous-rise first-person cells.
+    assert not list(iter_words(state, profile="A_JYOTIS_RISE", slot="1sg"))
+    assert not list(iter_results(state, profile="A_JYOTIS_RISE", slot="1sg"))
+    # A query selecting exactly one admitted cell needs one prefix/stem combination.
+    calls["stems"] = 0
+    example["lakara"] = "lrng"
+    assert list(iter_words(state, counted_stem, **example)) == [(conditional, "parākraṃsye")]
+    assert calls["stems"] == 1
     # Unsupported causes must never obtain an iṭ decision from pada alone.
     wrong_cause = dict(state["contextual_profiles"]["BARE_ORDINARY_A"], pada_cause="UNKNOWN")
     try:
@@ -198,6 +293,7 @@ def compare(state):
         raise AssertionError("admitted an unsupported cause")
     print("171 frozen rows, accepted readings, labelled paths and nine-stage histories match.")
     print("Root-facing iṭ evaluations: direct 171, shared 7.")
+    print("171 projected words match; 21 prefix/stem computations for the grid, one for the selected cell.")
 
 
 def benchmark(state):
@@ -222,17 +318,88 @@ def benchmark(state):
     print(f"Paired median direct/shared runtime ratio: {statistics.median(ratios):.4f}")
 
 
+def benchmark_queries(state):
+    import gc
+    import tracemalloc
+
+    def full_words():
+        return {key: row["readings"][0] for key, (row, _) in iter_results(state)}
+
+    def projected_words():
+        return dict(iter_words(state))
+
+    assert full_words() == projected_words()
+    samples = {full_words: [], projected_words: []}
+    for index in range(24):
+        modes = (full_words, projected_words) if index % 2 == 0 else (projected_words, full_words)
+        for mode in modes:
+            start = perf_counter_ns()
+            for _ in range(24):
+                mode()
+            samples[mode].append((perf_counter_ns() - start) / 24_000_000)
+    for mode in samples:
+        print(f"{mode.__name__}: {statistics.median(samples[mode]):.4f} ms per keyed word grid (median)")
+
+    forms = state["position_accounting"]["forms"]
+    expected = {(r["profile"], r["lakara"], r["slot"]): r for r in forms}
+    order = state["smriti_contracts"][CONTRACT]
+    for mode in ("materialized", "streamed"):
+        gc.collect()
+        tracemalloc.start()
+        try:
+            if mode == "materialized":
+                rows = evaluate(state, True).items()
+            else:
+                rows = iter_results(state)
+            count = 0
+            for key, (row, history) in rows:
+                assert row == expected[key] and [tag for tag, _ in history] == order
+                count += 1
+            assert count == len(expected)
+            peak = tracemalloc.get_traced_memory()[1]
+        finally:
+            tracemalloc.stop()
+        del rows, row, history
+        print(f"{mode}: {peak:,} peak traced Python bytes validating one complete history grid")
+
+
+def query(state, args, parser):
+    filters = dict(profile=args.profile, lakara=args.lakara, slot=args.slot)
+    results = iter_words(state, **filters) if args.query == "words" else iter_results(state, **filters)
+    found = False
+    for (profile, lakara, slot), value in results:
+        output = {"profile": profile, "lakara": lakara, "slot": slot}
+        if args.query == "words":
+            output["word"] = value
+        else:
+            output["row"], output["history"] = value
+        print(json.dumps(output, ensure_ascii=False))
+        found = True
+    if not found:
+        parser.error("no admitted PG77 cell matches the requested profile, lakara and slot")
+
+
 if __name__ == "__main__":
     assert sys.version_info[:2] == (3, 12), "Python 3.12 is required"
     if not __debug__:
         raise RuntimeError("Run without Python optimization so all checks execute")
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--benchmark", action="store_true", help="also measure entire 171-cell evaluations")
+    inputs = read_pinned(Path(__file__).with_name("query_inputs.json"), INPUTS_SHA256)
+    parser.add_argument("--query", choices=("words", "history"), help="emit one JSON record per admitted cell")
+    parser.add_argument("--profile", choices=tuple(inputs["contextual_profiles"]))
+    parser.add_argument("--lakara", choices=("lrt", "lut", "lrng"))
+    parser.add_argument("--slot", choices=SLOTS)
     args = parser.parse_args()
-    raw = STATE.read_bytes()
-    if hashlib.sha256(raw).hexdigest() != STATE_SHA256:
-        raise ValueError("PG77 reference differs from the pinned edition")
-    state = json.loads(raw)
-    compare(state)
-    if args.benchmark:
-        benchmark(state)
+    if args.query:
+        if args.benchmark:
+            parser.error("--benchmark and --query are separate operations")
+        query(inputs, args, parser)
+    else:
+        if args.profile or args.lakara or args.slot:
+            parser.error("--profile, --lakara and --slot select cells for --query")
+        state = read_pinned(STATE, STATE_SHA256)
+        compare(state, inputs)
+        if args.benchmark:
+            benchmark(state)
+            benchmark_queries(state)

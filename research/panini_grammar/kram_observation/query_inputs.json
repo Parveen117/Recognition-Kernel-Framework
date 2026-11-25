@@ -1,0 +1,261 @@
+{
+  "source_sha256": "94a6ee65fb2042480823239444bbc86b45cfdd4ea4d49c514f830db6e0e847df",
+  "contextual_profiles": {
+    "BARE_ORDINARY_P": {
+      "upasarga": [],
+      "sense": "ORDINARY_STEPPING_OUTSIDE_1_3_38",
+      "pada": "P",
+      "pada_rule": "RESIDUAL_P_WITH_1_3_43_A_OPTION",
+      "pada_modality": "OPTIONAL_BARE_ORDINARY",
+      "semantic_family": "BARE_ORDINARY",
+      "slots": [
+        "3sg",
+        "3du",
+        "3pl",
+        "2sg",
+        "2du",
+        "2pl",
+        "1sg",
+        "1du",
+        "1pl"
+      ],
+      "root": "kram",
+      "lexical_id": "1010545",
+      "controller": "AGENT",
+      "role_carrier": "AGENT_TENSOR_TYPED_DEPENDENT_FRAME",
+      "position_credit": 27,
+      "pada_cause": "SELECTED_RESIDUAL_P_NO_ACTUAL_A"
+    },
+    "BARE_ORDINARY_A": {
+      "upasarga": [],
+      "sense": "ORDINARY_STEPPING_OUTSIDE_1_3_38",
+      "pada": "A",
+      "pada_rule": "1.3.43",
+      "pada_modality": "OPTIONAL_BARE_ORDINARY",
+      "semantic_family": "BARE_ORDINARY",
+      "slots": [
+        "3sg",
+        "3du",
+        "3pl",
+        "2sg",
+        "2du",
+        "2pl",
+        "1sg",
+        "1du",
+        "1pl"
+      ],
+      "root": "kram",
+      "lexical_id": "1010545",
+      "controller": "AGENT",
+      "role_carrier": "AGENT_TENSOR_TYPED_DEPENDENT_FRAME",
+      "position_credit": 27,
+      "pada_cause": "QUALIFIED_BASIC_KRAM_ROOT"
+    },
+    "UPA_BEGIN": {
+      "upasarga": [
+        "upa"
+      ],
+      "sense": "BEGIN_SUPPLIED_ACTION",
+      "pada": "A",
+      "pada_rule": "1.3.42",
+      "pada_modality": "MANDATORY_A",
+      "semantic_family": "UPA_BEGIN",
+      "slots": [
+        "3sg",
+        "3du",
+        "3pl",
+        "2sg",
+        "2du",
+        "2pl",
+        "1sg",
+        "1du",
+        "1pl"
+      ],
+      "dependent_frame": "SUPPLIED_ACTION_WITH_CONTROLLER_RELATION",
+      "root": "kram",
+      "lexical_id": "1010545",
+      "controller": "AGENT",
+      "role_carrier": "AGENT_TENSOR_TYPED_DEPENDENT_FRAME",
+      "position_credit": 27,
+      "pada_cause": "QUALIFIED_BASIC_KRAM_ROOT"
+    },
+    "PARA_EFFORT": {
+      "upasarga": [
+        "parā"
+      ],
+      "sense": "SARGA_ENTHUSIASTIC_EFFORT",
+      "pada": "A",
+      "pada_rule": "1.3.38_WITH_1.3.39",
+      "pada_modality": "MANDATORY_A",
+      "semantic_family": "PARA_EFFORT",
+      "slots": [
+        "3sg",
+        "3du",
+        "3pl",
+        "2sg",
+        "2du",
+        "2pl",
+        "1sg",
+        "1du",
+        "1pl"
+      ],
+      "dependent_frame": "SUPPLIED_EFFORT_ACTION_OR_PURPOSE",
+      "root": "kram",
+      "lexical_id": "1010545",
+      "controller": "AGENT",
+      "role_carrier": "AGENT_TENSOR_TYPED_DEPENDENT_FRAME",
+      "position_credit": 27,
+      "pada_cause": "QUALIFIED_BASIC_KRAM_ROOT"
+    },
+    "VI_FOOT": {
+      "upasarga": [
+        "vi"
+      ],
+      "sense": "ACTUAL_FOOT_MOVEMENT",
+      "pada": "A",
+      "pada_rule": "1.3.41",
+      "pada_modality": "MANDATORY_A",
+      "semantic_family": "VI_FOOT",
+      "slots": [
+        "3sg",
+        "3du",
+        "3pl",
+        "2sg",
+        "2du",
+        "2pl",
+        "1sg",
+        "1du",
+        "1pl"
+      ],
+      "root": "kram",
+      "lexical_id": "1010545",
+      "controller": "AGENT",
+      "role_carrier": "AGENT_TENSOR_TYPED_DEPENDENT_FRAME",
+      "position_credit": 27,
+      "pada_cause": "QUALIFIED_BASIC_KRAM_ROOT"
+    },
+    "PRA_BEGIN": {
+      "upasarga": [
+        "pra"
+      ],
+      "sense": "BEGIN_SUPPLIED_ACTION",
+      "pada": "A",
+      "pada_rule": "1.3.42",
+      "pada_modality": "MANDATORY_A",
+      "semantic_family": "PRA_BEGIN",
+      "slots": [
+        "3sg",
+        "3du",
+        "3pl",
+        "2sg",
+        "2du",
+        "2pl",
+        "1sg",
+        "1du",
+        "1pl"
+      ],
+      "dependent_frame": "SUPPLIED_ACTION_WITH_CONTROLLER_RELATION",
+      "root": "kram",
+      "lexical_id": "1010545",
+      "controller": "AGENT",
+      "role_carrier": "AGENT_TENSOR_TYPED_DEPENDENT_FRAME",
+      "position_credit": 27,
+      "pada_cause": "QUALIFIED_BASIC_KRAM_ROOT"
+    },
+    "A_JYOTIS_RISE": {
+      "upasarga": [
+        "āṅ"
+      ],
+      "sense": "RISING_OF_LUMINOUS_CELESTIAL_OBJECT",
+      "pada": "A",
+      "pada_rule": "1.3.40_WITH_JYOTIRUDGAMANA_QUALIFICATION",
+      "pada_modality": "MANDATORY_A",
+      "semantic_family": "A_JYOTIS_RISE",
+      "slots": [
+        "3sg",
+        "3du",
+        "3pl"
+      ],
+      "agent_refinement": "LUMINOUS_CELESTIAL_OBJECT",
+      "slot_limit_is_scope_choice": true,
+      "root": "kram",
+      "lexical_id": "1010545",
+      "controller": "AGENT",
+      "role_carrier": "AGENT_TENSOR_TYPED_DEPENDENT_FRAME",
+      "position_credit": 9,
+      "pada_cause": "QUALIFIED_BASIC_KRAM_ROOT"
+    }
+  },
+  "position_accounting": {
+    "panels": [
+      {
+        "panel": "P1",
+        "profile": "BARE_ORDINARY_P",
+        "lakaras": [
+          "lrt",
+          "lut",
+          "lrng"
+        ]
+      },
+      {
+        "panel": "P2",
+        "profile": "BARE_ORDINARY_A",
+        "lakaras": [
+          "lrt",
+          "lut",
+          "lrng"
+        ]
+      },
+      {
+        "panel": "P3",
+        "profile": "UPA_BEGIN",
+        "lakaras": [
+          "lrt",
+          "lut",
+          "lrng"
+        ]
+      },
+      {
+        "panel": "P4",
+        "profile": "PARA_EFFORT",
+        "lakaras": [
+          "lrt",
+          "lut",
+          "lrng"
+        ]
+      },
+      {
+        "panel": "P5",
+        "profile": "VI_FOOT",
+        "lakaras": [
+          "lrt",
+          "lut",
+          "lrng"
+        ]
+      },
+      {
+        "panel": "P6",
+        "profile": "PRA_BEGIN",
+        "lakaras": [
+          "lrt",
+          "lut",
+          "lrng"
+        ]
+      },
+      {
+        "panel": "P7",
+        "profile": "A_JYOTIS_RISE",
+        "lakaras": [
+          "lrt",
+          "lut",
+          "lrng"
+        ]
+      }
+    ]
+  },
+  "context_codes": {
+    "lrt": "ordinary_future_3_3_13",
+    "lut": "non_today_future_3_3_15",
+    "lrng": "future_3_3_147_qualified_upapada_attitude_plus_3_3_139_event_kriyatipatti"
+  }
+}

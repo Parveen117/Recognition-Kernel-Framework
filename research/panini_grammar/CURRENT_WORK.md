@@ -2,7 +2,7 @@
 
 PG867 · [Jāmbavān’s comparison and Hanumān’s turn to fast](jambavans_game_or_figurine_and_hanumans_turn/README.md). 71 new nominal positions and readings. Census 52,471 finite positions, 25,446 nominal positions and 29,054 nominal readings.
 
-[PG77 executable comparison](kram_observation/README.md) recovers the same 171 frozen positions and histories with 171 direct or seven shared iṭ decisions.
+[PG77 executable comparison](kram_observation/README.md) recovers the same 171 frozen positions and histories with 171 direct or seven shared iṭ decisions. Word queries use 21 prefix/stem combinations for the grid. CI checks the full histories in a stream.
 
 PG866 · [Mallinātha locates the Bhaṭṭi variant and the aorist of yam in disclosure](mallinathas_bhatti_variant_and_yam_in_disclosure/README.md). S1’s quotation is located in Mallinātha at 7.103, parallel to 7.101. Six new finite positions and readings. Census 52,471 finite, 25,375 nominal positions and 28,983 nominal readings.
 

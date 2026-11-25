@@ -76,3 +76,74 @@ construction and disposal, with reference loading and comparison outside the
 timed interval. The 164 avoided calls are reproducible. Timings vary by host
 and the intervals overlap. CI enforces equivalence and call counts and reports
 timing as an observation. This comparison adds zero grammatical positions or readings.
+
+## Query a word or its full history
+
+The calculator's [factored evaluator](https://github.com/Parveen117/quantum-classical-provisional/blob/68c900d58347ed1f308e0901b631cc997645f16d/native_relational_qc/FACTORED.md)
+follows the dependencies of a requested observation. Its
+[streaming contraction](https://github.com/Parveen117/quantum-classical-provisional/blob/68c900d58347ed1f308e0901b631cc997645f16d/native_relational_qc/STREAMING_CONTRACTION.md)
+releases intermediates when their contribution has been consumed. Both ideas apply to
+the declared PG77 finite relation without introducing quantum arithmetic.
+
+From the repository root, select the outputs that the caller needs. Each line
+of the result is keyed by profile, lakāra and person-number slot.
+
+```sh
+python3.12 -B research/panini_grammar/kram_observation/compare.py --query words --profile PARA_EFFORT --slot 1sg
+python3.12 -B research/panini_grammar/kram_observation/compare.py --query history --profile PARA_EFFORT --slot 1sg --lakara lrng
+```
+
+The first command returns ordinary future `parākraṃsye`, non-today future
+`parākrantāhe`, and conditional `parākraṃsye`. The second returns the full
+conditional row and its nine ordered stages. A query outside the selected
+domain, such as first singular for the luminous-rise panel, exits with an error.
+
+**Word projection.** Restrict requests first by the panel's certified slots and
+lakāras. Given their admitted profile p, lakāra l and slot s, the final observer
+in PG77 H05–H08 returns the concatenation of three factors: the surface prefix
+(including lṛṅ augment junction), the root/affix factor determined by iṭ and the
+sya/tās choice, and the ending selected by (l, pada, s). The first two factors are
+constant for this p and l. The full grid has 21 such groups. A query for one admitted
+cell forms only its one stem. The word query returns this terminal projection and
+its key. A caller requesting subsequent rule application or provenance uses the
+history route. In particular the surface alone would collapse two keys in the example.
+
+**Full history and typed recovery.** Let W be the keyed terminal word observer and
+T the PG77 operator on the PG14 history module. On each admitted indexed basis
+history, the three factors above give exactly W after T at the unit-start
+zero-reading, by H05–H08. The existing PG77 typed specialization commutes with T.
+Selecting whole request keys restricts to their labelled summands and commutes with
+specialization because the profile, context and slot are retained at zero. A stream
+visits each selected summand with the same T and order of events. Reassembling by
+key recovers the full finite family, hence the same coefficients and pairing on
+that family by the existing typed law. The program's word output is a terminal
+reading. Full histories and their alternative labels are checked on the other route.
+
+**Input and CI.** Queries read a pinned 6,074-byte [input file](query_inputs.json)
+with the certified profiles, panel membership and temporal contracts. The full
+547,996-byte PG77 state supplies the independent reference in CI. The check derives
+the compact declarations from the pinned state and compares them field by field.
+It then streams the direct history, the history evaluated from compact declarations
+and the terminal word together for every request. Each row is compared with the
+frozen reference. The key set detects missing, duplicate and extra records.
+
+On local x86-64 Python 3.12.14 the following measurements used preloaded inputs.
+The timing comparison returns the same dictionary of 171 keyed words, with the
+history-based route already using shared iṭ and streaming. Twenty-four blocks per
+mode each timed 24 grids, alternating which ran first. Python startup, JSON I/O and
+printing are outside the timing. Peak allocations were observed separately using
+`tracemalloc` while the same consumer validated one complete grid of full rows and
+history stage order. The input and reference dictionary were loaded before tracing.
+
+| Workload | Previous route | New route |
+|---|---:|---:|
+| 171 keyed words, median | 0.6975 ms | 0.0378 ms |
+| Validate a complete generated history grid, peak Python allocations | 797,622 bytes | 24,726 bytes |
+
+Runtime and byte measurements are observations. CI requires exact results, stage
+order and operation counts. In the project-wide written-register check, only the
+three available census fields need to cross a stage boundary. The checker still
+reads all 815 state records and validates the same 1,328 deltas, including corrections.
+A local pair of traced runs measured 13,045,258 and 12,245,029 peak Python bytes
+before and after that change. These figures describe Python allocations during the
+specified checks. They do not measure operating-system memory or overall CI duration.

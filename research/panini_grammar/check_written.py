@@ -56,19 +56,23 @@ def check():
             name = Path(baseline["path"])
             if name.is_absolute() or not any((base / name).is_file() for base in (ROOT, GRAMMAR, file.parent)):
                 raise ValueError(f"{label} missing published baseline {name}")
+        current = {}
         for field, delta_field in COUNTS.items():
             if field not in state:
                 continue
             total = state[field]
             if type(total) is not int or total < 0:
                 raise ValueError(f"{label} invalid {field}")
+            current[field] = total
             # Corrections can withdraw or restore previously counted keys.
             delta = state.get(delta_field, state.get("new_" + field))
             if delta is not None and field in previous:
                 if type(delta) is not int or total != previous[field] + delta:
                     raise ValueError(f"{label} {field}: {previous[field]} + {delta} != {total}")
                 checked += 1
-        previous = state
+        # Only the immediately preceding, present counter values cross the stage boundary.
+        previous = current
+        del state, baseline
     print(f"PG1–PG{latest}: {len(stages)} stages, {latest - 52} state records, "
           f"{checked} published changes reconciled. Latest " +
           ", ".join(f"{key}={previous[key]}" for key in COUNTS))
