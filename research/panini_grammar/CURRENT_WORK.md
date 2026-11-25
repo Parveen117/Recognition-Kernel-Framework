@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG847
+# Pāṇini grammar · current written coverage at PG848
+
+PG848 · [Urvaśī’s two predictions and the future of unprefixed śī](urvasi_two_future_predicates_and_the_sleep_conditional/README.md). Two separately parsed predictions, 27 new finite keys and readings. Cumulative 52,395 finite, 25,094 nominal and 28,691 nominal readings.
 
 PG847 · [Second and third in the oblique cases, and the seventy-first in two traditions](second_and_third_obliques_and_the_later_ordinal_families/README.md). The 21 remaining PG792 profiles have seven-case M/F/N agreement. The feminine oblique policies, year-ending night and printed seventy-first fork are located. Net +1,273 nominal positions/+1,695 readings. Census 52,368 finite, 25,094 nominal positions/28,691 nominal readings.
 

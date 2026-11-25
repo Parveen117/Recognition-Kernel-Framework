@@ -1,4 +1,6 @@
-# Written-development backlog at PG847
+# Written-development backlog at PG848
+
+PG848 · [Urvaśī’s two predictions and the future of unprefixed śī](urvasi_two_future_predicates_and_the_sleep_conditional/README.md). Closed for these two future schedules and the guarded conditional of basic śī. C2–C5, S1–S7 and recitational scope remain open. Claude owns execution.
 
 PG847 · [Second and third in the oblique cases, and the seventy-first in two traditions](second_and_third_obliques_and_the_later_ordinal_families/README.md). PG791/792 ordinary seven-case paradigms are locally CLOSED. The Vasu m-form beyond M NOMsg, full Vedic forms, broader C2–C5 domains and S1–S7 stay Open. Claude owns execution.
 

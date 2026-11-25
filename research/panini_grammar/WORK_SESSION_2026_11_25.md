@@ -1,5 +1,7 @@
 # Written Pāṇini work session · 2026-11-25
 
+PG848 · [Urvaśī’s two predictions and the future of unprefixed śī](urvasi_two_future_predicates_and_the_sleep_conditional/README.md). PG847 parent c2919527d7221b5fd196c782ea5d8712d91dcd20. Five source decisions, one construction and two finite interfaces. The PG16 bhū token and PG847 night carry no new credit.
+
 PG847 · [Second and third in the oblique cases, and the seventy-first in two traditions](second_and_third_obliques_and_the_later_ordinal_families/README.md). Parent 1894934e7fa9be80b376005e393087bb58fce71e. One 1,323-interface case extension with nine source decisions. Net finite 0/0 and nominal +1,273/+1,695. Census 52,368 finite, 25,094 nominal positions and 28,691 nominal readings.
 
 PG846 · [Ordinary ordinal agreement and two further Kāṭhaka tha forms](ordinary_ordinal_cases_and_two_kathaka_tha_readings/README.md). Parent 5846c41b7c7d7b3f294c1271f25763c3b576bf0e. Finite 0/0, nominal +736/+827. One factored case construction with 756 ordinary interfaces, plus two new Kāṭhaka readings and seven source decisions. Census 52,368 finite, 23,821 nominal positions and 26,996 nominal readings.

@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG848 · [Urvaśī’s two predictions and the future of unprefixed śī](urvasi_two_future_predicates_and_the_sleep_conditional/README.md). Three nine-position schedules for bare śīṅ, with Śatapatha 11.5.1.11.
+
 PG847 · [Second and third in the oblique cases, and the seventy-first in two traditions](second_and_third_obliques_and_the_later_ordinal_families/README.md). PG847 closes the PG792 ordinary cases with PG846 O20. Haradatta’s alternative policy and Vasu’s short seventy-first keep their own scope.
 
 PG846 · [Ordinary ordinal agreement and two further Kāṭhaka tha forms](ordinary_ordinal_cases_and_two_kathaka_tha_readings/README.md). The remaining twelve ordinary PG791 profiles have seven-case agreement. Kāṭhaka fifth-season, seventh-speech and departing-share clauses have distinct histories.
