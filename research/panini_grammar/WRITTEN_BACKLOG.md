@@ -1,4 +1,6 @@
-# Written-development backlog at PG832
+# Written-development backlog at PG833
+
+PG833 · [The wife compound in two Bhāṣya printings](phantahrta_wife_in_two_bhasya_printings/README.md). Closed for the two printings at 4.1.150 and the selected masculine possessor. The short electronic witness is retained. Manuscript priority, the source of the short spelling and a direct disposition of the full ordered-pair policy remain open. S2/S3 await upstream issue #338. S4, the four outstanding S5 links and the S6 marker effect retain separate evidence requirements. Claude retains execution.
 
 PG832 · [The makers in four Ṛgvedic clauses](makers_in_four_rigvedic_clauses/README.md). Closed for four verses on Sāyaṇa’s reading. The editorial plus and historical priority of the two analyses of duhre remain Open. The S2/S3 editorial questions are now with the source maintainers in [upstream issue #338](https://github.com/ashtadhyayi-com/data/issues/338). Four primary Uṇādi links, the independent 5.56 marker effect, and the S4 Pāṇinian entitlement on 45 requests remain Open. Wider nominal and verbal classes, affix domains, syntax and accent still need written development. Execution belongs to Claude.
 

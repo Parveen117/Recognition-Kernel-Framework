@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG832
+# Pāṇini grammar · current written coverage at PG833
+
+PG833 · [The wife compound in two Bhāṣya printings](phantahrta_wife_in_two_bhasya_printings/README.md). Two printings establish long ā in the compound. New 24 nominal positions/25 readings. Census 52,366 finite, 22,746 nominal positions and 25,718 nominal readings.
 
 PG832 · [The makers in four Ṛgvedic clauses](makers_in_four_rigvedic_clauses/README.md). Four previously unassigned kartṛ occurrences now have source-specific clause interpretations. Census 52,366 finite positions, 22,722 nominal positions and 25,693 nominal readings.
 

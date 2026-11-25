@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG833 · [The wife compound in two Bhāṣya printings](phantahrta_wife_in_two_bhasya_printings/README.md). Kielhorn 1883 and the 1965 revision print long ā where the electronic compound has short a. The masculine possessor has 24 case positions.
+
 PG832 · [The makers in four Ṛgvedic clauses](makers_in_four_rigvedic_clauses/README.md). Sāyaṇa identifies the sacrificers in the Indra hymn, the praise-makers in the Sun hymn and the maker Agni in the Aryaman verse.
 
 PG831 · [Five Haima roots and their perfect auxiliaries in print](five_haima_roots_perfect_auxiliaries_in_print/README.md). The scans establish the 12-series auxiliary matrix and preserve three middle headings above active endings on pp. 232–233.

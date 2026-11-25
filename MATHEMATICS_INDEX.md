@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG833 · [The wife compound in two Bhāṣya printings](research/panini_grammar/phantahrta_wife_in_two_bhasya_printings/README.md). The PG14 lift carries the first member’s descent affix and the external possessor through distinct grades.
+
 PG832 · [The makers in four Ṛgvedic clauses](research/panini_grammar/makers_in_four_rigvedic_clauses/README.md). Verse dependencies and supplied commentary arguments have distinct target grades in the PG14 construction.
 
 PG831 · [Five Haima roots and their perfect auxiliaries in print](research/panini_grammar/five_haima_roots_perfect_auxiliaries_in_print/README.md). The typed comparison retains column succession, the printed heading and the attested endings as separate coordinates.
