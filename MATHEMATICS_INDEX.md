@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG886 · [*Sarvaka/sarvikā* vocative panels](research/panini_grammar/sarvaka_vocative_panels/README.md). Address, singular selection, gender-number ending and realization commute with typed zero specialization while positive feminine `itva`, neuter `am`/m-lopa and equal surfaces retain distinct histories.
+
 PG885 · [*Ubhaya* vocative panels](research/panini_grammar/ubhaya_vocative_panels/README.md). Address, singular selection, gender-number ending and realization commute with typed zero specialization while `am`/m-lopa, short-a sambuddhi and the three equal `-e` outputs retain distinct histories.
 
 PG884 · [Two masculine *a*-stem vocative panels](research/panini_grammar/two_masculine_a_stem_vocative_panels/README.md). Lexical selection, address, singular selection and word realization commute with typed zero specialization while unresolved and incompatible sense/affix grades remain separate.

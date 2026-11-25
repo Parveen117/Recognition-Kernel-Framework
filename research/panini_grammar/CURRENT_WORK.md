@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG885
+# Pāṇini grammar · current written coverage at PG886
+
+PG886 · [*Sarvaka/sarvikā* vocative panels](sarvaka_vocative_panels/README.md). Nine new nominal positions/readings close the selected ordinary M/F/N vocatives of the source-owned `sarva+akac` unknown-specific-property family across all three numbers. Feminine positive pre-*k* `itva`, neuter ordinary `am` plus m-lopa, and equal-surface ending histories remain independently typed. Census 52,531 finite, 26,020 nominal and 29,669 nominal readings.
 
 PG885 · [*Ubhaya* vocative panels](ubhaya_vocative_panels/README.md). Nine new nominal positions/readings close the selected ordinary M/F/N vocatives of the source-owned `ubha→ubhaya` whole across all three numbers. Neuter singular follows `am` plus m-lopa rather than the separately named `adḍ` channel. Census 52,531 finite, 26,011 nominal and 29,660 nominal readings.
 

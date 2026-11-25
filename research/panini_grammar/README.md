@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG886 · [*Sarvaka/sarvikā* vocative panels](sarvaka_vocative_panels/README.md). The exact unknown-specific-property family enters the three-number address adapter while feminine `itva`, neuter `am`/m-lopa and same-surface ending histories remain typed separately.
+
 PG885 · [*Ubhaya* vocative panels](ubhaya_vocative_panels/README.md). The exact `ubha→ubhaya` whole enters the three-number address adapter while its M/N singular same-surface histories and three distinct `-e` histories remain typed separately.
 
 PG884 · [Two masculine *a*-stem vocative panels](two_masculine_a_stem_vocative_panels/README.md). Address realization preserves the life-stage/collective and covering/agent distinctions without selecting unresolved inner affix histories or claiming direct attestation.
