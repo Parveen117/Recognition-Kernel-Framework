@@ -1,0 +1,99 @@
+{
+  "schema": "rkf.panini.pg890.relation.v1",
+  "stage": "PG890",
+  "title": "Direct sarva address in Bhagavadgita 11.40",
+  "predecessor_review": "PG887 constructed all nine ordinary freestanding sarva vocative keys and left direct textual address Open. PG889 supplies the unchanged cumulative baseline. No PG887 nominal position, ending history or prior address construction is recredited.",
+  "source_request": {
+    "work": "Bhagavadgita",
+    "locus": "11.40",
+    "revision": 360045,
+    "lemma": "sarva",
+    "sense": "all-entire divine epithet",
+    "roots": null,
+    "preverbs": [],
+    "verbal_pada": null,
+    "voice": null
+  },
+  "interfaces": [
+    {
+      "id": "SARVA_ADDRESS",
+      "surface": "sarva",
+      "gender": "M",
+      "case": "VOC",
+      "number": "SG",
+      "role": "addressee",
+      "context": "namo 'stu te ... sarva",
+      "commentary": "two printed explanations explicitly expand he sarva",
+      "status": "Accepted_direct_textual_attestation",
+      "position_credit": 0,
+      "reading_credit": 0
+    },
+    {
+      "id": "SARVAM_OBJECT",
+      "surface": "sarvam",
+      "gender": "N",
+      "case": "ACC",
+      "number": "SG",
+      "role": "object_of_samapnosi",
+      "status": "Accepted_source_control",
+      "position_credit": 0,
+      "reading_credit": 0
+    },
+    {
+      "id": "SARVAH_PREDICATE",
+      "surface": "sarvah",
+      "gender": "M",
+      "case": "NOM",
+      "number": "SG",
+      "role": "predicate_after_asi",
+      "status": "Accepted_source_control",
+      "position_credit": 0,
+      "reading_credit": 0
+    }
+  ],
+  "source_policy_decisions": [
+    "Admit Bhagavadgita 11.40 sarva as direct M vocative singular evidence because the second-person clause and two explicit he sarva explanations converge.",
+    "Keep sarva, sarvam and sarvah as three role/case histories; do not transfer this one locus to the other PG887 vocative keys or to accent/Vedic policy."
+  ],
+  "controls": [
+    {
+      "id": "PG887_M_VOC_SG",
+      "status": "Closed_directly_attested",
+      "reason": "the already constructed key receives positive textual evidence at Gita 11.40"
+    },
+    {
+      "id": "PG887_OTHER_EIGHT_VOCATIVES",
+      "status": "Open_direct_attestation",
+      "reason": "one M singular address does not attest other genders or numbers"
+    },
+    {
+      "id": "SARVA_FIRST_TOKEN_AS_NOMINATIVE",
+      "status": "Excluded_at_this_locus",
+      "reason": "the same verse separately prints nominative sarvah and the commentaries explicitly read he sarva"
+    },
+    {
+      "id": "ACCUSATIVE_AS_ADDRESS",
+      "status": "Excluded_at_this_locus",
+      "reason": "sarvam is governed by samapnosi as the object"
+    },
+    {
+      "id": "ACCENT_TRANSFER",
+      "status": "Open",
+      "reason": "the witness is unaccented and supplies no Vedic recitation policy"
+    }
+  ],
+  "counts": {
+    "new_finite_positions": 0,
+    "new_finite_readings": 0,
+    "new_nominal_positions": 0,
+    "new_nominal_readings": 0,
+    "new_morphology_constructions": 0,
+    "new_morphology_interfaces": 0,
+    "new_semantic_constructions": 1,
+    "new_semantic_interfaces": 3,
+    "new_syntax_constructions": 1,
+    "new_syntax_interfaces": 3,
+    "new_source_observations": 3,
+    "new_source_policy_decisions": 2
+  }
+}

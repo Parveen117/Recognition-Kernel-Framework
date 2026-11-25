@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG890 · [Direct *sarva* address in Bhagavadgītā 11.40](sarva_direct_vocative_in_gita_11_40/README.md). Source admission and role discrimination close one actual M-singular textual address without merging the same verse's accusative and nominative forms or recrediting PG887 morphology.
+
 PG889 · [Source-qualified neuter *ahorātra* singular](ahoratra_source_qualified_neuter_singular/README.md). The Mahābhārata concord and Ṛgvedic plural control admit the missing eight-key neuter singular fibre while keeping direct vocative evidence and exhaustive Vedic accent Open.
 
 PG888 · [Ordinary masculine *ahorātra* vocatives](ahoratra_masculine_vocative_panel/README.md). The three-number address adapter closes only PG595's ordinary masculine day-night-period family; source-qualified neuter/Vedic grades remain typed Open.

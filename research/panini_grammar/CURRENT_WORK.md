@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG889
+# Pāṇini grammar · current written coverage at PG890
+
+PG890 · [Direct *sarva* address in Bhagavadgītā 11.40](sarva_direct_vocative_in_gita_11_40/README.md). The verse and two explicit `he sarva` explanations positively close direct M-vocative-singular attestation while retaining `sarvam` N ACCsg and `sarvaḥ` M NOMsg as separate source roles. No already credited PG887 position is repeated. Census remains 52,531 finite, 26,040 nominal and 29,690 nominal readings.
 
 PG889 · [Source-qualified neuter *ahorātra* singular](ahoratra_source_qualified_neuter_singular/README.md). Mahābhārata `ahorātram idam dvandvam` positively fixes nominative neuter singular by concord, while Ṛgveda 10.190.2 retains the independently accented neuter plural control. Eight singular positions/nine readings close the selected source-qualified neuter fibre without importing unquoted Vedic accent. Census 52,531 finite, 26,040 nominal and 29,690 nominal readings.
 

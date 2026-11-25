@@ -1,0 +1,57 @@
+{
+  "project_dependencies": [
+    {
+      "commit": "4eb9c1fcf4b87746b9a85838bef9d08580daedf5",
+      "path": "research/panini_grammar/sarva_vocative_panels/STATE.json",
+      "git_blob_sha": "248a1e19c0d28077df3952fbd6dd3126dc1ed462",
+      "bytes": 1700,
+      "sha256": "37a695fd3a41c7fb46b061ed9f087e9043c6007ad9f9924acd1f97d8a1792a5c",
+      "use": "PG887 cumulative state, direct-attestation Open key and no-recredit boundary"
+    },
+    {
+      "commit": "4eb9c1fcf4b87746b9a85838bef9d08580daedf5",
+      "path": "research/panini_grammar/sarva_vocative_panels/RELATION.json",
+      "git_blob_sha": "723359d4537511593f79b634917774fbeb313ce0",
+      "bytes": 1800,
+      "sha256": "e36772c11e81f7567dab878ad43a3b66fa13915fff360a66dc9f894c729120a8",
+      "use": "Exact sarva sense, M vocative-singular morphology and source boundary"
+    },
+    {
+      "commit": "4eb9c1fcf4b87746b9a85838bef9d08580daedf5",
+      "path": "research/panini_grammar/sarva_vocative_panels/VOCATIVE_FORMS.tsv",
+      "git_blob_sha": "8dcb7d3796996bff0a45dc9f0569c5947cd13110",
+      "bytes": 869,
+      "sha256": "0619b362625df93b4436dcf34517057533fed7a106f98f0146c86e255eae51cd",
+      "use": "Already credited M VOCsg sarva key"
+    },
+    {
+      "commit": "10c6c94401d4ff3178bc4738469ce8d63087cc02",
+      "path": "research/panini_grammar/grammar_construction/NATIVE_OPERATOR_LIFT.md",
+      "git_blob_sha": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+      "bytes": 11855,
+      "sha256": "f52e7f5cf539ef56859b890669ef738848491e4005e73be75baa49c899b5dafd",
+      "use": "PG14 full carrier and typed zero-specialization"
+    }
+  ],
+  "external_witnesses": [
+    {
+      "work": "Bhagavadgita 11.40 with two printed commentary explanations",
+      "host": "Sanskrit Wikisource",
+      "revision": 360045,
+      "url": "https://sa.wikisource.org/w/index.php?title=पृष्ठम्:श्रीमद्भगवद्गीता.pdf/३४९&oldid=360045",
+      "observations": [
+        "the verse prints vocative sarva beside second-person te/tvam/samapnosi",
+        "the first explanation explicitly reads he sarva",
+        "the second explanation independently explicitly reads he sarva"
+      ]
+    }
+  ],
+  "local_excerpt": {
+    "path": "research/panini_grammar/sarva_direct_vocative_in_gita_11_40/WITNESS_EXCERPTS.txt",
+    "bytes": 1401,
+    "sha256": "f9f1d1b058f55ec1a8bfa3bd8fff7d728078fe4602372679727f1b0adc6c468f",
+    "retrieved": "2026-11-25"
+  },
+  "source_observations_new": 3,
+  "source_policy_decisions_new": 2
+}
