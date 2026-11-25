@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG859 · [The child, the frogs and the reclining figure in the Ṛgveda](the_child_the_frogs_and_the_reclining_figure_in_the_rigveda/README.md). The Śākala perfect plural and singular, the present accusative at two loci, and a competing annotation.
+
 PG858 · [Two participles of repeated sleep in Pāṇinian and Haima sources](two_participles_of_repeated_sleep_in_paninian_and_haima_sources/README.md). The past sleeper under kta and ktavatu, with separate Pāṇinian and Haima evidence and six agreement panels.
 
 PG857 · [Desire to sleep, repeated sleep, and deletion of the intensive suffix](desire_repeated_sleep_and_the_deleted_intensive/README.md). Two middle presents and four directly witnessed requests on the deleted-intensive branch.

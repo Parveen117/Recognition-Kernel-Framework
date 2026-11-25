@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG859 · [The child, the frogs and the reclining figure in the Ṛgveda](research/panini_grammar/the_child_the_frogs_and_the_reclining_figure_in_the_rigveda/README.md). A recited word, its suppressed ending, an annotator’s label and the admissible agreement retain their own grades.
+
 PG858 · [Two participles of repeated sleep in Pāṇinian and Haima sources](research/panini_grammar/two_participles_of_repeated_sleep_in_paninian_and_haima_sources/README.md). The lexical-marker restriction preserves kit on each intensive participle. Its agreement and pause grades are separately recoverable.
 
 PG857 · [Desire to sleep, repeated sleep, and deletion of the intensive suffix](research/panini_grammar/desire_repeated_sleep_and_the_deleted_intensive/README.md). Actual suffix visibility changes the allowed operator while the source-bearing history survives.

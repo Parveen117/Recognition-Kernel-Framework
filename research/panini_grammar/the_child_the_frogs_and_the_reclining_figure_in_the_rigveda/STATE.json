@@ -1,0 +1,80 @@
+{
+  "stage": "PG859",
+  "publication_parent": "5eb3b920990aafb49fa148ff14894f41922c1bfe",
+  "baseline": "../two_participles_of_repeated_sleep_in_paninian_and_haima_sources/STATE.json",
+  "finite_positions": 52459,
+  "nominal_positions": 25260,
+  "nominal_readings": 28863,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 2,
+  "new_nominal_readings": 4,
+  "new_morphology_constructions": 2,
+  "new_morphology_interfaces": 3,
+  "source_decisions": [
+    "BIRTH_DURATION_AND_CHILD_AGREE",
+    "FROG_PERFECT_AND_IMPLICIT_SIMILE",
+    "FROG_PRESENT_ACCUSATIVE_DESPITE_NOM_FIELD",
+    "SAME_PRESENT_AGREEMENT_AT_21211",
+    "PERFECT_GLOSS_PRESERVED_SEPARATELY",
+    "POND_LOCATIVE_ALTERNATIVE_STEM_POLICIES",
+    "TWO_ABLATIVE_PAUSE_READINGS_ON_EXISTING_KEYS"
+  ],
+  "sources": {
+    "witnesses": {
+      "05/078": {
+        "repo": "vishvAsa/vedAH_Rk",
+        "commit": "5ac9230e97be248a343e21a5a2f5e412c33e2021",
+        "path": "shAkalam/saMhitA/sarva-prastutiH/05/078.md",
+        "blob": "79ddac7d8b9696d034d3f4e9da77f018b3dba8cd"
+      },
+      "07/103": {
+        "repo": "vishvAsa/vedAH_Rk",
+        "commit": "5ac9230e97be248a343e21a5a2f5e412c33e2021",
+        "path": "shAkalam/saMhitA/sarva-prastutiH/07/103.md",
+        "blob": "4d90b900c4a524beeee249836235a1705767ab0a"
+      },
+      "02/012": {
+        "repo": "vishvAsa/vedAH_Rk",
+        "commit": "5ac9230e97be248a343e21a5a2f5e412c33e2021",
+        "path": "shAkalam/saMhitA/sarva-prastutiH/02/012.md",
+        "blob": "06ecf86278685714ecd7e74ad26211a05c3246c4"
+      }
+    },
+    "reader": {
+      "url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/1780/Macdonell_0562_EBk_v6.0.pdf",
+      "sha256": "38ca4201c21050c8620f0911939bfc8812e5455c9573379168e73cb1eddec171",
+      "locator": "VII.103, stanzas 1–2, electronic p. 131"
+    },
+    "kasika": {
+      "repo": "ashtadhyayi-com/data",
+      "commit": "db9a7f1dba06159e6bcd6efb92c9d01857939947",
+      "path": "sutraani/kashika.txt",
+      "blob": "33aee69f03d8c88d8406875c82b5d0fb1bec9b7d",
+      "fields": [
+        "11019",
+        "32105",
+        "32106",
+        "32124",
+        "71039",
+        "74021",
+        "82039",
+        "84056"
+      ]
+    },
+    "repository_blobs": {
+      "two_participles_of_repeated_sleep_in_paninian_and_haima_sources/STATE.json": "c14cefc88ad4d671fe4c65557ec0490eab0c981b",
+      "two_participles_of_repeated_sleep_in_paninian_and_haima_sources/README.md": "ba7749df2ae7a4e244c88b14aaa900e8253e03d0",
+      "anga_affix_abhyasa/SOURCE_EXCERPTS.json": "5deccfa3a413c5721d902714f4c3de35891cadae",
+      "sleep_for_a_month_and_the_village_as_locus_object/README.md": "036e0fe62d327241826c67b449768607c49cb670",
+      "five_year_names_vows_and_seasonal_offerings/PANELS.md": "b9062e6c798d30b620a5db70fb6ffd2670e2addb",
+      "ordinary_ordinal_cases_and_two_kathaka_tha_readings/README.md": "fbed78cd0f94b7e16e7ee2f4c98486e50affb942",
+      "grammar_construction/NATIVE_OPERATOR_LIFT.md": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b"
+    }
+  },
+  "execution": "Claude-deferred",
+  "new_syntax_constructions": 1,
+  "new_syntax_interfaces": 4,
+  "new_readings_on_existing_keys": 2,
+  "verse_occurrences": 4
+}

@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG858
+# Pāṇini grammar · current written coverage at PG859
+
+PG859 · [The child, the frogs and the reclining figure in the Ṛgveda](the_child_the_frogs_and_the_reclining_figure_in_the_rigveda/README.md). Two new nominal positions and four readings, including two pause readings on existing keys. Census 52,459 finite, 25,260 nominal and 28,863 nominal readings.
 
 PG858 · [Two participles of repeated sleep in Pāṇinian and Haima sources](two_participles_of_repeated_sleep_in_paninian_and_haima_sources/README.md). 142 new nominal positions and 145 readings. Census 52,459 finite, 25,258 nominal and 28,859 nominal readings.
 

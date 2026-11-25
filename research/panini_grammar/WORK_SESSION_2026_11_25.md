@@ -1,5 +1,7 @@
 # Written Pāṇini work session · 2026-11-25
 
+PG859 · [The child, the frogs and the reclining figure in the Ṛgveda](the_child_the_frogs_and_the_reclining_figure_in_the_rigveda/README.md). Parent 5eb3b920990aafb49fa148ff14894f41922c1bfe. Seven source decisions. Two morphology constructions at three distinct keys, one syntax comparison at four verse interfaces. Two positions and four readings added.
+
 PG858 · [Two participles of repeated sleep in Pāṇinian and Haima sources](two_participles_of_repeated_sleep_in_paninian_and_haima_sources/README.md). Parent bdef34ef50ebf025ce3bad4f3367b401d5ad19de. Five decisions and two morphology constructions at 144 interfaces. Two earlier nominal positions and readings reserved.
 
 PG857 · [Desire to sleep, repeated sleep, and deletion of the intensive suffix](desire_repeated_sleep_and_the_deleted_intensive/README.md). Parent 031de295d20379128ba1df720fd6fe55b20b0946. Five source decisions and four morphology constructions at 22 interfaces. Two earlier anchors reserved.
