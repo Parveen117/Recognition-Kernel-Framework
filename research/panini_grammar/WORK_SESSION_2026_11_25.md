@@ -1,5 +1,7 @@
 # Written Pāṇini work session · 2026-11-25
 
+PG860 · [The December 2018 API exports at dhi ca and anadyatane laṅ](december_2018_api_exports_at_dhi_ca_and_anadyatana/README.md). Parent 0097367e950735f3f66e4eb0b6f9f48511aac0de. Eight source decisions, zero new inflection positions, readings or morphological constructions. Two December 2018 exports and the May 2020 fields collated.
+
 PG859 · [The child, the frogs and the reclining figure in the Ṛgveda](the_child_the_frogs_and_the_reclining_figure_in_the_rigveda/README.md). Parent 5eb3b920990aafb49fa148ff14894f41922c1bfe. Seven source decisions. Two morphology constructions at three distinct keys, one syntax comparison at four verse interfaces. Two positions and four readings added.
 
 PG858 · [Two participles of repeated sleep in Pāṇinian and Haima sources](two_participles_of_repeated_sleep_in_paninian_and_haima_sources/README.md). Parent bdef34ef50ebf025ce3bad4f3367b401d5ad19de. Five decisions and two morphology constructions at 144 interfaces. Two earlier nominal positions and readings reserved.

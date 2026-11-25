@@ -1,0 +1,78 @@
+{
+  "stage": "PG860",
+  "publication_parent": "0097367e950735f3f66e4eb0b6f9f48511aac0de",
+  "baseline": "../the_child_the_frogs_and_the_reclining_figure_in_the_rigveda/STATE.json",
+  "finite_positions": 52459,
+  "nominal_positions": 25260,
+  "nominal_readings": 28863,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 0,
+  "new_morphology_constructions": 0,
+  "new_morphology_interfaces": 0,
+  "source_decisions": [
+    "INITIAL_PUBLISHER_EXPORT_ALREADY_HAS_31_AT_25",
+    "BASE_RULE_SHORT_I_AND_KAUMUDI_2249_AGREE",
+    "API_KEY_CHANGE_PRESERVES_SIX_TARGET_FIELDS",
+    "NEIGHBORS_DISPROVE_A_UNIFORM_SHIFT",
+    "TATTVA_BOTH_ADDRESSES_LITERAL_THROUGH_MAY",
+    "BALA_SIX_AND_TWENTY_FOUR_QUOTE_DIFFERENCES",
+    "AT_34_EMPTY_BALA_DISTINCT_TATTVA_PERSIST",
+    "BOTH_2018_EXPORTS_HAVE_LANG_AT_32111"
+  ],
+  "sources": {
+    "december_exports": {
+      "repository": "ashok-cm/ashtadhyayi_com_data",
+      "path_pattern": "jsons/{rule}.json",
+      "commits": {
+        "314a4f8674c06298bfdd7972d72a00513e5e762b": {
+          "date": "2018-12-21T04:14:39Z",
+          "blobs": {
+            "8.2.25": "212c91676cad91e77f3e642540638bc2a7e756ab",
+            "8.2.31": "d7d4d0d09875596eb745ec91ffe745f3279b359d",
+            "8.2.34": "e7cebfbde85ea6aa1bd90489db74995007d25c01",
+            "3.2.111": "65f680b06a82e5a2f6910ee7fef2dfb75b5d2f0d"
+          }
+        },
+        "edc93110e7d9d0840d0b63b12d7e56b05103210f": {
+          "date": "2018-12-21T20:37:51Z",
+          "blobs": {
+            "8.2.25": "b98040706dbf2ca58943fa648439d900e834ec7f",
+            "8.2.31": "5133f5cfaefe5882fb70f9ec25db41cf7541521f",
+            "8.2.34": "9ded5af86bab09ad8f3a45f988b5e5ad1a27e3be",
+            "3.2.111": "5c7e3eb674f5162fa2c0e25f5c9be94f3f627413",
+            "8.2.24": "7d47fd79450ac0fc5a05de019a290db59b6a3b7b",
+            "8.2.26": "ca30d385f37bb3a630e4b3648f9dc2b353319f05"
+          }
+        }
+      }
+    },
+    "may_files": {
+      "repository": "ashtadhyayi-com/data",
+      "commit": "1e450f94bf08eeb9aca611f6d4ca65cff1d100fd",
+      "path_pattern": "sutraani/8/2/{rule}.txt",
+      "blobs": {
+        "8.2.25": "fcb7645a33bd448ce769b09b12bf4961f2e58565",
+        "8.2.31": "d9ca1f3adb3d1ca8a51890c28637c27c9421f80f",
+        "8.2.34": "3aa67b96b107111f556c65a5bab260c8e3a6b26b"
+      }
+    },
+    "issue_11_comments": {
+      "449243098": "https://github.com/sanskrit/ashtadhyayi/issues/11#issuecomment-449243098",
+      "449247600": "https://github.com/sanskrit/ashtadhyayi/issues/11#issuecomment-449247600",
+      "449252417": "https://github.com/sanskrit/ashtadhyayi/issues/11#issuecomment-449252417",
+      "449535474": "https://github.com/sanskrit/ashtadhyayi/issues/11#issuecomment-449535474"
+    },
+    "upstream_master_observed": "db9a7f1dba06159e6bcd6efb92c9d01857939947",
+    "repository_blobs": {
+      "the_child_the_frogs_and_the_reclining_figure_in_the_rigveda/STATE.json": "559451f3b9514d7a91c4b9fa89292ed7d2638b4d",
+      "before_the_2020_import_two_commentaries_and_the_unadi_examples/STATE.json": "7695169a7925d8f05d1cf7637145d8d825f325b7",
+      "editors_disposition_of_dhi_ca_and_anadyatana/STATE.json": "17a478ea9094487a19ed9d951928d18a69f89eff",
+      "dhi_ca_may_2020_rule_files_before_the_commentary_split/SOURCES.json": "d3c04037fa581b02a1828928caee07557554669f",
+      "anadyatana_direct_parent_lung_transition/SOURCES.json": "43015490bdcd3a4d37191022215eec95c15b6b0f",
+      "grammar_construction/NATIVE_OPERATOR_LIFT.md": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b"
+    }
+  },
+  "execution": "Claude-deferred"
+}

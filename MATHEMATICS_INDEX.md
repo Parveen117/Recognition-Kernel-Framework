@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG860 · [The December 2018 API exports at dhi ca and anadyatane laṅ](research/panini_grammar/december_2018_api_exports_at_dhi_ca_and_anadyatana/README.md). Exact, quotation-only and causal relations are kept on their source-specific grades.
+
 PG859 · [The child, the frogs and the reclining figure in the Ṛgveda](research/panini_grammar/the_child_the_frogs_and_the_reclining_figure_in_the_rigveda/README.md). A recited word, its suppressed ending, an annotator’s label and the admissible agreement retain their own grades.
 
 PG858 · [Two participles of repeated sleep in Pāṇinian and Haima sources](research/panini_grammar/two_participles_of_repeated_sleep_in_paninian_and_haima_sources/README.md). The lexical-marker restriction preserves kit on each intensive participle. Its agreement and pause grades are separately recoverable.

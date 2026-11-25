@@ -1,4 +1,6 @@
-# Written-development backlog at PG859
+# Written-development backlog at PG860
+
+PG860 · [The December 2018 API exports at dhi ca and anadyatane laṅ](december_2018_api_exports_at_dhi_ca_and_anadyatana/README.md). The 2018 source family closes a dated transmission question. The original reassignment before the first located export, four Uṇādi mappings and other written gates remain open in the four-part register.
 
 PG859 · [The child, the frogs and the reclining figure in the Ṛgveda](the_child_the_frogs_and_the_reclining_figure_in_the_rigveda/README.md). The two cited Vedic perfect keys and four verse interfaces are decided; C2–C5, S1–S7 and the competing analyses of the pond remain explicit.
 

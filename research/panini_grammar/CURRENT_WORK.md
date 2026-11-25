@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG859
+# Pāṇini grammar · current written coverage at PG860
+
+PG860 · [The December 2018 API exports at dhi ca and anadyatane laṅ](december_2018_api_exports_at_dhi_ca_and_anadyatana/README.md). The erroneous 8.2.25 placement already exists in both December 2018 API exports. Census 52,459 finite, 25,260 nominal and 28,863 nominal readings.
 
 PG859 · [The child, the frogs and the reclining figure in the Ṛgveda](the_child_the_frogs_and_the_reclining_figure_in_the_rigveda/README.md). Two new nominal positions and four readings, including two pause readings on existing keys. Census 52,459 finite, 25,260 nominal and 28,863 nominal readings.
 
