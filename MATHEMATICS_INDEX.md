@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG867 · [Jāmbavān’s comparison and Hanumān’s turn to fast](research/panini_grammar/jambavans_game_or_figurine_and_hanumans_turn/README.md). Three ā-stem schedules preserve the source-specific marker, compound and accent histories.
+
 PG866 · [Mallinātha locates the Bhaṭṭi variant and the aorist of yam in disclosure](research/panini_grammar/mallinathas_bhatti_variant_and_yam_in_disclosure/README.md). Edition and sense gates preserve the distinct mood and preverb histories and the obligatory disclosure sic.
 
 PG865 · [Doubt, lying nearby and the post called upaśaya](research/panini_grammar/doubt_lying_near_and_the_post_called_upasaya/README.md). The source-specific case and predicate assignments recover through the PG14 paired history modules.

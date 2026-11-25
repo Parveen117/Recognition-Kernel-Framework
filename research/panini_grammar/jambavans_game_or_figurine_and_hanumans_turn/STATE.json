@@ -1,0 +1,81 @@
+{
+  "stage": "PG867",
+  "publication_parent": "6ea66ce1f12e9092234165924b44458f70113507",
+  "baseline": "../mallinathas_bhatti_variant_and_yam_in_disclosure/STATE.json",
+  "finite_positions": 52471,
+  "nominal_positions": 25446,
+  "nominal_readings": 29054,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 71,
+  "new_nominal_readings": 71,
+  "new_morphology_constructions": 3,
+  "new_morphology_interfaces": 72,
+  "source_decisions": [
+    "JAMBAVAN_DISEASE_SIMILE_TWO_COMMENTATORS",
+    "BOTH_PRINTS_VISAYAN_WITH_SENSORY_GLOSSES",
+    "GRETIL_PALATAL_READING_AT_7_74",
+    "GAME_VERSUS_FIGURINE_IN_THE_COMPARISON",
+    "FEMININE_MEMBER_AND_MASCULINE_COMPOUND_AGREEMENT",
+    "RELATIVE_KARIM_AND_RESUMPTIVE_KRIYAM",
+    "HANUMAN_FOLLOWS_JAMBAVAN_IN_TURN",
+    "NVUL_IN_1887_GLOSS_NVUC_IN_TRIVEDI_AND_SUTRA"
+  ],
+  "sources": {
+    "editions": {
+      "jayamangala": {
+        "item": "b3009303x",
+        "file": "b3009303x.pdf",
+        "pdf_sha256": "87059e6ea2e48e4755df0e675ff9999b15bdc9a31601609ccfae100a2d9a20aa",
+        "printed_page": 158,
+        "archive_leaf": 165
+      },
+      "mallinatha": {
+        "item": "BhattikavyaWithTheCommentaryOfMallinathaPart1CantosI-ix",
+        "file": "Bhatti-kavyaOrRavanavadhaVol.1Cantos1.pdf",
+        "pdf_sha256": "cc1e25fa4643d7528979dc01f9b1d9cb466fa1ff4ce5c29032f6e5e848493693",
+        "printed_page": 242,
+        "archive_leaf": 284
+      }
+    },
+    "gretil": {
+      "url": "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/5_poetry/2_kavya/bhattiku.htm",
+      "sha256": "3b4e0876703db37e0d07bafa13aba8bd137105d19f212c24073a4197ceeff167",
+      "key": "Bhk_7.74-2"
+    },
+    "kashika": {
+      "commit": "db9a7f1dba06159e6bcd6efb92c9d01857939947",
+      "repository": "ashtadhyayi-com/data",
+      "path": "sutraani/kashika.txt",
+      "blob": "33aee69f03d8c88d8406875c82b5d0fb1bec9b7d",
+      "records": [
+        "22017",
+        "33108",
+        "33109",
+        "33110",
+        "33111",
+        "62074",
+        "71001",
+        "73044"
+      ]
+    },
+    "repository_blobs": {
+      "mallinathas_bhatti_variant_and_yam_in_disclosure/STATE.json": "0063b5100a373cad654b1873dc365d3b205cac0e",
+      "doubt_lying_near_and_the_post_called_upasaya/STATE.json": "ce290011ec99bc23f1627f71f4691750a667a3ed",
+      "krt_temporal_relations/RULES_D1.md": "948bfadeea41049d58dd8fae85024e815e79cebe",
+      "krt_temporal_relations/RULE_REGISTER.json": "d880a64ba3426b37bc3a3b98ac323784e8832162",
+      "compound_accent_stems/RULES_6_2_A.md": "6b22f3b42a818d0c98cb73643ea5f406d5009a16",
+      "grammar_construction/NATIVE_OPERATOR_LIFT.md": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+      "SUTRAPATHA.tsv": "1840f3b5349b21112ac05a7efaa59705fd4efee0"
+    }
+  },
+  "execution": "Claude-deferred",
+  "new_syntax_constructions": 2,
+  "new_syntax_interfaces": 4,
+  "reserved": [
+    "śālabhañjikā GAME NOM SG"
+  ],
+  "s1_exact_variant_mood": "OPEN",
+  "feminine_cases": "word-final, unaccented",
+  "register": "Three ordered forms per case in each of three columns"
+}

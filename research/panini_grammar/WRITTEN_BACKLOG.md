@@ -1,4 +1,6 @@
-# Written-development backlog at PG866
+# Written-development backlog at PG867
+
+PG867 · [Jāmbavān’s comparison and Hanumān’s turn to fast](jambavans_game_or_figurine_and_hanumans_turn/README.md). The disease, game and turn-taking forms are closed on these heads. The two literary interpretations and S1’s unresolved mood retain their owners.
 
 PG866 · [Mallinātha locates the Bhaṭṭi variant and the aorist of yam in disclosure](mallinathas_bhatti_variant_and_yam_in_disclosure/README.md). S1’s verse locator is closed. The exact variant’s own mood and manuscript remain open. S2–S7, unconstructed C2–C5 and Claude execution retain separate owners.
 

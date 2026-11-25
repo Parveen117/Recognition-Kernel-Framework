@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG867 · [Jāmbavān’s comparison and Hanumān’s turn to fast](jambavans_game_or_figurine_and_hanumans_turn/README.md). Two prints read viṣayān. The game and the figurine have different commentators, and the two printed affix labels differ on Hanumān’s fast.
+
 PG866 · [Mallinātha locates the Bhaṭṭi variant and the aorist of yam in disclosure](mallinathas_bhatti_variant_and_yam_in_disclosure/README.md). The exact quoted variant, the separately analysed prohibition and the main causal command have three different addresses on the same printed page.
 
 PG865 · [Doubt, lying nearby and the post called upaśaya](doubt_lying_near_and_the_post_called_upasaya/README.md). Two masculine ac paradigms, the printed Mīmāṃsā sibilant and the Taittirīya post as instrument and subject.
