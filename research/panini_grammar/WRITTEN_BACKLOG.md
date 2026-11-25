@@ -1,4 +1,6 @@
-# Written-development backlog at PG872
+# Written-development backlog at PG873
+
+PG873 · [Rāmacandra’s Subodhinī and the choice of Daśaratha](ramacandras_subodhini_and_the_choice_of_dasaratha/README.md). The 2777 opening and closing excerpts and the upa-gam schedule are closed. The missing VII.103 folio and the unprinted answer at I.1 retain independent evidence requirements. Remaining C2–C5, S1–S7 and Claude’s execution stay separate.
 
 PG872 · [Hanumān recognises Sītā and begins Rāma’s story](hanuman_recognises_sita_and_begins_ramas_story/README.md). The recognition and purpose clauses and the selected pra-stu aorist are closed. The apparatus genitive, other C2–C5 domains and the inherited S1–S7 obligations remain open.
 

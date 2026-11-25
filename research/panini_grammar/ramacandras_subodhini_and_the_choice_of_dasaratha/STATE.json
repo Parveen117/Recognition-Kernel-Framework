@@ -1,0 +1,188 @@
+{
+  "stage": "PG873",
+  "publication_parent": "ff0d1508ed553b661e3972f2c358d4770e36d775",
+  "baseline": "../hanuman_recognises_sita_and_begins_ramas_story/STATE.json",
+  "finite_positions": 52513,
+  "nominal_positions": 25661,
+  "nominal_readings": 29301,
+  "new_finite_positions": 9,
+  "new_finite_readings": 10,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 0,
+  "new_morphology_constructions": 1,
+  "new_morphology_interfaces": 9,
+  "source_decisions": [
+    "2777_PHYSICAL_COPY_AND_NAMED_COLOPHON",
+    "OPENING_EXCERPT_IDENTIFIED_AT_1_1",
+    "END_EXCERPT_IDENTIFIED_AT_22_35",
+    "LIṬ_OBJECTION_IN_CATALOGUED_COMMENTARY",
+    "JAYAMANGALA_GENERAL_PAST_DISPOSITION",
+    "BHŪ_SIC_LUK_AND_GAM_AṄ_DISTINGUISHED",
+    "FATHER_IDENTIFIED_WITH_RELATIVE_OBJECT",
+    "PURPOSE_AND_SEMANTIC_AGENTS",
+    "MANDATED_AND_OPTIONAL_BOUNDARY_STOPS"
+  ],
+  "sources": {
+    "editions": {
+      "jayamangala": {
+        "item": "b3009303x",
+        "file": "b3009303x.pdf",
+        "pdf_sha256": "87059e6ea2e48e4755df0e675ff9999b15bdc9a31601609ccfae100a2d9a20aa",
+        "printed_pages": [
+          1,
+          2
+        ],
+        "archive_leaves": [
+          8,
+          9
+        ]
+      },
+      "mallinatha": {
+        "item": "BhattikavyaWithTheCommentaryOfMallinathaPart1CantosI-ix",
+        "file": "Bhatti-kavyaOrRavanavadhaVol.1Cantos1.pdf",
+        "pdf_sha256": "cc1e25fa4643d7528979dc01f9b1d9cb466fa1ff4ce5c29032f6e5e848493693",
+        "printed_pages": [
+          1,
+          2
+        ],
+        "archive_leaves": [
+          43,
+          44
+        ]
+      }
+    },
+    "gretil": {
+      "url": "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/5_poetry/2_kavya/bhattiku.htm",
+      "sha256": "3b4e0876703db37e0d07bafa13aba8bd137105d19f212c24073a4197ceeff167",
+      "key": "Bhk_1.1 and Bhk_22.35"
+    },
+    "upstream": {
+      "repository": "ashtadhyayi-com/data",
+      "commit": "5744762f010d677cfb43f347a42d02796cf615d6",
+      "files": {
+        "sutraani/kashika.txt": {
+          "blob": "e525df7668835ef1dd7c5988c031da07ce0c162b",
+          "keys": [
+            "13078",
+            "24077",
+            "31043",
+            "31044",
+            "31055",
+            "32110",
+            "32111",
+            "32115",
+            "61101",
+            "64071",
+            "73089",
+            "82039",
+            "84045",
+            "84055",
+            "84056"
+          ]
+        },
+        "dhatu/data.txt": {
+          "blob": "d39a41a998199e60e1c69740541dd78f1464e578",
+          "entries": [
+            "01.0001",
+            "01.1137"
+          ]
+        },
+        "dhatu/dhatuforms_vidyut_shuddha_kartari.txt": {
+          "blob": "bf8aa01efabdef01018635147cd37a87c8987ad8",
+          "entry": "01.1137/plung",
+          "use": "supplied unprefixed table for comparison"
+        }
+      }
+    },
+    "repository_blobs": {
+      "hanuman_recognises_sita_and_begins_ramas_story/STATE.json": "0dc9618012add6eee776ba5f7024126e2db54105",
+      "kumudanandas_subodhini_and_the_two_sides_of_the_ocean/README.md": "d3491d61ca85e2c616dd62950a6c9f83c3a56f85",
+      "editors_disposition_of_dhi_ca_and_anadyatana/README.md": "bee5b0f3391300e061a4afc016bcb1f398a1a433",
+      "grammar_construction/NATIVE_OPERATOR_LIFT.md": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b"
+    },
+    "mitra": {
+      "work": "Notices of Sanskrit MSS, VIII (1886)",
+      "printed_pages": [
+        220,
+        221
+      ],
+      "record": 2777,
+      "scans": {
+        "https://www.wisdomlib.org/uploads/ocr/essays/notices-sanskrit/1886-vol8/notices-sanskrit-vol8/221.jpg": "347f003011a0ae68cc823781352127be841c96ec56c5b002bfe50b7a182ac4ba",
+        "https://www.wisdomlib.org/uploads/ocr/essays/notices-sanskrit/1886-vol8/notices-sanskrit-vol8/222.jpg": "1bb36758f977581de87551f8128704a919d1e770c2d4ec9ae98e3634be7af37a"
+      }
+    }
+  },
+  "execution": "Claude-deferred",
+  "new_syntax_constructions": 3,
+  "new_syntax_interfaces": 6,
+  "finite_rows": [
+    [
+      "3sg",
+      [
+        "upāgamat",
+        "upāgamad"
+      ]
+    ],
+    [
+      "3du",
+      [
+        "upāgamatām"
+      ]
+    ],
+    [
+      "3pl",
+      [
+        "upāgaman"
+      ]
+    ],
+    [
+      "2sg",
+      [
+        "upāgamaḥ"
+      ]
+    ],
+    [
+      "2du",
+      [
+        "upāgamatam"
+      ]
+    ],
+    [
+      "2pl",
+      [
+        "upāgamata"
+      ]
+    ],
+    [
+      "1sg",
+      [
+        "upāgamam"
+      ]
+    ],
+    [
+      "1du",
+      [
+        "upāgamāva"
+      ]
+    ],
+    [
+      "1pl",
+      [
+        "upāgamāma"
+      ]
+    ]
+  ],
+  "clause_constructions": [
+    "general past at the introduction of the king",
+    "relative object and predicate father",
+    "world welfare and the agent’s purpose"
+  ],
+  "prior_credit": [
+    "unprefixed bhū and gam"
+  ],
+  "source_open": [
+    "source and mood at VII.103",
+    "full reply to liṭ objection in no. 2777"
+  ]
+}

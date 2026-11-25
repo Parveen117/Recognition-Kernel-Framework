@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG872
+# Pāṇini grammar · current written coverage at PG873
+
+PG873 · [Rāmacandra’s Subodhinī and the choice of Daśaratha](ramacandras_subodhini_and_the_choice_of_dasaratha/README.md). The second Subodhinī is identified in Mitra 2777. Nine new finite positions and ten readings. Census 52,513 finite, 25,661 nominal positions and 29,301 nominal readings.
 
 PG872 · [Hanumān recognises Sītā and begins Rāma’s story](hanuman_recognises_sita_and_begins_ramas_story/README.md). Nine new finite positions and ten readings. Census 52,504 finite, 25,661 nominal positions and 29,301 nominal readings.
 

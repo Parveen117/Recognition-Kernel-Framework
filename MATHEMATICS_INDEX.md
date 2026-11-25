@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG873 · [Rāmacandra’s Subodhinī and the choice of Daśaratha](research/panini_grammar/ramacandras_subodhini_and_the_choice_of_dasaratha/README.md). General-past and narrative-viewpoint histories distinguish aorist formation, commentator objection and citation boundary.
+
 PG872 · [Hanumān recognises Sītā and begins Rāma’s story](research/panini_grammar/hanuman_recognises_sita_and_begins_ramas_story/README.md). Eight clause relations and one finite schedule retain the two augment sites and independently licensed case choices.
 
 PG871 · [Kumudānanda’s Subodhinī and the two sides of the ocean](research/panini_grammar/kumudanandas_subodhini_and_the_two_sides_of_the_ocean/README.md). Two references to a single ocean select distinct case operators on source-labelled histories.
