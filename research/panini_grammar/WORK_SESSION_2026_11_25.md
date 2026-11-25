@@ -1,5 +1,7 @@
 # Written Pāṇini work session · 2026-11-25
 
+PG823 · [Nema, sama and sima](nema_sama_sima_scoped_pronominal_cases/README.md). Parent 46683801e612963596b866449e8ed4c2fe4fed97. Seven new nominal positions/eight readings, zero finite positions/readings, one construction/seven interfaces, three source decisions and four verse comparisons. Census 52,357 finite, 22,621 nominal positions/25,590 readings. Dual ubhaya and wider sense/accent obligations remain Open.
+
 PG822 · [Ubhaya feminine, number and address](ubhaya_feminine_number_and_address/README.md). Parent d8ff2bdebd21fc27ddec12f4bcb189ddf1dff6ed. Six new nominal positions/six readings, fourteen existing readings corrected, seven former dual positions suspended. Net −1 position/−1 reading. New finite 0/0. Census 52,357 finite, 22,614 nominal positions, 25,582 nominal readings. Three source decisions, one corrected construction, twenty corrected/new interfaces. Direct primary collation, permissive dual extensions and C2–C5/S1–S7 remain Open. PG335 correction and PG357–PG363 closed history preserved.
 
 Monty. Dates follow Asia/Kolkata.

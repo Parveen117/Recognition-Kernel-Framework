@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG822
+# Pāṇini grammar · current written coverage at PG823
+
+PG823 · [Nema, sama and sima](nema_sama_sima_scoped_pronominal_cases/README.md). Seven new masculine nominal positions and eight readings for half, all and whole. Census 52,357 finite positions, 22,621 nominal positions and 25,590 nominal readings.
 
 PG822 · [Ubhaya feminine, number and address](ubhaya_feminine_number_and_address/README.md). Corrects PG821. Six new vocatives, fourteen replacement feminine readings, seven suspended feminine duals. The fourteen M/N dual forms require the permissive commentary policy. Active census 52,357 finite positions, 22,614 nominal positions and 25,582 nominal readings.
 

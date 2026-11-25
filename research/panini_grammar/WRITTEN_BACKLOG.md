@@ -1,4 +1,6 @@
-# Written-development backlog at PG822
+# Written-development backlog at PG823
+
+PG823 · [Nema, sama and sima](nema_sama_sima_scoped_pronominal_cases/README.md). Selected masculine case keys closed. Other gender/number panels and the permissive ubhaya feminine dual and dual address are unconstructed. Wider sima senses, Atharvan accent and critical readings stay Open. C2–C5/S1–S7 retain their own registers, with execution deferred to Claude.
 
 PG822 · [Ubhaya feminine, number and address](ubhaya_feminine_number_and_address/README.md). Closed here: the selected feminine singular/plural and six address keys. Conditional: fourteen PG821 masculine/neuter dual keys on the permissive policy. Unconstructed: permissive feminine dual and dual address, and the remaining lexical sense boundaries of nema/sama/sima. Source readings Open: direct commentary attribution, table discrepancies, accent, S1–S7 including S5 99/103 and S6 5.56. C2–C5 remain Open. Runtime, generators, untouched suites and replay belong to Claude. Earlier PG821 counts and all earlier closure statements below are historical.
 
