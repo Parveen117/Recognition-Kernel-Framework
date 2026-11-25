@@ -1,5 +1,7 @@
 # Written Pāṇini work session · 2026-11-25
 
+PG850 · [The sleep blessing in two printed editions and the two past schedules](sleep_blessing_print_collation_and_two_past_schedules/README.md). PG849 parent 97d91daa8b3193328e63a9b232110e6181050e45. Five source decisions and three nine-position schedules. XML spelling retained, zero nominal increment.
+
 PG849 · [Vṛtra lay covering the world: the middle perfect and the accent of the repeated verb](vrtra_lay_in_two_brahmana_recensions/README.md). PG848 parent b3c452edcf75cd36e423395b9e96b2bdb918431b. One clause comparison and one accent construction with three addresses each. Five decisions. Third singular from the old rule register reserved.
 
 PG848 · [Urvaśī’s two predictions and the future of unprefixed śī](urvasi_two_future_predicates_and_the_sleep_conditional/README.md). PG847 parent c2919527d7221b5fd196c782ea5d8712d91dcd20. Five source decisions, one construction and two finite interfaces. The PG16 bhū token and PG847 night carry no new credit.

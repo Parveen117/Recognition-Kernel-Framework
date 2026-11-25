@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG850 · [The sleep blessing in two printed editions and the two past schedules](sleep_blessing_print_collation_and_two_past_schedules/README.md). Ordinary ten-category basic śīṅ agent grid now written, with the blessing/aorist second plurals collated in print.
+
 PG849 · [Vṛtra lay covering the world: the middle perfect and the accent of the repeated verb](vrtra_lay_in_two_brahmana_recensions/README.md). Vṛtra as agent of śiśye in both recensions, and the local Mādhyandina accent contrast.
 
 PG848 · [Urvaśī’s two predictions and the future of unprefixed śī](urvasi_two_future_predicates_and_the_sleep_conditional/README.md). Three nine-position schedules for bare śīṅ, with Śatapatha 11.5.1.11.

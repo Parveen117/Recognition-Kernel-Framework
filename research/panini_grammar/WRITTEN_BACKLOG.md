@@ -1,4 +1,6 @@
-# Written-development backlog at PG849
+# Written-development backlog at PG850
+
+PG850 · [The sleep blessing in two printed editions and the two past schedules](sleep_blessing_print_collation_and_two_past_schedules/README.md). Closed for basic śīṅ kartari in the ten selected categories. Still unconstructed here: duration as object versus event, prefixed government, intensive and causative histories. S1–S7, C2–C5 and Claude execution retain separate registers.
 
 PG849 · [Vṛtra lay covering the world: the middle perfect and the accent of the repeated verb](vrtra_lay_in_two_brahmana_recensions/README.md). Closed for this basic perfect and the three indexed clause occurrences. S1–S7 and wider C2–C5 including other recitations stay open. Claude owns execution.
 

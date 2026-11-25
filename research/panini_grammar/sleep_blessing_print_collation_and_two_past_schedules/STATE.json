@@ -1,0 +1,62 @@
+{
+  "stage": "PG850",
+  "publication_parent": "97d91daa8b3193328e63a9b232110e6181050e45",
+  "baseline": "../vrtra_lay_in_two_brahmana_recensions/STATE.json",
+  "finite_positions": 52430,
+  "nominal_positions": 25094,
+  "nominal_readings": 28691,
+  "new_finite_positions": 27,
+  "new_finite_readings": 29,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 0,
+  "new_morphology_constructions": 3,
+  "new_morphology_interfaces": 27,
+  "source_decisions": [
+    "TWO_PRINTS_SHORT_VOWEL_IN_BOTH_BLESSING_2PL_WORDS",
+    "TRANSCRIPTION_LONG_A_RESTRICTED_TO_DIGITAL_DENTAL_MEMBER",
+    "TWO_PRINTS_SHOW_BOTH_AORIST_2PL_WORDS",
+    "SCHOOL_LISTS_ONLY_RETROFLEX_BLESSING",
+    "IMPERFECT_DENTAL_AND_NON_PRESENT_OPTIONALITY_DISTINCT"
+  ],
+  "sources": {
+    "scl": {
+      "commit": "1ec51dc4cbfecf271e4f3cb0bba41f25b5921572",
+      "path": "dhaatupaatha/files/madhaviya_XAwuvqwwi_new.xml",
+      "git_blob": "d14a4235af32a9256615e263b4589e61c9ce25e7",
+      "sha256": "4562749571a7efe3b474b1c68f821cfc7271b07893e753ffc66e2fc7a4a79e76",
+      "entry_id": 682,
+      "number": 1000
+    },
+    "prints": {
+      "237": {
+        "item": "BdFD_madhaviya-dhatu-vritti-of-sayana-acharya-edited-by-ananta-shastri-1934-benaras-chaukhamba",
+        "leaf": 256,
+        "image_sha256": "ca155409e3f961865f8ea75b8e3704c104867cef45d3d06638df8a96e8b68537",
+        "url": "https://archive.org/details/BdFD_madhaviya-dhatu-vritti-of-sayana-acharya-edited-by-ananta-shastri-1934-benaras-chaukhamba/page/n256/mode/1up"
+      },
+      "339": {
+        "item": "qVcq_madhaviya-dhatu-vritti-by-sayana-acharya-edited-by-swami-dwarika-das-shastri-198",
+        "leaf": 394,
+        "image_sha256": "df0bbfd4d55f4ccde965956aea26cbe160dc4b1ed6bed9ff98eef88938a178ca",
+        "url": "https://archive.org/details/qVcq_madhaviya-dhatu-vritti-by-sayana-acharya-edited-by-swami-dwarika-das-shastri-198/page/n394/mode/1up"
+      }
+    },
+    "lesson18": {
+      "commit": "71a499c2fd7ff198a14819cc1894cc319ddfb54c",
+      "path": "bAla-bodhaH/saMskRtachaturthapustakam.md",
+      "repository": "vishvAsa/sanskrit",
+      "sha256": "518d454abda53a5ba8b71c3208a1b327b907fdef12464d4b54bff600596e5833"
+    },
+    "repository_blobs": {
+      "lexical_present/LEXICAL_ENTRIES.json": "7cb1d9eef060e1938e8895e3c258381431758932",
+      "lexical_modals/PARADIGMS.md": "58ec135cbd9f830870881836c7dbf40748ac3a20",
+      "gr_blessing_perfect_aorist/DERIVATIONS.md": "b1d077b2bade32b0768987320ea0cca3b5527a0d",
+      "bhid_middle_benedictive_and_two_s_queries/DERIVATION_AND_NATIVE_RECOVERY.md": "9796f5162d823700048536c8a3874f46013c1445",
+      "bhid_middle_aorist_and_sic_lopa_scope/DERIVATION_AND_NATIVE_RECOVERY.md": "f7f2bdc2c118d4e4ce6379c84bf68b4689ea0a32",
+      "grammar_construction/NATIVE_OPERATOR_LIFT.md": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+      "urvasi_two_future_predicates_and_the_sleep_conditional/STATE.json": "aecbdd9aeb0f6fbd38ab062c8fd1e793e72a304a",
+      "vrtra_lay_in_two_brahmana_recensions/STATE.json": "3cc80d3fc240e284a22857fac5741212ce92eccc"
+    }
+  },
+  "execution": "Claude-deferred"
+}

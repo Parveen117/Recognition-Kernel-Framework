@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG850 · [The sleep blessing in two printed editions and the two past schedules](research/panini_grammar/sleep_blessing_print_collation_and_two_past_schedules/README.md). Distinct operators preserve guṇa, actual ruṭ/sīyuṭ/sic and optional retroflexion.
+
 PG849 · [Vṛtra lay covering the world: the middle perfect and the accent of the repeated verb](research/panini_grammar/vrtra_lay_in_two_brahmana_recensions/README.md). Clause indexing preserves two accent outcomes for one segmental third singular.
 
 PG848 · [Urvaśī’s two predictions and the future of unprefixed śī](research/panini_grammar/urvasi_two_future_predicates_and_the_sleep_conditional/README.md). Ordered PG14 histories preserve the root, original ending and clause through specialization.
