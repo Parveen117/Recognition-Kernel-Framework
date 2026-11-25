@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG897 · [*Bhavat* honorific vocatives and third-person agreement](research/panini_grammar/bhavat_honorific_vocatives_and_third_person_agreement/README.md). Source admission, named-pattern transport, address realization and the bounded agreement operator commute with typed zero-specialization while gender-number keys, nominal/finite/Uṇādi collisions and Open competing-register grades retain distinct histories.
+
 PG896 · [Fixed-dual *ubha* vocative panels](research/panini_grammar/ubha_fixed_dual_vocative_panels/README.md). Source admission, dual-number selection, gendered ending and address realization commute with typed zero-specialization while the two equal `ubhe` outputs, ordinary/Vedic sound histories and the distinct `ubhaya` derivative remain separate.
 
 PG895 · [Seven remaining directional-pronoun vocative panels](research/panini_grammar/remaining_directional_pronoun_vocatives/README.md). Lemma/sense selection, address, number, forked ending and realization commute with typed zero-specialization while seven M-plural sums, equal surfaces and absent non-directional grades remain distinct.

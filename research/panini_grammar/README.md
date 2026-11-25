@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG897 · [*Bhavat* honorific vocatives and third-person agreement](bhavat_honorific_vocatives_and_third_person_agreement/README.md). Three explicit pattern arrows admit nine gender-number address histories, while a separate source-bounded agreement operator selects third-person predicates without merging finite/Uṇādi homographs or excluding other registers.
+
 PG896 · [Fixed-dual *ubha* vocative panels](ubha_fixed_dual_vocative_panels/README.md). Positive number and gender-column evidence admits exactly three dual address keys while `ubhe/ubhe`, ordinary `ubhau`, Vedic `ubhā` and derived `ubhaya` remain typed separately.
 
 PG895 · [Seven remaining directional-pronoun vocative panels](remaining_directional_pronoun_vocatives/README.md). Seven exact source-listed directional sense fibres reuse the reviewed address adapter while every M-plural two-arrow fork and all absent-sense grades stay typed.

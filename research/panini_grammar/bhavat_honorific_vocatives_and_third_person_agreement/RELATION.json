@@ -1,0 +1,48 @@
+{
+  "schema": "rkf.panini.pg897.relation.v1",
+  "stage": "PG897",
+  "input": {"lemma":"bhavat","sense":"honorific-you","roots":null,"preverbs":[],"verbal_pada":null,"voice":null,"genders":["M","F","N"],"numbers":["sg","du","pl"],"case":"vocative"},
+  "source_ownership": {
+    "masculine": "bhavat entry 124 plus explicit remainder-like-dhimat instruction and dhimat address row",
+    "feminine": "bhavat entry 125 plus explicit remainder-like-nadi instruction and nadi address row",
+    "neuter": "bhavat neuter entry plus explicit remainder-like-jagat instruction and jagat address row",
+    "agreement": "closing bhavat note: third-person predicate required, second person rejected; bhavan gacchati and bhavati vadati"
+  },
+  "construction": {
+    "address_owner": "2.3.47 first-case endings in address",
+    "masculine": ["bhavan","bhavantau","bhavantah"],
+    "feminine": ["bhavati","bhavatyau","bhavatyah"],
+    "neuter": ["bhavat","bhavatii","bhavanti"],
+    "morphology_constructions": 3,
+    "morphology_interfaces": 9,
+    "address_constructions": 1,
+    "address_interfaces": 9,
+    "agreement_constructions": 1,
+    "agreement_interfaces": 2,
+    "positions": 9,
+    "readings": 9
+  },
+  "source_observations": [
+    "bhavat is identified as the honorific second-person word",
+    "the masculine head forms are bhavan, bhavantau and bhavantah",
+    "the masculine remainder is explicitly assigned to the dhimat pattern",
+    "the feminine head forms are bhavati, bhavatyau and bhavatyah and the remainder is assigned to nadi",
+    "the neuter head forms are bhavat, bhavatii and bhavanti and the remainder is assigned to jagat",
+    "the three referenced pattern entries print their own address rows",
+    "third-person predicates are required with bhavat and second-person predicates are rejected",
+    "bhavan gacchati and bhavati vadati are the source's positive agreement examples"
+  ],
+  "source_policy_decisions": [
+    "Compose each explicit bhavat gender assignment only with its named pattern's address row.",
+    "Keep the nine gender-number keys distinct even where a spelling collides with a finite or unrelated nominal word.",
+    "Select third-person predicate agreement for the source's honorific bhavat register and reject second-person agreement only inside that selected policy.",
+    "Do not infer accent, literary attestation, social-register universality or a competing commentary priority."
+  ],
+  "controls": [
+    {"id":"BHAVATI_COLLISION","status":"Accepted_distinct_histories","reason":"F VOCsg bhavati is nominal address; finite bhavati and other heads retain their owners."},
+    {"id":"BHAVANTI_COLLISION","status":"Accepted_distinct_histories","reason":"N VOCpl bhavanti is an inflected nominal key; finite and Uṇādi bhavanti remain separate."},
+    {"id":"SECOND_PERSON_PREDICATE","status":"Excluded_from_selected_source_policy","reason":"The source positively prescribes third person for this honorific use."}
+  ],
+  "open": ["accent and chant","direct literary address attestations","social-register and discourse variation","competing grammatical/commentary agreement policies","C2-C5 and S1-S7"],
+  "counts": {"new_finite_positions":0,"new_finite_readings":0,"new_nominal_positions":9,"new_nominal_readings":9,"new_morphology_constructions":3,"new_morphology_interfaces":9,"new_syntax_constructions":2,"new_syntax_interfaces":11,"new_source_observations":8,"new_source_policy_decisions":4}
+}

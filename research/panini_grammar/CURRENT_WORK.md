@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG896
+# Pāṇini grammar · current written coverage at PG897
+
+PG897 · [*Bhavat* honorific vocatives and third-person agreement](bhavat_honorific_vocatives_and_third_person_agreement/README.md). Śabdamañjarī's explicit `bhavat→dhīmat/nadī/jagat` pattern arrows supply nine M/F/N address keys, and its closing note positively selects third-person predicates in the bounded honorific register. Nine nominal positions/readings are new; same-spelling finite and Uṇādi histories remain distinct. Census 52,531 finite, 26,133 nominal positions and 29,791 nominal readings.
 
 PG896 · [Fixed-dual *ubha* vocative panels](ubha_fixed_dual_vocative_panels/README.md). Śabdamañjarī explicitly makes `ubha` “both” dual-only and supplies separate M/F/N address outputs `ubhau/ubhe/ubhe`. Three new nominal positions/readings close those exact keys while the equal `ubhe` histories, PG401 Vedic `ubhā` and PG885 `ubhaya` remain distinct. Census 52,531 finite, 26,124 nominal positions and 29,782 nominal readings.
 

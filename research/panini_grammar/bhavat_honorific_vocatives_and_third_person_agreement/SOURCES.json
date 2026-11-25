@@ -1,0 +1,53 @@
+{
+  "project_dependencies": [
+    {
+      "commit": "6206eb5e5603eb2af1b5a35d9a81b0921dfc5149",
+      "path": "research/panini_grammar/ubha_fixed_dual_vocative_panels/STATE.json",
+      "git_blob_sha": "db25e8173585c7dff85c8ae0821814d8c1d2b04e",
+      "bytes": 1500,
+      "sha256": "a89df27c9aa365efc12e52707155c4e24583784dbb5db8f42fe41ef4522aa08a",
+      "use": "PG896 cumulative baseline and protected register"
+    },
+    {
+      "commit": "10c6c94401d4ff3178bc4738469ce8d63087cc02",
+      "path": "research/panini_grammar/grammar_construction/NATIVE_OPERATOR_LIFT.md",
+      "git_blob_sha": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+      "bytes": 11855,
+      "sha256": "f52e7f5cf539ef56859b890669ef738848491e4005e73be75baa49c899b5dafd",
+      "use": "PG14 full operator/history carrier and typed zero-specialization"
+    }
+  ],
+  "external_witnesses": [
+    {
+      "work": "Śabdamañjarī, entries 13, 36, 73 and 124-125 with the closing honorific note",
+      "host": "Veda Vijñāna Viṣṭaram",
+      "url": "https://vedavishtaram.in/sanskrit/s05_shabda_manjari.html",
+      "retrieved": "2026-11-25",
+      "web_text_lines": "575-586, 901-911, 1350-1358, 1938-1957",
+      "observations": [
+        "bhavat is identified as the honorific second-person word",
+        "the masculine head forms are bhavan, bhavantau and bhavantah",
+        "the masculine remainder is explicitly assigned to the dhimat pattern",
+        "the feminine head forms are bhavati, bhavatyau and bhavatyah and the remainder is assigned to nadi",
+        "the neuter head forms are bhavat, bhavatii and bhavanti and the remainder is assigned to jagat",
+        "the three referenced pattern entries print their own address rows",
+        "third-person predicates are required with bhavat and second-person predicates are rejected",
+        "bhavan gacchati and bhavati vadati are the source's positive agreement examples"
+      ]
+    }
+  ],
+  "local_excerpt": {
+    "path": "research/panini_grammar/bhavat_honorific_vocatives_and_third_person_agreement/WITNESS_EXCERPTS.txt",
+    "bytes": 858,
+    "sha256": "fb002918ac31c2924c330154ff7f7887966dbcad1eca0b2d696d8fd3153bccca",
+    "retrieved": "2026-11-25"
+  },
+  "source_fields_reused_without_new_observation_credit": [
+    {
+      "rules": "2.3.47 address-case ownership and the PG14 operator carrier",
+      "reason": "PG897 constructs new bhavat morphology, address and agreement interfaces while reusing the reviewed address rule and carrier without repeating their source credit."
+    }
+  ],
+  "source_observations_new": 8,
+  "source_policy_decisions_new": 4
+}
