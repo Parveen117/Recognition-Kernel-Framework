@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG810 · [Numeral manner, division, parts and former state](numeral_manner_division_part_and_former_state/README.md). Constructs selected 5.3.42–54 outputs: 38 new nominal/adverbial positions and 49 readings, thirteen constructions/38 interfaces and thirteen source decisions.
+
 PG809 · [Directional astāti, atasuc and distance adverbs](directional_astati_atasuc_and_distance_adverbs/README.md). Constructs selected 5.3.27–41 outputs: 80 new nominal/adverbial positions and 101 readings, fifteen constructions/80 interfaces and fourteen source decisions.
 
 PG808 · [Time nipātanas and manner/cause adverbs](time_nipatanas_and_manner_cause_adverbs/README.md). Constructs selected 5.3.16–26 outputs: 30 new nominal/adverbial positions and 35 readings, eleven constructions/30 interfaces and ten source decisions.

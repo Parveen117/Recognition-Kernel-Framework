@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG809
+# Pāṇini grammar · current written coverage at PG810
+
+PG810 · [Numeral manner, division, parts and former state](numeral_manner_division_part_and_former_state/README.md). Constructs selected 5.3.42–54 manner, redistribution, censure, part, solitude and former-state/ownership outputs. Census: 52,357 finite positions, 21,956 nominal positions and 24,891 nominal readings.
 
 PG809 · [Directional astāti, atasuc and distance adverbs](directional_astati_atasuc_and_distance_adverbs/README.md). Constructs selected 5.3.27–41 direction/place/time outputs with case-context, distance, register and source-labelled histories explicit. Census: 52,357 finite positions, 21,918 nominal positions and 24,842 nominal readings.
 

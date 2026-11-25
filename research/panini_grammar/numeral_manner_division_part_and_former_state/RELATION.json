@@ -1,0 +1,56 @@
+{
+  "stage":"PG810",
+  "morphology_constructions":[
+    {"id":"NUMERAL_DHA_MANNER","rule":"5.3.42","interfaces":["E42","D42","T42","C42","P42"]},
+    {"id":"DHA_REDISTRIBUTION","rule":"5.3.43","interfaces":["A43"],"prior_reading_links":["PG810:E42","PG810:P42"]},
+    {"id":"EKA_DHYAMUN","rule":"5.3.44","interfaces":["AY44"],"alternative_links":["PG810:E42"]},
+    {"id":"DVI_TRI_DHAMUN","rule":"5.3.45","interfaces":["DV45","TR45","MD45","MT45"],"prior_reading_links":["PG810:D42","PG810:T42"]},
+    {"id":"DVI_TRI_EDHAC","rule":"5.3.46","interfaces":["DE46","TE46"],"alternative_links":["PG810:D42","PG810:T42","PG810:DV45","PG810:TR45"]},
+    {"id":"QUALITY_CENSURE_PASAP","rule":"5.3.47","interfaces":["VP47","YP47"]},
+    {"id":"TIIYA_PART_AN","rule":"5.3.48","interfaces":["B2","B3"]},
+    {"id":"PRE_ELEVEN_PART_AN","rule":"5.3.49","interfaces":["B4","B5","B6","B7","B8","B9","B10"]},
+    {"id":"SIXTH_EIGHTH_NYA_AN","rule":"5.3.50","interfaces":["S50","A50"],"prior_reading_links":["PG810:B6","PG810:B8"]},
+    {"id":"MEASURE_ANIMAL_PART_KAN_LUK","rule":"5.3.51","interfaces":["SM51","AP51"],"alternative_links":["PG810:B6","PG810:B8","PG810:S50","PG810:A50"]},
+    {"id":"SOLITARY_EKA_AKINI_KAN_LUK","rule":"5.3.52","interfaces":["EK52S","EK52D","EK52P","EKK52","EL52"]},
+    {"id":"FORMER_STATE_CARAT","rule":"5.3.53","interfaces":["AC53","SC53","AF53"]},
+    {"id":"FORMER_POSSESSION_RUPYA_CARAT","rule":"5.3.54","interfaces":["DR54","DC54"]}
+  ],
+  "nominal_positions":[
+    {"id":"E42","readings":["ekadhā [manner of action]"]},{"id":"D42","readings":["dvidhā [manner of action]"]},{"id":"T42","readings":["tridhā [manner of action]"]},{"id":"C42","readings":["caturdhā [manner of action]"]},{"id":"P42","readings":["pañcadhā [manner of action]"]},
+    {"id":"A43","readings":["aṣṭadhā [redistribution of substance]"]},
+    {"id":"AY44","readings":["aikadhyam [manner replacement]","aikadhyam [redistribution replacement]"]},
+    {"id":"DV45","readings":["dvaidham [manner replacement]","dvaidham [redistribution replacement]"]},{"id":"TR45","readings":["traidham [manner replacement]","traidham [redistribution replacement]"]},{"id":"MD45","readings":["matidvaidhāni"]},{"id":"MT45","readings":["matitraidhāni"]},
+    {"id":"DE46","readings":["dvedhā [manner replacement]","dvedhā [redistribution replacement]"]},{"id":"TE46","readings":["tredhā [manner replacement]","tredhā [redistribution replacement]"]},
+    {"id":"VP47","readings":["vaiyākaraṇapāśaḥ [grammarian censured qua grammarian]"]},{"id":"YP47","readings":["yājñikapāśaḥ [sacrificer censured qua sacrificer]"]},
+    {"id":"B2","readings":["dvitīyaḥ [part; initial accent by an]"]},{"id":"B3","readings":["tṛtīyaḥ [part; initial accent by an]"]},
+    {"id":"B4","readings":["caturthaḥ [part; non-Vedic an]"]},{"id":"B5","readings":["pañcamaḥ [part; non-Vedic an]"]},{"id":"B6","readings":["ṣaṣṭhaḥ [part; non-Vedic an]"]},{"id":"B7","readings":["saptamaḥ [part; non-Vedic an]"]},{"id":"B8","readings":["aṣṭamaḥ [part; non-Vedic an]"]},{"id":"B9","readings":["navamaḥ [part; non-Vedic an]"]},{"id":"B10","readings":["daśamaḥ [part; non-Vedic an]"]},
+    {"id":"S50","readings":["ṣāṣṭhaḥ [part; ñ]"]},{"id":"A50","readings":["āṣṭamaḥ [part; ñ]"]},
+    {"id":"SM51","readings":["ṣaṣṭhakaḥ bhāgaḥ [measure; kan]"]},{"id":"AP51","readings":["aṣṭamo bhāgaḥ [animal body-part; affix luk]"]},
+    {"id":"EK52S","readings":["ekākī [solitary M NOMsg]"]},{"id":"EK52D","readings":["ekākinau [solitary M NOMdu]"]},{"id":"EK52P","readings":["ekākinaḥ [solitary M NOMpl]"]},{"id":"EKK52","readings":["ekakaḥ [solitary kan alternative]"]},{"id":"EL52","readings":["ekaḥ [solitary lopa alternative]"]},
+    {"id":"AC53","readings":["āḍhyacaraḥ [formerly wealthy]"]},{"id":"SC53","readings":["sukumāracaraḥ [formerly delicate]"]},{"id":"AF53","readings":["āḍhyacarī [formerly wealthy F NOMsg]"]},
+    {"id":"DR54","readings":["devadattarūpyaḥ [formerly belonging to Devadatta]"]},{"id":"DC54","readings":["devadattacaraḥ [formerly belonging to Devadatta]"]}
+  ],
+  "prior_position_reading_extensions":[
+    {"rule":"5.3.43","position":"PG810:E42","readings":["ekadhā [redistribution of substance]"]},
+    {"rule":"5.3.43","position":"PG810:P42","readings":["pañcadhā [redistribution of substance]"]},
+    {"rule":"5.3.45","position":"PG810:D42","readings":["dvidhā [redistribution alternative to dhamuñ]"]},
+    {"rule":"5.3.45","position":"PG810:T42","readings":["tridhā [redistribution alternative to dhamuñ]"]},
+    {"rule":"5.3.50","position":"PG810:B6","readings":["ṣaṣṭhaḥ [part; an alternative under 5.3.50]"]},
+    {"rule":"5.3.50","position":"PG810:B8","readings":["aṣṭamaḥ [part; an alternative under 5.3.50]"]}
+  ],
+  "source_policy_decisions":[
+    {"id":"DHA_MANNER","status":"Accepted/Excluded","decision":"Accept numeral dhā only for the manner of an action; a bare numeral relation does not inherit it."},
+    {"id":"DHA_REDISTRIBUTION","status":"Accepted","decision":"Keep change in the number/distribution of a substance distinct from manner even when the surface is ekadhā or pañcadhā."},
+    {"id":"EKA_REPLACEMENT","status":"Accepted","decision":"Apply optional dhyamuñ in both inherited relations and retain dhā as the correlated alternative."},
+    {"id":"DVI_TRI_DHAMUN","status":"Accepted","decision":"Own dhamuñ separately from dhā and keep the further ḍa vārttika limited to its displayed mati compounds."},
+    {"id":"DVI_TRI_EDHAC","status":"Accepted","decision":"Keep edhāc outputs distinct from both dhā and dhamuñ histories while preserving all three alternatives."},
+    {"id":"CENSURED_QUALITY","status":"Accepted/Excluded","decision":"License pāśap only when the designation-conferring expertise is censured; unrelated bad character is excluded."},
+    {"id":"TIIYA_PART","status":"Accepted","decision":"Construct a part relation and accent history, not a duplicate ordinal-completion reading."},
+    {"id":"PART_RANGE_REGISTER","status":"Accepted/Excluded/Open","decision":"Apply non-Vedic an below eleven; keep eleven and higher outside this rule and exact Vedic accent comparison Open."},
+    {"id":"SIXTH_EIGHTH_ALTERNATIVES","status":"Accepted","decision":"Retain ñ and an as correlated part alternatives with independent accent histories."},
+    {"id":"SPECIAL_PART_DOMAINS","status":"Accepted/Excluded","decision":"Restrict kan to a sixth of a measure and affix-luk to an eighth animal body-part; do not transfer them to generic fractions."},
+    {"id":"SOLITARY_EKA","status":"Accepted/Excluded","decision":"Treat eka as nonnumeral solitary and preserve singular, dual and plural ākini plus kan/lopa alternatives; exclude mere cardinal one."},
+    {"id":"FORMER_STATE","status":"Accepted","decision":"Attach caraṭ to a base qualified by former state and retain its explicit feminine owner."},
+    {"id":"FORMER_POSSESSION","status":"Accepted","decision":"Use a genitive possessor as input and keep rūpya/caraṭ alternatives distinct from rule-53 former-state qualification."}
+  ]
+}

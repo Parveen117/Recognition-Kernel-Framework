@@ -2,6 +2,12 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG810 · Numeral manner, division, parts and former state
+
+PG810 · [Numeral manner, division, parts and former state](numeral_manner_division_part_and_former_state/README.md). Constructs selected 5.3.42–54 outputs with 38 new nominal/adverbial positions and 49 readings. Finite positions/readings increase by zero. Thirteen constructions/38 interfaces, zero new source observations and thirteen decisions. Census: 52,357 finite positions, 21,956 nominal positions and 24,891 nominal readings.
+
+Parent `9b548f90cba52c37e7d5960e1592f0355223c051`. The containing commit pins this packet. Displayed outputs, relation ownership, alternatives, part-accent histories and controls are CLOSED. Full numeral productivity, exact Vedic accent recitation, wider primary attestations, genders/cases and non-displayed paradigms remain Open. Continue from 5.3.55. C2–C5 and S1–S7 remain Open; S5 is 99/103 and S6 retains the independent 5.56 k-it effect. Claude retains execution, generators, untouched suites and replay.
+
 ## PG809 · Directional astāti, atasuc and distance adverbs
 
 PG809 · [Directional astāti, atasuc and distance adverbs](directional_astati_atasuc_and_distance_adverbs/README.md). Constructs selected 5.3.27–41 outputs with 80 new nominal/adverbial positions and 101 readings. Finite positions/readings increase by zero. Fifteen constructions/80 interfaces, zero new source observations and fourteen decisions. Census: 52,357 finite positions, 21,918 nominal positions and 24,842 nominal readings.

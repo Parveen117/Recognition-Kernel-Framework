@@ -1,6 +1,8 @@
-# Written-development backlog at PG809
+# Written-development backlog at PG810
 
-Monty · 2026-11-25 · reviewed parent 1f98ec2eb2e5d82939a16750a225fac428a08d8f. Historical closures below retain their exact pins.
+Monty · 2026-11-25 · reviewed parent 9b548f90cba52c37e7d5960e1592f0355223c051. Historical closures below retain their exact pins.
+
+PG810 · [Numeral manner, division, parts and former state](numeral_manner_division_part_and_former_state/README.md). Displayed 5.3.42–54 outputs, relation ownership, alternatives, part-accent histories and controls are CLOSED. Full numeral productivity, exact Vedic accent recitation, wider witnesses and non-displayed genders/cases/paradigms remain genuine unconstructed or unresolved source work. Continue from 5.3.55. C2–C5 and S1–S7 remain Open; S5 is 99/103 and S6 retains the independent 5.56 k-it effect. Claude retains execution.
 
 PG809 · [Directional astāti, atasuc and distance adverbs](directional_astati_atasuc_and_distance_adverbs/README.md). Displayed 5.3.27–41 outputs, case-context ownership, distance guards, alternatives and substitutions are CLOSED. The Kāśikā/Vasu 5.3.29 surface priority and narrow versus all-direction-word scope of 5.3.35 remain unresolved source readings, not exclusions. Accent, independent Vedic witnesses and non-displayed paradigmatic distribution remain genuine unconstructed work. Continue from 5.3.42. C2–C5 and S1–S7 remain Open; S5 is 99/103 and S6 retains the independent 5.56 k-it effect. Claude retains execution.
 
