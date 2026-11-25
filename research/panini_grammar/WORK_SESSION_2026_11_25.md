@@ -1,5 +1,7 @@
 # Written Pāṇini work session · 2026-11-25
 
+PG853 · [The nasal in two printed versions of the tooth-offering example](nasal_in_two_prints_of_the_tooth_offering_example/README.md). PG852 parent 9740c66e2fad1939f69484a67a2e551d6ffe6e71. Three positive source decisions, including independent second-predicate variation. Zero new inflection or construction credit.
+
 PG852 · [Giriśa in the Rudra invocation and the two verses quoted by Haradatta](rudra_on_the_mountain_and_kalidasa_two_quoted_cases/README.md). PG851 parent 234d54a50469bf8c889e8bfb96990fa06535bdbe. Eight source decisions. One case construction at 24 interfaces. No new finite or general accent credit.
 
 PG851 · [A month spent sleeping and the village as grammatical object](sleep_for_a_month_and_the_village_as_locus_object/README.md). PG850 parent b553ca8d795da82e96d5a4e979adc0e84403ee0a. Five source decisions, three syntax constructions at nine interfaces. The active prefixed control and the repeated unprefixed singular carry zero credit.

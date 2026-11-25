@@ -1,4 +1,6 @@
-# Written-development backlog at PG852
+# Written-development backlog at PG853
+
+PG853 · [The nasal in two printed versions of the tooth-offering example](nasal_in_two_prints_of_the_tooth_offering_example/README.md). The linked four-part remaining register distinguishes closures, actual unconstructed domains, source obligations and Claude execution. A masculine no-n reading at this exact Vedic locus still lacks direct support.
 
 PG852 · [Giriśa in the Rudra invocation and the two verses quoted by Haradatta](rudra_on_the_mountain_and_kalidasa_two_quoted_cases/README.md). Closed for the indexed texts, the named Giriśa schedule and selected extensions. Wider lexical productivity, classical naming policy outside these examples, S1–S7 and C2–C5 stay Open. Claude owns execution.
 

@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG852
+# Pāṇini grammar · current written coverage at PG853
+
+PG853 · [The nasal in two printed versions of the tooth-offering example](nasal_in_two_prints_of_the_tooth_offering_example/README.md). Positive independent print evidence for the nasal-bearing 5.4.142 example; zero inflectional increment. Totals 52,435 finite, 25,116 nominal and 28,714 nominal readings.
 
 PG852 · [Giriśa in the Rudra invocation and the two verses quoted by Haradatta](rudra_on_the_mountain_and_kalidasa_two_quoted_cases/README.md). Two quotations identified, 22 nominal positions/23 readings added. Cumulative 52,435 finite, 25,116 nominal and 28,714 nominal readings.
 

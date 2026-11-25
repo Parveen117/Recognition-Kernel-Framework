@@ -1,0 +1,54 @@
+{
+  "stage": "PG853",
+  "publication_parent": "9740c66e2fad1939f69484a67a2e551d6ffe6e71",
+  "baseline": "../rudra_on_the_mountain_and_kalidasa_two_quoted_cases/STATE.json",
+  "finite_positions": 52435,
+  "nominal_positions": 25116,
+  "nominal_readings": 28714,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 0,
+  "new_morphology_constructions": 0,
+  "new_morphology_interfaces": 0,
+  "source_decisions": [
+    "NASAL_IN_VASU_WITH_EXPLICIT_MARKER_DISCUSSION",
+    "VEDANGA_PRINT_IDENTIFIES_PATRA_AND_NASAL",
+    "SECOND_PREDICATE_VARIES_INDEPENDENTLY_OF_FIRST_OBJECT"
+  ],
+  "sources": {
+    "kasika": {
+      "repository": "ashtadhyayi-com/data",
+      "commit": "db9a7f1dba06159e6bcd6efb92c9d01857939947",
+      "path": "sutraani/kashika.txt",
+      "blob": "33aee69f03d8c88d8406875c82b5d0fb1bec9b7d",
+      "fields": [
+        "54141",
+        "54142"
+      ]
+    },
+    "vasu": {
+      "item": "wg1042",
+      "printed_page": 1031,
+      "leaf": 200,
+      "pdf_sha256": "d83c309263f7eef5d8bbdc77194b8a597d9900b44bf2faf4d94cab78511e818e",
+      "url": "https://archive.org/details/wg1042/page/n200/mode/1up"
+    },
+    "vedanga": {
+      "item": "020881",
+      "printed_page": 42,
+      "host_page": 49,
+      "url": "https://jainqq.org/pagetext/Vedang_Prakash/020881/49",
+      "image_url": "https://s3.us-east-2.wasabisys.com/jainqq-hq/434030bc42b3239060406dd163b98cf4806ee833c976b8c01595877092a22aa7.jpg",
+      "jpg_sha256": "487b8c797e5d69702e13ac96eb7563f361eb4cb5dd4aef4225ad3652ae1967b2"
+    },
+    "repository_blobs": {
+      "patradatam_accusative_request_and_gender_conditioned_num_fork/STATE.json": "d5f4e541443cf7781d37e1e654fcc98927b874de",
+      "patradatam_accusative_request_and_gender_conditioned_num_fork/DERIVATION_AND_NATIVE_RECOVERY.md": "aa8e1b3e009e2f7ff830f63fc6727088b73247f6",
+      "vedic_teeth_bhattabhaskara_num_absence_and_distinct_first_members/STATE.json": "0e5fee429bbdbc5e904837c5fd01ef3fe5758924",
+      "grammar_construction/NATIVE_OPERATOR_LIFT.md": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+      "rudra_on_the_mountain_and_kalidasa_two_quoted_cases/STATE.json": "3fffc5a94d62480e79566459bf9b9f8f1bdd46cb"
+    }
+  },
+  "execution": "Claude-deferred"
+}
