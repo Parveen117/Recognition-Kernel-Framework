@@ -1,0 +1,70 @@
+{
+  "schema": "rkf.panini.pg896.relation.v1",
+  "stage": "PG896",
+  "input": {
+    "lemma": "ubha",
+    "sense": "both-fixed-dual",
+    "roots": null,
+    "preverbs": [],
+    "verbal_pada": null,
+    "voice": null,
+    "genders": ["M", "F", "N"],
+    "number": "du",
+    "case": "vocative"
+  },
+  "source_ownership": {
+    "lexical_number": "Śabdamañjarī: a-final ubha, invariably dual",
+    "gender_columns": ["masculine", "feminine", "neuter"],
+    "address_row": {"M": "he ubhau", "F": "he ubhe", "N": "he ubhe"}
+  },
+  "construction": {
+    "address_owner": "2.3.47 first-case endings in address",
+    "singular_sambuddhi": "not entered because the selected lexeme is fixed dual",
+    "masculine": "ordinary a plus au gives ubhau; PG401's Vedic aa replacement is a distinct source-qualified history",
+    "feminine": "source-exact female dual first-case output ubhe; no new historical feminine-affix claim",
+    "neuter": "dual first-case shi channel gives ubhe",
+    "morphology_constructions": 1,
+    "morphology_interfaces": 3,
+    "address_constructions": 1,
+    "address_interfaces": 3,
+    "positions": 3,
+    "readings": 3
+  },
+  "source_observations": [
+    "ubha is labelled with the meaning both",
+    "ubha is explicitly restricted to dual number",
+    "the table separates masculine, feminine and neuter columns",
+    "the masculine address word is ubhau",
+    "the feminine and neuter address words are each ubhe under distinct columns"
+  ],
+  "source_policy_decisions": [
+    "Admit exactly the three source-labelled dual address keys and construct no singular or plural member for this selected lexical contract.",
+    "Retain the two equal ubhe surfaces as distinct feminine and neuter ending histories.",
+    "Keep ordinary ubha, Vedic ubhaa and derived ubhaya histories separate; no form transfers across those keys."
+  ],
+  "controls": [
+    {"id": "FIXED_DUAL_SCOPE", "status": "Closed_selected_scope", "reason": "The source positively states the number restriction."},
+    {"id": "F_N_UBHE", "status": "Accepted_distinct_histories", "reason": "Separate source columns and gender requests converge on one surface."},
+    {"id": "VEDIC_UBHAA", "status": "Open_outside_selected_scope", "reason": "PG401 owns a source-qualified Vedic replacement and does not supply an ordinary address alternative."},
+    {"id": "UBHAYA", "status": "Excluded_from_this_lexical_key", "reason": "PG885 owns the separately derived ubhaya address family."}
+  ],
+  "open": [
+    "accent and chant",
+    "direct literary address attestations and wider discourse distribution",
+    "Vedic address alternatives beyond the PG401 case-qualified control",
+    "independent print collation and commentary priority",
+    "C2-C5 and S1-S7"
+  ],
+  "counts": {
+    "new_finite_positions": 0,
+    "new_finite_readings": 0,
+    "new_nominal_positions": 3,
+    "new_nominal_readings": 3,
+    "new_morphology_constructions": 1,
+    "new_morphology_interfaces": 3,
+    "new_syntax_constructions": 1,
+    "new_syntax_interfaces": 3,
+    "new_source_observations": 5,
+    "new_source_policy_decisions": 3
+  }
+}

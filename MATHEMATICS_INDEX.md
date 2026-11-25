@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG896 · [Fixed-dual *ubha* vocative panels](research/panini_grammar/ubha_fixed_dual_vocative_panels/README.md). Source admission, dual-number selection, gendered ending and address realization commute with typed zero-specialization while the two equal `ubhe` outputs, ordinary/Vedic sound histories and the distinct `ubhaya` derivative remain separate.
+
 PG895 · [Seven remaining directional-pronoun vocative panels](research/panini_grammar/remaining_directional_pronoun_vocatives/README.md). Lemma/sense selection, address, number, forked ending and realization commute with typed zero-specialization while seven M-plural sums, equal surfaces and absent non-directional grades remain distinct.
 
 PG894 · [Directional *pūrva* vocative panels](research/panini_grammar/purva_directional_vocative_panels/README.md). Source/sense admission, address, singular selection, forked gender-number ending and realization commute with typed zero-specialization while both M-plural arrows, four equal `pūrve` outputs and absent temporal/compound grades remain distinct.

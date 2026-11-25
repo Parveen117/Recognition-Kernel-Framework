@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG895
+# Pāṇini grammar · current written coverage at PG896
+
+PG896 · [Fixed-dual *ubha* vocative panels](ubha_fixed_dual_vocative_panels/README.md). Śabdamañjarī explicitly makes `ubha` “both” dual-only and supplies separate M/F/N address outputs `ubhau/ubhe/ubhe`. Three new nominal positions/readings close those exact keys while the equal `ubhe` histories, PG401 Vedic `ubhā` and PG885 `ubhaya` remain distinct. Census 52,531 finite, 26,124 nominal positions and 29,782 nominal readings.
 
 PG895 · [Seven remaining directional-pronoun vocative panels](remaining_directional_pronoun_vocatives/README.md). Śabdamañjarī's explicit class/pattern extension closes the selected directional senses of `para, avara, dakṣiṇa, uttara, apara, adhara, antara` at 63 new nominal positions/70 readings. Seven M-plural forks remain dual-source histories; other senses and textual/accent evidence remain Open. Census 52,531 finite, 26,121 nominal positions and 29,779 nominal readings.
 

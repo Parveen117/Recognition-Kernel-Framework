@@ -1,0 +1,58 @@
+{
+  "project_dependencies": [
+    {
+      "commit": "76790b813f2d9404df5692ec13117d1f3dbbf3b1",
+      "path": "research/panini_grammar/remaining_directional_pronoun_vocatives/STATE.json",
+      "git_blob_sha": "eddde011d6b5cacb2f1aed1acbf84b7ec2295bad",
+      "bytes": 1511,
+      "sha256": "2267b9f763925d8feb6ff3a7351f7b053902e9eca6aff94fc7a2c7f327f78952",
+      "use": "PG895 cumulative baseline and protected register"
+    },
+    {
+      "commit": "10c6c94401d4ff3178bc4738469ce8d63087cc02",
+      "path": "research/panini_grammar/ubha_vedic_dual_case_owners_and_owned_coalescence/RELATION.json",
+      "git_blob_sha": "ba9975a43f3422b1e91d1dfabc8fa26dd8f34aad",
+      "bytes": 4302,
+      "sha256": "0f330fb983b4e1d63d64df42ceb1a62439c1e456c61a550ebde7b553d97de10d",
+      "use": "PG401 exact ordinary ubhau comparison and distinct source-qualified Vedic ubhaa history"
+    },
+    {
+      "commit": "10c6c94401d4ff3178bc4738469ce8d63087cc02",
+      "path": "research/panini_grammar/grammar_construction/NATIVE_OPERATOR_LIFT.md",
+      "git_blob_sha": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+      "bytes": 11855,
+      "sha256": "f52e7f5cf539ef56859b890669ef738848491e4005e73be75baa49c899b5dafd",
+      "use": "PG14 full operator/history carrier and typed zero-specialization"
+    }
+  ],
+  "external_witnesses": [
+    {
+      "work": "Śabdamañjarī, entries 97-99, PDF pages 62-63",
+      "host": "Veda Vijñāna Viṣṭaram",
+      "url": "https://vedavishtaram.in/sanskrit/s05_shabda_manjari.html",
+      "retrieved": "2026-11-25",
+      "web_text_lines": "1659-1671",
+      "observations": [
+        "ubha is labelled with the meaning both",
+        "ubha is explicitly restricted to dual number",
+        "the table separates masculine, feminine and neuter columns",
+        "the masculine address word is ubhau",
+        "the feminine and neuter address words are each ubhe under distinct columns"
+      ]
+    }
+  ],
+  "local_excerpt": {
+    "path": "research/panini_grammar/ubha_fixed_dual_vocative_panels/WITNESS_EXCERPTS.txt",
+    "bytes": 614,
+    "sha256": "d5e1c0ba6236610e78402b33eaf1de9af0a51bdc0d40b1eba8e2a9b17bb18e0a",
+    "retrieved": "2026-11-25"
+  },
+  "source_fields_reused_without_new_observation_credit": [
+    {
+      "rules": "2.3.47 and the PG401 ordinary/Vedic dual junction",
+      "reason": "PG896 constructs new vocative interfaces while retaining the already reviewed address rule and Vedic comparison without repeating their source credit."
+    }
+  ],
+  "source_observations_new": 5,
+  "source_policy_decisions_new": 3
+}
