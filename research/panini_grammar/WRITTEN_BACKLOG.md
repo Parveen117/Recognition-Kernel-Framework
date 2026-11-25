@@ -1,4 +1,6 @@
-# Written-development backlog at PG831
+# Written-development backlog at PG832
+
+PG832 · [The makers in four Ṛgvedic clauses](makers_in_four_rigvedic_clauses/README.md). Closed for four verses on Sāyaṇa’s reading. The editorial plus and historical priority of the two analyses of duhre remain Open. The S2/S3 editorial questions are now with the source maintainers in [upstream issue #338](https://github.com/ashtadhyayi-com/data/issues/338). Four primary Uṇādi links, the independent 5.56 marker effect, and the S4 Pāṇinian entitlement on 45 requests remain Open. Wider nominal and verbal classes, affix domains, syntax and accent still need written development. Execution belongs to Claude.
 
 PG831 · [Five Haima roots and their perfect auxiliaries in print](five_haima_roots_perfect_auxiliaries_in_print/README.md). Closed: PG830 visual collation. Still open: Pāṇinian projected entitlement and the other C2–C5/S1–S7 obligations, including four primary Uṇādi links and the independent 5.56 marker effect. Claude retains execution.
 

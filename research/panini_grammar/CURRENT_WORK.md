@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG831
+# Pāṇini grammar · current written coverage at PG832
+
+PG832 · [The makers in four Ṛgvedic clauses](makers_in_four_rigvedic_clauses/README.md). Four previously unassigned kartṛ occurrences now have source-specific clause interpretations. Census 52,366 finite positions, 22,722 nominal positions and 25,693 nominal readings.
 
 PG831 · [Five Haima roots and their perfect auxiliaries in print](five_haima_roots_perfect_auxiliaries_in_print/README.md). Four facsimiles establish 12 perfect series for five Haima roots. Census 52,366 finite, 22,722 nominal positions/25,693 nominal readings.
 

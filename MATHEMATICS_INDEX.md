@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG832 · [The makers in four Ṛgvedic clauses](research/panini_grammar/makers_in_four_rigvedic_clauses/README.md). Verse dependencies and supplied commentary arguments have distinct target grades in the PG14 construction.
+
 PG831 · [Five Haima roots and their perfect auxiliaries in print](research/panini_grammar/five_haima_roots_perfect_auxiliaries_in_print/README.md). The typed comparison retains column succession, the printed heading and the attested endings as separate coordinates.
 
 PG830 · [The Haima middle perfects of syand and śṛdh](research/panini_grammar/haima_syand_and_srdh_desiderative_perfects/README.md). Typed comparison carries both schools through word matching. The projected primary's disputed licence remains an independent question.

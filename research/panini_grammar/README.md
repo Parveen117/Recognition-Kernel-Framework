@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG832 · [The makers in four Ṛgvedic clauses](makers_in_four_rigvedic_clauses/README.md). Sāyaṇa identifies the sacrificers in the Indra hymn, the praise-makers in the Sun hymn and the maker Agni in the Aryaman verse.
+
 PG831 · [Five Haima roots and their perfect auxiliaries in print](five_haima_roots_perfect_auxiliaries_in_print/README.md). The scans establish the 12-series auxiliary matrix and preserve three middle headings above active endings on pp. 232–233.
 
 PG830 · [The Haima middle perfects of syand and śṛdh](haima_syand_and_srdh_desiderative_perfects/README.md). The Dhāturatnākara supplies two middle kṛ perfect spellings for syand and one for śṛdh. The rival Pāṇinian licence remains Open.
