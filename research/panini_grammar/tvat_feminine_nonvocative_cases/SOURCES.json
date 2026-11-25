@@ -1,0 +1,45 @@
+{
+  "project_dependencies": [
+    {
+      "commit": "581ee93919bdc898d694ccdfe606de3ae5df4411",
+      "path": "research/panini_grammar/tvat_feminine_sarit_pattern_vocatives/STATE.json",
+      "git_blob_sha": "109b97d80e4ceb5179582da860e70a8660898d20",
+      "bytes": 1633,
+      "sha256": "efb78782e8d3fa467bda16c3fda10aa812c3264f12fedb7efa76f5af95d12f7f",
+      "use": "PG900 cumulative baseline and t-final feminine sarit ownership"
+    },
+    {
+      "commit": "581ee93919bdc898d694ccdfe606de3ae5df4411",
+      "path": "research/panini_grammar/tvat_feminine_sarit_pattern_vocatives/VOCATIVE_FORMS.tsv",
+      "git_blob_sha": "a8f72bb982d80bd11bf57e529b5c6bd27b180532",
+      "bytes": 389,
+      "sha256": "080800de055528d036cc79e7e49108291b941d55c8b0e1e36ab20a654885cdd6",
+      "use": "first-owned feminine vocative key exclusion"
+    },
+    {
+      "commit": "10c6c94401d4ff3178bc4738469ce8d63087cc02",
+      "path": "research/panini_grammar/grammar_construction/NATIVE_OPERATOR_LIFT.md",
+      "git_blob_sha": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+      "bytes": 11855,
+      "sha256": "f52e7f5cf539ef56859b890669ef738848491e4005e73be75baa49c899b5dafd",
+      "use": "PG14 full operator/history carrier and typed zero-specialization"
+    }
+  ],
+  "external_witnesses": [
+    {
+      "work": "SanskritDocuments Subanta Rupani, table 12",
+      "url": "https://sanskritdocuments.org/learning_tools/subantaruupaNi.html",
+      "retrieved": "2026-11-26",
+      "search_reference": "turn448796061search0",
+      "use": "seven independent feminine sarit case rows"
+    }
+  ],
+  "local_excerpt": {
+    "path": "research/panini_grammar/tvat_feminine_nonvocative_cases/WITNESS_EXCERPTS.txt",
+    "bytes": 848,
+    "sha256": "8e1ca12c6ab612cf215a8b9952885cb2c04f0bd5c49e2b1248630d6cb0735aa3",
+    "retrieved": "2026-11-26"
+  },
+  "source_observations_new": 7,
+  "source_policy_decisions_new": 3
+}

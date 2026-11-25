@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG901 · [Complete non-vocative feminine cases of *tvat*](research/panini_grammar/tvat_feminine_nonvocative_cases/README.md). PG900 decision import, gender/case-number selection, `sarit` row transport and realization commute with typed zero-specialization while syncretic surfaces, consonant history and absent textual/accent grades remain distinct.
+
 PG900 · [Feminine *tvat* under the *sarit* address pattern](research/panini_grammar/tvat_feminine_sarit_pattern_vocatives/README.md). Lexical admission, source-decision selection, feminine typing, pattern transport, inherited address and realization commute with typed zero-specialization while the older label conflict, equal masculine surfaces and Open evidence retain distinct grades.
 
 PG899 · [Masculine and neuter *tvat* vocatives](research/panini_grammar/tvat_masculine_neuter_vocatives/README.md). Lexical admission, gender selection, named-pattern transport, address and realization commute with typed zero-specialization while feminine-source conflict and the yuṣmad homograph remain distinct grades.

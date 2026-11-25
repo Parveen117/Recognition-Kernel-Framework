@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG900
+# Pāṇini grammar · current written coverage at PG901
+
+PG901 · [Complete non-vocative feminine cases of *tvat*](tvat_feminine_nonvocative_cases/README.md). PG900's positive t-final/sarit ownership now transports all seven independently printed case rows to 21 new feminine positions/readings. Ten surface spellings are new; case-number syncretisms and `tvadbh-` history remain typed. The ordinary feminine paradigm is complete across PG900–901, while M/N non-vocative panels and textual/accent evidence remain Open. Census 52,531 finite, 26,154 nominal positions and 29,812 nominal readings.
 
 PG900 · [Feminine *tvat* under the *sarit* address pattern](tvat_feminine_sarit_pattern_vocatives/README.md). A separate current exposition positively resolves PG899's internally inconsistent feminine label: `tvat` is t-final and follows `sarit`. The independent `sarit` address row supplies three new feminine keys/readings, while direct literary evidence, accent, the full non-vocative paradigm and the old label's critical history remain Open. Census 52,531 finite, 26,133 nominal positions and 29,791 nominal readings.
 

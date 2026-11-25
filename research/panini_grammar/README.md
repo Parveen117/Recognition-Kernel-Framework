@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG901 · [Complete non-vocative feminine cases of *tvat*](tvat_feminine_nonvocative_cases/README.md). PG900 source admission feeds a 21-interface `sarit` case-row transport whose typed zero-specialization preserves syncretic case-number histories and the `t/d` consonant route without repeating the vocative keys.
+
 PG900 · [Feminine *tvat* under the *sarit* address pattern](tvat_feminine_sarit_pattern_vocatives/README.md). A positive t-final/sarit source decision admits three feminine address histories through the inherited PG899 adapter while the older conflict, equal masculine surfaces and unconstructed evidence remain separately typed.
 
 PG899 · [Masculine and neuter *tvat* vocatives](tvat_masculine_neuter_vocatives/README.md). Exact source/pattern admission constructs six M/N address histories while the internally conflicted feminine source grade and the yuṣmad ablative homograph remain separately typed.

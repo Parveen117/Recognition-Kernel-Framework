@@ -1,0 +1,78 @@
+{
+  "schema": "rkf.panini.pg901.relation.v1",
+  "stage": "PG901",
+  "input": {
+    "lemma": "tvat",
+    "sense": "other-pronoun",
+    "roots": null,
+    "preverbs": [],
+    "verbal_pada": null,
+    "voice": null,
+    "gender": "F",
+    "cases": ["NOM", "ACC", "INS", "DAT", "ABL", "GEN", "LOC"],
+    "numbers": ["sg", "du", "pl"]
+  },
+  "source_ownership": {
+    "stem_and_pattern": "PG900 positive t-final feminine tvat with sarit ownership",
+    "case_rows": "SanskritDocuments Subanta Rupani table 12",
+    "address_exclusion": "PG900 retains first ownership of the three vocative keys"
+  },
+  "construction": {
+    "pattern": "exact sarit row transport to t-final tvat",
+    "voicing_route": "printed saridbh- corresponds to tvadbh- before bh-initial endings",
+    "morphology_constructions": 1,
+    "morphology_interfaces": 21,
+    "syntax_constructions": 0,
+    "syntax_interfaces": 0,
+    "positions": 21,
+    "readings": 21,
+    "new_surface_strings": 10
+  },
+  "source_observations": [
+    "the sarit nominative row has sarit, saritau and saritah",
+    "the sarit accusative row has saritam, saritau and saritah",
+    "the sarit instrumental row has sarita, saridbhyam and saridbhih",
+    "the sarit dative row has sarite, saridbhyam and saridbhyah",
+    "the sarit ablative row has saritah, saridbhyam and saridbhyah",
+    "the sarit genitive row has saritah, saritoh and saritam",
+    "the sarit locative row has sariti, saritoh and saritsu"
+  ],
+  "source_policy_decisions": [
+    "Transport all seven printed non-vocative sarit rows to the PG900-owned t-final feminine tvat stem.",
+    "Preserve the table's voiced consonant route before bh as tvadbh- and retain all case-number syncretisms as separate typed keys.",
+    "Credit no address, literary, accent, Vedic or competing-policy evidence from the case table."
+  ],
+  "controls": [
+    {
+      "id": "PG900_VOCATIVE_KEYS",
+      "status": "Closed_first_owner_zero_credit",
+      "reason": "The three vocative positions and readings were credited at PG900 and are not part of this panel."
+    },
+    {
+      "id": "YUSMAD_ABLATIVE_TVAT",
+      "status": "Accepted_distinct_history",
+      "reason": "yuṣmad ABLsg tvat has a different lemma, sense and derivation."
+    }
+  ],
+  "open": [
+    "masculine and neuter non-vocative tvat paradigms",
+    "direct literary uses of the feminine forms",
+    "accent and Vedic or recitational variants",
+    "critical history of the old i-final label",
+    "other senses and competing commentary policies",
+    "C2-C5 and S1-S7"
+  ],
+  "counts": {
+    "new_finite_positions": 0,
+    "new_finite_readings": 0,
+    "new_nominal_positions": 21,
+    "new_nominal_readings": 21,
+    "new_surface_strings": 10,
+    "new_morphology_constructions": 1,
+    "new_morphology_interfaces": 21,
+    "new_syntax_constructions": 0,
+    "new_syntax_interfaces": 0,
+    "new_source_observations": 7,
+    "new_source_policy_decisions": 3
+  }
+}
