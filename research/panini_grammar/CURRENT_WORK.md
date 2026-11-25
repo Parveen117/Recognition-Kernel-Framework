@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG854
+# Pāṇini grammar · current written coverage at PG855
+
+PG855 · [The flavour of the drink and three case readings in Māgha 10.23](the_flavour_and_three_cases_in_magha_10_23/README.md). Three finite positions and three readings. Census 52,439 finite, 25,116 nominal and 28,714 nominal readings.
 
 PG854 · [Three aorist readings and the teacher and pupil with ati + śī](three_aorists_and_two_participial_roles_of_ati_shi/README.md). One new finite position with three readings, and two participial roles. Census 52,436 finite, 25,116 nominal and 28,714 nominal readings.
 

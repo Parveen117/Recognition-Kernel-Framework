@@ -1,4 +1,6 @@
-# Written-development backlog at PG854
+# Written-development backlog at PG855
+
+PG855 · [The flavour of the drink and three case readings in Māgha 10.23](the_flavour_and_three_cases_in_magha_10_23/README.md). Closed for this textual locus and its two reported perfect policies. The authorial text, productive extent of the policies, C2–C5 and S1–S7 remain open.
 
 PG854 · [Three aorist readings and the teacher and pupil with ati + śī](three_aorists_and_two_participial_roles_of_ati_shi/README.md). The selected three-way aorist and the two attested ati + śī participial role assignments are closed here. Generalization beyond these inputs, C2–C5 and S1–S7 remain open. Claude retains execution.
 

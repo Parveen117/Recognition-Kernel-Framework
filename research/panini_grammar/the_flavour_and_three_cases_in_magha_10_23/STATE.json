@@ -1,0 +1,112 @@
+{
+  "stage": "PG855",
+  "publication_parent": "bc5a815a1c87e396391763746c59ae14787d0c24",
+  "baseline": "../three_aorists_and_two_participial_roles_of_ati_shi/STATE.json",
+  "finite_positions": 52439,
+  "nominal_positions": 25116,
+  "nominal_readings": 28714,
+  "new_finite_positions": 3,
+  "new_finite_readings": 3,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 0,
+  "new_morphology_constructions": 2,
+  "new_morphology_interfaces": 3,
+  "source_decisions": [
+    "MAGHA_10_23_IDENTIFIES_MADHAVIYA_QUOTATION",
+    "TWO_COMPETING_SUFFIX_ANALYSES",
+    "BHOJA_SHORT_MEDIAL_AND_GENITIVE",
+    "MALLINATHA_DATIVE_AGENTIVE_VS_INSTRUMENTAL_OBJECT_PERFECT",
+    "SANSKNET_SEPARATE_SHORTER_STRING",
+    "NAMA_CONTROLS_AGENTIVE_CIN_OF_PAD"
+  ],
+  "sources": {
+    "madhaviya": {
+      "scl": {
+        "commit": "1ec51dc4cbfecf271e4f3cb0bba41f25b5921572",
+        "path": "dhaatupaatha/files/madhaviya_XAwuvqwwi_new.xml",
+        "git_blob": "d14a4235af32a9256615e263b4589e61c9ce25e7",
+        "sha256": "4562749571a7efe3b474b1c68f821cfc7271b07893e753ffc66e2fc7a4a79e76",
+        "entry_id": 682,
+        "number": 1000
+      },
+      "entries": [
+        16,
+        682
+      ],
+      "page": {
+        "item": "qVcq_madhaviya-dhatu-vritti-by-sayana-acharya-edited-by-swami-dwarika-das-shastri-198",
+        "leaf": 395,
+        "printed_page": 340,
+        "jp2_sha256": "24a5a68a920a61d1fffe07de17d21decda9a914cd3b660f85a37f3ff4b1cf611"
+      }
+    },
+    "kasika": {
+      "repository": "ashtadhyayi-com/data",
+      "commit": "db9a7f1dba06159e6bcd6efb92c9d01857939947",
+      "path": "sutraani/kashika.txt",
+      "blob": "33aee69f03d8c88d8406875c82b5d0fb1bec9b7d",
+      "fields": [
+        "14033",
+        "23013",
+        "31060",
+        "43060",
+        "54034",
+        "64104",
+        "72116",
+        "73020"
+      ]
+    },
+    "poem": {
+      "locus": "MSpv_10.23",
+      "source": "GRETIL / Sansknet",
+      "html_sha256": "ad4af030ee349d2d30376cc9b1784b28fdf7f24a7a41c50e66fd294c5babecc6"
+    },
+    "mallinatha": {
+      "url": "https://sa.wikisource.org/w/index.php?oldid=254818",
+      "locus": "Sarvaṅkaṣā ad 10.23, main text and entire verse gloss",
+      "web_extraction_sha256": "f9fe6249695e9d356db011e1cd6fb7a75588800f81ab788744ab874aa8e8f891"
+    },
+    "bhoja": {
+      "url": "https://poorvam.com/pore/corpus/shringaraprakash/chapter/6?verse=55",
+      "loci": [
+        "6.39",
+        "6.40",
+        "6.41",
+        "6.42"
+      ],
+      "html_sha256": "2f0d9f51cac5553c029d245bafb7a8730c90d2a8b5932122771da1b7f25409a3"
+    },
+    "repository_blobs": {
+      "sleep_blessing_print_collation_and_two_past_schedules/STATE.json": "ee2cb443a47da48a1c714b809b47c2470222aec8",
+      "three_aorists_and_two_participial_roles_of_ati_shi/README.md": "35653e62957f5cc4963eedfde8069fbe05aac737",
+      "grammar_construction/NATIVE_OPERATOR_LIFT.md": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+      "rudra_on_the_mountain_and_kalidasa_two_quoted_cases/STATE.json": "3fffc5a94d62480e79566459bf9b9f8f1bdd46cb"
+    }
+  },
+  "execution": "Claude-deferred",
+  "new_syntax_constructions": 1,
+  "new_syntax_interfaces": 3,
+  "finite": [
+    [
+      "svad",
+      "kartari",
+      "liṭ",
+      "3sg",
+      "sasvade"
+    ],
+    [
+      "svad",
+      "karmaṇi",
+      "liṭ",
+      "3sg",
+      "sasvade"
+    ],
+    [
+      "vi+ud+pad",
+      "kartari",
+      "luṅ",
+      "3sg",
+      "vyudapādi"
+    ]
+  ]
+}

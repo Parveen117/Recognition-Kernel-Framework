@@ -1,5 +1,7 @@
 # Written Pāṇini work session · 2026-11-25
 
+PG855 · [The flavour of the drink and three case readings in Māgha 10.23](the_flavour_and_three_cases_in_magha_10_23/README.md). Parent bc5a815a1c87e396391763746c59ae14787d0c24. Six source decisions, one syntax comparison at three interfaces and three new finite keys. No nominal increment.
+
 PG854 · [Three aorist readings and the teacher and pupil with ati + śī](three_aorists_and_two_participial_roles_of_ati_shi/README.md). Parent 2b65dbb962780fc70e11715befa5f7decebba10f. Four source decisions, one finite construction at one position, one syntax construction with four clause interfaces. The inflectional increment is one finite position and three readings.
 
 PG853 · [The nasal in two printed versions of the tooth-offering example](nasal_in_two_prints_of_the_tooth_offering_example/README.md). PG852 parent 9740c66e2fad1939f69484a67a2e551d6ffe6e71. Three positive source decisions, including independent second-predicate variation. Zero new inflection or construction credit.
