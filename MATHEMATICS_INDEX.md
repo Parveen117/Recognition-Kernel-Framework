@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG837 · [The iron covering in Bhāravi’s seventeenth canto](research/panini_grammar/the_iron_covering_in_bharavis_seventeenth_canto/README.md). PG14 distinguishes an instrument as a derivational participant from the syntactic nominative of the covering in Bhāravi’s simile.
+
 PG836 · [Maimata and the missing feminine in Jñānendra’s argument](research/panini_grammar/mimata_and_the_rejected_feminine_in_tattvabodhini/README.md). The source-specific ancestry cut lands either in the feminine/possessor realization or in the objection grade.
 
 PG835 · [Ātreya and the tiras alternative in the Mādhavīyadhātuvṛtti](research/panini_grammar/atreya_and_the_tiras_alternative_in_madhaviya_print/README.md). PG14 keeps the source quotation, the gati guard, the s operation and the antecedent of suffix selection in their respective history grades.

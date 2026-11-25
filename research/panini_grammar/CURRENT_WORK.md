@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG836
+# Pāṇini grammar · current written coverage at PG837
+
+PG837 · [The iron covering in Bhāravi’s seventeenth canto](the_iron_covering_in_bharavis_seventeenth_canto/README.md). The verse quoted in PG487 has an instrument reading in Mallinātha. New 21 masculine armour positions and 22 readings. Census 52,366 finite and 22,767 nominal positions, 25,740 nominal readings.
 
 PG836 · [Maimata and the missing feminine in Jñānendra’s argument](mimata_and_the_rejected_feminine_in_tattvabodhini/README.md). Two printings establish Jñānendra’s reason for withholding the feminine before the compound rule. PG833’s 24/25 are conditional on its supplied member. Census 52,366 finite and 22,746 nominal positions, 25,718 nominal readings.
 

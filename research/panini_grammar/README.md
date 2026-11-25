@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG837 · [The iron covering in Bhāravi’s seventeenth canto](the_iron_covering_in_bharavis_seventeenth_canto/README.md). Mallinātha reads tiraskāra as a coat of armour. One verse position and twenty written inflectional companions form the seven-case panel.
+
 PG836 · [Maimata and the missing feminine in Jñānendra’s argument](mimata_and_the_rejected_feminine_in_tattvabodhini/README.md). The direct Kaumudī allocation and Jñānendra’s ancestry objection now qualify the PG833 compound.
 
 PG835 · [Ātreya and the tiras alternative in the Mādhavīyadhātuvṛtti](atreya_and_the_tiras_alternative_in_madhaviya_print/README.md). The original work’s example tiraskṛtya and the distinct non-gati ktvā prediction now have separate source records.

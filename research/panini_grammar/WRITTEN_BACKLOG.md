@@ -1,4 +1,6 @@
-# Written-development backlog at PG836
+# Written-development backlog at PG837
+
+PG837 · [The iron covering in Bhāravi’s seventeenth canto](the_iron_covering_in_bharavis_seventeenth_canto/README.md). Closed for Kirātārjunīya 17.49, Mallinātha’s instrumental gloss and the seven-case masculine covering. Still open are Halāyudha’s lexical locus for contempt, the transmission of the dictionary’s ātta reading, exact accent and address. Wider nominal, verbal, affix and syntax work and source gates retain their own registers. Claude owns execution.
 
 PG836 · [Maimata and the missing feminine in Jñānendra’s argument](mimata_and_the_rejected_feminine_in_tattvabodhini/README.md). Closed for the two printed voices at 4.1.150. The PG833 keys are conditional. The historical priority of the two descent policies, the genealogy of electronic readings and the wider S7 manuscript evidence remain open. S2/S3 editorial dispositions are in PG834. C2–C5 and the other source gates retain their registers, separate from Claude’s execution.
 
