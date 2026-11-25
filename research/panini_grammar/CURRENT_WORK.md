@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG862
+# Pāṇini grammar · current written coverage at PG863
+
+PG863 · [Two printed readings of Haradatta and time as agent or patient](two_printed_readings_of_haradatta_and_time_as_agent_or_patient/README.md). Seven source decisions and one syntax construction at four literary interfaces. Census 52,465 finite positions, 25,329 nominal positions, 28,935 nominal readings.
 
 PG862 · [A turn to sleep and the sages who ask about sleep in Raghuvaṃśa 10.14](the_turn_to_sleep_and_the_sages_who_inquire_after_sleep/README.md). Three masculine heads add 69 nominal positions and 72 readings. Census 52,465 finite, 25,329 nominal positions and 28,935 nominal readings.
 

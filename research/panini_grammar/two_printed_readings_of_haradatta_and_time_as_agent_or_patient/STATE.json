@@ -1,0 +1,122 @@
+{
+  "stage": "PG863",
+  "publication_parent": "e3bba4a419f6d18b50db27e4c32690d5f21b344e",
+  "baseline": "../the_turn_to_sleep_and_the_sages_who_inquire_after_sleep/STATE.json",
+  "finite_positions": 52465,
+  "nominal_positions": 25329,
+  "nominal_readings": 28935,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 0,
+  "new_morphology_constructions": 0,
+  "new_morphology_interfaces": 0,
+  "source_decisions": [
+    "NYASA_PARIMANAM_IN_TWO_PRINTS",
+    "HARADATTA_INUN_ON_THE_SAME_TWO_PAGES",
+    "TWO_PRINTS_NIVRTTI_VERSUS_DIGITAL_VIVRTI",
+    "WIDER_REASON_OWNED_BY_OTHERS_AT_33167",
+    "UPANISHAD_CHANGES_TIME_FROM_AGENT_TO_PATIENT",
+    "EPIC_GIVES_QUIETING_IN_THE_SECOND_HALF",
+    "HARIBHADRA_PARALLEL_HAS_STARRED_EPIC_CONTINUATION"
+  ],
+  "sources": {
+    "print_pages": {
+      "vol3": {
+        "item": "gqjO_kashika-vritti-with-nyasa-commentary-by-acharya-jinendra-buddhipada-and-padamanj",
+        "zip": "Kashika Vritti with Nyasa Commentary by Acharya Jinendra Buddhipada and Padamanjari Commentary by Haradatta Mishra Vol. 3 Ed. by Swami Dwarika Das Shastri Series No. 3 - Sudhi Publication_jp2.zip",
+        "leaves": {
+          "64": {
+            "page": 39,
+            "sha256": "7b693416ca1163d75f6f09dcceafab58fc24184e622aaa18ced506dacdbecd2b"
+          },
+          "159": {
+            "page": 134,
+            "sha256": "de5059c0492be4cbebe864974400c88bac1d1668b66c833076c3a09b44e60407"
+          }
+        }
+      },
+      "trip": {
+        "item": "3.3-4.1-kashika-with-nyasa-pada-manjari-and-bhava-bodhini-part-4-dr.-jaya-shankar-lal-tripathi",
+        "zip": "3.3-4.1-Kashika with Nyasa Pada Manjari and Bhava Bodhini Part 4 - Dr. Jaya Shankar Lal Tripathi_jp2.zip",
+        "leaves": {
+          "55": {
+            "page": 37,
+            "sha256": "5f5f8e2f707ec82e155e1473424239a3b9643dcbe1ee14bb91b33512b617e6e2"
+          },
+          "154": {
+            "page": 136,
+            "sha256": "41fc6a36d5c582fccf5f8a25ac44ce049477b9322bca0604f0f40397857aa136"
+          }
+        }
+      }
+    },
+    "texts": {
+      "maitri": {
+        "repository": "vishvAsa/vedAH_yajuH",
+        "commit": "4c88944853a88a4bfae8d92682bd1a275fd21247",
+        "path": "maitrAyaNIyam/upaniShat/6.md",
+        "blob": "7cf00129d7cbee111d4d0feefcaa2f85d04493ab"
+      },
+      "mbh": {
+        "repository": "tylergneill/gretil-mirror",
+        "commit": "3aa1e84b266bb9a89b55b3dff479658773d37c9c",
+        "path": "gretil/1_sanskr/2_epic/mbh/mbh_01_u.htm",
+        "blob": "48f3e39645cd363659025d5f5d3e5b721586af33"
+      },
+      "hari": {
+        "repository": "tylergneill/gretil-mirror",
+        "commit": "3aa1e84b266bb9a89b55b3dff479658773d37c9c",
+        "path": "gretil/corpustei/sa_haribhadrasUri-zAstravArttAsamuccaya.xml",
+        "blob": "32ba5497236ee161895321182e9a0013843dfc9c"
+      }
+    },
+    "digital": {
+      "kashika": {
+        "repository": "ashtadhyayi-com/data",
+        "commit": "db9a7f1dba06159e6bcd6efb92c9d01857939947",
+        "path": "sutraani/kashika.txt",
+        "blob": "33aee69f03d8c88d8406875c82b5d0fb1bec9b7d",
+        "keys": [
+          "33039",
+          "33167",
+          "33168"
+        ]
+      },
+      "padamanjari": {
+        "repository": "ashtadhyayi-com/data",
+        "commit": "db9a7f1dba06159e6bcd6efb92c9d01857939947",
+        "path": "sutraani/padamanjari.txt",
+        "blob": "0d926503e6f22d6375c6f2fabb247d1606742258",
+        "keys": [
+          "33039",
+          "33167",
+          "33168"
+        ]
+      },
+      "nyaas": {
+        "repository": "ashtadhyayi-com/data",
+        "commit": "db9a7f1dba06159e6bcd6efb92c9d01857939947",
+        "path": "sutraani/nyaas.txt",
+        "blob": "4b6d4c83de3f2bc776958c6798118f7fa102b894",
+        "keys": [
+          "33039",
+          "33167",
+          "33168"
+        ]
+      }
+    },
+    "repository_blobs": {
+      "the_turn_to_sleep_and_the_sages_who_inquire_after_sleep/STATE.json": "3012fd882d81bfb8cb6014228a50f297d2324e2a",
+      "opportunity_necessity/OPPORTUNITY_AND_WORTHINESS.md": "7b51faf170dfbe41d571d88c46c79cd64add4eef",
+      "opportunity_necessity/SOURCE_REVIEW.md": "d59d16ac5866a7572b631808949356e346af747e",
+      "opportunity_necessity/SOURCE_EXCERPTS.json": "5866cefebc701fd514dce8eb83f43d8af91fda34",
+      "grammar_construction/DERIVATIONS.md": "982eb97f16dc2eeb8862629fd0f7bded453724ff",
+      "grammar_construction/NATIVE_OPERATOR_LIFT.md": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+      "krt_temporal_relations/RULES_C1.md": "48612e05d111b1583562728e4dc5f58871b9c46f"
+    }
+  },
+  "execution": "Claude-deferred",
+  "new_syntax_constructions": 1,
+  "new_syntax_interfaces": 4
+}

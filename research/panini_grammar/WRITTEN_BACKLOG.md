@@ -1,4 +1,6 @@
-# Written-development backlog at PG862
+# Written-development backlog at PG863
+
+PG863 · [Two printed readings of Haradatta and time as agent or patient](two_printed_readings_of_haradatta_and_time_as_agent_or_patient/README.md). Four print loci closed by visual collation. Manuscript ancestry, unnamed speakers, C2–C5 and S1–S7 remain open. Claude retains execution.
 
 PG862 · [A turn to sleep and the sages who ask about sleep in Raghuvaṃśa 10.14](the_turn_to_sleep_and_the_sages_who_inquire_after_sleep/README.md). Three masculine schedules closed. Ordinary short-vowel nouns, the Nyāsa reading, other C2–C5 and S1–S7 domains and Claude execution retain distinct entries.
 

@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG863 · [Two printed readings of Haradatta and time as agent or patient](research/panini_grammar/two_printed_readings_of_haradatta_and_time_as_agent_or_patient/README.md). A source-indexed restriction on infinitives with time heads, and an epic apparatus parallel for Haribhadra.
+
 PG862 · [A turn to sleep and the sages who ask about sleep in Raghuvaṃśa 10.14](research/panini_grammar/the_turn_to_sleep_and_the_sages_who_inquire_after_sleep/README.md). The distinct syntax of the inquiry and its literary use, and the scope of ghañ in a pervasive turn.
 
 PG861 · [The active persons of repeated sleep and the three Vedic controls for īṭ](research/panini_grammar/the_remaining_active_persons_of_repeated_sleep_and_three_vedic_controls/README.md). The same typed ending-marker condition recovers two strong paths and one weak path.
