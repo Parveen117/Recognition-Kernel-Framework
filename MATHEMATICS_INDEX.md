@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG847 · [Second and third in the oblique cases, and the seventy-first in two traditions](research/panini_grammar/second_and_third_obliques_and_the_later_ordinal_families/README.md). The PG14 operator carries the original ṅit ending and distinguishes a supplementary source policy from a source-only surface reading.
+
 PG846 · [Ordinary ordinal agreement and two further Kāṭhaka tha forms](research/panini_grammar/ordinary_ordinal_cases_and_two_kathaka_tha_readings/README.md). The PG14 recovery retains the original ordinal suffix, its augment, feminine licensing and the case selected by the predicate.
 
 PG845 · [The fourth part of speech, Gāyatrī’s fourth foot and the fourth state](research/panini_grammar/fourth_in_speech_the_gayatri_foot_and_the_feminine_state/README.md). The typed fourth-ordinal construction distinguishes three suffix histories, two feminine endings and the agreement of turīya with pada.

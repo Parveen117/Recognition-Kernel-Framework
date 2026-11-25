@@ -1,0 +1,95 @@
+{
+  "stage": "PG847",
+  "publication_parent": "1894934e7fa9be80b376005e393087bb58fce71e",
+  "baseline": "../ordinary_ordinal_cases_and_two_kathaka_tha_readings/STATE.json",
+  "finite_positions": 52368,
+  "nominal_positions": 25094,
+  "nominal_readings": 28691,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 1273,
+  "new_nominal_readings": 1695,
+  "new_morphology_constructions": 1,
+  "new_morphology_interfaces": 1323,
+  "source_decisions": [
+    "TIYA_EXCEPTION_NOT_SUBSTITUTE_FOR_DAT",
+    "NYASA_STYLE_REDUNDANCY_DISTINCT_FROM_PADAMANJARI",
+    "PADAMANJARI_PROPOSED_ATIDESA",
+    "KATHAKA_EARTH_AND_SKY_FEMININE_LOCATIVES",
+    "GENDER_AND_NUMBER_FROM_ORDINAL_BEARER",
+    "URVASI_YEAR_COMPLETING_NIGHT",
+    "VASU_1897_SHORT_FINAL_MA_IN_BOTH_COPIES",
+    "KASIKA_TA_AND_THREE_GENDER_SCHOOL_TABLE",
+    "SIXTY_AND_SEVENTY_GUARD"
+  ],
+  "sources": {
+    "upstream": {
+      "commit": "db9a7f1dba06159e6bcd6efb92c9d01857939947",
+      "blobs": {
+        "sutraani/kashika.txt": "33aee69f03d8c88d8406875c82b5d0fb1bec9b7d",
+        "sutraani/tattvabodhini.txt": "278a54f50dd8e22a86d0eef88b88737b84474167",
+        "sutraani/balamanorama.txt": "c4002fade0835db7534ff582fe94a20e4ebb54f4",
+        "sutraani/padamanjari.txt": "0d926503e6f22d6375c6f2fabb247d1606742258"
+      }
+    },
+    "kathaka": {
+      "url": "https://titus.uni-frankfurt.de/texte/etcs/ind/aind/ved/yvs/ks/kst.htm",
+      "sha256": "458e13dd381c7bb19ba03939b657f6717c5b9342216d25271549c71c687e633b",
+      "loci": [
+        "2.9",
+        "23.10",
+        "25.6",
+        "30.10"
+      ]
+    },
+    "bhagavata": {
+      "url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/html/sa_bhAgavatapurANa.htm",
+      "sha256": "65c39c2a84ac6693e3db4c97a37aea5e9738c58cef957ad4ed27fc208251c74e",
+      "verse": "1.4.14"
+    },
+    "shatapatha": {
+      "commit": "4c88944853a88a4bfae8d92682bd1a275fd21247",
+      "path": "vAjasaneyam/mAdhyandinam/shatapatha-brAhmaNam/sarva-prastutiH/11/05/1.md",
+      "url": "https://raw.githubusercontent.com/vishvAsa/vedAH_yajuH/4c88944853a88a4bfae8d92682bd1a275fd21247/vAjasaneyam/mAdhyandinam/shatapatha-brAhmaNam/sarva-prastutiH/11/05/1.md",
+      "sha256": "4217c6338be04de3c6996ff8a2f7f515cc78770c9e9cf25bbe066eef0993a225",
+      "section": "11.5.1.11"
+    },
+    "vasu": [
+      {
+        "item": "in.gov.ignca.27186",
+        "leaf": 73,
+        "page": 918,
+        "sha256": "4793f2e2e7ead72221385da2af1be10af743804617d1c3437e9b39aa1f8608f8"
+      },
+      {
+        "item": "wg1042",
+        "leaf": 79,
+        "page": 918,
+        "sha256": "d83c309263f7eef5d8bbdc77194b8a597d9900b44bf2faf4d94cab78511e818e"
+      }
+    ],
+    "class_text": {
+      "url": "https://msrvvp.ac.in/msrvssb1/wp-content/uploads/2023/02/sanskrit-VB-6th-1.pdf",
+      "page": 42,
+      "pdf_page": 68,
+      "sha256": "2801cbc3787b13baa306701ec12625983cc425af1eca524a571886f0c3745b73"
+    },
+    "frozen": {
+      "research/panini_grammar/quantity_ordinals_and_tamat_scope/RELATION.json": "a84eb09adfa38929ec08e387556d0c8eb10d2509",
+      "research/panini_grammar/quantity_ordinals_and_tamat_scope/PANELS.md": "92b35ff2fd9220f0250fdc42259b38e66b919282",
+      "research/panini_grammar/ordinary_ordinal_cases_and_two_kathaka_tha_readings/STATE.json": "940eaa028d7c26bc6d8dbd66d8b81c59c9142fa2",
+      "research/panini_grammar/ordinary_ordinal_cases_and_two_kathaka_tha_readings/ENDINGS.tsv": "65ee3edca91d84d2dca6d2db15c459378bfced56",
+      "research/panini_grammar/anga_affix_abhyasa/RULES_7_3_C.md": "5b6e4bb6b4b17dca7731d4d9322a39f0d7f2c0b6",
+      "research/panini_grammar/extended_surplus_numerals_and_exchange_ratios/PANELS.md": "9fea2991b0164b89696e73713a0dac0399882b69",
+      "research/panini_grammar/grammar_construction/NATIVE_OPERATOR_LIFT.md": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b"
+    }
+  },
+  "execution": "Claude-deferred",
+  "uncredited_prior_or_factored_positions": 50,
+  "uncredited_ordinary_readings": 84,
+  "open": [
+    "Vasu alternative outside witnessed M NOMsg and its source",
+    "vocatives and broader recitation",
+    "C2–C5 and S1–S7"
+  ]
+}

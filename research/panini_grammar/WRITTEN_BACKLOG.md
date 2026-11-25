@@ -1,4 +1,6 @@
-# Written-development backlog at PG846
+# Written-development backlog at PG847
+
+PG847 · [Second and third in the oblique cases, and the seventy-first in two traditions](second_and_third_obliques_and_the_later_ordinal_families/README.md). PG791/792 ordinary seven-case paradigms are locally CLOSED. The Vasu m-form beyond M NOMsg, full Vedic forms, broader C2–C5 domains and S1–S7 stay Open. Claude owns execution.
 
 PG846 · [Ordinary ordinal agreement and two further Kāṭhaka tha forms](ordinary_ordinal_cases_and_two_kathaka_tha_readings/README.md). PG791’s named ordinary seven-case paradigms now close with PG845. C2–C5 include the separate PG792 ordinals, other classes, suffixes, syntax and phonology. Wider Vedic endings/accents and S1–S7 remain Open. Claude owns execution.
 
