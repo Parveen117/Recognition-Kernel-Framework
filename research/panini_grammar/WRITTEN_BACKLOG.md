@@ -1,4 +1,6 @@
-# Written-development backlog at PG856
+# Written-development backlog at PG857
+
+PG857 · [Desire to sleep, repeated sleep, and deletion of the intensive suffix](desire_repeated_sleep_and_the_deleted_intensive/README.md). The linked register distinguishes the closed PG114 causative, newly closed presents, other yaṅ-luk cells, and unresolved sources.
 
 PG856 · [Before the 2020 import: two commentary passages and the Uṇādi examples](before_the_2020_import_two_commentaries_and_the_unadi_examples/README.md). The linked four-part register states the observed 2016 and 2017 histories, required transfer evidence, four unmapped fields, outstanding C2–C5 work and Claude’s execution.
 

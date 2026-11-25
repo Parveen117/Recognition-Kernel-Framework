@@ -1,0 +1,78 @@
+{
+  "stage": "PG857",
+  "publication_parent": "031de295d20379128ba1df720fd6fe55b20b0946",
+  "baseline": "../before_the_2020_import_two_commentaries_and_the_unadi_examples/STATE.json",
+  "finite_positions": 52459,
+  "nominal_positions": 25116,
+  "nominal_readings": 28714,
+  "new_finite_positions": 20,
+  "new_finite_readings": 21,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 0,
+  "new_morphology_constructions": 4,
+  "new_morphology_interfaces": 22,
+  "source_decisions": [
+    "PRINT_SEPARATES_SAN_FROM_AORIST",
+    "SAN_MIDDLE_AND_VOWEL_ONSET",
+    "SURVIVING_YANG_AY_PRECEDES_COPY",
+    "LUK_STRONG_THIRD_SINGULAR_HAS_TWO_READINGS",
+    "LUK_BHAVA_RETAINS_LONG_I"
+  ],
+  "sources": {
+    "scl": {
+      "commit": "1ec51dc4cbfecf271e4f3cb0bba41f25b5921572",
+      "path": "dhaatupaatha/files/madhaviya_XAwuvqwwi_new.xml",
+      "git_blob": "d14a4235af32a9256615e263b4589e61c9ce25e7",
+      "sha256": "4562749571a7efe3b474b1c68f821cfc7271b07893e753ffc66e2fc7a4a79e76",
+      "entry_id": 682,
+      "number": 1000
+    },
+    "print339": {
+      "item": "qVcq_madhaviya-dhatu-vritti-by-sayana-acharya-edited-by-swami-dwarika-das-shastri-198",
+      "leaf": 394,
+      "image_sha256": "df0bbfd4d55f4ccde965956aea26cbe160dc4b1ed6bed9ff98eef88938a178ca",
+      "url": "https://archive.org/details/qVcq_madhaviya-dhatu-vritti-by-sayana-acharya-edited-by-swami-dwarika-das-shastri-198/page/n394/mode/1up"
+    },
+    "kasika": {
+      "repo": "ashtadhyayi-com/data",
+      "commit": "db9a7f1dba06159e6bcd6efb92c9d01857939947",
+      "path": "sutraani/kashika.txt",
+      "blob": "33aee69f03d8c88d8406875c82b5d0fb1bec9b7d",
+      "fields": [
+        "12009",
+        "13012",
+        "13013",
+        "13062",
+        "13078",
+        "24074",
+        "31007",
+        "31022",
+        "61009",
+        "61078",
+        "64082",
+        "71004",
+        "73084",
+        "73094",
+        "74022",
+        "74082",
+        "74083"
+      ]
+    },
+    "nyasa": "https://sanskritdocuments.org/~sanskrit/learning_tools/ashtadhyayi/vyakhya/7/7.4.22.htm",
+    "repository_blobs": {
+      "before_the_2020_import_two_commentaries_and_the_unadi_examples/STATE.json": "7695169a7925d8f05d1cf7637145d8d825f325b7",
+      "nic_original_agent/PARADIGMS.md": "a9fe166a8a44eb9ed05581b552143b27f7eec86d",
+      "nic_original_agent/STATE.json": "e70b60c7c467abb16348bb5288de1970c1106416",
+      "lexical_present/LEXICAL_ENTRIES.json": "7cb1d9eef060e1938e8895e3c258381431758932",
+      "anga_affix_abhyasa/SOURCE_EXCERPTS.json": "5deccfa3a413c5721d902714f4c3de35891cadae",
+      "independent_written_closure/RULES_A2.md": "ccc49c933be11127a896eafdbf47aae20f538769",
+      "independent_written_closure/RULES_B1.md": "ec7769cd89c2a6d293a2cdb700708cbe306c9ad9",
+      "vrtadi_san_present/PARADIGMS.md": "ad2bc86011da4cbce25982efeeb04846760ac352",
+      "sleep_for_a_month_and_the_village_as_locus_object/README.md": "036e0fe62d327241826c67b449768607c49cb670",
+      "grammar_construction/NATIVE_OPERATOR_LIFT.md": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b"
+    }
+  },
+  "execution": "Claude-deferred",
+  "reserved_finite_positions": 2,
+  "reserved_finite_readings": 2
+}

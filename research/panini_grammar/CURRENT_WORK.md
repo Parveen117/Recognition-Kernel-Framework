@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG856
+# Pāṇini grammar · current written coverage at PG857
+
+PG857 · [Desire to sleep, repeated sleep, and deletion of the intensive suffix](desire_repeated_sleep_and_the_deleted_intensive/README.md). 20 new finite positions and 21 readings. Census 52,459 finite, 25,116 nominal and 28,714 nominal readings.
 
 PG856 · [Before the 2020 import: two commentary passages and the Uṇādi examples](before_the_2020_import_two_commentaries_and_the_unadi_examples/README.md). The two 2016 commentary counterparts and the documented 2017 Uṇādi source narrow S2, S5 and S6. Census 52,439 finite, 25,116 nominal and 28,714 nominal readings.
 

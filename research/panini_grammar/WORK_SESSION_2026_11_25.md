@@ -1,5 +1,7 @@
 # Written Pāṇini work session · 2026-11-25
 
+PG857 · [Desire to sleep, repeated sleep, and deletion of the intensive suffix](desire_repeated_sleep_and_the_deleted_intensive/README.md). Parent 031de295d20379128ba1df720fd6fe55b20b0946. Five source decisions and four morphology constructions at 22 interfaces. Two earlier anchors reserved.
+
 PG856 · [Before the 2020 import: two commentary passages and the Uṇādi examples](before_the_2020_import_two_commentaries_and_the_unadi_examples/README.md). Parent 57dc63ed085f029fa80be6aaac0fd5291a177674. Eight source decisions. No new finite or nominal positions, readings or grammar constructions. The 2016 comparison and 2017 editorial statement establish distinct facts.
 
 PG855 · [The flavour of the drink and three case readings in Māgha 10.23](the_flavour_and_three_cases_in_magha_10_23/README.md). Parent bc5a815a1c87e396391763746c59ae14787d0c24. Six source decisions, one syntax comparison at three interfaces and three new finite keys. No nominal increment.
