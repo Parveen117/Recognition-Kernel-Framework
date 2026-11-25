@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG829 · [The animal petva in the verse and the ritual list](research/panini_grammar/petva_animal_in_the_verse_and_the_ritual_list/README.md). Witness-labelled recitation specializes to two distinct instrumental texts at one case address. The nominative belongs to the eleventh ritual animal.
+
 PG828 · [The boon-seekers in two prayers of Kaśyapa](research/panini_grammar/boon_seekers_in_two_kasyapa_hymns/README.md). Typed clause extraction preserves the difference between petition and predication under case realization. The previous accusative-plural analysis is reused.
 
 PG827 · [Kaśyapa’s protector and the imperative of trai](research/panini_grammar/visvapa_harivamsa_prose_and_trai_imperative/README.md). The quotation parse retains the petitioners as object and the addressee as agent. PG14 specialization preserves agreement, the lexical root and the distinction between attested and constructed forms.

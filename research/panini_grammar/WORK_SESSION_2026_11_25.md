@@ -1,5 +1,7 @@
 # Written Pāṇini work session · 2026-11-25
 
+PG829 · [The animal petva in the verse and the ritual list](petva_animal_in_the_verse_and_the_ritual_list/README.md). Parent f6b3c6b53361fa801b4c05b54abebc133fbcc501. Two attested nominal positions/three readings, zero finite, one two-case construction and two source decisions. Census 52,366 finite, 22,722 nominal positions/25,693 readings.
+
 PG828 · [The boon-seekers in two prayers of Kaśyapa](boon_seekers_in_two_kasyapa_hymns/README.md). Parent b905e1e4e0497098b1c183b06e1071a78f87904f. One nominal panel/24 interfaces, 23 new nominal positions/23 readings (one newly witnessed key, 22 written companions), zero finite; two source decisions. Census 52,366 finite, 22,720 nominal positions/25,690 readings.
 
 PG827 · [Kaśyapa’s protector and the imperative of trai](visvapa_harivamsa_prose_and_trai_imperative/README.md). Parent eaece3f022857b21d391890f21cfdb9e7c6ad5cd. Nine first-time finite positions/nine readings, zero new nominal positions/readings. One finite construction/nine interfaces, one clause analysis and one source decision. Census 52,366 finite, 22,697 nominal positions/25,667 readings.

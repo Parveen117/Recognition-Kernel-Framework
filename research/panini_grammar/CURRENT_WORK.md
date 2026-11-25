@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG828
+# Pāṇini grammar · current written coverage at PG829
+
+PG829 · [The animal petva in the verse and the ritual list](petva_animal_in_the_verse_and_the_ritual_list/README.md). Two attested masculine petva cases, three readings. Census 52,366 finite, 22,722 nominal positions/25,693 readings.
 
 PG828 · [The boon-seekers in two prayers of Kaśyapa](boon_seekers_in_two_kasyapa_hymns/README.md). Collates the imperative with the Vāmana genitive plural. New 23 nominal positions/23 readings. Census 52,366 finite, 22,720 nominal positions/25,690 readings.
 

@@ -1,4 +1,6 @@
-# Written-development backlog at PG828
+# Written-development backlog at PG829
+
+PG829 · [The animal petva in the verse and the ritual list](petva_animal_in_the_verse_and_the_ritual_list/README.md). Closed for the animal: the two named case addresses, the local RV length contrast and VS ritual assignment. Etymology, remaining cases and cross-witness species remain Open. S5 still 99/103, S6 marker effect and the other C2–C5/S1–S7 obligations remain Open. Execution belongs to Claude.
 
 PG828 · [The boon-seekers in two prayers of Kaśyapa](boon_seekers_in_two_kasyapa_hymns/README.md). Closed for these witnesses: Bhaviṣyaparvan 3.68.7 and Vāmana 26.30, and the selected masculine case construction. Open: the lexicon’s historical chapter-251 exemplar, accent, other agreement domains, C2–C5 and S1–S7. Claude retains execution.
 

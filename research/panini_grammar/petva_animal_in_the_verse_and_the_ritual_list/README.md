@@ -1,0 +1,30 @@
+# PG829 · The animal petva in the verse and the ritual list
+
+## What the sources license
+
+Śabdakalpadruma 22380 contains two analyses in a single entry. Its opening explicitly derives neuter *petvam*, nectar, from √pā ‘drink’ with itvan at Uṇādi 4.105. Its subsequent masculine animal example has different sources. The earlier [neuter panel](../unadi_six_lexical_paradigms/NOMINAL_FORMS.tsv) therefore cannot supply the lexical history of the animal. MW 128944 gives the masculine as a ram or wether and marks the proposed root with a question mark. Sāyaṇa at RV 7.18.17 glosses it by a goat, *chāga*, whereas Mahīdhara at VS 29.58 calls it a swift animal. Retain these descriptions under their respective sources. For the two inflectional paths the admitted input is the masculine lexical animal stem *petva-*. Its root and inner suffix are Open. No preverb, voice or finite affix is an input.
+
+| Case address | Witness and locator | Reading at this address |
+|---|---|---|
+| Masculine instrumental singular | Śākala RV 7.18.17b, padapāṭha, before the separate word *jaghāna* | *pétvena* |
+| Same instrumental singular | Same locus, saṃhitā, before *jaghāna* | *pétvenā* |
+| Masculine nominative singular | Vājasaneyi Mādhyandina 29.58, last animal of the eleven, at the pause | *pétvaḥ* |
+
+In the Ṛgvedic clause Indra is the agent, *siṃhyam* the accusative target and the small animal the means. Sāyaṇa's prose has a goat and an aged lion. The modern wether/lioness interpretation gives the same case relation. The pada text separates *cit*, *petvena* and *jaghāna*. The running text joins the left boundary and lengthens the final a of the instrumental. The next consonant j supplies no vowel to coalesce with a. This is a recitation-specific long final, compared with the short form at the identical case address. The accent belongs on the first syllable in both presentations. Neither the animal species gloss nor transliteration of the accent creates an extra word reading.
+
+The end of VS 29.58 can mislead if quoted starting with *sāvitro*. Mahīdhara numbers the Savitṛ animal tenth and assigns the next, black animal with one white foot, to Varuṇa as the eleventh. *Petvaḥ*, *vāruṇaḥ*, the colour word and the one-white-foot predicate all refer to that eleventh animal. The preceding Savitṛ descriptor belongs to the tenth. Uvaṭa treats the passage as assigning ritual animals to deities. Mahīdhara more specifically classifies the sentences as brāhmaṇa prescriptions. Record his classification with his reading. This passage supplies the nominative independently of the Ṛgvedic instrumental.
+
+## From a case address to the attested expression
+
+The masculine thematic stem takes the nominative singular s ending at pausa, yielding *petvaḥ*. At instrumental singular the a-stem instrumental gives *petvena* (7.1.12, the ina replacement, with vowel junction). The Śākala running-text realization at the specified verse yields *petvenā*. Its left neighbour *cit* meets the following p in connected recitation. The śākhā, textual unit, neighbouring words, accent and vowel length remain attached to their own readings. No general permission to lengthen an instrumental in prose follows. Both case addresses are witnessed. No additional panel is inferred for the ritual list.
+
+## Typed recovery and evidence
+
+Use the PG14 cut field and the right history modules over the free ordered involutive algebra with the coordinate pairing. Selection maps a witness, locus and sentence to an animal-role history. The next map selects the noun with its own gender and outer suP. A final map has distinct target grades for pada instrumental, running-verse instrumental and list-final nominative. On each admitted edge from h to h′ send the basis coefficient b to (1+z_e)b at h′, and send mismatched source grades to zero. For the augmentation ε killing every residue generator and its adjoint, π_target T_e(hb)=h′ε(b)=T_e,0 π_source(hb). Composition proves the equality on all three admitted paths. Dagger and product compatibility preserve the coordinate pairing after specialization. In particular the two instrumental paths meet at the same case address while their word grades still differ at zero. The projection has no edge from the neuter nectar suffix history into the masculine animal stem.
+
+- [RV 7.18.17, saṃhitā, padapāṭha and commentary, revision 189176](https://sa.wikisource.org/w/index.php?oldid=189176). Compare the [GRETIL pada transcription, 7,18.17](https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/1_veda/1_sam/1_rv/rvpp_07u.htm) and [Jamison–Brereton's species interpretation at stanza 17](https://vishvasa.github.io/vedAH_Rk/shAkalam/saMhitA/sarva-prastutiH/07/018/).
+- [VS 29.58 with both commentators, revision 368920](https://sa.wikisource.org/w/index.php?oldid=368920). Mahīdhara's explicit numbers 10 and 11 resolve the clause boundary.
+- [Śabdakalpadruma 22380](https://github.com/sanskrit-lexicon/csl-orig/blob/cf53a4240ac83c8f7dfd275533ebd0a0639e6b57/v02/skd/skd.txt#L276980), blob 79cc75acddecedec3b3814ff28e8102a1ab11088. [MW 128944–47](https://github.com/sanskrit-lexicon/csl-orig/blob/cf53a4240ac83c8f7dfd275533ebd0a0639e6b57/v02/mw/mw.txt#L432600), blob e72bbf56f93897b7967dbec0a882ce1489720b7c.
+- At f6b3c6b53361fa801b4c05b54abebc133fbcc501, [previous state](../boon_seekers_in_two_kasyapa_hymns/STATE.json) blob 7c5e6938d58221c0de18b337821b191d2a2511ef, [neuter table](../unadi_six_lexical_paradigms/NOMINAL_FORMS.tsv) blob 2b082ae71dca049914b27e80dcdcac844ebc8883, [S5 import state](../unadi_4105_initial_import_and_unchanged_affix_row/STATE.json) blob 5c3d6b432a9fa98bc2910f02dda9ad8fcce211e6. [PG14 native lift](../grammar_construction/NATIVE_OPERATOR_LIFT.md) at 10c6c94401d4ff3178bc4738469ce8d63087cc02, blob fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b.
+
+Two new nominal positions and three source-conditioned word readings. One two-case construction and two source decisions cover recitation and ritual assignment. No finite positions/readings and no S5 affix promotion. Other case uses, the animal's etymology and the historical relation of the species readings remain Open.

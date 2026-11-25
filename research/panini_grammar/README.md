@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG829 · [The animal petva in the verse and the ritual list](petva_animal_in_the_verse_and_the_ritual_list/README.md). The animal occurs as the means in RV 7.18.17 and belongs to Varuṇa in VS 29.58. The neuter nectar formation retains its own history.
+
 PG828 · [The boon-seekers in two prayers of Kaśyapa](boon_seekers_in_two_kasyapa_hymns/README.md). Two hymns distinguish the boon-seekers as accusative object and genitive dependents. The masculine -in panel reuses PG827’s prose control.
 
 PG827 · [Kaśyapa’s protector and the imperative of trai](visvapa_harivamsa_prose_and_trai_imperative/README.md). The prose supports the petition in the second singular, with eight written companion forms. The earlier bhṛ and protector keys retain their original credits.
