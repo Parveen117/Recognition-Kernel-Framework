@@ -1,5 +1,7 @@
 # Written Pāṇini work session · 2026-11-25
 
+PG842 · [The boundary Indra broke and the two feminine stems](the_boundary_indra_broke_and_the_two_feminine_stems/README.md). Parent dc5ea1b38afd415eaf58062bcf4fbe832c082409. One 21-interface construction, four source decisions. Three previously supplied nominative keys/five readings withheld. Finite 0/0, nominal +18/+37. Census 52,368 finite, 22,865 nominal positions/25,862 nominal readings.
+
 PG841 · [Sima in six hymns and the three agreement genders](sima_in_six_hymns_and_the_three_agreement_genders/README.md). Parent b8d79658a62a9152e284d4b2daa12314a69755eb. One 63-interface case construction, one Vedic address and one verse-specific accusative reading. Six source decisions. New nominal 62/65 and finite 0/0. Census 52,368 finite, 22,847 nominal positions/25,825 nominal readings.
 
 PG840 · [Two roots for Sītā’s words about the enemies in Bhaṭṭi 14.57](two_roots_for_the_enemies_in_bhatti_14_57/README.md). Parent fcb9adb9b45be1d807c2cba4e242cbb06c166354. Four source decisions, one two-root clause construction, two finite interfaces and three selected readings. Finite +2/+3, nominal 0/0. Census 52,368 finite, 22,785 nominal positions/25,760 nominal readings.

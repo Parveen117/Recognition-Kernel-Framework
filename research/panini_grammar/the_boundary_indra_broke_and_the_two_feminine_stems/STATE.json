@@ -1,0 +1,48 @@
+{
+  "stage": "PG842",
+  "publication_parent": "dc5ea1b38afd415eaf58062bcf4fbe832c082409",
+  "baseline": "../sima_in_six_hymns_and_the_three_agreement_genders/STATE.json",
+  "finite_positions": 52368,
+  "nominal_positions": 22865,
+  "nominal_readings": 25862,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 18,
+  "new_nominal_readings": 37,
+  "new_morphology_constructions": 1,
+  "new_morphology_interfaces": 21,
+  "source_decisions": [
+    "JAIMINIYA_3_111_PARALLEL_IN_METRE_NAMING",
+    "UNADI_MANIN_AND_OPTIONAL_DAP",
+    "MANU_ACCUSATIVE_AND_LOCATIVE_IN_CONTEXT",
+    "MANU_8_251_APPARATUS_PRESERVED"
+  ],
+  "sources": {
+    "snapshot_sha256": {
+      "jaiminiya_kanda3_111_html": "374d8a29c2e8e2807f014345c4b76a96f839c13bf19590ac3e027b376bc7ac76",
+      "manu_gretil_html": "6124da0c159226052138988ddd7358ba742a0e925ba5fce28135e50bae432918",
+      "sabda_manjari_transcription": "f89775e4409215316aafd888e16604c58310f75668cb959668f517b416036677",
+      "ordinary_word_table_html": "398b0668e38580cb6cc55873e03f07bc12716ce5a9d9c398beb8911fbffe3bd7",
+      "unadi_file": "00a2f267a103bf34f92fb627fe90f9bdceb3962e261f3cb78afda2a22b790020"
+    },
+    "unadi": {
+      "commit": "db9a7f1dba06159e6bcd6efb92c9d01857939947",
+      "path": "unaadi/data.txt",
+      "field": "4150",
+      "git_blob": "1a1348b14721917f8a92efb0ec7751bda0a2a9df"
+    },
+    "frozen": {
+      "research/panini_grammar/unadi_fourth_pada_readings/RELATION.json": "c2cd931f6bbac469424f7531a0e648345ba7e21f",
+      "research/panini_grammar/unadi_fifth_pada_readings/ALL_LEXICAL_READINGS.tsv": "a9830bb790079626e1a5cb5d3ce81fd1daab5bee",
+      "research/panini_grammar/sima_in_six_hymns_and_the_three_agreement_genders/STATE.json": "061b22f4c3b65c5b84c29a67a1b88be7d1916388"
+    }
+  },
+  "execution": "Claude-deferred",
+  "reused_positions": 3,
+  "reused_readings": 5,
+  "open": [
+    "Sāyaṇa exemplars",
+    "Vājasaneyi Brāhmaṇa parallel",
+    "Manu apparatus analysis and manuscript priority"
+  ]
+}

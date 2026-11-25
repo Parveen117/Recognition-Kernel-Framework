@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG842 · [The boundary Indra broke and the two feminine stems](research/panini_grammar/the_boundary_indra_broke_and_the_two_feminine_stems/README.md). A two-branch 21-key case construction retains the optional ḍāp and the independent weak-locative decision on PG14.
+
 PG841 · [Sima in six hymns and the three agreement genders](research/panini_grammar/sima_in_six_hymns_and_the_three_agreement_genders/README.md). PG14 preserves the two syntactic roles at 10.28.11 and the relation between a vocative word and its continuous-text length.
 
 PG840 · [Two roots for Sītā’s words about the enemies in Bhaṭṭi 14.57](research/panini_grammar/two_roots_for_the_enemies_in_bhatti_14_57/README.md). A typed PG14 selection separates poem attestation, the two strong-ending controls and the disputed elision.

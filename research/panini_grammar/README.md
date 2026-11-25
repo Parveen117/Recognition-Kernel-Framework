@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG842 · [The boundary Indra broke and the two feminine stems](the_boundary_indra_broke_and_the_two_feminine_stems/README.md). Uṇādi 4.150 supplies two feminine boundary stems. The lexical derivation, the seven cases and the Vedic explanation of the name of the verses have separate owners.
+
 PG841 · [Sima in six hymns and the three agreement genders](sima_in_six_hymns_and_the_three_agreement_genders/README.md). The seven ordinary cases of sima accompany four newly located verse analyses and two previously identified verses with more precise source interpretation.
 
 PG840 · [Two roots for Sītā’s words about the enemies in Bhaṭṭi 14.57](two_roots_for_the_enemies_in_bhatti_14_57/README.md). The main text’s hiṃs perfect and the ni + han variant now have separate root, ending and source histories.

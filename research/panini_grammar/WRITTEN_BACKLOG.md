@@ -1,4 +1,6 @@
-# Written-development backlog at PG841
+# Written-development backlog at PG842
+
+PG842 · [The boundary Indra broke and the two feminine stems](the_boundary_indra_broke_and_the_two_feminine_stems/README.md). Closed for JB 3.111, the selected feminine boundary cases and the main readings of Manu 8.245, 251, 252, 265. Sāyaṇa’s precise exemplars and the named Vājasaneyi parallel remain open. Four Uṇādi 4.105 links, the other source gates, C2–C5 and Claude’s execution retain their previous owners.
 
 PG841 · [Sima in six hymns and the three agreement genders](sima_in_six_hymns_and_the_three_agreement_genders/README.md). Closed for whole-sense agreement and the six named passages. Other sima meanings, accent in other traditions, the exceptional plural and the exact Brāhmaṇa quotation loci remain Open. Sama’s other panels and the C2–C5 and S1–S7 registers remain distinct from Claude’s execution.
 

@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG841
+# Pāṇini grammar · current written coverage at PG842
+
+PG842 · [The boundary Indra broke and the two feminine stems](the_boundary_indra_broke_and_the_two_feminine_stems/README.md). JB 3.111 locates the Brāhmaṇa parallel and Manu distinguishes two case forms of boundary. New 18 nominal positions/37 readings. Census 52,368 finite, 22,865 nominal positions/25,862 nominal readings.
 
 PG841 · [Sima in six hymns and the three agreement genders](sima_in_six_hymns_and_the_three_agreement_genders/README.md). Three agreement genders and six hymns. The accusative object and nominative subject interpretations at 10.28.11 have separate owners. New 62 nominal positions/65 readings, finite 0/0. Census 52,368 finite, 22,847 nominal positions/25,825 nominal readings.
 
