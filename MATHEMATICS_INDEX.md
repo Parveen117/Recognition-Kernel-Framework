@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG895 · [Seven remaining directional-pronoun vocative panels](research/panini_grammar/remaining_directional_pronoun_vocatives/README.md). Lemma/sense selection, address, number, forked ending and realization commute with typed zero-specialization while seven M-plural sums, equal surfaces and absent non-directional grades remain distinct.
+
 PG894 · [Directional *pūrva* vocative panels](research/panini_grammar/purva_directional_vocative_panels/README.md). Source/sense admission, address, singular selection, forked gender-number ending and realization commute with typed zero-specialization while both M-plural arrows, four equal `pūrve` outputs and absent temporal/compound grades remain distinct.
 
 PG893 · [*Viśva* vocative panels](research/panini_grammar/visva_vocative_panels/README.md). Source-family admission, address, singular selection, gender-number ending and realization commute with typed zero-specialization while `am`/m-lopa, four equal `viśve` outputs and absent compound/name grades retain distinct histories.

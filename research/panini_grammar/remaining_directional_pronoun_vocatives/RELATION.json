@@ -1,0 +1,27 @@
+{
+  "schema": "rkf.panini.pg895.relation.v1",
+  "stage": "PG895",
+  "inputs": [
+    {"lemma":"para","sense":"directional-other"},
+    {"lemma":"avara","sense":"western-directional"},
+    {"lemma":"dakṣiṇa","sense":"southern-directional"},
+    {"lemma":"uttara","sense":"northern-directional"},
+    {"lemma":"apara","sense":"directional-other"},
+    {"lemma":"adhara","sense":"inferior-directional"},
+    {"lemma":"antara","sense":"outer-directional"}
+  ],
+  "shared_request": {"roots":null,"preverbs":[],"verbal_pada":null,"voice":null,"genders":["M","F","N"],"numbers":["sg","du","pl"],"case":"vocative"},
+  "source_ownership": {"class":"Śabdamañjarī directional list","masculine":"entry 94 extends the pūrva pattern to para and remaining sixth-group members","feminine":"entry 95 extends pūrvā to parā and following members","neuter":"entry 96 extends pūrva to para and following members"},
+  "construction": {"address_owner":"2.3.47 first-case endings in address","singular_owner":"2.3.49 sambuddhi only in singular","masculine_plural_fork":"-e under pronominal jas-to-śī / -āḥ under source-retained adjectival jas","neuter_singular":"7.1.24 am plus 6.1.69 m-lopa; no adḍ","morphology_constructions":7,"interfaces":70,"positions":63,"readings":70},
+  "source_policy_decisions": [
+    "Admit the seven exact source-listed stems only in their directional senses; non-directional, temporal, relational, proper-name and compound requests stay Open.",
+    "At each M VOCpl key retain both source-pattern readings without selecting critical priority or declaring either erroneous.",
+    "Preserve lemma, sense, gender-number and original-ending histories, including ordinary am plus m-lopa for every N singular."
+  ],
+  "controls": [
+    {"id":"SEVEN_M_PL_FORKS","status":"Accepted_OpenPriority","reason":"the entry-94 pattern explicitly carries both alternatives to the named class"},
+    {"id":"NON_DIRECTIONAL_USES","status":"Open","reason":"class admission is sense-bound"},
+    {"id":"DIRECT_ATTESTATION_ACCENT_VEDIC","status":"Open","reason":"paradigm construction is not literary or accent evidence"}
+  ],
+  "counts": {"new_finite_positions":0,"new_finite_readings":0,"new_nominal_positions":63,"new_nominal_readings":70,"new_morphology_constructions":7,"new_morphology_interfaces":70,"new_syntax_constructions":1,"new_syntax_interfaces":70,"new_source_observations":4,"new_source_policy_decisions":3}
+}

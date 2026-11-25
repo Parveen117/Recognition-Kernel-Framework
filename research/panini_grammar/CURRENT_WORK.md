@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG894
+# Pāṇini grammar · current written coverage at PG895
+
+PG895 · [Seven remaining directional-pronoun vocative panels](remaining_directional_pronoun_vocatives/README.md). Śabdamañjarī's explicit class/pattern extension closes the selected directional senses of `para, avara, dakṣiṇa, uttara, apara, adhara, antara` at 63 new nominal positions/70 readings. Seven M-plural forks remain dual-source histories; other senses and textual/accent evidence remain Open. Census 52,531 finite, 26,121 nominal positions and 29,779 nominal readings.
 
 PG894 · [Directional *pūrva* vocative panels](purva_directional_vocative_panels/README.md). Śabdamañjarī's directional/eastern M/F/N rows license nine new nominal positions and ten readings. M VOCpl retains both printed `pūrve/pūrvāḥ` histories with critical priority Open; temporal/compound senses and unquoted evidence are not imported. Census 52,531 finite, 26,058 nominal positions and 29,709 nominal readings.
 

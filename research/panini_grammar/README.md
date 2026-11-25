@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG895 · [Seven remaining directional-pronoun vocative panels](remaining_directional_pronoun_vocatives/README.md). Seven exact source-listed directional sense fibres reuse the reviewed address adapter while every M-plural two-arrow fork and all absent-sense grades stay typed.
+
 PG894 · [Directional *pūrva* vocative panels](purva_directional_vocative_panels/README.md). The exact eastern/directional request enters the address adapter while the printed M-plural pronominal/adjectival fork remains source-labelled and typed.
 
 PG893 · [*Viśva* vocative panels](visva_vocative_panels/README.md). Four explicit Śabdamañjarī ownership statements admit the free all/universal M/F/N family into the address adapter while compounds, names, other senses and unquoted evidence remain outside it.
