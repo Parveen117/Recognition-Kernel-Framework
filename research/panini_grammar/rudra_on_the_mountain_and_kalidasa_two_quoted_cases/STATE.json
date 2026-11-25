@@ -1,0 +1,64 @@
+{
+  "stage": "PG852",
+  "publication_parent": "234d54a50469bf8c889e8bfb96990fa06535bdbe",
+  "baseline": "../sleep_for_a_month_and_the_village_as_locus_object/STATE.json",
+  "finite_positions": 52435,
+  "nominal_positions": 25116,
+  "nominal_readings": 28714,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 22,
+  "new_nominal_readings": 23,
+  "new_morphology_constructions": 1,
+  "new_morphology_interfaces": 24,
+  "source_decisions": [
+    "FOUR_UPAPADA_RELATIONS_KEPT_DISTINCT",
+    "TWO_INNER_DIGDHASAHA_ACCOUNTS",
+    "MAITRAYANI_ARROW_ADDRESS_DIFFERS_FROM_VS",
+    "MAHIDHARA_SEPARATES_VOCATIVE_AND_ACCHA",
+    "BHASYA_POSSESSION_VERSUS_VEDIC_ROOT_DA",
+    "HARADATTA_REPORT_AND_ATREYA_NAMING_POLICY",
+    "TWO_PADAMANJARI_POEM_QUOTATIONS_LOCATED",
+    "KALIDASA_NOMINATIVE_AND_DATIVE_CONTROLS"
+  ],
+  "sources": {
+    "madhaviya": {
+      "item": "qVcq_madhaviya-dhatu-vritti-by-sayana-acharya-edited-by-swami-dwarika-das-shastri-198",
+      "leaf": 395,
+      "printed_page": 340,
+      "jp2_sha256": "24a5a68a920a61d1fffe07de17d21decda9a914cd3b660f85a37f3ff4b1cf611"
+    },
+    "grammar": {
+      "commit": "db9a7f1dba06159e6bcd6efb92c9d01857939947",
+      "paths": {
+        "sutraani/bhashya.txt": "e1220bd6b793992747ee3c23cfb09f9fc15fdf81",
+        "sutraani/padamanjari.txt": "0d926503e6f22d6375c6f2fabb247d1606742258",
+        "sutraani/kashika.txt": "33aee69f03d8c88d8406875c82b5d0fb1bec9b7d"
+      }
+    },
+    "veda": {
+      "repository": "vishvAsa/vedAH_yajuH",
+      "commit": "4c88944853a88a4bfae8d92682bd1a275fd21247",
+      "files": {
+        "vAjasaneyam/mAdhyandinam/saMhitA/uvaTa-mahIdharau/16.md": "c26eecf8694c93ad9328b8925d7e37515553c0a8d03af28475be03f4b2e7fed0",
+        "maitrAyaNIyam/saMhitA/visvara-saMhitA/2/09/01.md": "bb57ea8f46ab12a2cfe6cd34eb15c21547ecc3800542a6e4668c96cd360050a6"
+      }
+    },
+    "poem": {
+      "url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/html/sa_kAlidAsa-kumArasaMbhava.htm",
+      "sha256": "62183c2210c6ec636ef63896fb03aacdd279d78d751573b004a552ee79f08459",
+      "loci": [
+        "1.37",
+        "1.59",
+        "1.60",
+        "3.65"
+      ]
+    },
+    "repository_blobs": {
+      "compound_case_derivation/RULES_3_2_A.md": "cb997c44d88b63af8aba9310afcd79f06551bf59",
+      "sleep_for_a_month_and_the_village_as_locus_object/STATE.json": "0ab85d8dbdde5cacf1b3ae9ab6f6283b643bb5ce",
+      "grammar_construction/NATIVE_OPERATOR_LIFT.md": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b"
+    }
+  },
+  "execution": "Claude-deferred"
+}

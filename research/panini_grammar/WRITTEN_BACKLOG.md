@@ -1,4 +1,6 @@
-# Written-development backlog at PG851
+# Written-development backlog at PG852
+
+PG852 · [Giriśa in the Rudra invocation and the two verses quoted by Haradatta](rudra_on_the_mountain_and_kalidasa_two_quoted_cases/README.md). Closed for the indexed texts, the named Giriśa schedule and selected extensions. Wider lexical productivity, classical naming policy outside these examples, S1–S7 and C2–C5 stay Open. Claude owns execution.
 
 PG851 · [A month spent sleeping and the village as grammatical object](sleep_for_a_month_and_the_village_as_locus_object/README.md). Closed for the selected event and two object schedules in third-person present. Duration-object treatment outside this scope, other lakāras/derivations, S1–S7 and wider C2–C5 stay open. Claude owns execution.
 

@@ -1,5 +1,7 @@
 # Written Pāṇini work session · 2026-11-25
 
+PG852 · [Giriśa in the Rudra invocation and the two verses quoted by Haradatta](rudra_on_the_mountain_and_kalidasa_two_quoted_cases/README.md). PG851 parent 234d54a50469bf8c889e8bfb96990fa06535bdbe. Eight source decisions. One case construction at 24 interfaces. No new finite or general accent credit.
+
 PG851 · [A month spent sleeping and the village as grammatical object](sleep_for_a_month_and_the_village_as_locus_object/README.md). PG850 parent b553ca8d795da82e96d5a4e979adc0e84403ee0a. Five source decisions, three syntax constructions at nine interfaces. The active prefixed control and the repeated unprefixed singular carry zero credit.
 
 PG850 · [The sleep blessing in two printed editions and the two past schedules](sleep_blessing_print_collation_and_two_past_schedules/README.md). PG849 parent 97d91daa8b3193328e63a9b232110e6181050e45. Five source decisions and three nine-position schedules. XML spelling retained, zero nominal increment.

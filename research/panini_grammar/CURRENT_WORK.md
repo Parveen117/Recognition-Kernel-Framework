@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG851
+# Pāṇini grammar · current written coverage at PG852
+
+PG852 · [Giriśa in the Rudra invocation and the two verses quoted by Haradatta](rudra_on_the_mountain_and_kalidasa_two_quoted_cases/README.md). Two quotations identified, 22 nominal positions/23 readings added. Cumulative 52,435 finite, 25,116 nominal and 28,714 nominal readings.
 
 PG851 · [A month spent sleeping and the village as grammatical object](sleep_for_a_month_and_the_village_as_locus_object/README.md). A three-by-three role/number comparison. Five new finite positions/readings, cumulative 52,435 finite, 25,094 nominal/28,691 readings.
 

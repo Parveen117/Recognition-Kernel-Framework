@@ -1,0 +1,24 @@
+# PG852 · Giriśa in the Rudra invocation and the two verses quoted by Haradatta
+
+The earlier 3.2.15 register separates an ordinary location of lying from four extensions. The lexical evidence admits the following distinct dependencies. A śaya compound can denote a sleeper in a hollow (gartaśaya). In pārśvaśaya the body part is instrumental in the expansion; the explicit dual pārśvābhyām is Kāśikā's own. The 1983 Mādhavīya p. 340 also gives urasā śete, uraḥśaya. For uttānaśaya the preceding word predicates the agent's posture, while digdhasahaśaya requires the whole inner digdha-saha constituent (digdhena saha). The Mādhavīya gives two accounts of its inner compound, the mayūravyaṃsaka class or the warrant of this very expression; the outer construction then takes the whole inner member as upapada. Kāśikā gives avamūrdhaśaya as another posture. The print gives ūrdhvaśaya. The words target different orientations. None of these ac examples changes a Vedic ḍa to ac in giriśa.
+
+**What the Vedic word actually addresses.** In Mādhyandina Vājasaneyī Saṃhitā 16.4, worshippers address Rudra with auspicious speech. Mahīdhara separates *he giriśa*, explains the name through lying on Kailāsa and connects *accha* with the act of addressing. Thus saṃhitā *giriśācchā* includes an external vowel junction; it does not provide a long stem or an extra case ending. In the preceding arrow stanza VS 16.3 the second address is *giritra*. The corresponding Maitrāyaṇī Saṃhitā 2.9.1 instead has *giriśa* already in this arrow stanza, as well as in the following speech stanza. Preserve the two recensions' allocations. The neighbouring *giriśanta* has its own internal constituents. A case count cannot absorb the difference between the names.
+
+**Which derivation may be used in poetry?** On the Vedic vārttika under 3.2.15 take giri in locative relation to śī, with the special ḍa and its ṭi deletion, giving giri-śa. The Bhāṣya also offers the possessive taddhita interpretation, one who has the mountain. The two analyses posit different inputs. In his Padamañjarī Haradatta raises two poetic uses against the Vedic restriction. He reports poetic freedom and also reports others' lomādi śa under 5.2.100. The Mādhavīya print p. 340 attributes a named-usage explanation to Ātreya and relates the possessive explanation to Haradatta. Keep the whole Padamañjarī passage, including its *anye*, and the later report as separate testimony. No branch licenses productive ordinary ḍa for every location word.
+
+**Both quotations identified in the poem.** Kumārasaṃbhava 1.60 makes Giriśa the accusative object of Pārvatī's daily service (*giriśam upacacāra*). At 1.37 the later raising is predicated in the passive participial construction with *giriśena* as its agent. The same edition provides a third case at 3.65: Gaurī offers the garland to *giriśāya*, the dative recipient. In 1.59 *giriśo ’numene* resolves to nominative *giriśaḥ*. These witnesses settle the category and four particular case uses. They do not select one historical formation for the poet.
+
+| Case | Singular | Dual | Plural |
+| --- | --- | --- | --- |
+| NOM | giriśaḥ | giriśau | giriśāḥ |
+| ACC | giriśam | giriśau | giriśān |
+| INS | giriśena | giriśābhyām | giriśaiḥ |
+| DAT | giriśāya | giriśābhyām | giriśebhyaḥ |
+| ABL | giriśāt / giriśād | giriśābhyām | giriśebhyaḥ |
+| GEN | giriśasya | giriśayoḥ | giriśānām |
+| LOC | giriśe | giriśayoḥ | giriśeṣu |
+| VOC | giriśa | giriśau | giriśāḥ |
+
+The case forms are the classical inflection of the lexical masculine name under the admitted named/possessive policies. Dual and plural require repeated bearers or quoted applications of the name. Only the individual cited words have poem or mantra attestation here. Reserve NOMsg and VOCsg as earlier citation and address controls; count 22 additional grammatical positions and 23 readings including the optional final voicing at ablative singular pause. A pair of derivations converging on a word never doubles its case credit.
+
+**Typed recovery.** Use the PG14 paired finite-support right history modules over the full ordered involutive coefficient algebra. The derivation grades distinguish instrumental body part, comitative inner constituent, posture predicate, Vedic locative + śī + ḍa and possessed giri + śa. Retain author, clause, source policy, register and original sup. A licensed change maps e_h b to e_k(1+z_j)b; a rejected input maps to zero. Augmentation commutes with this change on every typed basis summand, and by multiplicativity and compatibility with involution commutes with composites and adjoint pairing. Coefficient one lifts each ordinary accepted path. The same written giriśena in a poetic clause therefore recovers its instrumental role at zero while its source policies stay distinguishable. Accent in unrestricted derived names and the productive extent of all four extensions stay open.
