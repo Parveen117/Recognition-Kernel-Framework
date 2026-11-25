@@ -1,4 +1,6 @@
-# Written-development backlog at PG867
+# Written-development backlog at PG868
+
+PG868 · [Understanding Sītā’s fate and the prohibition against disbelief](budh_in_an_exhortation_and_a_prohibition/README.md). The unprefixed budh schedules close here. Desiderative agent nouns at VII.98–100, other C2–C5 constructions, and S1–S7 retain separate entries.
 
 PG867 · [Jāmbavān’s comparison and Hanumān’s turn to fast](jambavans_game_or_figurine_and_hanumans_turn/README.md). The disease, game and turn-taking forms are closed on these heads. The two literary interpretations and S1’s unresolved mood retain their owners.
 

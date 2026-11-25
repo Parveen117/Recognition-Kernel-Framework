@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG868 · [Understanding Sītā’s fate and the prohibition against disbelief](budh_in_an_exhortation_and_a_prohibition/README.md). The poem uses a benedictive as an exhortation and mā with aorist sic. Three schedules retain root, voice and augment ownership.
+
 PG867 · [Jāmbavān’s comparison and Hanumān’s turn to fast](jambavans_game_or_figurine_and_hanumans_turn/README.md). Two prints read viṣayān. The game and the figurine have different commentators, and the two printed affix labels differ on Hanumān’s fast.
 
 The review branch uses [Repository checks](../../.github/workflows/repository-checks.yml) for CI. Python 3.12 checks the PG1 inventory and source pins, reproduces the twelve existing PG2–PG13 reports against source commit `5744762f010d677cfb43f347a42d02796cf615d6`, and checks the [written stage register](check_written.py). The written check reconciles published deltas where recorded, including withdrawals and restorations. Linguistic review of the open domains remains tracked in [the backlog](WRITTEN_BACKLOG.md). The [PG77 comparison](kram_observation/README.md) exercises direct and shared evaluation of the root-facing iṭ decision on 171 previously written forms. It also supports selective word and full-history queries.

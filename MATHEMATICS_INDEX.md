@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG868 · [Understanding Sītā’s fate and the prohibition against disbelief](research/panini_grammar/budh_in_an_exhortation_and_a_prohibition/README.md). Typed recovery distinguishes optional actor ciṇ, sic with deletion, and prohibitive augment suppression on divādi budh.
+
 [Shared iṭ evaluation on the PG77 √kram grid](research/panini_grammar/kram_observation/README.md) retains the PG14/PG77 operators and history through typed zero-specialization. A keyed terminal word projection and a streaming history check recover the same declared grid.
 
 PG867 · [Jāmbavān’s comparison and Hanumān’s turn to fast](research/panini_grammar/jambavans_game_or_figurine_and_hanumans_turn/README.md). Three ā-stem schedules preserve the source-specific marker, compound and accent histories.

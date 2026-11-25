@@ -1,0 +1,176 @@
+{
+  "stage": "PG868",
+  "publication_parent": "7122d43c21c0c079ea3788bfad5bc687f40599f8",
+  "baseline": "../jambavans_game_or_figurine_and_hanumans_turn/STATE.json",
+  "finite_positions": 52495,
+  "nominal_positions": 25446,
+  "nominal_readings": 29054,
+  "new_finite_positions": 24,
+  "new_finite_readings": 25,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 0,
+  "new_morphology_constructions": 3,
+  "new_morphology_interfaces": 27,
+  "source_decisions": [
+    "THE_TWO_EDITION_LOCATORS",
+    "BENEDICTIVE_EXHORTATION_WITH_NO_WISH_INTENDED",
+    "NEGATIVE_SIC_AND_CA_VERSUS_SMA",
+    "BUDH_AND_KR_SECOND_PLURAL_DENTALS",
+    "DIVADI_BUDH_AND_TWO_BHVADI_CONTROLS",
+    "ACTOR_CIN_OR_SIC_ONLY_AT_TA",
+    "ASPIRATE_TRANSFER_WITH_RETAINED_S_OR_SURVIVING_DHV"
+  ],
+  "sources": {
+    "editions": {
+      "jayamangala": {
+        "item": "b3009303x",
+        "file": "b3009303x.pdf",
+        "pdf_sha256": "87059e6ea2e48e4755df0e675ff9999b15bdc9a31601609ccfae100a2d9a20aa",
+        "printed_page": 164,
+        "archive_leaf": 171
+      },
+      "mallinatha": {
+        "item": "BhattikavyaWithTheCommentaryOfMallinathaPart1CantosI-ix",
+        "file": "Bhatti-kavyaOrRavanavadhaVol.1Cantos1.pdf",
+        "pdf_sha256": "cc1e25fa4643d7528979dc01f9b1d9cb466fa1ff4ce5c29032f6e5e848493693",
+        "printed_page": 252,
+        "archive_leaf": 294
+      }
+    },
+    "gretil": {
+      "url": "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/5_poetry/2_kavya/bhattiku.htm",
+      "sha256": "3b4e0876703db37e0d07bafa13aba8bd137105d19f212c24073a4197ceeff167",
+      "key": "Bhk_7.100-1/2"
+    },
+    "upstream": {
+      "repository": "ashtadhyayi-com/data",
+      "commit": "5744762f010d677cfb43f347a42d02796cf615d6",
+      "files": {
+        "sutraani/kashika.txt": {
+          "blob": "e525df7668835ef1dd7c5988c031da07ce0c162b",
+          "keys": [
+            "12010",
+            "12011",
+            "12012",
+            "31061",
+            "31066",
+            "33175",
+            "33176",
+            "64074",
+            "64104",
+            "82025",
+            "82026",
+            "82037",
+            "82040",
+            "83078",
+            "84053",
+            "84055"
+          ]
+        },
+        "sutraani/kaumudi.txt": {
+          "blob": "686f4b7593f2dd05e1f8b6181425cfa9cf20655b",
+          "keys": [
+            "31060"
+          ]
+        },
+        "dhatu/data.txt": {
+          "blob": "d39a41a998199e60e1c69740541dd78f1464e578",
+          "keys": [
+            "1040068",
+            "1010994",
+            "1011016"
+          ]
+        }
+      }
+    },
+    "repository_blobs": {
+      "jambavans_game_or_figurine_and_hanumans_turn/STATE.json": "50b4fa336f47eefe23742f9f74112585b9112ce8",
+      "grammar_construction/NATIVE_OPERATOR_LIFT.md": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+      "independent_written_closure/RULES_A2.md": "ccc49c933be11127a896eafdbf47aae20f538769",
+      "compound_case_derivation/RULES_3_1_B.md": "76561e45b599118816bd4150ba44772aaf875667",
+      "benediction/PARADIGMS.md": "e7e4fa036d99a8102c188bed14d7b262a95bfe6b",
+      "cin_aorist/PARADIGMS.md": "1934900b29f9ca5fc45846f3cb33e5373a6c2b37",
+      "bhid_middle_benedictive_and_two_s_queries/DERIVATION_AND_NATIVE_RECOVERY.md": "9796f5162d823700048536c8a3874f46013c1445",
+      "bhid_middle_aorist_and_sic_lopa_scope/DERIVATION_AND_NATIVE_RECOVERY.md": "f7f2bdc2c118d4e4ce6379c84bf68b4689ea0a32",
+      "prohibitive_lung/WORK_RECORD.md": "a3aebbd398e4ce6499a1e6021bedfd4b30426cbc",
+      "abhyasa_tripadi/SOURCE_EXCERPTS.json": "11180c4dcff36d29b4a8e8ffa0ec77dd7e59d10e",
+      "bhid_middle_benedictive_and_two_s_queries/SOURCES.json": "af96b21783abed212725c62988d4a2da25839aac"
+    }
+  },
+  "execution": "Claude-deferred",
+  "new_syntax_constructions": 1,
+  "new_syntax_interfaces": 2,
+  "columns": [
+    "ashirling",
+    "ordinary_lung",
+    "mang_lung"
+  ],
+  "finite_rows": [
+    [
+      "3sg",
+      "bhutsīṣṭa",
+      "abodhi / abuddha",
+      "bodhi / buddha"
+    ],
+    [
+      "3du",
+      "bhutsīyāstām",
+      "abhutsātām",
+      "bhutsātām"
+    ],
+    [
+      "3pl",
+      "bhutsīran",
+      "abhutsata",
+      "bhutsata"
+    ],
+    [
+      "2sg",
+      "bhutsīṣṭhāḥ",
+      "abuddhāḥ",
+      "buddhāḥ"
+    ],
+    [
+      "2du",
+      "bhutsīyāsthām",
+      "abhutsāthām",
+      "bhutsāthām"
+    ],
+    [
+      "2pl",
+      "bhutsīdhvam",
+      "abhuddhvam",
+      "bhuddhvam"
+    ],
+    [
+      "1sg",
+      "bhutsīya",
+      "abhutsi",
+      "bhutsi"
+    ],
+    [
+      "1du",
+      "bhutsīvahi",
+      "abhutsvahi",
+      "bhutsvahi"
+    ],
+    [
+      "1pl",
+      "bhutsīmahi",
+      "abhutsmahi",
+      "bhutsmahi"
+    ]
+  ],
+  "reserved": {
+    "ashirling/3sg": [
+      "bhutsīṣṭa"
+    ],
+    "ordinary_lung/3sg": [
+      "abodhi",
+      "abuddha"
+    ],
+    "ordinary_lung/2pl": [
+      "abhuddhvam"
+    ]
+  }
+}

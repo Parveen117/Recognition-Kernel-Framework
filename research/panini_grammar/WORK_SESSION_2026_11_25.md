@@ -1,5 +1,7 @@
 # Written Pāṇini work session · 2026-11-25
 
+PG868 · [Understanding Sītā’s fate and the prohibition against disbelief](budh_in_an_exhortation_and_a_prohibition/README.md). Parent 7122d43c21c0c079ea3788bfad5bc687f40599f8. Three finite schedules, 27 interfaces, 24 new finite positions and 25 readings, seven source decisions and one two-clause comparison.
+
 PG867 · [Jāmbavān’s comparison and Hanumān’s turn to fast](jambavans_game_or_figurine_and_hanumans_turn/README.md). Parent 6ea66ce1f12e9092234165924b44458f70113507. Eight source decisions, 71 new nominal positions/readings, three morphology constructions/72 interfaces and two syntax constructions/four interfaces.
 
 **CI integration through PG867.** The written baseline is `0f902343a6a8a8de4bc36c53461c8e1894c2a99b`. The CI change adds reproducible checks for the written register and the twelve existing executable reports. It restores five links required by the mathematics navigation tests and distinguishes two exact Vasu quotations (2.1.53 and 3.2.48) in the release audit. Source records retain their original bytes. CI adds zero stages, finite or nominal positions, readings or source decisions. The GitHub checks on the integration commit report the hosted result.

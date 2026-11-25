@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG867
+# Pāṇini grammar · current written coverage at PG868
+
+PG868 · [Understanding Sītā’s fate and the prohibition against disbelief](budh_in_an_exhortation_and_a_prohibition/README.md). Three middle schedules give 24 new finite positions and 25 readings. Census 52,495 finite positions, 25,446 nominal positions and 29,054 nominal readings.
 
 PG867 · [Jāmbavān’s comparison and Hanumān’s turn to fast](jambavans_game_or_figurine_and_hanumans_turn/README.md). 71 new nominal positions and readings. Census 52,471 finite positions, 25,446 nominal positions and 29,054 nominal readings.
 
