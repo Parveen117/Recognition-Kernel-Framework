@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG899
+# Pāṇini grammar · current written coverage at PG900
+
+PG900 · [Feminine *tvat* under the *sarit* address pattern](tvat_feminine_sarit_pattern_vocatives/README.md). A separate current exposition positively resolves PG899's internally inconsistent feminine label: `tvat` is t-final and follows `sarit`. The independent `sarit` address row supplies three new feminine keys/readings, while direct literary evidence, accent, the full non-vocative paradigm and the old label's critical history remain Open. Census 52,531 finite, 26,133 nominal positions and 29,791 nominal readings.
 
 PG899 · [Masculine and neuter *tvat* vocatives](tvat_masculine_neuter_vocatives/README.md). Śabdamañjarī's explicit `tvat→marut/jagat` arrows supply six M/N address keys. Its internally conflicted feminine instruction remains Open, and pronoun `tvat` stays distinct from yuṣmad ABLsg `tvat`. Census 52,531 finite, 26,130 nominal positions and 29,788 nominal readings.
 

@@ -1,0 +1,43 @@
+{
+  "project_dependencies": [
+    {
+      "commit": "1f253b9e199d094a6ba978b918e2939a0b62bc61",
+      "path": "research/panini_grammar/tvat_masculine_neuter_vocatives/STATE.json",
+      "git_blob_sha": "53ec141fef582461fa89cef01932e206baa1529f",
+      "bytes": 1518,
+      "sha256": "9da2ea5bec17bd1be1f78769bcdb4df59d2e0484b81712d3abf45b87ea00c284",
+      "use": "PG899 cumulative baseline and masculine/neuter ownership"
+    },
+    {
+      "commit": "10c6c94401d4ff3178bc4738469ce8d63087cc02",
+      "path": "research/panini_grammar/grammar_construction/NATIVE_OPERATOR_LIFT.md",
+      "git_blob_sha": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+      "bytes": 11855,
+      "sha256": "f52e7f5cf539ef56859b890669ef738848491e4005e73be75baa49c899b5dafd",
+      "use": "PG14 full operator/history carrier and typed zero-specialization"
+    }
+  ],
+  "external_witnesses": [
+    {
+      "work": "Ashtadhyayi.com exposition at 1.1.27",
+      "url": "https://ashtadhyayi.com/sutraani/1/1/27",
+      "retrieved": "2026-11-26",
+      "use": "positive t-final and feminine sarit-pattern decision"
+    },
+    {
+      "work": "SanskritDocuments Subanta Rupani, table 12",
+      "url": "https://sanskritdocuments.org/learning_tools/subantaruupaNi.html",
+      "retrieved": "2026-11-26",
+      "web_text_lines": "245-254",
+      "use": "independent feminine sarit address row"
+    }
+  ],
+  "local_excerpt": {
+    "path": "research/panini_grammar/tvat_feminine_sarit_pattern_vocatives/WITNESS_EXCERPTS.txt",
+    "bytes": 1038,
+    "sha256": "309d6448bc3d589c93f7800df1986d1934d944476422036d2a4bb21ec5a6b582",
+    "retrieved": "2026-11-26"
+  },
+  "source_observations_new": 5,
+  "source_policy_decisions_new": 3
+}

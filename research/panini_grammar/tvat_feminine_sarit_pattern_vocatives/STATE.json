@@ -1,0 +1,36 @@
+{
+  "stage": "PG900",
+  "date": "2026-11-26",
+  "publication_parent": "1f253b9e199d094a6ba978b918e2939a0b62bc61",
+  "baseline": "../tvat_masculine_neuter_vocatives/STATE.json",
+  "finite_positions": 52531,
+  "nominal_positions": 26133,
+  "nominal_readings": 29791,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 3,
+  "new_nominal_readings": 3,
+  "new_globally_unique_surface_strings": 0,
+  "new_morphology_constructions": 1,
+  "new_morphology_interfaces": 3,
+  "new_syntax_constructions": 0,
+  "new_syntax_interfaces": 3,
+  "new_source_observations": 5,
+  "new_source_policy_decisions": 3,
+  "local_closure": "Selected feminine tvat vocatives are CLOSED at three typed positions/readings through the positive t-final sarit decision.",
+  "accepted": [
+    "feminine t-final sarit-pattern ownership for the selected address domain",
+    "three feminine gender-number address keys",
+    "same-surface PG899 masculine forms as distinct histories"
+  ],
+  "open_obligations": [
+    "Direct literary address, accent, complete non-vocative feminine paradigm and critical history of the old i-final label remain Open.",
+    "Six K139 and three extended-139 meanings, residual K128 variants, C2-C5/S1-S7 and native/global gates remain Open.",
+    "No source gap is converted into an exclusion."
+  ],
+  "protected_registers": {
+    "PG335": "-9 finite positions and -12 readings already applied",
+    "PG340/346, PG349-352, PG355-360, PG357-363": "CLOSED on registered scopes"
+  },
+  "runtime_policy": "Written derivation only. Claude owns execution, generators, untouched suites and certificate replay."
+}

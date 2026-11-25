@@ -1,0 +1,75 @@
+{
+  "schema": "rkf.panini.pg900.relation.v1",
+  "stage": "PG900",
+  "input": {
+    "lemma": "tvat",
+    "sense": "other-pronoun",
+    "roots": null,
+    "preverbs": [],
+    "verbal_pada": null,
+    "voice": null,
+    "gender": "F",
+    "numbers": ["sg", "du", "pl"],
+    "case": "vocative"
+  },
+  "source_ownership": {
+    "classification": "Ashtadhyayi.com current exposition: tvat is t-final, means different, and is sarit-pattern in the feminine",
+    "pattern_row": "SanskritDocuments table 12: feminine sarit address row sarit, saritau, saritah",
+    "historical_conflict": "PG899 preserves the older i-final/sarit collision without alteration"
+  },
+  "construction": {
+    "address_owner": "PG899 address adapter, ultimately 2.3.47 first-case endings in address",
+    "feminine": ["tvat", "tvatau", "tvatah"],
+    "morphology_constructions": 1,
+    "morphology_interfaces": 3,
+    "new_address_constructions": 0,
+    "address_interfaces": 3,
+    "positions": 3,
+    "readings": 3,
+    "globally_new_surface_strings": 0
+  },
+  "source_observations": [
+    "the current exposition identifies tvat in the meaning different",
+    "the current exposition identifies tvat as t-final",
+    "the current exposition assigns feminine tvat to the sarit pattern",
+    "the independent table identifies sarit as feminine",
+    "the independent table prints the sarit address row sarit, saritau and saritah"
+  ],
+  "source_policy_decisions": [
+    "For the selected feminine vocative construction, prefer the explicit t-final sarit assignment over the internally inconsistent old i-final label.",
+    "Transport only the independently printed sarit address row and retain the older conflicting wording as historical evidence.",
+    "Keep equal masculine and feminine surfaces as separate typed keys and infer no direct attestation, accent or complete feminine paradigm."
+  ],
+  "controls": [
+    {
+      "id": "OLD_I_FINAL_LABEL",
+      "status": "Superseded_for_selected_address_construction",
+      "reason": "It conflicts internally with sarit; the current independent exposition positively selects t-final sarit-pattern tvat."
+    },
+    {
+      "id": "PG899_MASCULINE_HOMOGRAPHS",
+      "status": "Accepted_distinct_histories",
+      "reason": "The three surface strings coincide, but the PG900 keys have feminine gender and independent source reconciliation."
+    }
+  ],
+  "open": [
+    "direct literary feminine tvat addresses",
+    "accent and recitation",
+    "critical history of the old i-final label",
+    "complete non-vocative feminine tvat paradigm",
+    "other senses and competing commentary policies",
+    "C2-C5 and S1-S7"
+  ],
+  "counts": {
+    "new_finite_positions": 0,
+    "new_finite_readings": 0,
+    "new_nominal_positions": 3,
+    "new_nominal_readings": 3,
+    "new_morphology_constructions": 1,
+    "new_morphology_interfaces": 3,
+    "new_syntax_constructions": 0,
+    "new_syntax_interfaces": 3,
+    "new_source_observations": 5,
+    "new_source_policy_decisions": 3
+  }
+}

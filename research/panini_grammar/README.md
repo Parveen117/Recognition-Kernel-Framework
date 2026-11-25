@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG900 · [Feminine *tvat* under the *sarit* address pattern](tvat_feminine_sarit_pattern_vocatives/README.md). A positive t-final/sarit source decision admits three feminine address histories through the inherited PG899 adapter while the older conflict, equal masculine surfaces and unconstructed evidence remain separately typed.
+
 PG899 · [Masculine and neuter *tvat* vocatives](tvat_masculine_neuter_vocatives/README.md). Exact source/pattern admission constructs six M/N address histories while the internally conflicted feminine source grade and the yuṣmad ablative homograph remain separately typed.
 
 PG898 · [*Ubhaya* vocative credit correction](ubhaya_vocative_credit_correction/README.md). A first-owner projection removes PG885's nine repeated position credits and nine reading credits while preserving PG822/PG824/PG885 as separate source-labelled histories under typed zero-specialization.
