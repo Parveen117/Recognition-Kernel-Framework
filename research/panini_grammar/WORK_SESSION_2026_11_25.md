@@ -2,6 +2,12 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG804 · Speech, lordship, living-being ini and age restrictions
+
+PG804 · [Speech, lordship, living-being ini and age restrictions](speech_lordship_living_ini_and_age_restrictions/README.md). Constructs selected 5.2.123–130 outputs with 30 new nominal positions and 33 readings. Finite positions/readings increase by zero. Twelve constructions/30 interfaces, zero new source observations and ten decisions. Census: 52,357 finite positions, 21,719 nominal positions and 24,607 nominal readings.
+
+Parent `ac6db47adcaa5352dee835a82881e1a7a290b87b`. The containing commit pins this packet. Selected outputs, number positions, semantic guards and controls are CLOSED. Full arśādi membership, wider disease/fault lexicon, 5.2.123 Vedic scope, two spelling priorities, paradigms and accent remain Open. Continue from 5.2.131. C2–C5 and S1–S7 remain Open; S5 is 99/103 and S6 retains the independent 5.56 k-it effect. Claude retains execution, generators, untouched suites and replay.
+
 ## PG803 · Vedic bahula-vini, tolerance and absence relations
 
 PG803 · [Vedic bahula-vini, tolerance and absence relations](vedic_bahula_vini_tolerance_and_absence_relations/README.md). Constructs the displayed 5.2.122 outputs with 26 new nominal positions and 29 readings. Finite positions/readings increase by zero. Twelve constructions/26 interfaces, zero new source observations and ten decisions. Census: 52,357 finite positions, 21,689 nominal positions and 24,574 nominal readings.

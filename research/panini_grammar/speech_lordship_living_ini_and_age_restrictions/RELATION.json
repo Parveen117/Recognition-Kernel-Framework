@@ -1,0 +1,38 @@
+{
+  "stage":"PG804",
+  "morphology_constructions":[
+    {"id":"URNA_YUS","rule":"5.2.123","interfaces":["UR123"]},
+    {"id":"VAC_GMINI_NUMBERS","rule":"5.2.124","interfaces":["VS124","VD124","VP124"]},
+    {"id":"CENSURED_SPEECH","rule":"5.2.125","interfaces":["VC125"]},
+    {"id":"SVAMIN_LORDSHIP","rule":"5.2.126","interfaces":["SS126","SD126","SP126"]},
+    {"id":"ARSAS_URAS_AC","rule":"5.2.127","interfaces":["AR127","UR127"]},
+    {"id":"DEFECT_AND_COLOUR_AC","rule":"5.2.127 supplements","interfaces":["KH127","KA127","SU127"]},
+    {"id":"LIVING_DVANDVA_INI","rule":"5.2.128","interfaces":["KV128","SN128"]},
+    {"id":"DISEASE_AND_FAULT_INI","rule":"5.2.128","interfaces":["KU128","KI128","KK128","KT128"]},
+    {"id":"INanimate_BODY_NONA_CONTROLS","rule":"5.2.128 controls","interfaces":["PF128","PP128","CL128"]},
+    {"id":"DISEASE_KUK","rule":"5.2.129","interfaces":["VK129","AK129"]},
+    {"id":"PISHACA_AND_CAVE","rule":"5.2.129","interfaces":["PI129","VG129"]},
+    {"id":"AGE_ORDINAL_INI","rule":"5.2.130","interfaces":["PA130","NA130","DA130","PG130"]}
+  ],
+  "nominal_positions":[
+    {"id":"UR123","readings":["ūrṇāyuḥ"]},{"id":"VS124","readings":["vāgmī"]},{"id":"VD124","readings":["vāgminau"]},{"id":"VP124","readings":["vāgminaḥ"]},{"id":"VC125","readings":["vācālaḥ","vācāṭaḥ"]},
+    {"id":"SS126","readings":["svāmī"]},{"id":"SD126","readings":["svāminau"]},{"id":"SP126","readings":["svāminaḥ"]},
+    {"id":"AR127","readings":["arśasaḥ"]},{"id":"UR127","readings":["urasaḥ"]},{"id":"KH127","readings":["khañjaḥ"]},{"id":"KA127","readings":["kāṇaḥ"]},{"id":"SU127","readings":["śuklaḥ paṭaḥ"]},
+    {"id":"KV128","readings":["kaṭakavalayinī"]},{"id":"SN128","readings":["śaṅkhanūpuriṇī"]},{"id":"KU128","readings":["kuṣṭhī"]},{"id":"KI128","readings":["kilāsī"]},{"id":"KK128","readings":["kakudāvartī"]},{"id":"KT128","readings":["kākatalukī"]},
+    {"id":"PF128","readings":["puṣpaphalavān vṛkṣaḥ"]},{"id":"PP128","readings":["pāṇipādavatī"]},{"id":"CL128","readings":["citralalāṭikāvatī [K]","citrakalalāṭikāvatī [Vasu]"]},
+    {"id":"VK129","readings":["vātakī"]},{"id":"AK129","readings":["atisārakī","atīsārakī [Vasu alternate]"]},{"id":"PI129","readings":["piśācakī vaiśravaṇaḥ"]},{"id":"VG129","readings":["vātavatī guhā"]},
+    {"id":"PA130","readings":["pañcamī uṣṭraḥ"]},{"id":"NA130","readings":["navamī"]},{"id":"DA130","readings":["daśamī"]},{"id":"PG130","readings":["pañcamavān grāmarāgaḥ"]}
+  ],
+  "source_policy_decisions":[
+    {"id":"URNA_REGISTER","status":"Accepted/Open","decision":"Accept ūrṇāyuḥ; whether chandasi is inherited as an absolute restriction remains Open."},
+    {"id":"GMINI_OWNER","status":"Accepted","decision":"Use full gmini and retain singular, dual and plural as separate positions."},
+    {"id":"SPEECH_CONTEMPT","status":"Accepted/Excluded","decision":"Accept ālac/āṭac only for censured excessive speech; purposeful eloquence retains vāgmin."},
+    {"id":"LORDSHIP_GUARD","status":"Accepted/Excluded","decision":"Accept svāmin for lordship; ordinary svavān remains accepted outside that branch without repeat credit."},
+    {"id":"ARSADI_SELECTION","status":"Accepted/Open","decision":"Construct five displayed cases; undisplayed roster members remain unconstructed."},
+    {"id":"LIVING_BEING_GUARD","status":"Accepted/Excluded","decision":"Select ini for the displayed living-being relations and retain matup controls outside the guard."},
+    {"id":"NON_A_SOURCE_FORK","status":"Accepted/Open","decision":"Retain citralalāṭikā and Vasu citrakala-lalāṭikā readings under source labels."},
+    {"id":"KUK_DISEASE","status":"Accepted/Excluded","decision":"Require disease sense for kuk; ordinary wind in a cave remains matup."},
+    {"id":"ATISARA_FORK","status":"Accepted/Open","decision":"Retain atisārakī and Vasu alternate atīsārakī; critical priority remains Open."},
+    {"id":"AGE_RESTRICTION","status":"Accepted/Excluded","decision":"Select ini and block ṭhan in age requests; non-age ordinal possession retains matup."}
+  ]
+}

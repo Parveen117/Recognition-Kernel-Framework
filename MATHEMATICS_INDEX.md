@@ -1,4 +1,7 @@
 Warning: truncated output (original token count: 20106)
+Total output lines: 618
+
+Warning: truncated output (original token count: 20106)
 Total output lines: 615
 
 Warning: truncated output (original token count: 20102)
@@ -11,6 +14,8 @@ Warning: truncated output (original token count: 129617)
 Total output lines: 5565
 
 # Canonical Mathematics Index
+
+PG804 · [Speech, lordship, living-being ini and age restrictions](research/panini_grammar/speech_lordship_living_ini_and_age_restrictions/README.md). PG14 retains speech/lordship/disease/age relation, animacy and semantic guard, affix/augment owner, number, source and outcome through typed zero specialization.
 
 PG803 · [Vedic bahula-vini, tolerance and absence relations](research/panini_grammar/vedic_bahula_vini_tolerance_and_absence_relations/README.md). PG14 retains possession/group/intolerance/absence relation, Vedic and semantic guard, affix/lengthening owner, source and outcome through typed zero specialization.
 
@@ -260,9 +265,7 @@ PG681: [Śaunaka vowel absorption and the scope of ayam](research/panini_grammar
 
 PG680: [Śaunaka sam–gam attestation and contextual accent](research/panini_grammar/shaunaka_sam_gam_attestation_and_owned_accent/README.md). The PG14 lift preserves the Śaunaka source and clitic/augment addresses through junction and accent selection. Its zero readout recovers the different owners of dependent svarita in AVŚ 6.32.2 and 6.74.1.
 
-PG679: [Joined sam–gam active-P caṅ completion](research/panini_grammar/sam_gam_joined_cang_active_p_completion/README.md). PG14's full carrier now lifts the bounded joined `sam + aṭ + jī + gam + caṅ-a + tiṅ` construction; typed zero specialization preserves prefix/aṭ and copy/root ownership. Nine new finite positions/readings; A-pada remains Open.
-
-PG678: [Atharvaveda sam–gam tmesis and PG672 witness-scope correction](research/panini_grammar/atharvaveda_sam_gam_tmesis_and_pg672_scope_correction/README.md). The full PG14 history carrier retains se…106 tokens truncated…(papers/rkf_completed_weil_endpoint/development/SE19_SE18_AUDIT.md)
+PG679: [Joined sam–gam active-P caṅ completion](research/panini_grammar/sam_gam_joined_cang_active_p_completion/README.md). PG14's full carrier now lifts the bounded joi…106 tokens truncated…(papers/rkf_completed_weil_endpoint/development/SE19_SE18_AUDIT.md)
 withdraws its inferred eta_pw>=0.58938/tightness and its finite-stage
 max-only local-to-global conclusion. The audit repairs the slope proof,
 auxiliary-row limit, pole polynomial and exterior majorant, and restores

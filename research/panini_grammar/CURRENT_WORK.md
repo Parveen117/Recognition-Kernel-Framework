@@ -1,3 +1,6 @@
+Warning: truncated output (original token count: 20111)
+Total output lines: 251
+
 Warning: truncated output (original token count: 20110)
 Total output lines: 248
 
@@ -10,7 +13,9 @@ Total output lines: 240
 Warning: truncated output (original token count: 58560)
 Total output lines: 894
 
-# Pāṇini grammar · current written coverage at PG803
+# Pāṇini grammar · current written coverage at PG804
+
+PG804 · [Speech, lordship, living-being ini and age restrictions](speech_lordship_living_ini_and_age_restrictions/README.md). Constructs selected 5.2.123–130 speech, lordship, arśādi, living-being, disease-augment and age-restriction outputs. Census: 52,357 finite positions, 21,719 nominal positions and 24,607 nominal readings.
 
 PG803 · [Vedic bahula-vini, tolerance and absence relations](vedic_bahula_vini_tolerance_and_absence_relations/README.md). Constructs the displayed 5.2.122 Vedic-vini, suffix-family, intolerance, dual-sense and absence/possession contrasts. Census: 52,357 finite positions, 21,689 nominal positions and 24,574 nominal readings.
 
@@ -204,9 +209,7 @@ PG709 · [The Vedic rite-maker and maternal remedy under retained or deleted n](
 
 PG708 · [The printed dhi ca debate, pada boundary and Vedic sagdhiḥ](dhi_ca_printed_debate_pada_boundary_and_sagdhi/README.md). Kielhorn’s 1885 print shows the sic proposal, seṭ objection and broad reply. Osmania Kāśikā independently prints both policies. Nyāsa and Padamañjarī each protect payo dhāvati. One new nominal position and reading derives sagdhiḥ from the directly witnessed common-meal context. Census 52,332 finite positions and 9,359 nominal positions with 10,957 nominal readings.
 
-PG707 · [Vedic stoṣam and the Aśvins’ dual aorists](vedic_stosam_and_ashvin_dual_aorist_owners/README.md). The short stoṣam has four recensional addresses. Sāyaṇa derives mṛkṣatam from mṛś plus ksa and tāriṣṭam from tṝ plus siC. Mahīdhara’s competing mṛj leṭ keeps its grade question Open. His printed 34.8 itself has the divergent 3.2.34 locator. Three new finite positions and readings. Census 52,332 finite positions and 9,358 nominal positions with 10,956 nominal readings.
-
-PG706 · [Two printed Kāśikā witnesses for anadyatana laṅ](anadyatana_two_printed_kasika_prescriptions/README.md). Two visually collated print editions agree on the operative laṅ, with genui…110 tokens truncated…marker views;0 finite/nominal/source credits. Original git enters root guṇa/iṭ conditions but not6.4.66/24; root n→ṅ differs from suffix n→ṇ, and outer jas has its own guṇa owner. Reported Vedic source word is old. Rival kit policy, independent Saṃhitā/accent and wider gates remain Open.
+PG707 · [Vedic stoṣam and the Aśvins’ dual aorists](vedic_stosam_and_ashvin_dual_aorist_owners/README.md). The short stoṣam has four recensional addresses. Sāyaṇa derives mṛkṣatam from mṛś plus ksa and tāriṣṭam from tṝ plus siC. Mahīdhara’s competing mṛj leṭ …111 tokens truncated…marker views;0 finite/nominal/source credits. Original git enters root guṇa/iṭ conditions but not6.4.66/24; root n→ṅ differs from suffix n→ṇ, and outer jas has its own guṇa owner. Reported Vedic source word is old. Rival kit policy, independent Saṃhitā/accent and wider gates remain Open.
 
 
 PG385 constructs [gotra dvandva whole-affix luk](gotra_dvandva_luk_and_reported_gana_objection/README.md): one compound construction/two uniform readouts and one newly addressed Tattva report of a Kaiyaṭa gaṇa-list objection. Upaka–Lamaka retains independent phak/inner-sup owners;1.1.63 blocks lost-affix aṅga triggers. Old source words receive0 finite/nominal credits. Original Bhāṣya/Kaiyaṭa/other-pair textual reconciliation and wider gates stay Open.

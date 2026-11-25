@@ -1,0 +1,11 @@
+{
+  "project_dependencies":[
+    {"commit":"ac6db47adcaa5352dee835a82881e1a7a290b87b","path":"research/panini_grammar/vedic_bahula_vini_tolerance_and_absence_relations/STATE.json","git_blob_sha":"adb0ec41e466870e83f3e11c9fc228020da1a60d","sha256":"ee80d1725a2d694a752333970773366906b3db5cf4adae429b57858ea36513f8","use":"Published PG803 baseline"},
+    {"commit":"ac6db47adcaa5352dee835a82881e1a7a290b87b","path":"research/panini_grammar/possession_adverbials/SOURCE_EXCERPTS.json","git_blob_sha":"56ed94a5eb382934b25425b216cc534504796a3a","sha256":"b331a2ae11cca694fb978fc08eff91999aedd9be8d4f70039e12f09fd6837fd4","use":"Frozen Kāśikā and Vasu fields for 5.2.123–130"},
+    {"commit":"ac6db47adcaa5352dee835a82881e1a7a290b87b","path":"research/panini_grammar/possession_adverbials/RULE_REGISTER.json","git_blob_sha":"a5069519fc22c47e37cb8cecb111cbe670fa624b","sha256":"f9475d6dfe3ed6c9e8591b0ea126af33187814fef252029ebdc8f6625baeec09","use":"PG37 contracts"},
+    {"commit":"ac6db47adcaa5352dee835a82881e1a7a290b87b","path":"research/panini_grammar/SUTRAPATHA.tsv","git_blob_sha":"1840f3b5349b21112ac05a7efaa59705fd4efee0","sha256":"70dfdfe6ba433b6e211f0f01b078c1b6d13a1ad0938e06fd5789298a04583634","use":"Frozen identities"},
+    {"commit":"ac6db47adcaa5352dee835a82881e1a7a290b87b","path":"research/panini_grammar/grammar_construction/NATIVE_OPERATOR_LIFT.md","git_blob_sha":"fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b","sha256":"f52e7f5cf539ef56859b890669ef738848491e4005e73be75baa49c899b5dafd","use":"PG14 full carrier"}
+  ],
+  "source_fields_reused_without_new_observation_credit":[{"rules":"5.2.123–130","sources":"Kāśikā and Vasu English","reason":"PG37 imported these fields; PG804 constructs selected outputs, inflections and controls."}],
+  "source_observations_new":0
+}
