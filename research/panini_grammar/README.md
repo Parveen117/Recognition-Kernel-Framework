@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG819 · [Itara, anya and anyatara dual/plural panels](itara_anya_anyatara_dual_plural_panels/README.md). Constructs 126 M/F/N dual/plural seven-case positions/readings, one ending adapter/126 interfaces and one referent-number/case contract/42 frames.
+
 PG818 · [Determination neuter vocative singular adḍ marker](determination_neuter_vocative_singular_ad_marker/README.md). Constructs six positively evidenced N vocative-singular positions/12 pause readings, one morphology construction/six interfaces and one source-scope decision.
 
 PG817 · [Determination dual/plural accusative and oblique panels](determination_dual_plural_accusative_oblique_panels/README.md). Constructs 216 accusative–locative dual/plural M/F/N positions/readings for six principal determination stems, one ending adapter/216 interfaces and one case-role contract/72 frames.

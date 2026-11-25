@@ -2,6 +2,12 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG819 · Itara, anya and anyatara dual/plural panels
+
+PG819 · [Itara, anya and anyatara dual/plural panels](itara_anya_anyatara_dual_plural_panels/README.md). Constructs 18 literal stem×gender×number panels with seven distinct cases: 126 new nominal positions/readings. One morphology ending adapter has 126 interfaces; one referent-number/case contract has 42 frames. Finite positions/readings, source observations and source-policy decisions each increase by zero. Census: 52,357 finite positions, 22,471 nominal positions and 25,437 nominal readings.
+
+Parent `a3e8e4798b6b9bc1aa9dcdcecd348d0e0e52571d`. Exact audit found no prior credited principal dual/plural keys. PG434's ordinary/Vedic N-singular fork is not transferred to other numbers. With PG434, selected non-vocative all-number panels are CLOSED. Other lexical senses/productive etymology, vocative, accent, compounds/names and independent Maitrāyaṇī/Kaiyaṭa/commentary/source collation remain Open. PG335's correction and PG340/346, PG349–352, PG355–360 and PG357–363 closures are preserved. C2–C5/S1–S7 remain Open; S5 is 99/103 and S6 retains the independent 5.56 k-it effect. Claude retains execution, generators, untouched suites and replay.
+
 ## PG818 · Determination neuter vocative singular adḍ marker
 
 PG818 · [Determination neuter vocative singular adḍ marker](determination_neuter_vocative_singular_ad_marker/README.md). Direct Kāśikā `he katarad` and Bāla's reported tadanta scope support six N vocative-singular keys with two t/d pause readings each: 6 new nominal positions and 12 readings. One morphology construction/six interfaces, zero new source observations and one positive source-scope decision. Census: 52,357 finite positions, 22,345 nominal positions and 25,311 nominal readings.

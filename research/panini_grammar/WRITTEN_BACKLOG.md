@@ -1,6 +1,8 @@
-# Written-development backlog at PG818
+# Written-development backlog at PG819
 
-Monty · 2026-11-25 · reviewed parent 1518522d9407bcbda5ba9fd9931fcd91b6b03dd4. Historical closures below retain their exact pins.
+Monty · 2026-11-25 · reviewed parent a3e8e4798b6b9bc1aa9dcdcecd348d0e0e52571d. Historical closures below retain their exact pins.
+
+PG819 · [Itara, anya and anyatara dual/plural panels](itara_anya_anyatara_dual_plural_panels/README.md). The three admitted lexemes' M/F/N dual/plural seven-case panels are CLOSED: 126 positions/readings, one ending adapter/126 interfaces and one number/case contract/42 frames. With PG434, selected non-vocative all-number panels are CLOSED. Other lexical senses/productive etymology, vocative, accent, compounds/names, external recognition and independent Maitrāyaṇī/Kaiyaṭa/commentary collation remain Open. Next review the actual remaining derived-pronoun registers rather than infer productive membership from spelling. C2–C5/S1–S7 remain Open; S5 is 99/103, S6 retains the 5.56 k-it effect, and Claude retains execution.
 
 PG818 · [Determination neuter vocative singular adḍ marker](determination_neuter_vocative_singular_ad_marker/README.md). The six positively evidenced N vocative-singular keys are CLOSED: six positions/12 pause readings, one morphology construction/six interfaces and one source-scope decision. Whole `adḍ`, payload/marker ownership and second ṭi-lopa remain explicit. M/F and dual/plural vocatives, accent, compounds/names, other derived pronouns and independent commentary/source collation remain Open; absence is not exclusion. Next search positive sources for the remaining vocative cells rather than copying nominative surfaces. C2–C5/S1–S7 remain Open; S5 is 99/103, S6 retains the 5.56 k-it effect, and Claude retains execution.
 

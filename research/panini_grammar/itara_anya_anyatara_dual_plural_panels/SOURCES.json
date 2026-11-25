@@ -1,0 +1,15 @@
+{
+  "project_dependencies": [
+    {"commit":"a3e8e4798b6b9bc1aa9dcdcecd348d0e0e52571d","path":"research/panini_grammar/determination_neuter_vocative_singular_ad_marker/STATE.json","git_blob_sha":"3785a4895c7a1c88ac360bff876e0fe35c7b5d72","sha256":"13d909e256d2a41b945bc4be1a5b3155d6e874fd381faf786af7637dfaac5078","use":"PG818 baseline"},
+    {"commit":"10c6c94401d4ff3178bc4738469ce8d63087cc02","path":"research/panini_grammar/itara_anya_anyatara_singular_and_register_owned_endings/STATE.json","git_blob_sha":"fc504be4db2058ec6a554eb70a29321659d9887d","sha256":"24b5170e11da4c1c53b23599d9b69b733637c5ad8a0363b4613a43b380140c7d","use":"PG434 singular closure and other-numbers Open obligation"},
+    {"commit":"10c6c94401d4ff3178bc4738469ce8d63087cc02","path":"research/panini_grammar/itara_anya_anyatara_singular_and_register_owned_endings/RELATION.json","git_blob_sha":"c5063969148f2507a5114f0b9e6f32fa29efdd1c","sha256":"0465c889287bc4d107e3fd7d81664ed6f75386bd93705f1697bd6aa096bde5c6","use":"Exact lexical senses and register ownership"},
+    {"commit":"10c6c94401d4ff3178bc4738469ce8d63087cc02","path":"research/panini_grammar/itara_anya_anyatara_singular_and_register_owned_endings/SOURCES.json","git_blob_sha":"7b67bd41168af7304260232ac6998a8a260cddc9","sha256":"a29298307e8b925ef2c94923644795ea9c9f3821601679ed8a6f18331ac8bee8","use":"Frozen Kāśikā 1.1.27 and 7.1.25–26 fields"},
+    {"commit":"10c6c94401d4ff3178bc4738469ce8d63087cc02","path":"research/panini_grammar/sarva_three_genders_shi_sut_and_nasal_owners/DERIVATION_AND_NATIVE_RECOVERY.md","git_blob_sha":"b4cd72c7628a14d4524a4cefd779b013cbeb660f","sha256":"7355c74afb428e3a84bd881bbc90cf21df35b47f0cc6db9d9724c36c8d1dbcbf","use":"Reviewed M/F/N number, ending, nasal and sibilant ownership"},
+    {"commit":"10c6c94401d4ff3178bc4738469ce8d63087cc02","path":"research/panini_grammar/sarva_three_genders_shi_sut_and_nasal_owners/NOMINAL_FORMS.tsv","git_blob_sha":"79a893197865f4b65d136df16d3fd3dddfd0702f","sha256":"d5f9f519958bf4a1d82aec9712e717fdc90bda88041532643d3feb1455b0f715","use":"Frozen literal a-final sarvanāma controls"},
+    {"commit":"10c6c94401d4ff3178bc4738469ce8d63087cc02","path":"research/panini_grammar/grammar_construction/NATIVE_OPERATOR_LIFT.md","git_blob_sha":"fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b","sha256":"f52e7f5cf539ef56859b890669ef738848491e4005e73be75baa49c899b5dafd","use":"PG14 full operator/history carrier"}
+  ],
+  "duplicate_audit": "No prior credited principal dual/plural keys for itara/anya/anyatara; substring hits in other derivations are not overlaps.",
+  "source_fields_reused_without_new_observation_credit": "PG434 and the frozen sarva register already preserve the lexical membership, register boundary and ending fields.",
+  "source_observations_new": 0,
+  "source_policy_decisions_new": 0
+}
