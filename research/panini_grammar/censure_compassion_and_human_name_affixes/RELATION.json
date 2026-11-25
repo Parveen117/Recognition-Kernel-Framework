@@ -1,0 +1,36 @@
+{
+  "stage":"PG814",
+  "morphology_constructions":[
+    {"id":"CENSURED_NAME_KAN","rule":"5.3.75","interfaces":["SU75","DH75","PU75","CU75"]},
+    {"id":"COMPASSION","rule":"5.3.76","interfaces":["PT76","VT76","DU76","BK76","BV76","SP76","SK76","SV76"]},
+    {"id":"COMPASSIONATE_COURTESY","rule":"5.3.77","interfaces":["DA77","TI77","EH77","AD77"]},
+    {"id":"POLYSYLLABIC_HUMAN_NAME_THAC","rule":"5.3.78","interfaces":["DE78","DD78","YA78","YD78"]},
+    {"id":"HUMAN_NAME_GHAN_ILAC","rule":"5.3.79","interfaces":["DY79","DL79","YY79","YL79"],"prior_reading_links":["PG814:DE78","PG814:DD78","PG814:YA78","PG814:YD78"]},
+    {"id":"EASTERN_UPA_NAME_OPTIONS","rule":"5.3.80","interfaces":["UD80","UK80","UY80","UL80","UI80","UE80"]},
+    {"id":"JATI_WORD_PERSONAL_NAME","rule":"5.3.81","interfaces":["VY81","SI81","SR81","VL81","SL81"]},
+    {"id":"AJINA_NAME_MEMBER_LOPA","rule":"5.3.82","interfaces":[],"prior_reading_links":["PG814:VY81","PG814:SI81"]}
+  ],
+  "nominal_positions":[
+    {"id":"SU75","readings":["śūdrakaḥ [censured name]"]},{"id":"DH75","readings":["dhārakaḥ [censured name]"]},{"id":"PU75","readings":["pūrṇakaḥ [Kāśikā]"]},{"id":"CU75","readings":["cūrṇakaḥ [Vasu English]"]},
+    {"id":"PT76","readings":["putrakaḥ [compassion/endearment]"]},{"id":"VT76","readings":["vatsakaḥ [compassion/endearment]"]},{"id":"DU76","readings":["durbalakaḥ [compassion]"]},{"id":"BK76","readings":["bubhukṣitakaḥ [Kāśikā]"]},{"id":"BV76","readings":["bubhukṣikaḥ [Vasu English]"]},{"id":"SP76","readings":["svapitaki [shared finite display]"]},{"id":"SK76","readings":["śvasitaki [Kāśikā]"]},{"id":"SV76","readings":["viśvasitaki [Vasu English]"]},
+    {"id":"DA77","readings":["dhānakāḥ [compassionate gift]"]},{"id":"TI77","readings":["tilakāḥ [compassionate gift]"]},{"id":"EH77","readings":["ehaki [courteous compassionate action]"]},{"id":"AD77","readings":["addhaki [courteous compassionate action]"]},
+    {"id":"DE78","readings":["devikaḥ [ṭhac]"]},{"id":"DD78","readings":["devadattakaḥ [kan alternative]"]},{"id":"YA78","readings":["yajñikaḥ [ṭhac]"]},{"id":"YD78","readings":["yajñadattakaḥ [kan alternative]"]},
+    {"id":"DY79","readings":["devīyaḥ [ghan]"]},{"id":"DL79","readings":["devilaḥ [ilac]"]},{"id":"YY79","readings":["yajñīyaḥ [ghan]"]},{"id":"YL79","readings":["yajñilaḥ [ilac]"]},
+    {"id":"UD80","readings":["upaḍaḥ [Eastern aḍac]"]},{"id":"UK80","readings":["upakaḥ [Eastern vuc]"]},{"id":"UY80","readings":["upīyaḥ [ghan]"]},{"id":"UL80","readings":["upilaḥ [ilac]"]},{"id":"UI80","readings":["upikaḥ [ṭhac]"]},{"id":"UE80","readings":["upendradattakaḥ [kan]"]},
+    {"id":"VY81","readings":["vyāghrakaḥ [jāti word used as personal name]"]},{"id":"SI81","readings":["siṃhakaḥ [jāti word used as personal name]"]},{"id":"SR81","readings":["śarabhakaḥ [jāti word used as personal name]"]},{"id":"VL81","readings":["vyāghrilaḥ [displayed alternative]"]},{"id":"SL81","readings":["siṃhilaḥ [displayed alternative]"]}
+  ],
+  "prior_position_reading_extensions":[
+    {"rule":"5.3.79","position":"PG814:DE78","readings":["devikaḥ [retained ṭhac alternative under rule 79]"]},{"rule":"5.3.79","position":"PG814:DD78","readings":["devadattakaḥ [retained kan alternative under rule 79]"]},{"rule":"5.3.79","position":"PG814:YA78","readings":["yajñikaḥ [retained ṭhac alternative under rule 79]"]},{"rule":"5.3.79","position":"PG814:YD78","readings":["yajñadattakaḥ [retained kan alternative under rule 79]"]},
+    {"rule":"5.3.82","position":"PG814:VY81","readings":["vyāghrakaḥ [vyāghrājina personal name + second-member lopa]"]},{"rule":"5.3.82","position":"PG814:SI81","readings":["siṃhakaḥ [siṃhājina personal name + second-member lopa]"]}
+  ],
+  "source_policy_decisions":[
+    {"id":"CENSURE_NAME","status":"Accepted/Open","decision":"Require a name reading for kan; preserve Kāśikā pūrṇaka and Vasu cūrṇaka separately pending critical priority."},
+    {"id":"COMPASSION_FORKS","status":"Accepted/Open","decision":"Accept the shared compassion outputs and retain bubhukṣitaka/bubhukṣika and śvasitaki/viśvasitaki as source-labelled forks."},
+    {"id":"COURTESY_MEANS","status":"Accepted","decision":"Distinguish the gift/action used to relieve the pitied entity from the entity directly evoking compassion."},
+    {"id":"HUMAN_NAME_GUARD","status":"Accepted/Excluded","decision":"Restrict optional ṭhac to polysyllabic human personal names; exclude short-name and descriptive-epithet controls."},
+    {"id":"GHAN_ILAC_OPTIONS","status":"Accepted","decision":"Keep ghan/ilac outputs and retained ṭhac/kan alternatives under separate histories."},
+    {"id":"EASTERN_UPA_OPTIONS","status":"Accepted/Open","decision":"Accept aḍac/vuc only as the Eastern-school option on upa-initial human names; wider school priority remains Open."},
+    {"id":"JATI_PERSONAL_NAME","status":"Accepted/Excluded","decision":"License a jāti word used as a personal name, not the literal word jāti or an unrestricted species noun."},
+    {"id":"AJINA_LOPA","status":"Accepted","decision":"Attach second-member lopa to personal names ending in -ajina and preserve their histories on shared surfaces."}
+  ]
+}

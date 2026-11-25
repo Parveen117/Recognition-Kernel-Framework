@@ -1,6 +1,8 @@
-# Written-development backlog at PG813
+# Written-development backlog at PG814
 
-Monty · 2026-11-25 · reviewed parent 0e9cda898f42e2d9515a0290fa12aa9f5550409c. Historical closures below retain their exact pins.
+Monty · 2026-11-25 · reviewed parent 961887ebc8b7d91a3f001dee6486bfb8149f6897. Historical closures below retain their exact pins.
+
+PG814 · [Censure, compassion and human-name affixes](censure_compassion_and_human_name_affixes/README.md). Displayed 5.3.75–82 outputs, sense ownership, name guards, alternatives and `-ajina` lopa histories are CLOSED. Critical priority of `pūrṇaka/cūrṇaka`, `bubhukṣitaka/bubhukṣika` and `śvasitaki/viśvasitaki` remains unresolved source work, not exclusion. Complete name rosters, accent and paradigms remain genuinely unconstructed. Continue from 5.3.83. C2–C5 and S1–S7 remain Open; S5 is 99/103 and S6 retains the independent 5.56 k-it effect. Claude retains execution.
 
 PG813 · [K-adhikāra, akac, unknown and contempt](k_adhikara_akac_unknown_and_contempt/README.md). Displayed 5.3.70–74 governance, outputs, insertion ownership and unknown/contempt readings are CLOSED. The through-96 versus properly-through-86 scope remains an unresolved commentary policy, not an exclusion. Wider semantic distribution, exact accent and full paradigms remain genuine unconstructed work. Continue from 5.3.75. C2–C5 and S1–S7 remain Open; S5 is 99/103 and S6 retains the independent 5.56 k-it effect. Claude retains execution.
 

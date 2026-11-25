@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG813
+# Pāṇini grammar · current written coverage at PG814
+
+PG814 · [Censure, compassion and human-name affixes](censure_compassion_and_human_name_affixes/README.md). Constructs selected 5.3.75–82 motives, name guards, source-labelled alternatives and shared-surface lopa histories. Census: 52,357 finite positions, 22,087 nominal positions and 25,047 nominal readings. The next selected written frontier is 5.3.83.
 
 PG813 · [K-adhikāra, akac, unknown and contempt](k_adhikara_akac_unknown_and_contempt/README.md). Constructs selected 5.3.70–74 governance, insertion, substitution and shared-surface semantic readings. Census: 52,357 finite positions, 22,052 nominal positions and 25,006 nominal readings.
 

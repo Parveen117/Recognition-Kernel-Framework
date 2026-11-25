@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG814 · [Censure, compassion and human-name affixes](censure_compassion_and_human_name_affixes/README.md). Constructs selected 5.3.75–82: 35 new nominal/derived positions and 41 readings, eight constructions/35 interfaces and eight source decisions.
+
 PG813 · [K-adhikāra, akac, unknown and contempt](k_adhikara_akac_unknown_and_contempt/README.md). Constructs selected 5.3.70–74: 28 new nominal/derived positions and 43 readings, five constructions/28 interfaces and five source decisions.
 
 PG812 · [Praise, incompletion, bahuc and class-nature](praise_incompletion_bahuc_and_class_nature/README.md). Constructs selected 5.3.66–69 outputs: 22 new nominal/derived positions and readings, four constructions/22 interfaces and four source decisions.
