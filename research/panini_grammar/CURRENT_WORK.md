@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG838
+# Pāṇini grammar · current written coverage at PG839
+
+PG839 · [Two Mādhavīya entries in the edition named by the transcription](two_madhaviya_entries_in_the_named_benares_edition/README.md). The named 1934 print resolves three readings across XML entries 980 and 1431. Zero new finite or nominal keys/readings. Census 52,366 finite and 22,785 nominal positions/25,760 nominal readings.
 
 PG838 · [Halāyudha’s seven words for disrespect](halayudhas_seven_words_for_disrespect/README.md). Two editions locate the primary contempt synonym verse. New 18 nominal positions/20 readings after reuse of seven singular keys. Census 52,366 finite and 22,785 nominal positions, 25,760 nominal readings.
 

@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG839 · [Two Mādhavīya entries in the edition named by the transcription](research/panini_grammar/two_madhaviya_entries_in_the_named_benares_edition/README.md). The source collation map preserves edition, entry, position and report owner under the PG14 augmentation.
+
 PG838 · [Halāyudha’s seven words for disrespect](research/panini_grammar/halayudhas_seven_words_for_disrespect/README.md). The PG14 source and case edges preserve a distinct sense history even where all seven singular spellings coincide.
 
 PG837 · [The iron covering in Bhāravi’s seventeenth canto](research/panini_grammar/the_iron_covering_in_bharavis_seventeenth_canto/README.md). PG14 distinguishes an instrument as a derivational participant from the syntactic nominative of the covering in Bhāravi’s simile.

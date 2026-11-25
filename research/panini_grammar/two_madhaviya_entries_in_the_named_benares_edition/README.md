@@ -1,0 +1,23 @@
+# PG839 · Two Mādhavīya entries in the edition named by the transcription
+
+The Sanskrit Computational Linguistics XML identifies its edition as Benares 1934, edited by Ananta Śāstrī and Sadāśiva Śarmā Śāstrī. Its adādi entry 980 (हनँ, motion and striking) places two quotations beside one another. Its tanādi entry 1431 (डुकृञ्, making) reports the scope of a gati condition. The named print lets these three editorial decisions be checked directly.
+
+| Entry | Reading in the electronic file | Reading on the page | Decision |
+|---|---|---|---|
+| 980, first quotation | अहध्वं मा रघूत्तमम् | Benares p. 217 has आहध्वं मा रघूत्तमम्. The later edition p. 312 agrees on the initial vowel and the separate मा. | Read long ā for these print witnesses. Both call the usage attributed to Bhaṭṭi *cintyaḥ*. The short electronic spelling remains identified with its own file. |
+| 980, immediately following *tathā* | मदर्थेऽरीन् विजघ्निथेति | Benares p. 217 reads **नि**जघ्निथेति. The later edition p. 312 also has **नि**. | The prefix in the printed second citation is **ni**. This is a second-person singular perfect issue. Its speaker, ending and preverb cannot decide the preceding second-person plural question. |
+| 1431, report of the alternative | तिरस्कृत्येत्यत्रापि and अयं पक्षा | Benares p. 363 has तिरस्कृत्येत्यत्रापि and अयं पक्षो before भाष्यवृत्ति…. | Retain the printed lyap example and read *ayaṃ pakṣo* (पक्षः before the voiced following word). This confirms whose search the ensuing *na dṛśyate* reports. |
+
+Mysore 1894 vol. II part I p. 9 gives different word order in the first citation. The printed opening begins मो and the verb ending precedes रघूत्तमम् directly. Its line contains no freestanding मा after the verb. The exact analysis of that opening remains open. The page identifies the usage as Bhaṭṭi’s and then introduces the second quotation separately. No normalization of the Mysore line supplies a fourth witness for the Benares wording.
+
+The first decision concerns the quotation as a grammarian transmits it. PG331 admits a prohibitive luṅ reading under an independently supplied māṅ condition. PG361 records the commentator who understands mā as first-person accusative. A long initial vowel supports neither policy exclusively. Recovering the poet’s actual verse and mood still requires poem evidence for this particular clause. The second decision concerns the ni + han example and the ensuing difficulty of obtaining medial-vowel elision before the strong perfect ending. The third belongs to √kṛ with tiras and the status of the earlier action as expressed by lyap. Preserve PG835’s Ātreya and *kecit* branches and its separate Osmania ktvā evidence.
+
+**Typed recovery.** Use PG14 at 10c6c94401d4ff3178bc4738469ce8d63087cc02, `research/panini_grammar/grammar_construction/NATIVE_OPERATOR_LIFT.md`, blob fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b. On its full history module pair each edition/entry/quotation-offset grade with the complementary grade for the rival spelling and report owner. The source collation edge maps a located glyph sequence to a literal reading plus an ordered witness tag. The zero map on the input returns edition, entry and glyphs at that location. The zero map on the output returns the same indexed reading and source-policy status. Row by row the selected sequences on the right are exactly the projection of the tagged edge, so π_read ○ collate_Λ = collate₀ ○ π_page. The augmentation of the history coefficient preserves this typed equality under composition with the frozen guards. A morphology request is absent from the input type. All four inflection deltas are zero.
+
+[Page image, SP4114MadhaviyaDhatuVrittiVolIIPartISeriesNo.31894GovtOrientalLibSeriesMysore, leaf 21](https://archive.org/details/SP4114MadhaviyaDhatuVrittiVolIIPartISeriesNo.31894GovtOrientalLibSeriesMysore/page/n21/mode/1up)
+
+[Page image, BdFD_madhaviya-dhatu-vritti-of-sayana-acharya-edited-by-ananta-shastri-1934-benaras-chaukhamba, leaf 236](https://archive.org/details/BdFD_madhaviya-dhatu-vritti-of-sayana-acharya-edited-by-ananta-shastri-1934-benaras-chaukhamba/page/n236/mode/1up)
+
+[Page image, qVcq_madhaviya-dhatu-vritti-by-sayana-acharya-edited-by-swami-dwarika-das-shastri-198, leaf 367](https://archive.org/details/qVcq_madhaviya-dhatu-vritti-by-sayana-acharya-edited-by-swami-dwarika-das-shastri-198/page/n367/mode/1up)
+
+[Page image, BdFD_madhaviya-dhatu-vritti-of-sayana-acharya-edited-by-ananta-shastri-1934-benaras-chaukhamba, leaf 382](https://archive.org/details/BdFD_madhaviya-dhatu-vritti-of-sayana-acharya-edited-by-ananta-shastri-1934-benaras-chaukhamba/page/n382/mode/1up)

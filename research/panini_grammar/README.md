@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG839 · [Two Mādhavīya entries in the edition named by the transcription](two_madhaviya_entries_in_the_named_benares_edition/README.md). Two edition-to-transcript comparisons distinguish the first quoted plural, the second quoted singular and the separate tiras report.
+
 PG838 · [Halāyudha’s seven words for disrespect](halayudhas_seven_words_for_disrespect/README.md). Book IV.19 in Aufrecht and verse 704 in the Vārāṇasī numbering align seven nouns. The lexical meaning of tiraskāra shares its case spellings with PG837’s armour.
 
 PG837 · [The iron covering in Bhāravi’s seventeenth canto](the_iron_covering_in_bharavis_seventeenth_canto/README.md). Mallinātha reads tiraskāra as a coat of armour. One verse position and twenty written inflectional companions form the seven-case panel.

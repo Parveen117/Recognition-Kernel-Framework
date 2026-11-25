@@ -1,5 +1,7 @@
 # Written Pāṇini work session · 2026-11-25
 
+PG839 · [Two Mādhavīya entries in the edition named by the transcription](two_madhaviya_entries_in_the_named_benares_edition/README.md). Parent 00bad82b424c63c918d70d39d1ae785323ca43a4. Four images, two XML entries and three source decisions. Finite 0/0, nominal 0/0. Census 52,366 finite and 22,785 nominal positions/25,760 nominal readings.
+
 PG838 · [Halāyudha’s seven words for disrespect](halayudhas_seven_words_for_disrespect/README.md). Parent 459869eb2645fc80112040f3b44bde336d58d560. Two printings, one seven-member synonym verse, three source decisions and one singular case transfer with 21 interfaces. Four additional citation nominatives. Net 18 nominal positions/20 readings and finite 0/0. Census 52,366 finite, 22,785 nominal positions and 25,760 nominal readings.
 
 PG837 · [The iron covering in Bhāravi’s seventeenth canto](the_iron_covering_in_bharavis_seventeenth_canto/README.md). Parent fc88ec7b430ac3d4bebf8351f456fe2c8e90feb8. Two page images and the segmented verse. Three source decisions, one covering formation and one seven-case realization with 21 interfaces. Finite 0/0, nominal 21/22 new positions/readings, of which one position is verse-witnessed. Census 52,366 finite, 22,767 nominal positions and 25,740 nominal readings.

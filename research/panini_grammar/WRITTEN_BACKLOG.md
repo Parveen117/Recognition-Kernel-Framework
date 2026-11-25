@@ -1,4 +1,6 @@
-# Written-development backlog at PG838
+# Written-development backlog at PG839
+
+PG839 · [Two Mādhavīya entries in the edition named by the transcription](two_madhaviya_entries_in_the_named_benares_edition/README.md). S1 has a print-supported initial ā and a distinct second quotation with ni. The first quotation’s independent poem locator and actual mood remain open. S7 has the literal 1934 lyap example and grammatical pakṣo. Manuscript priority and the competing policy remain open. C2–C5 and Claude’s execution retain separate owners.
 
 PG838 · [Halāyudha’s seven words for disrespect](halayudhas_seven_words_for_disrespect/README.md). PG487’s two citation loci are now identified in Bhāravi and Halāyudha. The agent attribution and the dictionary’s ātta quotation remain source-specific. The historical intermediate and inner compound licence for contempt remain open. Wider C2–C5 and source obligations, including the independent S6 k-it effect, retain separate ownership from Claude’s execution.
 
