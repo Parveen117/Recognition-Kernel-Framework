@@ -2,6 +2,12 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG817 · Determination dual/plural accusative and oblique panels
+
+PG817 · [Determination dual/plural accusative and oblique panels](determination_dual_plural_accusative_oblique_panels/README.md). Constructs 216 genuinely new accusative–locative dual/plural M/F/N positions/readings for `katara/katama`, `yatara/yatama` and `tatara/tatama`. One morphology ending adapter has 216 interfaces; one semantic case-role contract has 72 stem×case×number frames. Finite positions/readings, source observations and source-policy decisions each increase by zero. Census: 52,357 finite positions, 22,339 nominal positions and 25,299 nominal readings.
+
+Parent `3073465cadfbb3540f9deff45338aa2d760f018f`. Exact audit found no prior credited principal-stem keys; superficially similar `chinnakatar-/chinnakatam-` forms belong to different derivations. Equal dual/plural surfaces retain separate case roles and ending histories. Together with PG431/PG816, the selected six stems' non-vocative all-number panels are CLOSED. Vocative, accent, compounds/names, other derived pronouns and independent commentary/source collation remain Open. PG335's correction and PG340/346, PG349–352, PG355–360 and PG357–363 closures are preserved. C2–C5/S1–S7 remain Open; S5 is 99/103 and S6 retains the independent 5.56 k-it effect. Claude retains execution, generators, untouched suites and replay.
+
 ## PG816 · Determination nominative dual/plural number transport
 
 PG816 · [Determination nominative dual/plural number transport](determination_nominative_dual_plural_number_transport/README.md). Constructs the previously Open M/F/N nominative dual/plural realization of `katara/katama`, `yatara/yatama` and `tatara/tatama`: 36 new nominal positions and 36 readings. One morphology ending/number adapter has 36 interfaces; one semantic number-transport contract has 12 stem×number frames. Finite positions/readings, source observations and source-policy decisions each increase by zero. Census: 52,357 finite positions, 22,123 nominal positions and 25,083 nominal readings.

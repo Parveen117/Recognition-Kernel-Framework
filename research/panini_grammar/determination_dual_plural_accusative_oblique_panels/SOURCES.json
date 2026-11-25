@@ -1,0 +1,17 @@
+{
+  "project_dependencies": [
+    {"commit":"3073465cadfbb3540f9deff45338aa2d760f018f","path":"research/panini_grammar/determination_nominative_dual_plural_number_transport/STATE.json","git_blob_sha":"40ae53aef52afa627ccc08fbf85a8d7721a7b196","sha256":"77781545b9f38805ddf977ab41bfa4a20aee121829804dede8ee321120732c90","use":"PG816 baseline and explicit next obligation"},
+    {"commit":"3073465cadfbb3540f9deff45338aa2d760f018f","path":"research/panini_grammar/determination_nominative_dual_plural_number_transport/RELATION.json","git_blob_sha":"da406d9e5c32b555c95da0055b192b1622a36ea8","sha256":"660ca42d9c799e2d38ab02f3b49d294fb71017e5bb63c9007ee94b7b33bf4629","use":"Grouped-member number contract and exact stem/affix ownership"},
+    {"commit":"10c6c94401d4ff3178bc4738469ce8d63087cc02","path":"research/panini_grammar/determination_six_stems_singular_gender_cases/SOURCES.json","git_blob_sha":"4179086cf5ff03a4393481d5eed3d317049367c3","sha256":"c95b5eb86fefcce617401373b8981a8daa1ef4cc433aec4f6b5f9d8e885f6dc5","use":"Frozen Kāśikā 1.1.27, 5.3.92–93 and ending-rule fields"},
+    {"commit":"10c6c94401d4ff3178bc4738469ce8d63087cc02","path":"research/panini_grammar/sarva_three_genders_shi_sut_and_nasal_owners/DERIVATION_AND_NATIVE_RECOVERY.md","git_blob_sha":"b4cd72c7628a14d4524a4cefd779b013cbeb660f","sha256":"7355c74afb428e3a84bd881bbc90cf21df35b47f0cc6db9d9724c36c8d1dbcbf","use":"Reviewed M/F/N dual/plural ending, nasal and sibilant ownership"},
+    {"commit":"10c6c94401d4ff3178bc4738469ce8d63087cc02","path":"research/panini_grammar/sarva_three_genders_shi_sut_and_nasal_owners/NOMINAL_FORMS.tsv","git_blob_sha":"79a893197865f4b65d136df16d3fd3dddfd0702f","sha256":"d5f9f519958bf4a1d82aec9712e717fdc90bda88041532643d3feb1455b0f715","use":"Frozen literal a-final sarvanāma controls"},
+    {"commit":"10c6c94401d4ff3178bc4738469ce8d63087cc02","path":"research/panini_grammar/grammar_construction/NATIVE_OPERATOR_LIFT.md","git_blob_sha":"fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b","sha256":"f52e7f5cf539ef56859b890669ef738848491e4005e73be75baa49c899b5dafd","use":"PG14 full operator/history carrier and typed zero specialization"}
+  ],
+  "duplicate_audit": {
+    "result": "No prior credited accusative–locative dual/plural keys for the six principal determination stems.",
+    "near_hits": "chinnakatar-/chinnakatam- belong to distinct comparative/superlative derivations and receive no overlap deduction."
+  },
+  "source_fields_reused_without_new_observation_credit": "PG431, PG816 and the frozen sarva register already preserve the relevant textual fields and ending contracts.",
+  "source_observations_new": 0,
+  "source_policy_decisions_new": 0
+}

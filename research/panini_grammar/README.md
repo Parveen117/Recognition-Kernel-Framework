@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG817 · [Determination dual/plural accusative and oblique panels](determination_dual_plural_accusative_oblique_panels/README.md). Constructs 216 accusative–locative dual/plural M/F/N positions/readings for six principal determination stems, one ending adapter/216 interfaces and one case-role contract/72 frames.
+
 PG816 · [Determination nominative dual/plural number transport](determination_nominative_dual_plural_number_transport/README.md). Constructs 36 M/F/N nominative dual/plural positions/readings for six principal determination stems, one ending adapter/36 interfaces and one grouped-member semantic contract/12 frames.
 
 PG815 · [Direct Sanskrit priority for three 5.3 forks](direct_sanskrit_priority_for_three_5_3_forks/README.md). One source-priority contract/three decisions; no new word, morphology or source-observation credits. Direct Sanskrit defaults are fixed while Vasu alternatives remain Accepted.

@@ -1,0 +1,29 @@
+{
+  "stage": "PG817",
+  "date": "2026-11-25",
+  "publication_parent": "3073465cadfbb3540f9deff45338aa2d760f018f",
+  "baseline": {"commit":"3073465cadfbb3540f9deff45338aa2d760f018f","path":"research/panini_grammar/determination_nominative_dual_plural_number_transport/STATE.json"},
+  "finite_positions": 52357,
+  "nominal_positions": 22339,
+  "nominal_readings": 25299,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 216,
+  "new_nominal_readings": 216,
+  "new_morphology_constructions": 1,
+  "new_morphology_interfaces": 216,
+  "new_semantic_contracts": 1,
+  "new_semantic_frames": 72,
+  "new_source_observations": 0,
+  "new_source_policy_decisions": 0,
+  "local_closure": "Accusative through locative dual/plural M/F/N panels for six principal determination stems are CLOSED: 216 positions/readings. With PG431 and PG816, their selected non-vocative all-number panels are CLOSED.",
+  "open_obligations": [
+    "Resolve vocative realization and exact accent from positive source evidence; do not infer closure from nominative surfaces.",
+    "Construct compound/name/subordinate restrictions and remaining derived-pronoun members only after duplicate/source review.",
+    "Complete independent Bhāṣya/Kaiyaṭa/commentary reconciliation and external source collation; missing readings remain Open.",
+    "C2–C5 and S1–S7 remain Open; S5 is 99/103 and S6 retains the independent 5.56 k-it effect."
+  ],
+  "global_gates": {"C2–C5":"Open","S1–S7":"Open","S5_direct_fields":"99/103","S6":"Independent 5.56 k-it effect Open"},
+  "protected_registers": {"PG335":"-9 finite positions and -12 readings already applied","PG340/346, PG349–352, PG355–360, PG357–363":"CLOSED on registered scopes"},
+  "runtime_policy": "Written derivation only. Claude owns execution, generators, untouched suites and replay."
+}

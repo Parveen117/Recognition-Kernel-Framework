@@ -1,0 +1,38 @@
+{
+  "schema": "rkf.panini.pg817.relation.v1",
+  "input": {
+    "roots": null,
+    "preverbs": [],
+    "voice": null,
+    "stems": {
+      "katara": ["kim", "ḍatarac"], "katama": ["kim", "ḍatamac"],
+      "yatara": ["yad", "ḍatarac"], "yatama": ["yad", "ḍatamac"],
+      "tatara": ["tad", "ḍatarac"], "tatama": ["tad", "ḍatamac"]
+    },
+    "numbers": ["dual", "plural"],
+    "cases": ["accusative", "instrumental", "dative", "ablative", "genitive", "locative"],
+    "policies": ["K_STRICT", "SK_BALA_REPORTED_BROAD"]
+  },
+  "case_role_contract": {
+    "name": "grouped-member case-role transport",
+    "frames": 72,
+    "definition": "Six stems × two numbers × six case roles; gender changes realization but not the semantic frame count.",
+    "same_surface_guard": "INS/DAT/ABL dual, GEN/LOC dual and DAT/ABL plural retain distinct role and original-sup histories."
+  },
+  "morphology": {
+    "adapter": "dual/plural accusative-oblique ending realization",
+    "interfaces": 216,
+    "ledger": "CASE_PANELS.tsv",
+    "positions_per_row": 6,
+    "row_count": 36,
+    "ending_owners": {
+      "dual": ["auṭ", "bhyām_INS", "bhyām_DAT", "bhyām_ABL", "os_GEN", "os_LOC"],
+      "plural": ["śas", "bhis", "bhyas_DAT", "bhyas_ABL", "ām_GEN+suṭ", "su_LOC"]
+    }
+  },
+  "status": {
+    "accepted": "All 216 literal case keys under PG816 grouped-member number transport and inherited policies.",
+    "excluded": ["flat multiple-selection without positive evidence", "merging distinct case roles merely because surfaces agree"],
+    "open": ["vocative", "accent", "compounds/names/subordination", "remaining derived-pronoun members", "independent commentary reconciliation", "external source collation"]
+  }
+}
