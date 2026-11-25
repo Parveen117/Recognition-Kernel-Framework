@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG854 · [Three aorist readings and the teacher and pupil with ati + śī](research/panini_grammar/three_aorists_and_two_participial_roles_of_ati_shi/README.md). Actual ciṇ and ciṇ-like sic have distinct terminal grades; equal participial forms retain their different case histories.
+
 PG853 · [The nasal in two printed versions of the tooth-offering example](research/panini_grammar/nasal_in_two_prints_of_the_tooth_offering_example/README.md). Orthographic evidence and gender-conditioned nuṃ must project to separate source and grammatical grades.
 
 PG852 · [Giriśa in the Rudra invocation and the two verses quoted by Haradatta](research/panini_grammar/rudra_on_the_mountain_and_kalidasa_two_quoted_cases/README.md). Distinct ḍa and possessive śa histories recover the same nominal inflection.

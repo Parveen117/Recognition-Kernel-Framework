@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG854 · [Three aorist readings and the teacher and pupil with ati + śī](three_aorists_and_two_participial_roles_of_ati_shi/README.md). The ciṇ and two sic paths for one karmakartṛ third singular, and the teacher/pupil cases in two traditions.
+
 PG853 · [The nasal in two printed versions of the tooth-offering example](nasal_in_two_prints_of_the_tooth_offering_example/README.md). Vasu and Vedāṅga Prakāśa support the nasal-bearing example on PG641’s pre-existing fork.
 
 PG852 · [Giriśa in the Rudra invocation and the two verses quoted by Haradatta](rudra_on_the_mountain_and_kalidasa_two_quoted_cases/README.md). Two Rudra traditions, four poetic cases and the source-controlled 3.2.15 extensions.

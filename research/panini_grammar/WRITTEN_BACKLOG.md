@@ -1,4 +1,6 @@
-# Written-development backlog at PG853
+# Written-development backlog at PG854
+
+PG854 · [Three aorist readings and the teacher and pupil with ati + śī](three_aorists_and_two_participial_roles_of_ati_shi/README.md). The selected three-way aorist and the two attested ati + śī participial role assignments are closed here. Generalization beyond these inputs, C2–C5 and S1–S7 remain open. Claude retains execution.
 
 PG853 · [The nasal in two printed versions of the tooth-offering example](nasal_in_two_prints_of_the_tooth_offering_example/README.md). The linked four-part remaining register distinguishes closures, actual unconstructed domains, source obligations and Claude execution. A masculine no-n reading at this exact Vedic locus still lacks direct support.
 

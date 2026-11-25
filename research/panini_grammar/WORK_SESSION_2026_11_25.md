@@ -1,5 +1,7 @@
 # Written Pāṇini work session · 2026-11-25
 
+PG854 · [Three aorist readings and the teacher and pupil with ati + śī](three_aorists_and_two_participial_roles_of_ati_shi/README.md). Parent 2b65dbb962780fc70e11715befa5f7decebba10f. Four source decisions, one finite construction at one position, one syntax construction with four clause interfaces. The inflectional increment is one finite position and three readings.
+
 PG853 · [The nasal in two printed versions of the tooth-offering example](nasal_in_two_prints_of_the_tooth_offering_example/README.md). PG852 parent 9740c66e2fad1939f69484a67a2e551d6ffe6e71. Three positive source decisions, including independent second-predicate variation. Zero new inflection or construction credit.
 
 PG852 · [Giriśa in the Rudra invocation and the two verses quoted by Haradatta](rudra_on_the_mountain_and_kalidasa_two_quoted_cases/README.md). PG851 parent 234d54a50469bf8c889e8bfb96990fa06535bdbe. Eight source decisions. One case construction at 24 interfaces. No new finite or general accent credit.

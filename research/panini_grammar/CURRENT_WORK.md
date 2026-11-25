@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG853
+# Pāṇini grammar · current written coverage at PG854
+
+PG854 · [Three aorist readings and the teacher and pupil with ati + śī](three_aorists_and_two_participial_roles_of_ati_shi/README.md). One new finite position with three readings, and two participial roles. Census 52,436 finite, 25,116 nominal and 28,714 nominal readings.
 
 PG853 · [The nasal in two printed versions of the tooth-offering example](nasal_in_two_prints_of_the_tooth_offering_example/README.md). Positive independent print evidence for the nasal-bearing 5.4.142 example; zero inflectional increment. Totals 52,435 finite, 25,116 nominal and 28,714 nominal readings.
 
