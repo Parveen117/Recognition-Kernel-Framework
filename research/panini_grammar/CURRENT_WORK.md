@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG865
+# Pāṇini grammar · current written coverage at PG866
+
+PG866 · [Mallinātha locates the Bhaṭṭi variant and the aorist of yam in disclosure](mallinathas_bhatti_variant_and_yam_in_disclosure/README.md). S1’s quotation is located in Mallinātha at 7.103, parallel to 7.101. Six new finite positions and readings. Census 52,471 finite, 25,375 nominal positions and 28,983 nominal readings.
 
 PG865 · [Doubt, lying nearby and the post called upaśaya](doubt_lying_near_and_the_post_called_upasaya/README.md). 46 new nominal positions and 48 readings. Census 52,465 finite positions, 25,375 nominal positions and 28,983 nominal readings.
 

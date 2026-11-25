@@ -1,5 +1,7 @@
 # Written Pāṇini work session · 2026-11-25
 
+PG866 · [Mallinātha locates the Bhaṭṭi variant and the aorist of yam in disclosure](mallinathas_bhatti_variant_and_yam_in_disclosure/README.md). Parent c4be77d019594de4c3ce5d13f705f787cf333454. Nine source decisions. Two syntax comparisons at eight interfaces, one nine-cell aorist construction with six new positions and six readings. No nominal increment.
+
 PG865 · [Doubt, lying nearby and the post called upaśaya](doubt_lying_near_and_the_post_called_upasaya/README.md). Parent 09b563754088362723b285ac4038f12346a7dd27. Two morphology constructions at 48 positions, two syntax comparisons at five interfaces and seven source decisions. Two old nominatives reserved.
 
 PG864 · [The Atharvan account of nuṃ and two printed readings of the tooth offering](atharvan_account_of_num_and_two_nonnasaled_tooth_offering_prints/README.md). Parent 60274de83bf1b55171a21c7b32bf50da4475662e. Six source decisions and one syntax comparison at three interfaces. Zero new finite or nominal cells or readings.

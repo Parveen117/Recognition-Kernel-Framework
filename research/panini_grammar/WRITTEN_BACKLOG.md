@@ -1,4 +1,6 @@
-# Written-development backlog at PG865
+# Written-development backlog at PG866
+
+PG866 · [Mallinātha locates the Bhaṭṭi variant and the aorist of yam in disclosure](mallinathas_bhatti_variant_and_yam_in_disclosure/README.md). S1’s verse locator is closed. The exact variant’s own mood and manuscript remain open. S2–S7, unconstructed C2–C5 and Claude execution retain separate owners.
 
 PG865 · [Doubt, lying nearby and the post called upaśaya](doubt_lying_near_and_the_post_called_upasaya/README.md). Two selected short ac paradigms closed. Manuscript priority, ritual lexical derivation, C2–C5 and S1–S7 remain open. Claude retains execution.
 

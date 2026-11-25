@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG866 · [Mallinātha locates the Bhaṭṭi variant and the aorist of yam in disclosure](mallinathas_bhatti_variant_and_yam_in_disclosure/README.md). The exact quoted variant, the separately analysed prohibition and the main causal command have three different addresses on the same printed page.
+
 PG865 · [Doubt, lying nearby and the post called upaśaya](doubt_lying_near_and_the_post_called_upasaya/README.md). Two masculine ac paradigms, the printed Mīmāṃsā sibilant and the Taittirīya post as instrument and subject.
 
 PG864 · [The Atharvan account of nuṃ and two printed readings of the tooth offering](atharvan_account_of_num_and_two_nonnasaled_tooth_offering_prints/README.md). Śaunaka 19.6.12 supplies the missing account of nuṃ. Two prints show the nonnasal offering object.

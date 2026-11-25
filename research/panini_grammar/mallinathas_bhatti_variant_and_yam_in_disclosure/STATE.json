@@ -1,0 +1,92 @@
+{
+  "stage": "PG866",
+  "publication_parent": "c4be77d019594de4c3ce5d13f705f787cf333454",
+  "baseline": "../doubt_lying_near_and_the_post_called_upasaya/STATE.json",
+  "finite_positions": 52471,
+  "nominal_positions": 25375,
+  "nominal_readings": 28983,
+  "new_finite_positions": 6,
+  "new_finite_readings": 6,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 0,
+  "new_morphology_constructions": 1,
+  "new_morphology_interfaces": 9,
+  "source_decisions": [
+    "EXACT_BHATTI_VARIANT_IN_MALLINATHA_7_103",
+    "TRIVEDI_7_103_MATCHES_CALCUTTA_7_101",
+    "MAIN_MODAYADHVAM_HAS_NIC_LOT_AND_RULE_1_3_74",
+    "SUBODHINI_PROHIBITIVE_MODAHADHVAM_EXPLICIT_LUNG",
+    "SEPARATE_KVACIT_VARIANT_AND_TRANSITIVITY_OBJECTION",
+    "CANDRAKALA_NAMES_UPA_ANG_AND_LUNG",
+    "MALLINATHA_VERSUS_TRIVEDI_ON_TRANSITIVE_YAM",
+    "BHARATAMALLIKA_NAMES_SCOPE_AND_ACCEPTANCE_ACCOUNTS",
+    "VERSE_NO_AND_APPARATUS_MO_HAVE_DISTINCT_PARTICLES"
+  ],
+  "sources": {
+    "trivedi": {
+      "item": "BhattikavyaWithTheCommentaryOfMallinathaPart1CantosI-ix",
+      "file": "Bhatti-kavyaOrRavanavadhaVol.1Cantos1.pdf",
+      "pdf_sha256": "cc1e25fa4643d7528979dc01f9b1d9cb466fa1ff4ce5c29032f6e5e848493693",
+      "leaves": {
+        "295": "printed text p. 253",
+        "509": "printed notes p. 111",
+        "510": "printed notes p. 112"
+      }
+    },
+    "other_prints": {
+      "bhar": {
+        "item": "yozz_bhatti-kavya-with-jayamangala-tika-bharatamallika-tika-muktabodhini-ed-sri-jivan",
+        "package": "Bhatti Kavya (with Jayamangala Tika –Bharatamallika Tika Muktabodhini) Ed Sri Jivananda Vidyasagar Bhattcharya -Canto 1 Ch 1 to 9 Calcutta 1891 – Saraswati Press_jp2.zip",
+        "leaves": {
+          "465": "6b9d52865cd983a84d1b66c69fc1c11ed97e5cf07eec30b5d15d2170c7512cec",
+          "466": "f00c6612e18bb5858b2a4aeddb938f3b73622b09fa195976dac5bead85edd9fe"
+        }
+      },
+      "candra": {
+        "item": "waef_bhatti-kavyam-cantos-7-to-11-chandrakala-and-vidyotini-shesharaja-sharma-sh",
+        "package": "Bhatti Kavyam Cantos 7 To 11 Chandrakala And Vidyotini Shesharaja Sharma Shastri By Bhatti Sanskrit And Hindi Kavya Varanasi 1976 - Chowkhamba Sanskrit Series Office_jp2.zip",
+        "leaves": {
+          "76": "fee28a1d4f1fb18e6b33081d94290db6280b1c691c4bc63ad278a28fc1ae49ba",
+          "77": "5055c202fd1419868e1a5adb4bf4e512d60dd25b582a867b276a986a548c7054"
+        }
+      }
+    },
+    "digital": {
+      "kashika": {
+        "repository": "ashtadhyayi-com/data",
+        "commit": "db9a7f1dba06159e6bcd6efb92c9d01857939947",
+        "path": "sutraani/kashika.txt",
+        "blob": "33aee69f03d8c88d8406875c82b5d0fb1bec9b7d",
+        "keys": [
+          "12015"
+        ]
+      },
+      "padamanjari": {
+        "repository": "ashtadhyayi-com/data",
+        "commit": "db9a7f1dba06159e6bcd6efb92c9d01857939947",
+        "path": "sutraani/padamanjari.txt",
+        "blob": "0d926503e6f22d6375c6f2fabb247d1606742258",
+        "keys": [
+          "12015"
+        ]
+      }
+    },
+    "repository_blobs": {
+      "doubt_lying_near_and_the_post_called_upasaya/STATE.json": "ce290011ec99bc23f1627f71f4691750a667a3ed",
+      "two_middle_predicates_and_the_raghuttama_address_in_bhatti_7_101/RELATION.json": "71486bcb05a64a84f57423479a632b8fc82f6a93",
+      "two_middle_predicates_and_the_raghuttama_address_in_bhatti_7_101/DERIVATION_AND_NATIVE_RECOVERY.md": "21fc6870c654d7d18942408ec082ce0540731b29",
+      "bhatti_ma_pronoun_and_lavanya_witness/SOURCE_DECISION_AND_NATIVE_RECOVERY.md": "15f8586a0aadad125288a3abf0c84d1a3e61264e",
+      "aa_han_bhatti_prohibitive_and_blocked_augment/PROHIBITIVE_DERIVATION_AND_NATIVE_RECOVERY.md": "a30bf0e91f98e65bf5e5c8f341c44b4670b4657b",
+      "contextual_dan_yam/DERIVATIONS.md": "e09364810a94a6d8cd7c1125e301d4070400dd33",
+      "contextual_dan_yam/PARADIGMS.md": "e262ee9aa713f2c306801c00d5f325a8800c1a5c",
+      "contextual_dan_yam/SOURCE_EXCERPTS.json": "6a2c23ddaf9fc9a435cfc479430581e10ec4579f",
+      "ud_aa_yam_actor_result/DERIVATIONS.md": "b2523b00804035f053439234a884e96d2d5cb89b",
+      "grammar_construction/NATIVE_OPERATOR_LIFT.md": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b"
+    }
+  },
+  "execution": "Claude-deferred",
+  "new_syntax_constructions": 2,
+  "new_syntax_interfaces": 8,
+  "s1_verse_locator": "CLOSED for the explicitly attributed variant",
+  "s1_variant_mood": "OPEN"
+}
