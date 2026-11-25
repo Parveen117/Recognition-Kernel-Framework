@@ -1,0 +1,14 @@
+{
+  "schema": "rkf.panini.pg887.relation.v1",
+  "stage": "PG887",
+  "input": {"lemma": "sarva", "sense": "all-entire", "roots": null, "preverbs": [], "verbal_pada": null, "voice": null, "genders": ["M", "F", "N"], "numbers": ["sg", "du", "pl"], "case": "vocative"},
+  "construction": {"address_owner": "2.3.47 first-case endings in address", "singular_owner": "2.3.49 sambuddhi only in singular", "masculine_singular": "short a plus 6.1.69", "feminine_singular": "ṭāp plus 7.3.106 and 6.1.69", "neuter_singular": "7.1.24 am plus 6.1.69 m-lopa; no adḍ", "dual_plural": "PG420 first-case endings transported under address", "interfaces": 9, "positions": 9, "readings": 9},
+  "source_policy_decisions": ["Apply the reviewed address adapter only to the exact freestanding sarva all/entire family.", "Preserve gender-number histories and select ordinary am plus m-lopa for N singular; do not import adḍ."],
+  "controls": [
+    {"id": "M_N_SG_SAME_SURFACE", "status": "Accepted_distinct_histories", "reason": "M uses short-a sambuddhi; N uses am and m-lopa."},
+    {"id": "FOUR_SARVE_SURFACES", "status": "Accepted_distinct_histories", "reason": "M plural, F singular, F dual and N dual keep separate endings."},
+    {"id": "SARVA_ADḌ", "status": "Excluded_from_selected_adapter", "reason": "7.1.25's named domain does not license sarva."},
+    {"id": "DIRECT_TEXTUAL_ATTESTATION", "status": "Open", "reason": "Constructed address keys do not manufacture literary occurrences."}
+  ],
+  "counts": {"new_finite_positions": 0, "new_finite_readings": 0, "new_nominal_positions": 9, "new_nominal_readings": 9, "new_morphology_constructions": 1, "new_morphology_interfaces": 9, "new_syntax_constructions": 1, "new_syntax_interfaces": 9, "new_source_observations": 0, "new_source_policy_decisions": 2}
+}

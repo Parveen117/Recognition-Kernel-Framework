@@ -1,0 +1,16 @@
+{
+  "project_dependencies": [
+    {"commit": "202774e10ca5372e14b47948a94aad0c5a156aa5", "path": "research/panini_grammar/sarvaka_vocative_panels/STATE.json", "git_blob_sha": "3f8428ca98c3caaac0d7a128f6ea3a76f1b32c63", "bytes": 1724, "sha256": "485b98b342aff9478cd458739e3569c6e955329be2085f34ea7191bfee8d8c04", "use": "PG886 cumulative baseline and protected register"},
+    {"commit": "10c6c94401d4ff3178bc4738469ce8d63087cc02", "path": "research/panini_grammar/sarva_three_genders_shi_sut_and_nasal_owners/NOMINAL_FORMS.tsv", "git_blob_sha": "79a893197865f4b65d136df16d3fd3dddfd0702f", "bytes": 2415, "sha256": "d5f9f519958bf4a1d82aec9712e717fdc90bda88041532643d3feb1455b0f715", "use": "PG420 exact M/F/N first-case outputs and distinct ending owners"},
+    {"commit": "10c6c94401d4ff3178bc4738469ce8d63087cc02", "path": "research/panini_grammar/sarva_three_genders_shi_sut_and_nasal_owners/STATE.json", "git_blob_sha": "6cb7e68c25563c033a55fd9ab1901dfccbee564b", "bytes": 2176, "sha256": "59394071d4e6f543df9c98fc36770c8d499ec15a3ba95f302d9436788923b78b", "use": "PG420 closure boundary and explicit vocative obligation"},
+    {"commit": "10c6c94401d4ff3178bc4738469ce8d63087cc02", "path": "research/panini_grammar/sarva_three_genders_shi_sut_and_nasal_owners/DERIVATION_AND_NATIVE_RECOVERY.md", "git_blob_sha": "b4cd72c7628a14d4524a4cefd779b013cbeb660f", "bytes": 9761, "sha256": "7355c74afb428e3a84bd881bbc90cf21df35b47f0cc6db9d9724c36c8d1dbcbf", "use": "Exact all/entire sense and three-gender ending histories"},
+    {"commit": "c86489ff490c96d69c82863b118038bc0e6f158a", "path": "research/panini_grammar/other_pronoun_and_eka_vocative_panels/DERIVATION_AND_NATIVE_RECOVERY.md", "git_blob_sha": "da725d9d08ecf731e72e2ae26e5f81eed0acc3e3", "bytes": 5819, "sha256": "638791298d98be68aa0d2eaad45795ea23b18310751748fa2283fdf980e0892d", "use": "Reviewed 2.3.47/49 adapter and N am versus adḍ distinction"},
+    {"commit": "10c6c94401d4ff3178bc4738469ce8d63087cc02", "path": "research/panini_grammar/grammar_construction/NATIVE_OPERATOR_LIFT.md", "git_blob_sha": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b", "bytes": 11855, "sha256": "f52e7f5cf539ef56859b890669ef738848491e4005e73be75baa49c899b5dafd", "use": "PG14 full operator/history carrier and typed zero specialization"}
+  ],
+  "source_fields_reused_without_new_observation_credit": [
+    {"rules": "1.1.27 and PG420's sarva ending owners", "reason": "PG420 already owns the exact freestanding family, sense and M/F/N first-case outputs."},
+    {"rules": "2.3.47, 2.3.49, 6.1.69, 6.1.88, 7.1.17-20, 7.1.24, 7.1.72, 7.3.106 and 6.4.8", "reason": "PG880-PG886 review address channels; PG887 adds only previously open vocative requests."}
+  ],
+  "source_observations_new": 0,
+  "source_policy_decisions_new": 2
+}

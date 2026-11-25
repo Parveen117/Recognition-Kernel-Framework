@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG887 · [*Sarva* vocative panels](sarva_vocative_panels/README.md). The freestanding all/entire family enters the three-number address adapter while M/N singular and four `sarve` ending histories remain typed separately.
+
 PG886 · [*Sarvaka/sarvikā* vocative panels](sarvaka_vocative_panels/README.md). The exact unknown-specific-property family enters the three-number address adapter while feminine `itva`, neuter `am`/m-lopa and same-surface ending histories remain typed separately.
 
 PG885 · [*Ubhaya* vocative panels](ubhaya_vocative_panels/README.md). The exact `ubha→ubhaya` whole enters the three-number address adapter while its M/N singular same-surface histories and three distinct `-e` histories remain typed separately.
