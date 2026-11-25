@@ -1,4 +1,6 @@
-# Written-development backlog at PG863
+# Written-development backlog at PG864
+
+PG864 · [The Atharvan account of nuṃ and two printed readings of the tooth offering](atharvan_account_of_num_and_two_nonnasaled_tooth_offering_prints/README.md). The PG620 print lead is closed. PG641’s first animal and masculine no-n licence, C2–C5 and S1–S7 remain open. Claude retains execution.
 
 PG863 · [Two printed readings of Haradatta and time as agent or patient](two_printed_readings_of_haradatta_and_time_as_agent_or_patient/README.md). Four print loci closed by visual collation. Manuscript ancestry, unnamed speakers, C2–C5 and S1–S7 remain open. Claude retains execution.
 

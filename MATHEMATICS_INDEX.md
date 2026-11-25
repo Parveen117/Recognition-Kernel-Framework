@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG864 · [The Atharvan account of nuṃ and two printed readings of the tooth offering](research/panini_grammar/atharvan_account_of_num_and_two_nonnasaled_tooth_offering_prints/README.md). Source-specific augment history and three ways of predicating birth in the same verse.
+
 PG863 · [Two printed readings of Haradatta and time as agent or patient](research/panini_grammar/two_printed_readings_of_haradatta_and_time_as_agent_or_patient/README.md). A source-indexed restriction on infinitives with time heads, and an epic apparatus parallel for Haribhadra.
 
 PG862 · [A turn to sleep and the sages who ask about sleep in Raghuvaṃśa 10.14](research/panini_grammar/the_turn_to_sleep_and_the_sages_who_inquire_after_sleep/README.md). The distinct syntax of the inquiry and its literary use, and the scope of ghañ in a pervasive turn.

@@ -1,5 +1,7 @@
 # Written Pāṇini work session · 2026-11-25
 
+PG864 · [The Atharvan account of nuṃ and two printed readings of the tooth offering](atharvan_account_of_num_and_two_nonnasaled_tooth_offering_prints/README.md). Parent 60274de83bf1b55171a21c7b32bf50da4475662e. Six source decisions and one syntax comparison at three interfaces. Zero new finite or nominal cells or readings.
+
 PG863 · [Two printed readings of Haradatta and time as agent or patient](two_printed_readings_of_haradatta_and_time_as_agent_or_patient/README.md). Parent e3bba4a419f6d18b50db27e4c32690d5f21b344e. Seven source decisions and four syntax interfaces. PG14 pacati/pacyate and PG29 opportunity forms reserved, zero finite or nominal increments.
 
 PG862 · [A turn to sleep and the sages who ask about sleep in Raghuvaṃśa 10.14](the_turn_to_sleep_and_the_sages_who_inquire_after_sleep/README.md). Parent f180b1b7900c41f99183b1bc1ef75c0feb380878. Eight source decisions, three nominal constructions at 72 interfaces, two syntax constructions at five interfaces. Three old citation positions reserved.

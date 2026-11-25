@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG864 · [The Atharvan account of nuṃ and two printed readings of the tooth offering](atharvan_account_of_num_and_two_nonnasaled_tooth_offering_prints/README.md). Śaunaka 19.6.12 supplies the missing account of nuṃ. Two prints show the nonnasal offering object.
+
 PG863 · [Two printed readings of Haradatta and time as agent or patient](two_printed_readings_of_haradatta_and_time_as_agent_or_patient/README.md). Two editions give nivṛtti in the first account of synonyms. The Upaniṣad uses time as agent and patient in consecutive clauses.
 
 PG862 · [A turn to sleep and the sages who ask about sleep in Raghuvaṃśa 10.14](the_turn_to_sleep_and_the_sages_who_inquire_after_sleep/README.md). Kāśikā, Nyāsa, Padamañjarī and Mādhavīya on taking turns, then Mallinātha and Śrīvallabha on the person who asks after sleep.
