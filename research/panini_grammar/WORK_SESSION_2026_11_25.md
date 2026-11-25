@@ -1,5 +1,7 @@
 # Written Pāṇini work session · 2026-11-25
 
+PG879 · [Vasu’s *munipadī* list slip and the correct foot-rule reference](vasu_munipadi_and_the_correct_foot_rule_reference/README.md). Parent 788cf38b985401c000d1a0d4e2211e602c912eb8. Two new source-policy decisions and one source-reference correction; zero finite or nominal additions. The raw strings remain auditable while the selected grammar uses long *ī* and 6.4.130.
+
 PG878 · [The *bhaikṣuka* life stage and its masculine cases](the_bhaiksuka_life_stage_and_its_masculine_cases/README.md). Parent fa13e9aea16821d1d28443d7aadc2d89bff4a245. One morphology construction/21 interfaces, two syntax constructions/five interfaces and six source decisions. Zero finite and 21 new nominal positions/21 readings. The masculine āśrama sense is source-positive; its historical affix remains Open.
 
 PG877 · [The mendicant, the collective and the two printed affix attributions](the_mendicant_and_the_collection_in_two_affix_traditions/README.md). Parent c2d6ef44199c91ac8600e04fe05bd509887e960e. Two morphology constructions/42 interfaces, three syntax constructions/eight interfaces, nine source decisions. Zero finite and 41 new nominal positions/41 readings.

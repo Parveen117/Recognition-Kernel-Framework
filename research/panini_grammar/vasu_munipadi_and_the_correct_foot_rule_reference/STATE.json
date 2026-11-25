@@ -1,0 +1,86 @@
+{
+  "stage": "PG879",
+  "publication_parent": "788cf38b985401c000d1a0d4e2211e602c912eb8",
+  "baseline": "../the_bhaiksuka_life_stage_and_its_masculine_cases/STATE.json",
+  "finite_positions": 52531,
+  "nominal_positions": 25864,
+  "nominal_readings": 29508,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 0,
+  "new_morphology_constructions": 0,
+  "new_morphology_interfaces": 0,
+  "new_syntax_constructions": 0,
+  "new_syntax_interfaces": 0,
+  "new_source_observations": 0,
+  "new_source_policy_decisions": 2,
+  "new_provenance_corrections": 1,
+  "source_decisions": [
+    "VASU_MUNIPADI_SHORT_I_IS_DIPLOMATIC_LIST_SLIP",
+    "VASU_5_4_139_4_4_130_POINTER_SELECTS_6_4_130"
+  ],
+  "sources": {
+    "repository_blobs": {
+      "the_bhaiksuka_life_stage_and_its_masculine_cases/STATE.json": "455751d49f0fd5567d679d3d424e978ffb5a5c0e",
+      "the_bhaiksuka_life_stage_and_its_masculine_cases/README.md": "f1c43244cc4200637b5c2ac567a82c44167627e1",
+      "grammar_construction/NATIVE_OPERATOR_LIFT.md": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b"
+    },
+    "ashtadhyayi-com/data": {
+      "commit": "5744762f010d677cfb43f347a42d02796cf615d6",
+      "files": {
+        "sutraani/vasu_english.txt": {
+          "git_blob_sha": "9fb1e0d606215f087670890555055efa26ef772c",
+          "bytes": 4660923,
+          "sha256": "4ec4f9519581d508fa2e341ba8c8403b4fff852cec48ae306c4fdadbb47912e1",
+          "fields": ["54139", "64130", "44130"]
+        },
+        "sutraani/kashika.txt": {
+          "git_blob_sha": "e525df7668835ef1dd7c5988c031da07ce0c162b",
+          "bytes": 3806703,
+          "sha256": "ccd6d554d10acbe89fd566730a59731ace38b2aad982becbbd653b77cca93254",
+          "fields": ["54139", "64130", "44130"]
+        }
+      }
+    },
+    "sanskrit-lexicon/csl-orig": {
+      "commit": "cf53a4240ac83c8f7dfd275533ebd0a0639e6b57",
+      "files": {
+        "v02/mw/mw.txt": {
+          "git_blob_sha": "e72bbf56f93897b7967dbec0a882ce1489720b7c",
+          "bytes": 50163993,
+          "sha256": "e4641dc4384de459408368a9b34b2a13c90a19b0ecd4671f92c055b7578d0129",
+          "entry": "165629"
+        }
+      }
+    }
+  },
+  "selected": {
+    "head": "munipadī",
+    "gender": "F",
+    "sense": "OPEN_UNRESOLVED",
+    "root": null,
+    "preverb": null,
+    "voice": null,
+    "feminine_affix": "ṅīp ī",
+    "foot_replacement_owner": "6.4.130"
+  },
+  "accepted_source_strings": [
+    "Vasu 5.4.139: munipadi",
+    "Vasu 5.4.139: [[4.4.130]]"
+  ],
+  "excluded_only_from_selected_grammar": [
+    "short-i munipadi as an independently licensed stem or case reading",
+    "4.4.130 as the owner of pād to pad replacement"
+  ],
+  "open": [
+    "lexical meaning of munipadī",
+    "other five K139 lexical meanings",
+    "three extended-Vasu139 lexical meanings",
+    "accent and independent corpus distribution",
+    "kuṇapadī/kuṇipadī/kṛṇapadī priority",
+    "remaining K128 recensional and inner variants",
+    "C2-C5 and S1-S7 obligations"
+  ],
+  "execution": "Claude-deferred"
+}

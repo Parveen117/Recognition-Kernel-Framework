@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG879 · [Vasu’s *munipadī* list slip and the correct foot-rule reference](vasu_munipadi_and_the_correct_foot_rule_reference/README.md). The raw short-*i* token and raw 4.4.130 pointer remain preserved, while internal controls positively select *munipadī* and 6.4.130.
+
 PG878 · [The *bhaikṣuka* life stage and its masculine cases](the_bhaiksuka_life_stage_and_its_masculine_cases/README.md). Direct nominative and genitive evidence separates the masculine āśrama sense from PG877’s neuter collective; the 21-case panel leaves its historical affix Open.
 
 PG877 · [The mendicant, the collective and the two printed affix attributions](the_mendicant_and_the_collection_in_two_affix_traditions/README.md). The masculine personal and neuter collective schedules distinguish the lexicons’ affix assignments and the two attested feminine addresses.
