@@ -1,6 +1,8 @@
-# Pāṇini grammar · current written coverage at PG814
+# Pāṇini grammar · current written coverage at PG815
 
-PG814 · [Censure, compassion and human-name affixes](censure_compassion_and_human_name_affixes/README.md). Constructs selected 5.3.75–82 motives, name guards, source-labelled alternatives and shared-surface lopa histories. Census: 52,357 finite positions, 22,087 nominal positions and 25,047 nominal readings. The next selected written frontier is 5.3.83.
+PG815 · [Direct Sanskrit priority for three 5.3 forks](direct_sanskrit_priority_for_three_5_3_forks/README.md). Direct Kāśikā Sanskrit closes the canonical-default priority of `pūrṇaka`, `bubhukṣitaka` and `śvasitaki`; Vasu-English alternatives remain Accepted and source-labelled. Census unchanged at 52,357 finite positions, 22,087 nominal positions and 25,047 nominal readings. Selected 5.3.83–91 is already CLOSED in PG543–PG554; review existing 5.3.92–100 registers before new credit.
+
+PG814 · [Censure, compassion and human-name affixes](censure_compassion_and_human_name_affixes/README.md). Constructs selected 5.3.75–82 motives, name guards, source-labelled alternatives and shared-surface lopa histories. Census: 52,357 finite positions, 22,087 nominal positions and 25,047 nominal readings. PG815 supersedes its three fork-priority obligations; other Open work remains.
 
 PG813 · [K-adhikāra, akac, unknown and contempt](k_adhikara_akac_unknown_and_contempt/README.md). Constructs selected 5.3.70–74 governance, insertion, substitution and shared-surface semantic readings. Census: 52,357 finite positions, 22,052 nominal positions and 25,006 nominal readings.
 

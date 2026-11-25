@@ -2,6 +2,12 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG815 · Direct Sanskrit priority for three 5.3 forks
+
+PG815 · [Direct Sanskrit priority for three 5.3 forks](direct_sanskrit_priority_for_three_5_3_forks/README.md). Exact Sanskrit Kāśikā 53075/53076 positively selects `pūrṇaka`, `bubhukṣitaka` and `śvasitaki` as canonical defaults. `cūrṇaka`, `bubhukṣika` and `viśvasitaki` remain Accepted Vasu-English alternatives; no reading is excluded. One source-priority contract/three decisions, zero new word/morphology/source-observation credits. Census unchanged at 52,357 finite positions, 22,087 nominal positions and 25,047 nominal readings.
+
+Parent `eba4b3d03f9474c4a52d4771bca85a1eb238bd55`. Direct-priority questions are CLOSED; alternative internal morphology, independent print/manuscript witnesses, full rosters, accent and paradigms remain Open. PG543–PG554 already close selected 5.3.83–91, so no duplicate stage is made. Review existing 5.3.92–100 registers before further credit. C2–C5/S1–S7 remain Open; S5 is 99/103 and S6 retains the independent 5.56 k-it effect. Claude retains execution, generators, untouched suites and replay.
+
 ## PG814 · Censure, compassion and human-name affixes
 
 PG814 · [Censure, compassion and human-name affixes](censure_compassion_and_human_name_affixes/README.md). Constructs selected 5.3.75–82 with 35 new nominal/derived positions and 41 readings. Finite positions/readings increase by zero. Eight constructions/35 interfaces, zero new source observations and eight decisions. Census: 52,357 finite positions, 22,087 nominal positions and 25,047 nominal readings.

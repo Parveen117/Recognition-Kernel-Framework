@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG815 · [Direct Sanskrit priority for three 5.3 forks](direct_sanskrit_priority_for_three_5_3_forks/README.md). One source-priority contract/three decisions; no new word, morphology or source-observation credits. Direct Sanskrit defaults are fixed while Vasu alternatives remain Accepted.
+
 PG814 · [Censure, compassion and human-name affixes](censure_compassion_and_human_name_affixes/README.md). Constructs selected 5.3.75–82: 35 new nominal/derived positions and 41 readings, eight constructions/35 interfaces and eight source decisions.
 
 PG813 · [K-adhikāra, akac, unknown and contempt](k_adhikara_akac_unknown_and_contempt/README.md). Constructs selected 5.3.70–74: 28 new nominal/derived positions and 43 readings, five constructions/28 interfaces and five source decisions.

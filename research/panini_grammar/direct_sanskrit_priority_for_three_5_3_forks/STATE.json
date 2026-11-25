@@ -1,0 +1,39 @@
+{
+  "stage": "PG815",
+  "date": "2026-11-25",
+  "publication_parent": "eba4b3d03f9474c4a52d4771bca85a1eb238bd55",
+  "baseline": {
+    "commit": "eba4b3d03f9474c4a52d4771bca85a1eb238bd55",
+    "path": "research/panini_grammar/censure_compassion_and_human_name_affixes/STATE.json"
+  },
+  "finite_positions": 52357,
+  "nominal_positions": 22087,
+  "nominal_readings": 25047,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 0,
+  "new_morphology_constructions": 0,
+  "new_morphology_interfaces": 0,
+  "new_source_observations": 0,
+  "new_source_priority_contracts": 1,
+  "new_source_policy_decisions": 3,
+  "local_closure": "Canonical-default priority of pūrṇaka, bubhukṣitaka and śvasitaki is CLOSED; all Vasu alternatives remain Accepted and source-labelled.",
+  "open_obligations": [
+    "Resolve internal morphology of cūrṇaka, bubhukṣika and viśvasitaki only from positive source evidence; do not normalize or exclude them.",
+    "Locate independent print/manuscript witnesses and complete name rosters, accent and paradigms.",
+    "Review already constructed 5.3.92–100 registers before any further position or reading credit; selected 5.3.83–91 is already closed in PG543–PG554.",
+    "C2–C5 and S1–S7 remain Open; S5 is 99/103 and S6 retains the independent 5.56 k-it effect."
+  ],
+  "global_gates": {
+    "C2–C5": "Open",
+    "S1–S7": "Open",
+    "S5_direct_fields": "99/103",
+    "S6": "Independent 5.56 k-it effect Open"
+  },
+  "protected_registers": {
+    "PG335": "-9 finite positions and -12 readings already applied",
+    "PG340/346, PG349–352, PG355–360, PG357–363": "CLOSED on registered scopes"
+  },
+  "runtime_policy": "Written derivation only. Claude owns execution, generators, untouched suites and replay."
+}

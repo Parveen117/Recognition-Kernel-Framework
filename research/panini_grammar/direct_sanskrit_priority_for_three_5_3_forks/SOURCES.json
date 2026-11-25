@@ -1,0 +1,42 @@
+{
+  "project_dependencies": [
+    {
+      "commit": "eba4b3d03f9474c4a52d4771bca85a1eb238bd55",
+      "path": "research/panini_grammar/censure_compassion_and_human_name_affixes/STATE.json",
+      "git_blob_sha": "b7f27d0f6b99cb10bd5b35a442ac6c393e7d9c4b",
+      "sha256": "52c42145f5af5c5053dc46575726eec929a0d4a89159ac3d5bf647d43e8efb56",
+      "use": "PG814 baseline and Open forks"
+    },
+    {
+      "commit": "eba4b3d03f9474c4a52d4771bca85a1eb238bd55",
+      "path": "research/panini_grammar/named_compound_kan_marker_and_initial_accent/SOURCES.json",
+      "git_blob_sha": "f812d7dbf05c0b00c17e72b274ffd568ad6bfc88",
+      "sha256": "eb7d9282d867ce10cacf3ace1afc13331856a65c2845d0c9847b60b29c777f35",
+      "use": "Direct Sanskrit Kāśikā 53075: śūdraka, dhāraka, pūrṇaka"
+    },
+    {
+      "commit": "eba4b3d03f9474c4a52d4771bca85a1eb238bd55",
+      "path": "research/panini_grammar/unknown_feature_censure_cross_compassion_and_shared_cases/SOURCES.json",
+      "git_blob_sha": "634f50a88ae6043d0aa7e518430e2f107d3203ac",
+      "sha256": "c5e735fc9e46950a8e2ead85dbfe304d59e9031308a0661c1d91080806c05e5a",
+      "use": "Direct Sanskrit Kāśikā 53076: bubhukṣitaka, svapitaki, śvasitaki"
+    },
+    {
+      "commit": "eba4b3d03f9474c4a52d4771bca85a1eb238bd55",
+      "path": "research/panini_grammar/possession_adverbials/SOURCE_EXCERPTS.json",
+      "git_blob_sha": "56ed94a5eb382934b25425b216cc534504796a3a",
+      "sha256": "b331a2ae11cca694fb978fc08eff91999aedd9be8d4f70039e12f09fd6837fd4",
+      "use": "Frozen Kāśikā/Vasu comparison fields"
+    },
+    {
+      "commit": "eba4b3d03f9474c4a52d4771bca85a1eb238bd55",
+      "path": "research/panini_grammar/grammar_construction/NATIVE_OPERATOR_LIFT.md",
+      "git_blob_sha": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+      "sha256": "f52e7f5cf539ef56859b890669ef738848491e4005e73be75baa49c899b5dafd",
+      "use": "PG14 full operator/history carrier"
+    }
+  ],
+  "source_observations_new": 0,
+  "source_policy_decisions_new": 3,
+  "decision_basis": "Previously credited direct Sanskrit fields are more probative for the unqualified default than conflicting English-source strings; alternatives remain source-qualified Accepted records."
+}

@@ -1,0 +1,45 @@
+{
+  "stage": "PG815",
+  "source_priority_contracts": 1,
+  "source_policy_decisions": [
+    {
+      "id": "D75",
+      "rule": "5.3.75",
+      "canonical_default": "pūrṇaka",
+      "direct_source": "Kāśikā Sanskrit 53075",
+      "accepted_alternative": "cūrṇaka [Vasu English]",
+      "status": "priority CLOSED; alternative Accepted; genealogy Open"
+    },
+    {
+      "id": "D76A",
+      "rule": "5.3.76",
+      "canonical_default": "bubhukṣitaka",
+      "direct_source": "Kāśikā Sanskrit 53076",
+      "accepted_alternative": "bubhukṣika [Vasu English]",
+      "status": "priority CLOSED; alternative Accepted; internal morphology Open"
+    },
+    {
+      "id": "D76B",
+      "rule": "5.3.76",
+      "canonical_default": "śvasitaki",
+      "direct_source": "Kāśikā Sanskrit 53076",
+      "accepted_alternative": "viśvasitaki [Vasu English]",
+      "direct_ownership": {
+        "root": "śvas",
+        "sense": "breathing",
+        "preverb": "NONE",
+        "voice_cell": "active present P3sg",
+        "outer_affix": "akac"
+      },
+      "alternative_ownership": "Open; no root or preverb inferred from spelling",
+      "status": "priority CLOSED; alternative Accepted/Open internally"
+    }
+  ],
+  "unchanged_reading": "svapitaki",
+  "excluded": [],
+  "prior_closed_registers_not_recredited": [
+    "PG543–PG551 selected 5.3.83–84",
+    "PG553–PG554 selected 5.3.85–91",
+    "PG357–PG363 historical closures"
+  ]
+}
