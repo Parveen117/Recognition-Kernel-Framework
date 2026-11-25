@@ -1,0 +1,53 @@
+{
+  "schema": "rkf.panini.pg898.relation.v1",
+  "stage": "PG898",
+  "audit_key": ["lemma", "sense", "gender", "case", "number"],
+  "audited_stage": "PG885",
+  "prior_owners": {
+    "PG822": "six M/F/N singular and plural vocative keys",
+    "PG824": "three M/F/N dual vocative keys on the permissive ekaśeṣa branch"
+  },
+  "decisions": [
+    "A grammatical key receives position credit only at its first active owner; PG885's nine keys therefore receive zero new-position credit.",
+    "Six identical M/N words receive no repeated reading credit, and the three PG885 feminine a-stem words are excluded only from the selected source-positive ubhayī construction."
+  ],
+  "controls": [
+    {
+      "id": "RESTRICTIVE_NUMBER_POLICY",
+      "status": "Accepted_alternative",
+      "reason": "Śabdamañjarī's dual-free policy remains distinct from PG824's permissive ekaśeṣa branch."
+    },
+    {
+      "id": "FEMININE_A_STEM_VOCATIVES",
+      "status": "Excluded_from_selected_construction",
+      "reason": "PG822 positively selects feminine ubhayī and PG824 transports that ī-stem only on the permissive dual branch."
+    },
+    {
+      "id": "DIRECT_TEXTUAL_ATTESTATION",
+      "status": "Open",
+      "reason": "Ledger correction does not manufacture literary tokens."
+    }
+  ],
+  "counts": {
+    "new_finite_positions": 0,
+    "new_finite_readings": 0,
+    "new_nominal_positions": 0,
+    "new_nominal_readings": 0,
+    "withdrawn_duplicate_nominal_positions": 9,
+    "withdrawn_nominal_readings": 9,
+    "exact_duplicate_readings": 6,
+    "incompatible_feminine_readings": 3,
+    "nominal_position_delta": -9,
+    "nominal_reading_delta": -9,
+    "new_morphology_constructions": 0,
+    "new_syntax_constructions": 0,
+    "new_source_observations": 0,
+    "new_source_policy_decisions": 2
+  },
+  "open": [
+    "direct literary addresses and accent",
+    "historical priority of restrictive and permissive number policies",
+    "independent feminine dual tokens",
+    "C2-C5 and S1-S7"
+  ]
+}

@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG898 · [*Ubhaya* vocative credit correction](ubhaya_vocative_credit_correction/README.md). A first-owner projection removes PG885's nine repeated position credits and nine reading credits while preserving PG822/PG824/PG885 as separate source-labelled histories under typed zero-specialization.
+
 PG897 · [*Bhavat* honorific vocatives and third-person agreement](bhavat_honorific_vocatives_and_third_person_agreement/README.md). Three explicit pattern arrows admit nine gender-number address histories, while a separate source-bounded agreement operator selects third-person predicates without merging finite/Uṇādi homographs or excluding other registers.
 
 PG896 · [Fixed-dual *ubha* vocative panels](ubha_fixed_dual_vocative_panels/README.md). Positive number and gender-column evidence admits exactly three dual address keys while `ubhe/ubhe`, ordinary `ubhau`, Vedic `ubhā` and derived `ubhaya` remain typed separately.

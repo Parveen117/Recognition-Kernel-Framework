@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG897
+# Pāṇini grammar · current written coverage at PG898
+
+PG898 · [*Ubhaya* vocative credit correction](ubhaya_vocative_credit_correction/README.md). Exact key comparison shows that PG822 already owned six singular/plural vocatives and PG824 the three dual vocatives before PG885 counted all nine again. Six identical M/N readings and three incompatible feminine a-stem readings are removed from repeated credit without changing the frozen records. Corrected census 52,531 finite, 26,124 nominal positions and 29,782 nominal readings.
 
 PG897 · [*Bhavat* honorific vocatives and third-person agreement](bhavat_honorific_vocatives_and_third_person_agreement/README.md). Śabdamañjarī's explicit `bhavat→dhīmat/nadī/jagat` pattern arrows supply nine M/F/N address keys, and its closing note positively selects third-person predicates in the bounded honorific register. Nine nominal positions/readings are new; same-spelling finite and Uṇādi histories remain distinct. Census 52,531 finite, 26,133 nominal positions and 29,791 nominal readings.
 
