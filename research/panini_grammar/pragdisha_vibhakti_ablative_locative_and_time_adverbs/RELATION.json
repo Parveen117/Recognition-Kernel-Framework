@@ -1,0 +1,44 @@
+{
+  "stage":"PG807",
+  "morphology_constructions":[
+    {"id":"PRAGDISHA_VIBHAKTI_BOUNDARY","rule":"5.3.1","interfaces":[]},
+    {"id":"ELIGIBLE_PRONOMINAL_BASES","rule":"5.3.2","interfaces":[]},
+    {"id":"IDAM_ISH_AND_R_TH_EXCEPTIONS","rules":"5.3.3–4","interfaces":[]},
+    {"id":"ETAD_SUBSTITUTION","rule":"5.3.5","interfaces":["AT5","AR5"]},
+    {"id":"SARVA_S_OPTION","rules":"5.3.6,15","interfaces":["SV15","SD6"]},
+    {"id":"ABLATIVE_DIRECT_TASIL","rule":"5.3.7","interfaces":["KU7","YA7","TA7","BA7"]},
+    {"id":"TASI_TO_TASIL_HISTORY","rule":"5.3.8","interfaces":[],"history_links":["KU7","YA7","TA7","BA7"]},
+    {"id":"PARI_ABHI_TASIL","rule":"5.3.9","interfaces":["PI9","AB9"]},
+    {"id":"LOCATIVE_TRAL","rule":"5.3.10","interfaces":["KT10","YT10","TT10","BT10"]},
+    {"id":"IDAM_H","rule":"5.3.11","interfaces":["IH11"]},
+    {"id":"KIM_AT_AND_TRAL_POLICY","rule":"5.3.12","interfaces":["KV12"],"history_links":["KT10"]},
+    {"id":"VEDIC_KIM_H","rule":"5.3.13","interfaces":["KH13"],"history_links":["KV12"]},
+    {"id":"OTHER_CASE_BHAVAT_GRID","rule":"5.3.14","interfaces":["BNTS","BNTR","BATS","BATR","BITS","BITR","BDTS","BDTR","BBTS","BBTR","BGTS","BGTR","BLTS","BLTR"]},
+    {"id":"TIME_DA_AND_PLACE_CONTROL","rule":"5.3.15","interfaces":["ED15","AN15","KD15","YD15","TD15","STC15"],"history_links":["SV15","SD6"]},
+    {"id":"CASE_CONTEXT_HISTORY_CARRIER","rules":"5.3.1–15","interfaces":[]}
+  ],
+  "nominal_positions":[
+    {"id":"AT5","readings":["ataḥ [5.3.5 aś + 5.3.7 tasil]"]},{"id":"AR5","readings":["atra [5.3.5 aś + 5.3.10 tral]"]},
+    {"id":"SV15","readings":["sarvadā [5.3.15 dā]"]},{"id":"SD6","readings":["sadā [5.3.6 optional s + 5.3.15 dā]"]},
+    {"id":"KU7","readings":["kutaḥ [5.3.7 direct tasil]","kutaḥ [5.3.8 tasi→tasil]"]},{"id":"YA7","readings":["yataḥ [5.3.7 direct tasil]","yataḥ [5.3.8 tasi→tasil]"]},{"id":"TA7","readings":["tataḥ [5.3.7 direct tasil]","tataḥ [5.3.8 tasi→tasil]"]},{"id":"BA7","readings":["bahutaḥ [5.3.7 direct tasil]","bahutaḥ [5.3.8 tasi→tasil]"]},
+    {"id":"PI9","readings":["paritaḥ"]},{"id":"AB9","readings":["abhitaḥ"]},
+    {"id":"KT10","readings":["kutra [5.3.10 tral]","kutra [5.3.12 optional tral policy]"]},{"id":"YT10","readings":["yatra"]},{"id":"TT10","readings":["tatra"]},{"id":"BT10","readings":["bahutra"]},
+    {"id":"IH11","readings":["iha"]},{"id":"KV12","readings":["kva [5.3.12 at]","kva [5.3.13 Vedic yathāprāpta]"]},{"id":"KH13","readings":["kuha [5.3.13 Vedic h]"]},
+    {"id":"BNTS","readings":["tato bhavān"]},{"id":"BNTR","readings":["tatra bhavān"]},{"id":"BATS","readings":["tato bhavantam"]},{"id":"BATR","readings":["tatra bhavantam"]},{"id":"BITS","readings":["tato bhavatā"]},{"id":"BITR","readings":["tatra bhavatā"]},{"id":"BDTS","readings":["tato bhavate"]},{"id":"BDTR","readings":["tatra bhavate"]},{"id":"BBTS","readings":["tato bhavataḥ [ABL]"]},{"id":"BBTR","readings":["tatra bhavataḥ [ABL]"]},{"id":"BGTS","readings":["tato bhavataḥ [GEN]"]},{"id":"BGTR","readings":["tatra bhavataḥ [GEN]"]},{"id":"BLTS","readings":["tato bhavati"]},{"id":"BLTR","readings":["tatra bhavati"]},
+    {"id":"ED15","readings":["ekadā"]},{"id":"AN15","readings":["anyadā"]},{"id":"KD15","readings":["kadā"]},{"id":"YD15","readings":["yadā"]},{"id":"TD15","readings":["tadā"]},{"id":"STC15","readings":["sarvatra deśe [place control]"]}
+  ],
+  "source_policy_decisions":[
+    {"id":"PRAGDISHA_BOUNDARY","status":"Accepted","decision":"Treat the suffixes through but excluding 5.3.27 as vibhakti; later suffixes do not inherit this label."},
+    {"id":"LOCAL_OPTIONALITY","status":"Accepted/Open","decision":"Accept Kāśikā/Vasu optional case-expression for the early prāgdiśa examples; retain PG4 quarantine against blanket 4.1.82 vā inheritance across later svārthikas."},
+    {"id":"BASE_RANGE","status":"Accepted/Excluded","decision":"Admit kim, eligible pronouns and numerical bahu; exclude dvi onward, ordinary nouns and non-numerical bahu only from this base contract."},
+    {"id":"SUBSTITUTION_OWNERS","status":"Accepted/Open","decision":"Keep idam and etad whole-base substitutions distinct; Kāśikā aś and reported Patañjali an priority remains Open without changing credited surfaces."},
+    {"id":"SARVA_OPTION","status":"Accepted/Excluded","decision":"Accept sarvadā/sadā only before the licensed d-initial prāgdiśa suffix; ordinary sarva+dā 'giving all' is outside this substitution."},
+    {"id":"TASIL_HISTORIES","status":"Accepted","decision":"Retain direct 5.3.7 tasil and 5.3.8 tasi-to-tasil as separate derivational readings of four equal surfaces."},
+    {"id":"PARI_ABHI_GUARD","status":"Accepted/Excluded","decision":"Accept paritaḥ for all-around and abhitaḥ for both-sides; other pari/abhi senses are outside this rule."},
+    {"id":"LOCATIVE_EXCEPTIONS","status":"Accepted/Open","decision":"Accept iha, kva and the reported optional kutra while preserving their distinct substitution and affix owners."},
+    {"id":"VEDIC_H_LOCATOR","status":"Accepted/Open","decision":"Accept source-attested kuha and Vedic kva; Kāśikā 8.73.4 versus Vasu 8.62.4 locator conflict remains unresolved."},
+    {"id":"OTHER_CASE_LEXICON","status":"Accepted/Open","decision":"Accept the fourteen displayed bhavat contexts; the wider dīrghāyus/āyuṣmat/devānāṃ priya realization remains unconstructed."},
+    {"id":"TIME_DA","status":"Accepted/Excluded","decision":"Accept dā only under the time guard; retain sarvatra deśe as the explicit place control."},
+    {"id":"ACCENT_AND_PARADIGMS","status":"Open","decision":"Complete accent and non-displayed paradigmatic distribution before any wider closure claim."}
+  ]
+}

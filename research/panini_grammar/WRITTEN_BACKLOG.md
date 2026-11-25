@@ -1,6 +1,8 @@
-# Written-development backlog at PG806
+# Written-development backlog at PG807
 
-Monty · 2026-11-25 · reviewed parent a88106fd5a1ee1625417ae86a0c05eb91d4c942e. Historical closures below retain their exact pins.
+Monty · 2026-11-25 · reviewed parent 7d5eb17340857fcf86de92d3038e16864ef6d25b. Historical closures below retain their exact pins.
+
+PG807 · [Prāgdiśa vibhakti, ablative, locative and time adverbs](pragdisha_vibhakti_ablative_locative_and_time_adverbs/README.md). Displayed 5.3.1–15 outputs, direct/replacement histories, case contexts and controls are CLOSED. Wider `bhavadādi` realization remains genuinely unconstructed. `aś/an` critical priority, the Kāśikā/Vasu Rigvedic locator conflict, accent and full paradigmatic distribution remain unresolved source work. Local early optionality is Accepted; automatic blanket 4.1.82 `vā` inheritance stays quarantined. Continue from 5.3.16. C2–C5 and S1–S7 remain Open; S5 is 99/103 and S6 retains the independent 5.56 k-it effect. Claude retains execution.
 
 PG806 · [Varṇin, locality names and the close of the second pāda](varnin_locality_names_and_second_pada_close/README.md). Displayed 5.2.134–140 outputs, number positions, source-labelled alternatives and controls are CLOSED. Full puṣkarādi/balādi rosters and wider name distribution remain genuinely unconstructed. The `kamya/śamya` commentary policy, `tuṇḍibha/tuṇḍinaḥ` and `balibha/balin` priority, paradigms and accent remain unresolved source work. The selected 5.2 second-pāda surface sequence is locally closed; continue from 5.3.1. C2–C5 and S1–S7 remain Open; S5 is 99/103 and S6 retains the independent 5.56 k-it effect. Claude retains execution.
 

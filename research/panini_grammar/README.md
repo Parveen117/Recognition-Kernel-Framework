@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG807 · [Prāgdiśa vibhakti, ablative, locative and time adverbs](pragdisha_vibhakti_ablative_locative_and_time_adverbs/README.md). Constructs selected 5.3.1–15 outputs: 37 new nominal/adverbial positions and 43 readings, fifteen constructions/37 interfaces and twelve source decisions.
+
 PG806 · [Varṇin, locality names and the close of the second pāda](varnin_locality_names_and_second_pada_close/README.md). Constructs selected 5.2.134–140 outputs: 42 new nominal positions and 46 readings, fourteen constructions/42 interfaces and ten source decisions.
 
 PG805 · [Exclusive ini compounds and the elephant genus](exclusive_ini_compounds_and_elephant_genus/README.md). Constructs selected 5.2.131–133 outputs: 10 new nominal positions/readings, four constructions/10 interfaces and five source decisions.

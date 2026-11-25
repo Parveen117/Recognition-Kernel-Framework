@@ -2,6 +2,12 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG807 · Prāgdiśa vibhakti, ablative, locative and time adverbs
+
+PG807 · [Prāgdiśa vibhakti, ablative, locative and time adverbs](pragdisha_vibhakti_ablative_locative_and_time_adverbs/README.md). Constructs selected 5.3.1–15 outputs with 37 new nominal/adverbial positions and 43 readings. Finite positions/readings increase by zero. Fifteen constructions/37 interfaces, zero new source observations and twelve decisions. Census: 52,357 finite positions, 21,808 nominal positions and 24,706 nominal readings.
+
+Parent `7d5eb17340857fcf86de92d3038e16864ef6d25b`. The containing commit pins this packet. Displayed outputs, derivational histories, case contexts and controls are CLOSED. Wider `bhavadādi` realization remains genuinely unconstructed; `aś/an` priority, the Rigvedic locator conflict, accent and complete paradigmatic distribution remain Open. The early prāgdiśa optionality is accepted from the explicit local sources without undoing PG4's quarantine on blanket 4.1.82 `vā` inheritance. Continue from 5.3.16. C2–C5 and S1–S7 remain Open; S5 is 99/103 and S6 retains the independent 5.56 k-it effect. Claude retains execution, generators, untouched suites and replay.
+
 ## PG806 · Varṇin, locality names and the close of the second pāda
 
 PG806 · [Varṇin, locality names and the close of the second pāda](varnin_locality_names_and_second_pada_close/README.md). Constructs selected 5.2.134–140 outputs with 42 new nominal positions and 46 readings. Finite positions/readings increase by zero. Fourteen constructions/42 interfaces, zero new source observations and ten decisions. Census: 52,357 finite positions, 21,771 nominal positions and 24,663 nominal readings.

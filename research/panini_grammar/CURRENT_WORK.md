@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG806
+# Pāṇini grammar · current written coverage at PG807
+
+PG807 · [Prāgdiśa vibhakti, ablative, locative and time adverbs](pragdisha_vibhakti_ablative_locative_and_time_adverbs/README.md). Constructs selected 5.3.1–15 boundary, substitution, ablative/locative, Vedic, case-context and time/place outputs. Census: 52,357 finite positions, 21,808 nominal positions and 24,706 nominal readings.
 
 PG806 · [Varṇin, locality names and the close of the second pāda](varnin_locality_names_and_second_pada_close/README.md). Constructs selected 5.2.134–140 brahmacārin, locality, prefixed-ini, name, kam/śam, bha and final yus outputs. Census: 52,357 finite positions, 21,771 nominal positions and 24,663 nominal readings.
 

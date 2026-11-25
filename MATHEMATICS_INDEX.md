@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG807 · [Prāgdiśa vibhakti, ablative, locative and time adverbs](research/panini_grammar/pragdisha_vibhakti_ablative_locative_and_time_adverbs/README.md). PG14 retains inner case, ablative/locative/time/place relation, semantic and lexical guard, suffix/substitution/accent owner, ordered history, source and outcome through typed zero specialization.
+
 PG806 · [Varṇin, locality names and the close of the second pāda](research/panini_grammar/varnin_locality_names_and_second_pada_close/README.md). PG14 retains locality/name/distance/purpose relation, semantic guard, affix/pada/phonology owner, number, source and outcome through typed zero specialization.
 
 PG805 · [Exclusive ini compounds and the elephant genus](research/panini_grammar/exclusive_ini_compounds_and_elephant_genus/README.md). PG14 retains possession/censure/genus relation, compound and semantic guard, affix owner, number, source and outcome through typed zero specialization.
