@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG827
+# Pāṇini grammar · current written coverage at PG828
+
+PG828 · [The boon-seekers in two prayers of Kaśyapa](boon_seekers_in_two_kasyapa_hymns/README.md). Collates the imperative with the Vāmana genitive plural. New 23 nominal positions/23 readings. Census 52,366 finite, 22,720 nominal positions/25,690 readings.
 
 PG827 · [Kaśyapa’s protector and the imperative of trai](visvapa_harivamsa_prose_and_trai_imperative/README.md). Locates the world-protector in Kaśyapa's prose hymn and derives the nine middle imperatives of trai ‘protect’. Census 52,366 finite, 22,697 nominal positions/25,667 readings.
 

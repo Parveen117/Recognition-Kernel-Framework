@@ -1,4 +1,6 @@
-# Written-development backlog at PG827
+# Written-development backlog at PG828
+
+PG828 · [The boon-seekers in two prayers of Kaśyapa](boon_seekers_in_two_kasyapa_hymns/README.md). Closed for these witnesses: Bhaviṣyaparvan 3.68.7 and Vāmana 26.30, and the selected masculine case construction. Open: the lexicon’s historical chapter-251 exemplar, accent, other agreement domains, C2–C5 and S1–S7. Claude retains execution.
 
 PG827 · [Kaśyapa’s protector and the imperative of trai](visvapa_harivamsa_prose_and_trai_imperative/README.md). Closed: independent appendix locus and 01.1120 middle loṭ. Outstanding: the lexicon’s precise chapter-251 exemplar, further tense and accent evidence, other PG823 domains and the existing S1–S7 and C2–C5 obligations. Execution remains with Claude.
 
