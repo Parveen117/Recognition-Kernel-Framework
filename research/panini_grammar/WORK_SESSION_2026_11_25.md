@@ -1,5 +1,7 @@
 # Written Pāṇini work session · 2026-11-25
 
+PG838 · [Halāyudha’s seven words for disrespect](halayudhas_seven_words_for_disrespect/README.md). Parent 459869eb2645fc80112040f3b44bde336d58d560. Two printings, one seven-member synonym verse, three source decisions and one singular case transfer with 21 interfaces. Four additional citation nominatives. Net 18 nominal positions/20 readings and finite 0/0. Census 52,366 finite, 22,785 nominal positions and 25,760 nominal readings.
+
 PG837 · [The iron covering in Bhāravi’s seventeenth canto](the_iron_covering_in_bharavis_seventeenth_canto/README.md). Parent fc88ec7b430ac3d4bebf8351f456fe2c8e90feb8. Two page images and the segmented verse. Three source decisions, one covering formation and one seven-case realization with 21 interfaces. Finite 0/0, nominal 21/22 new positions/readings, of which one position is verse-witnessed. Census 52,366 finite, 22,767 nominal positions and 25,740 nominal readings.
 
 PG836 · [Maimata and the missing feminine in Jñānendra’s argument](mimata_and_the_rejected_feminine_in_tattvabodhini/README.md). Parent 361620733272d789fbb9b5f552c0319effc55ea9. Two printed pages, three source decisions, one ancestry guard on the already credited PG833 compound. No new finite or nominal positions/readings. Census 52,366 finite, 22,746 nominal positions and 25,718 nominal readings.

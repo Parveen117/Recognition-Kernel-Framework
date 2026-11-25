@@ -1,4 +1,6 @@
-# Written-development backlog at PG837
+# Written-development backlog at PG838
+
+PG838 · [Halāyudha’s seven words for disrespect](halayudhas_seven_words_for_disrespect/README.md). PG487’s two citation loci are now identified in Bhāravi and Halāyudha. The agent attribution and the dictionary’s ātta quotation remain source-specific. The historical intermediate and inner compound licence for contempt remain open. Wider C2–C5 and source obligations, including the independent S6 k-it effect, retain separate ownership from Claude’s execution.
 
 PG837 · [The iron covering in Bhāravi’s seventeenth canto](the_iron_covering_in_bharavis_seventeenth_canto/README.md). Closed for Kirātārjunīya 17.49, Mallinātha’s instrumental gloss and the seven-case masculine covering. Still open are Halāyudha’s lexical locus for contempt, the transmission of the dictionary’s ātta reading, exact accent and address. Wider nominal, verbal, affix and syntax work and source gates retain their own registers. Claude owns execution.
 

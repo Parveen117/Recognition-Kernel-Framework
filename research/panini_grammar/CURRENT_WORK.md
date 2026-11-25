@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG837
+# Pāṇini grammar · current written coverage at PG838
+
+PG838 · [Halāyudha’s seven words for disrespect](halayudhas_seven_words_for_disrespect/README.md). Two editions locate the primary contempt synonym verse. New 18 nominal positions/20 readings after reuse of seven singular keys. Census 52,366 finite and 22,785 nominal positions, 25,760 nominal readings.
 
 PG837 · [The iron covering in Bhāravi’s seventeenth canto](the_iron_covering_in_bharavis_seventeenth_canto/README.md). The verse quoted in PG487 has an instrument reading in Mallinātha. New 21 masculine armour positions and 22 readings. Census 52,366 finite and 22,767 nominal positions, 25,740 nominal readings.
 
