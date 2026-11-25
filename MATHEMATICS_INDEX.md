@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG903 · [Complete non-vocative M/F/N cases of honorific *bhavat*](research/panini_grammar/bhavat_three_gender_nonvocative_cases/README.md). PG897 lexical/register decision import, gender/case-number selection, three named-pattern transports and realization commute with typed zero-specialization while equal M/N words, feminine vowel routes, finite homographs and absent textual/accent grades remain distinct.
+
 PG902 · [Complete non-vocative masculine and neuter cases of *tvat*](research/panini_grammar/tvat_masculine_neuter_nonvocative_cases/README.md). PG899 decision import, gender/case-number selection, `marut/jagat` row transport and realization commute with typed zero-specialization while equal surfaces, consonant and neuter NOM/ACC histories, and absent textual/accent grades remain distinct.
 
 PG901 · [Complete non-vocative feminine cases of *tvat*](research/panini_grammar/tvat_feminine_nonvocative_cases/README.md). PG900 decision import, gender/case-number selection, `sarit` row transport and realization commute with typed zero-specialization while syncretic surfaces, consonant history and absent textual/accent grades remain distinct.

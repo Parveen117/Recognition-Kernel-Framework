@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG902
+# Pāṇini grammar · current written coverage at PG903
+
+PG903 · [Complete non-vocative M/F/N cases of honorific *bhavat*](bhavat_three_gender_nonvocative_cases/README.md). PG897's positive `dhīmat/nadī/jagat` ownership and independent full pattern tables supply 63 new positions/readings and 22 new surface spellings. Strong/weak, glide, long-vowel, `bhavadbh-` and equal M/N histories remain typed. The selected ordinary three-gender paradigm is complete at 72 positions/readings across PG897/903; textual/accent/discourse/critical evidence remains Open. Census 52,531 finite, 26,259 nominal positions and 29,917 nominal readings.
 
 PG902 · [Complete non-vocative masculine and neuter cases of *tvat*](tvat_masculine_neuter_nonvocative_cases/README.md). PG899's positive `marut/jagat` ownership and independent complete pattern tables supply 42 new M/N positions/readings. No spelling is globally new, but every gender-case-number key and its `tvadbh-` or neuter NOM/ACC history remains typed. The selected ordinary M/F/N paradigms are complete at 72 positions/readings across PG899–902; direct textual/accent/Vedic/critical evidence remains Open. Census 52,531 finite, 26,196 nominal positions and 29,854 nominal readings.
 

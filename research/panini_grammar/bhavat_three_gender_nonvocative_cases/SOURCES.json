@@ -1,0 +1,60 @@
+{
+  "project_dependencies": [
+    {
+      "commit": "ea3c4d7d3354fd4b9221d3130ee07adf3a5ca0f6",
+      "path": "research/panini_grammar/tvat_masculine_neuter_nonvocative_cases/STATE.json",
+      "git_blob_sha": "9157f49d951771a8be753501a09624587e80e9fa",
+      "bytes": 1574,
+      "sha256": "6b71e746d9462009eb090481e9d15d97655a8296038f8119f2511de87d89c4b3",
+      "use": "PG902 cumulative baseline"
+    },
+    {
+      "commit": "88153297362a3502fd16eef26a96365f9bafface",
+      "path": "research/panini_grammar/bhavat_honorific_vocatives_and_third_person_agreement/RELATION.json",
+      "git_blob_sha": "5afd36f0e78f61f008268ed06c66956176f9c126",
+      "bytes": 3442,
+      "sha256": "9297d0356af404521a5eb7adad17df3b559fbe4e07cab2a6a0642b7e936fca0c",
+      "use": "PG897 lexical, register, gender-pattern and agreement ownership"
+    },
+    {
+      "commit": "88153297362a3502fd16eef26a96365f9bafface",
+      "path": "research/panini_grammar/bhavat_honorific_vocatives_and_third_person_agreement/VOCATIVE_FORMS.tsv",
+      "git_blob_sha": "16119f11ce4b780c9a79b9a813d666fa5e0e5514",
+      "bytes": 1027,
+      "sha256": "ce5815ecd8694771b8d731350177bffcb7ef616e6994066149d383b2c28984f9",
+      "use": "first-owned nine vocative exclusions"
+    },
+    {
+      "commit": "10c6c94401d4ff3178bc4738469ce8d63087cc02",
+      "path": "research/panini_grammar/grammar_construction/NATIVE_OPERATOR_LIFT.md",
+      "git_blob_sha": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+      "bytes": 11855,
+      "sha256": "f52e7f5cf539ef56859b890669ef738848491e4005e73be75baa49c899b5dafd",
+      "use": "PG14 full operator/history carrier and typed zero-specialization"
+    }
+  ],
+  "external_witnesses": [
+    {
+      "work": "SanskritDocuments Subanta Rupani, dhimat and jagat tables",
+      "url": "https://sanskritdocuments.org/learning_tools/subantaruupaNi.html",
+      "retrieved": "2026-11-26",
+      "search_reference": "turn427445647search0",
+      "use": "seven masculine dhimat rows, feminine-as-nadi statement and seven neuter jagat rows"
+    },
+    {
+      "work": "SanskritDocuments noun table, nadi",
+      "url": "https://sanskritdocuments.org/learning_tools/noun_sa.html",
+      "retrieved": "2026-11-26",
+      "search_reference": "turn427445647search1",
+      "use": "seven complete feminine nadi rows"
+    }
+  ],
+  "local_excerpt": {
+    "path": "research/panini_grammar/bhavat_three_gender_nonvocative_cases/WITNESS_EXCERPTS.txt",
+    "bytes": 2175,
+    "sha256": "394c480fa364710cd0145f560f8fc7882e30a6f425fc3116d3e11b8215a0d242",
+    "retrieved": "2026-11-26"
+  },
+  "source_observations_new": 21,
+  "source_policy_decisions_new": 4
+}

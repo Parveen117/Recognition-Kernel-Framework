@@ -1,0 +1,101 @@
+{
+  "schema": "rkf.panini.pg903.relation.v1",
+  "stage": "PG903",
+  "input": {
+    "lemma": "bhavat",
+    "sense": "honorific-you",
+    "roots": null,
+    "preverbs": [],
+    "verbal_pada": null,
+    "voice": null,
+    "genders": ["M", "F", "N"],
+    "cases": ["NOM", "ACC", "INS", "DAT", "ABL", "GEN", "LOC"],
+    "numbers": ["sg", "du", "pl"]
+  },
+  "source_ownership": {
+    "lexeme_register_and_patterns": "PG897 honorific bhavat with M dhimat, F nadi and N jagat ownership",
+    "case_rows": "SanskritDocuments dhimat, nadi and jagat tables",
+    "vocative_and_agreement_exclusion": "PG897 retains first ownership of nine vocative keys and the bounded third-person agreement policy"
+  },
+  "construction": {
+    "masculine_pattern": "exact dhimat row transport with strong-ant and weak-at branches",
+    "feminine_pattern": "exact nadi row transport with bhavaty- and bhavatii- histories",
+    "neuter_pattern": "exact jagat row transport",
+    "consonant_route": "pattern d before bh is preserved as bhavadbh-",
+    "morphology_constructions": 3,
+    "morphology_interfaces": 63,
+    "syntax_constructions": 0,
+    "syntax_interfaces": 0,
+    "positions": 63,
+    "readings": 63,
+    "distinct_surface_strings": 31,
+    "new_surface_strings": 22
+  },
+  "source_observations": [
+    "dhimat NOM row has dhiman, dhimantau and dhimantah",
+    "dhimat ACC row has dhimantam, dhimantau and dhimatah",
+    "dhimat INS row has dhimataa, dhimadbhyam and dhimadbhih",
+    "dhimat DAT row has dhimate, dhimadbhyam and dhimadbhyah",
+    "dhimat ABL row has dhimatah, dhimadbhyam and dhimadbhyah",
+    "dhimat GEN row has dhimatah, dhimatoh and dhimatam",
+    "dhimat LOC row has dhimati, dhimatoh and dhimatsu",
+    "nadi NOM row has nadii, nadyau and nadyah",
+    "nadi ACC row has nadiim, nadyau and nadiih",
+    "nadi INS row has nadyaa, nadiibhyam and nadiibhih",
+    "nadi DAT row has nadyai, nadiibhyam and nadiibhyah",
+    "nadi ABL row has nadyaah, nadiibhyam and nadiibhyah",
+    "nadi GEN row has nadyaah, nadyooh and nadiinaam",
+    "nadi LOC row has nadyaam, nadyooh and nadiishu",
+    "jagat NOM row has jagat, jagatii and jaganti",
+    "jagat ACC row has jagat, jagatii and jaganti",
+    "jagat INS row has jagataa, jagadbhyam and jagadbhih",
+    "jagat DAT row has jagate, jagadbhyam and jagadbhyah",
+    "jagat ABL row has jagatah, jagadbhyam and jagadbhyah",
+    "jagat GEN row has jagatah, jagatoh and jagatam",
+    "jagat LOC row has jagati, jagatoh and jagatsu"
+  ],
+  "source_policy_decisions": [
+    "Transport the seven printed dhimat rows only to PG897's masculine honorific branch.",
+    "Transport the seven printed nadi rows only to PG897's feminine honorific branch.",
+    "Transport the seven printed jagat rows only to PG897's neuter honorific branch.",
+    "Preserve strong/weak, glide, long-vowel, consonant and equal-surface histories; repeat no vocative/agreement credit and infer no literary, accent or competing-policy evidence."
+  ],
+  "controls": [
+    {
+      "id": "PG897_VOCATIVE_KEYS",
+      "status": "Closed_first_owner_zero_credit",
+      "reason": "Nine M/F/N vocative positions/readings remain credited at PG897."
+    },
+    {
+      "id": "PG897_AGREEMENT_POLICY",
+      "status": "Closed_first_owner_zero_credit",
+      "reason": "The bounded third-person predicate decision remains PG897's syntax credit."
+    },
+    {
+      "id": "FINITE_BHAVATI_BHAVANTI",
+      "status": "Accepted_distinct_histories",
+      "reason": "Finite homographs remain separate from nominal gender-case-number keys."
+    }
+  ],
+  "open": [
+    "direct literary uses and accent",
+    "discourse and social-register variation",
+    "competing grammatical or commentary agreement policies",
+    "Vedic, recitational and critical variants",
+    "remaining pronoun-family domains",
+    "C2-C5 and S1-S7"
+  ],
+  "counts": {
+    "new_finite_positions": 0,
+    "new_finite_readings": 0,
+    "new_nominal_positions": 63,
+    "new_nominal_readings": 63,
+    "new_surface_strings": 22,
+    "new_morphology_constructions": 3,
+    "new_morphology_interfaces": 63,
+    "new_syntax_constructions": 0,
+    "new_syntax_interfaces": 0,
+    "new_source_observations": 21,
+    "new_source_policy_decisions": 4
+  }
+}

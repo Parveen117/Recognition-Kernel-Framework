@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG903 · [Complete non-vocative M/F/N cases of honorific *bhavat*](bhavat_three_gender_nonvocative_cases/README.md). PG897 decision import, gender/case-number selection and exact `dhīmat/nadī/jagat` row transport form a 63-interface construction whose typed zero-specialization preserves strong/weak, glide, long-vowel, consonant and equal-surface histories without repeating vocative or agreement credit.
+
 PG902 · [Complete non-vocative masculine and neuter cases of *tvat*](tvat_masculine_neuter_nonvocative_cases/README.md). PG899 decision import, M/N selection and exact `marut/jagat` row transport form a 42-interface construction whose typed zero-specialization preserves equal surfaces, the `t/d` route and neuter NOM/ACC ownership without repeating PG899–901 keys.
 
 PG901 · [Complete non-vocative feminine cases of *tvat*](tvat_feminine_nonvocative_cases/README.md). PG900 source admission feeds a 21-interface `sarit` case-row transport whose typed zero-specialization preserves syncretic case-number histories and the `t/d` consonant route without repeating the vocative keys.
