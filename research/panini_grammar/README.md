@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG894 · [Directional *pūrva* vocative panels](purva_directional_vocative_panels/README.md). The exact eastern/directional request enters the address adapter while the printed M-plural pronominal/adjectival fork remains source-labelled and typed.
+
 PG893 · [*Viśva* vocative panels](visva_vocative_panels/README.md). Four explicit Śabdamañjarī ownership statements admit the free all/universal M/F/N family into the address adapter while compounds, names, other senses and unquoted evidence remain outside it.
 
 PG892 · [Śabdamañjarī case row for Rāmāyaṇa *sarve*](sabdamanjari_case_row_for_ramayana_sarve/README.md). The explicit masculine address row and PG891 discourse select M VOCpl under typed source/case discrimination while equal surfaces remain separate histories.

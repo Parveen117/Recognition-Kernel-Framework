@@ -1,0 +1,53 @@
+{
+  "schema": "rkf.panini.pg894.relation.v1",
+  "stage": "PG894",
+  "input": {
+    "lemma": "pūrva",
+    "sense": "eastern-directional",
+    "roots": null,
+    "preverbs": [],
+    "verbal_pada": null,
+    "voice": null,
+    "genders": ["M", "F", "N"],
+    "numbers": ["sg", "du", "pl"],
+    "case": "vocative"
+  },
+  "source_ownership": {
+    "class": "Śabdamañjarī directional pronoun list",
+    "masculine": "entry 94 direct row with two M plural alternatives",
+    "feminine": "entry 95 pūrvā follows sarvā",
+    "neuter": "entry 96 direct row"
+  },
+  "construction": {
+    "address_owner": "2.3.47 first-case endings in address",
+    "singular_owner": "2.3.49 sambuddhi only in singular",
+    "masculine_plural_fork": "pūrve under pronominal jas-to-śī; pūrvāḥ under the source-retained adjectival jas channel",
+    "neuter_singular": "7.1.24 am plus 6.1.69 m-lopa; no adḍ",
+    "interfaces": 10,
+    "positions": 9,
+    "readings": 10
+  },
+  "source_policy_decisions": [
+    "Admit only the eastern/directional pūrva request identified by the source; temporal, previous, compound and other lexical senses stay Open.",
+    "Retain both printed M VOCpl alternatives as source-labelled readings at one position; do not silently choose priority or call one erroneous.",
+    "Preserve gender-number and original-ending histories, including ordinary am plus m-lopa for N singular and four separate pūrve surfaces."
+  ],
+  "controls": [
+    {"id": "M_VOC_PL_FORK", "status": "Accepted_OpenPriority", "reason": "entry 94 prints both pūrve and pūrvāḥ"},
+    {"id": "FOUR_PURVE_SURFACES", "status": "Accepted_distinct_histories", "reason": "M plural, F singular, F dual and N dual keep separate endings"},
+    {"id": "TEMPORAL_COMPOUND_OTHER_SENSES", "status": "Open", "reason": "the selected source request is eastern/directional"},
+    {"id": "DIRECT_ATTESTATION_ACCENT_VEDIC", "status": "Open", "reason": "a paradigm table does not manufacture literary occurrence, accent or Vedic distribution"}
+  ],
+  "counts": {
+    "new_finite_positions": 0,
+    "new_finite_readings": 0,
+    "new_nominal_positions": 9,
+    "new_nominal_readings": 10,
+    "new_morphology_constructions": 1,
+    "new_morphology_interfaces": 10,
+    "new_syntax_constructions": 1,
+    "new_syntax_interfaces": 10,
+    "new_source_observations": 4,
+    "new_source_policy_decisions": 3
+  }
+}

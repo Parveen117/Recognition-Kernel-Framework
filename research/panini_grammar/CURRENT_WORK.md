@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG893
+# Pāṇini grammar · current written coverage at PG894
+
+PG894 · [Directional *pūrva* vocative panels](purva_directional_vocative_panels/README.md). Śabdamañjarī's directional/eastern M/F/N rows license nine new nominal positions and ten readings. M VOCpl retains both printed `pūrve/pūrvāḥ` histories with critical priority Open; temporal/compound senses and unquoted evidence are not imported. Census 52,531 finite, 26,058 nominal positions and 29,709 nominal readings.
 
 PG893 · [*Viśva* vocative panels](visva_vocative_panels/README.md). Śabdamañjarī names free `viśva` as an all/universal pronoun and explicitly extends the M/F/N `sarva` patterns to `viśva/viśvā/viśva`. Nine new nominal positions/readings close the selected sg/du/pl vocatives while compounds, names, other senses, literary attestations and accent remain Open. Census 52,531 finite, 26,049 nominal positions and 29,699 nominal readings.
 
