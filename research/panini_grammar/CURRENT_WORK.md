@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG834
+# Pāṇini grammar · current written coverage at PG835
+
+PG835 · [Ātreya and the tiras alternative in the Mādhavīyadhātuvṛtti](atreya_and_the_tiras_alternative_in_madhaviya_print/README.md). Two Mādhavīya printings identify Ātreya, the competing policy and the literal lyap example. Two Tattvabodhinī printings resolve the damaged 14072 reading. Census 52,366 finite and 22,746 nominal positions, 25,718 nominal readings.
 
 PG834 · [The source editor’s decisions at 8.2.25 and 3.2.111](editors_disposition_of_dhi_ca_and_anadyatana/README.md). The editor confirms the two displaced fields and the Puṣpa source of the erroneous luṅ. Census 52,366 finite and 22,746 nominal positions, 25,718 nominal readings.
 

@@ -1,4 +1,6 @@
-# Written-development backlog at PG834
+# Written-development backlog at PG835
+
+PG835 · [Ātreya and the tiras alternative in the Mādhavīyadhātuvṛtti](atreya_and_the_tiras_alternative_in_madhaviya_print/README.md). S7 closes the original Mādhavīya work and locus and the Tattvabodhinī print reading. Manuscript priority, unnamed authors and the reason for the printed lyap example remain open. PG376/480/487/781 retain their bounded results. S2/S3 have the editor’s response in PG834. S4, S5 (99/103), S6 and the C2–C5 constructions retain their own obligations. Execution belongs to Claude.
 
 PG834 · [The source editor’s decisions at 8.2.25 and 3.2.111](editors_disposition_of_dhi_ca_and_anadyatana/README.md). S2 editorial disposition closed for both fields. The pre-import assignment and corrected upstream fields remain open. S3 source family and editorial error decision closed. Direct file intermediary and deployed repair remain open. C2–C5, the other source questions and Claude’s execution retain their owners.
 

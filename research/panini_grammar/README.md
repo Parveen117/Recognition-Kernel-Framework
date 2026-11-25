@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG835 · [Ātreya and the tiras alternative in the Mādhavīyadhātuvṛtti](atreya_and_the_tiras_alternative_in_madhaviya_print/README.md). The original work’s example tiraskṛtya and the distinct non-gati ktvā prediction now have separate source records.
+
 PG834 · [The source editor’s decisions at 8.2.25 and 3.2.111](editors_disposition_of_dhi_ca_and_anadyatana/README.md). Issue #338 supplies the upstream editorial disposition of three commentary fields.
 
 PG833 · [The wife compound in two Bhāṣya printings](phantahrta_wife_in_two_bhasya_printings/README.md). Kielhorn 1883 and the 1965 revision print long ā where the electronic compound has short a. The masculine possessor has 24 case positions.

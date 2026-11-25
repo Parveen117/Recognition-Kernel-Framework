@@ -1,0 +1,65 @@
+{
+  "stage": "PG835",
+  "publication_parent": "d656693bf4c06b43a1168568758a9b3f1960eb83",
+  "baseline": "../editors_disposition_of_dhi_ca_and_anadyatana/STATE.json",
+  "finite_positions": 52366,
+  "nominal_positions": 22746,
+  "nominal_readings": 25718,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 0,
+  "new_morphology_constructions": 0,
+  "new_morphology_interfaces": 0,
+  "source_decisions": [
+    "DIRECT_ATTRIBUTION_ATREYA_KECIT",
+    "LYAP_EXAMPLE_IN_BOTH_PRINTS",
+    "AUTHORS_QUALIFIED_SUPPORT_REPORT",
+    "TATTVA_DAMAGED_FIELD_COLLATED"
+  ],
+  "sources": {
+    "original_jp2_sha256": {
+      "dli.ernet.495336": {
+        "207": "eb5d49d625a59b7ee1474a9fe494e04279102f04d2319422a003440ca423b411"
+      },
+      "qVcq_madhaviya-dhatu-vritti-by-sayana-acharya-edited-by-swami-dwarika-das-shastri-198": {
+        "571": "61f71c2411f591b3ce7ba5aef9540d3b26e28149c84b84c028342eced6ed66be",
+        "572": "5228b1d2445a9ee471fea5f615c9bfe4c8a0d15176208625248e27575a713427"
+      },
+      "siddhntakaumudw00dkgoog": {
+        "191": "0d46d7ae2e6859063427bf17d0ba8bbfe22399214bf5bc80b2e9d8aa9633ef89",
+        "192": "2056f32faae60c1875febdaf7fe169c4c25f5241bb75b11bb4761c8e1b5aeffa"
+      },
+      "btor-siddhanta-kaumudi-tattvabodhini-gyanendra-sarasvat": {
+        "192": "b322a93b4c5b52504f73effcee4b5e6e551a83944d2a15e4e48e4a230b560b12",
+        "193": "f9082fde57b3911f45b167c98625793d9211e7fb28b677705ca598434a5387e7"
+      }
+    },
+    "scl": {
+      "commit": "1ec51dc4cbfecf271e4f3cb0bba41f25b5921572",
+      "path": "dhaatupaatha/files/madhaviya_XAwuvqwwi_new.xml",
+      "git_blob": "d14a4235af32a9256615e263b4589e61c9ce25e7",
+      "sha256": "4562749571a7efe3b474b1c68f821cfc7271b07893e753ffc66e2fc7a4a79e76",
+      "entry": "1431"
+    },
+    "tattva_electronic": {
+      "ref": "db9a7f1dba06159e6bcd6efb92c9d01857939947",
+      "path": "sutraani/tattvabodhini.txt",
+      "id": "14072",
+      "git_blob": "278a54f50dd8e22a86d0eef88b88737b84474167"
+    },
+    "frozen": {
+      "research/panini_grammar/tiras_non_gati_s_and_reported_madhava_policy/RELATION.json": "10e6af0ad82aea6b9c0b5d7dd1e83a11a1488286",
+      "research/panini_grammar/tiras_praudhamanorama_named_report/RELATION.json": "e65766c633b75957c19949b190c495825982de6d",
+      "research/panini_grammar/tiras_in_the_osmania_main_text_and_apparatus/RELATION.json": "3b398eacfdc4f4f43f33e23c3a13579e216dcb44",
+      "research/panini_grammar/tiraskara_vacaspati_bhava_agent_affix_witness/RELATION.json": "6bd08a189e4409693510dc1a839f1c12539a9da6"
+    }
+  },
+  "execution": "Claude-deferred",
+  "open": [
+    "direct manuscript and affiliation evidence",
+    "identity of kecit and rationale for literal lyap example",
+    "further primary grammatical basis for the contempt noun",
+    "separate textual and construction gates"
+  ]
+}
