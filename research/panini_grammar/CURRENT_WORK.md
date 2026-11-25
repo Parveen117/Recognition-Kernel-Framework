@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG807
+# Pāṇini grammar · current written coverage at PG808
+
+PG808 · [Time nipātanas and manner/cause adverbs](time_nipatanas_and_manner_cause_adverbs/README.md). Constructs selected 5.3.16–26 temporal, Vedic, nipātana, manner and cause outputs, including one new reading on PG807's existing `tadā` position. Census: 52,357 finite positions, 21,838 nominal positions and 24,741 nominal readings.
 
 PG807 · [Prāgdiśa vibhakti, ablative, locative and time adverbs](pragdisha_vibhakti_ablative_locative_and_time_adverbs/README.md). Constructs selected 5.3.1–15 boundary, substitution, ablative/locative, Vedic, case-context and time/place outputs. Census: 52,357 finite positions, 21,808 nominal positions and 24,706 nominal readings.
 

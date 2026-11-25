@@ -2,6 +2,12 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG808 · Time nipātanas and manner/cause adverbs
+
+PG808 · [Time nipātanas and manner/cause adverbs](time_nipatanas_and_manner_cause_adverbs/README.md). Constructs selected 5.3.16–26 outputs with 30 new nominal/adverbial positions and 35 readings, one reading extending PG807 `TD15`. Finite positions/readings increase by zero. Eleven constructions/30 interfaces, zero new source observations and ten decisions. Census: 52,357 finite positions, 21,838 nominal positions and 24,741 nominal readings.
+
+Parent `7c8c266dc5f5c994f79f58256e4a16479b7be586`. The containing commit pins this packet. Displayed outputs, prior-position ownership, register distinctions and controls are CLOSED. `parāri/parārī` transmission, wider primary attestations, accent and non-displayed paradigmatic distribution remain Open. Continue from 5.3.27. C2–C5 and S1–S7 remain Open; S5 is 99/103 and S6 retains the independent 5.56 k-it effect. Claude retains execution, generators, untouched suites and replay.
+
 ## PG807 · Prāgdiśa vibhakti, ablative, locative and time adverbs
 
 PG807 · [Prāgdiśa vibhakti, ablative, locative and time adverbs](pragdisha_vibhakti_ablative_locative_and_time_adverbs/README.md). Constructs selected 5.3.1–15 outputs with 37 new nominal/adverbial positions and 43 readings. Finite positions/readings increase by zero. Fifteen constructions/37 interfaces, zero new source observations and twelve decisions. Census: 52,357 finite positions, 21,808 nominal positions and 24,706 nominal readings.

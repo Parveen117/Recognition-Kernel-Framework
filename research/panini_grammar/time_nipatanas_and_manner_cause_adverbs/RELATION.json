@@ -1,0 +1,37 @@
+{
+  "stage":"PG808",
+  "morphology_constructions":[
+    {"id":"IDAM_RHIL_TIME_PLACE_CONTROL","rule":"5.3.16","interfaces":["ET16","IH16"]},
+    {"id":"ADHUNA_NIPATANA","rule":"5.3.17","interfaces":["AD17"]},
+    {"id":"IDANIM_TIME","rules":"5.3.18,20","interfaces":["ID18"]},
+    {"id":"TAD_DA_DANIM","rule":"5.3.19","interfaces":["TN19"],"prior_reading_links":["PG807:TD15"]},
+    {"id":"VEDIC_IDA_TARHI","rule":"5.3.20","interfaces":["ID20","TH20"],"history_links":["ID18","TN19"]},
+    {"id":"ANADYATANA_RHIL","rule":"5.3.21","interfaces":["KH21","YH21"],"history_links":["TH20","PG807:KD15","PG807:YD15","PG807:TD15"]},
+    {"id":"DAY_YEAR_NIPATANAS","rule":"5.3.22","interfaces":["SD22","PU22","PA22","AI22","PE22","AY22","PV22","NY22","NR22","IT22","AP22","AH22","UB22","UT22","UD22"]},
+    {"id":"MANNER_THAL","rule":"5.3.23","interfaces":["TA23","YA23","SA23"]},
+    {"id":"IDAM_THAMU","rule":"5.3.24","interfaces":["IT24"]},
+    {"id":"KIM_THAMU","rule":"5.3.25","interfaces":["KA25"]},
+    {"id":"VEDIC_KATHA_CAUSE_MANNER","rule":"5.3.26","interfaces":["KTH26"]}
+  ],
+  "nominal_positions":[
+    {"id":"ET16","readings":["etarhi"]},{"id":"IH16","readings":["iha deśe [place control]"]},{"id":"AD17","readings":["adhunā"]},
+    {"id":"ID18","readings":["idānīm [5.3.18 ordinary]","idānīm [5.3.20 Vedic yathāprāpta]"]},{"id":"TN19","readings":["tadānīm [5.3.19 ordinary]","tadānīm [5.3.20 Vedic yathāprāpta]"]},
+    {"id":"ID20","readings":["idā [Vedic]"]},{"id":"TH20","readings":["tarhi [5.3.20 Vedic]","tarhi [5.3.21 ordinary anadyatana]"]},{"id":"KH21","readings":["karhi"]},{"id":"YH21","readings":["yarhi"]},
+    {"id":"SD22","readings":["sadyaḥ"]},{"id":"PU22","readings":["parut"]},{"id":"PA22","readings":["parāri"]},{"id":"AI22","readings":["aiṣamaḥ"]},{"id":"PE22","readings":["paredyavi"]},{"id":"AY22","readings":["adya"]},
+    {"id":"PV22","readings":["pūrvedyuḥ"]},{"id":"NY22","readings":["anyedyuḥ"]},{"id":"NR22","readings":["anyataredyuḥ"]},{"id":"IT22","readings":["itaredyuḥ"]},{"id":"AP22","readings":["aparedyuḥ"]},{"id":"AH22","readings":["adharedyuḥ"]},{"id":"UB22","readings":["ubhayedyuḥ"]},{"id":"UT22","readings":["uttaredyuḥ"]},{"id":"UD22","readings":["ubhayadyuḥ [vārttika]"]},
+    {"id":"TA23","readings":["tathā"]},{"id":"YA23","readings":["yathā"]},{"id":"SA23","readings":["sarvathā"]},{"id":"IT24","readings":["ittham"]},{"id":"KA25","readings":["katham"]},{"id":"KTH26","readings":["kathā [Vedic cause]","kathā [Vedic manner]"]}
+  ],
+  "prior_position_reading_extensions":[{"position":"PG807:TD15","readings":["tadā [5.3.19 redundant dā history]"]}],
+  "source_policy_decisions":[
+    {"id":"TIME_PLACE_GUARD","status":"Accepted/Excluded","decision":"Accept etarhi only for time and retain iha deśe as the explicit place control."},
+    {"id":"ADHUNA_NIPATANA","status":"Accepted","decision":"Retain the stated idam substitution and dhunā suffix history rather than treating adhunā as unanalyzed."},
+    {"id":"REDUNDANT_TADA","status":"Accepted","decision":"Attach 5.3.19 to existing PG807 TD15 as a new reading, not a duplicate position."},
+    {"id":"VEDIC_YATHAPRAPTA","status":"Accepted","decision":"Keep idā/tarhi and the Vedic idānīm/tadānīm histories distinct from ordinary outputs."},
+    {"id":"ANADYATANA_OPTION","status":"Accepted/Excluded","decision":"Accept karhi/yarhi/tarhi only under the non-current-day temporal guard; retain prior dā forms as alternatives."},
+    {"id":"NIPATANA_LIST","status":"Accepted/Open","decision":"Construct all fourteen displayed day/year outputs and the Kāśikā ubhayadyuḥ vārttika; wider attestations remain Open."},
+    {"id":"PARARI_TRANSMISSION","status":"Accepted/Open","decision":"Credit parāri on the sūtra/list evidence while leaving parāri/parārī transmission and accent unresolved."},
+    {"id":"MANNER_VS_BEARER","status":"Accepted/Excluded","decision":"Treat thāl as manner itself; later jātīyar bearer formations are outside this construction."},
+    {"id":"THAMU_OWNERS","status":"Accepted","decision":"Keep ittham and katham under different base substitutions despite their shared thamu suffix."},
+    {"id":"VEDIC_KATHA","status":"Accepted/Open","decision":"Retain cause and manner as two Vedic readings of kathā; wider recensional evidence and accent remain Open."}
+  ]
+}

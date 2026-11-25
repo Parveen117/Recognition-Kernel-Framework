@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG808 · [Time nipātanas and manner/cause adverbs](time_nipatanas_and_manner_cause_adverbs/README.md). Constructs selected 5.3.16–26 outputs: 30 new nominal/adverbial positions and 35 readings, eleven constructions/30 interfaces and ten source decisions.
+
 PG807 · [Prāgdiśa vibhakti, ablative, locative and time adverbs](pragdisha_vibhakti_ablative_locative_and_time_adverbs/README.md). Constructs selected 5.3.1–15 outputs: 37 new nominal/adverbial positions and 43 readings, fifteen constructions/37 interfaces and twelve source decisions.
 
 PG806 · [Varṇin, locality names and the close of the second pāda](varnin_locality_names_and_second_pada_close/README.md). Constructs selected 5.2.134–140 outputs: 42 new nominal positions and 46 readings, fourteen constructions/42 interfaces and ten source decisions.
