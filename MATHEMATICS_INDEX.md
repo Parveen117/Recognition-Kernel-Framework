@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG811 · [Comparative, superlative and quality replacements](research/panini_grammar/comparative_superlative_and_quality_replacements/README.md). PG14 retains adjective/finite base and comparison input, surpassing/two-member/distinguished-set relation, quality/Vedic/lexical/number guard, suffix/replacement/lopa/accent owner, ordered history, source and outcome through typed zero specialization.
+
 PG810 · [Numeral manner, division, parts and former state](research/panini_grammar/numeral_manner_division_part_and_former_state/README.md). PG14 retains numeral/lexical base and inner case, manner/distribution/censure/part/solitude/former-state relation, semantic/register/number guard, affix/substitution/lopa/accent/feminine owner, ordered history, source and outcome through typed zero specialization.
 
 PG809 · [Directional astāti, atasuc and distance adverbs](research/panini_grammar/directional_astati_atasuc_and_distance_adverbs/README.md). PG14 retains lexical base and inner case, direction/place/time/distance relation, semantic/distance/register/source guard, affix/substitution/lopa/nipātana owner, ordered history, source and outcome through typed zero specialization.

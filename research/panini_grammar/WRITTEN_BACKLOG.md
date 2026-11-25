@@ -1,6 +1,8 @@
-# Written-development backlog at PG810
+# Written-development backlog at PG811
 
-Monty · 2026-11-25 · reviewed parent 9b548f90cba52c37e7d5960e1592f0355223c051. Historical closures below retain their exact pins.
+Monty · 2026-11-25 · reviewed parent 90711a9201fdd6ab218471b7485c2cce4df43795. Historical closures below retain their exact pins.
+
+PG811 · [Comparative, superlative and quality replacements](comparative_superlative_and_quality_replacements/README.md). Displayed 5.3.55–65 outputs, comparison domains, replacement owners, alternatives and controls are CLOSED. Full paradigms, exact accent, wider Vedic evidence, the complete quality lexicon and historical replacement priority remain genuine unconstructed or unresolved source work. Continue from 5.3.66. C2–C5 and S1–S7 remain Open; S5 is 99/103 and S6 retains the independent 5.56 k-it effect. Claude retains execution.
 
 PG810 · [Numeral manner, division, parts and former state](numeral_manner_division_part_and_former_state/README.md). Displayed 5.3.42–54 outputs, relation ownership, alternatives, part-accent histories and controls are CLOSED. Full numeral productivity, exact Vedic accent recitation, wider witnesses and non-displayed genders/cases/paradigms remain genuine unconstructed or unresolved source work. Continue from 5.3.55. C2–C5 and S1–S7 remain Open; S5 is 99/103 and S6 retains the independent 5.56 k-it effect. Claude retains execution.
 

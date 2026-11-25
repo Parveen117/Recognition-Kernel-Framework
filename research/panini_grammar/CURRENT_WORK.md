@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG810
+# Pāṇini grammar · current written coverage at PG811
+
+PG811 · [Comparative, superlative and quality replacements](comparative_superlative_and_quality_replacements/README.md). Constructs selected 5.3.55–65 degree outputs with comparison domains, lexical replacements, lopa histories and equal-surface owners explicit. Census: 52,357 finite positions, 22,002 nominal positions and 24,941 nominal readings.
 
 PG810 · [Numeral manner, division, parts and former state](numeral_manner_division_part_and_former_state/README.md). Constructs selected 5.3.42–54 manner, redistribution, censure, part, solitude and former-state/ownership outputs. Census: 52,357 finite positions, 21,956 nominal positions and 24,891 nominal readings.
 

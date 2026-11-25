@@ -1,0 +1,46 @@
+{
+  "stage":"PG811",
+  "morphology_constructions":[
+    {"id":"GENERAL_TAMAP_ISTHAN","rule":"5.3.55","interfaces":["AT55","DT55","ST55","PI55","LI55","GI55","SK55","YK55"]},
+    {"id":"FINITE_TAMAP","rule":"5.3.56","interfaces":["PT56","JT56"]},
+    {"id":"TWO_OR_DISTINGUISHED_TARAP_IYASUN","rule":"5.3.57","interfaces":["AR57","SR57","PR57","JR57","PY57","LY57","AP57","DP57","PP57","LP57"]},
+    {"id":"QUALITY_RESTRICTION","rule":"5.3.58","interfaces":["PCR58","PCM58","PTR58","PTM58"],"control_links":["PG811:PI55","PG811:LI55","PG811:PY57","PG811:LY57"]},
+    {"id":"VEDIC_TR_BASE_DEGREE","rule":"5.3.59","interfaces":["KR59","DH59"]},
+    {"id":"PRASASYA_SHR","rule":"5.3.60","interfaces":["SH60","SR60"]},
+    {"id":"PRASASYA_JY","rule":"5.3.61","interfaces":["JH61","JY61"]},
+    {"id":"VRDDHA_JY_VARS","rule":"5.3.62","interfaces":["VH62","VY62"],"prior_reading_links":["PG811:JH61","PG811:JY61"]},
+    {"id":"ANTIKA_BADHA_NED_SADH","rule":"5.3.63","interfaces":["NI63","NE63","SI63","SE63"]},
+    {"id":"YUVAN_ALPA_KAN_OPTION","rule":"5.3.64","interfaces":["KH64","KY64","YH64","YY64","AH64","AY64"]},
+    {"id":"VIN_MAT_LUK","rule":"5.3.65","interfaces":["SJ65","SR65","TC65","TR65"]}
+  ],
+  "nominal_positions":[
+    {"id":"AT55","readings":["āḍhyatamaḥ"]},{"id":"DT55","readings":["darśanīyatamaḥ"]},{"id":"ST55","readings":["sukumāratamaḥ"]},{"id":"PI55","readings":["paṭiṣṭhaḥ"]},{"id":"LI55","readings":["laghiṣṭhaḥ"]},{"id":"GI55","readings":["gariṣṭhaḥ"]},{"id":"SK55","readings":["śreṣṭhatamāya karmaṇe [further degree, DATSg]"]},{"id":"YK55","readings":["yudhiṣṭhiraḥ śreṣṭhatamaḥ kurūṇām [further degree, M NOMsg]"]},
+    {"id":"PT56","readings":["pacatitamām"]},{"id":"JT56","readings":["jalpatitamām"]},
+    {"id":"AR57","readings":["āḍhyataraḥ [comparison of two]"]},{"id":"SR57","readings":["sukumārataraḥ [comparison of two]"]},{"id":"PR57","readings":["pacatitarām [finite comparison of two]"]},{"id":"JR57","readings":["jalpatitarām [finite comparison of two]"]},{"id":"PY57","readings":["paṭīyān [comparison of two]"]},{"id":"LY57","readings":["laghīyān [comparison of two]"]},{"id":"AP57","readings":["āḍhyatarāḥ [distinguished comparison set]"]},{"id":"DP57","readings":["darśanīyatarāḥ [distinguished comparison set]"]},{"id":"PP57","readings":["paṭīyāṃsaḥ [distinguished comparison set]"]},{"id":"LP57","readings":["laghīyāṃsaḥ [distinguished comparison set]"]},
+    {"id":"PCR58","readings":["pācakataraḥ [nonquality tarap control]"]},{"id":"PCM58","readings":["pācakatamaḥ [nonquality tamap control]"]},{"id":"PTR58","readings":["paṭutaraḥ [quality tarap alternative]"]},{"id":"PTM58","readings":["paṭutamaḥ [quality tamap alternative]"]},
+    {"id":"KR59","readings":["kariṣṭhaḥ [Vedic tṛ-base]"]},{"id":"DH59","readings":["dohīyasī dhenuḥ [Vedic tṛ-base F NOMsg]"]},
+    {"id":"SH60","readings":["śreṣṭhaḥ [praśasya→śr]"]},{"id":"SR60","readings":["śreyān [praśasya→śr]"]},
+    {"id":"JH61","readings":["jyeṣṭhaḥ [praśasya→jy]"]},{"id":"JY61","readings":["jyāyān [praśasya→jy]"]},
+    {"id":"VH62","readings":["varṣiṣṭhaḥ [vṛddha→varṣ]"]},{"id":"VY62","readings":["varṣīyān [vṛddha→varṣ]"]},
+    {"id":"NI63","readings":["nediṣṭham [antika→ned superlative]"]},{"id":"NE63","readings":["nedīyaḥ [antika→ned comparative]"]},{"id":"SI63","readings":["sādhiṣṭham [bāḍha→sādh superlative]"]},{"id":"SE63","readings":["sādhīyaḥ [bāḍha→sādh comparative]"]},
+    {"id":"KH64","readings":["kaniṣṭhaḥ [yuvan→kan]","kaniṣṭhaḥ [alpa→kan]"]},{"id":"KY64","readings":["kanīyān [yuvan→kan]","kanīyān [alpa→kan]"]},{"id":"YH64","readings":["yaviṣṭhaḥ [unreplaced yuvan]"]},{"id":"YY64","readings":["yavīyān [unreplaced yuvan]"]},{"id":"AH64","readings":["alpiṣṭhaḥ [unreplaced alpa]"]},{"id":"AY64","readings":["alpīyān [unreplaced alpa]"]},
+    {"id":"SJ65","readings":["srajiṣṭhaḥ [sragvin, vin-luk]"]},{"id":"SR65","readings":["srajīyān [sragvin, vin-luk]"]},{"id":"TC65","readings":["tvaciṣṭhaḥ [tvagvat, mat-luk]"]},{"id":"TR65","readings":["tvacīyān [tvagvat, mat-luk]"]}
+  ],
+  "prior_position_reading_extensions":[
+    {"rule":"5.3.62","position":"PG811:JH61","readings":["jyeṣṭhaḥ [vṛddha→jy]"]},
+    {"rule":"5.3.62","position":"PG811:JY61","readings":["jyāyān [vṛddha→jy]"]}
+  ],
+  "source_policy_decisions":[
+    {"id":"GENERAL_DEGREE","status":"Accepted","decision":"Keep tamap and iṣṭhan histories distinct and allow a further degree suffix on a degree base only where positively displayed."},
+    {"id":"FINITE_SUPERLATIVE","status":"Accepted/Excluded","decision":"Accept finite-base tamap with ām; exclude iṣṭhan from the finite path under the quality restriction."},
+    {"id":"COMPARISON_DOMAIN","status":"Accepted","decision":"Distinguish two-member comparison from a grammatically expressed comparison set; do not impose yathāsaṃkhya on tarap/īyasun."},
+    {"id":"QUALITY_RESTRICTION","status":"Accepted/Excluded","decision":"Restrict iṣṭhan/īyasun to quality words while retaining tarap/tamap for both quality and nonquality bases."},
+    {"id":"VEDIC_TR_EXTENSION","status":"Accepted/Open","decision":"Accept only the displayed Vedic tṛ-base outputs; wider register, accent and recensional evidence remain Open."},
+    {"id":"PRASASYA_SHR","status":"Accepted","decision":"Own śr replacement and prevent otherwise expected lopa under the stated one-vowel preservation."},
+    {"id":"PRASASYA_JY","status":"Accepted","decision":"Keep the optional praśasya→jy history distinct from praśasya→śr."},
+    {"id":"VRDDHA_REPLACEMENTS","status":"Accepted","decision":"Attach vṛddha→jy readings to existing surfaces and preserve optional vṛddha→varṣ outputs separately."},
+    {"id":"NED_SADH","status":"Accepted","decision":"Apply antika→ned and bāḍha→sādh without pairing the two suffixes by yathāsaṃkhya."},
+    {"id":"YUVAN_ALPA_KAN","status":"Accepted","decision":"Keep yuvan and alpa as two histories of shared kan surfaces and preserve each unreplaced alternative."},
+    {"id":"VIN_MAT_LOPA","status":"Accepted","decision":"Own vin/mat lopa only before iṣṭhan/īyasun and retain separate sraj/tvac stem histories."}
+  ]
+}
