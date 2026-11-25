@@ -1,5 +1,7 @@
 # Written Pāṇini work session · 2026-11-25
 
+PG849 · [Vṛtra lay covering the world: the middle perfect and the accent of the repeated verb](vrtra_lay_in_two_brahmana_recensions/README.md). PG848 parent b3c452edcf75cd36e423395b9e96b2bdb918431b. One clause comparison and one accent construction with three addresses each. Five decisions. Third singular from the old rule register reserved.
+
 PG848 · [Urvaśī’s two predictions and the future of unprefixed śī](urvasi_two_future_predicates_and_the_sleep_conditional/README.md). PG847 parent c2919527d7221b5fd196c782ea5d8712d91dcd20. Five source decisions, one construction and two finite interfaces. The PG16 bhū token and PG847 night carry no new credit.
 
 PG847 · [Second and third in the oblique cases, and the seventy-first in two traditions](second_and_third_obliques_and_the_later_ordinal_families/README.md). Parent 1894934e7fa9be80b376005e393087bb58fce71e. One 1,323-interface case extension with nine source decisions. Net finite 0/0 and nominal +1,273/+1,695. Census 52,368 finite, 25,094 nominal positions and 28,691 nominal readings.

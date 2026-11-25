@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG848
+# Pāṇini grammar · current written coverage at PG849
+
+PG849 · [Vṛtra lay covering the world: the middle perfect and the accent of the repeated verb](vrtra_lay_in_two_brahmana_recensions/README.md). Eight finite positions and nine readings. Absolute 52,403 finite, 25,094 nominal and 28,691 nominal readings.
 
 PG848 · [Urvaśī’s two predictions and the future of unprefixed śī](urvasi_two_future_predicates_and_the_sleep_conditional/README.md). Two separately parsed predictions, 27 new finite keys and readings. Cumulative 52,395 finite, 25,094 nominal and 28,691 nominal readings.
 

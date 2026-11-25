@@ -1,4 +1,6 @@
-# Written-development backlog at PG848
+# Written-development backlog at PG849
+
+PG849 · [Vṛtra lay covering the world: the middle perfect and the accent of the repeated verb](vrtra_lay_in_two_brahmana_recensions/README.md). Closed for this basic perfect and the three indexed clause occurrences. S1–S7 and wider C2–C5 including other recitations stay open. Claude owns execution.
 
 PG848 · [Urvaśī’s two predictions and the future of unprefixed śī](urvasi_two_future_predicates_and_the_sleep_conditional/README.md). Closed for these two future schedules and the guarded conditional of basic śī. C2–C5, S1–S7 and recitational scope remain open. Claude owns execution.
 

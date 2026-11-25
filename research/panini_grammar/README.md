@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG849 · [Vṛtra lay covering the world: the middle perfect and the accent of the repeated verb](vrtra_lay_in_two_brahmana_recensions/README.md). Vṛtra as agent of śiśye in both recensions, and the local Mādhyandina accent contrast.
+
 PG848 · [Urvaśī’s two predictions and the future of unprefixed śī](urvasi_two_future_predicates_and_the_sleep_conditional/README.md). Three nine-position schedules for bare śīṅ, with Śatapatha 11.5.1.11.
 
 PG847 · [Second and third in the oblique cases, and the seventy-first in two traditions](second_and_third_obliques_and_the_later_ordinal_families/README.md). PG847 closes the PG792 ordinary cases with PG846 O20. Haradatta’s alternative policy and Vasu’s short seventy-first keep their own scope.

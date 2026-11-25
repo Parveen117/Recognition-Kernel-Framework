@@ -1,0 +1,64 @@
+{
+  "stage": "PG849",
+  "publication_parent": "b3c452edcf75cd36e423395b9e96b2bdb918431b",
+  "baseline": "../urvasi_two_future_predicates_and_the_sleep_conditional/STATE.json",
+  "finite_positions": 52403,
+  "nominal_positions": 25094,
+  "nominal_readings": 28691,
+  "new_finite_positions": 8,
+  "new_finite_readings": 9,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 0,
+  "new_morphology_constructions": 0,
+  "new_morphology_interfaces": 0,
+  "source_decisions": [
+    "MADHYANDINA_TWO_KANVA_ONE_SLEEP_VERB",
+    "FINITE_ACCENT_RETAINED_IN_SECOND_YAD_CLAUSE",
+    "SAYANA_NAMES_YAN_OF_6_4_82",
+    "TWO_PERFECT_SECOND_PLURAL_DENTAL_RETROFLEX",
+    "EARLIER_7_4_21_CONTROL_RESERVED"
+  ],
+  "sources": {
+    "recensions": {
+      "mAdhyandinam": {
+        "repository": "vishvAsa/vedAH_yajuH",
+        "commit": "4c88944853a88a4bfae8d92682bd1a275fd21247",
+        "path": "vAjasaneyam/mAdhyandinam/shatapatha-brAhmaNam/sarva-prastutiH/01/01/3.md",
+        "sha256": "b2f7389eebb175f396fddadc1bced636add2712468d27dfb139c953719daad6c"
+      },
+      "kANvam": {
+        "repository": "vishvAsa/vedAH_yajuH",
+        "commit": "4c88944853a88a4bfae8d92682bd1a275fd21247",
+        "path": "vAjasaneyam/kANvam/shatapatha-brAhmaNam/sarva-prastutiH/02_haviryajnakANDam/01/3.md",
+        "sha256": "728440287a8cc020dbe963e994e27095151f57a0455b726301442f3641bad5c6"
+      }
+    },
+    "commentaries": {
+      "repository": "ashtadhyayi-com/data",
+      "commit": "db9a7f1dba06159e6bcd6efb92c9d01857939947",
+      "files": {
+        "sutraani/kashika.txt": "33aee69f03d8c88d8406875c82b5d0fb1bec9b7d",
+        "sutraani/balamanorama.txt": "c4002fade0835db7534ff582fe94a20e4ebb54f4",
+        "sutraani/tattvabodhini.txt": "278a54f50dd8e22a86d0eef88b88737b84474167"
+      }
+    },
+    "school": {
+      "commit": "71a499c2fd7ff198a14819cc1894cc319ddfb54c",
+      "path": "bAla-bodhaH/saMskRtachaturthapustakam.md",
+      "repository": "vishvAsa/sanskrit",
+      "sha256": "518d454abda53a5ba8b71c3208a1b327b907fdef12464d4b54bff600596e5833"
+    },
+    "repository_blobs": {
+      "anga_affix_abhyasa/RULES_7_4_A.md": "8f86e9dd3c2a045863b8f9336fcc00297127e66a",
+      "ksi_perfect_aorist/DERIVATIONS.md": "dfe31090c4b98bf08f7e379cfcddff41500e5f35",
+      "bhid_middle_perfect_and_dental_dhvam/DERIVATION_AND_NATIVE_RECOVERY.md": "21f8a7dd11ad94058d62fde91df64252cd1b1c25",
+      "grammar_construction/NATIVE_OPERATOR_LIFT.md": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+      "urvasi_two_future_predicates_and_the_sleep_conditional/STATE.json": "aecbdd9aeb0f6fbd38ab062c8fd1e793e72a304a"
+    }
+  },
+  "execution": "Claude-deferred",
+  "new_accent_constructions": 1,
+  "new_accent_interfaces": 3,
+  "new_syntax_constructions": 1,
+  "new_syntax_interfaces": 3
+}
