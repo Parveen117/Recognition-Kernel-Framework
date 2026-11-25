@@ -497,6 +497,13 @@ The complete original subject map, every T01-T77 entry, parallel theorem registe
 
 The navigation integrity test reads this current routing layer together with the preserved full register. Existing theorem coverage and link assertions are retained. See [migration validation](OPERATOR_MIGRATION_2026_09_26.md) and the current development record for which runtime checks were and were not executed. Python 3.11/3.12 was unavailable for this pass; the root Python navigation test is not claimed as run.
 
+The [canonical operator engine](operator_foundation/README.md) contains the shared implementation. The morphic recognition register continues through the following results.
+
+- [MR-04 · Future-complete linear recognition](theorum/morphic_recognition/04_future_complete_linear_recognition.md)
+- [MR-05 · Typed seam memory closure](theorum/morphic_recognition/05_seam_memory_gluing.md)
+- [MR-06 · Guarded lopa and future equivalence](theorum/morphic_recognition/06_guarded_lopa_future_equivalence.md)
+- [MR-07 · Finite-matrix holonomy area scaling](theorum/morphic_recognition/07_holonomy_area_scaling.md)
+
 ## Evidence and native-language boundary
 
 Native object is not a chosen representation. A transition is not automatically physical time. A normal-form quotient is not full history equality. Native dagger is not automatically the transpose of a coordinate action. A finite PASS is not a universal proof. An explicit theorem or adapter is required to transport a native result to a classical or physical conclusion.

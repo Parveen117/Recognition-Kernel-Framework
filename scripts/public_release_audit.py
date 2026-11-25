@@ -8,6 +8,7 @@ overclaims. Pattern fragments are assembled at runtime so the audit does not
 flag its own rule definitions.
 """
 
+import hashlib
 import re
 import subprocess
 from pathlib import Path
@@ -72,6 +73,16 @@ REVIEWED_RH_DENIALS = {
 }
 
 
+# Vasu's translated commentary uses these terms inside two source quotations.
+# Pin the full serialized line. Editing the quotation or adding words invalidates the review.
+REVIEWED_SOURCE_LINES = {
+    "research/panini_grammar/foundational_relations/SOURCE_EXCERPTS.json":
+        "f20602a98ece66d4e2586280177bc2cba6c4c61b0727de030d2c02f5c1f27094",  # 2.1.53
+    "research/panini_grammar/krt_temporal_relations/SOURCE_EXCERPTS.json":
+        "c57f68a4f12f2d5d3c5ee594051633c48f446a2378f30ee208c557fcbc30497f",  # 3.2.48
+}
+
+
 def audit_text(relative: str, text: str) -> list[tuple[str, str, int, str]]:
     reviewed_spans = [
         (match.start(), match.end())
@@ -83,6 +94,10 @@ def audit_text(relative: str, text: str) -> list[tuple[str, str, int, str]]:
     for line_number, line in enumerate(text.splitlines(keepends=True), start=1):
         for category, pattern in PATTERNS.items():
             for match in pattern.finditer(line):
+                if category == "loaded_language" and relative in REVIEWED_SOURCE_LINES:
+                    content = line.rstrip("\r\n").encode("utf-8")
+                    if hashlib.sha256(content).hexdigest() == REVIEWED_SOURCE_LINES[relative]:
+                        continue
                 if category == "rh_overclaim" and any(
                     start <= offset + match.start()
                     and offset + match.end() <= end

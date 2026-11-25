@@ -2,7 +2,7 @@
 
 import unittest
 
-from scripts.public_release_audit import REVIEWED_RH_DENIALS, ROOT, audit_text
+from scripts.public_release_audit import REVIEWED_RH_DENIALS, REVIEWED_SOURCE_LINES, ROOT, audit_text
 
 
 class PublicReleaseAuditTests(unittest.TestCase):
@@ -44,6 +44,19 @@ class PublicReleaseAuditTests(unittest.TestCase):
         token = "ghp_" + "a" * 24
         findings = audit_text(self.path, self.denial + "\n" + token)
         self.assertEqual([f[0] for f in findings], ["github_token"])
+
+
+    def test_vasu_quotations_only_at_reviewed_wording_and_path(self):
+        for path in REVIEWED_SOURCE_LINES:
+            with self.subTest(path=path):
+                lines = (ROOT / path).read_text(encoding="utf-8").splitlines()
+                quoted, = [line for line in lines if audit_text("other.json", line)
+                           and not audit_text(path, line)]
+                self.assertEqual(audit_text(path, quoted), [])
+                self.assertEqual(audit_text("other.json", quoted)[0][0], "loaded_language")
+                self.assertEqual(audit_text(path, quoted + " changed")[0][0], "loaded_language")
+                token = "ghp_" + "x" * 24
+                self.assertEqual(audit_text(path, quoted + "\n" + token)[0][0], "github_token")
 
 
 if __name__ == "__main__":

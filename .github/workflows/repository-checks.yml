@@ -21,6 +21,8 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+      - name: Require Python 3.12
+        run: python -c 'import sys; assert sys.version_info[:2] == (3, 12)'
       - name: Select affected existing contracts
         id: scope
         env:
@@ -176,6 +178,48 @@ jobs:
       - name: Check PG1 Sanskrit text inventory and source pins
         if: steps.scope.outputs.pg1 == 'true'
         run: python research/panini_grammar/check_sources.py
+      - name: Check published Pāṇini stages and cumulative counts
+        if: steps.scope.outputs.pg1 == 'true'
+        run: python -B research/panini_grammar/check_written.py
+      - name: Read the fixed source edition for the PG2–PG13 verifiers
+        if: steps.scope.outputs.pg1 == 'true'
+        uses: actions/checkout@v4
+        with:
+          repository: ashtadhyayi-com/data
+          ref: 5744762f010d677cfb43f347a42d02796cf615d6
+          path: .panini-ci-source
+          persist-credentials: false
+          sparse-checkout-cone-mode: false
+          sparse-checkout: |
+            /README.md
+            /dhatu/data.txt
+            /dhatu/dhatuforms_vidyut_nich_kartari.txt
+            /dhatu/dhatuforms_vidyut_shuddha_kartari.txt
+            /ganapath/data.txt
+            /paribhashendushekhar/data.txt
+            /sutraani/balamanorama.txt
+            /sutraani/data.txt
+            /sutraani/kashika.txt
+            /sutraani/kaumudi.txt
+            /sutraani/laghukaumudi.txt
+            /sutraani/nyaas.txt
+            /sutraani/prakriyasarvasvam.txt
+            /sutraani/tattvabodhini.txt
+            /unaadi/data.txt
+      - name: Reproduce the twelve checked-in grammar reports
+        if: steps.scope.outputs.pg1 == 'true'
+        env:
+          PYTHONDONTWRITEBYTECODE: '1'
+        run: |
+          source_dir="$GITHUB_WORKSPACE/.panini-ci-source"
+          python research/panini_grammar/verification/verify.py --source-root "$source_dir"
+          for packet in root_progression scoped_derivations vikarana_lat non_thematic_lat \
+                        snam_lat exception_lat abhyasa_lat present_expansion lexical_present \
+                        nasal_present causative_present; do
+            echo "::group::$packet"
+            python -m "research.panini_grammar.${packet}.verify" --source-root "$source_dir"
+            echo "::endgroup::"
+          done
       - name: Check Theorem 78-82 quoted-source certificates, ledger and pins
         if: steps.scope.outputs.shaiva == 'true'
         run: |

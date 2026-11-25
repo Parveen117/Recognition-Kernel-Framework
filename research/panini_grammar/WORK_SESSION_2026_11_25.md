@@ -2,6 +2,8 @@
 
 PG867 · [Jāmbavān’s comparison and Hanumān’s turn to fast](jambavans_game_or_figurine_and_hanumans_turn/README.md). Parent 6ea66ce1f12e9092234165924b44458f70113507. Eight source decisions, 71 new nominal positions/readings, three morphology constructions/72 interfaces and two syntax constructions/four interfaces.
 
+**CI integration through PG867.** The written baseline is `0f902343a6a8a8de4bc36c53461c8e1894c2a99b`. The CI change adds reproducible checks for the written register and the twelve existing executable reports. It restores five links required by the mathematics navigation tests and distinguishes two exact Vasu quotations (2.1.53 and 3.2.48) in the release audit. Source records retain their original bytes. CI adds zero stages, finite or nominal positions, readings or source decisions. The GitHub checks on the integration commit report the hosted result.
+
 PG866 · [Mallinātha locates the Bhaṭṭi variant and the aorist of yam in disclosure](mallinathas_bhatti_variant_and_yam_in_disclosure/README.md). Parent c4be77d019594de4c3ce5d13f705f787cf333454. Nine source decisions. Two syntax comparisons at eight interfaces, one nine-cell aorist construction with six new positions and six readings. No nominal increment.
 
 PG865 · [Doubt, lying nearby and the post called upaśaya](doubt_lying_near_and_the_post_called_upasaya/README.md). Parent 09b563754088362723b285ac4038f12346a7dd27. Two morphology constructions at 48 positions, two syntax comparisons at five interfaces and seven source decisions. Two old nominatives reserved.
