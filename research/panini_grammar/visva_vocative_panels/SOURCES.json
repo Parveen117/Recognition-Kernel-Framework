@@ -1,0 +1,66 @@
+{
+  "project_dependencies": [
+    {
+      "commit": "cd348c063fc70b44839f2004db15cd6b5a6d95d0",
+      "path": "research/panini_grammar/sabdamanjari_case_row_for_ramayana_sarve/STATE.json",
+      "git_blob_sha": "81fb2c0faa285fea8ce8979c2f8af2d945fc1c8c",
+      "bytes": 1713,
+      "sha256": "1c29fd1f9686fe1143becd8eab8bf23ad68d3471229c78b550054fbdf32d595d",
+      "use": "PG892 cumulative baseline and source-row policy"
+    },
+    {
+      "commit": "cd348c063fc70b44839f2004db15cd6b5a6d95d0",
+      "path": "research/panini_grammar/sabdamanjari_case_row_for_ramayana_sarve/WITNESS_EXCERPTS.txt",
+      "git_blob_sha": "29c81f7dd402cebf023a388b485dff0a1788ccb5",
+      "bytes": 1855,
+      "sha256": "41c6b025ab94e1c2522dbf093a643d88d9b1bc383fad69b63663f1030c09970b",
+      "use": "Exact sarva address rows retained as the pattern controls"
+    },
+    {
+      "commit": "4eb9c1fcf4b87746b9a85838bef9d08580daedf5",
+      "path": "research/panini_grammar/sarva_vocative_panels/VOCATIVE_FORMS.tsv",
+      "git_blob_sha": "8dcb7d3796996bff0a45dc9f0569c5947cd13110",
+      "bytes": 869,
+      "sha256": "0619b362625df93b4436dcf34517057533fed7a106f98f0146c86e255eae51cd",
+      "use": "Reviewed nine-interface address adapter and ending histories"
+    },
+    {
+      "commit": "4eb9c1fcf4b87746b9a85838bef9d08580daedf5",
+      "path": "research/panini_grammar/sarva_vocative_panels/RELATION.json",
+      "git_blob_sha": "723359d4537511593f79b634917774fbeb313ce0",
+      "bytes": 1800,
+      "sha256": "e36772c11e81f7567dab878ad43a3b66fa13915fff360a66dc9f894c729120a8",
+      "use": "Typed gender-number, am/m-lopa and equal-surface controls"
+    },
+    {
+      "commit": "10c6c94401d4ff3178bc4738469ce8d63087cc02",
+      "path": "research/panini_grammar/grammar_construction/NATIVE_OPERATOR_LIFT.md",
+      "git_blob_sha": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+      "bytes": 11855,
+      "sha256": "f52e7f5cf539ef56859b890669ef738848491e4005e73be75baa49c899b5dafd",
+      "use": "PG14 full operator/history carrier and typed zero-specialization"
+    }
+  ],
+  "external_witnesses": [
+    {
+      "work": "Śabdamañjarī, pronoun classification and entries 91-93",
+      "host": "Veda Vijñāna Viṣṭaram",
+      "url": "https://vedavishtaram.in/sanskrit/s05_shabda_manjari.html",
+      "retrieved": "2026-11-25",
+      "observations": [
+        "viśva is listed as a demonstrative pronoun with the meaning All",
+        "entry 91 explicitly extends the masculine sarva pattern to viśva",
+        "entry 92 explicitly extends the feminine pattern to viśvā",
+        "entry 93 explicitly extends the neuter pattern to viśva"
+      ]
+    }
+  ],
+  "local_excerpt": {
+    "path": "research/panini_grammar/visva_vocative_panels/WITNESS_EXCERPTS.txt",
+    "bytes": 2157,
+    "sha256": "fbed9a965fafb4f358aaa0031817bff1dc914f6cc9fed42e1fddf157a4f76ccc",
+    "retrieved": "2026-11-25"
+  },
+  "source_observations_new": 4,
+  "source_policy_decisions_new": 2
+}

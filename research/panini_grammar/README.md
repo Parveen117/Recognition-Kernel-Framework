@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG893 · [*Viśva* vocative panels](visva_vocative_panels/README.md). Four explicit Śabdamañjarī ownership statements admit the free all/universal M/F/N family into the address adapter while compounds, names, other senses and unquoted evidence remain outside it.
+
 PG892 · [Śabdamañjarī case row for Rāmāyaṇa *sarve*](sabdamanjari_case_row_for_ramayana_sarve/README.md). The explicit masculine address row and PG891 discourse select M VOCpl under typed source/case discrimination while equal surfaces remain separate histories.
 
 PG891 · [Plural *sarve* address in Rāmāyaṇa 7.45.2](sarve_plural_address_in_ramayana_7_45_2/README.md). The direct plural-command discourse fixes masculine-plural addressee function while retaining the exact NOM/VOC syncretic case analysis as Open.

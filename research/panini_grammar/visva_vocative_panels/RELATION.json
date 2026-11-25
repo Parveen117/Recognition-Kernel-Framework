@@ -1,0 +1,70 @@
+{
+  "schema": "rkf.panini.pg893.relation.v1",
+  "stage": "PG893",
+  "input": {
+    "lemma": "viśva",
+    "sense": "all-universal",
+    "roots": null,
+    "preverbs": [],
+    "verbal_pada": null,
+    "voice": null,
+    "genders": ["M", "F", "N"],
+    "numbers": ["sg", "du", "pl"],
+    "case": "vocative"
+  },
+  "source_ownership": {
+    "class": "Śabdamañjarī pronoun section: demonstrative viśva (All)",
+    "masculine": "entry 91 evam extension from sarva to viśva",
+    "feminine": "entry 92 evam extension to feminine viśvā",
+    "neuter": "entry 93 evam extension to viśva"
+  },
+  "construction": {
+    "address_owner": "2.3.47 first-case endings in address",
+    "singular_owner": "2.3.49 sambuddhi only in singular",
+    "masculine_singular": "short a plus 6.1.69",
+    "feminine_singular": "ṭāp plus 7.3.106 and 6.1.69",
+    "neuter_singular": "7.1.24 am plus 6.1.69 m-lopa; no adḍ",
+    "dual_plural": "PG887 ending adapter reused under the source-explicit viśva extensions",
+    "interfaces": 9,
+    "positions": 9,
+    "readings": 9
+  },
+  "source_policy_decisions": [
+    "Admit only the free pronoun viśva in the source's all/universal sense; do not transfer the panel to compounds, proper names or unrelated lexical readings.",
+    "Preserve gender-number histories and select ordinary am plus m-lopa for neuter singular; do not import adḍ or merge equal viśve surfaces."
+  ],
+  "controls": [
+    {
+      "id": "M_N_SG_SAME_SURFACE",
+      "status": "Accepted_distinct_histories",
+      "reason": "M uses short-a sambuddhi; N uses am and m-lopa."
+    },
+    {
+      "id": "FOUR_VISVE_SURFACES",
+      "status": "Accepted_distinct_histories",
+      "reason": "M plural, F singular, F dual and N dual keep separate endings."
+    },
+    {
+      "id": "VISVA_COMPOUNDS_AND_NAMES",
+      "status": "Open",
+      "reason": "The free-pronoun table does not assign its address history to compounds or proper names."
+    },
+    {
+      "id": "DIRECT_TEXTUAL_ATTESTATION_AND_ACCENT",
+      "status": "Open",
+      "reason": "Paradigm extensions do not manufacture literary occurrences or accent."
+    }
+  ],
+  "counts": {
+    "new_finite_positions": 0,
+    "new_finite_readings": 0,
+    "new_nominal_positions": 9,
+    "new_nominal_readings": 9,
+    "new_morphology_constructions": 1,
+    "new_morphology_interfaces": 9,
+    "new_syntax_constructions": 1,
+    "new_syntax_interfaces": 9,
+    "new_source_observations": 4,
+    "new_source_policy_decisions": 2
+  }
+}

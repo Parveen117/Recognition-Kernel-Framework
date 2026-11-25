@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG893 · [*Viśva* vocative panels](research/panini_grammar/visva_vocative_panels/README.md). Source-family admission, address, singular selection, gender-number ending and realization commute with typed zero-specialization while `am`/m-lopa, four equal `viśve` outputs and absent compound/name grades retain distinct histories.
+
 PG892 · [Śabdamañjarī case row for Rāmāyaṇa *sarve*](research/panini_grammar/sabdamanjari_case_row_for_ramayana_sarve/README.md). Evidence admission, gender-number/case intersection and case readout commute with typed zero-specialization while M NOMpl and the F/N equal surfaces retain independent grades.
 
 PG891 · [Plural *sarve* address in Rāmāyaṇa 7.45.2](research/panini_grammar/sarve_plural_address_in_ramayana_7_45_2/README.md). Source admission, co-reference and addressee readout commute with typed zero-specialization while the NOM/VOC candidate grades and unquoted evidence remain distinct.

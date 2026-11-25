@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG892
+# Pāṇini grammar · current written coverage at PG893
+
+PG893 · [*Viśva* vocative panels](visva_vocative_panels/README.md). Śabdamañjarī names free `viśva` as an all/universal pronoun and explicitly extends the M/F/N `sarva` patterns to `viśva/viśvā/viśva`. Nine new nominal positions/readings close the selected sg/du/pl vocatives while compounds, names, other senses, literary attestations and accent remain Open. Census 52,531 finite, 26,049 nominal positions and 29,699 nominal readings.
 
 PG892 · [Śabdamañjarī case row for Rāmāyaṇa *sarve*](sabdamanjari_case_row_for_ramayana_sarve/README.md). Śabdamañjarī 91 separately prints M nominative `sarve` and address `he sarve`; PG891 supplies the matching masculine-plural command discourse. The combined source decision closes exact M VOCpl analysis without recrediting PG887. F/N equal-surface rows remain controls, not literary attestations. Census remains 52,531 finite, 26,040 nominal positions and 29,690 nominal readings.
 
