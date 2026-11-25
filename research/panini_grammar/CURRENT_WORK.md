@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG876
+# Pāṇini grammar · current written coverage at PG877
+
+PG877 · [The mendicant, the collective and the two printed affix attributions](the_mendicant_and_the_collection_in_two_affix_traditions/README.md). 41 new nominal positions and 41 readings. Census 52,531 finite, 25,843 nominal and 29,487 nominal readings.
 
 PG876 · [Sulabhā’s question and the two female mendicant stems](sulabhas_question_and_the_two_female_mendicant_stems/README.md). Sulabhā’s question and the Vinaya’s female preceptor give 18 new finite positions/55 readings and 48 nominal positions/readings. Census 52,531 finite, 25,802 nominal and 29,446 nominal readings.
 

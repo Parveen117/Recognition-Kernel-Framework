@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG877 · [The mendicant, the collective and the two printed affix attributions](research/panini_grammar/the_mendicant_and_the_collection_in_two_affix_traditions/README.md). Two histories for the personal base and the collective añ operation specialize on their own grades.
+
 PG876 · [Sulabhā’s question and the two female mendicant stems](research/panini_grammar/sulabhas_question_and_the_two_female_mendicant_stems/README.md). The two primary-pada histories over codayām āsa and the two genitive nasals remain distinct under typed specialization.
 
 PG875 · [The Shantipur command and the agents who wish or beg](research/panini_grammar/shantipur_command_and_lexical_agents_of_wishing_and_begging/README.md). The word and case projections preserve the distinct grades of san-free u, stipulated ch and the acquisition noun’s ghañ.

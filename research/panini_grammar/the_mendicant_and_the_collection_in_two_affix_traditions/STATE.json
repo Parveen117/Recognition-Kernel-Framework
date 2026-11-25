@@ -1,0 +1,152 @@
+{
+  "stage": "PG877",
+  "publication_parent": "c2d6ef44199c91ac8600e04fe05bd509887e960e",
+  "baseline": "../sulabhas_question_and_the_two_female_mendicant_stems/STATE.json",
+  "finite_positions": 52531,
+  "nominal_positions": 25843,
+  "nominal_readings": 29487,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 41,
+  "new_nominal_readings": 41,
+  "new_morphology_constructions": 2,
+  "new_morphology_interfaces": 42,
+  "source_decisions": [
+    "TWO_BASE_ANALYSES_IN_SKD",
+    "FEMININE_LEXICON_CROSS_REFERENCE",
+    "TWO_PURANIC_VOCATIVES",
+    "GUEST_STATUS_IN_MANU",
+    "COLLECTIVE_ANJ_IN_KASHIKA",
+    "THANJ_IN_VCP_PRINT",
+    "COMPOUND_ORDER_PRINT_AND_DIGITAL",
+    "COLLECTIVE_VERSUS_LIFE_STAGE",
+    "LIVING_COMMUNITY_AND_PHYSICAL_ARRANGEMENT"
+  ],
+  "sources": {
+    "repository_blobs": {
+      "sulabhas_question_and_the_two_female_mendicant_stems/STATE.json": "c8c2ed7ea3816558b186eab834fc723e7d45078d",
+      "grammar_construction/NATIVE_OPERATOR_LIFT.md": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+      "taddhita_relations/RULES_4_2_A.md": "0863d78a02da99820d766bbace42702e9be5929b",
+      "compound_case_derivation/RULES_2_2.md": "9240a2f657d2857b1483f59cb2c5a24deec5823b",
+      "compound_case_derivation/SOURCE_EXCERPTS.json": "5a569802d83a4e02f6d4c65bb44c6922fe8019cc",
+      "krt_temporal_relations/RULES_C1.md": "48612e05d111b1583562728e4dc5f58871b9c46f",
+      "shantipur_command_and_lexical_agents_of_wishing_and_begging/STATE.json": "fb10aebc7d8a224f9933ded9727142c9417b4a15"
+    },
+    "ashtadhyayi-com/data": {
+      "commit": "5744762f010d677cfb43f347a42d02796cf615d6",
+      "files": {
+        "sutraani/kashika.txt": "e525df7668835ef1dd7c5988c031da07ce0c162b",
+        "sutraani/balamanorama.txt": "8f7ab57f5b04648d914f85944b137504d1944961",
+        "sutraani/tattvabodhini.txt": "1f9af68d606f75baa6ede48a946b709da2c14054",
+        "ganapath/data.txt": "b6fe747ea54bfbf32b659786eba2dbdc8018eb3f"
+      },
+      "kashika_keys": [
+        "22003",
+        "22038",
+        "33042",
+        "42045",
+        "64148",
+        "72117",
+        "84001",
+        "84002"
+      ],
+      "gana_rows": [
+        19,
+        73
+      ]
+    },
+    "sanskrit-lexicon/csl-orig": {
+      "commit": "cf53a4240ac83c8f7dfd275533ebd0a0639e6b57",
+      "files": {
+        "v02/vcp/vcp.txt": [
+          "2514e49be65b6fc8675e1f172194ca07778232df",
+          "36528–36529"
+        ],
+        "v02/skd/skd.txt": [
+          "79cc75acddecedec3b3814ff28e8102a1ab11088",
+          "25050 and 29709"
+        ],
+        "v02/mw/mw.txt": [
+          "e72bbf56f93897b7967dbec0a882ce1489720b7c",
+          "150716–150722 and 152969–152970"
+        ]
+      }
+    },
+    "witnesses": {
+      "VCP print": {
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/VCPScan/VCPScanpdf/pg4670.pdf",
+        "sha256": "71a222f9e8becf6e734a531520a00bdc4bb374247aa9a06b92c7e111f2921fb7",
+        "locus": "p. 4670, right column, final seven lines of bhikṣuka including the split line of kaḍārādi"
+      },
+      "Manu": {
+        "url": "https://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc200033.html",
+        "sha256": "d1b9e9a7049506a0602536e4ba669d35f5719fe023eea0722a66ff50c3b83f86",
+        "locus": "3.243, Medhātithi and Jha’s comparative note"
+      },
+      "Bhāgavata": {
+        "url": "https://vedabase.io/en/library/sb/9/18/16/",
+        "sha256": "7151a6d17f7c6d02a619ade97a94654da7e2ed5b0abf5ba67759f210e6d74bad",
+        "locus": "9.18.16, vocative and two second-person predicates"
+      }
+    }
+  },
+  "execution": "Claude-deferred",
+  "new_syntax_constructions": 3,
+  "new_syntax_interfaces": 8,
+  "nominal_panels": [
+    [
+      "NOM",
+      "aḥ au āḥ",
+      "am e āṇi"
+    ],
+    [
+      "ACC",
+      "am au ān",
+      "am e āṇi"
+    ],
+    [
+      "INS",
+      "eṇa ābhyām aiḥ",
+      "eṇa ābhyām aiḥ"
+    ],
+    [
+      "DAT",
+      "āya ābhyām ebhyaḥ",
+      "āya ābhyām ebhyaḥ"
+    ],
+    [
+      "ABL",
+      "āt ābhyām ebhyaḥ",
+      "āt ābhyām ebhyaḥ"
+    ],
+    [
+      "GEN",
+      "asya ayoḥ āṇām",
+      "asya ayoḥ āṇām"
+    ],
+    [
+      "LOC",
+      "e ayoḥ eṣu",
+      "e ayoḥ eṣu"
+    ]
+  ],
+  "reserved": [
+    "bhikṣuka/M/GEN/sg"
+  ],
+  "syntax_frames": {
+    "Manu 3.243": [
+      "alternative guests as objects",
+      "permitting brahmins as instrumental agents",
+      "host as agent under permission"
+    ],
+    "Two uses of the feminine address": [
+      "command to release the garment in Kalki 31.6",
+      "reproach addressed to Devayānī in Bhāgavata 9.18.16"
+    ],
+    "Two ways to express a group": [
+      "neuter collective in añ",
+      "community governed by ni-ci + ghañ",
+      "physical arrangement counterexample in Tattvabodhinī"
+    ]
+  }
+}

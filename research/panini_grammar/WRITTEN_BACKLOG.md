@@ -1,4 +1,6 @@
-# Written-development backlog at PG876
+# Written-development backlog at PG877
+
+PG877 · [The mendicant, the collective and the two printed affix attributions](the_mendicant_and_the_collection_in_two_affix_traditions/README.md). Closed the scanned compound reading, the collective’s gender and the two selected seven-case panels. The printed ṭhañ explanation, historical feminine suffixes, wider C2–C5 and S1–S7 remain open. Claude owns execution.
 
 PG876 · [Sulabhā’s question and the two female mendicant stems](sulabhas_question_and_the_two_female_mendicant_stems/README.md). The supplied female stems and selected curādi perfect are closed. Their historical suffix assignment, S4’s separate desideratives, the other C2–C5 and S1–S7 obligations remain open. Claude owns execution.
 
