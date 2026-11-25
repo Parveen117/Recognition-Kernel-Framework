@@ -1,0 +1,90 @@
+{
+  "schema": "rkf.panini.pg902.relation.v1",
+  "stage": "PG902",
+  "input": {
+    "lemma": "tvat",
+    "sense": "other-pronoun",
+    "roots": null,
+    "preverbs": [],
+    "verbal_pada": null,
+    "voice": null,
+    "genders": ["M", "N"],
+    "cases": ["NOM", "ACC", "INS", "DAT", "ABL", "GEN", "LOC"],
+    "numbers": ["sg", "du", "pl"]
+  },
+  "source_ownership": {
+    "stem_and_patterns": "PG899 positive M/N tvat with marut/jagat ownership",
+    "case_rows": "SanskritDocuments Subanta Rupani tables 58-59",
+    "address_exclusion": "PG899 retains first ownership of the six M/N vocative keys"
+  },
+  "construction": {
+    "masculine_pattern": "exact marut row transport to t-final tvat",
+    "neuter_pattern": "printed jagat NOM/ACC rows plus explicit remainder-as-marut transport",
+    "voicing_route": "printed marudbh- corresponds to tvadbh- before bh-initial endings",
+    "morphology_constructions": 2,
+    "morphology_interfaces": 42,
+    "syntax_constructions": 0,
+    "syntax_interfaces": 0,
+    "positions": 42,
+    "readings": 42,
+    "new_surface_strings": 0
+  },
+  "source_observations": [
+    "the marut nominative row has marut, marutau and marutah",
+    "the marut accusative row has marutam, marutau and marutah",
+    "the marut instrumental row has maruta, marudbhyam and marudbhih",
+    "the marut dative row has marute, marudbhyam and marudbhyah",
+    "the marut ablative row has marutah, marudbhyam and marudbhyah",
+    "the marut genitive row has marutah, marutoh and marutam",
+    "the marut locative row has maruti, marutoh and marutsu",
+    "the jagat nominative row has jagat, jagati and jaganti",
+    "the jagat accusative row has jagat, jagati and jaganti",
+    "the source states that the remainder follows marut",
+    "the neuter instrumental therefore follows the marut row",
+    "the neuter dative therefore follows the marut row",
+    "the neuter ablative and genitive therefore follow the marut rows",
+    "the neuter locative therefore follows the marut row"
+  ],
+  "source_policy_decisions": [
+    "Transport all seven printed non-vocative marut rows to masculine tvat under PG899 ownership.",
+    "Transport the printed jagat NOM/ACC rows and the expressly inherited marut remainder to neuter tvat.",
+    "Preserve voiced tvadbh-, gender/case/number syncretisms and first-owner exclusions; credit no literary, accent, Vedic or competing-policy evidence."
+  ],
+  "controls": [
+    {
+      "id": "PG899_VOCATIVE_KEYS",
+      "status": "Closed_first_owner_zero_credit",
+      "reason": "The six M/N vocative positions/readings were credited at PG899."
+    },
+    {
+      "id": "PG901_FEMININE_KEYS",
+      "status": "Accepted_distinct_gender_zero_recredit",
+      "reason": "Equal oblique words have feminine gender keys at PG901 and remain separate."
+    },
+    {
+      "id": "YUSMAD_ABLATIVE_TVAT",
+      "status": "Accepted_distinct_history",
+      "reason": "yuṣmad ABLsg tvat has a different lemma, sense and derivation."
+    }
+  ],
+  "open": [
+    "direct literary uses of the M/F/N forms",
+    "accent and Vedic or recitational variants",
+    "critical history of the old feminine label",
+    "other senses and competing commentary policies",
+    "C2-C5 and S1-S7"
+  ],
+  "counts": {
+    "new_finite_positions": 0,
+    "new_finite_readings": 0,
+    "new_nominal_positions": 42,
+    "new_nominal_readings": 42,
+    "new_surface_strings": 0,
+    "new_morphology_constructions": 2,
+    "new_morphology_interfaces": 42,
+    "new_syntax_constructions": 0,
+    "new_syntax_interfaces": 0,
+    "new_source_observations": 14,
+    "new_source_policy_decisions": 3
+  }
+}
