@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG889 · [Source-qualified neuter *ahorātra* singular](ahoratra_source_qualified_neuter_singular/README.md). The Mahābhārata concord and Ṛgvedic plural control admit the missing eight-key neuter singular fibre while keeping direct vocative evidence and exhaustive Vedic accent Open.
+
 PG888 · [Ordinary masculine *ahorātra* vocatives](ahoratra_masculine_vocative_panel/README.md). The three-number address adapter closes only PG595's ordinary masculine day-night-period family; source-qualified neuter/Vedic grades remain typed Open.
 
 PG887 · [*Sarva* vocative panels](sarva_vocative_panels/README.md). The freestanding all/entire family enters the three-number address adapter while M/N singular and four `sarve` ending histories remain typed separately.

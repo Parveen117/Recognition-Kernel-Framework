@@ -1,0 +1,60 @@
+{
+  "project_dependencies": [
+    {
+      "commit": "486c00412c8cee5f179045953e7ff2a9beec4ed0",
+      "path": "research/panini_grammar/ahoratra_masculine_vocative_panel/STATE.json",
+      "git_blob_sha": "daa8b482a3880bbdc8711c56795b90ba59f831d1",
+      "bytes": 1377,
+      "sha256": "3d23340f34ef01736dc0a5418f532f168559f129ce76e06e3659f341f2b3ddc9",
+      "use": "PG888 cumulative baseline and ordinary-M separation"
+    },
+    {
+      "commit": "10c6c94401d4ff3178bc4738469ce8d63087cc02",
+      "path": "research/panini_grammar/ahoratra_register_gender_and_dual_plural_cases/RELATION.json",
+      "git_blob_sha": "43e33aa59acb6023aa4e23194023cfcb714a0a8e",
+      "bytes": 10922,
+      "sha256": "f4344da85d2fb4bb04f901e2bff41f1372234ca17da49a83754a0df6cd3818cd",
+      "use": "PG448 source-qualified N register and common-sup dual/plural carrier"
+    },
+    {
+      "commit": "10c6c94401d4ff3178bc4738469ce8d63087cc02",
+      "path": "research/panini_grammar/ahoratra_register_gender_and_dual_plural_cases/STATE.json",
+      "git_blob_sha": "291735f6b97bc6949ffae49c44f366d644c62a07",
+      "bytes": 4310,
+      "sha256": "1eb2ae9220f0b6b5ca40849318ca2d325ab2a7c5f28e5348d15b68a918470f09",
+      "use": "Explicit singular/vocative Open obligation"
+    },
+    {
+      "commit": "10c6c94401d4ff3178bc4738469ce8d63087cc02",
+      "path": "research/panini_grammar/grammar_construction/NATIVE_OPERATOR_LIFT.md",
+      "git_blob_sha": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+      "bytes": 11855,
+      "sha256": "f52e7f5cf539ef56859b890669ef738848491e4005e73be75baa49c899b5dafd",
+      "use": "PG14 full carrier and typed zero-specialization"
+    }
+  ],
+  "external_witnesses": [
+    {
+      "work": "Mahābhārata, Āśvamedhikaparvan 25.14",
+      "host": "Sanskrit Wikisource",
+      "revision": 332109,
+      "url": "https://sa.wikisource.org/w/index.php?title=महाभारतम्-14-आश्वमेधिकपर्व-025&oldid=332109",
+      "fact": "ahorātram has N nominative singular concord with idam and dvandvam"
+    },
+    {
+      "work": "Ṛgveda 10.190.2",
+      "host": "Sanskrit Wikisource",
+      "revision": 340861,
+      "url": "https://sa.wikisource.org/w/index.php?title=ऋग्वेदः_सूक्तं_१०.१९०&oldid=340861",
+      "fact": "accented ahorātrāṇi is the Vedic neuter plural object control"
+    }
+  ],
+  "local_excerpt": {
+    "path": "research/panini_grammar/ahoratra_source_qualified_neuter_singular/WITNESS_EXCERPTS.txt",
+    "bytes": 1376,
+    "sha256": "f61112004d2b9a42289c89b627e2fceb77da8800e8b74e653853415de704cde8",
+    "retrieved": "2026-11-25"
+  },
+  "source_observations_new": 2,
+  "source_policy_decisions_new": 3
+}

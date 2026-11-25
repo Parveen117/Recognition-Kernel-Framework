@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG888
+# Pāṇini grammar · current written coverage at PG889
+
+PG889 · [Source-qualified neuter *ahorātra* singular](ahoratra_source_qualified_neuter_singular/README.md). Mahābhārata `ahorātram idam dvandvam` positively fixes nominative neuter singular by concord, while Ṛgveda 10.190.2 retains the independently accented neuter plural control. Eight singular positions/nine readings close the selected source-qualified neuter fibre without importing unquoted Vedic accent. Census 52,531 finite, 26,040 nominal and 29,690 nominal readings.
 
 PG888 · [Ordinary masculine *ahorātra* vocatives](ahoratra_masculine_vocative_panel/README.md). Three new nominal positions/readings close `ahorātra`, `ahorātrau`, `ahorātrāḥ` for PG595's ordinary masculine day-night-period family. Source-qualified neuter/Vedic branches remain Open. Census 52,531 finite, 26,032 nominal and 29,681 nominal readings.
 

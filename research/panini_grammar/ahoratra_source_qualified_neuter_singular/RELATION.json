@@ -1,0 +1,64 @@
+{
+  "schema": "rkf.panini.pg889.relation.v1",
+  "stage": "PG889",
+  "input": {
+    "lemma": "ahan+rātri→ahorātra",
+    "sense": "day-night-period",
+    "register": "source-qualified-neuter",
+    "gender": "N",
+    "number": "sg",
+    "cases": ["nom", "acc", "ins", "dat", "abl", "gen", "loc", "voc"],
+    "root": null,
+    "preverbs": [],
+    "verbal_pada": null,
+    "voice": null,
+    "compound_owner": "PG448 source-qualified neuter ahorātra",
+    "affix_owner": "selected common-sup singular carrier"
+  },
+  "construction": {
+    "morphology_constructions": 1,
+    "morphology_interfaces": 8,
+    "positions": 8,
+    "readings": 9,
+    "same_surface_distinctions": [
+      "nom.sg ahorātram from su→am versus acc.sg ahorātram from original am",
+      "voc.sg ahorātra from su→am plus m-lopa versus the bare compound/stem"
+    ]
+  },
+  "source_syntax": [
+    {
+      "witness": "Mahābhārata, Āśvamedhikaparvan 25.14 in the pinned Wikisource revision",
+      "text": "ahorātram idam dvandvam",
+      "decision": "concord selects nominative neuter singular",
+      "interfaces": 3
+    },
+    {
+      "witness": "Ṛgveda 10.190.2 in the pinned Wikisource revision",
+      "text": "ahorātrāṇi vidadhad",
+      "decision": "accented neuter plural is a Vedic object control only",
+      "interfaces": 2
+    }
+  ],
+  "source_policy_decisions": [
+    "Read Mahābhārata ahorātram as nominative N singular by concord with idam and dvandvam, not as M accusative or an indeclinable.",
+    "Retain the Ṛgvedic accented plural as a source-qualified Vedic control; do not propagate its accent or endings to unquoted cells.",
+    "Admit the PG448 common-sup carrier for the missing N singular fibre while keeping direct vocative attestation and exhaustive Vedic morphology Open."
+  ],
+  "controls": [
+    {"id": "ORDINARY_M", "status": "Closed-separate", "reason": "PG595/PG888 masculine case and address histories receive no duplicate credit."},
+    {"id": "DIRECT_N_VOCATIVE", "status": "Open", "reason": "A formal address key is not a manufactured literary occurrence."},
+    {"id": "VEDIC_ACCENT_ALL_CELLS", "status": "Open", "reason": "Only the quoted plural has an accent witness here."}
+  ],
+  "counts": {
+    "new_finite_positions": 0,
+    "new_finite_readings": 0,
+    "new_nominal_positions": 8,
+    "new_nominal_readings": 9,
+    "new_morphology_constructions": 1,
+    "new_morphology_interfaces": 8,
+    "new_syntax_constructions": 2,
+    "new_syntax_interfaces": 5,
+    "new_source_observations": 2,
+    "new_source_policy_decisions": 3
+  }
+}

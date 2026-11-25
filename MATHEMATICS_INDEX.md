@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG889 · [Source-qualified neuter *ahorātra* singular](research/panini_grammar/ahoratra_source_qualified_neuter_singular/README.md). Source admission, gender/register selection, singular *sup* consumption and realization commute with typed zero-specialization; masculine histories and unquoted Vedic accent remain typed outside the admitted fibre.
+
 PG888 · [Ordinary masculine *ahorātra* vocatives](research/panini_grammar/ahoratra_masculine_vocative_panel/README.md). Address, number/ending selection and word realization commute with typed zero specialization while source-qualified neuter/Vedic grades remain absent rather than silently imported.
 
 PG887 · [*Sarva* vocative panels](research/panini_grammar/sarva_vocative_panels/README.md). Address, singular selection, gender-number ending and realization commute with typed zero specialization while `am`/m-lopa and four equal `sarve` outputs retain distinct histories.
