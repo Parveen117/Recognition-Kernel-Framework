@@ -1,4 +1,6 @@
-# Written-development backlog at PG829
+# Written-development backlog at PG830
+
+PG830 · [The Haima middle perfects of syand and śṛdh](haima_syand_and_srdh_desiderative_perfects/README.md). Closed at transcript level: selected middle kṛ words for syand and śṛdh, completing the five-root cross-school lookup alongside PG786. Open: visual collation, the Pāṇinian primary/auxiliary entitlement, and the other C2–C5/S1–S7 domains. Counts and Claude execution ownership retain the PG829 baseline.
 
 PG829 · [The animal petva in the verse and the ritual list](petva_animal_in_the_verse_and_the_ritual_list/README.md). Closed for the animal: the two named case addresses, the local RV length contrast and VS ritual assignment. Etymology, remaining cases and cross-witness species remain Open. S5 still 99/103, S6 marker effect and the other C2–C5/S1–S7 obligations remain Open. Execution belongs to Claude.
 

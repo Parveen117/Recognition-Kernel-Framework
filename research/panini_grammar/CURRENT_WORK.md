@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG829
+# Pāṇini grammar · current written coverage at PG830
+
+PG830 · [The Haima middle perfects of syand and śṛdh](haima_syand_and_srdh_desiderative_perfects/README.md). Three positive whole-form witnesses for the two remaining roots of the Haima comparison. Census 52,366 finite, 22,722 nominal positions/25,693 readings.
 
 PG829 · [The animal petva in the verse and the ritual list](petva_animal_in_the_verse_and_the_ritual_list/README.md). Two attested masculine petva cases, three readings. Census 52,366 finite, 22,722 nominal positions/25,693 readings.
 

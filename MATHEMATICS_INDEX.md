@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG830 · [The Haima middle perfects of syand and śṛdh](research/panini_grammar/haima_syand_and_srdh_desiderative_perfects/README.md). Typed comparison carries both schools through word matching. The projected primary's disputed licence remains an independent question.
+
 PG829 · [The animal petva in the verse and the ritual list](research/panini_grammar/petva_animal_in_the_verse_and_the_ritual_list/README.md). Witness-labelled recitation specializes to two distinct instrumental texts at one case address. The nominative belongs to the eleventh ritual animal.
 
 PG828 · [The boon-seekers in two prayers of Kaśyapa](research/panini_grammar/boon_seekers_in_two_kasyapa_hymns/README.md). Typed clause extraction preserves the difference between petition and predication under case realization. The previous accusative-plural analysis is reused.
