@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG868
+# Pāṇini grammar · current written coverage at PG869
+
+PG869 · [Seven desiderative agents in Bhaṭṭi’s warning](seven_desiderative_agents_in_bhattis_warning/README.md). Seven masculine schedules and one feminine verse address add 168 nominal positions and readings. Census 52,495 finite, 25,614 nominal positions and 29,222 nominal readings.
 
 PG868 · [Understanding Sītā’s fate and the prohibition against disbelief](budh_in_an_exhortation_and_a_prohibition/README.md). Three middle schedules give 24 new finite positions and 25 readings. Census 52,495 finite positions, 25,446 nominal positions and 29,054 nominal readings.
 

@@ -1,0 +1,231 @@
+{
+  "stage": "PG869",
+  "publication_parent": "1de6063514954dac5b956895f1b6743b804530b9",
+  "baseline": "../budh_in_an_exhortation_and_a_prohibition/STATE.json",
+  "finite_positions": 52495,
+  "nominal_positions": 25614,
+  "nominal_readings": 29222,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 168,
+  "new_nominal_readings": 168,
+  "new_morphology_constructions": 8,
+  "new_morphology_interfaces": 169,
+  "source_decisions": [
+    "SIX_MEMBERS_OF_1_2_8_IN_TWO_STANZAS",
+    "GRAH_VERSUS_PRACCH_IT_AT_SAN",
+    "AFFIX_SAN_AND_NOMINAL_U_OWNERS",
+    "BUDH_1_2_10_DIFFERENT_TRIGGER",
+    "QUESTIONERS_GENITIVE_AND_PREDICATIVE_SLEEP",
+    "FORTUNE_SUBJECT_AND_TWO_OBJECT_MODIFIERS",
+    "THIEF_COMPARISON_HAS_VATI",
+    "NEGATION_INSIDE_AND_OUTSIDE_THE_AGENT",
+    "FEMININE_SLEEPERS_AT_8_101"
+  ],
+  "sources": {
+    "editions": {
+      "jayamangala": {
+        "item": "b3009303x",
+        "file": "b3009303x.pdf",
+        "pdf_sha256": "87059e6ea2e48e4755df0e675ff9999b15bdc9a31601609ccfae100a2d9a20aa",
+        "printed_page": 164,
+        "archive_leaf": 171
+      },
+      "mallinatha": {
+        "item": "BhattikavyaWithTheCommentaryOfMallinathaPart1CantosI-ix",
+        "file": "Bhatti-kavyaOrRavanavadhaVol.1Cantos1.pdf",
+        "pdf_sha256": "cc1e25fa4643d7528979dc01f9b1d9cb466fa1ff4ce5c29032f6e5e848493693",
+        "printed_pages": [
+          251,
+          252
+        ],
+        "archive_leaves": [
+          293,
+          294
+        ]
+      }
+    },
+    "gretil": {
+      "url": "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/5_poetry/2_kavya/bhattiku.htm",
+      "sha256": "3b4e0876703db37e0d07bafa13aba8bd137105d19f212c24073a4197ceeff167",
+      "key": "Bhk_7.98–100 and Bhk_8.99–102"
+    },
+    "upstream": {
+      "repository": "ashtadhyayi-com/data",
+      "commit": "5744762f010d677cfb43f347a42d02796cf615d6",
+      "files": {
+        "sutraani/kashika.txt": {
+          "blob": "e525df7668835ef1dd7c5988c031da07ce0c162b",
+          "keys": [
+            "12008",
+            "12010",
+            "32168",
+            "33176",
+            "51115",
+            "61015",
+            "61016",
+            "64003",
+            "64048",
+            "71054",
+            "72012",
+            "72075",
+            "73108",
+            "73109",
+            "73111",
+            "73119",
+            "84001",
+            "84002"
+          ]
+        },
+        "dhatu/data.txt": {
+          "blob": "d39a41a998199e60e1c69740541dd78f1464e578",
+          "keys": [
+            "1090071",
+            "1060149",
+            "1020063",
+            "1020059",
+            "1020062",
+            "1090066",
+            "1040068",
+            "1040067",
+            "1070013",
+            "1060168",
+            "1010796"
+          ]
+        }
+      }
+    },
+    "repository_blobs": {
+      "budh_in_an_exhortation_and_a_prohibition/STATE.json": "1d13f94cf67af10fd662c0bf3cd72e68fb9ec74a",
+      "grammar_construction/NATIVE_OPERATOR_LIFT.md": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+      "krt_temporal_relations/RULES_B2.md": "20c65f67b3bbf04aa924166f58a110592d1a7feb",
+      "independent_written_closure/RULES_A2.md": "ccc49c933be11127a896eafdbf47aae20f538769",
+      "anga_affix_abhyasa/RULES_7_2_B.md": "a42e32f95a5cef2fa7064d57b431e0913bb3ef2b",
+      "anga_affix_abhyasa/RULES_7_3_C.md": "5b6e4bb6b4b17dca7731d4d9322a39f0d7f2c0b6",
+      "abhyasa_tripadi/RULES_8_4_A.md": "84a213cc88b8ac9e420ddb6417223fe9a8eda64e",
+      "compound_accent_stems/RULES_6_4.md": "40a638b985185f9934e7e3e8309519b775340e7f",
+      "prohibitive_lung/PARADIGMS.md": "f2f0e67f6749dc351c02c1664fa74f914066a2bb"
+    }
+  },
+  "execution": "Claude-deferred",
+  "new_syntax_constructions": 3,
+  "new_syntax_interfaces": 7,
+  "heads": [
+    [
+      "vijighṛkṣu",
+      "vijighṛkṣ",
+      "ṇ",
+      "1090071",
+      "vi",
+      "fight or grapple with Rāvaṇa"
+    ],
+    [
+      "pipṛcchiṣu",
+      "pipṛcchiṣ",
+      "ṇ",
+      "1060149",
+      "",
+      "ask"
+    ],
+    [
+      "suṣupsu",
+      "suṣups",
+      "n",
+      "1020063",
+      "",
+      "sleep"
+    ],
+    [
+      "avividiṣu",
+      "avividiṣ",
+      "ṇ",
+      "1020059",
+      "",
+      "one without the desire to know"
+    ],
+    [
+      "rurudiṣu",
+      "rurudiṣ",
+      "ṇ",
+      "1020062",
+      "",
+      "weep"
+    ],
+    [
+      "mumuṣiṣu",
+      "mumuṣiṣ",
+      "ṇ",
+      "1090066",
+      "",
+      "steal"
+    ],
+    [
+      "bubhutsu",
+      "bubhuts",
+      "n",
+      "1040068",
+      "",
+      "learn or understand"
+    ]
+  ],
+  "endings": [
+    [
+      "NOM",
+      "uḥ",
+      "ū",
+      "avaḥ"
+    ],
+    [
+      "ACC",
+      "um",
+      "ū",
+      "ūn"
+    ],
+    [
+      "INS",
+      "u{N}ā",
+      "ubhyām",
+      "ubhiḥ"
+    ],
+    [
+      "DAT",
+      "ave",
+      "ubhyām",
+      "ubhyaḥ"
+    ],
+    [
+      "ABL",
+      "oḥ",
+      "ubhyām",
+      "ubhyaḥ"
+    ],
+    [
+      "GEN",
+      "oḥ",
+      "voḥ",
+      "ū{N}ām"
+    ],
+    [
+      "LOC",
+      "au",
+      "voḥ",
+      "uṣu"
+    ],
+    [
+      "VOC",
+      "o",
+      "ū",
+      "avaḥ"
+    ]
+  ],
+  "feminine_witness": [
+    "suṣupsu",
+    "NOM",
+    "PL",
+    "suṣupsavaḥ",
+    "8.101"
+  ],
+  "reserved": [
+    "bubhutsu masculine NOM PL, PG868"
+  ]
+}

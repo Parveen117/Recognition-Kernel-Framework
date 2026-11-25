@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG869 · [Seven desiderative agents in Bhaṭṭi’s warning](seven_desiderative_agents_in_bhattis_warning/README.md). All six roots listed under 1.2.8 occur in two consecutive stanzas. Budh in the next stanza uses a different kit condition.
+
 PG868 · [Understanding Sītā’s fate and the prohibition against disbelief](budh_in_an_exhortation_and_a_prohibition/README.md). The poem uses a benedictive as an exhortation and mā with aorist sic. Three schedules retain root, voice and augment ownership.
 
 PG867 · [Jāmbavān’s comparison and Hanumān’s turn to fast](jambavans_game_or_figurine_and_hanumans_turn/README.md). Two prints read viṣayān. The game and the figurine have different commentators, and the two printed affix labels differ on Hanumān’s fast.

@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG869 · [Seven desiderative agents in Bhaṭṭi’s warning](research/panini_grammar/seven_desiderative_agents_in_bhattis_warning/README.md). Root-specific iṭ and kit decisions, outer agent u, agreement and the indeclinable comparison retain independent histories.
+
 PG868 · [Understanding Sītā’s fate and the prohibition against disbelief](research/panini_grammar/budh_in_an_exhortation_and_a_prohibition/README.md). Typed recovery distinguishes optional actor ciṇ, sic with deletion, and prohibitive augment suppression on divādi budh.
 
 [Shared iṭ evaluation on the PG77 √kram grid](research/panini_grammar/kram_observation/README.md) retains the PG14/PG77 operators and history through typed zero-specialization. A keyed terminal word projection and a streaming history check recover the same declared grid.

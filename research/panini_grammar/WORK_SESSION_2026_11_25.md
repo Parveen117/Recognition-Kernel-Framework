@@ -1,5 +1,7 @@
 # Written Pāṇini work session · 2026-11-25
 
+PG869 · [Seven desiderative agents in Bhaṭṭi’s warning](seven_desiderative_agents_in_bhattis_warning/README.md). Parent 1de6063514954dac5b956895f1b6743b804530b9. 168 new nominal positions/readings, eight constructions/169 interfaces, three clause constructions/seven interfaces and nine source decisions.
+
 PG868 · [Understanding Sītā’s fate and the prohibition against disbelief](budh_in_an_exhortation_and_a_prohibition/README.md). Parent 7122d43c21c0c079ea3788bfad5bc687f40599f8. Three finite schedules, 27 interfaces, 24 new finite positions and 25 readings, seven source decisions and one two-clause comparison.
 
 PG867 · [Jāmbavān’s comparison and Hanumān’s turn to fast](jambavans_game_or_figurine_and_hanumans_turn/README.md). Parent 6ea66ce1f12e9092234165924b44458f70113507. Eight source decisions, 71 new nominal positions/readings, three morphology constructions/72 interfaces and two syntax constructions/four interfaces.

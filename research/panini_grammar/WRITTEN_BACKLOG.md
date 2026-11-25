@@ -1,4 +1,6 @@
-# Written-development backlog at PG868
+# Written-development backlog at PG869
+
+PG869 · [Seven desiderative agents in Bhaṭṭi’s warning](seven_desiderative_agents_in_bhattis_warning/README.md). Closed seven masculine schedules and the feminine sleeper nominative plural. Other feminine cases, affix routes and inherited source obligations remain open.
 
 PG868 · [Understanding Sītā’s fate and the prohibition against disbelief](budh_in_an_exhortation_and_a_prohibition/README.md). The unprefixed budh schedules close here. Desiderative agent nouns at VII.98–100, other C2–C5 constructions, and S1–S7 retain separate entries.
 
