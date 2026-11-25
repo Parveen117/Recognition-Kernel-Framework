@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG845 · [The fourth part of speech, Gāyatrī’s fourth foot and the fourth state](fourth_in_speech_the_gayatri_foot_and_the_feminine_state/README.md). Separate case fibres for thuk, cha and yat include the three feminine stems and the directly recited Kāṇva obliques.
+
 PG844 · [The half and the seer Nema](the_half_and_the_seer_nema/README.md). Nema’s role as a seer, the two persons in the half verse, and the nī + man dictionary derivation are now individually sourced.
 
 PG843 · [All and equal in the cases of sama](all_and_equal_in_the_cases_of_sama/README.md). Two sense-conditioned inflection paths are compared at 63 addresses and traced into Ṛgvedic and Gītā syntax.

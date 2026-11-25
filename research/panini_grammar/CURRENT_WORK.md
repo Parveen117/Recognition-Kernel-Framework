@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG844
+# Pāṇini grammar · current written coverage at PG845
+
+PG845 · [The fourth part of speech, Gāyatrī’s fourth foot and the fourth state](fourth_in_speech_the_gayatri_foot_and_the_feminine_state/README.md). The three forms of fourth now have seven-case M/F/N agreement, with direct prose and verse controls. Net +122 nominal positions/+189 readings. Census 52,368 finite and 23,085 nominal positions/26,169 nominal readings.
 
 PG844 · [The half and the seer Nema](the_half_and_the_seer_nema/README.md). All three genders now have the seven ordinary half-sense cases. RV 8.100 supplies a different dative in commentary on the personal name. New 40 nominal positions/42 readings. Census 52,368 finite, 22,963 nominal positions/25,980 nominal readings.
 

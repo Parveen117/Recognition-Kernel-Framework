@@ -1,4 +1,6 @@
-# Written-development backlog at PG844
+# Written-development backlog at PG845
+
+PG845 · [The fourth part of speech, Gāyatrī’s fourth foot and the fourth state](fourth_in_speech_the_gayatri_foot_and_the_feminine_state/README.md). PG791’s fourth-ordinal non-vocative case obligation closes. Its other enumerated ordinal families, including the Vedic fifth and seventh, remain open. C2–C5, S1–S7 and Claude’s execution retain separate obligations.
 
 PG844 · [The half and the seer Nema](the_half_and_the_seer_nema/README.md). The PG823/826/841/843/844 selected seven-case scope for nema, sama and sima is now written. Other dictionary meanings, names, address and accent need their own evidence. Keep the seven source gates, C2–C5 more broadly and Claude-deferred execution distinct.
 

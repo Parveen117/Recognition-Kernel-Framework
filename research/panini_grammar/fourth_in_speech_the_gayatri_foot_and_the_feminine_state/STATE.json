@@ -1,0 +1,75 @@
+{
+  "stage": "PG845",
+  "publication_parent": "46d898390aaac4c941978bc25fd25cf5b8699a7c",
+  "baseline": "../the_half_and_the_seer_nema/STATE.json",
+  "finite_positions": 52368,
+  "nominal_positions": 23085,
+  "nominal_readings": 26169,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 122,
+  "new_nominal_readings": 189,
+  "new_morphology_constructions": 1,
+  "new_morphology_interfaces": 126,
+  "source_decisions": [
+    "THUK_AND_TWO_SUPPLEMENTARY_FEMININES",
+    "SAKALA_FOURTH_IS_OBJECT_WITH_PADA",
+    "KANVA_BASE_TEXT_EQUATES_TWO_ORDINALS",
+    "KANVA_LOCATIVE_AND_DATIVE_AGREE_WITH_PADA",
+    "DEVI_1_19_8_FEMININE_NOMINATIVE_IN_PRINT",
+    "BHAGAVATA_7_9_32_SHORT_LOCATIVE"
+  ],
+  "sources": {
+    "documents": {
+      "bu": {
+        "url": "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/1_veda/4_upa/brupsb5u.htm",
+        "sha256": "d5e6d6d0b5d32e61dab98c8c98ef62cf82f38288c7ef0f82ccae8481344b9e62"
+      },
+      "rv": {
+        "url": "https://raw.githubusercontent.com/vishvAsa/vedAH_Rk/5ac9230e97be248a343e21a5a2f5e412c33e2021/shAkalam/saMhitA/sarva-prastutiH/01/164.md",
+        "sha256": "ca87d03666a789e89e3e739e62daf6e82c44cad3682c8432a3dd7896a1f4e9d5"
+      },
+      "man": {
+        "url": "https://vedicreserve.miu.edu/upapurana/devibhagavata_purana.pdf",
+        "sha256": "cd75299dd2d331ec3efbd4262f33b66d9a4cb0868bc4893615c29a1123af5b10"
+      },
+      "dev": {
+        "url": "https://www.hindi.satsangdhara.net/deviP/deviP-01-19.htm",
+        "sha256": "785730f49adbb4d279dc95b8b6dd1454f07e475255224ea78c79ab0bfd8d1bdc"
+      },
+      "short": {
+        "url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/html/sa_bhAgavatapurANa.htm",
+        "sha256": "65c39c2a84ac6693e3db4c97a37aea5e9738c58cef957ad4ed27fc208251c74e"
+      }
+    },
+    "col": {
+      "commit": "776f75662b804497939e179f2ae1468b83ad55a7",
+      "files": {
+        "v02/skd/skd.txt": "79cc75acddecedec3b3814ff28e8102a1ab11088",
+        "v02/mw/mw.txt": "e72bbf56f93897b7967dbec0a882ce1489720b7c"
+      }
+    },
+    "kasika": {
+      "commit": "db9a7f1dba06159e6bcd6efb92c9d01857939947",
+      "file": "sutraani/kashika.txt",
+      "blob": "33aee69f03d8c88d8406875c82b5d0fb1bec9b7d",
+      "field": 52051
+    },
+    "frozen": {
+      "research/panini_grammar/ordinal_augment_families_and_vedic_alternatives/PANELS.md": "b85961ff962926a9f5a18aecbc5fd9291d2c0277",
+      "research/panini_grammar/ordinal_augment_families_and_vedic_alternatives/DERIVATION_AND_NATIVE_RECOVERY.md": "798e2fb13f3554b2b0a0777d02fdf936a8f70ba5",
+      "research/panini_grammar/fourth_vowel_primary_ka_and_homographic_i_ownership/DERIVATION_AND_NATIVE_RECOVERY.md": "95f3544200b8ae77b888991a46df7afeb193ded9",
+      "research/panini_grammar/recitation_error_suffixes_food_benefit_and_allocation/DERIVATION_AND_NATIVE_RECOVERY.md": "23c340e7991bc212c29bd8c38444f4aefae32056",
+      "research/panini_grammar/the_half_and_the_seer_nema/STATE.json": "f7b93f20ff74fe95b02b94cc3ba99b70f3506af0",
+      "research/panini_grammar/grammar_construction/NATIVE_OPERATOR_LIFT.md": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b"
+    }
+  },
+  "execution": "Claude-deferred",
+  "prior_or_withheld_positions": 4,
+  "prior_or_withheld_readings": 6,
+  "open": [
+    "other ordinal paradigms in PG791",
+    "vocative and independent accents",
+    "manuscript transmission of the quoted feminine"
+  ]
+}

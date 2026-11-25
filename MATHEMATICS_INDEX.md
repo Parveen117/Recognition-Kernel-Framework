@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG845 · [The fourth part of speech, Gāyatrī’s fourth foot and the fourth state](research/panini_grammar/fourth_in_speech_the_gayatri_foot_and_the_feminine_state/README.md). The typed fourth-ordinal construction distinguishes three suffix histories, two feminine endings and the agreement of turīya with pada.
+
 PG844 · [The half and the seer Nema](research/panini_grammar/the_half_and_the_seer_nema/README.md). PG14 separates the source of the lexical base from the two outer dative decisions and the open address input.
 
 PG843 · [All and equal in the cases of sama](research/panini_grammar/all_and_equal_in_the_cases_of_sama/README.md). Semantic status composes before the original-sup replacement. Distinct paths to same persist in the PG14 pairing.
