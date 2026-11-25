@@ -1,4 +1,9 @@
+Warning: truncated output (original token count: 25978)
+Total output lines: 554
+
 # Written Pāṇini work session · 2026-11-25
+
+PG885 · [*Ubhaya* vocative panels](ubhaya_vocative_panels/README.md). Parent 9199b1e2dec92c10f4ae480c11d82bd11e05dd05. Nine new nominal positions/readings close the exact `ubhaya` M/F/N sg/du/pl address panel. One morphology construction/nine interfaces, one address-case construction/nine interfaces, two source-policy decisions and zero repeated source observations. Neuter singular uses ordinary `am` and m-lopa, not `adḍ`; direct textual addresses and accent remain Open. Census: 52,531 finite, 26,011 nominal positions and 29,660 nominal readings.
 
 PG884 · [Two masculine *a*-stem vocative panels](two_masculine_a_stem_vocative_panels/README.md). Parent b977e1f5f33ffdb82d37f2d0797c13be276818e9. Six new nominal positions/readings: three each for `bhaikṣuka` life-stage and `tiraskāra` iron-covering sg/du/pl vocatives. Two morphology constructions/six interfaces, one address-case construction/six interfaces, two source-policy decisions and zero repeated source observations. Direct literary address, exact accent and unresolved inner histories remain Open. Census: 52,531 finite, 26,002 nominal positions and 29,651 nominal readings.
 
@@ -202,141 +207,7 @@ Parent `90711a9201fdd6ab218471b7485c2cce4df43795`. The containing commit pins th
 
 PG810 · [Numeral manner, division, parts and former state](numeral_manner_division_part_and_former_state/README.md). Constructs selected 5.3.42–54 outputs with 38 new nominal/adverbial positions and 49 readings. Finite positions/readings increase by zero. Thirteen constructions/38 interfaces, zero new source observations and thirteen decisions. Census: 52,357 finite positions, 21,956 nominal positions and 24,891 nominal readings.
 
-Parent `9b548f90cba52c37e7d5960e1592f0355223c051`. The containing commit pins this packet. Displayed outputs, relation ownership, alternatives, part-accent histories and controls are CLOSED. Full numeral productivity, exact Vedic accent recitation, wider primary attestations, genders/cases and non-displayed paradigms remain Open. Continue from 5.3.55. C2–C5 and S1–S7 remain Open; S5 is 99/103 and S6 retains the independent 5.56 k-it effect. Claude retains execution, generators, untouched suites and replay.
-
-## PG809 · Directional astāti, atasuc and distance adverbs
-
-PG809 · [Directional astāti, atasuc and distance adverbs](directional_astati_atasuc_and_distance_adverbs/README.md). Constructs selected 5.3.27–41 outputs with 80 new nominal/adverbial positions and 101 readings. Finite positions/readings increase by zero. Fifteen constructions/80 interfaces, zero new source observations and fourteen decisions. Census: 52,357 finite positions, 21,918 nominal positions and 24,842 nominal readings.
-
-Parent `1f98ec2eb2e5d82939a16750a225fac428a08d8f`. The containing commit pins this packet. Displayed outputs, case-context ownership, distance guards, alternatives and substitutions are CLOSED. The Kāśikā/Vasu 5.3.29 surface priority, the broad-school scope of 5.3.35, accent, independent Vedic attestations and non-displayed paradigmatic distribution remain Open. Continue from 5.3.42. C2–C5 and S1–S7 remain Open; S5 is 99/103 and S6 retains the independent 5.56 k-it effect. Claude retains execution, generators, untouched suites and replay.
-
-## PG808 · Time nipātanas and manner/cause adverbs
-
-PG808 · [Time nipātanas and manner/cause adverbs](time_nipatanas_and_manner_cause_adverbs/README.md). Constructs selected 5.3.16–26 outputs with 30 new nominal/adverbial positions and 35 readings, one reading extending PG807 `TD15`. Finite positions/readings increase by zero. Eleven constructions/30 interfaces, zero new source observations and ten decisions. Census: 52,357 finite positions, 21,838 nominal positions and 24,741 nominal readings.
-
-Parent `7c8c266dc5f5c994f79f58256e4a16479b7be586`. The containing commit pins this packet. Displayed outputs, prior-position ownership, register distinctions and controls are CLOSED. `parāri/parārī` transmission, wider primary attestations, accent and non-displayed paradigmatic distribution remain Open. Continue from 5.3.27. C2–C5 and S1–S7 remain Open; S5 is 99/103 and S6 retains the independent 5.56 k-it effect. Claude retains execution, generators, untouched suites and replay.
-
-## PG807 · Prāgdiśa vibhakti, ablative, locative and time adverbs
-
-PG807 · [Prāgdiśa vibhakti, ablative, locative and time adverbs](pragdisha_vibhakti_ablative_locative_and_time_adverbs/README.md). Constructs selected 5.3.1–15 outputs with 37 new nominal/adverbial positions and 43 readings. Finite positions/readings increase by zero. Fifteen constructions/37 interfaces, zero new source observations and twelve decisions. Census: 52,357 finite positions, 21,808 nominal positions and 24,706 nominal readings.
-
-Parent `7d5eb17340857fcf86de92d3038e16864ef6d25b`. The containing commit pins this packet. Displayed outputs, derivational histories, case contexts and controls are CLOSED. Wider `bhavadādi` realization remains genuinely unconstructed; `aś/an` priority, the Rigvedic locator conflict, accent and complete paradigmatic distribution remain Open. The early prāgdiśa optionality is accepted from the explicit local sources without undoing PG4's quarantine on blanket 4.1.82 `vā` inheritance. Continue from 5.3.16. C2–C5 and S1–S7 remain Open; S5 is 99/103 and S6 retains the independent 5.56 k-it effect. Claude retains execution, generators, untouched suites and replay.
-
-## PG806 · Varṇin, locality names and the close of the second pāda
-
-PG806 · [Varṇin, locality names and the close of the second pāda](varnin_locality_names_and_second_pada_close/README.md). Constructs selected 5.2.134–140 outputs with 42 new nominal positions and 46 readings. Finite positions/readings increase by zero. Fourteen constructions/42 interfaces, zero new source observations and ten decisions. Census: 52,357 finite positions, 21,771 nominal positions and 24,663 nominal readings.
-
-Parent `a88106fd5a1ee1625417ae86a0c05eb91d4c942e`. The containing commit pins this packet. Displayed outputs, source-labelled alternatives and controls are CLOSED. Full puṣkarādi/balādi rosters, wider name distribution, the `kamya/śamya` commentary policy, `bha` source priority, paradigms and accent remain Open. The selected 5.2 second-pāda surface sequence is locally closed; continue from 5.3.1. C2–C5 and S1–S7 remain Open; S5 is 99/103 and S6 retains the independent 5.56 k-it effect. Claude retains execution, generators, untouched suites and replay.
-
-## PG805 · Exclusive ini compounds and the elephant genus
-
-PG805 · [Exclusive ini compounds and the elephant genus](exclusive_ini_compounds_and_elephant_genus/README.md). Constructs selected 5.2.131–133 outputs with 10 new nominal positions/readings. Finite positions/readings increase by zero. Four constructions/10 interfaces, zero new source observations and five decisions. Census: 52,357 finite positions, 21,729 nominal positions and 24,617 nominal readings.
-
-Parent `ed1c11fc5bc303c8c786ab7d42b307608af44e1b`. The containing commit pins this packet. Selected outputs and controls are CLOSED. Undisplayed sukhādi members, exact censure distribution, wider compound bases, paradigms and accent remain Open. Continue from 5.2.134. C2–C5 and S1–S7 remain Open; S5 is 99/103 and S6 retains the independent 5.56 k-it effect. Claude retains execution, generators, untouched suites and replay.
-
-## PG804 · Speech, lordship, living-being ini and age restrictions
-
-PG804 · [Speech, lordship, living-being ini and age restrictions](speech_lordship_living_ini_and_age_restrictions/README.md). Constructs selected 5.2.123–130 outputs with 30 new nominal positions and 33 readings. Finite positions/readings increase by zero. Twelve constructions/30 interfaces, zero new source observations and ten decisions. Census: 52,357 finite positions, 21,719 nominal positions and 24,607 nominal readings.
-
-Parent `ac6db47adcaa5352dee835a82881e1a7a290b87b`. The containing commit pins this packet. Selected outputs, number positions, semantic guards and controls are CLOSED. Full arśādi membership, wider disease/fault lexicon, 5.2.123 Vedic scope, two spelling priorities, paradigms and accent remain Open. Continue from 5.2.131. C2–C5 and S1–S7 remain Open; S5 is 99/103 and S6 retains the independent 5.56 k-it effect. Claude retains execution, generators, untouched suites and replay.
-
-## PG803 · Vedic bahula-vini, tolerance and absence relations
-
-PG803 · [Vedic bahula-vini, tolerance and absence relations](vedic_bahula_vini_tolerance_and_absence_relations/README.md). Constructs the displayed 5.2.122 outputs with 26 new nominal positions and 29 readings. Finite positions/readings increase by zero. Twelve constructions/26 interfaces, zero new source observations and ten decisions. Census: 52,357 finite positions, 21,689 nominal positions and 24,574 nominal readings.
-
-Parent `e1e7ffd1f21d2596904d39a972d3cc5162b3a000`. The containing commit pins this packet. Displayed outputs, semantic contrasts and controls are CLOSED. Wider Vedic distribution, independent accent derivations, unlocated example addresses, recensional priority and complete paradigms remain Open. Continue from 5.2.123. C2–C5 and S1–S7 remain Open; S5 is 99/103 and S6 retains the independent 5.56 k-it effect. Claude retains execution, generators, untouched suites and replay.
-
-## PG802 · Obligatory compound ṭhañ, rūpya and vini possession
-
-PG802 · [Obligatory compound ṭhañ, rūpya and vini possession](obligatory_compound_than_rupya_and_vini_possession/README.md). Constructs selected 5.2.118–121 outputs with 21 new nominal positions and 23 readings. Finite positions/readings increase by zero. Eight constructions/21 interfaces, zero new source observations and eight decisions. Census: 52,357 finite positions, 21,663 nominal positions and 24,545 nominal readings.
-
-Parent `f9bff952738b78c0a982e0ee3e069ae250fda8a2`. The containing commit pins this packet. Displayed outputs and guards are CLOSED. Patanjali/Kāśikā scope priority, wider productivity, monetary evidence, paradigms and accent remain Open. The large 5.2.122 Vedic bahula roster is next. C2–C5 and S1–S7 remain Open; S5 is 99/103 and S6 retains the independent 5.56 k-it effect. Claude retains execution, generators, untouched suites and replay.
-
-## PG801 · Named valac, nipātana and selected ini-ṭhan classes
-
-PG801 · [Named valac, nipātana and selected ini-ṭhan classes](named_valac_nipatana_and_selected_ini_than_classes/README.md). Constructs selected 5.2.113–117 outputs with 31 new nominal positions and 57 readings. Finite positions/readings increase by zero. Seventeen constructions/31 interfaces, zero new source observations and ten decisions. Census: 52,357 finite positions, 21,642 nominal positions and 24,522 nominal readings.
-
-Parent `226b57bd20ee8e2f9edcef9664b319eba5a4cb99`. The containing commit pins this packet. Displayed outputs and controls are CLOSED. Undisplayed vṛīhyādi/tuṇḍādi members, complete paradigms and accent, and source priority for the sthūṇā gender and `sva` vowel remain Open. Continue from 5.2.118. C2–C5 and S1–S7 remain Open; S5 is 99/103 and S6 retains the independent 5.56 k-it effect. Claude retains execution, generators, untouched suites and replay.
-
-## PG800 · R, m and v possession histories, named bows and valac roles
-
-PG800 · [R, m and v possession histories, named bows and valac roles](r_m_v_and_valac_possession_histories/README.md). Constructs selected 5.2.107–112 outputs with 41 new nominal positions and 48 readings. Finite positions/readings increase by zero. Fourteen constructions/41 interfaces, zero new source observations and ten decisions. Census: 52,357 finite positions, 21,611 nominal positions and 24,465 nominal readings.
-
-Parent `cf7a136a814d2ddd2ea88ec0a5625d2eca1305da`. The containing commit pins this packet. Displayed outputs, guards and source-labelled alternatives are CLOSED. Critical priority of `kurarāva/kararāva` and `aṇḍīra/āṇḍīra`, complete paradigms, accent and historical productivity remain Open. Continue from 5.2.113. C2–C5 and S1–S7 remain Open; S5 is 99/103 and S6 retains the independent 5.56 k-it effect. Claude retains execution, generators, untouched suites and replay.
-
-## PG799 · Paired possession affixes, locality and projecting teeth
-
-PG799 · [Paired possession affixes, locality and projecting teeth](paired_possession_affixes_locality_and_projecting_teeth/README.md). Constructs selected 5.2.101–106 surfaces with 18 new nominal positions and 32 readings. Finite positions/readings increase by zero. Eight constructions/18 interfaces, zero new source observations and seven decisions. Census: 52,357 finite positions, 21,570 nominal positions and 24,417 nominal readings.
-
-Parent 35d6cca0ada6765bcdc1ac1e0db471185008397f. Selected outputs and alternatives are CLOSED. Source priorities, full membership, paradigms and accent remain Open. Continue from 5.2.107. C2–C5 and S1–S7 remain Open; S5 is 99/103 and S6 retains the independent 5.56 k-it effect. Claude retains execution, generators, untouched suites and replay.
-
-## PG798 · Sidhmādi conditioned lac and three possession classes
-
-PG798 · [Sidhmādi conditioned lac and three possession classes](sidhmadi_conditioned_lac_and_three_possession_classes/README.md). Constructs selected 5.2.97–100 surfaces with 38 new nominal positions and 48 readings. Finite positions/readings increase by zero. Thirteen morphology constructions/38 interfaces, zero new source observations and nine source-policy decisions. Census: 52,357 finite positions, 21,552 nominal positions and 24,385 nominal readings.
-
-Parent 2328e410f3e9d45b978bbaf5429eb6300cdc8b84. The containing commit pins this packet. Selected outputs, alternatives, conditioned operations and controls are CLOSED. Unselected class members, roster/spelling divergences, complete paradigms and accent remain Open. Continue from 5.2.101. C2–C5 and S1–S7 remain Open; S5 remains 99/103 and S6 retains the independent 5.56 k-it effect. Claude retains execution, generators, untouched suites and replay.
-
-## PG797 · Possession, perceptible qualities and optional body-lac
-
-PG797 · [Possession, perceptible qualities and optional body-lac](possession_perceptible_qualities_and_optional_body_lac/README.md). Constructs selected 5.2.94–96 surfaces with 32 new nominal positions and 36 readings. Finite positions/readings increase by zero. Seven morphology constructions/32 interfaces, zero new source observations and seven source-policy decisions. Census: 52,357 finite positions, 21,514 nominal positions and 24,337 nominal readings.
-
-Parent 5a48037e3bc217abd3dad473459df94ab20239af. The containing commit pins this packet. Selected literal outputs, alternatives, quality lopa and source-explicit controls are CLOSED. Complete rasādi membership, recorded source divergences, full paradigms and accent remain Open. Continue from 5.2.97. The five controls are Excluded only from `lac`; their matup outputs remain Accepted. C2–C5 and S1–S7 remain Open; S5 remains 99/103 and S6 retains the independent 5.56 k-it effect. Claude retains execution, generators, untouched suites and replay.
-
-## PG796 · Ritual consumers, followers, witnesses and indriya histories
-
-PG796 · [Ritual consumers, followers, witnesses and indriya histories](ritual_consumers_followers_witnesses_and_indriya_histories/README.md). Completes selected 5.2.85–93 surfaces with 26 new nominal positions and 28 readings. Finite positions/readings increase by zero. Nine morphology constructions/26 interfaces, zero new source observations and nine source-policy decisions. Census: 52,357 finite positions, 21,482 nominal positions and 24,301 nominal readings.
-
-Parent 9dda6301120b9ae24fb59dd0c0777b4693599ca4. The containing commit pins this packet. Selected literal outputs and source-explicit guards are CLOSED. The remaining iṣṭādi list, critical Vedic adversary form, historical priority of the `kṣetriya` senses and `indriya` explanations, complete paradigms and accent remain Open. Continue from 5.2.94. C2–C5 and S1–S7 remain Open; S5 remains 99/103 and S6 retains the independent 5.56 k-it effect. Claude retains execution, generators, untouched suites and replay.
-
-## PG795 · Lovers, acquisition attempts, named fevers and feast days
-
-PG795 · [Lovers, acquisition attempts, named fevers and feast days](lovers_acquisition_attempts_named_fevers_and_feast_days/README.md). Completes selected 5.2.74–84 surfaces with 30 new nominal positions and 36 readings. Finite positions/readings increase by zero. Eleven morphology constructions/30 interfaces, zero new source observations and eleven source-policy decisions. Census: 52,357 finite positions, 21,456 nominal positions and 24,273 nominal readings.
-
-Parent 9246005c4560f8bfa80c28da87e80bbfc45dd0e8. The containing commit pins this packet. Selected literal outputs, lopa branches and explicit controls are CLOSED. Critical priority of the two spelling forks, wider feast-name membership, exact accent beyond displayed `śro꣡triya`, the `śrotriya/chāndasa` semantic policy, full paradigms and productivity remain Open. Continue from 5.2.85. C2–C5 and S1–S7 remain Open; S5 remains 99/103 and S6 retains the independent 5.56 k-it effect. Claude retains execution, generators, untouched suites and replay.
-
-## PG794 · Desire, body-part devotion and nine k-family predicates
-
-PG794 · [Desire, body-part devotion and nine k-family predicates](desire_body_devotion_and_nine_k_predicates/README.md). Completes selected 5.2.65–73 surfaces with 19 new nominal positions and 19 readings. Finite positions/readings increase by zero. Nine morphology constructions/19 interfaces, zero new source observations and nine source-policy decisions. Census: 52,357 finite positions, 21,426 nominal positions and 24,237 nominal readings.
-
-Parent 5101279aa306ba15835aaef867a536fd8af6a568. The containing commit pins this packet. Selected literal outputs and source-explicit guards are CLOSED. The reported `sasya/śasya` input fork, Vasu English `pratyayaḥ` against Kāśikā `pratyagraḥ`, the 5.2.73 commentary-policy difference, full paradigms, accent and wider productivity remain Open. Continue from 5.2.74. The source-explicit `udaraka` contrast is Excluded only from the rule-67 voracious `ṭhak` branch. C2–C5 and S1–S7 remain Open; S5 remains 99/103 and S6 retains the independent 5.56 k-it effect. Claude retains execution, generators, untouched suites and replay.
-
-## PG788 · Five quantity pronouns, three Vedic comparisons and a question about the gods
-
-PG788 · [Five quantity pronouns, three Vedic comparisons and a question about the gods](five_quantity_pronouns_and_the_number_of_gods/README.md). Distinguishes quantity from likeness and numerical inquiry, verifies the three Ṛgvedic quotations, and attaches the Vedic smasi reading to PG8’s existing first plural. 11 new nominal positions and 11 readings. 0 new finite positions and 1 finite readings. One written morphology construction with 11 interfaces, 14 source observations and 5 source decisions. Census: 52,357 finite positions, 21,316 nominal positions and 24,107 nominal readings.
-
-Parent d993eae73512ca93d7e6171250d1fb89502be73c. The containing commit pins this packet. Further primary witnesses for the nested measure, additional accent histories of these forms, and the historical priority of the two 5.2.40 analyses remain Open. Continue 5.2.42–45 with members and the whole, tayap versus ayac, ritual and nonritual uses and the independently owned numeral relations. C2–C5 and S1–S7 remain Open. Claude retains execution.
-
-## PG787 · The accent of vínā between four pits and Vaṃśīdhara’s two butter forms
-
-PG787 · [The accent of vínā between four pits and Vaṃśīdhara’s two butter forms](an_accented_span_between_pits_and_the_two_butter_forms/README.md). Reads Weber’s accent sign, distinguishes the span between pits from their size, and locates Vaṃśīdhara’s explicit explanation of the short butter word. 2 new nominal positions and 2 readings. 2 new finite positions and 2 finite readings. One accent construction with one reading. One written morphology construction with 5 interfaces, 11 source observations and 4 source decisions. Census: 52,357 finite positions, 21,305 nominal positions and 24,096 nominal readings.
-
-Parent fc1c29939bb9055a708bc9bfa2c43f3861c5a9b6. The containing commit pins this packet. The exact Śatapatha accent address and Vaṃśīdhara’s explanation are locally resolved. Historical affix accent, independent recensional comparison and the development and transmission of the short butter form remain Open. Continue the pronoun-based quantity construction at 5.2.39–41, preserving existing numeral and indeclinable owners. C2–C5 and S1–S7 remain Open. Claude retains execution.
-
-## PG786 · Two Haima middle perfects of kṛp on one first-person request
-
-PG786 · [Two Haima middle perfects of kṛp on one first-person request](two_haima_middle_perfects_of_krp/README.md). Locates both kṛp primary histories in adjacent first-singular middle rows and identifies the person of PG405’s older vṛdh and vṛt witnesses. 0 new nominal positions and 0 readings. Finite positions and readings both increased by zero. Thirteen source observations and four decisions on the existing requests. Census: 52,355 finite positions, 21,303 nominal positions and 24,094 nominal readings.
-
-Parent 519bd08ce2b0c513490ccefc780921235688cd62. The containing commit pins this packet. S4 now has a separately checkable Haima kṛp pair at 1sg and an explicit person for PG405. An early-middle Pāṇinian analysis, independent historical use and the remaining person, auxiliary and root cells remain Open. Return to the accent in Śatapatha 3.5.4.5 and the two Vaṃśīdhara passages, then continue 5.2.39–40. C2–C5 and S1–S7 remain Open. Claude retains execution.
-
-## PG785 · Three altar heights and the thumb as a standard
-
-PG785 · [Three altar heights and the thumb as a standard](three_altar_heights_and_the_reversed_thumb_measure/README.md). Constructs the two measure rules with a recited vertical series, a downward knee measure and the reverse human/standard roles of the Upaniṣad. 18 new nominal positions and 20 readings. 2 new finite positions and 2 finite readings. One written morphology construction with 14 interfaces, 15 source observations and 5 source decisions. Census: 52,355 finite positions, 21,303 nominal positions and 24,094 nominal readings.
-
-Parent 47b4a66885821c4b4f020c472e920cc49034c844. The containing commit pins this packet. The transmission of the three different final height landmarks, the explanation of Vārāha’s printed चबुक, and a wider recensional account of the Vedic spelling and accent remain Open. Continue 5.2.39–40 with the size and number questions, distinguishing the Taittirīya adjacencies and relative/correlative clauses. Independent source-work and the existing S2 and S3 editorial questions remain on the register. C2–C5 and S1–S7 remain Open. Claude retains execution.
-
-## PG784 · Two mountain sites and the flowering of speech
-
-PG784 · [Two mountain sites and the flowering of speech](two_mountain_sites_and_the_flowering_of_speech/README.md). Constructs 5.2.34–36, locates both poetic perfect-participle quotations, and writes the witnessed reception and speech predicates. 21 new nominal positions and 22 readings. 2 new finite positions and 2 finite readings. One nonfinite construction with [two readings](two_mountain_sites_and_the_flowering_of_speech/PARTICIPLES.json). [Finite words](two_mountain_sites_and_the_flowering_of_speech/FINITE_READINGS.json). One written morphology construction with 14 interfaces, 17 source observations and 5 source decisions. Census: 52,353 finite positions, 21,285 nominal positions and 24,074 nominal readings.
-
-Parent 78092066c1b487c5b51f1560550a3807cc8ba850. The containing commit pins this packet. The earliest transmission of the disputed numbered kvasu reference and the relative historical priority of the two lodhra-tree readings remain Open. The poetic extension has evidence on the named participles only. Continue 5.2.37–38 with the older palm-height owner and the different two readings of upamāna or pramāṇa kept distinct. S2 and S3 still require an upstream editorial disposition. C2–C5 and S1–S7 remain Open. Claude retains execution.
-
-## PG783 · The bend of a nose, a pair of eyes and the fist that opens
-
-PG783 · [The bend of a nose, a pair of eyes and the fist that opens](nose_bend_eye_pair_and_the_fist_that_opens/README.md). Constructs 5.2.30–33 with independent texts for the grip and the nose compound, and traces two similar words to different replacements. 11 new nominal positions and 11 readings. Finite positions and readings both increased by zero. One syntax construction with [four role readings](nose_bend_eye_pair_and_the_fist_that_opens/SYNTAX_READOUTS.json). One written morphology construction with 14 interfaces, 12 source observations and 5 source decisions. Census: 52,351 finite positions, 21,264 nominal positions and 24,052 nominal readings.
-
-Parent 31645b9b433a2a90afb01f41532ea27dc6e690c6. The containing commit pins this packet. The transmission of the erroneous k equation and the independent origin of the b spelling at 5.2.30 remain Open. The Raghuvaṃśa commentator establishes the self-agent reading at his verse only. Continue the mountain sites, effort and emergence at 5.2.34–36. The two maintainer questions in the dated handoff continue to govern S2 and S3. C2–C5 and S1–S7 remain Open. Claude retains execution.
-
-## PG782 · Wide horns, the two Rāmas and the oil poured for the fawn
+Parent `9b548f90cba52c37e7d5960e1592f0355223c051`. The containing commit pins this packet. Displayed outputs, relation ownership, alternatives, part-accent histories and controls are CLOSED. Full numeral productivity, exact Ve…5978 tokens truncated… the oil poured for the fawn
 
 PG782 · [Wide horns, the two Rāmas and the oil poured for the fawn](wide_horns_the_two_ramas_and_the_oil_poured_for_the_fawn/README.md). Constructs the named extensions at 5.2.28–29 and derives a past narrative laṭ in Bhaṭṭi and a passive laṅ in Kālidāsa. 34 new nominal positions and 34 readings. 2 new finite positions and 2 finite readings. One written morphology construction with 15 interfaces, 15 source observations and 5 source decisions. Census: 52,351 finite positions, 21,253 nominal positions and 24,041 nominal readings.
 

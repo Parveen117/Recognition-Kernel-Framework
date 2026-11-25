@@ -1,4 +1,9 @@
+Warning: truncated output (original token count: 26213)
+Total output lines: 773
+
 # Canonical Mathematics Index
+
+PG885 · [*Ubhaya* vocative panels](research/panini_grammar/ubhaya_vocative_panels/README.md). Address, singular selection, gender-number ending and realization commute with typed zero specialization while `am`/m-lopa, short-a sambuddhi and the three equal `-e` outputs retain distinct histories.
 
 PG884 · [Two masculine *a*-stem vocative panels](research/panini_grammar/two_masculine_a_stem_vocative_panels/README.md). Lexical selection, address, singular selection and word realization commute with typed zero specialization while unresolved and incompatible sense/affix grades remain separate.
 
@@ -270,155 +275,7 @@ PG752 · [Coin and vessel compounds, owned elision and a Vedic dual](research/pa
 
 PG751 · [Prices, two kinds of hundred and the history of a numeral suffix](research/panini_grammar/price_measure_hundreds_and_numeral_affix_history/README.md). Typed PG14 recovery preserves the measure, prior luk, numeral affix and name status at every case readout.
 
-PG750 · [Intended material, sufficient capacity and the leather strap](research/panini_grammar/intended_material_sufficient_capacity_and_leather_strap/README.md). Typed PG14 recovery retains intention, sufficiency, and separate inner and outer affix owners in the strap derivation.
-
-PG749 · [Beneficiaries, compound heads and two poetic witnesses for kha](research/panini_grammar/beneficiaries_grammatical_gender_and_two_poetic_kha_witnesses/README.md). The selected beneficiary, compound, suffix-marker and case histories have typed zero recovery, including the female beneficiary and the source-restricted dental n.
-
-PG748 · [The wool measure, offering options and the gavādi exceptions](research/panini_grammar/blanket_measure_offering_options_and_gavadi_exceptions/README.md). PG14 specialization preserves the lexical substitution, correlated length and accent, and the two suffix owners in measure-based purchases.
-
-PG747 · [Soma eligibility, honey material and the Vedic tāti cases](research/panini_grammar/soma_eligibility_honey_material_and_tati_cases/README.md). The eight chapter-end rules have a written, source-qualified mapping to the selected cases and a typed PG14 specialization. Source gaps retain individual Open records.
-
-PG746 · [Day-specific strength, ancestor-made paths and the thousandfold](research/panini_grammar/vedic_strength_days_ancestral_paths_and_thousandfold/README.md). Instrumental supports, alternate compound analysis, affix provenance and Vedic accent and case readouts survive typed PG14 zero specialization.
-
-PG745 · [Brick-placement mantras, two matup tokens and Vedic months](research/panini_grammar/vedic_brick_mantra_affix_elision_and_seasonal_months/README.md). The PG14 lift tracks inner affix deletion, marker-sensitive outer affixes, observed case and co-recitation. Typed specialization respects the owner and visibility of every token.
-
-PG744 · [Vedic gifts, messenger duties, ritual bodies, praise and possession](research/panini_grammar/vedic_gift_messenger_praise_and_owned_maya/README.md). The PG14 history lift retains the six support domains, inner and outer suffix owners, and source-qualified realization. Typed zero specialization commutes with their ordered composition and case readouts.
-
-PG743 · [Shared origin, the four agra paths and Vedic sea and cloud cases](research/panini_grammar/vedic_shared_origin_front_position_and_sea_cloud_cases/README.md). Different source roles, recensional accent policies and lopa traces stay typed through the PG14 history lift. Augmentation preserves the selection graph and commutes with the case and accent maps.
-
-PG742 · [Vedic locative existence, water cases and the three srotas choices](research/panini_grammar/vedic_locative_cloud_water_and_stream_affixes/README.md). The PG14 history lift retains ṭi ownership, affix accent priority and the source-qualified case readouts. Its augmentation commutes with eligibility, source conditioning and case realization.
-
-PG741 · [Travel, hospitality, the Vedic assembly and shared residence relations](research/panini_grammar/eya_hospitality_vedic_assembly_and_shared_womb/README.md). The PG14 lift retains separate recipient, Vedic-register, teacher and optional companion histories. Typed zero specialization commutes with the case and accent consumers on their declared grades.
-
-PG740 · [The two suitability rosters and Haima’s ploughed-path forms](research/panini_grammar/kathadi_gudadi_markers_and_haima_plough_paths/README.md). The PG14 lift retains kit versus ñit, conditioned ṭha payload, Vācaspatyam gender and the physical Haima paths through distinct typed case maps.
-
-PG739 · [Locative suitability, the pratijanādi roster and the two council suffixes](research/panini_grammar/locative_suitability_pratijanadi_and_council_affixes/README.md). The PG14 lift forms the locative skill filter, named gaṇa replacement, independently typed benefactive path and qualifying compound roles in the same full history algebra.
-
-PG738 · [Will, kinship and three genitive yat relations](research/panini_grammar/kinship_mantra_and_ordered_genitive_yat/README.md). The PG14 lift gives named kinship, independently sourced GEN relations and source-specific hṛdya use their own typed domains. Equal spellings preserve root or affix ownership through zero specialization.
-
-PG737 · [The ordered yat pairs, price interpretations and licensed furrow heads](research/panini_grammar/ordered_yat_boat_price_and_furrow_relations/README.md). The PG14 typed lift composes the ordered operand filter with restricted compound-head admission and case-specific readout. Zero specialization preserves the original scope of both mūla and dharma histories.
-
-PG736 · [Footprint visibility, uprooting and the two gārhapatya histories](research/panini_grammar/footprint_uprooting_and_two_garhapatya_histories/README.md). The PG14 lift keeps the actual NOM/LOC and NOM/GEN supports, finite strength, the named fire and household abstract in separate typed grades. The case and finite readouts commute with their typed zero projections.
-
-PG735 · [Piercing conditions and the two cases governed by labdhā](research/panini_grammar/piercing_instrument_guards_and_labdha_case_government/README.md). The PG14 histories keep separate P and Haima instrument masks and the tṛn and tṛc government edges. Typed zero specialization recovers the two different object cases on one segmental labdhā.
-
-PG734 · [The yoke’s lexical r and the wedding readings of janya](research/panini_grammar/dhur_lexical_r_and_janya_wedding_witnesses/README.md). Separates lexical r and ru at locative su, including the two source presentations of the Vedic slot, and derives named janya case fibres with separate lexical and textual policies. PG14 zero specialization retains the original r owner and witness.
-
-PG733 · [Loaded yokes, plough carriers and the owners of luk](research/panini_grammar/loaded_yokes_ploughs_and_distinct_luk_owners/README.md). Extends the PG14 history carrier with distinct kha-luk and yat-luk maps and the shared but explicitly triggered ṭāp-luk operation. It derives the named compound and case fibres and the ñit tone from the exact 1910 print.
-
-PG732 · [House residence, carrying and the two histories of yugya](research/panini_grammar/house_residence_yat_carrying_and_yugya_accent/README.md). Affix and contextual case ownership separate the last locative rule from the following accusative yat carrier. Same-surface kyap and yat histories support an exact compound-tone comparison without erasing lexical and source grounds.
-
-PG731 · [Appointed buildings, prohibited study and two senses of residence](research/panini_grammar/appointed_buildings_prohibited_study_and_residence/README.md). Four locative predicates extend the full PG14 carrier. The same form can preserve source-distinct suffix or residence eligibility, and study and residence remain separate roles for śmāśānika.
-
-PG730 · [Assigned dishes, ṭiṭhan and appointed offices](research/panini_grammar/assigned_dishes_title_affix_and_appointed_locus/README.md). The full PG14 cut-path history algebra transports disjoint recipient, ingredient and locative appointment requests. The local case and quote readouts preserve marker ownership even when the segmental word agrees.
-
-PG729 · [Recitation errors, food suitability and assigned portions](research/panini_grammar/recitation_error_suffixes_food_benefit_and_allocation/README.md). Ten compound plans, two separate accent owners and typed recipient ports within the full PG14 history algebra. The source variants of the study and food rules specialize to their own classical coordinates.
-
-PG728 · [The printed chattrādi rosters and prefixed sthā](research/panini_grammar/chattradi_print_rosters_and_prefixed_stha_nominals/README.md). The exact lexical and prefix cuts precede aṅ, ṭāp, vṛddhi and ṇa. The ordinary case and gender coordinates are then lifted through the full PG14 operator and history carrier.
-
-PG727 · [Quoted belief, habitual acts and two feminine affix routes](research/panini_grammar/belief_habit_feminine_and_mallinatha_readings/README.md). Typed quotations and semantic conditions lift separately from lexical affixes and gender. The written PG14 proof preserves named meanings, both student spellings, the two feminine scope extensions and the incompatible Māgha witness branches.
-
-PG726 · [Craft, implement suffixes and Bhaṭṭi’s short readings](research/panini_grammar/craft_and_implement_affix_and_bhatti_policies/README.md). Fourteen nominal case fibres, with independent craft licensing, affix/phonology schedules and witness-specific compound histories. The PG14 cut-path lift specializes to the source-qualified relation, preserving homophonous morphology and short compound forms.
-
-PG725 · [Merchandise, salt and the aromatic suffixes](research/panini_grammar/merchandise_salt_and_aromatic_affix_variants/README.md). The 720 nominal positions and 835 readings distinguish the scope of the default, salt exception and aromatic gaṇa. The owned first-vowel grades, two feminine affix routes and source accent records commute with typed PG14 specialization.
-
-PG724 · [The seventh Uṇādi suffix and the actor noun’s second gender](research/panini_grammar/unadi_seventh_suffix_and_nat_ac_gender/README.md). The rule keeps the seventh affix and the sound boundary independent of textual spelling, and adds 48 case positions and 50 readings for printed śaṇṭha and neuter naṭa. The alternative act-root history is admitted at its own precisely supported lexical scope.
-
-PG723 · [Named acts of seeing, customary duties and levies](research/panini_grammar/named_seeing_customary_entitlement_and_avakraya/README.md). The written operator tracks named denotation, customary support, gaṇa and ṛ-final routing, special deletion, and payment. Its 696 nominal positions and 725 readings retain the source-specific histories through typed zero specialization.
-
-PG722 · [Habitual conduct and the two pratipatha suffixes](research/panini_grammar/habitual_conduct_and_pratipatha_affix_policies/README.md). The two conduct and two path fibres carry 96 nominal positions and 150 readings. The two suffix-conditioned stems of pratipatha and the competing rules for adharma preserve their own typed histories after zero specialization.
-
-PG721 · [Running paths, distress calls and word members](research/panini_grammar/running_paths_distress_calls_and_word_members/README.md). The typed construction combines inner compound form, route or taking role, local ṭhak/ṭhañ choice, sound grade, accent and case. It contains 336 nominal positions and 348 readings and preserves role and accent histories at zero.
-
-PG720 · [Bhaṭṭi’s āghnāna and vidhyamāna](research/panini_grammar/bhatti_aghnaana_loci_and_vidhyamaana/README.md). Two participial constructors retain independent root, voice, argument and muk/grade histories. The two source contexts and surface-mood ambiguity specialize on the full PG14 carrier. 48 new nominal positions and 50 readings.
-
-PG719 · [Species names, the two matsya readings and paripantha](research/panini_grammar/species_taddhitas_matsya_and_paripantha/README.md). The 4.4.35–36 relation keeps semantic membership, named commentary exclusions, inner grade and school-specific suffix paths at their own history addresses. The selected case fibres have 312 positions and 350 readings with typed PG14 specialization.
-
-PG718 · [Gleaners, guardians, grammarians and assembly members](research/panini_grammar/gleaning_guardians_grammarians_and_joining/README.md). The derived 4.4.32–34 and 4.4.43–45 relations retain lexical role, inner sound grade, alternate affix and outer case identity. The typed PG14 proof covers the address-sensitive case fibres and controls. 312 new nominal positions with 350 readings.
-
-PG717 · [Hemacandra’s kīnāśa and two grain-ear roots](research/panini_grammar/haima_kinasa_kanisa_and_possessive_kanisa/README.md). The typed relation distinguishes vowel substitution, kit and the lexical grain-ear body. The same written output retains the four school-specific Yama histories and the distinct grain-ear mechanisms. The typed PG14 proof covers the full set of admitted interfaces. 168 new nominal keys and 175 readings. Wider gates remain Open.
-
-PG716 · [Censured giving, paired loan affixes and vārdhuṣi](research/panini_grammar/censured_lending_owned_suffixes_and_amara_controls/README.md). The actual 4.4.30–31 creditor, due amount and repayment roles precede suffix selection. The selected vṛdhuṣi substitution and independent lexical entry preserve distinct histories through the same case outputs. The stage lifts them into the complete PG14 history carrier.
-
-PG715 · [Vedic kṛtha, kṛta and the remedy plurals](research/panini_grammar/vedic_kri_root_present_aorist_and_remedy_plurals/README.md). The Vedic root-present, three root-aorist requests and the curādi affliction request use distinct augment, marker and inflection addresses. A separate source-qualified nominal relation retains short-i case analogies and the āmayati homograph under typed PG14 specialization.
-
-PG714 · [Instrument and manner under vartate](research/panini_grammar/vartate_instrument_manner_and_pari_taddhita/README.md). The eleven selected ṭhak fibres preserve separate instrumental/manner grades, inner ap/loman and peri-compound owners, and the two source-specific pari histories under a common surface. Entrywise augmentation commutes with the complete PG14 operator diagram.
-
-PG713 · [Two Uṇādi prints and the ḍit derivation of naṭa](research/panini_grammar/unadi_4104_contiguous_text_and_nata_dit_ata/README.md). Two printed contexts disambiguate the joined affix string and show ḍit-controlled lopa before sounded aṭa. The typed PG14 extension preserves the two independent root/affix possibilities and the selected naṭa case fibre.
-
-PG712 · [Vedic sthana and the source-licensed plural patatriṇīḥ](research/panini_grammar/vedic_sthana_endings_and_patrin_nominative/README.md). Two source-tagged ending substitutions descend through PG14 while preserving original laṭ tha and imperative ta. The separate long-ī nominal fibre recovers the same analyzed feminine plural and evidence at zero.
-
-PG711 · [Vedic babdhām, the strong bhas control and separated upa–ghrā](research/panini_grammar/vedic_bhas_babdham_and_split_upa_ghra/README.md). Four finite keys use the full PG14 carrier with copied versus original vowel identity, conditioned s-lopa, term-specific accent and an independently owned intervening accusative under Vedic upa.
-
-PG710 · [Vedic rāti as gift, giver and giving instrument](research/panini_grammar/vedic_rati_donor_gift_and_nanj_policies/README.md). The typed relation separates ktiN and ktiC, the giver and gift argument structures, the mantra and c-it accent owners, and the two licensed nañ compounds before the common readout.
-
-PG709 · [The Vedic rite-maker and maternal remedy under retained or deleted n](research/panini_grammar/vedic_nis_kr_maker_and_maternal_remedy/README.md). Two addressed nominal fibres preserve owned prefix-loss, stem and sup events with distinct ritual bearers, recensional readouts and typed PG14 recovery. The current witness explains n-loss without importing the siC or root-s loss of PG708.
-
-PG708 · [The printed dhi ca debate, pada boundary and Vedic sagdhiḥ](research/panini_grammar/dhi_ca_printed_debate_pada_boundary_and_sagdhi/README.md). The same-pada guard and the question whether jaś sees the deleted root vowel have different, explicit readout addresses. PG14 specialization preserves both views and the recorded s owners.
-
-PG707 · [Vedic stoṣam and the Aśvins’ dual aorists](research/panini_grammar/vedic_stosam_and_ashvin_dual_aorist_owners/README.md). The same surface remains addressable by separate historical root and mood claims. Typed specialization preserves the attestation, ownership, Open grade and precise accent or contact grades.
-
-PG706 · [Two printed Kāśikā witnesses for anadyatana laṅ](research/panini_grammar/anadyatana_two_printed_kasika_prescriptions/README.md). The witness grade carries edition, article address and direct or reported evidence through the PG14 specialization. The existing temporal and root histories retain their typed interfaces with zero word recredit.
-
-PG705 · [Second-singular tāriṣaḥ and the Anumati and donor witnesses](research/panini_grammar/vedic_let_tarisah_two_sip_addresses_and_paippalada/README.md). Specialization retains the dual siP ownership, final consonant and clause-boundary operators. All source histories share one finite reading and preserve their distinct grades and attachments.
-
-PG704 · [Two grade histories for tāriṣat and the no-siP patāti control](research/panini_grammar/vedic_let_tarisat_marker_grade_and_patati_control/README.md). Retained marker identity distinguishes long root grade from vowel contact. Specialization keeps four operative histories, the attested t and commentarial d distinction, and the readout quotient by finite word.
-
-PG703 · [Two source-qualified Vedic leṭ predicates](research/panini_grammar/vedic_let_vyath_jus_owned_sip_and_hi_accent/README.md). The sounded iṭ, pedagogical siP i and finite tiP i have separate owners. Source-conditioned cuts retain pada, actual tone and suffix spelling.
-
-PG702 · [Vedic nipātana, owned suffixes and the vasā offering parallel](research/panini_grammar/vedic_nipatana_kai_isyai_ke_and_yajurveda_parallel/README.md). Typed root-owned ā-lopa, optional root substitution and two external vowel contacts preserve distinct native histories across actual Vedic recensions.
-
-PG701 · [Typed marker alternatives and verse-tone recovery](research/panini_grammar/vedic_se_adhyai_owned_markers_and_recensional_witnesses/README.md). The PG14 history projection preserves convergent suffix paths, supplied stem types, received tone, source admissions and the separate boundary of the following pada.
-
-PG700: [Grade and accent owners in Vedic tumartha](research/panini_grammar/vedic_tumartha_marker_grade_and_direct_accent/README.md). Typed recovery keeps source-specific marker and history events, two simultaneous vowel tones, and the distinct status of received and derived accent.
-
-PG699: [Mixture overrides and typed affix deletion](research/panini_grammar/curna_lavana_mudga_mixture_overrides/README.md). Zero specialization keeps a witnessed possessive alternative, the silent suffix’s deletion cause and blocked grade, head agreement and the separate aṇ history.
-
-PG698: [Typed curd-role, case and seasoning histories](research/panini_grammar/dadhi_locative_and_seasoning_roles/README.md). Ordered specialization preserves distinct instruments and substratum, original taddhita ownership, the gender and case projections, and the exact Aruṇadatta clause and word contact.
-
-PG697: [Debt nominal and source-specific borrowing roles](research/panini_grammar/atharva_exchange_absolutive_and_debt_sources/README.md). Typed specialization preserves the witnessed absolutive order, editorial and recensional choices, noun case and exact utterance contacts.
-
-PG696: [Owned suffix and accent transfer in trima-formations](research/panini_grammar/ktri_map_imap_and_shaakala_kritrima/README.md). Typed specialization retains the different i owners, and the Śākala accented form keeps the distinct śi, num and temporary case-owned nasal history.
-
-PG695: [Source-qualified result scope and the independent short lexical adjective](research/panini_grammar/aksadyutadi_nirvrtta_and_attested_gatanugatika/README.md). Typed zero-specialization preserves the two source membership registers, outcome/means separation, whole-member grade and the precise literary case/junction records.
-
-PG694: [Aṇ, competing hunting roles and the stage locative](research/panini_grammar/kutilika_an_roles_and_owned_gender/README.md). Typed zero-specialization preserves the means, actor and target, base-owned ik, aṇ and ṅīp owners, and the case boundary in kuṭilikāntare.
-
-PG693: [Convergent conveyance affix histories and an attested feminine](research/panini_grammar/vivadha_vivadha_owned_conveyance/README.md). The typed word and witness histories distinguish the ṭhak grade, ṣṭhan and ṭhak feminine owners, and the possible readings of Rājataraṅgiṇī 6.308 before the surface quotient.
-
-PG692: [Locative load compounds and the scoped conveyance taddhita](research/panini_grammar/bhastradi_head_shoulder_aluk_and_owned_taddhita/README.md). Typed zero-specialization separately preserves the source membership, locative ending, supporting instrumental and final sup/num/nuṭ history.
-
-PG691: [Precursor aṭac and the bharaṭika/ī derivative](research/panini_grammar/bharata_atac_and_bhastradi_sthan_owned_cases/README.md). The typed product retains the root, the taddhita marker used by the feminine selector, and both independently elided final vowels.
-
-PG690: [Joined two-hetu sam–gam with a patient controller](research/panini_grammar/sam_gam_joined_nested_patient_passive_ten_lakara/README.md). Typed specialization preserves both instrumental agents, scoped agreement, the corrected passive affix owners and the correlated perfect policy across the joined prefix cut.
-
-PG689: [Complete selected joined sam–gam two-hetu active grid](research/panini_grammar/sam_gam_joined_nested_active_ten_lakara_completion/README.md). The factored typed lift retains each body receiver and original ending. The outer prefix and the perfect's auxiliary junction remain independent owned edges.
-
-PG688: [Nested gam passive blessing and aorist ownership repair](research/panini_grammar/nested_gam_passive_blessing_aorist_owner_reconciliation/README.md). Typed zero recovery preserves query-specific ciṇvat iṭ visibility, separate ciṇ i and ta-luk, root-grade ownership and the updated 2pl query.
-
-PG687: [Nested gam blessing ownership correction and joined panel](research/panini_grammar/nested_gam_active_benedictive_owner_correction_and_joined_panel/README.md). Typed recovery preserves both inducing events while computing the surviving vowels from two distinct lopa and iṭ queries. The counted joined words use corrected H2-only ay in active A.
-
-PG686: [Joined sam–gam caṅ outer-result A](research/panini_grammar/sam_gam_joined_cang_outer_result_middle/README.md). The typed zero square preserves the immediate base for the 1.3.88 query, the E2 result and cue for 1.3.74/77, and the distinct secondary endings of the A3sg/P2pl homograph.
-
-PG685: [Complete selected sam–gam san active grid](research/panini_grammar/sam_gam_san_blessing_aorist_perfect_completion/README.md). Typed specialization preserves primary word status before the inner iṭ query. The original middle entitlement and the auxiliary's liṭ history have separate owners.
-
-PG684: [Direct Paippalāda gam clauses and retained ayam](research/panini_grammar/paippalada_cang_roles_and_ayam_parallel/README.md). Clause operators retain recension, address, role/case, grammatical person and vowel ownership through typed zero specialization. The Paippalāda text has separate accent obligations.
-
-PG683: [Sam–gam san companion and destination panels](research/panini_grammar/sam_gam_san_companion_and_destination_panels/README.md). Typed zero specialization carries the role guard into the san-iṭ query and keeps the prefix and root nasals and two iṭ sites separate.
-
-PG682: [Bare gam in the Śaunaka rice-dish hymn](research/panini_grammar/shaunaka_odana_bare_gam_and_instrument_roles/README.md). PG14 zero recovery keeps role, instrument number and source policy through the caṅ readout. The causal-motion and attainment histories share a spelling and retain distinct semantics.
-
-PG681: [Śaunaka vowel absorption and the scope of ayam](research/panini_grammar/shaunaka_o_a_absorption_and_ayam_scope/README.md). Typed junction operators preserve both incident vowel owners in a single substitute, and the accent guard reads the ordered result. Five addressed source-qualified contacts and two tone readouts recover at zero with their source policies.
-
-PG680: [Śaunaka sam–gam attestation and contextual accent](research/panini_grammar/shaunaka_sam_gam_attestation_and_owned_accent/README.md). The PG14 l…100 tokens truncated…(papers/rkf_completed_weil_endpoint/development/SE19_SE18_AUDIT.md)
-withdraws its inferred eta_pw>=0.58938/tightness and its finite-stage
-max-only local-to-global conclusion. The audit repairs the slope proof,
-auxiliary-row limit, pole polynomial and exterior majorant, and restores
-SE15's mixed localization terms and physical local tolerance. The
-qualitative cofinal core-density limit is valid but supplies no individual
-finite-aperture global certificate. The earlier
-[scope](papers/rkf_completed_weil_endpoint/development/SE18_SCOPE.md) and
-[source record](papers/rkf_completed_weil_endpoint/development/SE18_SOURCE_RECORD.md)
+PG750 · [Intended material, sufficient capacity and the leather strap](research/panini_grammar/intended_material_sufficient_capacity_and_leather_strap/R…6213 tokens truncated…/SE18_SOURCE_RECORD.md)
 must be read with these corrections; their historical status labels
 do not override the later audit.
 

@@ -1,0 +1,56 @@
+{
+  "project_dependencies": [
+    {
+      "commit": "9199b1e2dec92c10f4ae480c11d82bd11e05dd05",
+      "path": "research/panini_grammar/two_masculine_a_stem_vocative_panels/STATE.json",
+      "git_blob_sha": "2d53d9ad1faf7c792d30b41243af5b43af0db825",
+      "bytes": 1650,
+      "sha256": "2700bf3033e935d80039f031e38bc32068a01a6fba0c13d92d4eb9e500964d47",
+      "use": "PG884 cumulative baseline and protected register"
+    },
+    {
+      "commit": "d8ff2bdebd21fc27ddec12f4bcb189ddf1dff6ed",
+      "path": "research/panini_grammar/ubhaya_complete_nonvocative_paradigm/CASE_PANELS.tsv",
+      "git_blob_sha": "695fe69d21fba44edabf93935d2500e0cc034b5b",
+      "bytes": 1477,
+      "sha256": "3d52c27f9e5ec5768d1f342e1acf0211a8ca550680318176fb6d7cc192311442",
+      "use": "PG821 exact M/F/N number and first-case ending controls"
+    },
+    {
+      "commit": "d8ff2bdebd21fc27ddec12f4bcb189ddf1dff6ed",
+      "path": "research/panini_grammar/ubhaya_complete_nonvocative_paradigm/STATE.json",
+      "git_blob_sha": "429fc4f165030be2d17d118f7cb8d4617803e394",
+      "bytes": 1870,
+      "sha256": "886aff390a92a13c7994694db571343f5d53f5e547f9eb9328128a6778e07b53",
+      "use": "PG821 closure boundary and explicit vocative obligation"
+    },
+    {
+      "commit": "c86489ff490c96d69c82863b118038bc0e6f158a",
+      "path": "research/panini_grammar/other_pronoun_and_eka_vocative_panels/DERIVATION_AND_NATIVE_RECOVERY.md",
+      "git_blob_sha": "da725d9d08ecf731e72e2ae26e5f81eed0acc3e3",
+      "bytes": 5819,
+      "sha256": "638791298d98be68aa0d2eaad45795ea23b18310751748fa2283fdf980e0892d",
+      "use": "Reviewed 2.3.47/49 address adapter, M/F singular paths and N am versus adḍ distinction"
+    },
+    {
+      "commit": "10c6c94401d4ff3178bc4738469ce8d63087cc02",
+      "path": "research/panini_grammar/grammar_construction/NATIVE_OPERATOR_LIFT.md",
+      "git_blob_sha": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+      "bytes": 11855,
+      "sha256": "f52e7f5cf539ef56859b890669ef738848491e4005e73be75baa49c899b5dafd",
+      "use": "PG14 full operator/history carrier and typed zero specialization"
+    }
+  ],
+  "source_fields_reused_without_new_observation_credit": [
+    {
+      "rules": "5.2.44 and 1.1.27",
+      "reason": "PG789/PG821 already own the exact ubhaya whole, sense, class and accepted analyses."
+    },
+    {
+      "rules": "2.3.47, 2.3.49, 6.1.69, 6.1.88, 7.1.17-20, 7.1.24, 7.1.72, 7.3.106 and 6.4.8",
+      "reason": "PG880-PG884 review the address channels and PG821 owns the corresponding first-case outputs; PG885 adds only the previously open vocative requests."
+    }
+  ],
+  "source_observations_new": 0,
+  "source_policy_decisions_new": 2
+}
