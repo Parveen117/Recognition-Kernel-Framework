@@ -1,4 +1,6 @@
-# Written-development backlog at PG873
+# Written-development backlog at PG874
+
+PG874 · [The Grantha witness to the disputed command and the Paṭṭaṇa case readings](grantha_witness_to_the_disputed_command_and_pattana_case_readings/README.md). Closed the 1874 print and two bounded apparatus comparisons. S1 still requires a named manuscript and a mood for the separate reading. P’s instrumental and nominative attachments, C2–C5 and inherited S2–S7 remain open. Claude retains execution.
 
 PG873 · [Rāmacandra’s Subodhinī and the choice of Daśaratha](ramacandras_subodhini_and_the_choice_of_dasaratha/README.md). The 2777 opening and closing excerpts and the upa-gam schedule are closed. The missing VII.103 folio and the unprinted answer at I.1 retain independent evidence requirements. Remaining C2–C5, S1–S7 and Claude’s execution stay separate.
 

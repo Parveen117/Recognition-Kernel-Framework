@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG874 · [The Grantha witness to the disputed command and the Paṭṭaṇa case readings](research/panini_grammar/grantha_witness_to_the_disputed_command_and_pattana_case_readings/README.md). Witness and token-span projections retain the named governor on the base grade and its loss on the Paṭṭaṇa branch.
+
 PG873 · [Rāmacandra’s Subodhinī and the choice of Daśaratha](research/panini_grammar/ramacandras_subodhini_and_the_choice_of_dasaratha/README.md). General-past and narrative-viewpoint histories distinguish aorist formation, commentator objection and citation boundary.
 
 PG872 · [Hanumān recognises Sītā and begins Rāma’s story](research/panini_grammar/hanuman_recognises_sita_and_begins_ramas_story/README.md). Eight clause relations and one finite schedule retain the two augment sites and independently licensed case choices.

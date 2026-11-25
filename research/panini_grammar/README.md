@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG874 · [The Grantha witness to the disputed command and the Paṭṭaṇa case readings](grantha_witness_to_the_disputed_command_and_pattana_case_readings/README.md). Grantha canvas 237 and the Paṭṭaṇa apparatus preserve three distinct reports of the command and two new case comparisons.
+
 PG873 · [Rāmacandra’s Subodhinī and the choice of Daśaratha](ramacandras_subodhini_and_the_choice_of_dasaratha/README.md). The opening stanza assigns the two aorists to different agents and different cli histories.
 
 PG872 · [Hanumān recognises Sītā and begins Rāma’s story](hanuman_recognises_sita_and_begins_ramas_story/README.md). Two acts of cognition allocate different roles to Sītā. The prefixed aorist retains both augment owners and the stop before Rāma’s name.

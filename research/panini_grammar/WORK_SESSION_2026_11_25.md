@@ -1,5 +1,7 @@
 # Written Pāṇini work session · 2026-11-25
 
+PG874 · [The Grantha witness to the disputed command and the Paṭṭaṇa case readings](grantha_witness_to_the_disputed_command_and_pattana_case_readings/README.md). Parent 4bfa6fcc72c35922c16f6d051d36bc6dd905054d. Ten source decisions and two syntax constructions at four interfaces. Zero new finite or nominal positions or readings.
+
 PG873 · [Rāmacandra’s Subodhinī and the choice of Daśaratha](ramacandras_subodhini_and_the_choice_of_dasaratha/README.md). Parent ff0d1508ed553b661e3972f2c358d4770e36d775. Nine new finite positions/ten readings, one morphology construction/nine interfaces, three syntax constructions/six interfaces, nine source decisions. No nominal increment.
 
 PG872 · [Hanumān recognises Sītā and begins Rāma’s story](hanuman_recognises_sita_and_begins_ramas_story/README.md). Parent 17231974fbf6ed1c30aebfba961381abdf2f8bac. Nine new finite positions/ten readings, one morphology construction/nine interfaces, eight syntax constructions/16 interfaces, nine source decisions. No nominal increment.

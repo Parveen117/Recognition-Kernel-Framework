@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG873
+# Pāṇini grammar · current written coverage at PG874
+
+PG874 · [The Grantha witness to the disputed command and the Paṭṭaṇa case readings](grantha_witness_to_the_disputed_command_and_pattana_case_readings/README.md). The 1874 Grantha print attests the separate command on canvas 237. Paṭṭaṇa readings change the case evidence in VIII.109–110. Census 52,513 finite and 25,661 nominal positions, 29,301 nominal readings.
 
 PG873 · [Rāmacandra’s Subodhinī and the choice of Daśaratha](ramacandras_subodhini_and_the_choice_of_dasaratha/README.md). The second Subodhinī is identified in Mitra 2777. Nine new finite positions and ten readings. Census 52,513 finite, 25,661 nominal positions and 29,301 nominal readings.
 

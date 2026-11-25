@@ -1,0 +1,100 @@
+{
+  "stage": "PG874",
+  "publication_parent": "4bfa6fcc72c35922c16f6d051d36bc6dd905054d",
+  "baseline": "../ramacandras_subodhini_and_the_choice_of_dasaratha/STATE.json",
+  "finite_positions": 52513,
+  "nominal_positions": 25661,
+  "nominal_readings": 29301,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 0,
+  "new_morphology_constructions": 0,
+  "new_morphology_interfaces": 0,
+  "source_decisions": [
+    "GRANTHA_VERSE_AND_GATHERING_LOCUS",
+    "GRANTHA_SUBODHINI_JOINED_PROHIBITION",
+    "GRANTHA_SEPARATE_KVACIT_AND_MIDDLE_OBJECTION",
+    "SOUTHERN_PRINT_AND_MANUSCRIPT_INPUTS",
+    "P_SIGLUM_AND_EXTENT",
+    "P_SMA_AT_VII_102",
+    "P_SINGULAR_BED",
+    "P_YUGMAKAM",
+    "P_WATER_AND_DEIXIS",
+    "P_PAIRED_NOMINATIVES"
+  ],
+  "sources": {
+    "repository_blobs": {
+      "ramacandras_subodhini_and_the_choice_of_dasaratha/STATE.json": "76da3f2e9bb4a322e892a7f1bd091b9cf9b75ef2",
+      "mallinathas_bhatti_variant_and_yam_in_disclosure/README.md": "67397da514380ad71bebc1f7db1958c1de5d6cb2",
+      "budh_in_an_exhortation_and_a_prohibition/README.md": "30de19ccda6e65f9564730dbcc4d50d0e674dfc0",
+      "sitas_waist_and_the_raksasis_departure/README.md": "d8ceacf9a5ffad0ab5fadd8f2f657233c2bab7e3",
+      "hanuman_recognises_sita_and_begins_ramas_story/README.md": "444c24c538e214be4237de8d6ae73379af00e33b",
+      "kumudanandas_subodhini_and_the_two_sides_of_the_ocean/README.md": "d3491d61ca85e2c616dd62950a6c9f83c3a56f85",
+      "grammar_construction/NATIVE_OPERATOR_LIFT.md": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b"
+    },
+    "grantha": {
+      "shelfmark": "EAP918/10/91",
+      "title": "Paṭṭikāviyam",
+      "year": 1874,
+      "holding": "Roja Muthiah Research Library, Chennai",
+      "canvases": [
+        237,
+        238
+      ],
+      "sha256": {
+        "https://eap.bl.uk/archive-file/EAP918-10-91/manifest": "1cdbb1dcd0a6a40430d5142d49799b82fb4790ab77837c6869453d39515920e7",
+        "https://images.eap.bl.uk/EAP918/EAP918_10_91/237.jp2/full/1250,/0/default.jpg": "b83bfbb0b00a774177ed8635dad502641fe0abcc5c7ade576b16552230c233dc",
+        "https://images.eap.bl.uk/EAP918/EAP918_10_91/238.jp2/full/1250,/0/default.jpg": "ee6bbf623f02ca926532608ed834ceb54b58d05ab849fe399379cbbc790f15f3",
+        "https://images.eap.bl.uk/EAP918/EAP918_10_91/237.jp2/410,2430,2080,800/1150,/0/default.jpg": "ec3bcfb17b984e510dc42ad1564a53b24864180a6d8a22af4888cb7124fb1c53",
+        "https://images.eap.bl.uk/EAP918/EAP918_10_91/238.jp2/1430,370,1880,1040/1150,/0/default.jpg": "2671401ebd19942057bc7b416d0acd05001c331dc7359d86aa11e6a1070a2bf2"
+      }
+    },
+    "trivedi": {
+      "item": "BhattikavyaWithTheCommentaryOfMallinathaPart1CantosI-ix",
+      "file": "Bhatti-kavyaOrRavanavadhaVol.1Cantos1.pdf",
+      "sha256": "cc1e25fa4643d7528979dc01f9b1d9cb466fa1ff4ce5c29032f6e5e848493693",
+      "printed": [
+        "Critical Notice vi",
+        "VII.103 p. 253",
+        "Appendix pp. 153–154"
+      ],
+      "archive_leaves": [
+        14,
+        295,
+        551,
+        552
+      ]
+    },
+    "gretil": {
+      "file": "bhattiku.htm",
+      "sha256": "3b4e0876703db37e0d07bafa13aba8bd137105d19f212c24073a4197ceeff167",
+      "keys": [
+        "Bhk_7.101",
+        "Bhk_8.101",
+        "Bhk_8.102",
+        "Bhk_8.103",
+        "Bhk_8.109",
+        "Bhk_8.110"
+      ]
+    }
+  },
+  "execution": "Claude-deferred",
+  "new_syntax_constructions": 2,
+  "new_syntax_interfaces": 4,
+  "clause_comparisons": {
+    "absence of the vinā governor": {
+      "base": "vainateyena vā vinā",
+      "P": "vāriṇā for vā vinā"
+    },
+    "agreement in the encounter": {
+      "base": "cintāvatīṃ ... muktāṃ",
+      "P": "cintāvatī ... muktā"
+    }
+  },
+  "source_open": [
+    "S1 named manuscript and independent mood for the separate quote",
+    "S1 attribution of the joined reading to a specific Subodhinī",
+    "P VIII.109 instrumental attachment and VIII.110 nominative attachment"
+  ]
+}
