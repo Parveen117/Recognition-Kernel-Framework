@@ -1,4 +1,6 @@
-# Written-development backlog at PG861
+# Written-development backlog at PG862
+
+PG862 · [A turn to sleep and the sages who ask about sleep in Raghuvaṃśa 10.14](the_turn_to_sleep_and_the_sages_who_inquire_after_sleep/README.md). Three masculine schedules closed. Ordinary short-vowel nouns, the Nyāsa reading, other C2–C5 and S1–S7 domains and Claude execution retain distinct entries.
 
 PG861 · [The active persons of repeated sleep and the three Vedic controls for īṭ](the_remaining_active_persons_of_repeated_sleep_and_three_vedic_controls/README.md). All nine unprefixed active yaṅ-luk present cells are closed on the stated domain. Further categories and prefixed senses, C2–C5 and S1–S7 remain open.
 

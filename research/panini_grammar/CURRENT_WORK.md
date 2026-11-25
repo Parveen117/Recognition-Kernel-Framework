@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG861
+# Pāṇini grammar · current written coverage at PG862
+
+PG862 · [A turn to sleep and the sages who ask about sleep in Raghuvaṃśa 10.14](the_turn_to_sleep_and_the_sages_who_inquire_after_sleep/README.md). Three masculine heads add 69 nominal positions and 72 readings. Census 52,465 finite, 25,329 nominal positions and 28,935 nominal readings.
 
 PG861 · [The active persons of repeated sleep and the three Vedic controls for īṭ](the_remaining_active_persons_of_repeated_sleep_and_three_vedic_controls/README.md). Six new finite positions and eight readings close the selected active intensive present. Census 52,465 finite, 25,260 nominal and 28,863 nominal readings.
 

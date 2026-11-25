@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG862 · [A turn to sleep and the sages who ask about sleep in Raghuvaṃśa 10.14](the_turn_to_sleep_and_the_sages_who_inquire_after_sleep/README.md). Kāśikā, Nyāsa, Padamañjarī and Mādhavīya on taking turns, then Mallinātha and Śrīvallabha on the person who asks after sleep.
+
 PG861 · [The active persons of repeated sleep and the three Vedic controls for īṭ](the_remaining_active_persons_of_repeated_sleep_and_three_vedic_controls/README.md). The optional long augment at the first and second singular, four weak forms, and the drum, bull and wheel in three cited verses.
 
 PG860 · [The December 2018 API exports at dhi ca and anadyatane laṅ](december_2018_api_exports_at_dhi_ca_and_anadyatana/README.md). Two independent dates for the misplaced commentary fields and a pre-bulk-edit witness for laṅ at 3.2.111.

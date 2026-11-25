@@ -1,0 +1,119 @@
+{
+  "stage": "PG862",
+  "publication_parent": "f180b1b7900c41f99183b1bc1ef75c0feb380878",
+  "baseline": "../the_remaining_active_persons_of_repeated_sleep_and_three_vedic_controls/STATE.json",
+  "finite_positions": 52465,
+  "nominal_positions": 25329,
+  "nominal_readings": 28935,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 69,
+  "new_nominal_readings": 72,
+  "new_morphology_constructions": 3,
+  "new_morphology_interfaces": 72,
+  "source_decisions": [
+    "INHERITED_SUCCESSION_AND_RESTATED_TURN_DIFFER",
+    "HARADATTA_NAMES_INUN_AND_NYASA_HAS_PARIMANA",
+    "TWO_SHORT_NOUNS_HAVE_DISTINCT_GLOSSES",
+    "KING_AND_TURN_HOLDER_HAVE_DISTINCT_ROLES",
+    "PERVASIVE_TURN_RETAINS_GHAN_IN_PRINT",
+    "SAGES_ASK_WHILE_VISHNU_FAVOURS_THEM",
+    "THAK_AND_HAIMA_IKAN_RETAIN_SEPARATE_HISTORIES",
+    "PRINT_ESTABLISHES_INTACT_ACCUSATIVE_PLURAL"
+  ],
+  "sources": {
+    "commentaries": {
+      "kashika": {
+        "repository": "ashtadhyayi-com/data",
+        "commit": "db9a7f1dba06159e6bcd6efb92c9d01857939947",
+        "path": "sutraani/kashika.txt",
+        "blob": "33aee69f03d8c88d8406875c82b5d0fb1bec9b7d",
+        "keys": [
+          "33038",
+          "33039",
+          "33044",
+          "33056",
+          "44001",
+          "61078",
+          "72115",
+          "73020",
+          "73050"
+        ]
+      },
+      "balamanorama": {
+        "repository": "ashtadhyayi-com/data",
+        "commit": "db9a7f1dba06159e6bcd6efb92c9d01857939947",
+        "path": "sutraani/balamanorama.txt",
+        "blob": "c4002fade0835db7534ff582fe94a20e4ebb54f4",
+        "keys": [
+          "73007"
+        ]
+      },
+      "nyaas": {
+        "repository": "ashtadhyayi-com/data",
+        "commit": "db9a7f1dba06159e6bcd6efb92c9d01857939947",
+        "path": "sutraani/nyaas.txt",
+        "blob": "4b6d4c83de3f2bc776958c6798118f7fa102b894",
+        "keys": [
+          "33039"
+        ]
+      },
+      "padamanjari": {
+        "repository": "ashtadhyayi-com/data",
+        "commit": "db9a7f1dba06159e6bcd6efb92c9d01857939947",
+        "path": "sutraani/padamanjari.txt",
+        "blob": "0d926503e6f22d6375c6f2fabb247d1606742258",
+        "keys": [
+          "33039"
+        ]
+      }
+    },
+    "madhaviya_print": {
+      "item": "qVcq_madhaviya-dhatu-vritti-by-sayana-acharya-edited-by-swami-dwarika-das-shastri-198",
+      "leaf": 395,
+      "printed_page": 340,
+      "jp2_sha256": "24a5a68a920a61d1fffe07de17d21decda9a914cd3b660f85a37f3ff4b1cf611"
+    },
+    "madhaviya_transcription": {
+      "commit": "1ec51dc4cbfecf271e4f3cb0bba41f25b5921572",
+      "path": "dhaatupaatha/files/madhaviya_XAwuvqwwi_new.xml",
+      "git_blob": "d14a4235af32a9256615e263b4589e61c9ce25e7",
+      "sha256": "4562749571a7efe3b474b1c68f821cfc7271b07893e753ffc66e2fc7a4a79e76",
+      "entry_id": 682,
+      "number": 1000
+    },
+    "kale": {
+      "url": "https://www.rarebooksocietyofindia.org/book_archive/196174216674_10153503361866675.pdf",
+      "sha256": "c5d90ebd6e2c50441dcce0c7db9dba8c8c068b5bb6af572bd253f8ac52d2df4e",
+      "pdf_pages": [
+        279,
+        379
+      ]
+    },
+    "gretil": {
+      "url": "https://github.com/tylergneill/gretil-mirror/blob/3aa1e84b266bb9a89b55b3dff479658773d37c9c/gretil/1_sanskr/5_poetry/2_kavya/kragh_au.htm",
+      "blob": "79f22c22f8b2462beb72a0243ea1316aaf8664e9",
+      "verses": [
+        "10.7",
+        "10.14"
+      ]
+    },
+    "srivallabha": {
+      "url": "https://sanskrit.uohyd.ac.in/scl/kosha_concordance/haimanamamalashilonchadipika_shrivallabha/conc/haimanamamalashilonchadipika.html",
+      "anchor": "2414",
+      "sha256": "fd24cc43a9a0ac14492fb4cfaa123b92d25c2b0e3efd54ebe61eead8a8826af6"
+    },
+    "repository_blobs": {
+      "krt_temporal_relations/RULES_C1.md": "48612e05d111b1583562728e4dc5f58871b9c46f",
+      "krt_temporal_relations/SOURCE_EXCERPTS.json": "e643ab85689e0805320565c5fb2c9f78dc609234",
+      "taddhita_functional/SOURCE_EXCERPTS.json": "31e85bd9fb220839f9162864d7040369e4c1e276",
+      "anga_affix_abhyasa/SOURCE_EXCERPTS.json": "5deccfa3a413c5721d902714f4c3de35891cadae",
+      "rudra_on_the_mountain_and_kalidasa_two_quoted_cases/README.md": "db32c1e4949ad247f134ea8e2b793f50923737a4",
+      "grammar_construction/NATIVE_OPERATOR_LIFT.md": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+      "the_remaining_active_persons_of_repeated_sleep_and_three_vedic_controls/STATE.json": "3a65445da4d2930e78a9db8f8a6877eced121039"
+    }
+  },
+  "execution": "Claude-deferred",
+  "new_syntax_constructions": 2,
+  "new_syntax_interfaces": 5
+}

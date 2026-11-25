@@ -1,5 +1,7 @@
 # Written Pāṇini work session · 2026-11-25
 
+PG862 · [A turn to sleep and the sages who ask about sleep in Raghuvaṃśa 10.14](the_turn_to_sleep_and_the_sages_who_inquire_after_sleep/README.md). Parent f180b1b7900c41f99183b1bc1ef75c0feb380878. Eight source decisions, three nominal constructions at 72 interfaces, two syntax constructions at five interfaces. Three old citation positions reserved.
+
 PG861 · [The active persons of repeated sleep and the three Vedic controls for īṭ](the_remaining_active_persons_of_repeated_sleep_and_three_vedic_controls/README.md). Parent 454056cecd50d08633d5cdfb756cf2210cffe17d. Five decisions, one morphology construction at six new positions, one syntax comparison across three verses. Three printed third persons and three earlier Vedic citations reserved.
 
 PG860 · [The December 2018 API exports at dhi ca and anadyatane laṅ](december_2018_api_exports_at_dhi_ca_and_anadyatana/README.md). Parent 0097367e950735f3f66e4eb0b6f9f48511aac0de. Eight source decisions, zero new inflection positions, readings or morphological constructions. Two December 2018 exports and the May 2020 fields collated.
