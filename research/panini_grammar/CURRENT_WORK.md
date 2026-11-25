@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG811
+# Pāṇini grammar · current written coverage at PG812
+
+PG812 · [Praise, incompletion, bahuc and class-nature](praise_incompletion_bahuc_and_class_nature/README.md). Constructs selected 5.3.66–69 praise, slight-incompletion, preposed-bahuc and type-bearer outputs. Census: 52,357 finite positions, 22,024 nominal positions and 24,963 nominal readings.
 
 PG811 · [Comparative, superlative and quality replacements](comparative_superlative_and_quality_replacements/README.md). Constructs selected 5.3.55–65 degree outputs with comparison domains, lexical replacements, lopa histories and equal-surface owners explicit. Census: 52,357 finite positions, 22,002 nominal positions and 24,941 nominal readings.
 

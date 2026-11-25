@@ -1,6 +1,8 @@
-# Written-development backlog at PG811
+# Written-development backlog at PG812
 
-Monty · 2026-11-25 · reviewed parent 90711a9201fdd6ab218471b7485c2cce4df43795. Historical closures below retain their exact pins.
+Monty · 2026-11-25 · reviewed parent f97aecf98d54121911c11a1832d6d4b7c37f2ac3. Historical closures below retain their exact pins.
+
+PG812 · [Praise, incompletion, bahuc and class-nature](praise_incompletion_bahuc_and_class_nature/README.md). Displayed 5.3.66–69 outputs, semantic distinctions, finite-versus-nominal input guards and controls are CLOSED. Wider lexical productivity, exact accent and full gender/number/case distribution remain genuine unconstructed or unresolved source work. Continue from 5.3.70. C2–C5 and S1–S7 remain Open; S5 is 99/103 and S6 retains the independent 5.56 k-it effect. Claude retains execution.
 
 PG811 · [Comparative, superlative and quality replacements](comparative_superlative_and_quality_replacements/README.md). Displayed 5.3.55–65 outputs, comparison domains, replacement owners, alternatives and controls are CLOSED. Full paradigms, exact accent, wider Vedic evidence, the complete quality lexicon and historical replacement priority remain genuine unconstructed or unresolved source work. Continue from 5.3.66. C2–C5 and S1–S7 remain Open; S5 is 99/103 and S6 retains the independent 5.56 k-it effect. Claude retains execution.
 

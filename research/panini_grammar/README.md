@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG812 · [Praise, incompletion, bahuc and class-nature](praise_incompletion_bahuc_and_class_nature/README.md). Constructs selected 5.3.66–69 outputs: 22 new nominal/derived positions and readings, four constructions/22 interfaces and four source decisions.
+
 PG811 · [Comparative, superlative and quality replacements](comparative_superlative_and_quality_replacements/README.md). Constructs selected 5.3.55–65 outputs: 46 new nominal/degree positions and 50 readings, eleven constructions/46 interfaces and eleven source decisions.
 
 PG810 · [Numeral manner, division, parts and former state](numeral_manner_division_part_and_former_state/README.md). Constructs selected 5.3.42–54 outputs: 38 new nominal/adverbial positions and 49 readings, thirteen constructions/38 interfaces and thirteen source decisions.

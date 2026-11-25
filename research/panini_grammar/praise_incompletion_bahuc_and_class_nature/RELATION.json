@@ -1,0 +1,21 @@
+{
+  "stage":"PG812",
+  "morphology_constructions":[
+    {"id":"PRAISE_RUPAP","rule":"5.3.66","interfaces":["VR66","YR66","RR66","CR66","DR66","P1R66","P2R66","P3R66"]},
+    {"id":"SLIGHT_INCOMPLETION","rule":"5.3.67","interfaces":["PK67","PD67","PY67","MK67","MD67","MY67","PCK67","JLK67"]},
+    {"id":"PREPOSED_BAHUC","rule":"5.3.68","interfaces":["BP68","BM68","BG68"],"alternative_links":["PG812:PK67","PG812:PD67","PG812:PY67","PG812:MK67","PG812:MD67","PG812:MY67"]},
+    {"id":"TYPE_BEARER_JATIYAR","rule":"5.3.69","interfaces":["PJ69","MJ69","DJ69"]}
+  ],
+  "nominal_positions":[
+    {"id":"VR66","readings":["vaiyākaraṇarūpaḥ [praised grammarian]"]},{"id":"YR66","readings":["yājñikarūpaḥ [praised sacrificer]"]},{"id":"RR66","readings":["vṛṣalarūpaḥ [role-relative praise]"]},{"id":"CR66","readings":["corarūpaḥ [accomplished thief]"]},{"id":"DR66","readings":["dasyurūpaḥ [accomplished robber]"]},{"id":"P1R66","readings":["pacatirūpam [finite 3sg base; N sg derived output]"]},{"id":"P2R66","readings":["pacatorūpam [finite 3du base; N sg derived output]"]},{"id":"P3R66","readings":["pacantirūpam [finite 3pl base; N sg derived output]"]},
+    {"id":"PK67","readings":["paṭukalpaḥ"]},{"id":"PD67","readings":["paṭudeśyaḥ"]},{"id":"PY67","readings":["paṭudeśīyaḥ"]},{"id":"MK67","readings":["mṛdukalpaḥ"]},{"id":"MD67","readings":["mṛdudeśyaḥ"]},{"id":"MY67","readings":["mṛdudeśīyaḥ"]},{"id":"PCK67","readings":["pacatikalpam [finite base]"]},{"id":"JLK67","readings":["jalpatikalpam [finite base]"]},
+    {"id":"BP68","readings":["bahupaṭuḥ [preposed bahuc]"]},{"id":"BM68","readings":["bahumṛduḥ [preposed bahuc]"]},{"id":"BG68","readings":["bahuguḍo drākṣā [preposed bahuc; source display]"]},
+    {"id":"PJ69","readings":["paṭujātīyaḥ"]},{"id":"MJ69","readings":["mṛdujātīyaḥ"]},{"id":"DJ69","readings":["darśanīyajātīyaḥ"]}
+  ],
+  "source_policy_decisions":[
+    {"id":"ROLE_RELATIVE_PRAISE","status":"Accepted","decision":"Treat praise as excellence in the base-denoted role, including negatively valued roles, without importing moral approval."},
+    {"id":"SLIGHT_INCOMPLETION","status":"Accepted","decision":"Keep kalpap, deśya and deśīyar as three suffix histories and admit only the displayed finite-base extensions."},
+    {"id":"BAHUC_DIRECTION","status":"Accepted/Excluded","decision":"Place bahuc before nominal inputs with its accent owner; exclude finite inputs and retain rule-67 suffixes as alternatives."},
+    {"id":"TYPE_VS_MANNER","status":"Accepted/Excluded","decision":"Use jātīyar for a type-bearer; keep bare manner under PG808 rule-23 thāl rather than collapsing the relations."}
+  ]
+}

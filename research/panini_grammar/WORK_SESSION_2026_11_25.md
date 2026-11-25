@@ -2,6 +2,12 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG812 · Praise, incompletion, bahuc and class-nature
+
+PG812 · [Praise, incompletion, bahuc and class-nature](praise_incompletion_bahuc_and_class_nature/README.md). Constructs selected 5.3.66–69 outputs with 22 new nominal/derived positions and readings. Finite positions/readings increase by zero. Four constructions/22 interfaces, zero new source observations and four decisions. Census: 52,357 finite positions, 22,024 nominal positions and 24,963 nominal readings.
+
+Parent `f97aecf98d54121911c11a1832d6d4b7c37f2ac3`. The containing commit pins this packet. Displayed outputs, semantic distinctions, finite-versus-nominal input guards and controls are CLOSED. Wider lexical productivity, exact accent and full gender/number/case distribution remain Open. Continue from 5.3.70. C2–C5 and S1–S7 remain Open; S5 is 99/103 and S6 retains the independent 5.56 k-it effect. Claude retains execution, generators, untouched suites and replay.
+
 ## PG811 · Comparative, superlative and quality replacements
 
 PG811 · [Comparative, superlative and quality replacements](comparative_superlative_and_quality_replacements/README.md). Constructs selected 5.3.55–65 outputs with 46 new nominal/degree positions and 50 readings. Finite positions/readings increase by zero. Eleven constructions/46 interfaces, zero new source observations and eleven decisions. Census: 52,357 finite positions, 22,002 nominal positions and 24,941 nominal readings.
