@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG884 · [Two masculine *a*-stem vocative panels](two_masculine_a_stem_vocative_panels/README.md). Address realization preserves the life-stage/collective and covering/agent distinctions without selecting unresolved inner affix histories or claiming direct attestation.
+
 PG883 · [Principal cardinal vocative panels](principal_cardinal_vocative_panels/README.md). The address adapter preserves `eka/dvi/tri/catur` lexical number and the distinct M/F/N first-case histories.
 
 PG882 · [*Nema* and *sama* vocative panels](nema_and_sama_vocative_panels/README.md). The three ordinary sense-panels keep pronominal status, `jas` optionality and equal-surface histories distinct while the unquoted Vedic `sima` series remains Open.

@@ -1,0 +1,33 @@
+{
+  "schema": "rkf.panini.pg884.relation.v1",
+  "input": {
+    "case": "vocative",
+    "gender": "M",
+    "numbers": ["sg", "du", "pl"],
+    "stems": [
+      {"lemma": "bhaikṣuka", "sense": "mendicant-life-stage", "affix_history": "Open"},
+      {"lemma": "tiraskāra", "sense": "iron-covering-instrument", "affix_history": "PG837 inherited"}
+    ]
+  },
+  "address_owner": "Kāśikā 2.3.47; singular sambuddhi under 2.3.49",
+  "accounting": {
+    "positions_new": 6,
+    "readings_new": 6,
+    "morphology_constructions": 2,
+    "morphology_interfaces": 6,
+    "address_case_constructions": 1,
+    "address_case_interfaces": 6,
+    "source_observations_new": 0,
+    "source_policy_decisions_new": 2
+  },
+  "decisions": [
+    "Construct the source-owned masculine stems under the reviewed three-number address adapter without claiming direct literary vocative attestation.",
+    "Preserve bhaikṣuka's inner affix/ellipsis as Open and tiraskāra's covering history as inherited rather than re-crediting either derivation."
+  ],
+  "open": [
+    "direct literary vocatives and accent",
+    "bhaikṣuka affix/ellipsis and tiraskāra critical history",
+    "other senses and genders",
+    "C2-C5 and S1-S7"
+  ]
+}

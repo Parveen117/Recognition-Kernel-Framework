@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG883
+# Pāṇini grammar · current written coverage at PG884
+
+PG884 · [Two masculine *a*-stem vocative panels](two_masculine_a_stem_vocative_panels/README.md). Six new nominal positions/readings close the constructed sg/du/pl masculine vocatives of `bhaikṣuka` in the life-stage sense and `tiraskāra` in the iron-covering sense. Direct literary attestation and the unresolved inner histories remain Open. Census 52,531 finite, 26,002 nominal and 29,651 nominal readings.
 
 PG883 · [Principal cardinal vocative panels](principal_cardinal_vocative_panels/README.md). 12 new nominal positions/readings close the selected ordinary M/F/N vocatives of principal `eka`, `dvi`, `tri` and `catur` at singular, dual, plural and plural respectively. Number, original sup and distinct feminine/neuter histories remain owned. Census 52,531 finite, 25,996 nominal and 29,645 nominal readings.
 

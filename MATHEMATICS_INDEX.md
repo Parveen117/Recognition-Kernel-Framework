@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG884 · [Two masculine *a*-stem vocative panels](research/panini_grammar/two_masculine_a_stem_vocative_panels/README.md). Lexical selection, address, singular selection and word realization commute with typed zero specialization while unresolved and incompatible sense/affix grades remain separate.
+
 PG883 · [Principal cardinal vocative panels](research/panini_grammar/principal_cardinal_vocative_panels/README.md). Address, lexical-number transport, singular selection and realization commute with typed zero specialization while preserving distinct `śī`, `num` and `ām` histories.
 
 PG882 · [*Nema* and *sama* vocative panels](research/panini_grammar/nema_and_sama_vocative_panels/README.md). Address, singular selection, sense/status policy and word realization commute with typed zero specialization; the `nema` M-plural two-arrow sum and the withheld `sima` grades remain recoverable.
