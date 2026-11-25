@@ -1,0 +1,54 @@
+{
+  "schema": "rkf.panini.pg816.relation.v1",
+  "input": {
+    "roots": null,
+    "preverbs": [],
+    "voice": null,
+    "case": "nominative",
+    "numbers": ["dual", "plural"],
+    "stems": {
+      "katara": ["kim", "ḍatarac"],
+      "katama": ["kim", "ḍatamac"],
+      "yatara": ["yad", "ḍatarac"],
+      "yatama": ["yad", "ḍatamac"],
+      "tatara": ["tad", "ḍatarac"],
+      "tatama": ["tad", "ḍatamac"]
+    },
+    "policies": {
+      "K_STRICT": "ḍatarac selects one member of two; ḍatamac selects one member of many in the qualified inquiry.",
+      "SK_BALA_REPORTED_BROAD": "Existing source-labelled broader determination policy inherited without a new witness or priority decision."
+    }
+  },
+  "semantic_contract": {
+    "name": "grouped-member number transport",
+    "dual": "The one selected member is itself a dual/group; number does not select two separate candidates.",
+    "plural": "The one selected member is itself a plural/group; number does not select several separate candidates.",
+    "flat_multiple_selection": "Flat selection of multiple comparison-set members is Excluded from this contract without positive source evidence."
+  },
+  "frames": [
+    {"stem":"katara","affix":"ḍatarac","number":"dual","member_frame":"grouped_member_dual"},
+    {"stem":"katara","affix":"ḍatarac","number":"plural","member_frame":"grouped_member_plural"},
+    {"stem":"katama","affix":"ḍatamac","number":"dual","member_frame":"grouped_member_dual"},
+    {"stem":"katama","affix":"ḍatamac","number":"plural","member_frame":"grouped_member_plural"},
+    {"stem":"yatara","affix":"ḍatarac","number":"dual","member_frame":"grouped_member_dual"},
+    {"stem":"yatara","affix":"ḍatarac","number":"plural","member_frame":"grouped_member_plural"},
+    {"stem":"yatama","affix":"ḍatamac","number":"dual","member_frame":"grouped_member_dual"},
+    {"stem":"yatama","affix":"ḍatamac","number":"plural","member_frame":"grouped_member_plural"},
+    {"stem":"tatara","affix":"ḍatarac","number":"dual","member_frame":"grouped_member_dual"},
+    {"stem":"tatara","affix":"ḍatarac","number":"plural","member_frame":"grouped_member_plural"},
+    {"stem":"tatama","affix":"ḍatamac","number":"dual","member_frame":"grouped_member_dual"},
+    {"stem":"tatama","affix":"ḍatamac","number":"plural","member_frame":"grouped_member_plural"}
+  ],
+  "morphology": {
+    "adapter": "nominative dual/plural gender-owned ending realization",
+    "interfaces": 36,
+    "literal_ledger": "NOMINAL_FORMS.tsv",
+    "shared_surface_guard": "M plural, F dual and N dual -e retain different original endings/rules.",
+    "neuter_plural_guard": "tara stems own num retroflexion; tama stems retain dental n."
+  },
+  "status": {
+    "accepted": "All 36 ledger rows under the grouped-member contract and inherited source-labelled policies.",
+    "excluded": "Flat selection of multiple comparison-set members from this contract without a positive source.",
+    "open": ["non-nominative dual/plural cases", "vocative and accent", "compounds, names and subordinate restrictions", "remaining derived pronoun members", "independent commentary reconciliation and external source collation"]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "project_dependencies": [
+    {
+      "commit": "a5432f8b52f6e5abfbaddb00e2983abeae617fb0",
+      "path": "research/panini_grammar/direct_sanskrit_priority_for_three_5_3_forks/STATE.json",
+      "git_blob_sha": "833554eed6b4dc963c06e2051f8cbda1615ef1ce",
+      "sha256": "50153ae5d6ca5742f713411dae5ba695e1a215bb59bb22c50ddc90626dc3916d",
+      "use": "Published PG815 baseline"
+    },
+    {
+      "commit": "10c6c94401d4ff3178bc4738469ce8d63087cc02",
+      "path": "research/panini_grammar/determination_six_stems_singular_gender_cases/STATE.json",
+      "git_blob_sha": "90f2ac997cb035ae60a8d59ad071ccdf335b9540",
+      "sha256": "854a60565174c1ca58c551c14830ee646472cad07cbf429902928a58533ccc4f",
+      "use": "PG431 singular closure and explicit dual/plural Open obligation"
+    },
+    {
+      "commit": "10c6c94401d4ff3178bc4738469ce8d63087cc02",
+      "path": "research/panini_grammar/determination_six_stems_singular_gender_cases/RELATION.json",
+      "git_blob_sha": "864348d77466b71c9442c0b3a145f922a089f748",
+      "sha256": "2b18f22b0cd99f09dd65f229a91226997c97fc683ebfa6fe2bfd5e627c2307b9",
+      "use": "Exact stem/affix ownership and inherited policy labels"
+    },
+    {
+      "commit": "10c6c94401d4ff3178bc4738469ce8d63087cc02",
+      "path": "research/panini_grammar/determination_six_stems_singular_gender_cases/SOURCES.json",
+      "git_blob_sha": "4179086cf5ff03a4393481d5eed3d317049367c3",
+      "sha256": "c95b5eb86fefcce617401373b8981a8daa1ef4cc433aec4f6b5f9d8e885f6dc5",
+      "use": "Frozen Kāśikā 1.1.27, 5.3.92–93 and ending-rule source fields"
+    },
+    {
+      "commit": "10c6c94401d4ff3178bc4738469ce8d63087cc02",
+      "path": "research/panini_grammar/sarva_three_genders_shi_sut_and_nasal_owners/DERIVATION_AND_NATIVE_RECOVERY.md",
+      "git_blob_sha": "b4cd72c7628a14d4524a4cefd779b013cbeb660f",
+      "sha256": "7355c74afb428e3a84bd881bbc90cf21df35b47f0cc6db9d9724c36c8d1dbcbf",
+      "use": "Reviewed gender/number ending ownership, shared -e histories and neuter num distinction"
+    },
+    {
+      "commit": "10c6c94401d4ff3178bc4738469ce8d63087cc02",
+      "path": "research/panini_grammar/sarva_three_genders_shi_sut_and_nasal_owners/NOMINAL_FORMS.tsv",
+      "git_blob_sha": "79a893197865f4b65d136df16d3fd3dddfd0702f",
+      "sha256": "d5f9f519958bf4a1d82aec9712e717fdc90bda88041532643d3feb1455b0f715",
+      "use": "Frozen literal sarva M/F/N number controls"
+    },
+    {
+      "commit": "10c6c94401d4ff3178bc4738469ce8d63087cc02",
+      "path": "research/panini_grammar/grammar_construction/NATIVE_OPERATOR_LIFT.md",
+      "git_blob_sha": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+      "sha256": "f52e7f5cf539ef56859b890669ef738848491e4005e73be75baa49c899b5dafd",
+      "use": "PG14 full operator/history carrier and typed zero specialization"
+    }
+  ],
+  "source_fields_reused_without_new_observation_credit": [
+    {
+      "rules": "1.1.27, 1.4.21–22, 4.1.2, 5.3.92–93, 6.1.88, 7.1.17–20, 7.1.72, 6.4.8, 8.4.1–2",
+      "reason": "PG431 and the frozen sarva register already preserve the relevant fields; PG816 constructs a new guarded number transport and 36 literal interfaces."
+    }
+  ],
+  "source_observations_new": 0,
+  "source_policy_decisions_new": 0
+}

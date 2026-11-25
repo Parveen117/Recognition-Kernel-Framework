@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG816 · [Determination nominative dual/plural number transport](research/panini_grammar/determination_nominative_dual_plural_number_transport/README.md). PG14 retains source question, comparison set, selected grouped member and its cardinality, semantic policy, `ḍatarac/ḍatamac`, stem, gender, case/number, original sup, substitution/nasal owner, source, ordered history and word; the number and ending adapters prove their typed zero specializations and do not collapse shared `-e` or `-ṇi/-ni` histories.
+
 PG815 · [Direct Sanskrit priority for three 5.3 forks](research/panini_grammar/direct_sanskrit_priority_for_three_5_3_forks/README.md). PG14 retains rule, input, root, sense, preverb, voice/cell, name status, affix, source/edition, reading/status, ordered history and outcome; the source-priority extension changes only canonical-default status and proves typed zero specialization `P₀(X)=X`.
 
 PG814 · [Censure, compassion and human-name affixes](research/panini_grammar/censure_compassion_and_human_name_affixes/README.md). PG14 retains lexical/name/finite input, censure/compassion/courtesy relation, human-name/syllable/school/source guard, affix/lopa/accent owner, ordered history, source and outcome through typed zero specialization.

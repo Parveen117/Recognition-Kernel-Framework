@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG816 · [Determination nominative dual/plural number transport](determination_nominative_dual_plural_number_transport/README.md). Constructs 36 M/F/N nominative dual/plural positions/readings for six principal determination stems, one ending adapter/36 interfaces and one grouped-member semantic contract/12 frames.
+
 PG815 · [Direct Sanskrit priority for three 5.3 forks](direct_sanskrit_priority_for_three_5_3_forks/README.md). One source-priority contract/three decisions; no new word, morphology or source-observation credits. Direct Sanskrit defaults are fixed while Vasu alternatives remain Accepted.
 
 PG814 · [Censure, compassion and human-name affixes](censure_compassion_and_human_name_affixes/README.md). Constructs selected 5.3.75–82: 35 new nominal/derived positions and 41 readings, eight constructions/35 interfaces and eight source decisions.
