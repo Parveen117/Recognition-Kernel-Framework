@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG840 · [Two roots for Sītā’s words about the enemies in Bhaṭṭi 14.57](research/panini_grammar/two_roots_for_the_enemies_in_bhatti_14_57/README.md). A typed PG14 selection separates poem attestation, the two strong-ending controls and the disputed elision.
+
 PG839 · [Two Mādhavīya entries in the edition named by the transcription](research/panini_grammar/two_madhaviya_entries_in_the_named_benares_edition/README.md). The source collation map preserves edition, entry, position and report owner under the PG14 augmentation.
 
 PG838 · [Halāyudha’s seven words for disrespect](research/panini_grammar/halayudhas_seven_words_for_disrespect/README.md). The PG14 source and case edges preserve a distinct sense history even where all seven singular spellings coincide.

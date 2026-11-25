@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG839
+# Pāṇini grammar · current written coverage at PG840
+
+PG840 · [Two roots for Sītā’s words about the enemies in Bhaṭṭi 14.57](two_roots_for_the_enemies_in_bhatti_14_57/README.md). Bhaṭṭi 14.57 locates the second Mādhavīya quotation. Two new finite positions/three selected readings, nominal 0/0. Census 52,368 finite, 22,785 nominal positions/25,760 nominal readings.
 
 PG839 · [Two Mādhavīya entries in the edition named by the transcription](two_madhaviya_entries_in_the_named_benares_edition/README.md). The named 1934 print resolves three readings across XML entries 980 and 1431. Zero new finite or nominal keys/readings. Census 52,366 finite and 22,785 nominal positions/25,760 nominal readings.
 

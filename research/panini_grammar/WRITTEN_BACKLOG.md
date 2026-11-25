@@ -1,4 +1,6 @@
-# Written-development backlog at PG839
+# Written-development backlog at PG840
+
+PG840 · [Two roots for Sītā’s words about the enemies in Bhaṭṭi 14.57](two_roots_for_the_enemies_in_bhatti_14_57/README.md). Closed for Sītā’s second-singular enemy-striking clause, the two strong-ending controls and the reported contracted variant. S1’s different plural-addressed quotation, the actual manuscripts in the 1898 report, and wider C2–C5/S2–S7 work remain open. Execution belongs to Claude.
 
 PG839 · [Two Mādhavīya entries in the edition named by the transcription](two_madhaviya_entries_in_the_named_benares_edition/README.md). S1 has a print-supported initial ā and a distinct second quotation with ni. The first quotation’s independent poem locator and actual mood remain open. S7 has the literal 1934 lyap example and grammatical pakṣo. Manuscript priority and the competing policy remain open. C2–C5 and Claude’s execution retain separate owners.
 

@@ -1,5 +1,7 @@
 # Written Pāṇini work session · 2026-11-25
 
+PG840 · [Two roots for Sītā’s words about the enemies in Bhaṭṭi 14.57](two_roots_for_the_enemies_in_bhatti_14_57/README.md). Parent fcb9adb9b45be1d807c2cba4e242cbb06c166354. Four source decisions, one two-root clause construction, two finite interfaces and three selected readings. Finite +2/+3, nominal 0/0. Census 52,368 finite, 22,785 nominal positions/25,760 nominal readings.
+
 PG839 · [Two Mādhavīya entries in the edition named by the transcription](two_madhaviya_entries_in_the_named_benares_edition/README.md). Parent 00bad82b424c63c918d70d39d1ae785323ca43a4. Four images, two XML entries and three source decisions. Finite 0/0, nominal 0/0. Census 52,366 finite and 22,785 nominal positions/25,760 nominal readings.
 
 PG838 · [Halāyudha’s seven words for disrespect](halayudhas_seven_words_for_disrespect/README.md). Parent 459869eb2645fc80112040f3b44bde336d58d560. Two printings, one seven-member synonym verse, three source decisions and one singular case transfer with 21 interfaces. Four additional citation nominatives. Net 18 nominal positions/20 readings and finite 0/0. Census 52,366 finite, 22,785 nominal positions and 25,760 nominal readings.

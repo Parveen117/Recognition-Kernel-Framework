@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG840 · [Two roots for Sītā’s words about the enemies in Bhaṭṭi 14.57](two_roots_for_the_enemies_in_bhatti_14_57/README.md). The main text’s hiṃs perfect and the ni + han variant now have separate root, ending and source histories.
+
 PG839 · [Two Mādhavīya entries in the edition named by the transcription](two_madhaviya_entries_in_the_named_benares_edition/README.md). Two edition-to-transcript comparisons distinguish the first quoted plural, the second quoted singular and the separate tiras report.
 
 PG838 · [Halāyudha’s seven words for disrespect](halayudhas_seven_words_for_disrespect/README.md). Book IV.19 in Aufrecht and verse 704 in the Vārāṇasī numbering align seven nouns. The lexical meaning of tiraskāra shares its case spellings with PG837’s armour.
