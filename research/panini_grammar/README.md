@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG881 · [Other-pronoun and *eka*-derived vocatives](other_pronoun_and_eka_vocative_panels/README.md). Five three-number address panels preserve lexical versus derived stem ownership, four `adḍ` neuters and `ekatara`'s positive 7.1.26 exception.
+
 PG880 · [Six determination stems in the vocative](determination_six_stem_vocative_panels/README.md). Kāśikā's three-number address rule separates the masculine short-*a*, feminine `ṭāp` and neuter `adḍ` singular channels while preserving the already owned dual/plural endings.
 
 PG879 · [Vasu’s *munipadī* list slip and the correct foot-rule reference](vasu_munipadi_and_the_correct_foot_rule_reference/README.md). The raw short-*i* token and raw 4.4.130 pointer remain preserved, while internal controls positively select *munipadī* and 6.4.130.

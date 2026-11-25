@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG880
+# Pāṇini grammar · current written coverage at PG881
+
+PG881 · [Other-pronoun and *eka*-derived vocatives](other_pronoun_and_eka_vocative_panels/README.md). 45 new nominal positions and 49 readings close the selected M/F/N vocatives of `itara`, `anya`, `anyatara`, `ekatara` and `ekatama` across all three numbers. The four admitted neuter `adḍ` singulars retain two pause readings; 7.1.26 positively blocks `adḍ` for neuter `ekatara`. Census 52,531 finite, 25,957 nominal and 29,605 nominal readings.
 
 PG880 · [Six determination stems in the vocative](determination_six_stem_vocative_panels/README.md). 48 new nominal positions/readings close the selected M/F/N vocative panels across singular, dual and plural when read with PG818's six neuter-singular controls. Census 52,531 finite, 25,912 nominal and 29,556 nominal readings.
 

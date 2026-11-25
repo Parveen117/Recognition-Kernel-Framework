@@ -1,0 +1,48 @@
+{
+  "schema": "rkf.panini.pg881.relation.v1",
+  "input": {
+    "roots": null,
+    "preverbs": [],
+    "voice": null,
+    "case": "vocative",
+    "lexical_stems": {
+      "itara": "other-reference",
+      "anya": "other-reference",
+      "anyatara": "one-of-two alternative"
+    },
+    "derived_stems": {
+      "ekatara": ["eka", "ḍatarac", "one-selected-from-two"],
+      "ekatama": ["eka", "ḍatamac", "one-selected-from-many"]
+    },
+    "genders": ["M", "F", "N"],
+    "numbers": ["sg", "du", "pl"]
+  },
+  "address_owner": "Kāśikā 2.3.47; singular sambuddhi under 2.3.49",
+  "singular_channels": {
+    "M": "short-a plus su; 6.1.69 ending-consonant lopa",
+    "F": "ṭāp ā to e under 7.3.106; 6.1.69 ending-consonant lopa",
+    "N_adḍ": ["itara", "anya", "anyatara", "ekatama"],
+    "N_ekatara_exception": "7.1.26 blocks adḍ; 7.1.24 am then 6.1.69 m-lopa"
+  },
+  "accounting": {
+    "positions_new": 45,
+    "readings_new": 49,
+    "morphology_constructions": 3,
+    "morphology_interfaces": 45,
+    "address_case_constructions": 1,
+    "address_case_interfaces": 45,
+    "source_observations_new": 0,
+    "source_policy_decisions_new": 2
+  },
+  "decisions": [
+    "Carry the named five-member adḍ domain into ordinary N singular vocative for itara, anya, anyatara and ekatama.",
+    "Keep ekatara's 7.1.26 adḍ prohibition as a typed lexeme-specific branch; do not generalize it to anyatara or all -tara spellings."
+  ],
+  "open": [
+    "other lexical and discourse senses",
+    "compounds, names and subordination",
+    "accent and independent Vedic or commentary collation",
+    "remaining derived-pronoun classes",
+    "C2-C5 and S1-S7"
+  ]
+}

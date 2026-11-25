@@ -1,0 +1,72 @@
+{
+  "project_dependencies": [
+    {
+      "commit": "be475c14c960a2f598349db2dd719aa535a3bcbf",
+      "path": "research/panini_grammar/determination_six_stem_vocative_panels/STATE.json",
+      "git_blob_sha": "de3c9bbe7de507ab5699765bc049ae3371f3596e",
+      "bytes": 1880,
+      "sha256": "13235c4d1686d2475bd829e448804371788f63bb45d056c457a6873b2fdcb6a0",
+      "use": "PG880 baseline and reviewed address/vocative construction"
+    },
+    {
+      "commit": "be475c14c960a2f598349db2dd719aa535a3bcbf",
+      "path": "research/panini_grammar/determination_six_stem_vocative_panels/DERIVATION_AND_NATIVE_RECOVERY.md",
+      "git_blob_sha": "84470199358a5df6910b5f83eeab3d9b72cc06b8",
+      "bytes": 6084,
+      "sha256": "0c10e6d8baca5f945f5ff34719ffd89bf73cab47dfed4b48f8a9142c835ceb34",
+      "use": "Reviewed Kāśikā 2.3.47, 2.3.49, 6.1.69 and 7.3.106 address channels"
+    },
+    {
+      "commit": "d8c46a3c4493dba0b6bc6609b5f05a3872a3a7b4",
+      "path": "research/panini_grammar/itara_anya_anyatara_dual_plural_panels/CASE_PANELS.tsv",
+      "git_blob_sha": "d14ef62585d8ef00b17c6703cb2619b6c1538aaa",
+      "bytes": 2308,
+      "sha256": "9aa1d62d862e9f17aa3f0fce3af65d4bc5efb53e5fbc1513a5924b27a32a5684",
+      "use": "PG819 literal lexical-three dual/plural first-case outputs"
+    },
+    {
+      "commit": "6aa72291748558dce50563ff35311f7fa7729ee9",
+      "path": "research/panini_grammar/eka_determination_dual_plural_panels/CASE_PANELS.tsv",
+      "git_blob_sha": "51d4173cd6dc2d34312c465a48ddf89f9aa969a9",
+      "bytes": 1932,
+      "sha256": "28bf9912f7d1dff7537c64cd1abe320282e2de2e3929b0e019ecf27fd5af4e97",
+      "use": "PG820 literal ekatara/ekatama dual/plural first-case outputs"
+    },
+    {
+      "commit": "10c6c94401d4ff3178bc4738469ce8d63087cc02",
+      "path": "research/panini_grammar/itara_anya_anyatara_singular_and_register_owned_endings/NOMINAL_FORMS.tsv",
+      "git_blob_sha": "76f056a8e6f2be7a44b77c08bc88e8ceae7734bb",
+      "bytes": 2980,
+      "sha256": "245b57c535f058860fbe31cb1262e378cb0bf66568887bd42675d886f36f0333",
+      "use": "PG434 lexical-three singular stem, gender and adḍ ownership"
+    },
+    {
+      "commit": "10c6c94401d4ff3178bc4738469ce8d63087cc02",
+      "path": "research/panini_grammar/eka_determination_affixes_and_neuter_exception/NOMINAL_FORMS.tsv",
+      "git_blob_sha": "5956fea67d3f95ad779cc23c73ccb42d17b7a8ea",
+      "bytes": 2331,
+      "sha256": "5bc07dc0ab9d2de810451b79e2d45a5c45eb520fe945c6647fd3e24a7653a651",
+      "use": "PG433 singular gender ownership and ekatara-only 7.1.26 exception"
+    },
+    {
+      "commit": "10c6c94401d4ff3178bc4738469ce8d63087cc02",
+      "path": "research/panini_grammar/grammar_construction/NATIVE_OPERATOR_LIFT.md",
+      "git_blob_sha": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+      "bytes": 11855,
+      "sha256": "f52e7f5cf539ef56859b890669ef738848491e4005e73be75baa49c899b5dafd",
+      "use": "PG14 full operator/history carrier and typed zero specialization"
+    }
+  ],
+  "source_fields_reused_without_new_observation_credit": [
+    {
+      "rules": "1.1.27, 2.3.47, 2.3.49, 6.1.69, 7.1.24-26, 7.3.106",
+      "reason": "PG433/434 and PG880 already freeze and review the exact fields; PG881 constructs their previously open vocative interfaces."
+    },
+    {
+      "rules": "6.1.88, 7.1.17-20, 7.1.72, 6.4.8, 8.4.1-2",
+      "reason": "PG819/820 own the dual/plural first-case endings; PG881 adds distinct vocative case requests without repeating ending or source credit."
+    }
+  ],
+  "source_observations_new": 0,
+  "source_policy_decisions_new": 2
+}

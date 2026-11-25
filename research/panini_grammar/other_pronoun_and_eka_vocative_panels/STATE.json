@@ -1,0 +1,40 @@
+{
+  "stage": "PG881",
+  "date": "2026-11-25",
+  "publication_parent": "be475c14c960a2f598349db2dd719aa535a3bcbf",
+  "baseline": "../determination_six_stem_vocative_panels/STATE.json",
+  "finite_positions": 52531,
+  "nominal_positions": 25957,
+  "nominal_readings": 29605,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 45,
+  "new_nominal_readings": 49,
+  "new_morphology_constructions": 3,
+  "new_morphology_interfaces": 45,
+  "new_syntax_constructions": 1,
+  "new_syntax_interfaces": 45,
+  "new_source_observations": 0,
+  "new_source_policy_decisions": 2,
+  "local_closure": "Selected itara/anya/anyatara/ekatara/ekatama M/F/N vocatives across sg/du/pl are CLOSED: 45 positions/49 readings.",
+  "accepted": [
+    "27 lexical itara/anya/anyatara vocative keys and 30 readings",
+    "nine ekatara vocative keys/readings with the N-singular adḍ block",
+    "nine ekatama vocative keys and ten readings with N-singular adḍ"
+  ],
+  "excluded_only_from_selected_grammar": [
+    "exporting ekatara's 7.1.26 block to anyatara or every orthographic -tara stem",
+    "using the chandas itaram control as a free ordinary vocative alternate"
+  ],
+  "open_obligations": [
+    "Other senses, compounds, names, subordination and accent remain Open.",
+    "Independent Maitrayani, Kaiyata, commentary and print collation remain Open.",
+    "Remaining derived-pronoun classes and wider C2-C5/S1-S7 remain Open.",
+    "No source gap is converted into an exclusion."
+  ],
+  "protected_registers": {
+    "PG335": "-9 finite positions and -12 readings already applied",
+    "PG340/346, PG349-352, PG355-360, PG357-363": "CLOSED on registered scopes"
+  },
+  "runtime_policy": "Written derivation only. Claude owns execution, generators, untouched suites and certificate replay."
+}

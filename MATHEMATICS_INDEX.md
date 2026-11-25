@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG881 · [Other-pronoun and *eka*-derived vocatives](research/panini_grammar/other_pronoun_and_eka_vocative_panels/README.md). The address, singular-selector, ending and word maps commute with typed zero specialization while preserving the `adḍ`/`am` fork, deleted-marker ownership and equal-surface gender histories.
+
 PG880 · [Six determination stems in the vocative](research/panini_grammar/determination_six_stem_vocative_panels/README.md). The address, singular-selector and ending adapters commute with typed zero specialization while retaining distinct M-plural, F-dual and N-dual `-e` histories and PG818's separate neuter-singular marker channel.
 
 PG879 · [Vasu’s *munipadī* list slip and the correct foot-rule reference](research/panini_grammar/vasu_munipadi_and_the_correct_foot_rule_reference/README.md). Typed zero-specialization preserves the diplomatic source grades while the guarded analytical channels select long ī and the actual 6.4.130 operation owner.

@@ -1,4 +1,6 @@
-# Written-development backlog at PG880
+# Written-development backlog at PG881
+
+PG881 · [Other-pronoun and *eka*-derived vocatives](other_pronoun_and_eka_vocative_panels/README.md). The selected M/F/N vocatives of `itara`, `anya`, `anyatara`, `ekatara` and `ekatama` are closed across all three numbers. The `adḍ` members and `ekatara`'s 7.1.26 block retain separate typed histories. Accent, compounds/names/subordination, independent source collation and other derived-pronoun classes remain Open. Claude owns execution.
 
 PG880 · [Six determination stems in the vocative](determination_six_stem_vocative_panels/README.md). The selected six-stem M/F/N vocative panels are closed across all three numbers after reuse of PG818's N-singular controls. Equal `-e` spellings retain distinct gender/number histories. Accent, compounds/names, other derived-pronoun members and independent source collation remain Open. Claude owns execution.
 
@@ -8,8 +10,8 @@ PG878 · [The *bhaikṣuka* life stage and its masculine cases](the_bhaiksuka_li
 
 ## Current four-part register
 
-- **Already closed targets.** Preserve PG335’s correction; PG340/346 actor grids; PG349–352 selected niṣṭhā; PG355–360 selected *bhid* passive grid; PG357–363 historical results; PG877’s personal/collective distinction; PG878’s selected masculine life-stage panel; PG879’s two Vasu source corrections; and the PG818+PG880 six-stem vocative panels. Their keys receive no new credit.
-- **Genuine unconstructed domains.** The six remaining K139 and three extended-Vasu139 lexical meanings remain distinct from their already closed formal feminine fibres. The remaining K128 recensional/inner variants, wider C2–C5 verbal/nominal/affix/syntax/accent domains, other derived-pronoun vocatives and positively licensed gender extensions still require construction. PG878 adds no vocative by inference.
+- **Already closed targets.** Preserve PG335’s correction; PG340/346 actor grids; PG349–352 selected niṣṭhā; PG355–360 selected *bhid* passive grid; PG357–363 historical results; PG877’s personal/collective distinction; PG878’s selected masculine life-stage panel; PG879’s two Vasu source corrections; the PG818+PG880 six-stem vocative panels; and PG881’s five `itara/anya/anyatara/ekatara/ekatama` vocative panels. Their keys receive no new credit.
+- **Genuine unconstructed domains.** The six remaining K139 and three extended-Vasu139 lexical meanings remain distinct from their already closed formal feminine fibres. The remaining K128 recensional/inner variants, wider C2–C5 verbal/nominal/affix/syntax/accent domains, remaining derived-pronoun vocatives and positively licensed gender extensions still require construction. PG878 adds no vocative by inference; PG881 closes only its five named stems.
 - **Unresolved source readings.** S1 still needs the separate Bhaṭṭi command’s manuscript and mood; S2–S3 retain pre-import/intermediate/deployed-repair evidence after the editor’s decisions; S4 retains 45 Pāṇinian projected desiderative-perfect licences; S5 retains four exact Uṇādi assignments; S6 retains the independent 5.56 k-it effect; S7 retains remaining manuscript/policy history. Locally, *bhikṣukī*’s suffix history and *bhaikṣuka*’s masculine affix/ellipsis development are Open, as is Vācaspatyam’s printed *ṭhañ* explanation. PG879 resolves Vasu’s short-*i* list slip and wrong foot-rule pointer but does not supply any of the six missing K139 meanings. Open readings are not exclusions.
 - **Claude-deferred execution.** Sanskrit generators, grammar execution, untouched old suites and certificate replay remain outside written-development credit. Their absence cannot be used to close a written gate or reduce the written backlog.
 
