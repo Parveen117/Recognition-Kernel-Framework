@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG831 · [Five Haima roots and their perfect auxiliaries in print](five_haima_roots_perfect_auxiliaries_in_print/README.md). The scans establish the 12-series auxiliary matrix and preserve three middle headings above active endings on pp. 232–233.
+
 PG830 · [The Haima middle perfects of syand and śṛdh](haima_syand_and_srdh_desiderative_perfects/README.md). The Dhāturatnākara supplies two middle kṛ perfect spellings for syand and one for śṛdh. The rival Pāṇinian licence remains Open.
 
 PG829 · [The animal petva in the verse and the ritual list](petva_animal_in_the_verse_and_the_ritual_list/README.md). The animal occurs as the means in RV 7.18.17 and belongs to Varuṇa in VS 29.58. The neuter nectar formation retains its own history.

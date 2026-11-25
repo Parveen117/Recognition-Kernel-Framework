@@ -1,5 +1,7 @@
 # Written Pāṇini work session · 2026-11-25
 
+PG831 · [Five Haima roots and their perfect auxiliaries in print](five_haima_roots_perfect_auxiliaries_in_print/README.md). Parent ed613c7d3f67b4c2c546038c542d05facd45be8e. Four inspected images, twelve printed rows, 36 auxiliary occurrences, three source decisions. All finite and nominal increments zero. Census 52,366 finite, 22,722 nominal positions/25,693 readings.
+
 PG830 · [The Haima middle perfects of syand and śṛdh](haima_syand_and_srdh_desiderative_perfects/README.md). Parent 5248b7227ecaeaa90d64802da6b8f83add97f7d6. Two Haima roots, three complete middle words, two source decisions. No incremental positions or licensed readings. Census 52,366 finite, 22,722 nominal positions/25,693 readings. S4 remains Open for the Pāṇinian inference.
 
 PG829 · [The animal petva in the verse and the ritual list](petva_animal_in_the_verse_and_the_ritual_list/README.md). Parent f6b3c6b53361fa801b4c05b54abebc133fbcc501. Two attested nominal positions/three readings, zero finite, one two-case construction and two source decisions. Census 52,366 finite, 22,722 nominal positions/25,693 readings.

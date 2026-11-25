@@ -1,4 +1,6 @@
-# Written-development backlog at PG830
+# Written-development backlog at PG831
+
+PG831 · [Five Haima roots and their perfect auxiliaries in print](five_haima_roots_perfect_auxiliaries_in_print/README.md). Closed: PG830 visual collation. Still open: Pāṇinian projected entitlement and the other C2–C5/S1–S7 obligations, including four primary Uṇādi links and the independent 5.56 marker effect. Claude retains execution.
 
 PG830 · [The Haima middle perfects of syand and śṛdh](haima_syand_and_srdh_desiderative_perfects/README.md). Closed at transcript level: selected middle kṛ words for syand and śṛdh, completing the five-root cross-school lookup alongside PG786. Open: visual collation, the Pāṇinian primary/auxiliary entitlement, and the other C2–C5/S1–S7 domains. Counts and Claude execution ownership retain the PG829 baseline.
 

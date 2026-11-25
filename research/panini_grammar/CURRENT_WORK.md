@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG830
+# Pāṇini grammar · current written coverage at PG831
+
+PG831 · [Five Haima roots and their perfect auxiliaries in print](five_haima_roots_perfect_auxiliaries_in_print/README.md). Four facsimiles establish 12 perfect series for five Haima roots. Census 52,366 finite, 22,722 nominal positions/25,693 nominal readings.
 
 PG830 · [The Haima middle perfects of syand and śṛdh](haima_syand_and_srdh_desiderative_perfects/README.md). Three positive whole-form witnesses for the two remaining roots of the Haima comparison. Census 52,366 finite, 22,722 nominal positions/25,693 readings.
 
