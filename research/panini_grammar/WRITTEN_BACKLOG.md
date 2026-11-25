@@ -1,4 +1,6 @@
-# Written-development backlog at PG850
+# Written-development backlog at PG851
+
+PG851 · [A month spent sleeping and the village as grammatical object](sleep_for_a_month_and_the_village_as_locus_object/README.md). Closed for the selected event and two object schedules in third-person present. Duration-object treatment outside this scope, other lakāras/derivations, S1–S7 and wider C2–C5 stay open. Claude owns execution.
 
 PG850 · [The sleep blessing in two printed editions and the two past schedules](sleep_blessing_print_collation_and_two_past_schedules/README.md). Closed for basic śīṅ kartari in the ten selected categories. Still unconstructed here: duration as object versus event, prefixed government, intensive and causative histories. S1–S7, C2–C5 and Claude execution retain separate registers.
 

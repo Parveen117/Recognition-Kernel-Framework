@@ -1,0 +1,59 @@
+{
+  "stage": "PG851",
+  "publication_parent": "b553ca8d795da82e96d5a4e979adc0e84403ee0a",
+  "baseline": "../sleep_blessing_print_collation_and_two_past_schedules/STATE.json",
+  "finite_positions": 52435,
+  "nominal_positions": 25094,
+  "nominal_readings": 28691,
+  "new_finite_positions": 5,
+  "new_finite_readings": 5,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 0,
+  "new_morphology_constructions": 0,
+  "new_morphology_interfaces": 0,
+  "source_decisions": [
+    "ACC_DURATION_IS_EXTENT",
+    "DURATION_OBJECT_EXPRESSED_ALTERNATIVE",
+    "ADHI_LOCUS_OBJECT_REUSES_ACTIVE_CONTROL",
+    "SYNCHRONOUS_DUAL_DISAMBIGUATED_BY_VERB",
+    "SEPARATE_YAK_AND_AYANG_DESPITE_KASIKA_STRING"
+  ],
+  "sources": {
+    "scl": {
+      "commit": "1ec51dc4cbfecf271e4f3cb0bba41f25b5921572",
+      "path": "dhaatupaatha/files/madhaviya_XAwuvqwwi_new.xml",
+      "git_blob": "d14a4235af32a9256615e263b4589e61c9ce25e7",
+      "sha256": "4562749571a7efe3b474b1c68f821cfc7271b07893e753ffc66e2fc7a4a79e76",
+      "entry_id": 682,
+      "number": 1000
+    },
+    "print": {
+      "item": "qVcq_madhaviya-dhatu-vritti-by-sayana-acharya-edited-by-swami-dwarika-das-shastri-198",
+      "leaf": 394,
+      "image_sha256": "df0bbfd4d55f4ccde965956aea26cbe160dc4b1ed6bed9ff98eef88938a178ca",
+      "url": "https://archive.org/details/qVcq_madhaviya-dhatu-vritti-by-sayana-acharya-edited-by-swami-dwarika-das-shastri-198/page/n394/mode/1up"
+    },
+    "kasika": {
+      "repository": "ashtadhyayi-com/data",
+      "commit": "db9a7f1dba06159e6bcd6efb92c9d01857939947",
+      "path": "sutraani/kashika.txt",
+      "blob": "33aee69f03d8c88d8406875c82b5d0fb1bec9b7d",
+      "fields": [
+        "14046",
+        "23005",
+        "31067",
+        "34069",
+        "74022"
+      ]
+    },
+    "repository_blobs": {
+      "instrument_and_locus_relation/RELATION.json": "9614b70904d662b18a6fa636f98fb133989888e0",
+      "lexical_present/LEXICAL_ENTRIES.json": "7cb1d9eef060e1938e8895e3c258381431758932",
+      "grammar_construction/NATIVE_OPERATOR_LIFT.md": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+      "sleep_blessing_print_collation_and_two_past_schedules/STATE.json": "ee2cb443a47da48a1c714b809b47c2470222aec8"
+    }
+  },
+  "execution": "Claude-deferred",
+  "new_syntax_constructions": 3,
+  "new_syntax_interfaces": 9
+}

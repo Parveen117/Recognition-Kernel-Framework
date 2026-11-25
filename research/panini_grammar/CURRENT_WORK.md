@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG850
+# Pāṇini grammar · current written coverage at PG851
+
+PG851 · [A month spent sleeping and the village as grammatical object](sleep_for_a_month_and_the_village_as_locus_object/README.md). A three-by-three role/number comparison. Five new finite positions/readings, cumulative 52,435 finite, 25,094 nominal/28,691 readings.
 
 PG850 · [The sleep blessing in two printed editions and the two past schedules](sleep_blessing_print_collation_and_two_past_schedules/README.md). New 27 finite keys and 29 readings. Cumulative 52,430 finite, 25,094 nominal and 28,691 nominal readings.
 

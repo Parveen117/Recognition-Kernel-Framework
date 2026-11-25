@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG851 · [A month spent sleeping and the village as grammatical object](research/panini_grammar/sleep_for_a_month_and_the_village_as_locus_object/README.md). A coincident māsau has two case histories and distinguishes agreement in the indexed clause.
+
 PG850 · [The sleep blessing in two printed editions and the two past schedules](research/panini_grammar/sleep_blessing_print_collation_and_two_past_schedules/README.md). Distinct operators preserve guṇa, actual ruṭ/sīyuṭ/sic and optional retroflexion.
 
 PG849 · [Vṛtra lay covering the world: the middle perfect and the accent of the repeated verb](research/panini_grammar/vrtra_lay_in_two_brahmana_recensions/README.md). Clause indexing preserves two accent outcomes for one segmental third singular.
