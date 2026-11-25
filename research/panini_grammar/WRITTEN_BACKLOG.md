@@ -1,4 +1,6 @@
-# Written-development backlog at PG824
+# Written-development backlog at PG825
+
+PG825 · [Kaiyaṭa’s printed objection and the possessor of both sons](ubhaya_kaiyata_print_and_two_sons_compound/README.md). Closed on their respective sources: Kaiyaṭa’s no-dual premise and Haradatta’s permissive argument. Closed for the masculine external possessor: 24 compound cases. Still unconstructed: further PG823 case panels. Still unresolved: independent feminine dual word usage and accent, plus the recorded S1–S7 questions. C2–C5 and Claude’s implementation retain their separate registers.
 
 PG824 · [The ekaśeṣa dual of ubhaya](ubhaya_ekasesa_dual_and_primary_affix_evidence/README.md). Constructed on Haradatta’s policy. Authentic tokens for the feminine dual, the independent Kaiyaṭa witness, accent and historical priority remain Open. PG823's other nominal panels, C2–C5, S1–S7 and Claude's execution retain separate ownership.
 

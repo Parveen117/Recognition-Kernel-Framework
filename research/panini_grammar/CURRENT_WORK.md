@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG824
+# Pāṇini grammar · current written coverage at PG825
+
+PG825 · [Kaiyaṭa’s printed objection and the possessor of both sons](ubhaya_kaiyata_print_and_two_sons_compound/README.md). The 1917 Pradīpa substantiates the restrictive dual premise. The two-son compound adds 24 nominal positions and 25 readings. Census 52,357 finite positions, 22,655 nominal positions and 25,625 nominal readings.
 
 PG824 · [The ekaśeṣa dual of ubhaya](ubhaya_ekasesa_dual_and_primary_affix_evidence/README.md). Direct Haradatta and Bhāṣya evidence. Seven feminine dual positions restored with corrected readings, three first-time dual vocatives. Census 52,357 finite positions, 22,631 nominal positions and 25,600 nominal readings.
 

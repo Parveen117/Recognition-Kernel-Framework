@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG825 · [Kaiyaṭa’s printed objection and the possessor of both sons](research/panini_grammar/ubhaya_kaiyata_print_and_two_sons_compound/README.md). PG14 separates the two son IDs, internal sup deletion and compound member from the outer possessor case. Both typed operations commute with the history-preserving augmentation.
+
 PG824 · [The ekaśeṣa dual of ubhaya](research/panini_grammar/ubhaya_ekasesa_dual_and_primary_affix_evidence/README.md). The ekaśeṣa event preserves both referent IDs and attaches one surviving base. PG14 specialization commutes with grouping and inflection on the permissive branch.
 
 PG823 · [Nema, sama and sima](research/panini_grammar/nema_sama_sima_scoped_pronominal_cases/README.md). PG14 typed source, status, ending and word histories preserve the optional nema jas branches and keep the sama equality control distinct from its inclusive plural.

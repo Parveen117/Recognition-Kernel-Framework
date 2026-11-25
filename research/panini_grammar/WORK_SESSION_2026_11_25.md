@@ -1,5 +1,7 @@
 # Written Pāṇini work session · 2026-11-25
 
+PG825 · [Kaiyaṭa’s printed objection and the possessor of both sons](ubhaya_kaiyata_print_and_two_sons_compound/README.md). Parent 76075ff283507b39c0e2c968f2374e5151472a87. New finite 0/0, nominal 24/25. One compound construction and 24 interfaces, two printed observations and one source decision. Census 52,357 finite, 22,655 nominal positions/25,625 readings.
+
 PG824 · [The ekaśeṣa dual of ubhaya](ubhaya_ekasesa_dual_and_primary_affix_evidence/README.md). Parent 8e7156309e65511c6c097459154b8d03eebb5133. Three first-time nominal positions plus seven restored, ten new active readings, zero finite positions/readings. One construction, ten interfaces and three source decisions from four fields. Census 52,357 finite, 22,631 nominal positions/25,600 readings.
 
 PG823 · [Nema, sama and sima](nema_sama_sima_scoped_pronominal_cases/README.md). Parent 46683801e612963596b866449e8ed4c2fe4fed97. Seven new nominal positions/eight readings, zero finite positions/readings, one construction/seven interfaces, three source decisions and four verse comparisons. Census 52,357 finite, 22,621 nominal positions/25,590 readings. Dual ubhaya and wider sense/accent obligations remain Open.
