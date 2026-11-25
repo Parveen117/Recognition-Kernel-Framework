@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG836 · [Maimata and the missing feminine in Jñānendra’s argument](research/panini_grammar/mimata_and_the_rejected_feminine_in_tattvabodhini/README.md). The source-specific ancestry cut lands either in the feminine/possessor realization or in the objection grade.
+
 PG835 · [Ātreya and the tiras alternative in the Mādhavīyadhātuvṛtti](research/panini_grammar/atreya_and_the_tiras_alternative_in_madhaviya_print/README.md). PG14 keeps the source quotation, the gati guard, the s operation and the antecedent of suffix selection in their respective history grades.
 
 PG834 · [The source editor’s decisions at 8.2.25 and 3.2.111](research/panini_grammar/editors_disposition_of_dhi_ca_and_anadyatana/README.md). PG14 carries a disputed source address through distinct editorial, transmission and grammatical grades.

@@ -1,4 +1,6 @@
-# Written-development backlog at PG835
+# Written-development backlog at PG836
+
+PG836 · [Maimata and the missing feminine in Jñānendra’s argument](mimata_and_the_rejected_feminine_in_tattvabodhini/README.md). Closed for the two printed voices at 4.1.150. The PG833 keys are conditional. The historical priority of the two descent policies, the genealogy of electronic readings and the wider S7 manuscript evidence remain open. S2/S3 editorial dispositions are in PG834. C2–C5 and the other source gates retain their registers, separate from Claude’s execution.
 
 PG835 · [Ātreya and the tiras alternative in the Mādhavīyadhātuvṛtti](atreya_and_the_tiras_alternative_in_madhaviya_print/README.md). S7 closes the original Mādhavīya work and locus and the Tattvabodhinī print reading. Manuscript priority, unnamed authors and the reason for the printed lyap example remain open. PG376/480/487/781 retain their bounded results. S2/S3 have the editor’s response in PG834. S4, S5 (99/103), S6 and the C2–C5 constructions retain their own obligations. Execution belongs to Claude.
 

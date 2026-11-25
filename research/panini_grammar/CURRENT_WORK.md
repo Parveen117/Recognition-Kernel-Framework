@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG835
+# Pāṇini grammar · current written coverage at PG836
+
+PG836 · [Maimata and the missing feminine in Jñānendra’s argument](mimata_and_the_rejected_feminine_in_tattvabodhini/README.md). Two printings establish Jñānendra’s reason for withholding the feminine before the compound rule. PG833’s 24/25 are conditional on its supplied member. Census 52,366 finite and 22,746 nominal positions, 25,718 nominal readings.
 
 PG835 · [Ātreya and the tiras alternative in the Mādhavīyadhātuvṛtti](atreya_and_the_tiras_alternative_in_madhaviya_print/README.md). Two Mādhavīya printings identify Ātreya, the competing policy and the literal lyap example. Two Tattvabodhinī printings resolve the damaged 14072 reading. Census 52,366 finite and 22,746 nominal positions, 25,718 nominal readings.
 

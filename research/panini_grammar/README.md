@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG836 · [Maimata and the missing feminine in Jñānendra’s argument](mimata_and_the_rejected_feminine_in_tattvabodhini/README.md). The direct Kaumudī allocation and Jñānendra’s ancestry objection now qualify the PG833 compound.
+
 PG835 · [Ātreya and the tiras alternative in the Mādhavīyadhātuvṛtti](atreya_and_the_tiras_alternative_in_madhaviya_print/README.md). The original work’s example tiraskṛtya and the distinct non-gati ktvā prediction now have separate source records.
 
 PG834 · [The source editor’s decisions at 8.2.25 and 3.2.111](editors_disposition_of_dhi_ca_and_anadyatana/README.md). Issue #338 supplies the upstream editorial disposition of three commentary fields.

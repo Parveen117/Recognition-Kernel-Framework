@@ -1,5 +1,7 @@
 # Written Pāṇini work session · 2026-11-25
 
+PG836 · [Maimata and the missing feminine in Jñānendra’s argument](mimata_and_the_rejected_feminine_in_tattvabodhini/README.md). Parent 361620733272d789fbb9b5f552c0319effc55ea9. Two printed pages, three source decisions, one ancestry guard on the already credited PG833 compound. No new finite or nominal positions/readings. Census 52,366 finite, 22,746 nominal positions and 25,718 nominal readings.
+
 PG835 · [Ātreya and the tiras alternative in the Mādhavīyadhātuvṛtti](atreya_and_the_tiras_alternative_in_madhaviya_print/README.md). Parent d656693bf4c06b43a1168568758a9b3f1960eb83. Seven page images, one SCL entry, four source decisions. Both Mādhavīya printings display lyap and both Tattvabodhinī printings resolve the damaged phrase. Zero new finite or nominal positions/readings. Census 52,366 finite, 22,746 nominal positions and 25,718 nominal readings.
 
 PG834 · [The source editor’s decisions at 8.2.25 and 3.2.111](editors_disposition_of_dhi_ca_and_anadyatana/README.md). Parent cc2b7e9bfacb87c0e037e8326a184c473969d070. One editor reply, three field decisions, zero new finite or nominal positions/readings. Master inspected at db9a7f1dba06159e6bcd6efb92c9d01857939947. S2/S3 now have the editor’s disposition. See the state for open historical and deployment evidence.

@@ -1,0 +1,47 @@
+{
+  "stage": "PG836",
+  "publication_parent": "361620733272d789fbb9b5f552c0319effc55ea9",
+  "baseline": "../atreya_and_the_tiras_alternative_in_madhaviya_print/STATE.json",
+  "finite_positions": 52366,
+  "nominal_positions": 22746,
+  "nominal_readings": 25718,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 0,
+  "new_morphology_constructions": 0,
+  "new_morphology_interfaces": 0,
+  "source_decisions": [
+    "KAUMUDI_PRINT_TWO_ATTRIBUTED_ALLOCATIONS",
+    "TATTVA_VRTTI_MAIMATA_MARKER",
+    "TATTVA_LINEAGE_BLOCK_BEFORE_COMPOUND"
+  ],
+  "sources": {
+    "original_jp2_sha256": {
+      "siddhntakaumudw00dkgoog/243": "ad78a462d49700c74d5e435bb38da70eec2955e5d858922d240f68013d9760a5",
+      "btor-siddhanta-kaumudi-tattvabodhini-gyanendra-sarasvat/247": "5251f10165a5de45f02bc93ca00ce166d9717f0aa93d4f4582ec1dbd44ab84f5"
+    },
+    "electronic": {
+      "repository": "ashtadhyayi-com/data",
+      "ref": "db9a7f1dba06159e6bcd6efb92c9d01857939947",
+      "path": "sutraani/tattvabodhini.txt",
+      "id": "41150",
+      "git_blob": "278a54f50dd8e22a86d0eef88b88737b84474167"
+    },
+    "frozen": {
+      "research/panini_grammar/bhasya_41150_marker_purpose_and_policy_limits/WITNESS_EXCERPTS.json": "30fbf547e21b7c93ac222dd09c486a591cbc60e1",
+      "research/panini_grammar/mimata_na_marker_and_source_qualified_patronymic/RELATION.json": "121c484cf9c254deec141c67664d1158f8c93f09",
+      "research/panini_grammar/phantahrta_wife_in_two_bhasya_printings/CASES.tsv": "920d99f2eec8a3989dea38c0cada3bea943a8294",
+      "research/panini_grammar/SUTRAPATHA.tsv": "1840f3b5349b21112ac05a7efaa59705fd4efee0"
+    }
+  },
+  "execution": "Claude-deferred",
+  "refined_existing_guards": 1,
+  "existing_conditional_nominal_positions": 24,
+  "existing_conditional_nominal_readings": 25,
+  "open": [
+    "historical priority of descent readings",
+    "manuscript genealogy",
+    "other genders and accent"
+  ]
+}
