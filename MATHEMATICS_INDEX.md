@@ -1,22 +1,6 @@
-Warning: truncated output (original token count: 20100)
-Total output lines: 621
-
-Warning: truncated output (original token count: 20106)
-Total output lines: 618
-
-Warning: truncated output (original token count: 20106)
-Total output lines: 615
-
-Warning: truncated output (original token count: 20102)
-Total output lines: 612
-
-Warning: truncated output (original token count: 20109)
-Total output lines: 609
-
-Warning: truncated output (original token count: 129617)
-Total output lines: 5565
-
 # Canonical Mathematics Index
+
+PG806 · [Varṇin, locality names and the close of the second pāda](research/panini_grammar/varnin_locality_names_and_second_pada_close/README.md). PG14 retains locality/name/distance/purpose relation, semantic guard, affix/pada/phonology owner, number, source and outcome through typed zero specialization.
 
 PG805 · [Exclusive ini compounds and the elephant genus](research/panini_grammar/exclusive_ini_compounds_and_elephant_genus/README.md). PG14 retains possession/censure/genus relation, compound and semantic guard, affix owner, number, source and outcome through typed zero specialization.
 

@@ -1,0 +1,40 @@
+{
+  "stage":"PG806",
+  "morphology_constructions":[
+    {"id":"VARNIN_BRAHMACARIN","rule":"5.2.134","interfaces":["VS134","VD134","VP134","VC134"]},
+    {"id":"LOCALITY_INI","rule":"5.2.135","interfaces":["PK135","PD135","PC135"]},
+    {"id":"PREFIXED_BALA","rule":"5.2.135 supplement","interfaces":["BB135","UB135"]},
+    {"id":"SARVA_COMPOUNDS","rule":"5.2.135 supplement","interfaces":["SD135","SB135","SK135"]},
+    {"id":"ARTHA_DISTANCE_PURPOSE","rule":"5.2.135 supplement","interfaces":["AD135","DA135","HA135"]},
+    {"id":"BALADI_ALTERNATIVES","rule":"5.2.136","interfaces":["BL136","UT136"]},
+    {"id":"MAN_FINAL_NAMES","rule":"5.2.137","interfaces":["PR137","DM137"]},
+    {"id":"M_FINAL_NAMES_CONTROLS","rule":"5.2.137","interfaces":["HM137","SM137","SC137","HC137"]},
+    {"id":"KAM_SEVEN_SUFFIXES","rule":"5.2.138","interfaces":["K1","K2","K3","K4","K5","K6","K7"]},
+    {"id":"SHAM_SEVEN_SUFFIXES","rule":"5.2.138","interfaces":["S1","S2","S3","S4","S5","S6","S7"]},
+    {"id":"TUNDI_BHA","rule":"5.2.139","interfaces":["TU139"]},
+    {"id":"BALI_VATI_BHA","rule":"5.2.139","interfaces":["BA139","VA139"]},
+    {"id":"AHAM_SHUBHAM_YUS","rule":"5.2.140","interfaces":["AH140","SH140"]},
+    {"id":"PADA_ANUSVARA_HISTORY","rule":"5.2.138,140","interfaces":[]}
+  ],
+  "nominal_positions":[
+    {"id":"VS134","readings":["varṇī"]},{"id":"VD134","readings":["varṇinau"]},{"id":"VP134","readings":["varṇinaḥ"]},{"id":"VC134","readings":["varṇavān"]},
+    {"id":"PK135","readings":["puṣkariṇī"]},{"id":"PD135","readings":["padminī"]},{"id":"PC135","readings":["puṣkaravān hastī"]},{"id":"BB135","readings":["bāhubalī"]},{"id":"UB135","readings":["ūrubalī"]},{"id":"SD135","readings":["sarvadhanī"]},{"id":"SB135","readings":["sarvabījī"]},{"id":"SK135","readings":["sarvakeśī naṭaḥ"]},{"id":"AD135","readings":["arthī [wealth not nearby]"]},{"id":"DA135","readings":["dhānyārthī"]},{"id":"HA135","readings":["hiraṇyārthī"]},
+    {"id":"BL136","readings":["balavān","balī"]},{"id":"UT136","readings":["utsāhavān","utsāhī"]},
+    {"id":"PR137","readings":["prathiminī"]},{"id":"DM137","readings":["dāminī"]},{"id":"HM137","readings":["hominī"]},{"id":"SM137","readings":["sominī"]},{"id":"SC137","readings":["somavān"]},{"id":"HC137","readings":["homavān"]},
+    {"id":"K1","readings":["kambaḥ"]},{"id":"K2","readings":["kambhaḥ"]},{"id":"K3","readings":["kaṃyuḥ"]},{"id":"K4","readings":["kantiḥ"]},{"id":"K5","readings":["kantuḥ"]},{"id":"K6","readings":["kantaḥ"]},{"id":"K7","readings":["kaṃyaḥ"]},
+    {"id":"S1","readings":["śambaḥ"]},{"id":"S2","readings":["śambhaḥ"]},{"id":"S3","readings":["śaṃyuḥ"]},{"id":"S4","readings":["śantiḥ"]},{"id":"S5","readings":["śantuḥ"]},{"id":"S6","readings":["śantaḥ"]},{"id":"S7","readings":["śaṃyaḥ"]},
+    {"id":"TU139","readings":["tuṇḍibhaḥ [K]","tuṇḍinaḥ [Vasu]"]},{"id":"BA139","readings":["balibhaḥ","balin [pāmādi alternative]"]},{"id":"VA139","readings":["vaṭibhaḥ"]},{"id":"AH140","readings":["ahaṃyuḥ"]},{"id":"SH140","readings":["śubhaṃyuḥ"]}
+  ],
+  "source_policy_decisions":[
+    {"id":"VARNIN_SCOPE","status":"Accepted/Excluded","decision":"Select ini for the brahmacārin class; ordinary varṇavān remains outside that branch."},
+    {"id":"LOCALITY_SCOPE","status":"Accepted/Open","decision":"Accept two displayed localities and the elephant control; full puṣkarādi remains unconstructed."},
+    {"id":"PREFIXED_INI","status":"Accepted","decision":"Accept displayed bala and sarva compounds on their stated owners."},
+    {"id":"ARTHA_DISTANCE","status":"Accepted","decision":"Keep wealth-not-nearby distinct from PG803 absence and ordinary possession; do not repeat-credit arthavān."},
+    {"id":"BALADI_PAIRING","status":"Accepted/Open","decision":"Accept matup/ini alternatives for two displayed bases; the rest of the roster remains Open."},
+    {"id":"NAME_GUARD","status":"Accepted/Excluded","decision":"Select ini for displayed names and retain soma/homa matup controls outside the name branch."},
+    {"id":"KAM_SHAM_SUFFIXES","status":"Accepted","decision":"Retain seven separately owned suffixes for each base."},
+    {"id":"KAMYA_COMMENTARY","status":"Open","decision":"Do not credit kamya/śamya until the competing last-sentence policies are resolved."},
+    {"id":"BHA_SOURCE_FORKS","status":"Accepted/Open","decision":"Retain tuṇḍibha/tuṇḍina and balibha/balin under source or class labels; priority remains Open."},
+    {"id":"FINAL_YUS","status":"Accepted","decision":"Preserve pada and anusvāra ownership in ahaṃyuḥ and śubhaṃyuḥ."}
+  ]
+}

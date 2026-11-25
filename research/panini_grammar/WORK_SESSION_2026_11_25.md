@@ -2,6 +2,12 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG806 · Varṇin, locality names and the close of the second pāda
+
+PG806 · [Varṇin, locality names and the close of the second pāda](varnin_locality_names_and_second_pada_close/README.md). Constructs selected 5.2.134–140 outputs with 42 new nominal positions and 46 readings. Finite positions/readings increase by zero. Fourteen constructions/42 interfaces, zero new source observations and ten decisions. Census: 52,357 finite positions, 21,771 nominal positions and 24,663 nominal readings.
+
+Parent `a88106fd5a1ee1625417ae86a0c05eb91d4c942e`. The containing commit pins this packet. Displayed outputs, source-labelled alternatives and controls are CLOSED. Full puṣkarādi/balādi rosters, wider name distribution, the `kamya/śamya` commentary policy, `bha` source priority, paradigms and accent remain Open. The selected 5.2 second-pāda surface sequence is locally closed; continue from 5.3.1. C2–C5 and S1–S7 remain Open; S5 is 99/103 and S6 retains the independent 5.56 k-it effect. Claude retains execution, generators, untouched suites and replay.
+
 ## PG805 · Exclusive ini compounds and the elephant genus
 
 PG805 · [Exclusive ini compounds and the elephant genus](exclusive_ini_compounds_and_elephant_genus/README.md). Constructs selected 5.2.131–133 outputs with 10 new nominal positions/readings. Finite positions/readings increase by zero. Four constructions/10 interfaces, zero new source observations and five decisions. Census: 52,357 finite positions, 21,729 nominal positions and 24,617 nominal readings.

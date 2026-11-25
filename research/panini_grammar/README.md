@@ -1,22 +1,6 @@
-Warning: truncated output (original token count: 20090)
-Total output lines: 595
-
-Warning: truncated output (original token count: 20095)
-Total output lines: 592
-
-Warning: truncated output (original token count: 20094)
-Total output lines: 589
-
-Warning: truncated output (original token count: 20096)
-Total output lines: 584
-
-Warning: truncated output (original token count: 20098)
-Total output lines: 581
-
-Warning: truncated output (original token count: 95731)
-Total output lines: 3333
-
 # PG1 — Pāṇini: grammar before implementation
+
+PG806 · [Varṇin, locality names and the close of the second pāda](varnin_locality_names_and_second_pada_close/README.md). Constructs selected 5.2.134–140 outputs: 42 new nominal positions and 46 readings, fourteen constructions/42 interfaces and ten source decisions.
 
 PG805 · [Exclusive ini compounds and the elephant genus](exclusive_ini_compounds_and_elephant_genus/README.md). Constructs selected 5.2.131–133 outputs: 10 new nominal positions/readings, four constructions/10 interfaces and five source decisions.
 

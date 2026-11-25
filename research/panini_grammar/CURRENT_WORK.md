@@ -1,22 +1,6 @@
-Warning: truncated output (original token count: 20101)
-Total output lines: 254
+# Pāṇini grammar · current written coverage at PG806
 
-Warning: truncated output (original token count: 20111)
-Total output lines: 251
-
-Warning: truncated output (original token count: 20110)
-Total output lines: 248
-
-Warning: truncated output (original token count: 20107)
-Total output lines: 243
-
-Warning: truncated output (original token count: 20111)
-Total output lines: 240
-
-Warning: truncated output (original token count: 58560)
-Total output lines: 894
-
-# Pāṇini grammar · current written coverage at PG805
+PG806 · [Varṇin, locality names and the close of the second pāda](varnin_locality_names_and_second_pada_close/README.md). Constructs selected 5.2.134–140 brahmacārin, locality, prefixed-ini, name, kam/śam, bha and final yus outputs. Census: 52,357 finite positions, 21,771 nominal positions and 24,663 nominal readings.
 
 PG805 · [Exclusive ini compounds and the elephant genus](exclusive_ini_compounds_and_elephant_genus/README.md). Constructs selected 5.2.131–133 exclusive-ini, compound-ending and elephant-genus outputs. Census: 52,357 finite positions, 21,729 nominal positions and 24,617 nominal readings.
 

@@ -1,24 +1,8 @@
-Warning: truncated output (original token count: 20147)
-Total output lines: 508
+# Written-development backlog at PG806
 
-Warning: truncated output (original token count: 20162)
-Total output lines: 505
+Monty · 2026-11-25 · reviewed parent a88106fd5a1ee1625417ae86a0c05eb91d4c942e. Historical closures below retain their exact pins.
 
-Warning: truncated output (original token count: 20153)
-Total output lines: 502
-
-Warning: truncated output (original token count: 20153)
-Total output lines: 499
-
-Warning: truncated output (original token count: 20180)
-Total output lines: 496
-
-Warning: truncated output (original token count: 93375)
-Total output lines: 2193
-
-# Written-development backlog at PG805
-
-Monty · 2026-11-25 · reviewed parent ed1c11fc5bc303c8c786ab7d42b307608af44e1b. Historical closures below retain their exact pins.
+PG806 · [Varṇin, locality names and the close of the second pāda](varnin_locality_names_and_second_pada_close/README.md). Displayed 5.2.134–140 outputs, number positions, source-labelled alternatives and controls are CLOSED. Full puṣkarādi/balādi rosters and wider name distribution remain genuinely unconstructed. The `kamya/śamya` commentary policy, `tuṇḍibha/tuṇḍinaḥ` and `balibha/balin` priority, paradigms and accent remain unresolved source work. The selected 5.2 second-pāda surface sequence is locally closed; continue from 5.3.1. C2–C5 and S1–S7 remain Open; S5 is 99/103 and S6 retains the independent 5.56 k-it effect. Claude retains execution.
 
 PG805 · [Exclusive ini compounds and the elephant genus](exclusive_ini_compounds_and_elephant_genus/README.md). Selected 5.2.131–133 outputs, number positions and controls are CLOSED. Undisplayed sukhādi members and wider compound bases remain genuinely unconstructed; exact censure distribution, paradigms and accent remain Open. Continue from 5.2.134. C2–C5 and S1–S7 remain Open; S5 is 99/103 and S6 retains the independent 5.56 k-it effect. Claude retains execution.
 
