@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG865 · [Doubt, lying nearby and the post called upaśaya](research/panini_grammar/doubt_lying_near_and_the_post_called_upasaya/README.md). The source-specific case and predicate assignments recover through the PG14 paired history modules.
+
 PG864 · [The Atharvan account of nuṃ and two printed readings of the tooth offering](research/panini_grammar/atharvan_account_of_num_and_two_nonnasaled_tooth_offering_prints/README.md). Source-specific augment history and three ways of predicating birth in the same verse.
 
 PG863 · [Two printed readings of Haradatta and time as agent or patient](research/panini_grammar/two_printed_readings_of_haradatta_and_time_as_agent_or_patient/README.md). A source-indexed restriction on infinitives with time heads, and an epic apparatus parallel for Haribhadra.

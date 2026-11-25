@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG864
+# Pāṇini grammar · current written coverage at PG865
+
+PG865 · [Doubt, lying nearby and the post called upaśaya](doubt_lying_near_and_the_post_called_upasaya/README.md). 46 new nominal positions and 48 readings. Census 52,465 finite positions, 25,375 nominal positions and 28,983 nominal readings.
 
 PG864 · [The Atharvan account of nuṃ and two printed readings of the tooth offering](atharvan_account_of_num_and_two_nonnasaled_tooth_offering_prints/README.md). Three clause interfaces and six source decisions. Census 52,465 finite positions, 25,329 nominal positions and 28,935 nominal readings.
 

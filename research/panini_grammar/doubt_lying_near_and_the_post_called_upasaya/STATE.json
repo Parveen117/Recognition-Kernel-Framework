@@ -1,0 +1,74 @@
+{
+  "stage": "PG865",
+  "publication_parent": "09b563754088362723b285ac4038f12346a7dd27",
+  "baseline": "../atharvan_account_of_num_and_two_nonnasaled_tooth_offering_prints/STATE.json",
+  "finite_positions": 52465,
+  "nominal_positions": 25375,
+  "nominal_readings": 28983,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 46,
+  "new_nominal_readings": 48,
+  "new_morphology_constructions": 2,
+  "new_morphology_interfaces": 48,
+  "source_decisions": [
+    "SUDHANIDHI_QUOTES_PALATAL_JAIMINI",
+    "SABARA_RULE_AND_GLOSS_SUPPORT_PALATAL",
+    "SANDAL_PRINT_AND_SANSKNET_HAVE_RETROFLEX",
+    "SANDAL_GLOSSES_DOUBT_DESPITE_RETROFLEX",
+    "CALF_TOUCHING_IS_THE_SELECTED_PREPARATORY_ACT",
+    "TS_POST_INSTRUMENT_GENITIVE_AND_SUBJECT",
+    "KEITH_CONSTRUES_UPASAYE_AS_PREDICATE"
+  ],
+  "sources": {
+    "texts": {
+      "ms": {
+        "repository": "tylergneill/gretil-mirror",
+        "commit": "3aa1e84b266bb9a89b55b3dff479658773d37c9c",
+        "path": "gretil/corpustei/sa_jaimini-mImAMsAsUtra.xml",
+        "blob": "ed74e3fa54ae02deac25af2fe9522702a25dc56e"
+      },
+      "sb": {
+        "repository": "tylergneill/gretil-mirror",
+        "commit": "3aa1e84b266bb9a89b55b3dff479658773d37c9c",
+        "path": "gretil/corpustei/sa_jaimini-mImAMsAsUtra-1-7-comm.xml",
+        "blob": "008ffd9d4cce8639d0556ef3e274076d6ceadc21"
+      },
+      "keith": {
+        "repository": "vishvAsa/vedAH_yajuH",
+        "commit": "4c88944853a88a4bfae8d92682bd1a275fd21247",
+        "path": "taittirIyam/sArasvata-vibhAgaH/saMhitA/keith/6_THE_EXPLANATION_OF_THE_SOMA_SACRIFICE/6_The_Exposition_of_the_Daksina_and_other_Offerings.md",
+        "blob": "7c5b59d8a997e684f08f317589ac11831fe2ab40"
+      }
+    },
+    "sandal": {
+      "item": "sacredbooksofthehindusvol27mimamsasutrasofjaiminipart12mohanlalsandal1923_202002",
+      "package": "Sacred Books of the Hindus Vol 27 - Mimamsa Sutras of Jaimini - Part 1 & 2- Mohan Lal Sandal 1923_jp2.zip",
+      "leaf": 134,
+      "page": 71,
+      "sha256": "5dd74eb8fd9016ba46958d93b14d19b8b7d1ed2d8bf949526bf3ba3f5bf54450"
+    },
+    "sudha": {
+      "revision": 402326,
+      "url": "https://sa.wikisource.org/w/index.php?oldid=402326"
+    },
+    "krama": {
+      "url": "https://vedavms.in/docs/TSK6-Kramam/TS%206.6%20Kramam%20Sanskrit.pdf",
+      "pages": [
+        22,
+        23
+      ],
+      "sha256": "d6b069b33bf4ede297e0e59862d538eacb625a4fb5fd8bc9a999d50c244f7953"
+    },
+    "repository_blobs": {
+      "atharvan_account_of_num_and_two_nonnasaled_tooth_offering_prints/STATE.json": "18780246aaa280d54dd82e56ac3e62a94b1d8e91",
+      "the_turn_to_sleep_and_the_sages_who_inquire_after_sleep/README.md": "b297ffb1902adf8cafb7fe3b6d0fed6590a1b246",
+      "the_turn_to_sleep_and_the_sages_who_inquire_after_sleep/STATE.json": "3012fd882d81bfb8cb6014228a50f297d2324e2a",
+      "krt_temporal_relations/RULES_C1.md": "48612e05d111b1583562728e4dc5f58871b9c46f",
+      "grammar_construction/NATIVE_OPERATOR_LIFT.md": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b"
+    }
+  },
+  "execution": "Claude-deferred",
+  "new_syntax_constructions": 2,
+  "new_syntax_interfaces": 5
+}

@@ -1,5 +1,7 @@
 # Written Pāṇini work session · 2026-11-25
 
+PG865 · [Doubt, lying nearby and the post called upaśaya](doubt_lying_near_and_the_post_called_upasaya/README.md). Parent 09b563754088362723b285ac4038f12346a7dd27. Two morphology constructions at 48 positions, two syntax comparisons at five interfaces and seven source decisions. Two old nominatives reserved.
+
 PG864 · [The Atharvan account of nuṃ and two printed readings of the tooth offering](atharvan_account_of_num_and_two_nonnasaled_tooth_offering_prints/README.md). Parent 60274de83bf1b55171a21c7b32bf50da4475662e. Six source decisions and one syntax comparison at three interfaces. Zero new finite or nominal cells or readings.
 
 PG863 · [Two printed readings of Haradatta and time as agent or patient](two_printed_readings_of_haradatta_and_time_as_agent_or_patient/README.md). Parent e3bba4a419f6d18b50db27e4c32690d5f21b344e. Seven source decisions and four syntax interfaces. PG14 pacati/pacyate and PG29 opportunity forms reserved, zero finite or nominal increments.

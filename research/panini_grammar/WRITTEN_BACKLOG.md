@@ -1,4 +1,6 @@
-# Written-development backlog at PG864
+# Written-development backlog at PG865
+
+PG865 · [Doubt, lying nearby and the post called upaśaya](doubt_lying_near_and_the_post_called_upasaya/README.md). Two selected short ac paradigms closed. Manuscript priority, ritual lexical derivation, C2–C5 and S1–S7 remain open. Claude retains execution.
 
 PG864 · [The Atharvan account of nuṃ and two printed readings of the tooth offering](atharvan_account_of_num_and_two_nonnasaled_tooth_offering_prints/README.md). The PG620 print lead is closed. PG641’s first animal and masculine no-n licence, C2–C5 and S1–S7 remain open. Claude retains execution.
 

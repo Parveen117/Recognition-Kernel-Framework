@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG865 · [Doubt, lying nearby and the post called upaśaya](doubt_lying_near_and_the_post_called_upasaya/README.md). Two masculine ac paradigms, the printed Mīmāṃsā sibilant and the Taittirīya post as instrument and subject.
+
 PG864 · [The Atharvan account of nuṃ and two printed readings of the tooth offering](atharvan_account_of_num_and_two_nonnasaled_tooth_offering_prints/README.md). Śaunaka 19.6.12 supplies the missing account of nuṃ. Two prints show the nonnasal offering object.
 
 PG863 · [Two printed readings of Haradatta and time as agent or patient](two_printed_readings_of_haradatta_and_time_as_agent_or_patient/README.md). Two editions give nivṛtti in the first account of synonyms. The Upaniṣad uses time as agent and patient in consecutive clauses.
