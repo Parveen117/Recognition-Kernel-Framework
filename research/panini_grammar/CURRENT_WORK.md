@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG881
+# Pāṇini grammar · current written coverage at PG882
+
+PG882 · [*Nema* and *sama* vocative panels](nema_and_sama_vocative_panels/README.md). 27 new nominal positions and 28 readings close the selected ordinary M/F/N vocatives of `nema` ‘half’ and `sama` ‘all/equal’ across all three numbers. The `nema` M plural retains `neme / nemāḥ`; PG841's attested Vedic `sima` address is a zero-credit control, not a licence for its unquoted series. Census 52,531 finite, 25,984 nominal and 29,633 nominal readings.
 
 PG881 · [Other-pronoun and *eka*-derived vocatives](other_pronoun_and_eka_vocative_panels/README.md). 45 new nominal positions and 49 readings close the selected M/F/N vocatives of `itara`, `anya`, `anyatara`, `ekatara` and `ekatama` across all three numbers. The four admitted neuter `adḍ` singulars retain two pause readings; 7.1.26 positively blocks `adḍ` for neuter `ekatara`. Census 52,531 finite, 25,957 nominal and 29,605 nominal readings.
 

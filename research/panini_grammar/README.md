@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG882 · [*Nema* and *sama* vocative panels](nema_and_sama_vocative_panels/README.md). The three ordinary sense-panels keep pronominal status, `jas` optionality and equal-surface histories distinct while the unquoted Vedic `sima` series remains Open.
+
 PG881 · [Other-pronoun and *eka*-derived vocatives](other_pronoun_and_eka_vocative_panels/README.md). Five three-number address panels preserve lexical versus derived stem ownership, four `adḍ` neuters and `ekatara`'s positive 7.1.26 exception.
 
 PG880 · [Six determination stems in the vocative](determination_six_stem_vocative_panels/README.md). Kāśikā's three-number address rule separates the masculine short-*a*, feminine `ṭāp` and neuter `adḍ` singular channels while preserving the already owned dual/plural endings.

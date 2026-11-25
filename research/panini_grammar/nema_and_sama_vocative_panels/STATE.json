@@ -1,0 +1,42 @@
+{
+  "stage": "PG882",
+  "date": "2026-11-25",
+  "publication_parent": "c86489ff490c96d69c82863b118038bc0e6f158a",
+  "baseline": "../other_pronoun_and_eka_vocative_panels/STATE.json",
+  "finite_positions": 52531,
+  "nominal_positions": 25984,
+  "nominal_readings": 29633,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 27,
+  "new_nominal_readings": 28,
+  "new_morphology_constructions": 3,
+  "new_morphology_interfaces": 27,
+  "new_syntax_constructions": 1,
+  "new_syntax_interfaces": 27,
+  "new_source_observations": 0,
+  "new_source_policy_decisions": 3,
+  "control_positions": 1,
+  "control_readings": 1,
+  "local_closure": "Selected ordinary nema-half and sama-all/equal M/F/N vocatives across sg/du/pl are CLOSED: 27 positions/28 readings.",
+  "accepted": [
+    "nine nema-half vocative keys and ten readings",
+    "nine sama-all vocative keys/readings",
+    "nine sama-equal vocative keys/readings"
+  ],
+  "excluded_only_from_selected_adapter": [
+    "automatic projection from nema or sama spelling to Vedic sima",
+    "blanket transfer of nema's jas option beyond M plural"
+  ],
+  "open_obligations": [
+    "PG841's unquoted sima address series and other senses remain Open.",
+    "Compounds, names, subordination, accent and chant remain Open.",
+    "Independent commentary/print collation and wider C2-C5/S1-S7 remain Open.",
+    "No source gap is converted into an exclusion."
+  ],
+  "protected_registers": {
+    "PG335": "-9 finite positions and -12 readings already applied",
+    "PG340/346, PG349-352, PG355-360, PG357-363": "CLOSED on registered scopes"
+  },
+  "runtime_policy": "Written derivation only. Claude owns execution, generators, untouched suites and certificate replay."
+}

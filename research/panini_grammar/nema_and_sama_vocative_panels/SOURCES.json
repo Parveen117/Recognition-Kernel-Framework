@@ -1,0 +1,72 @@
+{
+  "project_dependencies": [
+    {
+      "commit": "c86489ff490c96d69c82863b118038bc0e6f158a",
+      "path": "research/panini_grammar/other_pronoun_and_eka_vocative_panels/STATE.json",
+      "git_blob_sha": "a46828efc500b0708d55a87630c9cf73e0dbf0c3",
+      "bytes": 1801,
+      "sha256": "59b40e6ccb62b3d0a3e17727a8a4a33f0e9947518c45fe24b87a3e717448713b",
+      "use": "PG881 baseline"
+    },
+    {
+      "commit": "c86489ff490c96d69c82863b118038bc0e6f158a",
+      "path": "research/panini_grammar/other_pronoun_and_eka_vocative_panels/DERIVATION_AND_NATIVE_RECOVERY.md",
+      "git_blob_sha": "da725d9d08ecf731e72e2ae26e5f81eed0acc3e3",
+      "bytes": 5819,
+      "sha256": "638791298d98be68aa0d2eaad45795ea23b18310751748fa2283fdf980e0892d",
+      "use": "Reviewed three-number address, sambuddhi and am-lopa adapter"
+    },
+    {
+      "commit": "eaece3f022857b21d391890f21cfdb9e7c6ad5cd",
+      "path": "research/panini_grammar/nema_half_and_visvapa_protector_panels/CASES.tsv",
+      "git_blob_sha": "bed03aee85d984dc3745e3401d05ab48459f0c6a",
+      "bytes": 696,
+      "sha256": "7d344e227924a3d87d29e58d6311ed35183234d938b1f6a741ec573b3b34e8ac",
+      "use": "PG826 masculine nema first-case outputs and jas option"
+    },
+    {
+      "commit": "46d898390aaac4c941978bc25fd25cf5b8699a7c",
+      "path": "research/panini_grammar/the_half_and_the_seer_nema/CASES.tsv",
+      "git_blob_sha": "a72e703cc040e39d436f25b47e647fa119421aa5",
+      "bytes": 476,
+      "sha256": "64684afe1423b736545931e3a84105f1b5c88fbf3d1e2f6859a14a9e2a4f9230",
+      "use": "PG844 feminine/neuter nema first-case outputs"
+    },
+    {
+      "commit": "3a546e41007583413089f64a421eb7395e8dd3e9",
+      "path": "research/panini_grammar/all_and_equal_in_the_cases_of_sama/CASES.tsv",
+      "git_blob_sha": "5cf730b22dfad4db8b9c8ab9cd53359f4dd04c24",
+      "bytes": 1416,
+      "sha256": "afa829b6e8cd24a15c83c23cd04659afe819699b0f9f00417d7b1903e6a7f062",
+      "use": "PG843 all/equal sense, status and first-case outputs"
+    },
+    {
+      "commit": "dc5ea1b38afd415eaf58062bcf4fbe832c082409",
+      "path": "research/panini_grammar/sima_in_six_hymns_and_the_three_agreement_genders/README.md",
+      "git_blob_sha": "879495fc8132fc69b718f44c8678063d3a3597bf",
+      "bytes": 6570,
+      "sha256": "1262afc752f4f03730e84ae72d5412979a1e98e3aa31c0f4bbd3b0e0b2b818dc",
+      "use": "PG841 attested Vedic sima address and explicit unquoted-series boundary"
+    },
+    {
+      "commit": "10c6c94401d4ff3178bc4738469ce8d63087cc02",
+      "path": "research/panini_grammar/grammar_construction/NATIVE_OPERATOR_LIFT.md",
+      "git_blob_sha": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+      "bytes": 11855,
+      "sha256": "f52e7f5cf539ef56859b890669ef738848491e4005e73be75baa49c899b5dafd",
+      "use": "PG14 full operator/history carrier and typed zero specialization"
+    }
+  ],
+  "source_fields_reused_without_new_observation_credit": [
+    {
+      "rules": "2.3.47, 2.3.49, 6.1.69, 7.1.24, 7.3.106",
+      "reason": "PG880/881 already review the address and singular channels; PG882 constructs previously open interfaces."
+    },
+    {
+      "rules": "1.1.33, 6.1.88, 7.1.17-20, 7.1.72, 6.4.8",
+      "reason": "PG826, PG843 and PG844 own the source-status and dual/plural first-case endings."
+    }
+  ],
+  "source_observations_new": 0,
+  "source_policy_decisions_new": 3
+}

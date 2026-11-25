@@ -1,0 +1,44 @@
+{
+  "schema": "rkf.panini.pg882.relation.v1",
+  "input": {
+    "roots": null,
+    "preverbs": [],
+    "voice": null,
+    "case": "vocative",
+    "sense_panels": [
+      {"lemma": "nema", "sense": "half", "status": "jas-optional-pronominal"},
+      {"lemma": "sama", "sense": "all", "status": "pronominal"},
+      {"lemma": "sama", "sense": "equal", "status": "ordinary-adjective"}
+    ],
+    "genders": ["M", "F", "N"],
+    "numbers": ["sg", "du", "pl"]
+  },
+  "address_owner": "Kāśikā 2.3.47; singular sambuddhi under 2.3.49",
+  "singular_channels": {
+    "M": "short-a plus su; 6.1.69 ending-consonant lopa",
+    "F": "ṭāp ā to e under 7.3.106; 6.1.69 ending-consonant lopa",
+    "N": "7.1.24 am; 6.1.69 m-lopa without adḍ or ṭi-lopa"
+  },
+  "accounting": {
+    "positions_new": 27,
+    "readings_new": 28,
+    "morphology_constructions": 3,
+    "morphology_interfaces": 27,
+    "address_case_constructions": 1,
+    "address_case_interfaces": 27,
+    "source_observations_new": 0,
+    "source_policy_decisions_new": 3,
+    "controls": 1
+  },
+  "decisions": [
+    "Apply the reviewed three-number address adapter to the already sourced ordinary nema-half and sama-all/equal panels.",
+    "Retain nema's jas-specific pronominal/ordinary option on the M-plural vocative key and nowhere else.",
+    "Keep PG841's attested Vedic sima M-singular address as a zero-credit control; do not infer the explicitly withheld unquoted series."
+  ],
+  "open": [
+    "remaining sima address series and other senses",
+    "compounds, names and subordination",
+    "accent, chant and independent source collation",
+    "C2-C5 and S1-S7"
+  ]
+}

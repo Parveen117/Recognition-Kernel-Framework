@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG882 · [*Nema* and *sama* vocative panels](research/panini_grammar/nema_and_sama_vocative_panels/README.md). Address, singular selection, sense/status policy and word realization commute with typed zero specialization; the `nema` M-plural two-arrow sum and the withheld `sima` grades remain recoverable.
+
 PG881 · [Other-pronoun and *eka*-derived vocatives](research/panini_grammar/other_pronoun_and_eka_vocative_panels/README.md). The address, singular-selector, ending and word maps commute with typed zero specialization while preserving the `adḍ`/`am` fork, deleted-marker ownership and equal-surface gender histories.
 
 PG880 · [Six determination stems in the vocative](research/panini_grammar/determination_six_stem_vocative_panels/README.md). The address, singular-selector and ending adapters commute with typed zero specialization while retaining distinct M-plural, F-dual and N-dual `-e` histories and PG818's separate neuter-singular marker channel.
