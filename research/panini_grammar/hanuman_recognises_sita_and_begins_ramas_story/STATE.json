@@ -1,0 +1,192 @@
+{
+  "stage": "PG872",
+  "publication_parent": "17231974fbf6ed1c30aebfba961381abdf2f8bac",
+  "baseline": "../kumudanandas_subodhini_and_the_two_sides_of_the_ocean/STATE.json",
+  "finite_positions": 52504,
+  "nominal_positions": 25661,
+  "nominal_readings": 29301,
+  "new_finite_positions": 9,
+  "new_finite_readings": 10,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 0,
+  "new_morphology_constructions": 1,
+  "new_morphology_interfaces": 9,
+  "source_decisions": [
+    "LINK_THE_TWO_VERSES_THROUGH_PRA_STU",
+    "RECOGNITION_OBJECT_INS_AND_APPARATUS_GEN",
+    "ARRIVAL_AND_ABSENCE_AT_DISTINCT_HEARTS_OF_TWO_CLAUSES",
+    "NONAGENT_DEBT_AND_CAUSATIVE_COUNTEREXAMPLE",
+    "VIYOGA_OPTION_ON_THE_CAUSE_AS_QUALITY",
+    "SITA_AS_AGENT_OF_BODHA",
+    "KASYA_HETOH_AND_EPIC_STORY_OPENING",
+    "PRA_STU_SIC_IT_VERSUS_ENDPOINT_IIT",
+    "PRASTAVID_AND_REPORTED_KATHA_READING"
+  ],
+  "sources": {
+    "editions": {
+      "jayamangala": {
+        "item": "b3009303x",
+        "file": "b3009303x.pdf",
+        "pdf_sha256": "87059e6ea2e48e4755df0e675ff9999b15bdc9a31601609ccfae100a2d9a20aa",
+        "printed_pages": [
+          192,
+          193
+        ],
+        "archive_leaves": [
+          199,
+          200
+        ]
+      },
+      "mallinatha": {
+        "item": "BhattikavyaWithTheCommentaryOfMallinathaPart1CantosI-ix",
+        "file": "Bhatti-kavyaOrRavanavadhaVol.1Cantos1.pdf",
+        "pdf_sha256": "cc1e25fa4643d7528979dc01f9b1d9cb466fa1ff4ce5c29032f6e5e848493693",
+        "printed_pages": [
+          296,
+          297
+        ],
+        "archive_leaves": [
+          338,
+          339
+        ]
+      }
+    },
+    "gretil": {
+      "url": "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/5_poetry/2_kavya/bhattiku.htm",
+      "sha256": "3b4e0876703db37e0d07bafa13aba8bd137105d19f212c24073a4197ceeff167",
+      "key": "Bhk_8.102–104"
+    },
+    "upstream": {
+      "repository": "ashtadhyayi-com/data",
+      "commit": "5744762f010d677cfb43f347a42d02796cf615d6",
+      "files": {
+        "sutraani/kashika.txt": {
+          "blob": "e525df7668835ef1dd7c5988c031da07ce0c162b",
+          "keys": [
+            "13046",
+            "13072",
+            "13078",
+            "23022",
+            "23023",
+            "23024",
+            "23025",
+            "23026",
+            "23027",
+            "23028",
+            "23037",
+            "23065",
+            "31043",
+            "31044",
+            "34099",
+            "34100",
+            "61078",
+            "61101",
+            "64071",
+            "72001",
+            "72072",
+            "73096",
+            "82028",
+            "82039",
+            "83059",
+            "84041",
+            "84056"
+          ]
+        },
+        "dhatu/data.txt": {
+          "blob": "d39a41a998199e60e1c69740541dd78f1464e578",
+          "entry": "02.0038"
+        },
+        "dhatu/dhatuforms_vidyut_shuddha_kartari.txt": {
+          "blob": "bf8aa01efabdef01018635147cd37a87c8987ad8",
+          "entry": "02.0038/plung",
+          "use": "supplied unprefixed table for comparison"
+        }
+      }
+    },
+    "repository_blobs": {
+      "kumudanandas_subodhini_and_the_two_sides_of_the_ocean/STATE.json": "73301b3f84b1f71ac785f69be5594facff3bd595",
+      "sitas_waist_and_the_raksasis_departure/README.md": "d8ceacf9a5ffad0ab5fadd8f2f657233c2bab7e3",
+      "compound_case_derivation/RULES_2_3_A.md": "fd1ab992dfab07a1771583d28b56d21a5c6c02aa",
+      "anga_affix_abhyasa/RULES_7_2_B.md": "a42e32f95a5cef2fa7064d57b431e0913bb3ef2b",
+      "grammar_construction/NATIVE_OPERATOR_LIFT.md": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b"
+    }
+  },
+  "execution": "Claude-deferred",
+  "new_syntax_constructions": 8,
+  "new_syntax_interfaces": 16,
+  "finite_rows": [
+    [
+      "3sg",
+      [
+        "prāstāvīt",
+        "prāstāvīd"
+      ]
+    ],
+    [
+      "3du",
+      [
+        "prāstāviṣṭām"
+      ]
+    ],
+    [
+      "3pl",
+      [
+        "prāstāviṣuḥ"
+      ]
+    ],
+    [
+      "2sg",
+      [
+        "prāstāvīḥ"
+      ]
+    ],
+    [
+      "2du",
+      [
+        "prāstāviṣṭam"
+      ]
+    ],
+    [
+      "2pl",
+      [
+        "prāstāviṣṭa"
+      ]
+    ],
+    [
+      "1sg",
+      [
+        "prāstāviṣam"
+      ]
+    ],
+    [
+      "1du",
+      [
+        "prāstāviṣva"
+      ]
+    ],
+    [
+      "1pl",
+      [
+        "prāstāviṣma"
+      ]
+    ]
+  ],
+  "syntax_constructions": [
+    "locative circumstance of departing",
+    "recognition of Sītā",
+    "arrival as cause of concealment",
+    "debt as cause of confinement",
+    "absence as cause of release",
+    "bodha with hetu",
+    "agent of understanding",
+    "Sītā asks for the cause"
+  ],
+  "source_open": [
+    "VIII.102 C., c. genitive analysis",
+    "PG871 and inherited S1–S7"
+  ],
+  "excluded_transfers": [
+    "02.0038 active sic iṭ to middle",
+    "purpose genitive as object of recognition"
+  ]
+}

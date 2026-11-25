@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG871
+# Pāṇini grammar · current written coverage at PG872
+
+PG872 · [Hanumān recognises Sītā and begins Rāma’s story](hanuman_recognises_sita_and_begins_ramas_story/README.md). Nine new finite positions and ten readings. Census 52,504 finite, 25,661 nominal positions and 29,301 nominal readings.
 
 PG871 · [Kumudānanda’s Subodhinī and the two sides of the ocean](kumudanandas_subodhini_and_the_two_sides_of_the_ocean/README.md). Mitra’s Kumudānanda excerpt is located at VIII.107. Five new syntax constructions, zero inflectional additions. Census 52,495 finite, 25,661 nominal positions and 29,301 nominal readings.
 

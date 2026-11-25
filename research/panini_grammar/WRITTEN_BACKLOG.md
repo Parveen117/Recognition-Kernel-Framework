@@ -1,4 +1,6 @@
-# Written-development backlog at PG871
+# Written-development backlog at PG872
+
+PG872 · [Hanumān recognises Sītā and begins Rāma’s story](hanuman_recognises_sita_and_begins_ramas_story/README.md). The recognition and purpose clauses and the selected pra-stu aorist are closed. The apparatus genitive, other C2–C5 domains and the inherited S1–S7 obligations remain open.
 
 PG871 · [Kumudānanda’s Subodhinī and the two sides of the ocean](kumudanandas_subodhini_and_the_two_sides_of_the_ocean/README.md). The 1636 excerpt and five syntax frames are closed. S1 needs a witness to VII.103 and the mood of its separate reading. C2–C5, the remaining source gates and Claude’s execution retain their own obligations.
 

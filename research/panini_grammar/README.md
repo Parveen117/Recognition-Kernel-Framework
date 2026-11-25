@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG872 · [Hanumān recognises Sītā and begins Rāma’s story](hanuman_recognises_sita_and_begins_ramas_story/README.md). Two acts of cognition allocate different roles to Sītā. The prefixed aorist retains both augment owners and the stop before Rāma’s name.
+
 PG871 · [Kumudānanda’s Subodhinī and the two sides of the ocean](kumudanandas_subodhini_and_the_two_sides_of_the_ocean/README.md). The historical palm-leaf notice and two commentaries fix the directional passage. Five case relations retain their distinct governors.
 
 PG870 · [Sītā’s slender waist and the departure of the rākṣasīs](sitas_waist_and_the_raksasis_departure/README.md). Jayamaṅgalā and Mallinātha assign the waist instrumental on different grounds. Their destination words differ in number.

@@ -1,5 +1,7 @@
 # Written Pāṇini work session · 2026-11-25
 
+PG872 · [Hanumān recognises Sītā and begins Rāma’s story](hanuman_recognises_sita_and_begins_ramas_story/README.md). Parent 17231974fbf6ed1c30aebfba961381abdf2f8bac. Nine new finite positions/ten readings, one morphology construction/nine interfaces, eight syntax constructions/16 interfaces, nine source decisions. No nominal increment.
+
 PG871 · [Kumudānanda’s Subodhinī and the two sides of the ocean](kumudanandas_subodhini_and_the_two_sides_of_the_ocean/README.md). Parent 58a11f242f71f9fe06934625e2497aa76957938b. Eight source decisions and five syntax constructions at ten interfaces. No new inflectional keys or readings.
 
 PG870 · [Sītā’s slender waist and the departure of the rākṣasīs](sitas_waist_and_the_raksasis_departure/README.md). Parent 1001daf22a2fdab925fd93fed38e0da04bfb32cd. 47 unique new nominal positions, 79 readings, three morphology constructions at 72 interfaces, four syntax constructions at eight interfaces, seven source decisions.
