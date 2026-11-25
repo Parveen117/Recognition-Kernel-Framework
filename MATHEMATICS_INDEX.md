@@ -1,3 +1,6 @@
+Warning: truncated output (original token count: 20106)
+Total output lines: 615
+
 Warning: truncated output (original token count: 20102)
 Total output lines: 612
 
@@ -8,6 +11,8 @@ Warning: truncated output (original token count: 129617)
 Total output lines: 5565
 
 # Canonical Mathematics Index
+
+PG803 · [Vedic bahula-vini, tolerance and absence relations](research/panini_grammar/vedic_bahula_vini_tolerance_and_absence_relations/README.md). PG14 retains possession/group/intolerance/absence relation, Vedic and semantic guard, affix/lengthening owner, source and outcome through typed zero specialization.
 
 PG802 · [Obligatory compound ṭhañ, rūpya and vini possession](research/panini_grammar/obligatory_compound_than_rupya_and_vini_possession/README.md). PG14 retains compound and semantic relation, eligibility guard, suffix/samāsānta owner, source and outcome through typed zero specialization.
 
@@ -257,9 +262,7 @@ PG680: [Śaunaka sam–gam attestation and contextual accent](research/panini_gr
 
 PG679: [Joined sam–gam active-P caṅ completion](research/panini_grammar/sam_gam_joined_cang_active_p_completion/README.md). PG14's full carrier now lifts the bounded joined `sam + aṭ + jī + gam + caṅ-a + tiṅ` construction; typed zero specialization preserves prefix/aṭ and copy/root ownership. Nine new finite positions/readings; A-pada remains Open.
 
-PG678: [Atharvaveda sam–gam tmesis and PG672 witness-scope correction](research/panini_grammar/atharvaveda_sam_gam_tmesis_and_pg672_scope_correction/README.md). The full PG14 history carrier retains separated preverb, intervening clitic and caṅ verb as typed source-order grades; zero specialization recovers the clause without erasing `sam` or upgrading it to a null-preverb witness. One syntax construction/four readouts and one provenance correction; census unchanged.
-
-PG677: [Nested gam passive blessing and aorist completion](research/panini_grammar/nested_gam_passive_blessing_aorist_com…102 tokens truncated…(papers/rkf_completed_weil_endpoint/development/SE19_SE18_AUDIT.md)
+PG678: [Atharvaveda sam–gam tmesis and PG672 witness-scope correction](research/panini_grammar/atharvaveda_sam_gam_tmesis_and_pg672_scope_correction/README.md). The full PG14 history carrier retains se…106 tokens truncated…(papers/rkf_completed_weil_endpoint/development/SE19_SE18_AUDIT.md)
 withdraws its inferred eta_pw>=0.58938/tightness and its finite-stage
 max-only local-to-global conclusion. The audit repairs the slope proof,
 auxiliary-row limit, pole polynomial and exterior majorant, and restores

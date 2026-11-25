@@ -1,3 +1,6 @@
+Warning: truncated output (original token count: 20094)
+Total output lines: 589
+
 Warning: truncated output (original token count: 20096)
 Total output lines: 584
 
@@ -8,6 +11,8 @@ Warning: truncated output (original token count: 95731)
 Total output lines: 3333
 
 # PG1 — Pāṇini: grammar before implementation
+
+PG803 · [Vedic bahula-vini, tolerance and absence relations](vedic_bahula_vini_tolerance_and_absence_relations/README.md). Constructs the displayed 5.2.122 outputs: 26 new nominal positions and 29 readings, twelve constructions/26 interfaces and ten source decisions.
 
 PG802 · [Obligatory compound ṭhañ, rūpya and vini possession](obligatory_compound_than_rupya_and_vini_possession/README.md). Constructs selected 5.2.118–121 outputs: 21 new nominal positions and 23 readings, eight constructions/21 interfaces and eight source decisions.
 
@@ -203,9 +208,7 @@ PG707 · [Vedic stoṣam and the Aśvins’ dual aorists](vedic_stosam_and_ashvi
 
 PG706 · [Two printed Kāśikā witnesses for anadyatana laṅ](anadyatana_two_printed_kasika_prescriptions/README.md). Two visually collated print editions agree on the operative laṅ, with genuine luṅ visible under neighboring 3.2.110. The 1952 editor separately reports Nyāsa padāti in a note to main-text patāti. Three observations and two decisions leave word credits unchanged. Census 52,329 finite positions and 9,358 nominal positions with 10,956 nominal readings.
 
-PG705 · [Second-singular tāriṣaḥ and the Anumati and donor witnesses](vedic_let_tarisah_two_sip_addresses_and_paippalada/README.md). Mahīdhara’s second singular uses two differently owned siP records. The Anumati and donor formulas support one new finite position and reading. The Śukla repeated preverb and the Taittirīya nominal prefix remain distinct, and the Paippalāda readings retain their manuscript and conjectural statuses. Census 52,329 finite positions and 9,358 nominal positions with 10,956 nominal readings.
-
-PG704 · [Two grade histories for tāriṣat and the no-siP patāti control](vedic_let_tarisat_marker_grade_and_patat…96 tokens truncated…hip, with kṛ-specific transfer
+PG705 · [Second-singular tāriṣaḥ and the Anumati and donor witnesses](vedic_let_tarisah_two_sip_addresses_and_paippalada/README.md). Mahīdhara’s second singular uses two differently owned siP records. The Anumati and donor formulas support one new finite position and reading. The Śukla repe…94 tokens truncated…hip, with kṛ-specific transfer
 and bhū/as kartari P. San s/ṣ survives the addressed outer sic-lopa;
 initial aṭ, outer iṭ and ending īṭ remain separate. The native
 construction proves the surface-word/auxiliary-family obstruction and

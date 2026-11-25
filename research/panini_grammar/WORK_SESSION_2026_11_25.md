@@ -2,6 +2,12 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG803 · Vedic bahula-vini, tolerance and absence relations
+
+PG803 · [Vedic bahula-vini, tolerance and absence relations](vedic_bahula_vini_tolerance_and_absence_relations/README.md). Constructs the displayed 5.2.122 outputs with 26 new nominal positions and 29 readings. Finite positions/readings increase by zero. Twelve constructions/26 interfaces, zero new source observations and ten decisions. Census: 52,357 finite positions, 21,689 nominal positions and 24,574 nominal readings.
+
+Parent `e1e7ffd1f21d2596904d39a972d3cc5162b3a000`. The containing commit pins this packet. Displayed outputs, semantic contrasts and controls are CLOSED. Wider Vedic distribution, independent accent derivations, unlocated example addresses, recensional priority and complete paradigms remain Open. Continue from 5.2.123. C2–C5 and S1–S7 remain Open; S5 is 99/103 and S6 retains the independent 5.56 k-it effect. Claude retains execution, generators, untouched suites and replay.
+
 ## PG802 · Obligatory compound ṭhañ, rūpya and vini possession
 
 PG802 · [Obligatory compound ṭhañ, rūpya and vini possession](obligatory_compound_than_rupya_and_vini_possession/README.md). Constructs selected 5.2.118–121 outputs with 21 new nominal positions and 23 readings. Finite positions/readings increase by zero. Eight constructions/21 interfaces, zero new source observations and eight decisions. Census: 52,357 finite positions, 21,663 nominal positions and 24,545 nominal readings.

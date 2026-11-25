@@ -1,0 +1,36 @@
+{
+  "stage":"PG803",
+  "morphology_constructions":[
+    {"id":"BAHULA_VINI_CONTROL","rule":"5.2.122","interfaces":["TE122","VA122"]},
+    {"id":"LONG_VINI_BASES","rule":"5.2.122 supplement","interfaces":["AS122","MK122","DV122","UB122","RU122","HR122"]},
+    {"id":"MARMAN_AMAYA_VINI","rule":"5.2.122 supplement","interfaces":["MR122","AM122"]},
+    {"id":"ARAKAN_PAIR","rule":"5.2.122 supplement","interfaces":["SG122","VR122"]},
+    {"id":"INAC_PAIR","rule":"5.2.122 supplement","interfaces":["PH122","BR122"]},
+    {"id":"HRDAYA_ALTERNATIVES","rule":"5.2.122 supplement","interfaces":["HA122"]},
+    {"id":"ALUJ_INTOLERANCE","rule":"5.2.122 supplement","interfaces":["SI122","US122","TR122"]},
+    {"id":"HIMA_ELU","rule":"5.2.122 supplement","interfaces":["HM122"]},
+    {"id":"BALA_ULU","rule":"5.2.122 supplement","interfaces":["BL122"]},
+    {"id":"VATA_TWO_RELATIONS","rule":"5.2.122 supplement","interfaces":["VG122","VI122"]},
+    {"id":"TAN_PAIR","rule":"5.2.122 supplement","interfaces":["PV122","MT122"]},
+    {"id":"ARTHA_POLARITY","rule":"5.2.122 supplement","interfaces":["AB122","AP122"]}
+  ],
+  "nominal_positions":[
+    {"id":"TE122","readings":["agne tejasvin"]},{"id":"VA122","readings":["sūryo varcasvān"]},
+    {"id":"AS122","readings":["aṣṭrāvī"]},{"id":"MK122","readings":["mekhalāvī"]},{"id":"DV122","readings":["dvayāvī"]},{"id":"UB122","readings":["ubhayāvī"]},{"id":"RU122","readings":["rujāvī"]},{"id":"HR122","readings":["hṛdayāvī"]},{"id":"MR122","readings":["marmāvī"]},{"id":"AM122","readings":["āmāyāvī"]},
+    {"id":"SG122","readings":["śṛṅgārakaḥ"]},{"id":"VR122","readings":["vṛndārakaḥ"]},{"id":"PH122","readings":["phalinaḥ"]},{"id":"BR122","readings":["barhiṇaḥ"]},
+    {"id":"HA122","readings":["hṛdayāluḥ","hṛdayī","hṛdayikaḥ","hṛdayavān"]},{"id":"SI122","readings":["śītāluḥ"]},{"id":"US122","readings":["uṣṇāluḥ"]},{"id":"TR122","readings":["tṛprāluḥ"]},{"id":"HM122","readings":["himeluḥ"]},{"id":"BL122","readings":["balūlaḥ"]},
+    {"id":"VG122","readings":["vātūlaḥ [wind-group]"]},{"id":"VI122","readings":["vātūlaḥ [unable to bear wind]"]},{"id":"PV122","readings":["parvataḥ"]},{"id":"MT122","readings":["maruttaḥ"]},{"id":"AB122","readings":["arthī [without wealth]"]},{"id":"AP122","readings":["arthavān [having wealth]"]}
+  ],
+  "source_policy_decisions":[
+    {"id":"BAHULA_DISTRIBUTION","status":"Accepted/Open","decision":"Accept tejasvin and the varcasvān control; wider Vedic distribution remains Open."},
+    {"id":"LONG_VINI_BOUNDARY","status":"Accepted/Open","decision":"Accept six displayed long-vowel paths without generalizing them to all bases."},
+    {"id":"AMAYA_REGISTER","status":"Accepted","decision":"Accept āmāyāvī in both Vedic and ordinary language as stated."},
+    {"id":"SUPPLEMENT_OWNERS","status":"Accepted","decision":"Keep ārakan, inac and tan on their named bases with separate ownership."},
+    {"id":"HRDAYA_CHOICES","status":"Accepted","decision":"Retain ālu, ini, ṭhan and matup as four alternatives for the displayed hṛdaya request."},
+    {"id":"INTOLERANCE_GUARD","status":"Accepted/Excluded","decision":"Accept āluj, elu and ūlu only on the displayed inability-to-bear relations; ordinary possession is not excluded."},
+    {"id":"VATA_POLYSEMY","status":"Accepted","decision":"Keep wind-group and wind-intolerance as two typed positions despite identical vātūla surfaces."},
+    {"id":"ARTHA_ABSENCE","status":"Accepted","decision":"Accept ini for absence and matup for ordinary possession; do not collapse their semantic polarity."},
+    {"id":"ACCENT_SCOPE","status":"Open","decision":"Displayed accent marks are source evidence; independent derivation and wider recitation remain Open."},
+    {"id":"ROSTER_LIMIT","status":"Accepted/Open","decision":"Close displayed outputs only; unlocated wider examples and complete paradigms remain Open."}
+  ]
+}
