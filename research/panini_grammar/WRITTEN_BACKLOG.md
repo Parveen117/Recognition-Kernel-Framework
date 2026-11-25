@@ -1,4 +1,6 @@
-# Written-development backlog at PG860
+# Written-development backlog at PG861
+
+PG861 · [The active persons of repeated sleep and the three Vedic controls for īṭ](the_remaining_active_persons_of_repeated_sleep_and_three_vedic_controls/README.md). All nine unprefixed active yaṅ-luk present cells are closed on the stated domain. Further categories and prefixed senses, C2–C5 and S1–S7 remain open.
 
 PG860 · [The December 2018 API exports at dhi ca and anadyatane laṅ](december_2018_api_exports_at_dhi_ca_and_anadyatana/README.md). The 2018 source family closes a dated transmission question. The original reassignment before the first located export, four Uṇādi mappings and other written gates remain open in the four-part register.
 

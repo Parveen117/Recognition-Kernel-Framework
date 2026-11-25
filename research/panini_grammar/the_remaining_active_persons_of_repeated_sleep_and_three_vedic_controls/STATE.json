@@ -1,0 +1,92 @@
+{
+  "stage": "PG861",
+  "publication_parent": "454056cecd50d08633d5cdfb756cf2210cffe17d",
+  "baseline": "../december_2018_api_exports_at_dhi_ca_and_anadyatana/STATE.json",
+  "finite_positions": 52465,
+  "nominal_positions": 25260,
+  "nominal_readings": 28863,
+  "new_finite_positions": 6,
+  "new_finite_readings": 8,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 0,
+  "new_morphology_constructions": 1,
+  "new_morphology_interfaces": 6,
+  "source_decisions": [
+    "SECOND_SINGULAR_HAS_TWO_RETROFLEX_READINGS",
+    "FIRST_SINGULAR_HAS_TWO_PIT_READINGS",
+    "FOUR_WEAK_CELLS_PRESERVE_LONG_I",
+    "AUGMENTED_VERSE_WORDS_HAVE_DRUM_AND_BULL_SUBJECTS",
+    "UNAUGMENTED_VERSE_WORD_HAS_WHEEL_SUBJECT"
+  ],
+  "sources": {
+    "madhaviya": {
+      "item": "qVcq_madhaviya-dhatu-vritti-by-sayana-acharya-edited-by-swami-dwarika-das-shastri-198",
+      "leaf": 394,
+      "image_sha256": "df0bbfd4d55f4ccde965956aea26cbe160dc4b1ed6bed9ff98eef88938a178ca",
+      "url": "https://archive.org/details/qVcq_madhaviya-dhatu-vritti-by-sayana-acharya-edited-by-swami-dwarika-das-shastri-198/page/n394/mode/1up"
+    },
+    "scl": {
+      "commit": "1ec51dc4cbfecf271e4f3cb0bba41f25b5921572",
+      "path": "dhaatupaatha/files/madhaviya_XAwuvqwwi_new.xml",
+      "git_blob": "d14a4235af32a9256615e263b4589e61c9ce25e7",
+      "sha256": "4562749571a7efe3b474b1c68f821cfc7271b07893e753ffc66e2fc7a4a79e76",
+      "entry_id": 682,
+      "number": 1000
+    },
+    "kasika": {
+      "repo": "ashtadhyayi-com/data",
+      "commit": "db9a7f1dba06159e6bcd6efb92c9d01857939947",
+      "path": "sutraani/kashika.txt",
+      "blob": "33aee69f03d8c88d8406875c82b5d0fb1bec9b7d",
+      "fields": [
+        "11005",
+        "12004",
+        "13014",
+        "13015",
+        "13016",
+        "13078",
+        "34078",
+        "61078",
+        "64082",
+        "71004",
+        "71005",
+        "71006",
+        "73084",
+        "73094",
+        "74021",
+        "83059"
+      ]
+    },
+    "rk": {
+      "06/047": {
+        "repository": "vishvAsa/vedAH_Rk",
+        "commit": "5ac9230e97be248a343e21a5a2f5e412c33e2021",
+        "path": "shAkalam/saMhitA/sarva-prastutiH/06/047.md",
+        "blob": "70ae179459e7eac818e27da4b996ab323932a05b"
+      },
+      "04/058": {
+        "repository": "vishvAsa/vedAH_Rk",
+        "commit": "5ac9230e97be248a343e21a5a2f5e412c33e2021",
+        "path": "shAkalam/saMhitA/sarva-prastutiH/04/058.md",
+        "blob": "97076b2586e87bbf898649e5a8a490cbe68b9eb6"
+      },
+      "01/164": {
+        "repository": "vishvAsa/vedAH_Rk",
+        "commit": "5ac9230e97be248a343e21a5a2f5e412c33e2021",
+        "path": "shAkalam/saMhitA/sarva-prastutiH/01/164.md",
+        "blob": "0553c592503275d4790198ee96ba98f83df6528c"
+      }
+    },
+    "repository_blobs": {
+      "december_2018_api_exports_at_dhi_ca_and_anadyatana/STATE.json": "8063f238dadacd3bd5f819d5b7537b2714b0838e",
+      "desire_repeated_sleep_and_the_deleted_intensive/README.md": "46800e26671bff5ef842678184632e72ed4ac7c6",
+      "desire_repeated_sleep_and_the_deleted_intensive/STATE.json": "443d59d60b12bf50b368f2c635c0bc27c3eb0a26",
+      "anga_affix_abhyasa/RULES_7_1_A.md": "fd07e4424c5176ec926aaed2a86cb5feba4725a7",
+      "anga_affix_abhyasa/SOURCE_EXCERPTS.json": "5deccfa3a413c5721d902714f4c3de35891cadae",
+      "grammar_construction/NATIVE_OPERATOR_LIFT.md": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b"
+    }
+  },
+  "execution": "Claude-deferred",
+  "new_syntax_constructions": 1,
+  "new_syntax_interfaces": 3
+}

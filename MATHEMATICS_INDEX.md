@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG861 · [The active persons of repeated sleep and the three Vedic controls for īṭ](research/panini_grammar/the_remaining_active_persons_of_repeated_sleep_and_three_vedic_controls/README.md). The same typed ending-marker condition recovers two strong paths and one weak path.
+
 PG860 · [The December 2018 API exports at dhi ca and anadyatane laṅ](research/panini_grammar/december_2018_api_exports_at_dhi_ca_and_anadyatana/README.md). Exact, quotation-only and causal relations are kept on their source-specific grades.
 
 PG859 · [The child, the frogs and the reclining figure in the Ṛgveda](research/panini_grammar/the_child_the_frogs_and_the_reclining_figure_in_the_rigveda/README.md). A recited word, its suppressed ending, an annotator’s label and the admissible agreement retain their own grades.

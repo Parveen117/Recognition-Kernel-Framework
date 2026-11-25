@@ -1,5 +1,7 @@
 # Written Pāṇini work session · 2026-11-25
 
+PG861 · [The active persons of repeated sleep and the three Vedic controls for īṭ](the_remaining_active_persons_of_repeated_sleep_and_three_vedic_controls/README.md). Parent 454056cecd50d08633d5cdfb756cf2210cffe17d. Five decisions, one morphology construction at six new positions, one syntax comparison across three verses. Three printed third persons and three earlier Vedic citations reserved.
+
 PG860 · [The December 2018 API exports at dhi ca and anadyatane laṅ](december_2018_api_exports_at_dhi_ca_and_anadyatana/README.md). Parent 0097367e950735f3f66e4eb0b6f9f48511aac0de. Eight source decisions, zero new inflection positions, readings or morphological constructions. Two December 2018 exports and the May 2020 fields collated.
 
 PG859 · [The child, the frogs and the reclining figure in the Ṛgveda](the_child_the_frogs_and_the_reclining_figure_in_the_rigveda/README.md). Parent 5eb3b920990aafb49fa148ff14894f41922c1bfe. Seven source decisions. Two morphology constructions at three distinct keys, one syntax comparison at four verse interfaces. Two positions and four readings added.

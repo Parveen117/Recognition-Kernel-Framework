@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG860
+# Pāṇini grammar · current written coverage at PG861
+
+PG861 · [The active persons of repeated sleep and the three Vedic controls for īṭ](the_remaining_active_persons_of_repeated_sleep_and_three_vedic_controls/README.md). Six new finite positions and eight readings close the selected active intensive present. Census 52,465 finite, 25,260 nominal and 28,863 nominal readings.
 
 PG860 · [The December 2018 API exports at dhi ca and anadyatane laṅ](december_2018_api_exports_at_dhi_ca_and_anadyatana/README.md). The erroneous 8.2.25 placement already exists in both December 2018 API exports. Census 52,459 finite, 25,260 nominal and 28,863 nominal readings.
 

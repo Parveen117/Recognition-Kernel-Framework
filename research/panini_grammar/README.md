@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG861 · [The active persons of repeated sleep and the three Vedic controls for īṭ](the_remaining_active_persons_of_repeated_sleep_and_three_vedic_controls/README.md). The optional long augment at the first and second singular, four weak forms, and the drum, bull and wheel in three cited verses.
+
 PG860 · [The December 2018 API exports at dhi ca and anadyatane laṅ](december_2018_api_exports_at_dhi_ca_and_anadyatana/README.md). Two independent dates for the misplaced commentary fields and a pre-bulk-edit witness for laṅ at 3.2.111.
 
 PG859 · [The child, the frogs and the reclining figure in the Ṛgveda](the_child_the_frogs_and_the_reclining_figure_in_the_rigveda/README.md). The Śākala perfect plural and singular, the present accusative at two loci, and a competing annotation.
