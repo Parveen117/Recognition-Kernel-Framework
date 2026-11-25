@@ -1,6 +1,8 @@
-# Written-development backlog at PG820
+# Written-development backlog at PG821
 
-Monty · 2026-11-25 · reviewed parent d8c46a3c4493dba0b6bc6609b5f05a3872a3a7b4. Historical closures below retain their exact pins.
+Monty · 2026-11-25 · reviewed parent 6aa72291748558dce50563ff35311f7fa7729ee9. Historical closures below retain their exact pins.
+
+PG821 · [Ubhaya complete non-vocative paradigm](ubhaya_complete_nonvocative_paradigm/README.md). The positive 5.2.44 `ubha→ubhaya` M/F/N all-number seven-case paradigm is CLOSED: 63 positions/65 readings, 60/62 newly credited after PG789's M NOMsg, N NOMsg and M NOMpl controls. The inner both-member/class relation, outer agreement number, obligatory `tayap→ayac` history and PG789's two accepted source policies remain separately visible. Vocative, exact accent, wider senses, independent attestations and historical policy priority remain Open; no missing evidence is an exclusion. Next audit positively licensed `nema/sama/sima` sense boundaries before any paradigm credit. C2–C5/S1–S7 remain Open; S5 is 99/103, S6 retains the 5.56 k-it effect, and Claude retains execution.
 
 PG820 · [Eka-derived determination dual/plural panels](eka_determination_dual_plural_panels/README.md). The positively formed `ekatara/ekatama` M/F/N dual/plural seven-case panels are CLOSED: 84 positions/readings, one ending adapter/84 interfaces and one selected-member number/case contract/28 frames. With PG433, selected non-vocative all-number panels are CLOSED. The N-singular `ekataram` versus `ekatamat/d` source contrast remains singular-only. Other senses/compounds/names, vocative, accent, external attestations and independent print/Kaiyaṭa/Bāla collation remain Open. Next review the remaining positively licensed sarvādi members and derived-pronoun number panels; do not infer them from spelling. C2–C5/S1–S7 remain Open; S5 is 99/103, S6 retains the 5.56 k-it effect, and Claude retains execution.
 

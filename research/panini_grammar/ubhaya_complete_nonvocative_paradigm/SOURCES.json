@@ -1,0 +1,64 @@
+{
+  "project_dependencies": [
+    {
+      "commit": "6aa72291748558dce50563ff35311f7fa7729ee9",
+      "path": "research/panini_grammar/eka_determination_dual_plural_panels/STATE.json",
+      "git_blob_sha": "7dfb833b42ffaa414204a144d0da33f786d19d7e",
+      "sha256": "df5edca128f501206cca19ac7204817507188b29f7217b761760c9551f73a46c",
+      "use": "PG820 baseline"
+    },
+    {
+      "commit": "021199725240e1795780a5540a3e71a7867b028b",
+      "path": "research/panini_grammar/numeral_parts_wholes_and_surplus_hundreds/STATE.json",
+      "git_blob_sha": "dd9b8ea99f4ab58f89061c2b5b0ca569b93418ad",
+      "sha256": "9c5d2ee13de05482153221b5398bc88936392d9214f253fa1ce26a77c97ee837",
+      "use": "PG789 controls and explicit complete-paradigm Open obligation"
+    },
+    {
+      "commit": "021199725240e1795780a5540a3e71a7867b028b",
+      "path": "research/panini_grammar/numeral_parts_wholes_and_surplus_hundreds/RELATION.json",
+      "git_blob_sha": "44416e794288a0e845352e1d240d08386fdb6ea4",
+      "sha256": "7cc10b022f6a3917132c13fd9cf9c9ea4dda84149a996b67f10b0dea7b912824",
+      "use": "Exact ubha relation, obligatory ayac replacement, controls and accepted policies"
+    },
+    {
+      "commit": "021199725240e1795780a5540a3e71a7867b028b",
+      "path": "research/panini_grammar/numeral_parts_wholes_and_surplus_hundreds/SOURCES.json",
+      "git_blob_sha": "550da9904f364dcea9cccecedd8093ba8e2fa8d4",
+      "sha256": "73d2a516f458ba49985b0dbcf1bf23468ff71538965fbe5e98a48a2103aa1627",
+      "use": "Frozen 5.2.44 source field and accent/source-policy evidence"
+    },
+    {
+      "commit": "10c6c94401d4ff3178bc4738469ce8d63087cc02",
+      "path": "research/panini_grammar/eka_determination_affixes_and_neuter_exception/SOURCES.json",
+      "git_blob_sha": "b49953bdfd13de73013eba901b300822253fa0ad",
+      "sha256": "b089194beacffc822b85a7a48b96f5908790b9e28b60a8aa6aeb5909308d22c5",
+      "use": "Frozen Kāśikā 1.1.27 sarvādi field listing ubhaya"
+    },
+    {
+      "commit": "10c6c94401d4ff3178bc4738469ce8d63087cc02",
+      "path": "research/panini_grammar/sarva_three_genders_shi_sut_and_nasal_owners/DERIVATION_AND_NATIVE_RECOVERY.md",
+      "git_blob_sha": "b4cd72c7628a14d4524a4cefd779b013cbeb660f",
+      "sha256": "7355c74afb428e3a84bd881bbc90cf21df35b47f0cc6db9d9724c36c8d1dbcbf",
+      "use": "Reviewed M/F/N ending, number, nasal and sibilant ownership"
+    },
+    {
+      "commit": "10c6c94401d4ff3178bc4738469ce8d63087cc02",
+      "path": "research/panini_grammar/sarva_three_genders_shi_sut_and_nasal_owners/NOMINAL_FORMS.tsv",
+      "git_blob_sha": "79a893197865f4b65d136df16d3fd3dddfd0702f",
+      "sha256": "d5f9f519958bf4a1d82aec9712e717fdc90bda88041532643d3feb1455b0f715",
+      "use": "Frozen literal a-final sarvanāma controls"
+    },
+    {
+      "commit": "10c6c94401d4ff3178bc4738469ce8d63087cc02",
+      "path": "research/panini_grammar/grammar_construction/NATIVE_OPERATOR_LIFT.md",
+      "git_blob_sha": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+      "sha256": "f52e7f5cf539ef56859b890669ef738848491e4005e73be75baa49c899b5dafd",
+      "use": "PG14 full operator/history carrier"
+    }
+  ],
+  "duplicate_audit": "Only PG789 M NOMsg ubhayaḥ, N NOMsg ubhayam and M NOMpl ubhaye are prior credited principal keys; no other exact principal paradigm key was found.",
+  "source_fields_reused_without_new_observation_credit": "PG789 preserves 5.2.44, both accepted ubha analyses, affix/accent ownership and three controls; frozen 1.1.27 and sarva registers preserve class and ending fields.",
+  "source_observations_new": 0,
+  "source_policy_decisions_new": 0
+}

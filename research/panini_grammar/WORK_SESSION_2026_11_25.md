@@ -2,6 +2,12 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG821 · Ubhaya complete non-vocative paradigm
+
+PG821 · [Ubhaya complete non-vocative paradigm](ubhaya_complete_nonvocative_paradigm/README.md). Constructs nine gender×number panels with seven distinct cases: 63 positions/65 readings. PG789 already owns M NOMsg `ubhayaḥ`, N NOMsg `ubhayam` and M NOMpl `ubhaye`; PG821 therefore credits 60 new nominal positions/62 readings. One ending adapter has 63 interfaces; one outer agreement-number/case contract has 21 frames. Finite positions/readings, source observations and source-policy decisions each increase by zero. Census: 52,357 finite positions, 22,615 nominal positions and 25,583 nominal readings.
+
+Parent `6aa72291748558dce50563ff35311f7fa7729ee9`. PG789's positive 5.2.44 `tayap→ayac` derivation, inner both-member/class relation and two accepted source policies are retained without choosing a priority. Outer number belongs to the referent bearing the inner relation. The selected non-vocative paradigm is CLOSED. Vocative, exact accent, wider senses, independent attestations and historical policy priority remain Open. PG335's correction and PG340/346, PG349–352, PG355–360 and PG357–363 closures are preserved. C2–C5/S1–S7 remain Open; S5 is 99/103 and S6 retains the independent 5.56 k-it effect. Claude retains execution, generators, untouched suites and replay.
+
 ## PG820 · Eka-derived determination dual/plural panels
 
 PG820 · [Eka-derived determination dual/plural panels](eka_determination_dual_plural_panels/README.md). Constructs 12 literal stem×gender×number panels with seven distinct cases: 84 new nominal positions/readings. One morphology ending adapter has 84 interfaces; one selected-member number/case contract has 28 frames. Finite positions/readings, source observations and source-policy decisions each increase by zero. Census: 52,357 finite positions, 22,555 nominal positions and 25,521 nominal readings.

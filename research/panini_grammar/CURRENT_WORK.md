@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG820
+# Pāṇini grammar · current written coverage at PG821
+
+PG821 · [Ubhaya complete non-vocative paradigm](ubhaya_complete_nonvocative_paradigm/README.md). Closes the positive 5.2.44 `ubha→ubhaya` M/F/N all-number seven-case paradigm: 63 positions/65 readings, with 60 new positions/62 readings after three PG789 controls. One ending adapter/63 interfaces and one outer agreement-number/case contract/21 frames. Census: 52,357 finite positions, 22,615 nominal positions and 25,583 nominal readings. Vocative, exact accent, wider senses/attestations and PG789's two accepted source-policy priority remain Open.
 
 PG820 · [Eka-derived determination dual/plural panels](eka_determination_dual_plural_panels/README.md). Closes `ekatara/ekatama` M/F/N dual/plural seven-case panels: 84 new nominal positions/readings, one ending adapter/84 interfaces and one selected-member number/case contract/28 frames. Census: 52,357 finite positions, 22,555 nominal positions and 25,521 nominal readings. With PG433, selected non-vocative all-number panels are CLOSED; the N-singular 7.1.26 contrast remains singular-only and wider lexical/vocative/accent/source extensions remain Open.
 

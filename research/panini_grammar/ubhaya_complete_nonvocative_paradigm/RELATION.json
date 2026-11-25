@@ -1,0 +1,39 @@
+{
+  "schema": "rkf.panini.pg821.relation.v1",
+  "input": {
+    "roots": null,
+    "preverbs": [],
+    "voice": null,
+    "source_base": "ubha",
+    "affix_history": ["tayap admitted", "ayac obligatory replacement"],
+    "sense": "whole constituted by both members or classes",
+    "genders": ["M","F","N"],
+    "numbers": ["singular","dual","plural"],
+    "cases": ["nom","acc","ins","dat","abl","gen","loc"]
+  },
+  "transport_contract": {
+    "name": "ubhaya outer agreement-number/case transport",
+    "frames": 21,
+    "definition": "One admitted derived stem × three outer numbers × seven cases; gender selects realization.",
+    "inner_outer_guard": "The inner both-member/class relation is retained; outer inflectional number belongs to the referent bearing that relation.",
+    "policy_guard": "PG789's two accepted analyses of ubha's numerical status remain source-labelled alternatives and converge only after obligatory ayac replacement."
+  },
+  "morphology": {
+    "adapter": "a-final sarvanāma all-number seven-case realization",
+    "rows": 9,
+    "positions_per_row": 7,
+    "interfaces": 63,
+    "ledger": "CASE_PANELS.tsv"
+  },
+  "prior_controls": {
+    "positions": 3,
+    "readings": 3,
+    "keys": ["M NOMsg ubhayaḥ","N NOMsg ubhayam","M NOMpl ubhaye"],
+    "owner": "PG789"
+  },
+  "status": {
+    "accepted": "All 63 literal keys/65 readings in CASE_PANELS.tsv; 60/62 are new after three PG789 controls.",
+    "excluded_from_contract": ["retained ubhataya under 5.2.44", "loss of inner both relation", "merger of equal-surface case keys", "automatic accent transfer"],
+    "open": ["vocative and accent", "wider lexical/discourse senses", "independent attestations", "historical priority of the two accepted ubha analyses"]
+  }
+}
