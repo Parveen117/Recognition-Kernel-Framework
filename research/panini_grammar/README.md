@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG822 · [Ubhaya feminine, number and address](ubhaya_feminine_number_and_address/README.md). The two dual policies, ṅīp feminine, independent-affix analysis and six singular/plural address forms correct PG821's unconditional closure.
+
 PG821 · [Ubhaya complete non-vocative paradigm](ubhaya_complete_nonvocative_paradigm/README.md). Constructs the 63-key/65-reading M/F/N all-number seven-case paradigm, crediting 60 positions/62 readings after three PG789 controls, with one ending adapter/63 interfaces and one outer agreement contract/21 frames.
 
 PG820 · [Eka-derived determination dual/plural panels](eka_determination_dual_plural_panels/README.md). Constructs 84 M/F/N dual/plural seven-case positions/readings for `ekatara/ekatama`, one ending adapter/84 interfaces and one selected-member number/case contract/28 frames.

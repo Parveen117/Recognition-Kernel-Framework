@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG821
+# Pāṇini grammar · current written coverage at PG822
+
+PG822 · [Ubhaya feminine, number and address](ubhaya_feminine_number_and_address/README.md). Corrects PG821. Six new vocatives, fourteen replacement feminine readings, seven suspended feminine duals. The fourteen M/N dual forms require the permissive commentary policy. Active census 52,357 finite positions, 22,614 nominal positions and 25,582 nominal readings.
 
 PG821 · [Ubhaya complete non-vocative paradigm](ubhaya_complete_nonvocative_paradigm/README.md). Closes the positive 5.2.44 `ubha→ubhaya` M/F/N all-number seven-case paradigm: 63 positions/65 readings, with 60 new positions/62 readings after three PG789 controls. One ending adapter/63 interfaces and one outer agreement-number/case contract/21 frames. Census: 52,357 finite positions, 22,615 nominal positions and 25,583 nominal readings. Vocative, exact accent, wider senses/attestations and PG789's two accepted source-policy priority remain Open.
 

@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG822 · [Ubhaya feminine, number and address](research/panini_grammar/ubhaya_feminine_number_and_address/README.md). The source decision, feminine suffix and realization maps have different grades. PG14 augmentation preserves their composition and carries both blocked and unresolved histories into the appropriate output summands.
+
 PG821 · [Ubhaya complete non-vocative paradigm](research/panini_grammar/ubhaya_complete_nonvocative_paradigm/README.md). PG14 retains `ubha`, accepted source policy, inner both-member/class relation, `tayap→ayac` history, derived stem, referent/cardinality, gender/number/case, original sup, operation owner, source, ordered history and word; typed derivation, outer agreement and ending adapters prove zero specialization without choosing a policy winner, recreating `ubhataya` or projecting accent.
 
 PG820 · [Eka-derived determination dual/plural panels](research/panini_grammar/eka_determination_dual_plural_panels/README.md). PG14 retains source question, comparison set, selected member/cardinality, `eka` base, `ḍatarac/ḍatamac`, gender/number/case, original sup, ending/nasal/sibilant owner, source, ordered history and word; typed number/case and ending adapters prove zero specialization without exporting the N-singular 7.1.26 fork or merging equal surfaces.

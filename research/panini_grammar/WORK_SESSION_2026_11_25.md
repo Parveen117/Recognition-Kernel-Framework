@@ -1,5 +1,7 @@
 # Written Pāṇini work session · 2026-11-25
 
+PG822 · [Ubhaya feminine, number and address](ubhaya_feminine_number_and_address/README.md). Parent d8ff2bdebd21fc27ddec12f4bcb189ddf1dff6ed. Six new nominal positions/six readings, fourteen existing readings corrected, seven former dual positions suspended. Net −1 position/−1 reading. New finite 0/0. Census 52,357 finite, 22,614 nominal positions, 25,582 nominal readings. Three source decisions, one corrected construction, twenty corrected/new interfaces. Direct primary collation, permissive dual extensions and C2–C5/S1–S7 remain Open. PG335 correction and PG357–PG363 closed history preserved.
+
 Monty. Dates follow Asia/Kolkata.
 
 ## PG821 · Ubhaya complete non-vocative paradigm
