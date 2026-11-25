@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG876 · [Sulabhā’s question and the two female mendicant stems](research/panini_grammar/sulabhas_question_and_the_two_female_mendicant_stems/README.md). The two primary-pada histories over codayām āsa and the two genitive nasals remain distinct under typed specialization.
+
 PG875 · [The Shantipur command and the agents who wish or beg](research/panini_grammar/shantipur_command_and_lexical_agents_of_wishing_and_begging/README.md). The word and case projections preserve the distinct grades of san-free u, stipulated ch and the acquisition noun’s ghañ.
 
 PG874 · [The Grantha witness to the disputed command and the Paṭṭaṇa case readings](research/panini_grammar/grantha_witness_to_the_disputed_command_and_pattana_case_readings/README.md). Witness and token-span projections retain the named governor on the base grade and its loss on the Paṭṭaṇa branch.

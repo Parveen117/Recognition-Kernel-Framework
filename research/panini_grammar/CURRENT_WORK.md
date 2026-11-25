@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG875
+# Pāṇini grammar · current written coverage at PG876
+
+PG876 · [Sulabhā’s question and the two female mendicant stems](sulabhas_question_and_the_two_female_mendicant_stems/README.md). Sulabhā’s question and the Vinaya’s female preceptor give 18 new finite positions/55 readings and 48 nominal positions/readings. Census 52,531 finite, 25,802 nominal and 29,446 nominal readings.
 
 PG875 · [The Shantipur command and the agents who wish or beg](shantipur_command_and_lexical_agents_of_wishing_and_begging/README.md). Shantipur canvas 39 has the main reading at VII.101. Four nominal schedules add 93 positions and 97 readings. Census 52,513 finite and 25,754 nominal positions, 29,398 nominal readings.
 

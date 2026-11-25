@@ -1,0 +1,238 @@
+{
+  "stage": "PG876",
+  "publication_parent": "abe8d904667c1bd297e6b46cb4006c154a70b6c2",
+  "baseline": "../shantipur_command_and_lexical_agents_of_wishing_and_begging/STATE.json",
+  "finite_positions": 52531,
+  "nominal_positions": 25802,
+  "nominal_readings": 29446,
+  "new_finite_positions": 18,
+  "new_finite_readings": 55,
+  "new_nominal_positions": 48,
+  "new_nominal_readings": 48,
+  "new_morphology_constructions": 4,
+  "new_morphology_interfaces": 66,
+  "source_decisions": [
+    "SULABHA_NAMED_TWICE",
+    "QUESTIONER_AND_OBJECT_OF_QUESTION",
+    "CUD_CURADI_NIC_IN_OWN_SENSE",
+    "AS_DOES_NOT_IDENTIFY_PRIMARY_PADA",
+    "KR_FOLLOWS_PRIMARY_ON_ADMITTED_BRANCHED_DOMAIN",
+    "BHIKSUKI_AND_BHIKSUNI_DISTINCT_STEMS",
+    "PRAVRAJYA_VERSUS_UPASAMPAD",
+    "THREE_OBLIQUE_WITNESSES_IN_VINAYA",
+    "LALITA_PLURAL_SANDHI_AND_AUDIENCE"
+  ],
+  "sources": {
+    "repository_blobs": {
+      "shantipur_command_and_lexical_agents_of_wishing_and_begging/STATE.json": "fb10aebc7d8a224f9933ded9727142c9417b4a15",
+      "grammar_construction/NATIVE_OPERATOR_LIFT.md": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+      "han_causative_perfect_and_cang_completion/PARADIGMS.md": "14a33c6e78ed45cada1cb0d2ca02b0663a08d0e6",
+      "sitas_waist_and_the_raksasis_departure/README.md": "d8ceacf9a5ffad0ab5fadd8f2f657233c2bab7e3",
+      "five_haima_roots_perfect_auxiliaries_in_print/README.md": "9667ae8ea1b47f1c0ed8cb35985d557ab245fc72"
+    },
+    "texts": {
+      "Mahābhārata": {
+        "url": "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/2_epic/mbh/mbh_12_u.htm",
+        "sha256": "a99d44fed0ad3dd2a41e7cd218f0495af1a8ae4fea936ed027401c309995bd55",
+        "locus": "12.308.7–16"
+      },
+      "Vinaya": {
+        "url": "https://www.dsbcproject.org/canon-text/content/455/2177",
+        "sha256": "04f3e7c60a32a205dba30407dbb12d7d351319b5e5dc4bb1ac43340257876fac",
+        "locus": "Pravrajyāvastu, 582–585, 588 and concluding residence passage"
+      },
+      "Lalitavistara": {
+        "url": "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/4_rellit/buddh/bsu022_u.htm",
+        "sha256": "130b2c16b4096789b7f7022a719a49f3f40ce7d716620c990107e5cfc6468f1f",
+        "locus": "Vaidya p. 65"
+      }
+    },
+    "upstream": {
+      "repository": "ashtadhyayi-com/data",
+      "commit": "5744762f010d677cfb43f347a42d02796cf615d6",
+      "files": {
+        "sutraani/kashika.txt": {
+          "blob": "e525df7668835ef1dd7c5988c031da07ce0c162b",
+          "keys": [
+            "13063",
+            "13074",
+            "13078",
+            "14003",
+            "24081",
+            "31025",
+            "31035",
+            "31040",
+            "61078",
+            "64003",
+            "71054",
+            "73086",
+            "83023",
+            "84001",
+            "84002",
+            "84058"
+          ]
+        },
+        "dhatu/data.txt": {
+          "blob": "d39a41a998199e60e1c69740541dd78f1464e578",
+          "entry": "10.0081"
+        },
+        "dhatu/dhatuforms_vidyut_shuddha_kartari.txt": {
+          "blob": "bf8aa01efabdef01018635147cd37a87c8987ad8",
+          "entry": "10.0081",
+          "fields": [
+            "plit",
+            "alit"
+          ]
+        }
+      }
+    }
+  },
+  "execution": "Claude-deferred",
+  "new_syntax_constructions": 3,
+  "new_syntax_interfaces": 11,
+  "finite_prefix": "codayām",
+  "finite_auxiliary_rows": [
+    [
+      "3sg",
+      "cakāra",
+      "cakre",
+      "āsa",
+      "babhūva"
+    ],
+    [
+      "3du",
+      "cakratuḥ",
+      "cakrāte",
+      "āsatuḥ",
+      "babhūvatuḥ"
+    ],
+    [
+      "3pl",
+      "cakruḥ",
+      "cakrire",
+      "āsuḥ",
+      "babhūvuḥ"
+    ],
+    [
+      "2sg",
+      "cakartha",
+      "cakṛṣe",
+      "āsitha",
+      "babhūvitha"
+    ],
+    [
+      "2du",
+      "cakrathuḥ",
+      "cakrāthe",
+      "āsathuḥ",
+      "babhūvathuḥ"
+    ],
+    [
+      "2pl",
+      "cakra",
+      "cakṛḍhve",
+      "āsa",
+      "babhūva"
+    ],
+    [
+      "1sg",
+      "cakara / cakāra",
+      "cakre",
+      "āsa",
+      "babhūva"
+    ],
+    [
+      "1du",
+      "cakṛva",
+      "cakṛvahe",
+      "āsiva",
+      "babhūviva"
+    ],
+    [
+      "1pl",
+      "cakṛma",
+      "cakṛmahe",
+      "āsima",
+      "babhūvima"
+    ]
+  ],
+  "nominal_stems": {
+    "bhikṣukī": [
+      "bhikṣuk",
+      "ṇ"
+    ],
+    "bhikṣuṇī": [
+      "bhikṣuṇ",
+      "n"
+    ]
+  },
+  "nominal_endings": [
+    [
+      "NOM",
+      "ī",
+      "yau",
+      "yaḥ"
+    ],
+    [
+      "ACC",
+      "īm",
+      "yau",
+      "īḥ"
+    ],
+    [
+      "INS",
+      "yā",
+      "ībhyām",
+      "ībhiḥ"
+    ],
+    [
+      "DAT",
+      "yai",
+      "ībhyām",
+      "ībhyaḥ"
+    ],
+    [
+      "ABL",
+      "yāḥ",
+      "ībhyām",
+      "ībhyaḥ"
+    ],
+    [
+      "GEN",
+      "yāḥ",
+      "yoḥ",
+      "īNām"
+    ],
+    [
+      "LOC",
+      "yām",
+      "yoḥ",
+      "īṣu"
+    ],
+    [
+      "VOC",
+      "i",
+      "yau",
+      "yaḥ"
+    ]
+  ],
+  "syntax_frames": {
+    "Sulabhā’s movement and question": [
+      "she travels alone",
+      "she hears the report",
+      "she reaches the king",
+      "she questions him"
+    ],
+    "distribution of the named Vinaya roles": [
+      "initial going forth",
+      "full ordination from the request",
+      "the prior women-only assembly"
+    ],
+    "the Buddhist case witnesses": [
+      "teacher as accusative",
+      "officiants as instrumental plural",
+      "residents as genitive plural",
+      "audience as nominative plural"
+    ]
+  }
+}

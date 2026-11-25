@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG876 · [Sulabhā’s question and the two female mendicant stems](sulabhas_question_and_the_two_female_mendicant_stems/README.md). The lexical long-ī stems, case-dependent roles and curādi perfect come with four independently checkable word schedules.
+
 PG875 · [The Shantipur command and the agents who wish or beg](shantipur_command_and_lexical_agents_of_wishing_and_begging/README.md). Three lexical u formations distinguish the agent, object of desire and means of acquisition.
 
 PG874 · [The Grantha witness to the disputed command and the Paṭṭaṇa case readings](grantha_witness_to_the_disputed_command_and_pattana_case_readings/README.md). Grantha canvas 237 and the Paṭṭaṇa apparatus preserve three distinct reports of the command and two new case comparisons.

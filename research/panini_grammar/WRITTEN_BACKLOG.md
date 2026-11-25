@@ -1,4 +1,6 @@
-# Written-development backlog at PG875
+# Written-development backlog at PG876
+
+PG876 · [Sulabhā’s question and the two female mendicant stems](sulabhas_question_and_the_two_female_mendicant_stems/README.md). The supplied female stems and selected curādi perfect are closed. Their historical suffix assignment, S4’s separate desideratives, the other C2–C5 and S1–S7 obligations remain open. Claude owns execution.
 
 PG875 · [The Shantipur command and the agents who wish or beg](shantipur_command_and_lexical_agents_of_wishing_and_begging/README.md). Closed the named Bengali manuscript’s main reading and the two lexical branches of 3.2.168 on these selected requests. The manuscript bearing the separate command and its independent mood, further gender domains, C2–C5 and S2–S7 remain open. Claude retains execution.
 
