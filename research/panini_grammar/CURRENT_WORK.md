@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG887
+# Pāṇini grammar · current written coverage at PG888
+
+PG888 · [Ordinary masculine *ahorātra* vocatives](ahoratra_masculine_vocative_panel/README.md). Three new nominal positions/readings close `ahorātra`, `ahorātrau`, `ahorātrāḥ` for PG595's ordinary masculine day-night-period family. Source-qualified neuter/Vedic branches remain Open. Census 52,531 finite, 26,032 nominal and 29,681 nominal readings.
 
 PG887 · [*Sarva* vocative panels](sarva_vocative_panels/README.md). Nine new nominal positions/readings close the selected ordinary freestanding `sarva` ‘all/entire’ M/F/N vocatives across all three numbers. Neuter ordinary `am` plus m-lopa and four equal `sarve` histories remain independently typed. Census 52,531 finite, 26,029 nominal and 29,678 nominal readings.
 

@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG888 · [Ordinary masculine *ahorātra* vocatives](research/panini_grammar/ahoratra_masculine_vocative_panel/README.md). Address, number/ending selection and word realization commute with typed zero specialization while source-qualified neuter/Vedic grades remain absent rather than silently imported.
+
 PG887 · [*Sarva* vocative panels](research/panini_grammar/sarva_vocative_panels/README.md). Address, singular selection, gender-number ending and realization commute with typed zero specialization while `am`/m-lopa and four equal `sarve` outputs retain distinct histories.
 
 PG886 · [*Sarvaka/sarvikā* vocative panels](research/panini_grammar/sarvaka_vocative_panels/README.md). Address, singular selection, gender-number ending and realization commute with typed zero specialization while positive feminine `itva`, neuter `am`/m-lopa and equal surfaces retain distinct histories.

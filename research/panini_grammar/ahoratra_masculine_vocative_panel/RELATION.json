@@ -1,0 +1,12 @@
+{
+  "schema": "rkf.panini.pg888.relation.v1",
+  "stage": "PG888",
+  "input": {"lemma": "ahorātra", "sense": "ordinary-day-night-period", "gender": "M", "numbers": ["sg", "du", "pl"], "case": "vocative", "roots": null, "preverbs": [], "verbal_pada": null, "voice": null},
+  "construction": {"address_owner": "2.3.47 first-case endings in address", "singular_owner": "2.3.49 sambuddhi only in singular", "interfaces": 3, "positions": 3, "readings": 3},
+  "source_policy_decisions": ["Admit only PG595's ordinary masculine ahorātra family to the three-number address adapter; keep source-qualified neuter/Vedic branches Open."],
+  "controls": [
+    {"id": "SOURCE_QUALIFIED_N_VEDIC", "status": "Open", "reason": "PG595 explicitly withholds cross-register transfer."},
+    {"id": "DIRECT_TEXTUAL_ATTESTATION", "status": "Open", "reason": "Constructed vocative keys do not manufacture literary occurrences."}
+  ],
+  "counts": {"new_finite_positions": 0, "new_finite_readings": 0, "new_nominal_positions": 3, "new_nominal_readings": 3, "new_morphology_constructions": 1, "new_morphology_interfaces": 3, "new_syntax_constructions": 1, "new_syntax_interfaces": 3, "new_source_observations": 0, "new_source_policy_decisions": 1}
+}

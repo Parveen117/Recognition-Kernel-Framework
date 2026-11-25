@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG888 · [Ordinary masculine *ahorātra* vocatives](ahoratra_masculine_vocative_panel/README.md). The three-number address adapter closes only PG595's ordinary masculine day-night-period family; source-qualified neuter/Vedic grades remain typed Open.
+
 PG887 · [*Sarva* vocative panels](sarva_vocative_panels/README.md). The freestanding all/entire family enters the three-number address adapter while M/N singular and four `sarve` ending histories remain typed separately.
 
 PG886 · [*Sarvaka/sarvikā* vocative panels](sarvaka_vocative_panels/README.md). The exact unknown-specific-property family enters the three-number address adapter while feminine `itva`, neuter `am`/m-lopa and same-surface ending histories remain typed separately.
