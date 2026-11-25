@@ -1,4 +1,6 @@
-# Written-development backlog at PG843
+# Written-development backlog at PG844
+
+PG844 · [The half and the seer Nema](the_half_and_the_seer_nema/README.md). The PG823/826/841/843/844 selected seven-case scope for nema, sama and sima is now written. Other dictionary meanings, names, address and accent need their own evidence. Keep the seven source gates, C2–C5 more broadly and Claude-deferred execution distinct.
 
 PG843 · [All and equal in the cases of sama](all_and_equal_in_the_cases_of_sama/README.md). Closed for the selected non-vocative free sama panels. Nema’s other genders, the separate noun for year, other Vedic senses and recitational settings keep their own registers. S2/S3 provenance and the other source gates, C2–C5 and Claude execution remain open separately.
 

@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG844 · [The half and the seer Nema](research/panini_grammar/the_half_and_the_seer_nema/README.md). PG14 separates the source of the lexical base from the two outer dative decisions and the open address input.
+
 PG843 · [All and equal in the cases of sama](research/panini_grammar/all_and_equal_in_the_cases_of_sama/README.md). Semantic status composes before the original-sup replacement. Distinct paths to same persist in the PG14 pairing.
 
 PG842 · [The boundary Indra broke and the two feminine stems](research/panini_grammar/the_boundary_indra_broke_and_the_two_feminine_stems/README.md). A two-branch 21-key case construction retains the optional ḍāp and the independent weak-locative decision on PG14.

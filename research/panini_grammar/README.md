@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG844 · [The half and the seer Nema](the_half_and_the_seer_nema/README.md). Nema’s role as a seer, the two persons in the half verse, and the nī + man dictionary derivation are now individually sourced.
+
 PG843 · [All and equal in the cases of sama](all_and_equal_in_the_cases_of_sama/README.md). Two sense-conditioned inflection paths are compared at 63 addresses and traced into Ṛgvedic and Gītā syntax.
 
 PG842 · [The boundary Indra broke and the two feminine stems](the_boundary_indra_broke_and_the_two_feminine_stems/README.md). Uṇādi 4.150 supplies two feminine boundary stems. The lexical derivation, the seven cases and the Vedic explanation of the name of the verses have separate owners.

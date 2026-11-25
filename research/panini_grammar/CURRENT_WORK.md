@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG843
+# Pāṇini grammar · current written coverage at PG844
+
+PG844 · [The half and the seer Nema](the_half_and_the_seer_nema/README.md). All three genders now have the seven ordinary half-sense cases. RV 8.100 supplies a different dative in commentary on the personal name. New 40 nominal positions/42 readings. Census 52,368 finite, 22,963 nominal positions/25,980 nominal readings.
 
 PG843 · [All and equal in the cases of sama](all_and_equal_in_the_cases_of_sama/README.md). Equality and totality select different endings across the three genders. Gītā 2.38 supplies the neuter accusative dual same. Net 58 nominal positions/76 readings. Census 52,368 finite, 22,923 nominal positions/25,938 nominal readings.
 
