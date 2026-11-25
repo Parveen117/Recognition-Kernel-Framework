@@ -1,0 +1,129 @@
+{
+  "schema": "rkf.panini.pg891.relation.v1",
+  "stage": "PG891",
+  "title": "Plural sarve address in Ramayana 7.45.2",
+  "predecessor_review": "PG887 constructed the ordinary freestanding sarva M vocative-plural key. PG890 directly attested only M vocative singular. No PG887 position, reading or ending history is recredited here.",
+  "source_request": {
+    "work": "Valmiki Ramayana",
+    "locus": "Uttarakanda 7.45.1-22, especially 7.45.2",
+    "revision": 49555,
+    "lemma": "sarva",
+    "sense": "all members of the seated addressed group",
+    "roots": ["sru", "kr"],
+    "preverbs": [],
+    "verbal_pada": "P for srnuta; A for kurudhvam",
+    "voice": "active"
+  },
+  "semantic_interfaces": [
+    {
+      "id": "SARVE_GROUP",
+      "surface": "sarve",
+      "gender": "M",
+      "number": "PL",
+      "role": "all addressed members",
+      "status": "Accepted_plural_addressee_function"
+    },
+    {
+      "id": "YUSMAN_GROUP",
+      "surface": "yusman ... purusarsabhah",
+      "gender": "M",
+      "number": "PL",
+      "role": "same addressed men",
+      "status": "Accepted_coreference_control"
+    },
+    {
+      "id": "YUYAM_GROUP",
+      "surface": "yuyam",
+      "gender": null,
+      "number": "PL",
+      "role": "second-person continuation",
+      "status": "Accepted_coreference_control"
+    },
+    {
+      "id": "BHAVANT_GROUP",
+      "surface": "bhavantah / bhavanto",
+      "gender": "M",
+      "number": "PL",
+      "role": "honorific continuation of the addressed group",
+      "status": "Accepted_coreference_control"
+    }
+  ],
+  "syntax_interfaces": [
+    {
+      "id": "SARVE_SRNUTA",
+      "surface": "sarve srnuta",
+      "role": "plural addressee plus second-person plural imperative"
+    },
+    {
+      "id": "SARVE_MA_KURUDHVAM",
+      "surface": "ma kurudhvam mano 'nyatha",
+      "role": "continued plural prohibition"
+    },
+    {
+      "id": "YUSMAN_PURUSARSABHAH",
+      "surface": "yusman va purusarsabhah",
+      "role": "masculine plural addressed group"
+    },
+    {
+      "id": "BHAVANTAH_PASYANTU",
+      "surface": "bhavantah pasyantu",
+      "role": "honorific plural continuation"
+    },
+    {
+      "id": "YUYAM",
+      "surface": "sapita hi maya yuyam",
+      "role": "second-person plural continuation"
+    },
+    {
+      "id": "BHAVANTO_MANAYANTU",
+      "surface": "manayantu bhavanto mam",
+      "role": "honorific plural continuation"
+    }
+  ],
+  "source_policy_decisions": [
+    "Admit sarve at Ramayana 7.45.2 as positive masculine-plural addressee-function evidence because it directly governs two plural imperatives and co-refers with the speech's masculine and second-person plural controls.",
+    "Retain exact formal NOM/VOC classification as Open: sarve is surface-syncretic, and the pinned witness supplies neither he nor an explicit case gloss.",
+    "Do not transfer this locus to feminine, neuter, singular, dual, accent, compound or Vedic sarva histories, and do not recredit PG887 morphology."
+  ],
+  "controls": [
+    {
+      "id": "PG887_M_PL_ADDRESSEE_FUNCTION",
+      "status": "Closed_directly_attested",
+      "reason": "sarve is the all-member addressee expression before plural commands"
+    },
+    {
+      "id": "PG887_M_VOC_PL_EXACT_CASE",
+      "status": "Open_source_analysis",
+      "reason": "NOMpl and VOCpl are syncretic and this source has no explicit case label"
+    },
+    {
+      "id": "SARVE_AS_ORDINARY_THIRD_PERSON_SUBJECT",
+      "status": "Excluded_at_this_locus",
+      "reason": "the governing predicates are second-person plural commands, not third-person statements"
+    },
+    {
+      "id": "OTHER_PG887_KEYS",
+      "status": "Open_direct_attestation",
+      "reason": "one masculine plural discourse does not attest other gender-number keys"
+    },
+    {
+      "id": "ACCENT_TRANSFER",
+      "status": "Open",
+      "reason": "the witness is unaccented"
+    }
+  ],
+  "counts": {
+    "new_finite_positions": 0,
+    "new_finite_readings": 0,
+    "new_nominal_positions": 0,
+    "new_nominal_readings": 0,
+    "new_morphology_constructions": 0,
+    "new_morphology_interfaces": 0,
+    "new_semantic_constructions": 1,
+    "new_semantic_interfaces": 4,
+    "new_syntax_constructions": 1,
+    "new_syntax_interfaces": 6,
+    "new_source_observations": 6,
+    "new_source_policy_decisions": 3
+  }
+}

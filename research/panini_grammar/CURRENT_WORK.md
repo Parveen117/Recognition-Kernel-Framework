@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG890
+# Pāṇini grammar · current written coverage at PG891
+
+PG891 · [Plural *sarve* address in Rāmāyaṇa 7.45.2](sarve_plural_address_in_ramayana_7_45_2/README.md). `Sarve` governs two plural commands and co-refers with masculine `yuṣmān ... puruṣarṣabhāḥ`, `bhavantaḥ/bhavanto` and second-person `yūyam`. Masculine-plural addressee function is source-positive; exact NOM/VOC classification remains Open because the surface is syncretic and the witness has no explicit case gloss. No PG887 key is recredited. Census remains 52,531 finite, 26,040 nominal positions and 29,690 nominal readings.
 
 PG890 · [Direct *sarva* address in Bhagavadgītā 11.40](sarva_direct_vocative_in_gita_11_40/README.md). The verse and two explicit `he sarva` explanations positively close direct M-vocative-singular attestation while retaining `sarvam` N ACCsg and `sarvaḥ` M NOMsg as separate source roles. No already credited PG887 position is repeated. Census remains 52,531 finite, 26,040 nominal and 29,690 nominal readings.
 

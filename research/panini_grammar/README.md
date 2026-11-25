@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG891 · [Plural *sarve* address in Rāmāyaṇa 7.45.2](sarve_plural_address_in_ramayana_7_45_2/README.md). The direct plural-command discourse fixes masculine-plural addressee function while retaining the exact NOM/VOC syncretic case analysis as Open.
+
 PG890 · [Direct *sarva* address in Bhagavadgītā 11.40](sarva_direct_vocative_in_gita_11_40/README.md). Source admission and role discrimination close one actual M-singular textual address without merging the same verse's accusative and nominative forms or recrediting PG887 morphology.
 
 PG889 · [Source-qualified neuter *ahorātra* singular](ahoratra_source_qualified_neuter_singular/README.md). The Mahābhārata concord and Ṛgvedic plural control admit the missing eight-key neuter singular fibre while keeping direct vocative evidence and exhaustive Vedic accent Open.

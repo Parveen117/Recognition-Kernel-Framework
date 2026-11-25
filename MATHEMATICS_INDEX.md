@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG891 · [Plural *sarve* address in Rāmāyaṇa 7.45.2](research/panini_grammar/sarve_plural_address_in_ramayana_7_45_2/README.md). Source admission, co-reference and addressee readout commute with typed zero-specialization while the NOM/VOC candidate grades and unquoted evidence remain distinct.
+
 PG890 · [Direct *sarva* address in Bhagavadgītā 11.40](research/panini_grammar/sarva_direct_vocative_in_gita_11_40/README.md). Source admission, address/object/predicate discrimination and readout commute with typed zero-specialization while the three same-lemma case histories and unresolved evidence grades remain distinct.
 
 PG889 · [Source-qualified neuter *ahorātra* singular](research/panini_grammar/ahoratra_source_qualified_neuter_singular/README.md). Source admission, gender/register selection, singular *sup* consumption and realization commute with typed zero-specialization; masculine histories and unquoted Vedic accent remain typed outside the admitted fibre.
