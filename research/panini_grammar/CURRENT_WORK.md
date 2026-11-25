@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG845
+# Pāṇini grammar · current written coverage at PG846
+
+PG846 · [Ordinary ordinal agreement and two further Kāṭhaka tha forms](ordinary_ordinal_cases_and_two_kathaka_tha_readings/README.md). Twelve ordinary ordinal profiles now have M/F/N agreement. Kāṭhaka 9.3 and 14.6 supply two more tha readings. Net +736 nominal positions/+827 readings. Census 52,368 finite and 23,821 nominal positions/26,996 nominal readings.
 
 PG845 · [The fourth part of speech, Gāyatrī’s fourth foot and the fourth state](fourth_in_speech_the_gayatri_foot_and_the_feminine_state/README.md). The three forms of fourth now have seven-case M/F/N agreement, with direct prose and verse controls. Net +122 nominal positions/+189 readings. Census 52,368 finite and 23,085 nominal positions/26,169 nominal readings.
 

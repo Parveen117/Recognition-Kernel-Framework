@@ -1,4 +1,6 @@
-# Written-development backlog at PG845
+# Written-development backlog at PG846
+
+PG846 · [Ordinary ordinal agreement and two further Kāṭhaka tha forms](ordinary_ordinal_cases_and_two_kathaka_tha_readings/README.md). PG791’s named ordinary seven-case paradigms now close with PG845. C2–C5 include the separate PG792 ordinals, other classes, suffixes, syntax and phonology. Wider Vedic endings/accents and S1–S7 remain Open. Claude owns execution.
 
 PG845 · [The fourth part of speech, Gāyatrī’s fourth foot and the fourth state](fourth_in_speech_the_gayatri_foot_and_the_feminine_state/README.md). PG791’s fourth-ordinal non-vocative case obligation closes. Its other enumerated ordinal families, including the Vedic fifth and seventh, remain open. C2–C5, S1–S7 and Claude’s execution retain separate obligations.
 

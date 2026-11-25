@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG846 · [Ordinary ordinal agreement and two further Kāṭhaka tha forms](ordinary_ordinal_cases_and_two_kathaka_tha_readings/README.md). The remaining twelve ordinary PG791 profiles have seven-case agreement. Kāṭhaka fifth-season, seventh-speech and departing-share clauses have distinct histories.
+
 PG845 · [The fourth part of speech, Gāyatrī’s fourth foot and the fourth state](fourth_in_speech_the_gayatri_foot_and_the_feminine_state/README.md). Separate case fibres for thuk, cha and yat include the three feminine stems and the directly recited Kāṇva obliques.
 
 PG844 · [The half and the seer Nema](the_half_and_the_seer_nema/README.md). Nema’s role as a seer, the two persons in the half verse, and the nī + man dictionary derivation are now individually sourced.
