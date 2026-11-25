@@ -1,3 +1,6 @@
+Warning: truncated output (original token count: 20147)
+Total output lines: 508
+
 Warning: truncated output (original token count: 20162)
 Total output lines: 505
 
@@ -13,9 +16,11 @@ Total output lines: 496
 Warning: truncated output (original token count: 93375)
 Total output lines: 2193
 
-# Written-development backlog at PG804
+# Written-development backlog at PG805
 
-Monty · 2026-11-25 · reviewed parent ac6db47adcaa5352dee835a82881e1a7a290b87b. Historical closures below retain their exact pins.
+Monty · 2026-11-25 · reviewed parent ed1c11fc5bc303c8c786ab7d42b307608af44e1b. Historical closures below retain their exact pins.
+
+PG805 · [Exclusive ini compounds and the elephant genus](exclusive_ini_compounds_and_elephant_genus/README.md). Selected 5.2.131–133 outputs, number positions and controls are CLOSED. Undisplayed sukhādi members and wider compound bases remain genuinely unconstructed; exact censure distribution, paradigms and accent remain Open. Continue from 5.2.134. C2–C5 and S1–S7 remain Open; S5 is 99/103 and S6 retains the independent 5.56 k-it effect. Claude retains execution.
 
 PG804 · [Speech, lordship, living-being ini and age restrictions](speech_lordship_living_ini_and_age_restrictions/README.md). Selected 5.2.123–130 outputs, inflections, guards and controls are CLOSED. Undisplayed arśādi members and wider disease/fault lexicon remain genuinely unconstructed. The 5.2.123 Vedic scope, two source spellings, paradigms and accent remain unresolved source work. Continue from 5.2.131. C2–C5 and S1–S7 remain Open; S5 is 99/103 and S6 retains the independent 5.56 k-it effect. Claude retains execution.
 
@@ -167,7 +172,7 @@ PG731 · [Appointed buildings, prohibited study and two senses of residence](app
 
 PG730 · [Assigned dishes, ṭiṭhan and appointed offices](assigned_dishes_title_affix_and_appointed_locus/README.md). The selected 4.4.67–69 allocations and appointments have masculine and feminine case fibres and direct 1896 print collation. The exact historical root assignment of śrāṇā, the wider lexical sources of short bhaktika and digital gaulūmika, and independent citation tones remain Open. The 4.4.70–72 appointed-building, prohibited-study and trading frames require construction. Wider C2–C5/S1–S7 and Claude execution retain their obligations.
 
-PG729 · [Recitation errors, food suitability and assigned portions](recitation_error_suffixes_food_benefit_and_allocation/README.md). The 16 named 4.4.63–66 case fibres, qualified numeral/compound operations and two dative policies are locally CLOSED. The exact print transmission of Vasu’s exceptional cross-reference and Bhāṣāvṛtti’s apparent ekarūpa shape, the independent referent of its prathamakalpa example and the wider female, tone and numeral uses remain Open. The 4.4.67–69 allocated food and appointment forms require separate construction. Wider C2–…162 tokens truncated…ed. Puṃs nasal alternatives retained; all full strong-case/accent products remain Open.
+PG729 · [Recitatio…147 tokens truncated…ed. Puṃs nasal alternatives retained; all full strong-case/accent products remain Open.
 - Next actual13918-entry and12813-entry registers/two bāhu senses/prohyapadi;142 patra and older unresolved source/critical/C2–C5/S1–S7/native/global work. Wider written gates remain Open; Claude execution distinct.
 
 

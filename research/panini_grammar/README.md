@@ -1,3 +1,6 @@
+Warning: truncated output (original token count: 20090)
+Total output lines: 595
+
 Warning: truncated output (original token count: 20095)
 Total output lines: 592
 
@@ -14,6 +17,8 @@ Warning: truncated output (original token count: 95731)
 Total output lines: 3333
 
 # PG1 — Pāṇini: grammar before implementation
+
+PG805 · [Exclusive ini compounds and the elephant genus](exclusive_ini_compounds_and_elephant_genus/README.md). Constructs selected 5.2.131–133 outputs: 10 new nominal positions/readings, four constructions/10 interfaces and five source decisions.
 
 PG804 · [Speech, lordship, living-being ini and age restrictions](speech_lordship_living_ini_and_age_restrictions/README.md). Constructs selected 5.2.123–130 outputs: 30 new nominal positions and 33 readings, twelve constructions/30 interfaces and ten source decisions.
 
@@ -211,7 +216,7 @@ PG708 · [The printed dhi ca debate, pada boundary and Vedic sagdhiḥ](dhi_ca_p
 
 PG707 · [Vedic stoṣam and the Aśvins’ dual aorists](vedic_stosam_and_ashvin_dual_aorist_owners/README.md). The short stoṣam has four recensional addresses. Sāyaṇa derives mṛkṣatam from mṛś plus ksa and tāriṣṭam from tṝ plus siC. Mahīdhara’s competing mṛj leṭ keeps its grade question Open. His printed 34.8 itself has the divergent 3.2.34 locator. Three new finite positions and readings. Census 52,332 finite positions and 9,358 nominal positions with 10,956 nominal readings.
 
-PG706 · [Two printed Kāśikā witnesses for anadyatana laṅ](anadyatana_two_printed_kasika_prescriptions/README.md). Two visually collated print editions agree on the operative laṅ, with genuine luṅ visible under neighboring 3.2.110. The 1952 editor separately reports Nyāsa padāti in a note to main-text patāti. Three observations and two decisions leave word credits unchanged. Census 52,329 finite positions and 9…95 tokens truncated…hip, with kṛ-specific transfer
+PG706 · [Two printed Kāśikā witnesses for anadyatana laṅ](anadyatana_two_printed_kasika…90 tokens truncated…hip, with kṛ-specific transfer
 and bhū/as kartari P. San s/ṣ survives the addressed outer sic-lopa;
 initial aṭ, outer iṭ and ending īṭ remain separate. The native
 construction proves the surface-word/auxiliary-family obstruction and

@@ -1,3 +1,6 @@
+Warning: truncated output (original token count: 20101)
+Total output lines: 254
+
 Warning: truncated output (original token count: 20111)
 Total output lines: 251
 
@@ -13,7 +16,9 @@ Total output lines: 240
 Warning: truncated output (original token count: 58560)
 Total output lines: 894
 
-# Pāṇini grammar · current written coverage at PG804
+# Pāṇini grammar · current written coverage at PG805
+
+PG805 · [Exclusive ini compounds and the elephant genus](exclusive_ini_compounds_and_elephant_genus/README.md). Constructs selected 5.2.131–133 exclusive-ini, compound-ending and elephant-genus outputs. Census: 52,357 finite positions, 21,729 nominal positions and 24,617 nominal readings.
 
 PG804 · [Speech, lordship, living-being ini and age restrictions](speech_lordship_living_ini_and_age_restrictions/README.md). Constructs selected 5.2.123–130 speech, lordship, arśādi, living-being, disease-augment and age-restriction outputs. Census: 52,357 finite positions, 21,719 nominal positions and 24,607 nominal readings.
 
@@ -207,9 +212,7 @@ PG710 · [Vedic rāti as gift, giver and giving instrument](vedic_rati_donor_gif
 
 PG709 · [The Vedic rite-maker and maternal remedy under retained or deleted n](vedic_nis_kr_maker_and_maternal_remedy/README.md). Two new nominal positions and four readings derive the rite-maker and the maternal remedy. Vājasaneyi Prātiśākhya specifies initial preverb-n loss. Śākala and Śukla witnesses admit the loss at the named positions, and Taittirīya preserves n. The maker’s syntactic bearer and the remedy’s competing affix analyses retain their own source policies. Census 52,332 finite positions and 9,361 nominal positions with 10,961 nominal readings.
 
-PG708 · [The printed dhi ca debate, pada boundary and Vedic sagdhiḥ](dhi_ca_printed_debate_pada_boundary_and_sagdhi/README.md). Kielhorn’s 1885 print shows the sic proposal, seṭ objection and broad reply. Osmania Kāśikā independently prints both policies. Nyāsa and Padamañjarī each protect payo dhāvati. One new nominal position and reading derives sagdhiḥ from the directly witnessed common-meal context. Census 52,332 finite positions and 9,359 nominal positions with 10,957 nominal readings.
-
-PG707 · [Vedic stoṣam and the Aśvins’ dual aorists](vedic_stosam_and_ashvin_dual_aorist_owners/README.md). The short stoṣam has four recensional addresses. Sāyaṇa derives mṛkṣatam from mṛś plus ksa and tāriṣṭam from tṝ plus siC. Mahīdhara’s competing mṛj leṭ …111 tokens truncated…marker views;0 finite/nominal/source credits. Original git enters root guṇa/iṭ conditions but not6.4.66/24; root n→ṅ differs from suffix n→ṇ, and outer jas has its own guṇa owner. Reported Vedic source word is old. Rival kit policy, independent Saṃhitā/accent and wider gates remain Open.
+PG708 · [The printed dhi ca debate, pada boundary and Vedic sagdhiḥ](dhi_ca_printed_debate_pada_boundary_and_sagdhi/README.md). Kielhorn’s 1885 print shows the sic proposal, seṭ objection and broad reply. Osmania Kāśikā independently prints both policies. Nyāsa and Padamañjarī each protect payo dhāvati. One new nominal position and reading derives sagdhiḥ from the directly witnessed common-meal context. Census…101 tokens truncated…marker views;0 finite/nominal/source credits. Original git enters root guṇa/iṭ conditions but not6.4.66/24; root n→ṅ differs from suffix n→ṇ, and outer jas has its own guṇa owner. Reported Vedic source word is old. Rival kit policy, independent Saṃhitā/accent and wider gates remain Open.
 
 
 PG385 constructs [gotra dvandva whole-affix luk](gotra_dvandva_luk_and_reported_gana_objection/README.md): one compound construction/two uniform readouts and one newly addressed Tattva report of a Kaiyaṭa gaṇa-list objection. Upaka–Lamaka retains independent phak/inner-sup owners;1.1.63 blocks lost-affix aṅga triggers. Old source words receive0 finite/nominal credits. Original Bhāṣya/Kaiyaṭa/other-pair textual reconciliation and wider gates stay Open.

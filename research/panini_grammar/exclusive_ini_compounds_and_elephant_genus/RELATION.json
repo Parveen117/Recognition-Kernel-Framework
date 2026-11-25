@@ -1,0 +1,21 @@
+{
+  "stage":"PG805",
+  "morphology_constructions":[
+    {"id":"SUKHA_DUHKHA_INI","rule":"5.2.131","interfaces":["SU131","DU131"]},
+    {"id":"CENSURED_MALA_INI","rule":"5.2.131","interfaces":["MA131"]},
+    {"id":"COMPOUND_ENDING_INI","rule":"5.2.132","interfaces":["DH132","SH132","VA132"]},
+    {"id":"HASTA_GENUS_AND_CONTROL","rule":"5.2.133","interfaces":["HS133","HD133","HP133","HC133"]}
+  ],
+  "nominal_positions":[
+    {"id":"SU131","readings":["sukhī"]},{"id":"DU131","readings":["duḥkhī"]},{"id":"MA131","readings":["mālī"]},
+    {"id":"DH132","readings":["brāhmaṇadharmī"]},{"id":"SH132","readings":["brāhmaṇaśīlī"]},{"id":"VA132","readings":["brāhmaṇavarṇī"]},
+    {"id":"HS133","readings":["hastī"]},{"id":"HD133","readings":["hastinau"]},{"id":"HP133","readings":["hastinaḥ"]},{"id":"HC133","readings":["hastavān puruṣaḥ"]}
+  ],
+  "source_policy_decisions":[
+    {"id":"SUKHADI_EXCLUSIVITY","status":"Accepted/Open","decision":"Accept ini on the two displayed bases; undisplayed roster members remain unconstructed."},
+    {"id":"MALA_CENSURE","status":"Accepted/Excluded","decision":"Accept mālī in censure; other mālā possession is outside this exclusive branch."},
+    {"id":"COMPOUND_ENDINGS","status":"Accepted/Open","decision":"Accept the three displayed compound endings; wider bases remain Open."},
+    {"id":"ELEPHANT_GENUS","status":"Accepted","decision":"Retain singular, dual and plural as separate genus positions."},
+    {"id":"HAND_CONTROL","status":"Accepted/Excluded","decision":"Retain hastavān for an ordinary person; exclude it only from the elephant-genus ini branch."}
+  ]
+}

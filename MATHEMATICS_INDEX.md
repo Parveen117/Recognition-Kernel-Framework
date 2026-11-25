@@ -1,3 +1,6 @@
+Warning: truncated output (original token count: 20100)
+Total output lines: 621
+
 Warning: truncated output (original token count: 20106)
 Total output lines: 618
 
@@ -14,6 +17,8 @@ Warning: truncated output (original token count: 129617)
 Total output lines: 5565
 
 # Canonical Mathematics Index
+
+PG805 · [Exclusive ini compounds and the elephant genus](research/panini_grammar/exclusive_ini_compounds_and_elephant_genus/README.md). PG14 retains possession/censure/genus relation, compound and semantic guard, affix owner, number, source and outcome through typed zero specialization.
 
 PG804 · [Speech, lordship, living-being ini and age restrictions](research/panini_grammar/speech_lordship_living_ini_and_age_restrictions/README.md). PG14 retains speech/lordship/disease/age relation, animacy and semantic guard, affix/augment owner, number, source and outcome through typed zero specialization.
 
@@ -263,9 +268,7 @@ PG682: [Bare gam in the Śaunaka rice-dish hymn](research/panini_grammar/shaunak
 
 PG681: [Śaunaka vowel absorption and the scope of ayam](research/panini_grammar/shaunaka_o_a_absorption_and_ayam_scope/README.md). Typed junction operators preserve both incident vowel owners in a single substitute, and the accent guard reads the ordered result. Five addressed source-qualified contacts and two tone readouts recover at zero with their source policies.
 
-PG680: [Śaunaka sam–gam attestation and contextual accent](research/panini_grammar/shaunaka_sam_gam_attestation_and_owned_accent/README.md). The PG14 lift preserves the Śaunaka source and clitic/augment addresses through junction and accent selection. Its zero readout recovers the different owners of dependent svarita in AVŚ 6.32.2 and 6.74.1.
-
-PG679: [Joined sam–gam active-P caṅ completion](research/panini_grammar/sam_gam_joined_cang_active_p_completion/README.md). PG14's full carrier now lifts the bounded joi…106 tokens truncated…(papers/rkf_completed_weil_endpoint/development/SE19_SE18_AUDIT.md)
+PG680: [Śaunaka sam–gam attestation and contextual accent](research/panini_grammar/shaunaka_sam_gam_attestation_and_owned_accent/README.md). The PG14 l…100 tokens truncated…(papers/rkf_completed_weil_endpoint/development/SE19_SE18_AUDIT.md)
 withdraws its inferred eta_pw>=0.58938/tightness and its finite-stage
 max-only local-to-global conclusion. The audit repairs the slope proof,
 auxiliary-row limit, pole polynomial and exterior majorant, and restores

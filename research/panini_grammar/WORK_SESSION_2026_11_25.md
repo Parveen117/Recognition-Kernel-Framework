@@ -2,6 +2,12 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG805 · Exclusive ini compounds and the elephant genus
+
+PG805 · [Exclusive ini compounds and the elephant genus](exclusive_ini_compounds_and_elephant_genus/README.md). Constructs selected 5.2.131–133 outputs with 10 new nominal positions/readings. Finite positions/readings increase by zero. Four constructions/10 interfaces, zero new source observations and five decisions. Census: 52,357 finite positions, 21,729 nominal positions and 24,617 nominal readings.
+
+Parent `ed1c11fc5bc303c8c786ab7d42b307608af44e1b`. The containing commit pins this packet. Selected outputs and controls are CLOSED. Undisplayed sukhādi members, exact censure distribution, wider compound bases, paradigms and accent remain Open. Continue from 5.2.134. C2–C5 and S1–S7 remain Open; S5 is 99/103 and S6 retains the independent 5.56 k-it effect. Claude retains execution, generators, untouched suites and replay.
+
 ## PG804 · Speech, lordship, living-being ini and age restrictions
 
 PG804 · [Speech, lordship, living-being ini and age restrictions](speech_lordship_living_ini_and_age_restrictions/README.md). Constructs selected 5.2.123–130 outputs with 30 new nominal positions and 33 readings. Finite positions/readings increase by zero. Twelve constructions/30 interfaces, zero new source observations and ten decisions. Census: 52,357 finite positions, 21,719 nominal positions and 24,607 nominal readings.
