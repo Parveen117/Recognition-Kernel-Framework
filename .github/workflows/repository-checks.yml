@@ -181,6 +181,9 @@ jobs:
       - name: Check published Pāṇini stages and cumulative counts
         if: steps.scope.outputs.pg1 == 'true'
         run: python -B research/panini_grammar/check_written.py
+      - name: Compare direct and shared PG77 iṭ decisions
+        if: steps.scope.outputs.pg1 == 'true'
+        run: python -B research/panini_grammar/kram_observation/compare.py --benchmark
       - name: Read the fixed source edition for the PG2–PG13 verifiers
         if: steps.scope.outputs.pg1 == 'true'
         uses: actions/checkout@v4

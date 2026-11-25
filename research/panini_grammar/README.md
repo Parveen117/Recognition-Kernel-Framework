@@ -2,7 +2,7 @@
 
 PG867 · [Jāmbavān’s comparison and Hanumān’s turn to fast](jambavans_game_or_figurine_and_hanumans_turn/README.md). Two prints read viṣayān. The game and the figurine have different commentators, and the two printed affix labels differ on Hanumān’s fast.
 
-The review branch uses [Repository checks](../../.github/workflows/repository-checks.yml) for CI. Python 3.12 checks the PG1 inventory and source pins, reproduces the twelve existing PG2–PG13 reports against source commit `5744762f010d677cfb43f347a42d02796cf615d6`, and checks the [written stage register](check_written.py). The written check reconciles published deltas where recorded, including withdrawals and restorations. Linguistic review of the open domains remains tracked in [the backlog](WRITTEN_BACKLOG.md).
+The review branch uses [Repository checks](../../.github/workflows/repository-checks.yml) for CI. Python 3.12 checks the PG1 inventory and source pins, reproduces the twelve existing PG2–PG13 reports against source commit `5744762f010d677cfb43f347a42d02796cf615d6`, and checks the [written stage register](check_written.py). The written check reconciles published deltas where recorded, including withdrawals and restorations. Linguistic review of the open domains remains tracked in [the backlog](WRITTEN_BACKLOG.md). The [PG77 comparison](kram_observation/README.md) exercises direct and shared evaluation of the root-facing iṭ decision on 171 previously written forms.
 
 PG866 · [Mallinātha locates the Bhaṭṭi variant and the aorist of yam in disclosure](mallinathas_bhatti_variant_and_yam_in_disclosure/README.md). The exact quoted variant, the separately analysed prohibition and the main causal command have three different addresses on the same printed page.
 

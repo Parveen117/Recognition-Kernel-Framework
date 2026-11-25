@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+[Shared iṭ evaluation on the PG77 √kram grid](research/panini_grammar/kram_observation/README.md) retains the PG14/PG77 operators and history through typed zero-specialization.
+
 PG867 · [Jāmbavān’s comparison and Hanumān’s turn to fast](research/panini_grammar/jambavans_game_or_figurine_and_hanumans_turn/README.md). Three ā-stem schedules preserve the source-specific marker, compound and accent histories.
 
 PG866 · [Mallinātha locates the Bhaṭṭi variant and the aorist of yam in disclosure](research/panini_grammar/mallinathas_bhatti_variant_and_yam_in_disclosure/README.md). Edition and sense gates preserve the distinct mood and preverb histories and the obligatory disclosure sic.
