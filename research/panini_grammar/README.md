@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG827 · [Kaśyapa’s protector and the imperative of trai](visvapa_harivamsa_prose_and_trai_imperative/README.md). The prose supports the petition in the second singular, with eight written companion forms. The earlier bhṛ and protector keys retain their original credits.
+
 PG826 · [The half and the world-protector](nema_half_and_visvapa_protector_panels/README.md). Two case constructions distinguish the half pronoun from the root-final vic agent. The printed tables support ā before bhyas on the protector reading.
 
 PG825 · [Kaiyaṭa’s printed objection and the possessor of both sons](ubhaya_kaiyata_print_and_two_sons_compound/README.md). The restrictive and permissive arguments now have direct commentary witnesses. The outer possessors in ubhayaputra have their own gender and number.

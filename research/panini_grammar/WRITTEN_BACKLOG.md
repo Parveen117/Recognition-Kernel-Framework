@@ -1,4 +1,6 @@
-# Written-development backlog at PG826
+# Written-development backlog at PG827
+
+PG827 · [Kaśyapa’s protector and the imperative of trai](visvapa_harivamsa_prose_and_trai_imperative/README.md). Closed: independent appendix locus and 01.1120 middle loṭ. Outstanding: the lexicon’s precise chapter-251 exemplar, further tense and accent evidence, other PG823 domains and the existing S1–S7 and C2–C5 obligations. Execution remains with Claude.
 
 PG826 · [The half and the world-protector](nema_half_and_visvapa_protector_panels/README.md). Closed: selected masculine nema seven-case and viśvapā eight-case panels. Still unconstructed: nema address, other gender/number domains and wider sama/sima. Textual questions include the lexicon’s Harivaṃśa locus, accent and the wider S1–S7 source obligations. Execution remains with Claude.
 

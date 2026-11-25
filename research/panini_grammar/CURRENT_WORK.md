@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG826
+# Pāṇini grammar · current written coverage at PG827
+
+PG827 · [Kaśyapa’s protector and the imperative of trai](visvapa_harivamsa_prose_and_trai_imperative/README.md). Locates the world-protector in Kaśyapa's prose hymn and derives the nine middle imperatives of trai ‘protect’. Census 52,366 finite, 22,697 nominal positions/25,667 readings.
 
 PG826 · [The half and the world-protector](nema_half_and_visvapa_protector_panels/README.md). Completes the seven masculine nonvocative cases of nema ‘half’ and the selected 24-case masculine viśvapā ‘world-protector’ panel. New 42 positions/42 readings. Census 52,357 finite, 22,697 nominal positions/25,667 readings.
 
