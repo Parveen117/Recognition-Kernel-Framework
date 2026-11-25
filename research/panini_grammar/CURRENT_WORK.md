@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG812
+# Pāṇini grammar · current written coverage at PG813
+
+PG813 · [K-adhikāra, akac, unknown and contempt](k_adhikara_akac_unknown_and_contempt/README.md). Constructs selected 5.3.70–74 governance, insertion, substitution and shared-surface semantic readings. Census: 52,357 finite positions, 22,052 nominal positions and 25,006 nominal readings.
 
 PG812 · [Praise, incompletion, bahuc and class-nature](praise_incompletion_bahuc_and_class_nature/README.md). Constructs selected 5.3.66–69 praise, slight-incompletion, preposed-bahuc and type-bearer outputs. Census: 52,357 finite positions, 22,024 nominal positions and 24,963 nominal readings.
 

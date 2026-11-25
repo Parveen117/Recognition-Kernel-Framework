@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG813 · [K-adhikāra, akac, unknown and contempt](research/panini_grammar/k_adhikara_akac_unknown_and_contempt/README.md). PG14 retains stem/case/finite input, governance/unknown/contempt relation, lexical/semantic/register guard, affix/insertion/substitution/lopa/accent owner, ordered history, source and outcome through typed zero specialization.
+
 PG812 · [Praise, incompletion, bahuc and class-nature](research/panini_grammar/praise_incompletion_bahuc_and_class_nature/README.md). PG14 retains nominal/finite base, praise/incompletion/type-bearer relation, semantic/input/register guard, suffix/prefix/accent/gender-number owner, ordered history, source and outcome through typed zero specialization.
 
 PG811 · [Comparative, superlative and quality replacements](research/panini_grammar/comparative_superlative_and_quality_replacements/README.md). PG14 retains adjective/finite base and comparison input, surpassing/two-member/distinguished-set relation, quality/Vedic/lexical/number guard, suffix/replacement/lopa/accent owner, ordered history, source and outcome through typed zero specialization.

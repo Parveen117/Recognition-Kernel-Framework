@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG813 · [K-adhikāra, akac, unknown and contempt](k_adhikara_akac_unknown_and_contempt/README.md). Constructs selected 5.3.70–74: 28 new nominal/derived positions and 43 readings, five constructions/28 interfaces and five source decisions.
+
 PG812 · [Praise, incompletion, bahuc and class-nature](praise_incompletion_bahuc_and_class_nature/README.md). Constructs selected 5.3.66–69 outputs: 22 new nominal/derived positions and readings, four constructions/22 interfaces and four source decisions.
 
 PG811 · [Comparative, superlative and quality replacements](comparative_superlative_and_quality_replacements/README.md). Constructs selected 5.3.55–65 outputs: 46 new nominal/degree positions and 50 readings, eleven constructions/46 interfaces and eleven source decisions.

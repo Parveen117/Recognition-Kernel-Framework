@@ -1,0 +1,29 @@
+{
+  "stage":"PG813",
+  "morphology_constructions":[
+    {"id":"K_ADHIKARA","rule":"5.3.70","interfaces":[],"governs_through":"5.3.96","local_boundary_note":"Vasu says properly through 5.3.86; later scope remains source-qualified."},
+    {"id":"AKAC_INSERTION","rule":"5.3.71","interfaces":["UC71","NC71","SC71","SA71","VI71","UB71","YB71","AB71","YS71","AS71","YD71","AD71","TA71","MA71","TI71","MI71","T1K71","T2K71","TS71","TK71","PK71","JK71"]},
+    {"id":"K_FINAL_SUBSTITUTION","rule":"5.3.72","interfaces":["DK72","HK72","RK72"]},
+    {"id":"UNKNOWN_SPECIFICATION","rule":"5.3.73","interfaces":["AW73","GW73","UW73"],"prior_reading_links":["PG813:UC71","PG813:NC71","PG813:SA71","PG813:VI71","PG813:PK71","PG813:JK71"]},
+    {"id":"CONTEMPT","rule":"5.3.74","interfaces":[],"prior_reading_links":["PG813:AW73","PG813:GW73","PG813:UW73","PG813:UC71","PG813:NC71","PG813:SA71","PG813:VI71","PG813:PK71","PG813:JK71"]}
+  ],
+  "nominal_positions":[
+    {"id":"UC71","readings":["uccakaiḥ"]},{"id":"NC71","readings":["nīcakaiḥ"]},{"id":"SC71","readings":["śanakaiḥ"]},{"id":"SA71","readings":["sarvake"]},{"id":"VI71","readings":["viśvake"]},{"id":"UB71","readings":["ubhayake"]},
+    {"id":"YB71","readings":["yuṣmakābhiḥ [stem-level insertion]"]},{"id":"AB71","readings":["asmakābhiḥ [stem-level insertion]"]},{"id":"YS71","readings":["yuṣmakāsu [stem-level insertion]"]},{"id":"AS71","readings":["asmakāsu [stem-level insertion]"]},{"id":"YD71","readings":["yuvakayoḥ [stem-level insertion]"]},{"id":"AD71","readings":["āvakayoḥ [stem-level insertion]"]},
+    {"id":"TA71","readings":["tvayakā [case-form insertion]"]},{"id":"MA71","readings":["mayakā [case-form insertion]"]},{"id":"TI71","readings":["tvayaki [case-form insertion]"]},{"id":"MI71","readings":["mayaki [case-form insertion]"]},
+    {"id":"T1K71","readings":["tūṣṇīkām āste [kām vārttika]"]},{"id":"T2K71","readings":["tūṣṇīkāṃ tiṣṭhati [kām vārttika]"]},{"id":"TS71","readings":["tūṣṇīṃśīlaḥ [habit]"]},{"id":"TK71","readings":["tūṣṇīkaḥ [habit, m-lopa]"]},{"id":"PK71","readings":["pacataki [finite-base akac]"]},{"id":"JK71","readings":["jalpataki [finite-base akac]"]},
+    {"id":"DK72","readings":["dhakit [dhik + akac]"]},{"id":"HK72","readings":["hirakut [hiruk + akac]"]},{"id":"RK72","readings":["pṛthakat [pṛthak + akac]"]},
+    {"id":"AW73","readings":["aśvakaḥ [unknown relation]"]},{"id":"GW73","readings":["gardabhakaḥ [unknown relation]"]},{"id":"UW73","readings":["uṣṭrakaḥ [unknown relation]"]}
+  ],
+  "prior_position_reading_extensions":[
+    {"rule":"5.3.73","position":"PG813:UC71","readings":["uccakaiḥ [unknown specification]"]},{"rule":"5.3.73","position":"PG813:NC71","readings":["nīcakaiḥ [unknown specification]"]},{"rule":"5.3.73","position":"PG813:SA71","readings":["sarvake [unknown relation]"]},{"rule":"5.3.73","position":"PG813:VI71","readings":["viśvake [unknown relation]"]},{"rule":"5.3.73","position":"PG813:PK71","readings":["pacataki [unknown action specification]"]},{"rule":"5.3.73","position":"PG813:JK71","readings":["jalpataki [unknown action specification]"]},
+    {"rule":"5.3.74","position":"PG813:AW73","readings":["aśvakaḥ [contempt]"]},{"rule":"5.3.74","position":"PG813:GW73","readings":["gardabhakaḥ [contempt]"]},{"rule":"5.3.74","position":"PG813:UW73","readings":["uṣṭrakaḥ [contempt]"]},{"rule":"5.3.74","position":"PG813:UC71","readings":["uccakaiḥ [contempt]"]},{"rule":"5.3.74","position":"PG813:NC71","readings":["nīcakaiḥ [contempt]"]},{"rule":"5.3.74","position":"PG813:SA71","readings":["sarvake [contempt]"]},{"rule":"5.3.74","position":"PG813:VI71","readings":["viśvake [contempt]"]},{"rule":"5.3.74","position":"PG813:PK71","readings":["pacataki [contempt]"]},{"rule":"5.3.74","position":"PG813:JK71","readings":["jalpataki [contempt]"]}
+  ],
+  "source_policy_decisions":[
+    {"id":"ADHIKARA_ZERO_CREDIT","status":"Accepted/Open","decision":"Record 5.3.70 as zero-interface governance, not an output; retain Vasu's through-86 scope qualification as Open against the stated through-96 boundary."},
+    {"id":"AKAC_LOCATION","status":"Accepted","decision":"Preserve medial insertion, stem-versus-case input and the separate tūṣṇīm/finite vārttika owners."},
+    {"id":"K_FINAL_CHANGE","status":"Accepted","decision":"Own the final-k substitution only in conjunction with akac on the displayed indeclinables."},
+    {"id":"UNKNOWN_RELATION","status":"Accepted","decision":"Treat the object as known but its relevant relation/specification as unknown; attach readings to existing surfaces."},
+    {"id":"CONTEMPT_READING","status":"Accepted","decision":"Retain contempt as an independent semantic reading on the same ka/akac surfaces rather than multiplying positions."}
+  ]
+}

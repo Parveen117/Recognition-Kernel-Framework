@@ -2,6 +2,12 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG813 · K-adhikāra, akac, unknown and contempt
+
+PG813 · [K-adhikāra, akac, unknown and contempt](k_adhikara_akac_unknown_and_contempt/README.md). Constructs selected 5.3.70–74 with 28 new nominal/derived positions and 43 readings. Finite positions/readings increase by zero. Five constructions/28 interfaces, zero new source observations and five decisions. Census: 52,357 finite positions, 22,052 nominal positions and 25,006 nominal readings.
+
+Parent `0e9cda898f42e2d9515a0290fa12aa9f5550409c`. The containing commit pins this packet. Displayed governance, outputs, insertion ownership and unknown/contempt readings are CLOSED. The through-96 versus properly-through-86 scope, wider semantic distribution, exact accent and full paradigms remain Open. Continue from 5.3.75. C2–C5 and S1–S7 remain Open; S5 is 99/103 and S6 retains the independent 5.56 k-it effect. Claude retains execution, generators, untouched suites and replay.
+
 ## PG812 · Praise, incompletion, bahuc and class-nature
 
 PG812 · [Praise, incompletion, bahuc and class-nature](praise_incompletion_bahuc_and_class_nature/README.md). Constructs selected 5.3.66–69 outputs with 22 new nominal/derived positions and readings. Finite positions/readings increase by zero. Four constructions/22 interfaces, zero new source observations and four decisions. Census: 52,357 finite positions, 22,024 nominal positions and 24,963 nominal readings.
