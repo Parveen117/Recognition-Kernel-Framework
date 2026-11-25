@@ -1,4 +1,13 @@
-# Written-development backlog at PG877
+# Written-development backlog at PG878
+
+PG878 · [The *bhaikṣuka* life stage and its masculine cases](the_bhaiksuka_life_stage_and_its_masculine_cases/README.md). The selected masculine life-stage seven-case panel is closed on direct nominative/genitive evidence. Vocative, accent, historical affix/ellipsis development and wider textual distribution remain Open; none is converted into an exclusion. Claude owns execution.
+
+## Current four-part register
+
+- **Already closed targets.** Preserve PG335’s correction; PG340/346 actor grids; PG349–352 selected niṣṭhā; PG355–360 selected *bhid* passive grid; PG357–363 historical results; PG877’s personal/collective distinction; and PG878’s selected masculine life-stage panel. Their keys receive no new credit.
+- **Genuine unconstructed domains.** The six remaining K139 and three extended-Vasu139 lexical meanings remain distinct from their already closed formal feminine fibres. The remaining K128 recensional/inner variants, wider C2–C5 verbal/nominal/affix/syntax/accent domains, and positively licensed vocative or gender extensions still require construction. PG878 adds no vocative by inference.
+- **Unresolved source readings.** S1 still needs the separate Bhaṭṭi command’s manuscript and mood; S2–S3 retain pre-import/intermediate/deployed-repair evidence after the editor’s decisions; S4 retains 45 Pāṇinian projected desiderative-perfect licences; S5 retains four exact Uṇādi assignments; S6 retains the independent 5.56 k-it effect; S7 retains remaining manuscript/policy history. Locally, *bhikṣukī*’s suffix history and *bhaikṣuka*’s masculine affix/ellipsis development are Open, as is Vācaspatyam’s printed *ṭhañ* explanation. Open readings are not exclusions.
+- **Claude-deferred execution.** Sanskrit generators, grammar execution, untouched old suites and certificate replay remain outside written-development credit. Their absence cannot be used to close a written gate or reduce the written backlog.
 
 PG877 · [The mendicant, the collective and the two printed affix attributions](the_mendicant_and_the_collection_in_two_affix_traditions/README.md). Closed the scanned compound reading, the collective’s gender and the two selected seven-case panels. The printed ṭhañ explanation, historical feminine suffixes, wider C2–C5 and S1–S7 remain open. Claude owns execution.
 

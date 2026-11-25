@@ -1,5 +1,7 @@
 # Written Pāṇini work session · 2026-11-25
 
+PG878 · [The *bhaikṣuka* life stage and its masculine cases](the_bhaiksuka_life_stage_and_its_masculine_cases/README.md). Parent fa13e9aea16821d1d28443d7aadc2d89bff4a245. One morphology construction/21 interfaces, two syntax constructions/five interfaces and six source decisions. Zero finite and 21 new nominal positions/21 readings. The masculine āśrama sense is source-positive; its historical affix remains Open.
+
 PG877 · [The mendicant, the collective and the two printed affix attributions](the_mendicant_and_the_collection_in_two_affix_traditions/README.md). Parent c2d6ef44199c91ac8600e04fe05bd509887e960e. Two morphology constructions/42 interfaces, three syntax constructions/eight interfaces, nine source decisions. Zero finite and 41 new nominal positions/41 readings.
 
 PG876 · [Sulabhā’s question and the two female mendicant stems](sulabhas_question_and_the_two_female_mendicant_stems/README.md). Parent abe8d904667c1bd297e6b46cb4006c154a70b6c2. Four morphology constructions/66 interfaces, three syntax constructions/11 interfaces and nine source decisions. 18 new finite positions/55 readings and 48 new nominal positions/48 readings.

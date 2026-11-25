@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG878 · [The *bhaikṣuka* life stage and its masculine cases](research/panini_grammar/the_bhaiksuka_life_stage_and_its_masculine_cases/README.md). The life-stage and collective grades share letters but not types; typed zero-specialization recovers all 21 admitted case-position histories without selecting an unresolved affix.
+
 PG877 · [The mendicant, the collective and the two printed affix attributions](research/panini_grammar/the_mendicant_and_the_collection_in_two_affix_traditions/README.md). Two histories for the personal base and the collective añ operation specialize on their own grades.
 
 PG876 · [Sulabhā’s question and the two female mendicant stems](research/panini_grammar/sulabhas_question_and_the_two_female_mendicant_stems/README.md). The two primary-pada histories over codayām āsa and the two genitive nasals remain distinct under typed specialization.

@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG878 · [The *bhaikṣuka* life stage and its masculine cases](the_bhaiksuka_life_stage_and_its_masculine_cases/README.md). Direct nominative and genitive evidence separates the masculine āśrama sense from PG877’s neuter collective; the 21-case panel leaves its historical affix Open.
+
 PG877 · [The mendicant, the collective and the two printed affix attributions](the_mendicant_and_the_collection_in_two_affix_traditions/README.md). The masculine personal and neuter collective schedules distinguish the lexicons’ affix assignments and the two attested feminine addresses.
 
 PG876 · [Sulabhā’s question and the two female mendicant stems](sulabhas_question_and_the_two_female_mendicant_stems/README.md). The lexical long-ī stems, case-dependent roles and curādi perfect come with four independently checkable word schedules.

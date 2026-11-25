@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG877
+# Pāṇini grammar · current written coverage at PG878
+
+PG878 · [The *bhaikṣuka* life stage and its masculine cases](the_bhaiksuka_life_stage_and_its_masculine_cases/README.md). 21 new nominal positions and 21 readings. Census 52,531 finite, 25,864 nominal and 29,508 nominal readings.
 
 PG877 · [The mendicant, the collective and the two printed affix attributions](the_mendicant_and_the_collection_in_two_affix_traditions/README.md). 41 new nominal positions and 41 readings. Census 52,531 finite, 25,843 nominal and 29,487 nominal readings.
 
