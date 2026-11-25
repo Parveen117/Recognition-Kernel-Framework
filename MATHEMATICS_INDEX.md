@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG824 · [The ekaśeṣa dual of ubhaya](research/panini_grammar/ubhaya_ekasesa_dual_and_primary_affix_evidence/README.md). The ekaśeṣa event preserves both referent IDs and attaches one surviving base. PG14 specialization commutes with grouping and inflection on the permissive branch.
+
 PG823 · [Nema, sama and sima](research/panini_grammar/nema_sama_sima_scoped_pronominal_cases/README.md). PG14 typed source, status, ending and word histories preserve the optional nema jas branches and keep the sama equality control distinct from its inclusive plural.
 
 PG822 · [Ubhaya feminine, number and address](research/panini_grammar/ubhaya_feminine_number_and_address/README.md). The source decision, feminine suffix and realization maps have different grades. PG14 augmentation preserves their composition and carries both blocked and unresolved histories into the appropriate output summands.

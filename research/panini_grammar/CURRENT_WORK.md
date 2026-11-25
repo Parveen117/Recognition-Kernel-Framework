@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG823
+# Pāṇini grammar · current written coverage at PG824
+
+PG824 · [The ekaśeṣa dual of ubhaya](ubhaya_ekasesa_dual_and_primary_affix_evidence/README.md). Direct Haradatta and Bhāṣya evidence. Seven feminine dual positions restored with corrected readings, three first-time dual vocatives. Census 52,357 finite positions, 22,631 nominal positions and 25,600 nominal readings.
 
 PG823 · [Nema, sama and sima](nema_sama_sima_scoped_pronominal_cases/README.md). Seven new masculine nominal positions and eight readings for half, all and whole. Census 52,357 finite positions, 22,621 nominal positions and 25,590 nominal readings.
 

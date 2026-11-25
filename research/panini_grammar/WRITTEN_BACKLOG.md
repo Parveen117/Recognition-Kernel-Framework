@@ -1,4 +1,6 @@
-# Written-development backlog at PG823
+# Written-development backlog at PG824
+
+PG824 · [The ekaśeṣa dual of ubhaya](ubhaya_ekasesa_dual_and_primary_affix_evidence/README.md). Constructed on Haradatta’s policy. Authentic tokens for the feminine dual, the independent Kaiyaṭa witness, accent and historical priority remain Open. PG823's other nominal panels, C2–C5, S1–S7 and Claude's execution retain separate ownership.
 
 PG823 · [Nema, sama and sima](nema_sama_sima_scoped_pronominal_cases/README.md). Selected masculine case keys closed. Other gender/number panels and the permissive ubhaya feminine dual and dual address are unconstructed. Wider sima senses, Atharvan accent and critical readings stay Open. C2–C5/S1–S7 retain their own registers, with execution deferred to Claude.
 

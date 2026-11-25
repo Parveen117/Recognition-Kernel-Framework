@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG824 · [The ekaśeṣa dual of ubhaya](ubhaya_ekasesa_dual_and_primary_affix_evidence/README.md). The permissive source branch realizes the corrected feminine dual and three dual address forms. The restrictive branch still blocks duals.
+
 PG823 · [Nema, sama and sima](nema_sama_sima_scoped_pronominal_cases/README.md). Three lexical decisions connect the dative and other selected pronominal cases with four Ṛgvedic verse witnesses. Nema alone takes both listed jas paths.
 
 PG822 · [Ubhaya feminine, number and address](ubhaya_feminine_number_and_address/README.md). The two dual policies, ṅīp feminine, independent-affix analysis and six singular/plural address forms correct PG821's unconditional closure.
