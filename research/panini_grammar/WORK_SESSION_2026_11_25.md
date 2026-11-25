@@ -1,5 +1,7 @@
 # Written Pāṇini work session · 2026-11-25
 
+PG826 · [The half and the world-protector](nema_half_and_visvapa_protector_panels/README.md). Parent 4bd9e4779c368fe03e545cdf06a178d6cca136ee. 18 new nema positions/18 readings and 24 viśvapā positions/24 readings. New finite 0/0; two case constructions, 42 interfaces, one vic agent formation and three source decisions. Census 52,357 finite, 22,697 nominal positions/25,667 readings.
+
 PG825 · [Kaiyaṭa’s printed objection and the possessor of both sons](ubhaya_kaiyata_print_and_two_sons_compound/README.md). Parent 76075ff283507b39c0e2c968f2374e5151472a87. New finite 0/0, nominal 24/25. One compound construction and 24 interfaces, two printed observations and one source decision. Census 52,357 finite, 22,655 nominal positions/25,625 readings.
 
 PG824 · [The ekaśeṣa dual of ubhaya](ubhaya_ekasesa_dual_and_primary_affix_evidence/README.md). Parent 8e7156309e65511c6c097459154b8d03eebb5133. Three first-time nominal positions plus seven restored, ten new active readings, zero finite positions/readings. One construction, ten interfaces and three source decisions from four fields. Census 52,357 finite, 22,631 nominal positions/25,600 readings.

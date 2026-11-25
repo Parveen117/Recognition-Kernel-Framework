@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG826 · [The half and the world-protector](research/panini_grammar/nema_half_and_visvapa_protector_panels/README.md). The lexical formation cut preserves the world as object, √pā as protector and vic as affix. The bha aperture and ending map commute with PG14’s staged projections.
+
 PG825 · [Kaiyaṭa’s printed objection and the possessor of both sons](research/panini_grammar/ubhaya_kaiyata_print_and_two_sons_compound/README.md). PG14 separates the two son IDs, internal sup deletion and compound member from the outer possessor case. Both typed operations commute with the history-preserving augmentation.
 
 PG824 · [The ekaśeṣa dual of ubhaya](research/panini_grammar/ubhaya_ekasesa_dual_and_primary_affix_evidence/README.md). The ekaśeṣa event preserves both referent IDs and attaches one surviving base. PG14 specialization commutes with grouping and inflection on the permissive branch.

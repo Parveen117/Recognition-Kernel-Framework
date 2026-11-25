@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG825
+# Pāṇini grammar · current written coverage at PG826
+
+PG826 · [The half and the world-protector](nema_half_and_visvapa_protector_panels/README.md). Completes the seven masculine nonvocative cases of nema ‘half’ and the selected 24-case masculine viśvapā ‘world-protector’ panel. New 42 positions/42 readings. Census 52,357 finite, 22,697 nominal positions/25,667 readings.
 
 PG825 · [Kaiyaṭa’s printed objection and the possessor of both sons](ubhaya_kaiyata_print_and_two_sons_compound/README.md). The 1917 Pradīpa substantiates the restrictive dual premise. The two-son compound adds 24 nominal positions and 25 readings. Census 52,357 finite positions, 22,655 nominal positions and 25,625 nominal readings.
 

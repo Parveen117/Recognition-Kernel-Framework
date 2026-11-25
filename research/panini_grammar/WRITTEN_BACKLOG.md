@@ -1,4 +1,6 @@
-# Written-development backlog at PG825
+# Written-development backlog at PG826
+
+PG826 · [The half and the world-protector](nema_half_and_visvapa_protector_panels/README.md). Closed: selected masculine nema seven-case and viśvapā eight-case panels. Still unconstructed: nema address, other gender/number domains and wider sama/sima. Textual questions include the lexicon’s Harivaṃśa locus, accent and the wider S1–S7 source obligations. Execution remains with Claude.
 
 PG825 · [Kaiyaṭa’s printed objection and the possessor of both sons](ubhaya_kaiyata_print_and_two_sons_compound/README.md). Closed on their respective sources: Kaiyaṭa’s no-dual premise and Haradatta’s permissive argument. Closed for the masculine external possessor: 24 compound cases. Still unconstructed: further PG823 case panels. Still unresolved: independent feminine dual word usage and accent, plus the recorded S1–S7 questions. C2–C5 and Claude’s implementation retain their separate registers.
 
