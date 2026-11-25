@@ -1,0 +1,44 @@
+{
+  "schema": "rkf.panini.pg820.relation.v1",
+  "input": {
+    "roots": null,
+    "preverbs": [],
+    "voice": null,
+    "formations": {
+      "ekatara": {"source_base":"eka","affix":"ḍatarac","sense":"one-selected-from-two"},
+      "ekatama": {"source_base":"eka","affix":"ḍatamac","sense":"one-selected-from-many"}
+    },
+    "genders": ["M","F","N"],
+    "numbers": ["dual","plural"],
+    "cases": ["nom","acc","ins","dat","abl","gen","loc"]
+  },
+  "transport_contract": {
+    "name": "eka-derived selected-member number/case transport",
+    "frames": 28,
+    "definition": "Two stems × two numbers × seven cases; gender selects realization.",
+    "selection_guard": "Select one comparison-set member; that member may itself be a pair or plural group.",
+    "register_guard": "PG433's ekatara/ekatama N-singular adḍ contrast does not transfer to dual/plural."
+  },
+  "morphology": {
+    "adapter": "a-final sarvanāma dual/plural seven-case realization",
+    "rows": 12,
+    "positions_per_row": 7,
+    "interfaces": 84,
+    "ledger": "CASE_PANELS.tsv"
+  },
+  "status": {
+    "accepted": "All 84 literal keys in CASE_PANELS.tsv.",
+    "excluded_from_contract": [
+      "multiple candidate selection",
+      "N-singular exception transferred to other numbers",
+      "productive extension outside positive 5.3.94 input",
+      "case merger by equal surface"
+    ],
+    "open": [
+      "other lexical/discourse senses and compounds/names",
+      "vocative and accent",
+      "independent print/commentary collation",
+      "external attestations and wider grammar"
+    ]
+  }
+}

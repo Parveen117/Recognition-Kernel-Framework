@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG820 · [Eka-derived determination dual/plural panels](research/panini_grammar/eka_determination_dual_plural_panels/README.md). PG14 retains source question, comparison set, selected member/cardinality, `eka` base, `ḍatarac/ḍatamac`, gender/number/case, original sup, ending/nasal/sibilant owner, source, ordered history and word; typed number/case and ending adapters prove zero specialization without exporting the N-singular 7.1.26 fork or merging equal surfaces.
+
 PG819 · [Itara, anya and anyatara dual/plural panels](research/panini_grammar/itara_anya_anyatara_dual_plural_panels/README.md). PG14 retains admitted lexeme/sense/source, referent/cardinality, gender/number/case, original sup, ending/marker/nasal owner, ordered history and word; typed number/case and ending adapters prove zero specialization without transferring the N-singular register fork or merging equal surfaces.
 
 PG818 · [Determination neuter vocative singular adḍ marker](research/panini_grammar/determination_neuter_vocative_singular_ad_marker/README.md). PG14 retains source question/comparison frame, policy, affix/stem, N vocative-singular role, original `su`, whole `adḍ`, payload versus deleted marker, second ṭi-lopa, source, ordered history and t/d pause outcome through typed zero specialization.

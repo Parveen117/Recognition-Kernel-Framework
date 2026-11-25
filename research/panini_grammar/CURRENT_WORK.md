@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG819
+# Pāṇini grammar · current written coverage at PG820
+
+PG820 · [Eka-derived determination dual/plural panels](eka_determination_dual_plural_panels/README.md). Closes `ekatara/ekatama` M/F/N dual/plural seven-case panels: 84 new nominal positions/readings, one ending adapter/84 interfaces and one selected-member number/case contract/28 frames. Census: 52,357 finite positions, 22,555 nominal positions and 25,521 nominal readings. With PG433, selected non-vocative all-number panels are CLOSED; the N-singular 7.1.26 contrast remains singular-only and wider lexical/vocative/accent/source extensions remain Open.
 
 PG819 · [Itara, anya and anyatara dual/plural panels](itara_anya_anyatara_dual_plural_panels/README.md). Closes the three positively admitted lexical members' M/F/N dual/plural seven-case panels: 126 new nominal positions/readings, one ending adapter/126 interfaces and one referent-number/case contract/42 frames. Census: 52,357 finite positions, 22,471 nominal positions and 25,437 nominal readings. Together with PG434, selected non-vocative all-number panels are CLOSED; lexical/vocative/accent/source extensions remain Open.
 

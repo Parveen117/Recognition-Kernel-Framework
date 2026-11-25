@@ -1,0 +1,40 @@
+{
+  "stage": "PG820",
+  "date": "2026-11-25",
+  "publication_parent": "d8c46a3c4493dba0b6bc6609b5f05a3872a3a7b4",
+  "baseline": {
+    "commit": "d8c46a3c4493dba0b6bc6609b5f05a3872a3a7b4",
+    "path": "research/panini_grammar/itara_anya_anyatara_dual_plural_panels/STATE.json"
+  },
+  "finite_positions": 52357,
+  "nominal_positions": 22555,
+  "nominal_readings": 25521,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 84,
+  "new_nominal_readings": 84,
+  "new_morphology_constructions": 1,
+  "new_morphology_interfaces": 84,
+  "new_semantic_contracts": 1,
+  "new_semantic_frames": 28,
+  "new_source_observations": 0,
+  "new_source_policy_decisions": 0,
+  "local_closure": "Ekatara/ekatama M/F/N dual/plural seven-case panels are CLOSED: 84 positions/readings. With PG433, selected non-vocative all-number panels are CLOSED.",
+  "open_obligations": [
+    "Other lexical/discourse senses, compounds and names remain Open.",
+    "Resolve vocative, accent and external attestations from positive evidence.",
+    "Complete independent printed yoga-vibhāga/Kaiyaṭa/Bāla collation; frozen PG433 quotations are not new attestations.",
+    "C2–C5 and S1–S7 remain Open; S5 is 99/103 and S6 retains the independent 5.56 k-it effect."
+  ],
+  "global_gates": {
+    "C2–C5": "Open",
+    "S1–S7": "Open",
+    "S5_direct_fields": "99/103",
+    "S6": "Independent 5.56 k-it effect Open"
+  },
+  "protected_registers": {
+    "PG335": "-9 finite positions and -12 readings already applied",
+    "PG340/346, PG349–352, PG355–360, PG357–363": "CLOSED on registered scopes"
+  },
+  "runtime_policy": "Written derivation only. Claude owns execution, generators, untouched suites and replay."
+}

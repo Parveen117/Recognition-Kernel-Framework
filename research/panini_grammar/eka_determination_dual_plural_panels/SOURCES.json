@@ -1,0 +1,57 @@
+{
+  "project_dependencies": [
+    {
+      "commit": "d8c46a3c4493dba0b6bc6609b5f05a3872a3a7b4",
+      "path": "research/panini_grammar/itara_anya_anyatara_dual_plural_panels/STATE.json",
+      "git_blob_sha": "8451f219294723cecfb86ab5ca58cd32f6c8623f",
+      "sha256": "b074f07703f52d3eb60582a8cbbb05c9df59145709b28b5b3ffb7694194b0987",
+      "use": "PG819 baseline and reviewed dual/plural contract pattern"
+    },
+    {
+      "commit": "10c6c94401d4ff3178bc4738469ce8d63087cc02",
+      "path": "research/panini_grammar/eka_determination_affixes_and_neuter_exception/STATE.json",
+      "git_blob_sha": "ccf5fbdb734fc7e0b4323dc410920ce96c4a309e",
+      "sha256": "1c4cd449e09ae39517e34eac24a2f14be4b926de63172c394cdf422682a6f805",
+      "use": "PG433 singular closure and other-numbers Open obligation"
+    },
+    {
+      "commit": "10c6c94401d4ff3178bc4738469ce8d63087cc02",
+      "path": "research/panini_grammar/eka_determination_affixes_and_neuter_exception/RELATION.json",
+      "git_blob_sha": "dadaf8034d27d61267ec61318edcbd4dad135e4e",
+      "sha256": "f1e42f462f1f0c88fe64f051ec0f16a5291e6d1a0d2616b88ee256cedc648a58",
+      "use": "Exact eka base, affix and singular register ownership"
+    },
+    {
+      "commit": "10c6c94401d4ff3178bc4738469ce8d63087cc02",
+      "path": "research/panini_grammar/eka_determination_affixes_and_neuter_exception/SOURCES.json",
+      "git_blob_sha": "b49953bdfd13de73013eba901b300822253fa0ad",
+      "sha256": "b089194beacffc822b85a7a48b96f5908790b9e28b60a8aa6aeb5909308d22c5",
+      "use": "Frozen Kāśikā 5.3.94 and 7.1.26 fields"
+    },
+    {
+      "commit": "10c6c94401d4ff3178bc4738469ce8d63087cc02",
+      "path": "research/panini_grammar/sarva_three_genders_shi_sut_and_nasal_owners/DERIVATION_AND_NATIVE_RECOVERY.md",
+      "git_blob_sha": "b4cd72c7628a14d4524a4cefd779b013cbeb660f",
+      "sha256": "7355c74afb428e3a84bd881bbc90cf21df35b47f0cc6db9d9724c36c8d1dbcbf",
+      "use": "Reviewed M/F/N number, ending, nasal and sibilant ownership"
+    },
+    {
+      "commit": "10c6c94401d4ff3178bc4738469ce8d63087cc02",
+      "path": "research/panini_grammar/sarva_three_genders_shi_sut_and_nasal_owners/NOMINAL_FORMS.tsv",
+      "git_blob_sha": "79a893197865f4b65d136df16d3fd3dddfd0702f",
+      "sha256": "d5f9f519958bf4a1d82aec9712e717fdc90bda88041532643d3feb1455b0f715",
+      "use": "Frozen literal a-final sarvanāma controls"
+    },
+    {
+      "commit": "10c6c94401d4ff3178bc4738469ce8d63087cc02",
+      "path": "research/panini_grammar/grammar_construction/NATIVE_OPERATOR_LIFT.md",
+      "git_blob_sha": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+      "sha256": "f52e7f5cf539ef56859b890669ef738848491e4005e73be75baa49c899b5dafd",
+      "use": "PG14 full operator/history carrier"
+    }
+  ],
+  "duplicate_audit": "No prior credited principal dual/plural keys for ekatara/ekatama; singular keys and unrelated substring hits are not overlaps.",
+  "source_fields_reused_without_new_observation_credit": "PG433 preserves positive 5.3.94 formations and the 7.1.26 singular-only fork; the frozen sarva register preserves ending fields.",
+  "source_observations_new": 0,
+  "source_policy_decisions_new": 0
+}

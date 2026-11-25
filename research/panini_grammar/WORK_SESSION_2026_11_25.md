@@ -2,6 +2,12 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG820 · Eka-derived determination dual/plural panels
+
+PG820 · [Eka-derived determination dual/plural panels](eka_determination_dual_plural_panels/README.md). Constructs 12 literal stem×gender×number panels with seven distinct cases: 84 new nominal positions/readings. One morphology ending adapter has 84 interfaces; one selected-member number/case contract has 28 frames. Finite positions/readings, source observations and source-policy decisions each increase by zero. Census: 52,357 finite positions, 22,555 nominal positions and 25,521 nominal readings.
+
+Parent `d8c46a3c4493dba0b6bc6609b5f05a3872a3a7b4`. Exact audit found no prior credited principal dual/plural keys. PG433's positive `eka→ekatara/ekatama` formations are retained; its N-singular `ekataram` versus `ekatamat/d` contrast does not transfer to other numbers. With PG433, selected non-vocative all-number panels are CLOSED. Other lexical/discourse senses, compounds/names, vocative, accent, external attestations and independent printed yoga-vibhāga/Kaiyaṭa/Bāla collation remain Open. PG335's correction and PG340/346, PG349–352, PG355–360 and PG357–363 closures are preserved. C2–C5/S1–S7 remain Open; S5 is 99/103 and S6 retains the independent 5.56 k-it effect. Claude retains execution, generators, untouched suites and replay.
+
 ## PG819 · Itara, anya and anyatara dual/plural panels
 
 PG819 · [Itara, anya and anyatara dual/plural panels](itara_anya_anyatara_dual_plural_panels/README.md). Constructs 18 literal stem×gender×number panels with seven distinct cases: 126 new nominal positions/readings. One morphology ending adapter has 126 interfaces; one referent-number/case contract has 42 frames. Finite positions/readings, source observations and source-policy decisions each increase by zero. Census: 52,357 finite positions, 22,471 nominal positions and 25,437 nominal readings.
