@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG856 · [Before the 2020 import: two commentary passages and the Uṇādi examples](before_the_2020_import_two_commentaries_and_the_unadi_examples/README.md). The older commentaries are correctly addressed at ho ḍhaḥ. AVG supplied Patel’s Uṇādi text, and the four extension assignments remain open.
+
 PG855 · [The flavour of the drink and three case readings in Māgha 10.23](the_flavour_and_three_cases_in_magha_10_23/README.md). Māgha 10.23 places the short-medial adjective in a poem; Bhoja and Mallinātha distinguish three plural case readings.
 
 PG854 · [Three aorist readings and the teacher and pupil with ati + śī](three_aorists_and_two_participial_roles_of_ati_shi/README.md). The ciṇ and two sic paths for one karmakartṛ third singular, and the teacher/pupil cases in two traditions.

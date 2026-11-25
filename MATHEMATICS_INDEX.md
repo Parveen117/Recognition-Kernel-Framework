@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG856 · [Before the 2020 import: two commentary passages and the Uṇādi examples](research/panini_grammar/before_the_2020_import_two_commentaries_and_the_unadi_examples/README.md). Typed comparison separates normalized text, actual transfer, rule address and suffix assignment.
+
 PG855 · [The flavour of the drink and three case readings in Māgha 10.23](research/panini_grammar/the_flavour_and_three_cases_in_magha_10_23/README.md). Two distinct perfect grades yield the same sasvade; the separate pad aorist expresses the name.
 
 PG854 · [Three aorist readings and the teacher and pupil with ati + śī](research/panini_grammar/three_aorists_and_two_participial_roles_of_ati_shi/README.md). Actual ciṇ and ciṇ-like sic have distinct terminal grades; equal participial forms retain their different case histories.
