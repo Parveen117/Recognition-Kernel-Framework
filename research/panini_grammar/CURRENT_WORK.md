@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG833
+# Pāṇini grammar · current written coverage at PG834
+
+PG834 · [The source editor’s decisions at 8.2.25 and 3.2.111](editors_disposition_of_dhi_ca_and_anadyatana/README.md). The editor confirms the two displaced fields and the Puṣpa source of the erroneous luṅ. Census 52,366 finite and 22,746 nominal positions, 25,718 nominal readings.
 
 PG833 · [The wife compound in two Bhāṣya printings](phantahrta_wife_in_two_bhasya_printings/README.md). Two printings establish long ā in the compound. New 24 nominal positions/25 readings. Census 52,366 finite, 22,746 nominal positions and 25,718 nominal readings.
 

@@ -1,4 +1,6 @@
-# Written-development backlog at PG833
+# Written-development backlog at PG834
+
+PG834 · [The source editor’s decisions at 8.2.25 and 3.2.111](editors_disposition_of_dhi_ca_and_anadyatana/README.md). S2 editorial disposition closed for both fields. The pre-import assignment and corrected upstream fields remain open. S3 source family and editorial error decision closed. Direct file intermediary and deployed repair remain open. C2–C5, the other source questions and Claude’s execution retain their owners.
 
 PG833 · [The wife compound in two Bhāṣya printings](phantahrta_wife_in_two_bhasya_printings/README.md). Closed for the two printings at 4.1.150 and the selected masculine possessor. The short electronic witness is retained. Manuscript priority, the source of the short spelling and a direct disposition of the full ordered-pair policy remain open. S2/S3 await upstream issue #338. S4, the four outstanding S5 links and the S6 marker effect retain separate evidence requirements. Claude retains execution.
 

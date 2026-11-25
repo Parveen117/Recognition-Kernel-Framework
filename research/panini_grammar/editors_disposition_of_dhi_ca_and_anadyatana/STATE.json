@@ -1,0 +1,57 @@
+{
+  "stage": "PG834",
+  "publication_parent": "cc2b7e9bfacb87c0e037e8326a184c473969d070",
+  "baseline": "../phantahrta_wife_in_two_bhasya_printings/STATE.json",
+  "finite_positions": 52366,
+  "nominal_positions": 22746,
+  "nominal_readings": 25718,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 0,
+  "new_morphology_constructions": 0,
+  "new_morphology_interfaces": 0,
+  "source_decisions": [
+    "BALA_82025_INVALID",
+    "TATTVA_82025_INVALID",
+    "KASIKA_32111_PUSPA_ERROR"
+  ],
+  "sources": {
+    "editor": {
+      "id": 7154191818,
+      "html_url": "https://github.com/ashtadhyayi-com/data/issues/338#issuecomment-7154191818",
+      "created_at": "2026-11-25T05:50:39Z",
+      "updated_at": "2026-11-25T05:50:39Z",
+      "author_association": "CONTRIBUTOR"
+    },
+    "editor_login": "neeleshb",
+    "reply_sha256_utf8": "e81b70ff41097f0eaf2f05ae73193a3acba59df9869cfb5672ca4af600836964",
+    "upstream_master": "db9a7f1dba06159e6bcd6efb92c9d01857939947",
+    "raw": {
+      "sutraani/balamanorama.txt": {
+        "sha256": "1d47b8404bfb7bfb566d0f6f4b476a0a24b139f796248a75eda1e4fa4c519999",
+        "git_blob": "c4002fade0835db7534ff582fe94a20e4ebb54f4"
+      },
+      "sutraani/tattvabodhini.txt": {
+        "sha256": "f330f9d5b225a784c8c949970aa20ba7ca981594bee42aa6b654bd995778ae6e",
+        "git_blob": "278a54f50dd8e22a86d0eef88b88737b84474167"
+      },
+      "sutraani/kashika.txt": {
+        "sha256": "78ccd0f548077c75ed582e82fd5a3ae629efb70a9e29ed018fb36c071ab62f2b",
+        "git_blob": "33aee69f03d8c88d8406875c82b5d0fb1bec9b7d"
+      }
+    },
+    "frozen": {
+      "research/panini_grammar/dated_pushpa_transcription_and_two_displaced_kasika_fields/RELATION.json": "e7236494489eba411de13c24b56788dee3056a37",
+      "research/panini_grammar/kasika_bulk_replacement_and_current_source_fields/SOURCES.json": "ee4f27a55b5606f17900cc8e276845a8cff12223",
+      "research/panini_grammar/dhi_ca_initial_import_transmission_boundary/TRANSMISSION_RECORDS.json": "8a17a27dedd177e2ba16ca96765dc0ec9b190809",
+      "research/panini_grammar/anadyatana_two_printed_kasika_prescriptions/RELATION.json": "82c15826fe0cfeca71f75463fcecb7387b8979b7"
+    }
+  },
+  "execution": "Claude-deferred",
+  "open": [
+    "S2 pre-import assignment and upstream correction",
+    "S3 exact intermediary and observed correction"
+  ],
+  "upstream_repair_observed": false
+}

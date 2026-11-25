@@ -1,5 +1,7 @@
 # Written Pāṇini work session · 2026-11-25
 
+PG834 · [The source editor’s decisions at 8.2.25 and 3.2.111](editors_disposition_of_dhi_ca_and_anadyatana/README.md). Parent cc2b7e9bfacb87c0e037e8326a184c473969d070. One editor reply, three field decisions, zero new finite or nominal positions/readings. Master inspected at db9a7f1dba06159e6bcd6efb92c9d01857939947. S2/S3 now have the editor’s disposition. See the state for open historical and deployment evidence.
+
 PG833 · [The wife compound in two Bhāṣya printings](phantahrta_wife_in_two_bhasya_printings/README.md). Parent 860f2c0b1baf030a0d6a3acd28ef711196d9f07d. Two source decisions, one compound construction with 24 interfaces, 24 new nominal positions/25 readings, finite 0/0. Census 52,366 finite, 22,746 nominal positions and 25,718 nominal readings. Open obligations include the textual and policy history at 4.1.150 and the two questions in upstream issue #338.
 
 PG832 · [The makers in four Ṛgvedic clauses](makers_in_four_rigvedic_clauses/README.md). Parent d42bfee33c0f8293d4a73302b09e29371c532eb4. Four edition-pinned clauses, four source decisions and one four-way clause construction. Finite 0/0 and nominal 0/0 new positions/readings. Census 52,366 finite, 22,722 nominal positions and 25,693 nominal readings. The authorized joint source enquiry is published at [upstream issue #338](https://github.com/ashtadhyayi-com/data/issues/338). Receipt of the questions leaves S2/S3 open pending editorial evidence.
