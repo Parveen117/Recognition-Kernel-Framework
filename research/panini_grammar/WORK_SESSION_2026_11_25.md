@@ -2,6 +2,12 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG809 · Directional astāti, atasuc and distance adverbs
+
+PG809 · [Directional astāti, atasuc and distance adverbs](directional_astati_atasuc_and_distance_adverbs/README.md). Constructs selected 5.3.27–41 outputs with 80 new nominal/adverbial positions and 101 readings. Finite positions/readings increase by zero. Fifteen constructions/80 interfaces, zero new source observations and fourteen decisions. Census: 52,357 finite positions, 21,918 nominal positions and 24,842 nominal readings.
+
+Parent `1f98ec2eb2e5d82939a16750a225fac428a08d8f`. The containing commit pins this packet. Displayed outputs, case-context ownership, distance guards, alternatives and substitutions are CLOSED. The Kāśikā/Vasu 5.3.29 surface priority, the broad-school scope of 5.3.35, accent, independent Vedic attestations and non-displayed paradigmatic distribution remain Open. Continue from 5.3.42. C2–C5 and S1–S7 remain Open; S5 is 99/103 and S6 retains the independent 5.56 k-it effect. Claude retains execution, generators, untouched suites and replay.
+
 ## PG808 · Time nipātanas and manner/cause adverbs
 
 PG808 · [Time nipātanas and manner/cause adverbs](time_nipatanas_and_manner_cause_adverbs/README.md). Constructs selected 5.3.16–26 outputs with 30 new nominal/adverbial positions and 35 readings, one reading extending PG807 `TD15`. Finite positions/readings increase by zero. Eleven constructions/30 interfaces, zero new source observations and ten decisions. Census: 52,357 finite positions, 21,838 nominal positions and 24,741 nominal readings.

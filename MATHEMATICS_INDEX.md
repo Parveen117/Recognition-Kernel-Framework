@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG809 · [Directional astāti, atasuc and distance adverbs](research/panini_grammar/directional_astati_atasuc_and_distance_adverbs/README.md). PG14 retains lexical base and inner case, direction/place/time/distance relation, semantic/distance/register/source guard, affix/substitution/lopa/nipātana owner, ordered history, source and outcome through typed zero specialization.
+
 PG808 · [Time nipātanas and manner/cause adverbs](research/panini_grammar/time_nipatanas_and_manner_cause_adverbs/README.md). PG14 retains inner case, time/day/year/manner/cause relation, semantic/register guard, suffix/substitution/nipātana/accent owner, ordered history, source and outcome through typed zero specialization.
 
 PG807 · [Prāgdiśa vibhakti, ablative, locative and time adverbs](research/panini_grammar/pragdisha_vibhakti_ablative_locative_and_time_adverbs/README.md). PG14 retains inner case, ablative/locative/time/place relation, semantic and lexical guard, suffix/substitution/accent owner, ordered history, source and outcome through typed zero specialization.

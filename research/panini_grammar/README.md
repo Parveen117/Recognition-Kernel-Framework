@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG809 · [Directional astāti, atasuc and distance adverbs](directional_astati_atasuc_and_distance_adverbs/README.md). Constructs selected 5.3.27–41 outputs: 80 new nominal/adverbial positions and 101 readings, fifteen constructions/80 interfaces and fourteen source decisions.
+
 PG808 · [Time nipātanas and manner/cause adverbs](time_nipatanas_and_manner_cause_adverbs/README.md). Constructs selected 5.3.16–26 outputs: 30 new nominal/adverbial positions and 35 readings, eleven constructions/30 interfaces and ten source decisions.
 
 PG807 · [Prāgdiśa vibhakti, ablative, locative and time adverbs](pragdisha_vibhakti_ablative_locative_and_time_adverbs/README.md). Constructs selected 5.3.1–15 outputs: 37 new nominal/adverbial positions and 43 readings, fifteen constructions/37 interfaces and twelve source decisions.

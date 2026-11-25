@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG808
+# Pāṇini grammar · current written coverage at PG809
+
+PG809 · [Directional astāti, atasuc and distance adverbs](directional_astati_atasuc_and_distance_adverbs/README.md). Constructs selected 5.3.27–41 direction/place/time outputs with case-context, distance, register and source-labelled histories explicit. Census: 52,357 finite positions, 21,918 nominal positions and 24,842 nominal readings.
 
 PG808 · [Time nipātanas and manner/cause adverbs](time_nipatanas_and_manner_cause_adverbs/README.md). Constructs selected 5.3.16–26 temporal, Vedic, nipātana, manner and cause outputs, including one new reading on PG807's existing `tadā` position. Census: 52,357 finite positions, 21,838 nominal positions and 24,741 nominal readings.
 
