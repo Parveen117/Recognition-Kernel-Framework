@@ -1,0 +1,40 @@
+{
+  "stage": "PG883",
+  "date": "2026-11-25",
+  "publication_parent": "2d09bb5cc9ebabc77e3324774ad5a8ee54f233c0",
+  "baseline": "../nema_and_sama_vocative_panels/STATE.json",
+  "finite_positions": 52531,
+  "nominal_positions": 25996,
+  "nominal_readings": 29645,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 12,
+  "new_nominal_readings": 12,
+  "new_morphology_constructions": 4,
+  "new_morphology_interfaces": 12,
+  "new_syntax_constructions": 1,
+  "new_syntax_interfaces": 12,
+  "new_source_observations": 0,
+  "new_source_policy_decisions": 2,
+  "local_closure": "Selected principal-cardinal eka/dvi/tri/catur M/F/N vocatives at sg/du/pl/pl are CLOSED: 12 positions/readings.",
+  "accepted": [
+    "three singular eka vocative keys",
+    "three dual dvi vocative keys",
+    "three plural tri and three plural catur vocative keys"
+  ],
+  "excluded_only_from_selected_adapter": [
+    "changing the lexical number of a principal cardinal",
+    "automatic extension to non-cardinal, compound or Vedic numeral uses"
+  ],
+  "open_obligations": [
+    "Non-cardinal uses and compound numeral heads remain Open.",
+    "Vedic forms, accent, chant and independent source collation remain Open.",
+    "Wider numeral grammar and C2-C5/S1-S7 remain Open.",
+    "No source gap is converted into an exclusion."
+  ],
+  "protected_registers": {
+    "PG335": "-9 finite positions and -12 readings already applied",
+    "PG340/346, PG349-352, PG355-360, PG357-363": "CLOSED on registered scopes"
+  },
+  "runtime_policy": "Written derivation only. Claude owns execution, generators, untouched suites and certificate replay."
+}

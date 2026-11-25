@@ -1,0 +1,72 @@
+{
+  "project_dependencies": [
+    {
+      "commit": "2d09bb5cc9ebabc77e3324774ad5a8ee54f233c0",
+      "path": "research/panini_grammar/nema_and_sama_vocative_panels/STATE.json",
+      "git_blob_sha": "37850fe3a0c63b8b9d4c0895d54dc074358ed820",
+      "bytes": 1735,
+      "sha256": "0105a051726f86590fec6e510b3a84503537c0f6b48585f97446ce4273f2b09b",
+      "use": "PG882 baseline"
+    },
+    {
+      "commit": "2d09bb5cc9ebabc77e3324774ad5a8ee54f233c0",
+      "path": "research/panini_grammar/nema_and_sama_vocative_panels/DERIVATION_AND_NATIVE_RECOVERY.md",
+      "git_blob_sha": "e3aadabed2273042a4c67676d94a8fa779ee2e8d",
+      "bytes": 5663,
+      "sha256": "84734483f8e55f9712d2496c7df004a6d902ec5d1ccae28efff78e49f882936e",
+      "use": "Reviewed address and singular/non-singular selector"
+    },
+    {
+      "commit": "10c6c94401d4ff3178bc4738469ce8d63087cc02",
+      "path": "research/panini_grammar/eka_singular_pronominal_endings_and_feminine_syad/NOMINAL_FORMS.tsv",
+      "git_blob_sha": "397cdb619312c18be122407b3b6a56c50b19d362",
+      "bytes": 756,
+      "sha256": "31f604cd07c9ba07afbbc961d2c15d8cc76c5a56131e131e4d0754719dbd8299",
+      "use": "PG419 principal eka singular gender and ending ownership"
+    },
+    {
+      "commit": "10c6c94401d4ff3178bc4738469ce8d63087cc02",
+      "path": "research/panini_grammar/dvi_numeral_dual_genders_and_sup_owners/NOMINAL_FORMS.tsv",
+      "git_blob_sha": "b88537232e47efd231780629811b700728e84f76",
+      "bytes": 820,
+      "sha256": "8b705b2a6a655011456d3b9636f8835c3241b44484c731f3beb4af82130fae65",
+      "use": "PG413 dvi dual gender and nominative ending ownership"
+    },
+    {
+      "commit": "10c6c94401d4ff3178bc4738469ce8d63087cc02",
+      "path": "research/panini_grammar/tri_numeral_tisr_ordering_and_three_genders/NOMINAL_FORMS.tsv",
+      "git_blob_sha": "4b3f3d4262c3907be91de260147297b59c4e26fd",
+      "bytes": 798,
+      "sha256": "1024338beff4094da8c3f45d2f390f8ff7e42fa0286fff065143647f12365b18",
+      "use": "PG414 tri plural gender and nominative ending ownership"
+    },
+    {
+      "commit": "10c6c94401d4ff3178bc4738469ce8d63087cc02",
+      "path": "research/panini_grammar/catur_numeral_am_augment_and_three_genders/NOMINAL_FORMS.tsv",
+      "git_blob_sha": "1cef8869f634d3e97f828defa322890939572564",
+      "bytes": 875,
+      "sha256": "6d8ef32ed8c5442f23e04e35184a9fa0259d21a06f4bd296789442487569dff1",
+      "use": "PG415 catur plural gender, āṃ-augment and nominative ownership"
+    },
+    {
+      "commit": "10c6c94401d4ff3178bc4738469ce8d63087cc02",
+      "path": "research/panini_grammar/grammar_construction/NATIVE_OPERATOR_LIFT.md",
+      "git_blob_sha": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+      "bytes": 11855,
+      "sha256": "f52e7f5cf539ef56859b890669ef738848491e4005e73be75baa49c899b5dafd",
+      "use": "PG14 full operator/history carrier and typed zero specialization"
+    }
+  ],
+  "source_fields_reused_without_new_observation_credit": [
+    {
+      "rules": "2.3.47, 2.3.49, 6.1.69, 7.1.24, 7.3.106",
+      "reason": "PG880-PG882 already review the address and singular channels."
+    },
+    {
+      "rules": "principal-cardinal cases and 6.1.88, 7.1.18-20, 7.1.98",
+      "reason": "PG413-PG415 and PG419 own the exact number, gender and first-case outputs."
+    }
+  ],
+  "source_observations_new": 0,
+  "source_policy_decisions_new": 2
+}

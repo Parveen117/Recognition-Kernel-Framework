@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG883 · [Principal cardinal vocative panels](research/panini_grammar/principal_cardinal_vocative_panels/README.md). Address, lexical-number transport, singular selection and realization commute with typed zero specialization while preserving distinct `śī`, `num` and `ām` histories.
+
 PG882 · [*Nema* and *sama* vocative panels](research/panini_grammar/nema_and_sama_vocative_panels/README.md). Address, singular selection, sense/status policy and word realization commute with typed zero specialization; the `nema` M-plural two-arrow sum and the withheld `sima` grades remain recoverable.
 
 PG881 · [Other-pronoun and *eka*-derived vocatives](research/panini_grammar/other_pronoun_and_eka_vocative_panels/README.md). The address, singular-selector, ending and word maps commute with typed zero specialization while preserving the `adḍ`/`am` fork, deleted-marker ownership and equal-surface gender histories.

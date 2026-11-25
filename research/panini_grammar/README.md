@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG883 · [Principal cardinal vocative panels](principal_cardinal_vocative_panels/README.md). The address adapter preserves `eka/dvi/tri/catur` lexical number and the distinct M/F/N first-case histories.
+
 PG882 · [*Nema* and *sama* vocative panels](nema_and_sama_vocative_panels/README.md). The three ordinary sense-panels keep pronominal status, `jas` optionality and equal-surface histories distinct while the unquoted Vedic `sima` series remains Open.
 
 PG881 · [Other-pronoun and *eka*-derived vocatives](other_pronoun_and_eka_vocative_panels/README.md). Five three-number address panels preserve lexical versus derived stem ownership, four `adḍ` neuters and `ekatara`'s positive 7.1.26 exception.
