@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG875 · [The Shantipur command and the agents who wish or beg](research/panini_grammar/shantipur_command_and_lexical_agents_of_wishing_and_begging/README.md). The word and case projections preserve the distinct grades of san-free u, stipulated ch and the acquisition noun’s ghañ.
+
 PG874 · [The Grantha witness to the disputed command and the Paṭṭaṇa case readings](research/panini_grammar/grantha_witness_to_the_disputed_command_and_pattana_case_readings/README.md). Witness and token-span projections retain the named governor on the base grade and its loss on the Paṭṭaṇa branch.
 
 PG873 · [Rāmacandra’s Subodhinī and the choice of Daśaratha](research/panini_grammar/ramacandras_subodhini_and_the_choice_of_dasaratha/README.md). General-past and narrative-viewpoint histories distinguish aorist formation, commentator objection and citation boundary.

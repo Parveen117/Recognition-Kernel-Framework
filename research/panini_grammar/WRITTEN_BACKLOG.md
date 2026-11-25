@@ -1,4 +1,6 @@
-# Written-development backlog at PG874
+# Written-development backlog at PG875
+
+PG875 · [The Shantipur command and the agents who wish or beg](shantipur_command_and_lexical_agents_of_wishing_and_begging/README.md). Closed the named Bengali manuscript’s main reading and the two lexical branches of 3.2.168 on these selected requests. The manuscript bearing the separate command and its independent mood, further gender domains, C2–C5 and S2–S7 remain open. Claude retains execution.
 
 PG874 · [The Grantha witness to the disputed command and the Paṭṭaṇa case readings](grantha_witness_to_the_disputed_command_and_pattana_case_readings/README.md). Closed the 1874 print and two bounded apparatus comparisons. S1 still requires a named manuscript and a mood for the separate reading. P’s instrumental and nominative attachments, C2–C5 and inherited S2–S7 remain open. Claude retains execution.
 

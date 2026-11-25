@@ -1,0 +1,159 @@
+{
+  "stage": "PG875",
+  "publication_parent": "50ce4a540e5944b74279bd7147cc15700d6272fc",
+  "baseline": "../grantha_witness_to_the_disputed_command_and_pattana_case_readings/STATE.json",
+  "finite_positions": 52513,
+  "nominal_positions": 25754,
+  "nominal_readings": 29398,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 93,
+  "new_nominal_readings": 97,
+  "new_morphology_constructions": 4,
+  "new_morphology_interfaces": 96,
+  "source_decisions": [
+    "SHANTIPUR_BODY_WITH_MODAYADHVAM",
+    "SHANTIPUR_NA_FEAR_AND_CA_WARNING",
+    "LAKSMI_FEMININE_AND_HUSBAND_PROXIMITY",
+    "SUGRIVA_AND_THE_TWO_OBJECTS",
+    "PRANAMAN_AND_PRANAYAN",
+    "FORM_OF_THE_BIRD_FOLLOWS_BOUNDARY",
+    "WISH_ROOT_VERSUS_PRAISE_HOMONYM",
+    "ICCHU_CH_SUBSTITUTION",
+    "BEGGAR_AND_TWO_ACQUISITION_FRAMES"
+  ],
+  "sources": {
+    "repository_blobs": {
+      "grammar_construction/NATIVE_OPERATOR_LIFT.md": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+      "grantha_witness_to_the_disputed_command_and_pattana_case_readings/STATE.json": "994d15cac73430470e7080b70c983a648a16ede1",
+      "seven_desiderative_agents_in_bhattis_warning/README.md": "091451fa45e607fb6a5b30b458bb3340581bb6c7",
+      "sitas_waist_and_the_raksasis_departure/README.md": "d8ceacf9a5ffad0ab5fadd8f2f657233c2bab7e3",
+      "krt_temporal_relations/RULES_B2.md": "20c65f67b3bbf04aa924166f58a110592d1a7feb",
+      "krt_temporal_relations/RULES_C1.md": "48612e05d111b1583562728e4dc5f58871b9c46f"
+    },
+    "shantipur": {
+      "shelfmark": "EAP781/1/1/513",
+      "canvas": 39,
+      "text_line": 2,
+      "sha256": {
+        "https://eap.bl.uk/archive-file/EAP781-1-1-513/manifest": "3b4df6e4ab3300475bc5576cb26e4ab1a60182254f7ea0e149d0d3c44467a4ba",
+        "https://images.eap.bl.uk/EAP781/EAP781_1_1_513/39.jp2/full/1200,/0/default.jpg": "25fb69fa12435f7dbc3296d2f7f01cde303b0bcd6d9a370f442fbf98fbce449b",
+        "https://images.eap.bl.uk/EAP781/EAP781_1_1_513/39.jp2/pct:12,27,45,31/1150,/0/default.jpg": "2b2bdb1d03a89f43b3a72d34ddace0738930be7aaa665d2f25c51ad4c84b254b",
+        "https://images.eap.bl.uk/EAP781/EAP781_1_1_513/39.jp2/pct:54,27,34,31/1150,/0/default.jpg": "f86245213d1f93808d1656144a6548dec7c5b44ed643b200dba01523da4e78ad"
+      }
+    },
+    "jayamangala": {
+      "item": "b3009303x",
+      "file": "b3009303x.pdf",
+      "sha256": "87059e6ea2e48e4755df0e675ff9999b15bdc9a31601609ccfae100a2d9a20aa",
+      "printed_pages": [
+        75,
+        145
+      ],
+      "archive_leaves": [
+        82,
+        152
+      ]
+    },
+    "gretil": {
+      "file": "bhattiku.htm",
+      "sha256": "3b4e0876703db37e0d07bafa13aba8bd137105d19f212c24073a4197ceeff167",
+      "keys": [
+        "Bhk_5.17",
+        "Bhk_7.24",
+        "Bhk_7.79",
+        "Bhk_7.98",
+        "Bhk_7.99",
+        "Bhk_7.100",
+        "Bhk_7.101",
+        "Bhk_7.102"
+      ]
+    },
+    "upstream": {
+      "commit": "5744762f010d677cfb43f347a42d02796cf615d6",
+      "files": {
+        "sutraani/kashika.txt": {
+          "blob": "e525df7668835ef1dd7c5988c031da07ce0c162b",
+          "keys": [
+            "14006",
+            "14007",
+            "23002",
+            "23034",
+            "23065",
+            "23069",
+            "32134",
+            "32168",
+            "32169",
+            "33046",
+            "61073",
+            "71058",
+            "73119",
+            "73120",
+            "83024",
+            "84001",
+            "84002",
+            "84040"
+          ]
+        },
+        "dhatu/data.txt": {
+          "blob": "d39a41a998199e60e1c69740541dd78f1464e578",
+          "entries": [
+            "01.0716",
+            "01.0829",
+            "01.0690",
+            "06.0078",
+            "04.0022",
+            "09.0061"
+          ]
+        }
+      }
+    }
+  },
+  "execution": "Claude-deferred",
+  "new_syntax_constructions": 3,
+  "new_syntax_interfaces": 9,
+  "case_panels": {
+    "āśaṃsu/M": [
+      "āśaṃs",
+      "M",
+      "n"
+    ],
+    "āśaṃsu/F": [
+      "āśaṃs",
+      "F",
+      "n"
+    ],
+    "bhikṣu/M": [
+      "bhikṣ",
+      "M",
+      "ṇ"
+    ],
+    "icchu/M": [
+      "icch",
+      "M",
+      "n"
+    ]
+  },
+  "reserved_prior_heads": [
+    "āśaṃsu/M/NOMsg",
+    "bhikṣu/M/NOMsg",
+    "icchu/M/NOMsg"
+  ],
+  "syntax_frames": {
+    "what is desired and by whom": [
+      "Lakṣmī and association",
+      "Sugrīva and safety",
+      "Sugrīva and favour",
+      "the bird and food"
+    ],
+    "case and governor": [
+      "patyuḥ with antike",
+      "ātmanaḥ with kṣemam"
+    ],
+    "acquisition as the condition on pragrahaṇa": [
+      "mendicant and bowl",
+      "dvija and ladle",
+      "ordinary grasp outside the acquisition frame"
+    ]
+  }
+}

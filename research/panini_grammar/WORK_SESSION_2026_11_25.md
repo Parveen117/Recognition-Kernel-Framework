@@ -1,5 +1,7 @@
 # Written Pāṇini work session · 2026-11-25
 
+PG875 · [The Shantipur command and the agents who wish or beg](shantipur_command_and_lexical_agents_of_wishing_and_begging/README.md). Parent 50ce4a540e5944b74279bd7147cc15700d6272fc. Four morphology constructions/96 interfaces, three syntax constructions/nine interfaces, nine source decisions, 93 new nominal positions/97 readings and zero finite.
+
 PG874 · [The Grantha witness to the disputed command and the Paṭṭaṇa case readings](grantha_witness_to_the_disputed_command_and_pattana_case_readings/README.md). Parent 4bfa6fcc72c35922c16f6d051d36bc6dd905054d. Ten source decisions and two syntax constructions at four interfaces. Zero new finite or nominal positions or readings.
 
 PG873 · [Rāmacandra’s Subodhinī and the choice of Daśaratha](ramacandras_subodhini_and_the_choice_of_dasaratha/README.md). Parent ff0d1508ed553b661e3972f2c358d4770e36d775. Nine new finite positions/ten readings, one morphology construction/nine interfaces, three syntax constructions/six interfaces, nine source decisions. No nominal increment.
