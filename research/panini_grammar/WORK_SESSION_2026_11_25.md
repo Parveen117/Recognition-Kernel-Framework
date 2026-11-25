@@ -2,6 +2,12 @@
 
 Monty. Dates follow Asia/Kolkata.
 
+## PG818 · Determination neuter vocative singular adḍ marker
+
+PG818 · [Determination neuter vocative singular adḍ marker](determination_neuter_vocative_singular_ad_marker/README.md). Direct Kāśikā `he katarad` and Bāla's reported tadanta scope support six N vocative-singular keys with two t/d pause readings each: 6 new nominal positions and 12 readings. One morphology construction/six interfaces, zero new source observations and one positive source-scope decision. Census: 52,357 finite positions, 22,345 nominal positions and 25,311 nominal readings.
+
+Parent `1518522d9407bcbda5ba9fd9931fcd91b6b03dd4`. Whole `adḍ`, `d_PAYLOAD`, deleted `ḍ_IT`, second ṭi-lopa and original vocative `su` remain distinct. The six selected N vocative-singular keys are CLOSED; M/F and dual/plural vocatives remain Open rather than inferred. Accent, compounds/names, other derived pronouns and independent commentary/source collation remain Open. PG335's correction and PG340/346, PG349–352, PG355–360 and PG357–363 closures are preserved. C2–C5/S1–S7 remain Open; S5 is 99/103 and S6 retains the independent 5.56 k-it effect. Claude retains execution, generators, untouched suites and replay.
+
 ## PG817 · Determination dual/plural accusative and oblique panels
 
 PG817 · [Determination dual/plural accusative and oblique panels](determination_dual_plural_accusative_oblique_panels/README.md). Constructs 216 genuinely new accusative–locative dual/plural M/F/N positions/readings for `katara/katama`, `yatara/yatama` and `tatara/tatama`. One morphology ending adapter has 216 interfaces; one semantic case-role contract has 72 stem×case×number frames. Finite positions/readings, source observations and source-policy decisions each increase by zero. Census: 52,357 finite positions, 22,339 nominal positions and 25,299 nominal readings.

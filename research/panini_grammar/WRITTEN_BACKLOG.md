@@ -1,6 +1,8 @@
-# Written-development backlog at PG817
+# Written-development backlog at PG818
 
-Monty · 2026-11-25 · reviewed parent 3073465cadfbb3540f9deff45338aa2d760f018f. Historical closures below retain their exact pins.
+Monty · 2026-11-25 · reviewed parent 1518522d9407bcbda5ba9fd9931fcd91b6b03dd4. Historical closures below retain their exact pins.
+
+PG818 · [Determination neuter vocative singular adḍ marker](determination_neuter_vocative_singular_ad_marker/README.md). The six positively evidenced N vocative-singular keys are CLOSED: six positions/12 pause readings, one morphology construction/six interfaces and one source-scope decision. Whole `adḍ`, payload/marker ownership and second ṭi-lopa remain explicit. M/F and dual/plural vocatives, accent, compounds/names, other derived pronouns and independent commentary/source collation remain Open; absence is not exclusion. Next search positive sources for the remaining vocative cells rather than copying nominative surfaces. C2–C5/S1–S7 remain Open; S5 is 99/103, S6 retains the 5.56 k-it effect, and Claude retains execution.
 
 PG817 · [Determination dual/plural accusative and oblique panels](determination_dual_plural_accusative_oblique_panels/README.md). Accusative–locative dual/plural M/F/N panels for the six principal determination stems are CLOSED: 216 positions/readings, one ending adapter/216 interfaces and one case-role contract/72 frames. PG431/PG816/PG817 jointly close the selected non-vocative all-number panels while preserving distinct equal-surface case histories. Vocative and accent remain genuine unconstructed domains; compounds/names, other derived pronouns and independent commentary/source collation remain Open. Next review the positive 7.1.25 vocative evidence before constructing any vocative panel. C2–C5/S1–S7 remain Open; S5 is 99/103, S6 retains the 5.56 k-it effect, and Claude retains execution.
 

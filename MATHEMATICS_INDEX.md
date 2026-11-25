@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG818 · [Determination neuter vocative singular adḍ marker](research/panini_grammar/determination_neuter_vocative_singular_ad_marker/README.md). PG14 retains source question/comparison frame, policy, affix/stem, N vocative-singular role, original `su`, whole `adḍ`, payload versus deleted marker, second ṭi-lopa, source, ordered history and t/d pause outcome through typed zero specialization.
+
 PG817 · [Determination dual/plural accusative and oblique panels](research/panini_grammar/determination_dual_plural_accusative_oblique_panels/README.md). PG14 retains source question, comparison set, selected grouped member/cardinality, policy, affix/stem, gender/number, case role, original sup, ending/marker/nasal owner, source, ordered history and word; typed case-role and ending adapters prove zero specialization without merging equal dual/plural case surfaces.
 
 PG816 · [Determination nominative dual/plural number transport](research/panini_grammar/determination_nominative_dual_plural_number_transport/README.md). PG14 retains source question, comparison set, selected grouped member and its cardinality, semantic policy, `ḍatarac/ḍatamac`, stem, gender, case/number, original sup, substitution/nasal owner, source, ordered history and word; the number and ending adapters prove their typed zero specializations and do not collapse shared `-e` or `-ṇi/-ni` histories.

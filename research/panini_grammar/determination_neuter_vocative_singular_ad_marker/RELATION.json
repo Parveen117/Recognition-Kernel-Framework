@@ -1,0 +1,32 @@
+{
+  "schema": "rkf.panini.pg818.relation.v1",
+  "input": {
+    "roots": null,
+    "preverbs": [],
+    "voice": null,
+    "gender": "neuter",
+    "case": "vocative",
+    "number": "singular",
+    "original_ending": "su",
+    "stems": {
+      "katara": ["kim", "ḍatarac"], "katama": ["kim", "ḍatamac"],
+      "yatara": ["yad", "ḍatarac"], "yatama": ["yad", "ḍatamac"],
+      "tatara": ["tad", "ḍatarac"], "tatama": ["tad", "ḍatamac"]
+    }
+  },
+  "construction": {
+    "source_trigger": "Kāśikā 7.1.25: he katarad prevents sambuddhi lopa",
+    "whole_replacement": "whole su → a d_PAYLOAD ḍ_IT",
+    "marker_operation": "ḍ_IT lopa; retained ḍit history licenses 6.4.143 stem-final a_TI lopa",
+    "pause_operation": "8.4.56 selected t/d readings",
+    "interfaces": 6,
+    "positions": 6,
+    "readings": 12
+  },
+  "source_scope_decision": "Apply the positive katarad vocative construction to the six admitted ḍatara/ḍatama tadantas; do not generalize to every -tara/-tama word.",
+  "status": {
+    "accepted": "Six N vocative-singular keys and twelve pause readings in VOCATIVE_FORMS.tsv.",
+    "excluded_from_adapter_only": ["masculine/feminine vocatives", "dual/plural vocatives", "unadmitted orthographic -tara/-tama words"],
+    "open": ["all excluded-from-adapter domains pending positive evidence", "accent", "compounds/names", "remaining derived pronouns", "independent commentary/source collation"]
+  }
+}

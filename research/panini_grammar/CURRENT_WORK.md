@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG817
+# Pāṇini grammar · current written coverage at PG818
+
+PG818 · [Determination neuter vocative singular adḍ marker](determination_neuter_vocative_singular_ad_marker/README.md). Uses Kāśikā 7.1.25's positive `he katarad` purpose clause and inherited tadanta scope to close six N vocative-singular keys/12 pause readings. One morphology construction/six interfaces, zero new source observations and one source-scope decision. Census: 52,357 finite positions, 22,345 nominal positions and 25,311 nominal readings. Other genders/numbers of the vocative remain Open pending positive evidence.
 
 PG817 · [Determination dual/plural accusative and oblique panels](determination_dual_plural_accusative_oblique_panels/README.md). Closes accusative–locative dual/plural M/F/N realization for the six principal determination stems: 216 new nominal positions/readings, one ending adapter/216 interfaces and one case-role contract/72 frames. Census: 52,357 finite positions, 22,339 nominal positions and 25,299 nominal readings. Together with PG431/PG816, selected non-vocative all-number panels are CLOSED; vocative, accent and wider source/grammar domains remain Open.
 

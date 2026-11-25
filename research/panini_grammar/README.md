@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG818 · [Determination neuter vocative singular adḍ marker](determination_neuter_vocative_singular_ad_marker/README.md). Constructs six positively evidenced N vocative-singular positions/12 pause readings, one morphology construction/six interfaces and one source-scope decision.
+
 PG817 · [Determination dual/plural accusative and oblique panels](determination_dual_plural_accusative_oblique_panels/README.md). Constructs 216 accusative–locative dual/plural M/F/N positions/readings for six principal determination stems, one ending adapter/216 interfaces and one case-role contract/72 frames.
 
 PG816 · [Determination nominative dual/plural number transport](determination_nominative_dual_plural_number_transport/README.md). Constructs 36 M/F/N nominative dual/plural positions/readings for six principal determination stems, one ending adapter/36 interfaces and one grouped-member semantic contract/12 frames.
