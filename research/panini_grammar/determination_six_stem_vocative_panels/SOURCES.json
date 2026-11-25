@@ -1,0 +1,72 @@
+{
+  "project_dependencies": [
+    {
+      "commit": "49c172ea6917b2b713822e380f3c0ae6e65b4d09",
+      "path": "research/panini_grammar/vasu_munipadi_and_the_correct_foot_rule_reference/STATE.json",
+      "git_blob_sha": "5c9fbc77e34ab6bb1725a306d4c9660beea30c1a",
+      "bytes": 3051,
+      "sha256": "adc88345741b080c712abcb80884f9e392f72f17fdc7f4fc7254193fd8cd567e",
+      "use": "PG879 publication baseline and cumulative counts"
+    },
+    {
+      "commit": "a3e8e4798b6b9bc1aa9dcdcecd348d0e0e52571d",
+      "path": "research/panini_grammar/determination_neuter_vocative_singular_ad_marker/STATE.json",
+      "git_blob_sha": "3785a4895c7a1c88ac360bff876e0fe35c7b5d72",
+      "bytes": 1652,
+      "sha256": "13d909e256d2a41b945bc4be1a5b3155d6e874fd381faf786af7637dfaac5078",
+      "use": "PG818 N vocative-singular controls and explicit open M/F/dual/plural obligation"
+    },
+    {
+      "commit": "3073465cadfbb3540f9deff45338aa2d760f018f",
+      "path": "research/panini_grammar/determination_nominative_dual_plural_number_transport/NOMINAL_FORMS.tsv",
+      "git_blob_sha": "3b7b9f08b94d452c48eb98e093be2982cd34602f",
+      "bytes": 5138,
+      "sha256": "99041f17cecc789dd358e8161ae9ee01ef355d2a2695676a6288ac35ce8f76af",
+      "use": "PG816 literal dual/plural first-case words and ending histories"
+    },
+    {
+      "commit": "10c6c94401d4ff3178bc4738469ce8d63087cc02",
+      "path": "research/panini_grammar/atistri_compound_priority/SOURCES.json",
+      "git_blob_sha": "1b6ea380c71a8d2160a24b610b63a04ef17f7f88",
+      "bytes": 34039,
+      "sha256": "2d060139dc04cdb7605a75bd9abc896976130e880910b1d888b98c4eaa127708",
+      "use": "Frozen Kāśikā 2.3.47 address field with singular, dual and plural examples"
+    },
+    {
+      "commit": "10c6c94401d4ff3178bc4738469ce8d63087cc02",
+      "path": "research/panini_grammar/anga_affix_abhyasa/RULES_7_3_C.md",
+      "git_blob_sha": "5b6e4bb6b4b17dca7731d4d9322a39f0d7f2c0b6",
+      "bytes": 9723,
+      "sha256": "d21e8b314e1af070d445d94e41790c62dc6cb84a79d317c9fbe75111eb8f6c97",
+      "use": "Reviewed 7.3.106 feminine ā-to-e vocative rule and 7.3.107–108 boundaries"
+    },
+    {
+      "commit": "10c6c94401d4ff3178bc4738469ce8d63087cc02",
+      "path": "research/panini_grammar/determination_six_stems_singular_gender_cases/RELATION.json",
+      "git_blob_sha": "864348d77466b71c9442c0b3a145f922a089f748",
+      "bytes": 49153,
+      "sha256": "2b18f22b0cd99f09dd65f229a91226997c97fc683ebfa6fe2bfd5e627c2307b9",
+      "use": "Exact six stem, question, affix and singular-gender ownership"
+    },
+    {
+      "commit": "10c6c94401d4ff3178bc4738469ce8d63087cc02",
+      "path": "research/panini_grammar/grammar_construction/NATIVE_OPERATOR_LIFT.md",
+      "git_blob_sha": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+      "bytes": 11855,
+      "sha256": "f52e7f5cf539ef56859b890669ef738848491e4005e73be75baa49c899b5dafd",
+      "use": "PG14 full operator/history carrier and typed zero specialization"
+    }
+  ],
+  "source_fields_reused_without_new_observation_credit": [
+    {
+      "rules": "2.3.47, 2.3.49, 6.1.69, 7.3.106",
+      "reason": "The fields are already frozen in reviewed repository sources; PG880 constructs the previously open vocative interfaces."
+    },
+    {
+      "rules": "6.1.88, 7.1.17-20, 7.1.72, 6.4.8, 8.4.1-2",
+      "reason": "PG816 already owns the dual/plural first-case ending histories; PG880 adds address case-role keys without re-crediting those observations."
+    }
+  ],
+  "source_observations_new": 0,
+  "source_policy_decisions_new": 2
+}

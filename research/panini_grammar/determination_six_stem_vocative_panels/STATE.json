@@ -1,0 +1,46 @@
+{
+  "stage": "PG880",
+  "date": "2026-11-25",
+  "publication_parent": "49c172ea6917b2b713822e380f3c0ae6e65b4d09",
+  "baseline": "../vasu_munipadi_and_the_correct_foot_rule_reference/STATE.json",
+  "finite_positions": 52531,
+  "nominal_positions": 25912,
+  "nominal_readings": 29556,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 48,
+  "new_nominal_readings": 48,
+  "new_morphology_constructions": 2,
+  "new_morphology_interfaces": 48,
+  "new_syntax_constructions": 1,
+  "new_syntax_interfaces": 48,
+  "new_source_observations": 0,
+  "new_source_policy_decisions": 2,
+  "controls_reused": {
+    "stage": "PG818",
+    "nominal_positions": 6,
+    "nominal_readings": 12,
+    "credit_here": 0
+  },
+  "local_closure": "PG818 plus PG880 close 54 selected vocative keys for the six principal determination stems across M/F/N and sg/du/pl.",
+  "accepted": [
+    "12 new M/F singular vocative keys",
+    "36 new M/F/N dual/plural vocative keys",
+    "six PG818 N singular controls without repeated credit",
+    "K_STRICT and SK_BALA_REPORTED_BROAD remain separate source-labelled policies"
+  ],
+  "excluded_only_from_inherited_contract": [
+    "flat selection of several comparison-set members without positive evidence"
+  ],
+  "open_obligations": [
+    "Accent, compounds, names and subordinate uses need independent evidence.",
+    "Other derived-pronoun members need their own construction.",
+    "Independent Bhasya/Kaiyata and external source collation remain Open.",
+    "C2-C5 and S1-S7 remain Open; no textual gap is an exclusion."
+  ],
+  "protected_registers": {
+    "PG335": "-9 finite positions and -12 readings already applied",
+    "PG340/346, PG349-352, PG355-360, PG357-363": "CLOSED on registered scopes"
+  },
+  "runtime_policy": "Written derivation only. Claude owns execution, generators, untouched suites and certificate replay."
+}

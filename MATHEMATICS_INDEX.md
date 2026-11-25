@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG880 · [Six determination stems in the vocative](research/panini_grammar/determination_six_stem_vocative_panels/README.md). The address, singular-selector and ending adapters commute with typed zero specialization while retaining distinct M-plural, F-dual and N-dual `-e` histories and PG818's separate neuter-singular marker channel.
+
 PG879 · [Vasu’s *munipadī* list slip and the correct foot-rule reference](research/panini_grammar/vasu_munipadi_and_the_correct_foot_rule_reference/README.md). Typed zero-specialization preserves the diplomatic source grades while the guarded analytical channels select long ī and the actual 6.4.130 operation owner.
 
 PG878 · [The *bhaikṣuka* life stage and its masculine cases](research/panini_grammar/the_bhaiksuka_life_stage_and_its_masculine_cases/README.md). The life-stage and collective grades share letters but not types; typed zero-specialization recovers all 21 admitted case-position histories without selecting an unresolved affix.

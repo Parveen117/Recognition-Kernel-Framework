@@ -1,5 +1,7 @@
 # Written Pāṇini work session · 2026-11-25
 
+PG880 · [Six determination stems in the vocative](determination_six_stem_vocative_panels/README.md). Parent 49c172ea6917b2b713822e380f3c0ae6e65b4d09. 48 new nominal positions/readings: 12 M/F singular and 36 M/F/N dual/plural. Two morphology constructions/48 new interfaces, one address-case construction/48 new interfaces, two source-scope decisions and zero repeated source observations. Six N singular positions/twelve readings remain zero-credit PG818 controls. Census: 52,531 finite, 25,912 nominal positions and 29,556 nominal readings.
+
 PG879 · [Vasu’s *munipadī* list slip and the correct foot-rule reference](vasu_munipadi_and_the_correct_foot_rule_reference/README.md). Parent 788cf38b985401c000d1a0d4e2211e602c912eb8. Two new source-policy decisions and one source-reference correction; zero finite or nominal additions. The raw strings remain auditable while the selected grammar uses long *ī* and 6.4.130.
 
 PG878 · [The *bhaikṣuka* life stage and its masculine cases](the_bhaiksuka_life_stage_and_its_masculine_cases/README.md). Parent fa13e9aea16821d1d28443d7aadc2d89bff4a245. One morphology construction/21 interfaces, two syntax constructions/five interfaces and six source decisions. Zero finite and 21 new nominal positions/21 readings. The masculine āśrama sense is source-positive; its historical affix remains Open.

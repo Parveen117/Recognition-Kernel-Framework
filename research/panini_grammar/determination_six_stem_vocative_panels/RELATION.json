@@ -1,0 +1,56 @@
+{
+  "schema": "rkf.panini.pg880.relation.v1",
+  "input": {
+    "roots": null,
+    "preverbs": [],
+    "voice": null,
+    "case": "vocative",
+    "stems": {
+      "katara": ["kim", "ḍatarac"],
+      "katama": ["kim", "ḍatamac"],
+      "yatara": ["yad", "ḍatarac"],
+      "yatama": ["yad", "ḍatamac"],
+      "tatara": ["tad", "ḍatarac"],
+      "tatama": ["tad", "ḍatamac"]
+    },
+    "genders": ["M", "F", "N"],
+    "numbers": ["sg", "du", "pl"]
+  },
+  "address_case": {
+    "owner": "Kāśikā 2.3.47",
+    "operation": "address request receives first-case ending",
+    "number_examples": ["he devadatta", "he devadattau", "he devadattāḥ"],
+    "singular_sambuddhi_owner": "2.3.49"
+  },
+  "singular_channels": {
+    "M": "short-a stem plus su; ending consonant lopa under 6.1.69",
+    "F": "ṭāp long ā to e under 7.3.106; ending consonant lopa under 6.1.69",
+    "N": "PG818 whole su to adḍ under 7.1.25; zero new credit"
+  },
+  "dual_plural_channel": "Retain each PG816 gender/number first-case ending history under a distinct vocative key.",
+  "construction": {
+    "morphology_constructions": 2,
+    "morphology_interfaces_new": 48,
+    "address_case_constructions": 1,
+    "address_case_interfaces_new": 48,
+    "positions_new": 48,
+    "readings_new": 48,
+    "pg818_control_positions": 6,
+    "pg818_control_readings": 12
+  },
+  "source_scope_decisions": [
+    "Apply gender-neutral 2.3.47 to the six already admitted stems in all three genders and numbers.",
+    "Restrict sambuddhi operations to singular and preserve separate M, F and PG818 N channels."
+  ],
+  "status": {
+    "accepted": "All 54 selected vocative keys; 48 credited here and six N singular controls credited at PG818.",
+    "excluded_from_inherited_grouped_member_contract_only": "Flat selection of several comparison-set members without positive evidence.",
+    "open": [
+      "accent",
+      "compounds, names and subordinate uses",
+      "other derived-pronoun members",
+      "independent commentary and external source collation",
+      "C2-C5 and S1-S7"
+    ]
+  }
+}

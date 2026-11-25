@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG879
+# Pāṇini grammar · current written coverage at PG880
+
+PG880 · [Six determination stems in the vocative](determination_six_stem_vocative_panels/README.md). 48 new nominal positions/readings close the selected M/F/N vocative panels across singular, dual and plural when read with PG818's six neuter-singular controls. Census 52,531 finite, 25,912 nominal and 29,556 nominal readings.
 
 PG879 · [Vasu’s *munipadī* list slip and the correct foot-rule reference](vasu_munipadi_and_the_correct_foot_rule_reference/README.md). Two positive source decisions close the short-*i* list slip and the 4.4.130→6.4.130 miscitation without adding word positions. Census remains 52,531 finite, 25,864 nominal and 29,508 nominal readings.
 
