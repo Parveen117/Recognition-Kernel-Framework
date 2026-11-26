@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG1001 · [Trivedī identifies four apparatus witnesses](trivedis_witnesses_for_the_short_question_and_active_request/README.md). The first-volume Critical Notice identifies D, E₃, T₃ and T₄. Vol. II p. 86 gives the complete short conditional and distinguishes editorial preference from the main reading. Zero new word positions/readings. Census 56,425 finite positions, 27,540 nominal positions and 31,311 nominal readings.
+
 PG1000 · [Two more printed foot-compound lists](foot_compound_lists_in_sakatayana_and_the_gujarati_lexicon/README.md). The prints distinguish retroflex kuṇi and dental kuni and attest the shorter supadī. They positively corroborate long ī in munipadī. Zero new word positions/readings. Census 56,425 finite positions, 27,540 nominal positions and 31,311 nominal readings.
 
 PG999 · [Three pra + artha grids and the request for cloth](pra_artha_three_grids_and_the_recited_request/README.md). Kaumudī’s retained outer ṇic supplies a source-qualified active route. Three grids add 27 finite positions/27 readings, and one active participle adds one nominal position/reading. Census 56,425 finite positions, 27,540 nominal positions and 31,311 nominal readings.
