@@ -1,0 +1,48 @@
+{
+  "stage": "PG907",
+  "date": "2026-11-26",
+  "publication_parent": "2747328c1a8b041fd857c0471b5ba7f29015f836",
+  "baseline": "../dental_nasals_of_tva_and_visva/STATE.json",
+  "finite_positions": 52531,
+  "nominal_positions": 26348,
+  "nominal_readings": 30009,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 2,
+  "new_nominal_readings": 2,
+  "new_morphology_constructions": 1,
+  "new_morphology_interfaces": 2,
+  "new_syntax_constructions": 0,
+  "new_syntax_interfaces": 0,
+  "new_source_observations": 4,
+  "new_source_policy_decisions": 3,
+  "observations": {
+    "RV 5.61.6": "403490",
+    "RV 10.54.1": "195209",
+    "RV 7.101.3": "400499",
+    "RV 10.72.9": "202640"
+  },
+  "pins_relative_to_grammar_at_publication_parent": {
+    "dental_nasals_of_tva_and_visva/STATE.json": "31088ec1cfe911cb395491fa382c2dfaaad7ae44",
+    "tva_masculine_complete_cases/WITNESS_EXCERPTS.txt": "cd1c8886974a119f2d8a44f966d32f01317922d4",
+    "tvat_masculine_neuter_nonvocative_cases/NOMINAL_FORMS.tsv": "b8312bb52580bc831972df48afdf2d96cdd1eeac",
+    "asmad_yusmad_full_cases_and_post_pada_clitics/NOMINAL_FORMS.tsv": "979a7367abd728db583f057cf0ab0d7056fa189f",
+    "grammar_construction/NATIVE_OPERATOR_LIFT.md": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+    "eka_singular_pronominal_endings_and_feminine_syad/DERIVATION_AND_NATIVE_RECOVERY.md": "2a3e37588e08dd474e155e57548558c9a58b670b",
+    "SUTRAPATHA.tsv": "1840f3b5349b21112ac05a7efaa59705fd4efee0"
+  },
+  "grassmann": {
+    "commit": "cf53a4240ac83c8f7dfd275533ebd0a0639e6b57",
+    "path": "v02/gra/gra.txt",
+    "blob": "248415a386a473c3c3305e48a736c0d76ebb5e7c",
+    "entry": 3982
+  },
+  "protected_registers": "PG335 and historical PG closure scopes inherited from PG905",
+  "open_obligations": [
+    "Other tva feminine keys",
+    "Vowel-final neuter ending derivation and rival t-final analysis",
+    "Accent allocation and manuscript priority",
+    "Other C2–C5 and S1–S7 obligations in WRITTEN_BACKLOG"
+  ],
+  "runtime_policy": "Claude-deferred"
+}

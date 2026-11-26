@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG907 · [Two feminine cases of *tva* and the neuter source split](tva_two_feminine_cases_and_neuter_source_split/README.md). Two verse-owned feminine forms distinguish indefinite *tva* from second-person *tvā*. A neuter word in two further verses receives separate lexicographic and commentarial analyses.
+
 PG906 · [The dental nasals of *tva* and *viśva*](dental_nasals_of_tva_and_visva/README.md). Case-pattern transport carries the ending recipe. PG906 tests the nasal against the recipient stem, distinguishes ina from num and identifies the exact case supported by each Ṛgvedic witness.
 
 PG905 · [Complete masculine cases of vowel-final *tva* ‘other’](tva_masculine_complete_cases/README.md). Source/sense and vowel-final selection, ordinary-surface projection, case/address transport and realization form a 24-interface construction whose typed zero-specialization preserves the two accent grades, t-final rival, yuṣmad homograph and suffix owner without admitting them into this panel.

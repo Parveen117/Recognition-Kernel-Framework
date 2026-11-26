@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG907 · [Two feminine cases of *tva* and the neuter source split](research/panini_grammar/tva_two_feminine_cases_and_neuter_source_split/README.md). A case-labelled āp/syāṭ adapter and distinct neuter policy summands descend under PG14 augmentation. Equal displayed words retain their source and grammatical owners.
+
 PG906 · [The dental nasals of *tva* and *viśva*](research/panini_grammar/dental_nasals_of_tva_and_visva/README.md). The typed 8.4.1–2 cut acts after the recipient word is formed. Its two complementary histories and the case-specific witness maps descend under the PG14 augmentation.
 
 PG905 · [Complete masculine cases of vowel-final *tva* ‘other’](research/panini_grammar/tva_masculine_complete_cases/README.md). Vowel-final source admission, ordinary-surface projection, case/address transport and realization commute with typed zero-specialization while udātta/anudātta source grades, t-final `tvat`, yuṣmad `tvam`, suffix ownership and absent F/N/textual grades remain distinct.
