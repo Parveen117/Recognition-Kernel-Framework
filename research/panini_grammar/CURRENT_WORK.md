@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG992
+# Pāṇini grammar · current written coverage at PG993
+
+PG993 · [The patient of concealing and the degrees of secrecy](guh_passive_and_degrees_of_secrecy/README.md). Three four-category patient grids add 108 finite positions/108 readings. Seven nominal occurrences in the epic and Gītā give six unique positions/six readings. Census 56,173 finite positions, 27,539 nominal positions and 31,310 nominal readings.
 
 PG992 · [Having concealed and having embraced](guh_absolutives_and_the_lotus_stalk/README.md). The simple and causal absolutives differ in vowel length. Three directly witnessed accusatives anchor three case registers. Nine finite positions/nine readings and 72 nominal positions/74 readings added. Census 56,065 finite positions, 27,533 nominal positions and 31,304 nominal readings.
 

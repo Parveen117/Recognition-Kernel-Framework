@@ -1,0 +1,3 @@
+# Written Pāṇini work session · 2026-11-27
+
+PG993 · [The patient of concealing and the degrees of secrecy](guh_passive_and_degrees_of_secrecy/README.md). Three four-category patient grids add 108 finite positions/108 readings. Seven nominal occurrences in the epic and Gītā give six unique positions/six readings. Census 56,173 finite positions, 27,539 nominal positions and 31,310 nominal readings. PG992 publication `171cdd7b2a41aee483e9cb9f11734bf1c433a04a`. One directly printed passive and 107 reconstructed cells. Seven morphology and three syntax constructions, five source observations and four decisions. November 26 work ends at PG992.
