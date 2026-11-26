@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG942 · [Impersonal √hu with one or several offerers](hu_incorporated_offering_bhava/README.md). The same agent-number diagnostic holds for the present, imperative, imperfect and optative. PG938 owns the patient-controlled homographs.
+
 PG941 · [When the offering controls agreement with √hu](hu_offering_valency/README.md). The ordinary and Vedic actor case paths and PG938 passive agreement now carry the commentary policy that licenses the independent offering.
 
 PG940 · [The selected passive ten-category grid of √hiṃs](hims_selected_passive_ten_category_grid/README.md). Ten karmaṇi constructions preserve record-2137 sense ownership, patient control, passive A endings and distinct lexical-num, present-śnam and passive-yaK histories.

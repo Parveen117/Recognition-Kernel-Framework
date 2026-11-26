@@ -1,4 +1,6 @@
-# Written-development backlog at PG941
+# Written-development backlog at PG942
+
+PG942 · [Impersonal √hu with one or several offerers](hu_incorporated_offering_bhava/README.md). **Closed** for simple √hu on the incorporated-offering analysis: laṭ, loṭ, laṅ and vidhiliṅ bhāve, 3sg A. **Unconstructed** on this policy: the other six categories. The adjacent eating record, ordered preverbs and derived roots remain Open. **Unresolved sources** include direct attestations of these impersonal uses and the critical distribution of the policies. K139/Vasu139, K128, patradatam and C2–C5/S1–S7 retain their entries below. **Claude-deferred** work includes grammar execution, generators, old suites and replay.
 
 PG941 · [When the offering controls agreement with √hu](hu_offering_valency/README.md).
 

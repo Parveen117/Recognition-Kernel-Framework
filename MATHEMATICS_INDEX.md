@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG942 · [Impersonal √hu with one or several offerers](research/panini_grammar/hu_incorporated_offering_bhava/README.md). PG14 preserves agent histories through a common 3sg action slot and four separately typed category outputs.
+
 PG941 · [When the offering controls agreement with √hu](research/panini_grammar/hu_offering_valency/README.md). The PG14 projection preserves both Vedic case histories. The offering-to-controller operator vanishes on the incorporated-offering input type.
 
 PG940 · [The selected passive ten-category grid of √hiṃs](research/panini_grammar/hims_selected_passive_ten_category_grid/README.md). PG14 retains source-record, sense, voice, controller, lexical-num, present-śnam and passive-yaK histories; typed zero-specialization recovers 90 patient-controlled requests without collapsing the three nasal owners.

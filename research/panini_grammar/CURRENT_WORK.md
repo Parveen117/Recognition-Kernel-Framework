@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG941
+# Pāṇini grammar · current written coverage at PG942
+
+PG942 · [Impersonal √hu with one or several offerers](hu_incorporated_offering_bhava/README.md). The incorporated-offering policy supplies four impersonal 3sg A positions/four readings. Census 54,361 finite positions, 26,426 nominal positions and 30,094 nominal readings.
 
 PG941 · [When the offering controls agreement with √hu](hu_offering_valency/README.md). Mādhavīya 732 admits an independent offering on its casting analysis. The rival intransitive analysis blocks the offering as controller. One syntax construction, four interfaces, two source decisions. Census 54,357 finite positions, 26,426 nominal positions and 30,094 nominal readings.
 
