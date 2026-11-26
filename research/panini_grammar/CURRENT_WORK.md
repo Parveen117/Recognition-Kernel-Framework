@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG964
+# Pāṇini grammar · current written coverage at PG965
+
+PG965 · [One accented word, two case analyses](pashvah_in_two_shakala_hymns/README.md). Two Śākala case positions and two readings share one accented pada spelling. Census 55,298 finite positions, 26,717 nominal positions and 30,393 nominal readings.
 
 PG964 · [The flour animal as an independent noun and an inner member](effigy_paradigms_and_two_vishvagunadarsha_compounds/README.md). Three ordinary paradigms and two contextual compounds add 71 nominal positions/75 readings. Census 55,298 finite positions, 26,715 nominal positions and 30,391 nominal readings.
 

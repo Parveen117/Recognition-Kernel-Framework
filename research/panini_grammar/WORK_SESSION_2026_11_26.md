@@ -1,5 +1,7 @@
 # Written Pāṇini work session · 2026-11-26
 
+PG965 · [One accented word, two case analyses](pashvah_in_two_shakala_hymns/README.md). Parent 599974e727799f0907bef892df041d5c5919c69b. Finite +0/+0, nominal +2/+2. One morphology construction/two interfaces, two syntax constructions/four interfaces, four source observations and two policy decisions. Two occurrences and one accented spelling serve two source-qualified grammatical positions. Census 55,298 finite positions, 26,717 nominal positions and 30,393 nominal readings.
+
 PG964 · [The flour animal as an independent noun and an inner member](effigy_paradigms_and_two_vishvagunadarsha_compounds/README.md). Parent 84b28fd1736f800878febcaaf523a95423eabe09. Finite +0/+0 and nominal +71/+75. Three morphology constructions/72 interfaces, one syntax construction/three interfaces, two source observations and two decisions. PG963 retains its three prior accusatives. Census 55,298 finite positions, 26,715 nominal positions and 30,391 nominal readings.
 
 PG963 · [From grinding grain to making a flour animal](flour_animal_and_case_of_the_patient/README.md). Parent 82bb82313f96daa60243223aed379141737cd17e. Finite +0/+0, nominal +3/+3. One morphology construction/three interfaces, two syntax constructions/six interfaces, three source observations and two decisions. The already credited actor forms and the genitive and accusative controls receive zero word credit. Census 55,298 finite positions, 26,644 nominal positions and 30,316 nominal readings.

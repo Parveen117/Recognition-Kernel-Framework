@@ -1,0 +1,19 @@
+# PG965 · One accented word, two case analyses
+
+Śākala RV 4.2.18 and 8.41.1 both have pada *paśváḥ* (प॒श्वः). The saṃhitā gives *paśvó* before *akhyat* in the first and before *gā́* in the second. Keep the following vowel of *akhyat* as the first text actually gives it. The second has a voiced consonant at the junction. The retained accent falls on the second syllable in both. The independent lexical noun *paśu* is distinct from PG964's compound for an animal made of flour. Its Vedic inflection supplies an internal glide before the vowel of the ending even at a word boundary where the next word begins with g.
+
+|Locus and source layer|Analysis and its grammatical evidence|
+|---|---|
+|4.2.18, Vedaweb and Hellwig annotations|Genitive singular masculine. The dependent noun can name the stock to which the herds belong.|
+|4.2.18, Sāyaṇa, first explanation|He paraphrases the animal word by a genitive plural and relates the herds to cattle. A plural in the paraphrase establishes his construction of the sense. It does not itself specify the morphological number of the mantra word.|
+|4.2.18, Sāyaṇa, alternative introduced with *yadvā*|The cattle carried off by the Paṇis are what the seer sees. The accusative plural *paśūn* and its agreeing modifier mark the cattle as object of *akhyat*.|
+|8.41.1, Vedaweb and Hellwig annotations|Both classify *paśváḥ* as genitive singular. These are two labels on the same transmitted occurrence.|
+|8.41.1, Sāyaṇa|The gloss *paśūn* makes the animals the plural object of *rakṣati*. The cows in the comparison have a separate word in the verse.|
+
+Two positions enter the written Śākala register on these named policies, masculine genitive singular and masculine accusative plural. They share one accented pada spelling and one saṃhitā spelling across the two cited junctions. The two hymns, the number of annotations and the number of editorial accent encodings do not multiply that credit. At zero retain separately the glossing noun *paśūnām*, the source's genitive singular label and the accusative-paraphrase path. A parser receiving only *paśvó* has insufficient information to select one of them. The ordinary Classical distribution of the two flour-animal compounds remains independently licensed under PG964. The exact historical ordering of the Vedic allomorphs, other Vedic cases and other recensions are open. [RV 4.2.18](https://vishvasa.github.io/vedAH_Rk/shAkalam/saMhitA/sarva-prastutiH/04/002/) · [RV 8.41.1](https://vishvasa.github.io/vedAH_Rk/shAkalam/saMhitA/sarva-prastutiH/08/041/)
+
+## Construction and specialization
+
+Choose the lexical noun, Śākala recitation, source layer and supplied nominal relation on the paired [PG14 history modules](../grammar_construction/NATIVE_OPERATOR_LIFT.md). The selected Vedic realization of the oblique paśv- stem and its ending gives *paśváḥ* on both paths. Surface observation then reads the corresponding joined word in its actual following environment. The label of the case controller, sense relation, accent, verse address, pada, surface and commentary survive at separate grades. In particular the alternate accusative is an independently supported path even at a locus tagged genitive. Case cannot be recovered uniquely by inverting the unlabelled output.
+
+On the admitted domain define each labelled edge e by h b ↦ j(1+z_e)b in the output history module. The empty-word projection then gives j ε(b), equal to the classical typed edge after its input projection. Forcing an ACC-plural tag onto the named genitive annotation has zero image on both sides. The independently labelled commentarial alternative retains its own edge. The algebra augmentation preserves ordered products and the dagger, establishing recovery for the composite and its adjoint pairing. [Register, source pins and inherited result](STATE.json)

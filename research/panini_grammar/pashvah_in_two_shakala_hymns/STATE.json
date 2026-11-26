@@ -1,0 +1,84 @@
+{
+  "stage": "PG965",
+  "date": "2026-11-26",
+  "publication_parent": "599974e727799f0907bef892df041d5c5919c69b",
+  "baseline": "../effigy_paradigms_and_two_vishvagunadarsha_compounds/STATE.json",
+  "finite_positions": 55298,
+  "nominal_positions": 26717,
+  "nominal_readings": 30393,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 2,
+  "new_nominal_readings": 2,
+  "nominal_register": [
+    {
+      "stem": "paśu",
+      "gender": "M",
+      "case": "GEN",
+      "number": "sg",
+      "recension": "Śākala",
+      "pada": "paśváḥ",
+      "surface": "paśvó",
+      "policy": "Vedaweb and Hellwig"
+    },
+    {
+      "stem": "paśu",
+      "gender": "M",
+      "case": "ACC",
+      "number": "pl",
+      "recension": "Śākala",
+      "pada": "paśváḥ",
+      "surface": "paśvó",
+      "policy": "Sāyaṇa, object construal"
+    }
+  ],
+  "new_morphology_constructions": 1,
+  "new_morphology_interfaces": 2,
+  "new_syntax_constructions": 2,
+  "new_syntax_interfaces": 4,
+  "new_source_observations": 4,
+  "observations": [
+    "Pada and joined forms in two hymns.",
+    "Two commentarial construals at 4.2.18.",
+    "Singular-genitive tags at both loci.",
+    "Object of guarding at 8.41.1."
+  ],
+  "new_source_policy_decisions": 2,
+  "decisions": [
+    "Retain the annotation and traditional object analysis independently.",
+    "Treat the genitive plural paraphrase as sense evidence without assigning a third inflected word."
+  ],
+  "sources": {
+    "https://vishvasa.github.io/vedAH_Rk/shAkalam/saMhitA/sarva-prastutiH/04/002/": {
+      "sha256": "91f774d63240e3e3fc0bdc23679d626512ccaaf63e9e9bce48d1fd2fc0f7fe18",
+      "locus": "4.2.18",
+      "sections": [
+        "saṃhitā",
+        "padapāṭha",
+        "Vedaweb",
+        "Hellwig",
+        "Sāyaṇa"
+      ]
+    },
+    "https://vishvasa.github.io/vedAH_Rk/shAkalam/saMhitA/sarva-prastutiH/08/041/": {
+      "sha256": "9df682f381ad8fb28dad3d8de6037a7c3701574bc9064a0ef2bc00d154a678c4",
+      "locus": "8.41.1",
+      "sections": [
+        "saṃhitā",
+        "padapāṭha",
+        "Vedaweb",
+        "Hellwig",
+        "Sāyaṇa"
+      ]
+    }
+  },
+  "pins": {
+    "effigy_paradigms_and_two_vishvagunadarsha_compounds/STATE.json": "2366649e13c2428be43aa9a46bdf95f289464f6c",
+    "grammar_construction/NATIVE_OPERATOR_LIFT.md": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b"
+  },
+  "open": [
+    "Wider Vedic distribution, historical ordering and parallel recensions",
+    "Remaining C2–C5 and S1–S7"
+  ],
+  "execution": "Claude-deferred"
+}

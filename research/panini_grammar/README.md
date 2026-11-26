@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG965 · [One accented word, two case analyses](pashvah_in_two_shakala_hymns/README.md). RV 4.2.18 and 8.41.1 distinguish the singular genitive annotations and the plural object read by Sāyaṇa. Census 55,298 finite positions, 26,717 nominal positions and 30,393 nominal readings.
+
 PG964 · [The flour animal as an independent noun and an inner member](effigy_paradigms_and_two_vishvagunadarsha_compounds/README.md). Verse 182 embeds the flour animal before ādara. Bālakṛṣṇa supplies its independent genitive and a second compound. Census 55,298 finite positions, 26,715 nominal positions and 30,391 nominal readings.
 
 PG963 · [From grinding grain to making a flour animal](flour_animal_and_case_of_the_patient/README.md). The root gloss distinguishes injury and grinding, and the verse and its commentary separately identify the material of the effigy. Census 55,298 finite positions, 26,644 nominal positions and 30,316 nominal readings.

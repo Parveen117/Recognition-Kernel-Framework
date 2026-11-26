@@ -1,4 +1,6 @@
-# Written-development backlog at PG964
+# Written-development backlog at PG965
+
+PG965 · [One accented word, two case analyses](pashvah_in_two_shakala_hymns/README.md). **Closed** for the two cited pada/saṃhitā comparisons and their source-qualified case analyses. **Unconstructed** are the other Vedic cases, recensions and broader C2–C5. **Unresolved** are historical allomorph distribution and the inherited K128/K139/Vasu139, patradatam and S1–S7 readings. **Claude-deferred** execution remains separate. Census 55,298 finite positions, 26,717 nominal positions and 30,393 nominal readings.
 
 PG964 · [The flour animal as an independent noun and an inner member](effigy_paradigms_and_two_vishvagunadarsha_compounds/README.md). **Closed** for the three PG963 Classical case paradigms, the cited genitive and two new outer heads. **Unconstructed** remain broader C2–C5, derived, prefixed, accent and sentence domains. **Unresolved** are further attestations, critical K128/K139/Vasu139, patradatam and S1–S7. **Claude-deferred** execution remains separate. Census 55,298 finite positions, 26,715 nominal positions and 30,391 nominal readings.
 
