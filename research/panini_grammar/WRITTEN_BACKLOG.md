@@ -1,4 +1,6 @@
-# Written-development backlog at PG945
+# Written-development backlog at PG946
+
+PG946 · [One instrumental plural in two Ṛgvedic hymns](juhu_tongues_and_ladles_in_two_hymns/README.md). **Closed** for the two instrumental-plural roles and the single Uṇādi locator. **Unconstructed** are the other sense-qualified case domains and wider inherited classes. **Unresolved sources** include global numbering, direct attribution of the impersonal finite request, and other critical/recensional readings. The K139/Vasu139, K128, patradatam and C2–C5/S1–S7 entries below retain their scope. **Claude-deferred** execution continues.
 
 PG945 · [The juhū ladle in four ritual case roles](juhu_ladle_in_ritual_clauses/README.md). **Closed** for four singular case readings in this ritual material. **Unconstructed** are the remaining independent ladle case requests and wider nominal domains. **Unresolved sources** include critical accent, recensional distribution, and direct use beyond the selected clauses. The PG944 backlog below retains the K139/Vasu139, K128, patradatam and C2–C5/S1–S7 entries. **Claude-deferred** execution retains its prior scope.
 

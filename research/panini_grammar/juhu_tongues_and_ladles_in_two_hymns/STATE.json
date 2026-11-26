@@ -1,0 +1,61 @@
+{
+  "stage": "PG946",
+  "date": "2026-11-26",
+  "publication_parent": "2cc26d69e3f330d4e9a419ce82ef9157a03f42d1",
+  "baseline": "../juhu_ladle_in_ritual_clauses/STATE.json",
+  "finite_positions": 54547,
+  "nominal_positions": 26432,
+  "nominal_readings": 30100,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 2,
+  "new_nominal_readings": 2,
+  "new_morphology_constructions": 0,
+  "new_morphology_interfaces": 0,
+  "new_syntax_constructions": 1,
+  "new_syntax_interfaces": 2,
+  "new_source_observations": 4,
+  "new_source_policy_decisions": 3,
+  "observations": [
+    "1.58.4 tongues gloss",
+    "1.58.4 Uṇādi text and commentary operations",
+    "10.21.3 vessels gloss and alternative clause interpretation",
+    "1.58.7 officiants control"
+  ],
+  "decisions": [
+    "Keep independent instrumental sense keys.",
+    "Match the exact quoted Uṇādi rule without changing its printed locator.",
+    "The locative etymological gloss does not settle the offering-valency policy."
+  ],
+  "pins": {
+    "juhu_ladle_in_ritual_clauses/STATE.json": "51e336367dcec3d6e32b54ee3c4275d8e2362e92",
+    "hu_offering_valency/STATE.json": "5299bec2b2a3e1c48d592cfba245b78f0f63c70e",
+    "grammar_construction/NATIVE_OPERATOR_LIFT.md": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+    "unadi_concordance/CONCORDANCE.tsv": "8f19f540bfaa8443e4a5cbbf90a39132b6b5649d",
+    "krt_temporal_relations/RULES_B2.md": "20c65f67b3bbf04aa924166f58a110592d1a7feb",
+    "bhuj_sense_and_homonym/README.md": "c754024017f1bcc8abe1fec9b1b16aafacb10a06"
+  },
+  "witnesses": [
+    {
+      "title": "ऋग्वेदः सूक्तं १.५८",
+      "url": "https://sa.wikisource.org/w/index.php?oldid=300112",
+      "revision": 300112,
+      "timestamp": "2021-01-11T05:44:26Z",
+      "utf8_wikitext_sha256": "a6273f8a5265c908f360a37b65a23fad9270a4fde4a9e48e0c2534cddede894f"
+    },
+    {
+      "title": "ऋग्वेदः सूक्तं १०.२१",
+      "url": "https://sa.wikisource.org/w/index.php?oldid=238069",
+      "revision": 238069,
+      "timestamp": "2020-05-15T23:20:34Z",
+      "utf8_wikitext_sha256": "dcde5cbdde8d87579446e9f6d150976c67fca2783b913174ba49422d4c07d1c8"
+    }
+  ],
+  "open": [
+    "other case and accent distributions",
+    "historical numbering of the full quoted Uṇādi edition",
+    "direct attestation specific to the PG942 impersonal policy",
+    "remaining written C2–C5 and source S1–S7"
+  ],
+  "execution": "Claude-deferred"
+}

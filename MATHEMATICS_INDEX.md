@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG946 · [One instrumental plural in two Ṛgvedic hymns](research/panini_grammar/juhu_tongues_and_ladles_in_two_hymns/README.md). The typed projection retains referent, sense and Uṇādi address through a shared instrumental plural.
+
 PG945 · [The juhū ladle in four ritual case roles](research/panini_grammar/juhu_ladle_in_ritual_clauses/README.md). The typed PG14 case edge preserves the named witness, role, ending and internal or external junction at specialization.
 
 PG944 · [Eater and food in the two voice grids of √hu](research/panini_grammar/hu_eating_actor_and_patient/README.md). PG14 preserves the source sense and the eater/food controller cut across coincident words.

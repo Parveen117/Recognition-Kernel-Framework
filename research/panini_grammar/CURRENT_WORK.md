@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG945
+# Pāṇini grammar · current written coverage at PG946
+
+PG946 · [One instrumental plural in two Ṛgvedic hymns](juhu_tongues_and_ladles_in_two_hymns/README.md). Two sense-qualified instrumental plurals, two readings, one shared spelling. Census 54,547 finite positions, 26,432 nominal positions and 30,100 nominal readings.
 
 PG945 · [The juhū ladle in four ritual case roles](juhu_ladle_in_ritual_clauses/README.md). Four new singular nominal positions/four readings. Two pinned ritual texts distinguish the object, instrument, receptacle and addressee. Census 54,547 finite, 26,430 nominal positions and 30,098 nominal readings.
 

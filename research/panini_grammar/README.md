@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG946 · [One instrumental plural in two Ṛgvedic hymns](juhu_tongues_and_ladles_in_two_hymns/README.md). At 1.58.4 Sāyaṇa glosses the tongues of fire; at 10.21.3 his first interpretation names ritual vessels. His Uṇādi citation at 1.58.4 aligns with concordance key 2061.
+
 PG945 · [The juhū ladle in four ritual case roles](juhu_ladle_in_ritual_clauses/README.md). The two accusative contexts share one position. A single joined word distinguishes the internal instrumental ending from external ā + u sandhi.
 
 PG944 · [Eater and food in the two voice grids of √hu](hu_eating_actor_and_patient/README.md). Kṣīrataraṅgiṇī distinguishes eating from casting an offering. The agreement contrast selects eater or food across 180 written requests.
