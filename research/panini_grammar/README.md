@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG930 · [The remaining actor categories of √hiṃs](hims_remaining_actor_categories/README.md). The seven new P constructions retain lexical num versus śnam, seṭ *hiṃsiṣya/hiṃsitā*, *jihiṃs* and sic aorist histories.
+
 PG929 · [The remaining actor categories of √piṣ](pis_remaining_actor_categories/README.md). The seven new unprefixed P constructions retain *pekṣya/peṣṭā*, *pipiṣ* and lṛdit aṅ while separating earlier *ni+piṣ* credit and the malformed Mādhavīya transcript.
 
 PG928 · [The remaining actor categories of √śiṣ](sis_remaining_actor_categories/README.md). The seven new P constructions retain strong/weak śnam, *śekṣya/śeṣṭā*, *śiśiṣ* and lṛdit aṅ while keeping the Mādhavīya short weak grade Open.

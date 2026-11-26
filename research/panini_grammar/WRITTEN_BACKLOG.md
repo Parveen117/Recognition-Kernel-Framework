@@ -1,4 +1,6 @@
-# Written-development backlog at PG929
+# Written-development backlog at PG930
+
+PG930 · [The remaining actor categories of √hiṃs](hims_remaining_actor_categories/README.md). Closed the selected simple unprefixed P-kartari ten-category grid with PG7/22. Other voices, prefixes, derived roots, accent, wider text, other senses and critical alternatives remain Open.
 
 PG929 · [The remaining actor categories of √piṣ](pis_remaining_actor_categories/README.md). Closed the selected simple unprefixed P-kartari ten-category grid with PG7/22. The *ni+piṣ* stages retain separate ownership; other voices, prefixes, derived roots, accent, wider text, other senses and transcript repair remain Open.
 
@@ -105,6 +107,11 @@ PG879 · [Vasu’s *munipadī* list slip and the correct foot-rule reference](va
 PG878 · [The *bhaikṣuka* life stage and its masculine cases](the_bhaiksuka_life_stage_and_its_masculine_cases/README.md). The selected masculine life-stage seven-case panel is closed on direct nominative/genitive evidence. Vocative, accent, historical affix/ellipsis development and wider textual distribution remain Open; none is converted into an exclusion. Claude owns execution.
 
 ## Current four-part register
+
+- **PG930 closed delta.** The simple unprefixed hiṃs 7.19 P-kartari grid now closes across PG7/22/930. Lexical idit num and present-system śnam retain separate owners.
+- **PG930 genuine unconstructed delta.** Hiṃs passive/karmakartṛ, prefixed, derived-root, accent, wider textual and other lexical-sense requests remain Open.
+- **PG930 unresolved-source delta.** Historical and critical priority of the retained boundary alternatives remains Open; no missing witness is converted into an exclusion.
+- **PG930 execution delta.** Sanskrit generation, grammar execution and certificate replay remain Claude-deferred and receive no written-development credit.
 
 - **PG929 closed delta.** The simple unprefixed piṣ 7.15 P-kartari grid now closes across PG7/22/929. The existing *ni+piṣ* finite stages retain first ownership of their prefix-typed keys.
 - **PG929 genuine unconstructed delta.** Piṣ passive/karmakartṛ, other prefix-conditioned fibres, derived-root, accent, wider textual and other lexical-sense requests remain Open.

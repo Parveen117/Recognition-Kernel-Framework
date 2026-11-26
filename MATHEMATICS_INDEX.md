@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG930 · [The remaining actor categories of √hiṃs](research/panini_grammar/hims_remaining_actor_categories/README.md). PG14 retains lexical num, śnam, deletion target, seṭ and category histories; typed zero-specialization recovers 63 new requests without identifying the two nasal owners.
+
 PG929 · [The remaining actor categories of √piṣ](research/panini_grammar/pis_remaining_actor_categories/README.md). PG14 retains empty versus *ni* preverb, grinding/violence sense and transcript-grade histories; typed zero-specialization recovers 63 new requests without promoting malformed source text.
 
 PG928 · [The remaining actor categories of √śiṣ](research/panini_grammar/sis_remaining_actor_categories/README.md). PG14 retains the table/Mādhavīya nasal-source cut with lexical, category and boundary histories; typed zero-specialization recovers 63 new P requests without deleting the unresolved short grade.

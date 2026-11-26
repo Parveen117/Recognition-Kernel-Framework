@@ -1,0 +1,54 @@
+{
+  "stage": "PG930",
+  "date": "2026-11-26",
+  "publication_parent": "a8741bdfa330bb727b71d6792d6f766fda3d4979",
+  "baseline": "../pis_remaining_actor_categories/STATE.json",
+  "finite_positions": 53476,
+  "nominal_positions": 26426,
+  "nominal_readings": 30094,
+  "new_finite_positions": 63,
+  "new_finite_readings": 69,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 0,
+  "new_morphology_constructions": 7,
+  "new_morphology_interfaces": 7,
+  "new_syntax_constructions": 0,
+  "new_syntax_interfaces": 0,
+  "new_source_observations": 3,
+  "new_source_policy_decisions": 5,
+  "reading_counts": {
+    "laṅ/P": 12, "lṛṭ/P": 9, "luṭ/P": 9, "liṭ/P": 9,
+    "luṅ/P": 10, "āśīrliṅ/P": 10, "lṛṅ/P": 10
+  },
+  "decisions": [
+    "the source-licensed actor range is P only",
+    "lexical idit num and present-system snam retain distinct ownership",
+    "slash alternatives are readings at one typed key",
+    "the outer seṭ schedules do not copy the present infix",
+    "the selected P aorist is sic and no aṅ grid is inferred"
+  ],
+  "coverage": {
+    "laṭ": "PG7",
+    "loṭ and vidhiliṅ": "PG22",
+    "remaining seven simple unprefixed categories": "PG930",
+    "selected_unprefixed_P_kartari_positions_across_stages": 90
+  },
+  "pins": {
+    "grammar_construction/NATIVE_OPERATOR_LIFT.md": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+    "SUTRAPATHA.tsv": "1840f3b5349b21112ac05a7efaa59705fd4efee0",
+    "pis_remaining_actor_categories/STATE.json": "7c452ceda6658946a870bf66a223bd84ee1f4796",
+    "snam_lat/LEXICAL_ENTRIES.json": "ca9f1d2d6b6f1772f664e74bcd42b75fc0f866a1",
+    "athematic_modals/PARADIGMS.md": "623356e24a76ce515ae0ec2015f6f98381b6f5de"
+  },
+  "external_files": {
+    "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA1057.html": "7b4c720a9da1e71a39e34b70c5f11ab543840101487ffb143d3d5301675c9dd3",
+    "https://whm.cdsharma.in/dhatu-rupavali?id=1662": "a36a6f5e68fee4509d42ebb856c10cc1b5a4782cf8a4cad003a6989e3e9ae383"
+  },
+  "open": [
+    "hims passive, karmakartṛ, prefixed, derived, accent, wider textual and other lexical-sense domains",
+    "historical and critical priority of the recorded boundary alternatives",
+    "remaining written C2–C5 and source S1–S7 registers"
+  ],
+  "execution": "Claude-deferred"
+}
+
