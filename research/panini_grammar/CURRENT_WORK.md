@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG970
+# Pāṇini grammar · current written coverage at PG971
+
+PG971 · [Four negated actions and four properties in the Gītā](four_negated_properties_in_the_gita/README.md). Four masculine case panels add 96 nominal positions/100 readings. Vācaspatyam’s print identifies the causative history of aśoṣya. Census 55,410 finite positions, 26,840 nominal positions and 30,521 nominal readings.
 
 PG970 · [Being dried and being made to fall](drying_and_falling_in_the_vamana_purana/README.md). Gita Press p. 64 resolves its reading of the stone locative and supplies both causal passives. Two laṭ grids add 18 finite positions/18 readings. Two instrumental agents add two nominal positions/two readings. Census 55,410 finite positions, 26,744 nominal positions and 30,421 nominal readings.
 

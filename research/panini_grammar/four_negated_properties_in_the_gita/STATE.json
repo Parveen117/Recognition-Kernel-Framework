@@ -1,0 +1,196 @@
+{
+  "stage": "PG971",
+  "date": "2026-11-26",
+  "publication_parent": "a7644f1edfa6070849db301bc141ab49141327d3",
+  "baseline": "../drying_and_falling_in_the_vamana_purana/STATE.json",
+  "finite_positions": 55410,
+  "nominal_positions": 26840,
+  "nominal_readings": 30521,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 96,
+  "new_nominal_readings": 100,
+  "nominal_register": {
+    "stems": [
+      "acchedya",
+      "adāhya",
+      "akledya",
+      "aśoṣya"
+    ],
+    "gender": "M",
+    "case_bases": [
+      "acchedy",
+      "adāhy",
+      "akledy",
+      "aśoṣy"
+    ],
+    "suffixes": {
+      "Nominative": {
+        "sg": [
+          "aḥ"
+        ],
+        "du": [
+          "au"
+        ],
+        "pl": [
+          "āḥ"
+        ]
+      },
+      "Accusative": {
+        "sg": [
+          "am"
+        ],
+        "du": [
+          "au"
+        ],
+        "pl": [
+          "ān"
+        ]
+      },
+      "Instrumental": {
+        "sg": [
+          "eNa"
+        ],
+        "du": [
+          "ābhyām"
+        ],
+        "pl": [
+          "aiḥ"
+        ]
+      },
+      "Dative": {
+        "sg": [
+          "āya"
+        ],
+        "du": [
+          "ābhyām"
+        ],
+        "pl": [
+          "ebhyaḥ"
+        ]
+      },
+      "Ablative": {
+        "sg": [
+          "āt",
+          "ād"
+        ],
+        "du": [
+          "ābhyām"
+        ],
+        "pl": [
+          "ebhyaḥ"
+        ]
+      },
+      "Genitive": {
+        "sg": [
+          "asya"
+        ],
+        "du": [
+          "ayoḥ"
+        ],
+        "pl": [
+          "āNām"
+        ]
+      },
+      "Locative": {
+        "sg": [
+          "e"
+        ],
+        "du": [
+          "ayoḥ"
+        ],
+        "pl": [
+          "eṣu"
+        ]
+      },
+      "Vocative": {
+        "sg": [
+          "a"
+        ],
+        "du": [
+          "au"
+        ],
+        "pl": [
+          "āḥ"
+        ]
+      }
+    },
+    "N_by_stem": {
+      "acchedya": "n",
+      "adāhya": "n",
+      "akledya": "n",
+      "aśoṣya": "ṇ"
+    },
+    "direct": "Nominative sg in all four panels"
+  },
+  "new_morphology_constructions": 1,
+  "new_morphology_interfaces": 96,
+  "new_semantic_constructions": 1,
+  "new_semantic_interfaces": 4,
+  "new_syntax_constructions": 1,
+  "new_syntax_interfaces": 4,
+  "new_source_observations": 5,
+  "new_source_policy_decisions": 3,
+  "observations": [
+    "BhG 2.23 agents",
+    "BhG 2.24 agreement and incapacity",
+    "VCP print 86",
+    "VCP print 115",
+    "VCP print 486"
+  ],
+  "decisions": [
+    "Distinguish verse inability from the ritual force of adāhya.",
+    "Use the printed causal suffixes of aśoṣya for VCP 5441, preserving the electronic record.",
+    "Retain the separate suffix attributions and the open analysis for akledya."
+  ],
+  "sources": {
+    "gita": {
+      "url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/html/sa_bhagavadgItA-4comm.htm",
+      "sha256": "d62e170769d4de67de9dfdb2ebc7505d9b0f0070d89698e1d90b3e3b6d8feccc",
+      "loci": [
+        "2.23",
+        "2.24"
+      ]
+    },
+    "vcp_print": {
+      "https://www.sanskrit-lexicon.uni-koeln.de/scans/VCPScan/VCPScanpdf/pg0086.pdf": "6688ed3405e2196de465308a8881042e98660a0212f52ba3c65af066c6ef03c3",
+      "https://www.sanskrit-lexicon.uni-koeln.de/scans/VCPScan/VCPScanpdf/pg0115.pdf": "6f6be9b52c4b51f65832f3da9a0ef23147e4c92207542e83e3eeb13a001167a5",
+      "https://www.sanskrit-lexicon.uni-koeln.de/scans/VCPScan/VCPScanpdf/pg0486.pdf": "c5bf64cc4eb8531b51f5ea164101dbe7e29148ce7a3f38edd6317a9e437a3426"
+    },
+    "lexica": {
+      "repo": "sanskrit-lexicon/csl-orig",
+      "commit": "776f75662b804497939e179f2ae1468b83ad55a7",
+      "files": {
+        "v02/mw/mw.txt": {
+          "blob": "e72bbf56f93897b7967dbec0a882ce1489720b7c",
+          "records": [
+            415,
+            1906,
+            3686,
+            19629
+          ]
+        },
+        "v02/vcp/vcp.txt": {
+          "blob": "2514e49be65b6fc8675e1f172194ca07778232df",
+          "records": [
+            656,
+            1140,
+            5441
+          ]
+        }
+      }
+    }
+  },
+  "pins": {
+    "drying_and_falling_in_the_vamana_purana/STATE.json": "71c8c8640f5da2a4e029d0c886f337e04e0a3463",
+    "nanj_akac_partial_lopa_and_masculine_case_owners/DERIVATION_AND_NATIVE_RECOVERY.md": "a06defe9d36b3e80b3063728470b931634e735f8",
+    "deserving_marker_histories_and_ritual_fitness/PANELS.md": "ba549584b176775147aaa7f1531f7088c8bd7d74",
+    "grammar_construction/NATIVE_OPERATOR_LIFT.md": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b"
+  },
+  "open": [
+    "Exact kṛtya attribution for akledya",
+    "Other genders, Vedic accent and direct uses beyond the nominatives",
+    "C2–C5 and S1–S7"
+  ],
+  "execution": "Claude-deferred"
+}
