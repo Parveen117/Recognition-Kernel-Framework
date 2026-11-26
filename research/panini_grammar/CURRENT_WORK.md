@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG910
+# Pāṇini grammar · current written coverage at PG911
+
+PG911 · [Honorific *bhavat* in the Gītā and Dhruva dialogues](bhavat_in_gita_and_dhruva_dialogues/README.md). Five verses supply direct evidence for M NOM, ACC and GEN singular and three instances of third-person agreement. Census 52,531 finite, 26,386 nominal and 30,051 nominal readings.
 
 PG910 · [Feminine and neuter cases of indefinite *tva*](tva_feminine_and_neuter_pronominal_cases/README.md). Whitney’s ordinary declension supplies 38 new nominal positions and 39 readings. Two directly witnessed feminine keys were already in PG907. Census 52,531 finite, 26,386 nominal and 30,051 nominal readings.
 

@@ -1,0 +1,41 @@
+{
+  "stage": "PG911",
+  "date": "2026-11-26",
+  "publication_parent": "91a58be646946b6b857cfdee780b402a4c984f72",
+  "baseline": "../tva_feminine_and_neuter_pronominal_cases/STATE.json",
+  "finite_positions": 52531,
+  "nominal_positions": 26386,
+  "nominal_readings": 30051,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 0,
+  "new_morphology_constructions": 0,
+  "new_morphology_interfaces": 0,
+  "new_syntax_constructions": 1,
+  "new_syntax_interfaces": 5,
+  "new_source_observations": 5,
+  "new_source_policy_decisions": 3,
+  "existing_nominal_keys_with_direct_support": [
+    "M NOM sg",
+    "M ACC sg",
+    "M GEN sg"
+  ],
+  "revisions": {
+    "Gītā 4.4": 403068,
+    "Gītā 11.31": 92507,
+    "Bhāgavata 4.8.11, 12, 32": 353504
+  },
+  "open": [
+    "Further case and discourse attestations, accent, transmission",
+    "Remaining C2–C5 and S1–S7 backlog"
+  ],
+  "runtime_policy": "Claude-deferred",
+  "pins_relative_to_grammar_at_publication_parent": {
+    "tva_feminine_and_neuter_pronominal_cases/STATE.json": "2613cb152648931fb8d4e08729cffd1ad6ab535b",
+    "grammar_construction/NATIVE_OPERATOR_LIFT.md": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+    "bhavat_honorific_vocatives_and_third_person_agreement/RELATION.json": "5afd36f0e78f61f008268ed06c66956176f9c126",
+    "bhavat_three_gender_nonvocative_cases/NOMINAL_FORMS.tsv": "cd85c3749224cd104f6223746c6530ba0af9fbc5",
+    "bhavat_three_gender_nonvocative_cases/STATE.json": "9acac7150d7261ef6b05748896a3cc41ab046208"
+  }
+}

@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG911 · [Honorific *bhavat* in the Gītā and Dhruva dialogues](research/panini_grammar/bhavat_in_gita_and_dhruva_dialogues/README.md). A referent shared between clauses preserves separate case and finite-agreement cuts under the PG14 augmentation.
+
 PG910 · [Feminine and neuter cases of indefinite *tva*](research/panini_grammar/tva_feminine_and_neuter_pronominal_cases/README.md). The source, case and evidence cuts descend on the PG14 history modules. Equal dual words keep their gender-specific operations.
 
 PG909 · [Vasu’s printed kalahaṃsapadī](research/panini_grammar/vasu_printed_kalahamsapadi/README.md). The source-glyph cut corrects the first-member rendering across 24 existing histories. Lemma, suffix and semantic-evidence coordinates remain distinct under the PG14 augmentation.

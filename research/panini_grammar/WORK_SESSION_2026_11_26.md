@@ -1,5 +1,7 @@
 # Written Pāṇini work session · 2026-11-26
 
+PG911 · [Honorific *bhavat* in the Gītā and Dhruva dialogues](bhavat_in_gita_and_dhruva_dialogues/README.md). Parent 91a58be646946b6b857cfdee780b402a4c984f72. Six honorific tokens in five verses, three source decisions and one discourse construction with five interfaces. Finite and nominal position/reading deltas all zero. Census 52,531 finite, 26,386 nominal and 30,051 nominal readings. Remaining literary, critical and written gates and Claude’s execution work are in WRITTEN_BACKLOG.
+
 PG910 · [Feminine and neuter cases of indefinite *tva*](tva_feminine_and_neuter_pronominal_cases/README.md). Parent e753a2cc52e66415d16e36ccac0b1e8515d18258. F +19 positions/+19 readings, N +19/+20, finite +0/+0. Two morphology constructions, 38 interfaces, two Whitney section observations and one regular-pattern decision. Census 52,531 finite, 26,386 nominal and 30,051 nominal readings. F/N vocatives, neuter direct singular derivation and further textual evidence stay Open. Claude owns execution.
 
 PG909 · [Vasu’s printed kalahaṃsapadī](vasu_printed_kalahamsapadi/README.md). Parent effec5e5f74fc3a3533d45bba82720bf855da351. Inspected Book V p. 1030, PDF leaf 207. Five print observations, two source decisions and 24 existing nominal readings corrected. New finite and nominal positions/readings 0/0 each. No new morphology or syntax unit. Census 52,531 finite, 26,348 nominal and 30,012 nominal readings. Nine 5.4.139 meanings stay Open. Claude retains execution.

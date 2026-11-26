@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG911 · [Honorific *bhavat* in the Gītā and Dhruva dialogues](bhavat_in_gita_and_dhruva_dialogues/README.md). One addressee can be named by a third-person controller and resumed by a second-person pronoun in another clause. The verb and its controller are identified in each passage.
+
 PG910 · [Feminine and neuter cases of indefinite *tva*](tva_feminine_and_neuter_pronominal_cases/README.md). Two formal panels distinguish the two long-śī dual operations, the neuter dental num and the feminine singular syāṭ policies. The table marks direct evidence separately.
 
 PG909 · [Vasu’s printed kalahaṃsapadī](vasu_printed_kalahamsapadi/README.md). Printed page 1030 fixes the internal anusvāra in kalahaṃsapadī and confirms the printed origin of the short i and rule pointer recorded in PG879.
