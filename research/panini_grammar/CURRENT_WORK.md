@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG903
+# Pāṇini grammar · current written coverage at PG904
+
+PG904 · [Complete non-vocative M/F/N cases of free *viśva*](visva_complete_nonvocative_cases/README.md). PG893's positive free all/universal ownership and three explicit `sarva`-pattern assignments now transport PG420's complete typed rows to 63 new positions/65 readings. Twenty-four surface spellings are globally new; M/N homographs, feminine `ā`, neuter `num`, `suṭ` and two ABLsg pause forks retain separate histories. The selected ordinary paradigm is complete at 72 positions/74 readings across PG893/904; compounds, names, other senses and textual/accent/Vedic/critical evidence remain Open. Census 52,531 finite, 26,322 nominal positions and 29,982 nominal readings.
 
 PG903 · [Complete non-vocative M/F/N cases of honorific *bhavat*](bhavat_three_gender_nonvocative_cases/README.md). PG897's positive `dhīmat/nadī/jagat` ownership and independent full pattern tables supply 63 new positions/readings and 22 new surface spellings. Strong/weak, glide, long-vowel, `bhavadbh-` and equal M/N histories remain typed. The selected ordinary three-gender paradigm is complete at 72 positions/readings across PG897/903; textual/accent/discourse/critical evidence remains Open. Census 52,531 finite, 26,259 nominal positions and 29,917 nominal readings.
 

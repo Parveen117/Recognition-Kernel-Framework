@@ -1,0 +1,75 @@
+{
+  "project_dependencies": [
+    {
+      "commit": "63fe27b0a28ad8da4970f91a0e97d45564bac517",
+      "path": "research/panini_grammar/bhavat_three_gender_nonvocative_cases/STATE.json",
+      "git_blob_sha": "9acac7150d7261ef6b05748896a3cc41ab046208",
+      "bytes": 1697,
+      "sha256": "39cf4f2dd659a1d1fa487651f3306f399592274636acd5aab181d567af686a45",
+      "use": "PG903 cumulative baseline"
+    },
+    {
+      "commit": "ccfe8d52d487d8f3e7f1fdfa8320fac0eee16a32",
+      "path": "research/panini_grammar/visva_vocative_panels/RELATION.json",
+      "git_blob_sha": "2de1ca3ca951e1e0578498f5bba3c20c7ab84a09",
+      "bytes": 2488,
+      "sha256": "bf9e8d5be9d10d438573575574a9bf2ae087a463171f781b127a17b00fd6ca08",
+      "use": "PG893 lexical, sense and three gender-pattern decisions"
+    },
+    {
+      "commit": "ccfe8d52d487d8f3e7f1fdfa8320fac0eee16a32",
+      "path": "research/panini_grammar/visva_vocative_panels/WITNESS_EXCERPTS.txt",
+      "git_blob_sha": "703f683a91e6ea0d2a9c9452274e228690af07e2",
+      "bytes": 2157,
+      "sha256": "fbed9a965fafb4f358aaa0031817bff1dc914f6cc9fed42e1fddf157a4f76ccc",
+      "use": "Exact Śabdamañjarī class list and entries 91-93"
+    },
+    {
+      "commit": "10c6c94401d4ff3178bc4738469ce8d63087cc02",
+      "path": "research/panini_grammar/sarva_three_genders_shi_sut_and_nasal_owners/NOMINAL_FORMS.tsv",
+      "git_blob_sha": "79a893197865f4b65d136df16d3fd3dddfd0702f",
+      "bytes": 2415,
+      "sha256": "d5f9f519958bf4a1d82aec9712e717fdc90bda88041532643d3feb1455b0f715",
+      "use": "Complete 63-key/65-reading sarva pattern table"
+    },
+    {
+      "commit": "10c6c94401d4ff3178bc4738469ce8d63087cc02",
+      "path": "research/panini_grammar/sarva_three_genders_shi_sut_and_nasal_owners/DERIVATION_AND_NATIVE_RECOVERY.md",
+      "git_blob_sha": "b4cd72c7628a14d4524a4cefd779b013cbeb660f",
+      "bytes": 9761,
+      "sha256": "7355c74afb428e3a84bd881bbc90cf21df35b47f0cc6db9d9724c36c8d1dbcbf",
+      "use": "Typed śī/śi, num, suṭ, nasal, feminine and pause histories"
+    },
+    {
+      "commit": "10c6c94401d4ff3178bc4738469ce8d63087cc02",
+      "path": "research/panini_grammar/grammar_construction/NATIVE_OPERATOR_LIFT.md",
+      "git_blob_sha": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+      "bytes": 11855,
+      "sha256": "f52e7f5cf539ef56859b890669ef738848491e4005e73be75baa49c899b5dafd",
+      "use": "PG14 full operator/history carrier and typed zero-specialization"
+    }
+  ],
+  "external_witnesses": [
+    {
+      "work": "Śabdamañjarī, pronoun classification and entries 91-93",
+      "host": "Veda Vijñāna Viṣṭaram",
+      "url": "https://vedavishtaram.in/sanskrit/s05_shabda_manjari.html",
+      "retrieved": "2026-11-25",
+      "use": "free viśva meaning and explicit M/F/N sarva-pattern extensions"
+    },
+    {
+      "work": "Kāśikā at 1.1.27 in the PG420 pinned source snapshot",
+      "upstream_commit": "5744762f010d677cfb43f347a42d02796cf615d6",
+      "field": "11027",
+      "use": "independent viśva sarvādi membership and printed viśvaḥ/viśvau/viśve, viśvasmai, viśvasmāt, viśveṣām, viśvasmin controls"
+    }
+  ],
+  "local_excerpt": {
+    "path": "research/panini_grammar/visva_complete_nonvocative_cases/WITNESS_EXCERPTS.txt",
+    "bytes": 1808,
+    "sha256": "96933cf19af138973989b1ad53954c096e4d96bd2d31fb73a1f5764062633d37",
+    "retrieved": "2026-11-26"
+  },
+  "source_observations_new": 21,
+  "source_policy_decisions_new": 4
+}

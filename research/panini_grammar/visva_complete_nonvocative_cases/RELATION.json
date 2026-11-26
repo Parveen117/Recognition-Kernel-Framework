@@ -1,0 +1,77 @@
+{
+  "schema": "rkf.panini.pg904.relation.v1",
+  "stage": "PG904",
+  "input": {
+    "lemma": "viśva",
+    "sense": "free-all-universal",
+    "roots": null,
+    "preverbs": [],
+    "verbal_pada": null,
+    "voice": null,
+    "genders": ["M", "F", "N"],
+    "numbers": ["sg", "du", "pl"],
+    "cases": ["NOM", "ACC", "INS", "DAT", "ABL", "GEN", "LOC"]
+  },
+  "source_ownership": {
+    "lexical_and_gender_patterns": "PG893 Śabdamañjarī entries 91-93",
+    "complete_pattern_rows": "PG420 typed sarva M/F/N table",
+    "vocatives": "PG893 first ownership; excluded from PG904 credit"
+  },
+  "construction": {
+    "masculine": "viśva transported through PG420 masculine sarva rows",
+    "feminine": "viśvā transported through PG420 feminine sarvā rows",
+    "neuter": "viśva transported through PG420 neuter sarva rows",
+    "pause_fork": "M/N ABLsg each retains viśvasmāt and viśvasmād under 8.4.56",
+    "interfaces": 63,
+    "positions": 63,
+    "readings": 65,
+    "distinct_surfaces": 29,
+    "new_surfaces": 24
+  },
+  "source_policy_decisions": [
+    "Admit only free viśva in the source's all/universal sense.",
+    "Transport all 63 non-vocative keys because the source explicitly extends all three corresponding sarva paradigms.",
+    "Retain separate gender, case, number, ending, nasal, suṭ and 8.4.56 pause histories even when surfaces agree.",
+    "Do not infer compounds, proper names, other senses, literary attestations, accent or Vedic variants from the paradigm extension."
+  ],
+  "controls": [
+    {
+      "id": "PG893_VOCATIVES",
+      "status": "Closed_first_owned_zero_credit",
+      "reason": "Nine vocative keys/readings remain owned by PG893."
+    },
+    {
+      "id": "EQUAL_M_N_SURFACES",
+      "status": "Accepted_distinct_histories",
+      "reason": "Masculine and neuter obliques share words without sharing gender keys."
+    },
+    {
+      "id": "ABL_SG_PAUSE",
+      "status": "Accepted_two_readings_each",
+      "reason": "PG420's final-stop option transports viśvasmāt/viśvasmād separately in M and N."
+    },
+    {
+      "id": "COMPOUNDS_NAMES_OTHER_SENSES",
+      "status": "Open",
+      "reason": "The free-pronoun table does not license those domains."
+    },
+    {
+      "id": "TEXT_ACCENT_VEDIC_CRITICAL",
+      "status": "Open",
+      "reason": "A paradigm transport does not manufacture those readings."
+    }
+  ],
+  "counts": {
+    "new_finite_positions": 0,
+    "new_finite_readings": 0,
+    "new_nominal_positions": 63,
+    "new_nominal_readings": 65,
+    "new_surface_strings": 24,
+    "new_morphology_constructions": 3,
+    "new_morphology_interfaces": 63,
+    "new_syntax_constructions": 0,
+    "new_syntax_interfaces": 0,
+    "new_source_observations": 21,
+    "new_source_policy_decisions": 4
+  }
+}
