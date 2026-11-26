@@ -1,5 +1,7 @@
 # Written Pāṇini work session · 2026-11-26
 
+PG919 · [The twelve-day observance and its nights and days](ksapaha_and_the_twelve_day_observance/README.md). Parent 75c90dec9ffc970779b2b836a0993db812ef691d. Finite +0/+0, nominal +8/+9. One morphology construction with eight interfaces, two syntax interfaces, five source observations and three decisions. Census 52,531 finite, 26,426 nominal and 30,094 nominal readings. Claude retains execution.
+
 PG918 · [Medhātithi on the night–day dual and the purpose of the fortnight](medhatithi_on_night_day_and_purpose/README.md). Parent 355c38b676f78d0e1c74971c4cc785afc0249eb4. Finite +0/+0, nominal +2/+3. One morphology interface, one syntax construction with two interfaces, five observations and four source decisions. Census 52,531 finite, 26,418 nominal and 30,085 nominal readings. Claude retains execution.
 
 PG917 · [The day-and-night collective and its predicate](ahar_nisa_collective_and_predicate/README.md). Parent 0bab94c9fd227976c1839bb18dcab03b936fca76. Finite +0/+0 and nominal +0/+0. One morphology construction/interface, one syntax interface, five source observations and three decisions. Census 52,531 finite, 26,416 nominal and 30,082 nominal readings. Claude retains execution.

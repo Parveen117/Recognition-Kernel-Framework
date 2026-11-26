@@ -1,0 +1,158 @@
+{
+  "stage": "PG919",
+  "date": "2026-11-26",
+  "publication_parent": "75c90dec9ffc970779b2b836a0993db812ef691d",
+  "baseline": "../medhatithi_on_night_day_and_purpose/STATE.json",
+  "finite_positions": 52531,
+  "nominal_positions": 26426,
+  "nominal_readings": 30094,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 8,
+  "new_nominal_readings": 9,
+  "new_morphology_constructions": 1,
+  "new_morphology_interfaces": 8,
+  "new_syntax_constructions": 0,
+  "new_syntax_interfaces": 2,
+  "new_case_rows": [
+    {
+      "lemma": "kṣapāha",
+      "sense": "one night-day period",
+      "gender": "N",
+      "case": "NOM",
+      "number": "sg",
+      "end": "su",
+      "readings": [
+        "kṣapāham"
+      ]
+    },
+    {
+      "lemma": "kṣapāha",
+      "sense": "one night-day period",
+      "gender": "N",
+      "case": "ACC",
+      "number": "sg",
+      "end": "am",
+      "readings": [
+        "kṣapāham"
+      ]
+    },
+    {
+      "lemma": "kṣapāha",
+      "sense": "one night-day period",
+      "gender": "N",
+      "case": "DAT",
+      "number": "sg",
+      "end": "ṅe",
+      "readings": [
+        "kṣapāhāya"
+      ]
+    },
+    {
+      "lemma": "kṣapāha",
+      "sense": "one night-day period",
+      "gender": "N",
+      "case": "ABL",
+      "number": "sg",
+      "end": "ṅasi",
+      "readings": [
+        "kṣapāhāt",
+        "kṣapāhād"
+      ]
+    },
+    {
+      "lemma": "kṣapāha",
+      "sense": "one night-day period",
+      "gender": "N",
+      "case": "LOC",
+      "number": "sg",
+      "end": "ṅi",
+      "readings": [
+        "kṣapāhe"
+      ]
+    },
+    {
+      "lemma": "kṣapāha",
+      "sense": "one night-day period",
+      "gender": "N",
+      "case": "VOC",
+      "number": "sg",
+      "end": "su",
+      "readings": [
+        "kṣapāha"
+      ]
+    },
+    {
+      "lemma": "kṣapā+ahan",
+      "sense": "nights and days of repeated action",
+      "gender": "N",
+      "case": "LOC",
+      "number": "pl",
+      "end": "sup",
+      "readings": [
+        "kṣapāhaḥsu"
+      ]
+    },
+    {
+      "lemma": "dvādaśāha",
+      "sense": "period of twelve days",
+      "gender": "M",
+      "case": "ACC",
+      "number": "sg",
+      "end": "am",
+      "readings": [
+        "dvādaśāham"
+      ]
+    }
+  ],
+  "observations": [
+    "MBh 3.118.17 duration",
+    "MBh 3.118.17 recurring occasions",
+    "Wilson 12240",
+    "PW 53720–21 period and other senses",
+    "Whitney 430a,c"
+  ],
+  "decisions": [
+    "Wilson fixes both members and the neuter citation form",
+    "the epic locative requires consonantal inflection",
+    "duration masculine in the named period sense"
+  ],
+  "new_source_observations": 5,
+  "new_source_policy_decisions": 3,
+  "pins": {
+    "grammar_construction/NATIVE_OPERATOR_LIFT.md": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+    "SUTRAPATHA.tsv": "1840f3b5349b21112ac05a7efaa59705fd4efee0",
+    "medhatithi_on_night_day_and_purpose/STATE.json": "f017bf60d4d61dff2e86ddf8f16172eaf11d85a7",
+    "night_day_compounds_and_reported_ac_reinterpretation/DERIVATION_AND_NATIVE_RECOVERY.md": "a5b833f47cae0c60117e355f4eabb7f5cef2d193",
+    "night_day_compounds_and_reported_ac_reinterpretation/SOURCES.json": "54d3d0a58b78f02516350453d2fcbc1a324da4db",
+    "ahoratra_source_qualified_neuter_singular/NOMINAL_FORMS.tsv": "23dca75190961be2b1df3372c487c9ae43365c34",
+    "measured_day_night_and_its_knowers/STATE.json": "27d348e41a02b723249b540333fa3bfc16334865"
+  },
+  "external_sources": {
+    "sanskrit-lexicon/csl-orig": {
+      "commit": "cf53a4240ac83c8f7dfd275533ebd0a0639e6b57",
+      "v02/wil/wil.txt": "422078865920a5f44e8f62038cdd54c69d415e88",
+      "v02/pw/pw.txt": "985658de43bc09d4ebf639ba561979a24fc14f9e",
+      "v02/mw/mw.txt": "e72bbf56f93897b7967dbec0a882ce1489720b7c"
+    },
+    "ashtadhyayi-com/data": {
+      "commit": "db9a7f1dba06159e6bcd6efb92c9d01857939947",
+      "sutraani/kashika.txt": "33aee69f03d8c88d8406875c82b5d0fb1bec9b7d"
+    },
+    "GRETIL b03c118.htm": {
+      "url": "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/2_epic/mbh/sas/b03/b03c118.htm",
+      "sha256": "05025781b5b031146df3d08ad8035ac8fde7d1f5d1e2e493acdcfd382e770b0f"
+    },
+    "Whitney ch V": {
+      "url": "https://en.wikisource.org/wiki/Sanskrit_Grammar_(Whitney)/Chapter_V",
+      "revision": 13777075,
+      "sha256": "a36d2ecdb3643574af4783c6a4c27382b22539b4937467c9223c2cf026f8d9ed"
+    }
+  },
+  "open": [
+    "A-stem history and nati at the instrumental",
+    "independent text for projected singular cases, wider epic usage and accent",
+    "other C2–C5 and S1–S7"
+  ],
+  "execution": "Claude-deferred"
+}

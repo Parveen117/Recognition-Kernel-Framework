@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG919 · [The twelve-day observance and its nights and days](research/panini_grammar/ksapaha_and_the_twelve_day_observance/README.md). PG14 recovery retains the period noun’s a-stem or consonantal history across the case projections.
+
 PG918 · [Medhātithi on the night–day dual and the purpose of the fortnight](research/panini_grammar/medhatithi_on_night_day_and_purpose/README.md). The full source-labelled PG14 maps recover a single dual key with two readings and keep the proposed dative outside the verse fibre.
 
 PG917 · [The day-and-night collective and its predicate](research/panini_grammar/ahar_nisa_collective_and_predicate/README.md). PG14 augmentation preserves the different visibility of luk for designation and r-substitution.

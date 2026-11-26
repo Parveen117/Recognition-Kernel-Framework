@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG919 · [The twelve-day observance and its nights and days](ksapaha_and_the_twelve_day_observance/README.md). Mahābhārata 3.118.17 distinguishes the duration accusative from the nights and days on which the king performs ablutions. Wilson fixes both members of the short-a noun.
+
 PG918 · [Medhātithi on the night–day dual and the purpose of the fortnight](medhatithi_on_night_day_and_purpose/README.md). Manu 1.67 supplies a contracted electronic reading. At 1.66 Medhātithi distinguishes a proposed purpose dative from the verse locative.
 
 PG917 · [The day-and-night collective and its predicate](ahar_nisa_collective_and_predicate/README.md). Two member endings undergo luk. Shortening and the r/ru decision have separate owners.

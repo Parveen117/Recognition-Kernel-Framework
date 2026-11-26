@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG918
+# Pāṇini grammar · current written coverage at PG919
+
+PG919 · [The twelve-day observance and its nights and days](ksapaha_and_the_twelve_day_observance/README.md). The epic has a consonantal locative plural. Eight nominal positions and nine readings bring the census to 52,531 finite, 26,426 nominal and 30,094 nominal readings.
 
 PG918 · [Medhātithi on the night–day dual and the purpose of the fortnight](medhatithi_on_night_day_and_purpose/README.md). Two new nominal cases and three readings. Census 52,531 finite, 26,418 nominal and 30,085 nominal readings.
 
