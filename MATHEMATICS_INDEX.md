@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG990 · [The dental condition in the middle aorist](research/panini_grammar/guh_dental_condition_and_remaining_actor_cells/README.md). Kāśikā 7.3.73 distinguishes first dual from first plural and directly gives two ni + guh readings. The 84 outstanding unprefixed cells complete the selected 180-position actor grid. Including the prefixed pair, 85 new finite positions/129 readings bring the census to 55,698 finite positions, 27,461 nominal positions and 31,230 nominal readings.
+
 PG989 · [The third persons of √guh and the river’s embrace](research/panini_grammar/guh_third_persons_and_the_river_embrace/README.md). The printed aorist line has three middle singulars. The two blessing grades and the river’s finite upagūhati receive distinct histories. Forty unprefixed positions and one prefixed position add 56 readings. Census 55,613 finite positions, 27,461 nominal positions and 31,230 nominal readings.
 
 PG988 · [Concealing the ground, the directions and one’s openings](research/panini_grammar/concealing_the_ground_and_the_tortoise_comparison/README.md). Two Bhaṭṭi verses distinguish the same-day prediction from a completed act. Manu’s tortoise comparison supplies the ordinary optative. The future and optative panels and two further singulars add 38 finite positions/57 readings. Census 55,572 finite positions, 27,461 nominal positions and 31,230 nominal readings.
