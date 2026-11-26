@@ -1,0 +1,112 @@
+{
+  "stage": "PG975",
+  "date": "2026-11-26",
+  "publication_parent": "43909a789e57b50c1c09df3c1709f435575e5a83",
+  "baseline": "../rudh_cow_and_the_expressed_agent/STATE.json",
+  "finite_positions": 55478,
+  "nominal_positions": 27032,
+  "nominal_readings": 30717,
+  "new_finite_positions": 10,
+  "new_finite_readings": 14,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 0,
+  "common": {
+    "root": 1010001,
+    "sense": "sattāyām, arising of anger",
+    "preverbs": [
+      "sam"
+    ],
+    "formation": "simple",
+    "voice": "bhāve",
+    "pada": "A",
+    "person": 3,
+    "number": "sg",
+    "temporal_force": "category-specific",
+    "orthography": "anusvāra register; boundary parasavarṇa recorded separately"
+  },
+  "forms": {
+    "laṭ": [
+      "saṃbhūyate"
+    ],
+    "loṭ": [
+      "saṃbhūyatām"
+    ],
+    "laṅ": [
+      "samabhūyata"
+    ],
+    "vidhiliṅ": [
+      "saṃbhūyeta"
+    ],
+    "luṅ": [
+      "samabhāvi"
+    ],
+    "lṛṭ": [
+      "saṃbhaviṣyate",
+      "saṃbhāviṣyate"
+    ],
+    "luṭ": [
+      "saṃbhavitā",
+      "saṃbhāvitā"
+    ],
+    "lṛṅ": [
+      "samabhaviṣyata",
+      "samabhāviṣyata"
+    ],
+    "āśīrliṅ": [
+      "saṃbhaviṣīṣṭa",
+      "saṃbhāviṣīṣṭa"
+    ],
+    "liṭ": [
+      "saṃbabhūve"
+    ]
+  },
+  "new_morphology_constructions": 1,
+  "new_morphology_interfaces": 10,
+  "new_syntax_constructions": 1,
+  "new_syntax_interfaces": 4,
+  "new_source_observations": 2,
+  "new_source_policy_decisions": 3,
+  "observations": [
+    "1887 Jayamaṅgalā VI.34, action reading and scope of muhuḥ",
+    "Concordance non-active bhū perfect table under the a-copy policy"
+  ],
+  "decisions": [
+    "Attribute the instrumental anger and singular verbal event to bhāve",
+    "Scope muhuḥ over all four predicates on Jayamaṅgalā’s reading",
+    "Use a-copy under the named liṭ table policy and keep the u-copy transfer to this frame Open"
+  ],
+  "sources": {
+    "https://archive.org/details/b3009303x/page/n118/mode/1up": {
+      "locus": "1887, p. 111; digitised PDF page 119",
+      "sha256": "856b2ec967f024a50df155e934c5e39f2da17b01e86bba8a4260778a9d296162"
+    },
+    "https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/html/sa_bhaTTi-rAvaNavadha.htm": {
+      "locus": "6.34",
+      "sha256": "ae9f98414a59fc0375801e033c3aea5989bca2d92eaad8930bf2c70b1a137105"
+    },
+    "https://samsaadhanii-concordance.vipran.in/dhatu/0-BU-sawwAyAm-BU1": {
+      "locus": "non-active liṭ table, third singular",
+      "sha256": "b35e32e98c333827b1e3821da1d70a38e6cbd233aabbba738533f29b909cd114"
+    }
+  },
+  "pins": {
+    "grammar_construction/DERIVATIONS.md": "982eb97f16dc2eeb8862629fd0f7bded453724ff",
+    "compound_case_derivation/RULES_3_1_B.md": "76561e45b599118816bd4150ba44772aaf875667",
+    "future_voice/PARADIGMS.md": "298fc7e892abd59368f0397d6f08c50bb608f4dc",
+    "conditional_voice/PARADIGMS.md": "273d1e043449895513e8ffc320605ccdedc79dad",
+    "benediction/CAUSATIVE_AND_VOICE.md": "fbd82556426fbe6b8c85e51191390d07017e269e",
+    "cin_aorist/CONSTRUCTION.md": "cfa5fd62d7ad9d569d5719adbe7e98952f322670",
+    "abhyasa_tripadi/RULES_8_4_B.md": "d3bb95fd97ba11c6cfbd7bc6548cbb0f14edbb51",
+    "anga_affix_abhyasa/SOURCE_REVIEW.md": "f31107726ec640b5d9755809331aac42224b48b3",
+    "bhatti_verse_concordance/CONCORDANCE.tsv": "914614d32c0e99e02daf041485e108a2fc4c6d91",
+    "grammar_construction/NATIVE_OPERATOR_LIFT.md": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+    "rudh_cow_and_the_expressed_agent/STATE.json": "a30e860b525eea9bfe762d08ecdf541b8d6eb6a8",
+    "future_voice/SEMANTIC_DOMAIN.md": "c80c0958244d8853fdbb66539e6f1eaa630c9a58"
+  },
+  "open": [
+    "Direct contextual attestations of the nine extensions",
+    "Independent u-grade perfect on this sam bhāve frame",
+    "Other C2–C5 domains and unresolved textual gates S1–S7, K128/K139, extended Vasu and patradatam"
+  ],
+  "execution": "Claude-deferred"
+}

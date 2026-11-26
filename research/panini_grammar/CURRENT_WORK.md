@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG974
+# Pāṇini grammar · current written coverage at PG975
+
+PG975 · [When anger arises in Bhaṭṭi 6.34](anger_arises_in_bhatti/README.md). Jayamaṅgalā identifies the impersonal aorist and applies muhuḥ to all four predicates. The sam + √bhū event grid adds ten positions/fourteen readings. Census 55,478 finite positions, 27,032 nominal positions and 30,717 nominal readings.
 
 PG974 · [Who confines the cow?](rudh_cow_and_the_expressed_agent/README.md). Mādhavīya and the Dvivedī print each give a present and an aorist. Four self-agent positions/four readings distinguish the unprefixed and anu frames. Two Bhoja prints retain ciṇ in the explanation and ṇic in the recap. Census 55,468 finite positions, 27,032 nominal positions and 30,717 nominal readings.
 
