@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG905
+# Pāṇini grammar · current written coverage at PG906
+
+PG906 · [The dental nasals of *tva* and *viśva*](dental_nasals_of_tva_and_visva/README.md). Six earlier nominal readings are superseded. The correct instrumentals are *tvena* and *viśvena*, and the ordinary neuter plural is *viśvāni*. Nine verse/reading observations include a separate Vedic short accusative *viśvā*. Census 52,531 finite positions, 26,346 nominal positions and 30,007 nominal readings.
 
 PG905 · [Complete masculine cases of vowel-final *tva* ‘other’](tva_masculine_complete_cases/README.md). Śabdamañjarī's explicit masculine `sarva`-pattern assignment supplies 24 NOM–VOC positions/25 readings, while Kāśikā's two accent histories and competing t-final tradition stay typed Open. Seventeen terminal spellings are new; `tvam` remains a yuṣmad homograph and abstract suffix `tva` a different owner. The ordinary unaccented masculine surface panel is closed; F/N, accent, historical priority and textual/Vedic/critical evidence remain Open. Census 52,531 finite, 26,346 nominal positions and 30,007 nominal readings.
 

@@ -1,0 +1,59 @@
+{
+  "stage": "PG906",
+  "date": "2026-11-26",
+  "publication_parent": "66febe7e2939fad92d4d6ce1a667b12b42d78517",
+  "baseline": "../tva_masculine_complete_cases/STATE.json",
+  "finite_positions": 52531,
+  "nominal_positions": 26346,
+  "nominal_readings": 30007,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 0,
+  "ordinary_nominal_readings_replaced": 6,
+  "new_morphology_constructions": 0,
+  "new_morphology_interfaces": 0,
+  "new_syntax_constructions": 0,
+  "new_syntax_interfaces": 0,
+  "new_source_observations": 9,
+  "new_source_policy_decisions": 4,
+  "source_observation_unit": "one verse, typed key and reading, irrespective of token repetitions",
+  "attestation_register": "ATTESTATIONS.tsv",
+  "superseding_register": "CORRECTIONS.tsv",
+  "input_paths_relative_to_grammar_at_publication_parent": {
+    "grammar_construction/NATIVE_OPERATOR_LIFT.md": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+    "SUTRAPATHA.tsv": "1840f3b5349b21112ac05a7efaa59705fd4efee0",
+    "sarva_three_genders_shi_sut_and_nasal_owners/SOURCES.json": "5f64d17cfb9a6f51a4f7d48918b7f1bcc00f4cec",
+    "sarva_three_genders_shi_sut_and_nasal_owners/NOMINAL_FORMS.tsv": "79a893197865f4b65d136df16d3fd3dddfd0702f",
+    "visva_vocative_panels/VOCATIVE_FORMS.tsv": "7847689bc76e4005efd78c0e255339f92cfd04fd",
+    "visva_vocative_panels/WITNESS_EXCERPTS.txt": "703f683a91e6ea0d2a9c9452274e228690af07e2",
+    "visva_complete_nonvocative_cases/NOMINAL_FORMS.tsv": "4638e15033447448fd2b78c5d42873ceeee6c1dd",
+    "tva_masculine_complete_cases/NOMINAL_FORMS.tsv": "9847ea1dd5d7dbf2f9ea17272d64f1f5e68cfd20",
+    "tva_masculine_complete_cases/STATE.json": "fa26156ad4f373aad17e74c3bf48e4d3db9875b5",
+    "caks_substitution_scope/SOURCE_EXCERPTS.json": "dabfe557dfb96be28dad7a4acda694278886a04a"
+  },
+  "upstream_rules": {
+    "repository": "ashtadhyayi-com/data",
+    "commit": "5744762f010d677cfb43f347a42d02796cf615d6",
+    "path": "sutraani/kashika.txt",
+    "fields": [
+      "11027",
+      "71012",
+      "61087",
+      "71020",
+      "71072",
+      "64008",
+      "84001",
+      "84002"
+    ]
+  },
+  "source_editions": "Sanskrit Wikisource revision IDs by verse in ATTESTATIONS.tsv",
+  "open_obligations": [
+    "F/N scope of vowel-final tva, allocation of lexical accents and stem-tradition priority",
+    "Direct evidence for the remaining ordinary keys, including masculine instrumental, neuter nominative plural and direct neuter plural address of viśva",
+    "Exact rule history of RV 5.82.6 short neuter plural",
+    "Remainder of the four-part WRITTEN_BACKLOG, including C2–C5 and S1–S7"
+  ],
+  "protected_registers": "PG335 and historical closures including PG357–363 inherited from PG905",
+  "runtime_policy": "Claude-deferred"
+}
