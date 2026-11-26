@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG986
+# Pāṇini grammar · current written coverage at PG987
+
+PG987 · [The published laṅ correction and the two futures of √guh](published_lang_and_the_two_futures_of_guh/README.md). The corrected 3.2.111 paragraph reached the upstream aggregate and revision-pinned CDN. Both ordinary reader copies still give luṅ. The same upstream commit corrects gauḍhā to goḍhā. The two-pada luṭ register adds 18 finite positions/36 readings. Census 55,534 finite positions, 27,461 nominal positions and 31,230 nominal readings.
 
 PG986 · [The Kāṇva mantra and the shorter Kāṭhaka formula](kanva_and_kathaka_foot_formulas/README.md). The Kāṇva mantra prints prathantām where a commentary quotes prayantām. Kāṭhaka stops at four feet. Mahīdhara identifies ānañja as a perfect. One finite position/one reading and 23 nominal positions/23 readings bring the census to 55,516 finite positions, 27,461 nominal positions and 31,230 nominal readings.
 

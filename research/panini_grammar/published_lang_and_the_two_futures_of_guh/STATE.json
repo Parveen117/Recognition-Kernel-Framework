@@ -1,0 +1,85 @@
+{
+  "stage": "PG987",
+  "date": "2026-11-26",
+  "publication_parent": "3d920bf24dcdd135464a08ce28962f89ec124a00",
+  "baseline": "../kanva_and_kathaka_foot_formulas/STATE.json",
+  "finite_positions": 55534,
+  "nominal_positions": 27461,
+  "nominal_readings": 31230,
+  "new_finite_positions": 18,
+  "new_finite_readings": 36,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 0,
+  "new_morphology_constructions": 2,
+  "new_source_observations": 4,
+  "new_source_policy_decisions": 3,
+  "observations": [
+    "Kāśikā aggregate parent/child",
+    "Pinned and ordinary reader comparison",
+    "Kaumudī aggregate parent/child",
+    "Independent edition and competing grade explanations"
+  ],
+  "decisions": [
+    "S3 corrected aggregate and pinned CDN closed",
+    "Ordinary reader deployment open at both inspected routes",
+    "Corrected o and iṭ-bearing ū admitted under the Kaumudī policy"
+  ],
+  "upstream": {
+    "parent": "49d7379038b2515f4e79877f54c194cc8b2a6fc7",
+    "commit": "1ad4bfdf66bf73763e4be689d37382e46288bfe4",
+    "kashika_old_blob": "33aee69f03d8c88d8406875c82b5d0fb1bec9b7d",
+    "kashika_new_blob": "0e6fb0248354c816181214e2764290698c92739a",
+    "kaumudi_old_blob": "ccbbfe5e703894e8bd674aeb4eb68cff52a04eee",
+    "kaumudi_new_blob": "336057b0e369fb6fda87c06fb2c63f5536c93e5e",
+    "proofread_revision": 321158
+  },
+  "source_sha256": {
+    "https://raw.githubusercontent.com/ashtadhyayi-com/data/49d7379038b2515f4e79877f54c194cc8b2a6fc7/sutraani/kashika.txt": "78ccd0f548077c75ed582e82fd5a3ae629efb70a9e29ed018fb36c071ab62f2b",
+    "https://raw.githubusercontent.com/ashtadhyayi-com/data/1ad4bfdf66bf73763e4be689d37382e46288bfe4/sutraani/kashika.txt": "f0f7461681e5c0ce60b5b8310bfe9e8faedb8e04a8890eb37ea18bdb0e72e3d0",
+    "https://raw.githubusercontent.com/ashtadhyayi-com/data/49d7379038b2515f4e79877f54c194cc8b2a6fc7/sutraani/kaumudi.txt": "230faff59a138401d1d1caafe4f78aadb02dd3c63b0a984df4aced98cdde986e",
+    "https://raw.githubusercontent.com/ashtadhyayi-com/data/1ad4bfdf66bf73763e4be689d37382e46288bfe4/sutraani/kaumudi.txt": "bd7b3dac8f5397d1c5f81e6da4755e3f5c9ec3f3065c37c16dde872408083bd5",
+    "https://raw.githubusercontent.com/ashtadhyayi-com/data/1ad4bfdf66bf73763e4be689d37382e46288bfe4/dhatu/data.txt": "e8c0e929294c4ab68455b461ee81234e7a0febac1b72e6873ea832354a28b641",
+    "https://raw.githubusercontent.com/ashtadhyayi-com/data-edit/2cce12380b2a7a10cb5980e019ddde933256ac57/sutraani/kashika/32111.txt": "c19a90ff1f0b6659e706096ae42ad5ec5950ee7c70a97b785102fb54026ad0fe",
+    "https://ashtadhyayi.com/jsondata/sutraani/kashika.txt": "ba201526587b19c4758bc693bb491a46bbab8403af78e6f1160d76684d7c449e",
+    "https://cdn.jsdelivr.net/gh/ashtadhyayi-com/data@latest/sutraani/kashika.txt": "78ccd0f548077c75ed582e82fd5a3ae629efb70a9e29ed018fb36c071ab62f2b",
+    "https://cdn.jsdelivr.net/gh/ashtadhyayi-com/data@1ad4bfdf66bf73763e4be689d37382e46288bfe4/sutraani/kashika.txt": "f0f7461681e5c0ce60b5b8310bfe9e8faedb8e04a8890eb37ea18bdb0e72e3d0",
+    "https://ashtadhyayi-lite.github.io/sutra/8.3.13.html": "5177250e964cfa89bf0224a8d02bf9385608499de9bda6563b07f729da013ae6",
+    "https://sa.wikisource.org/wiki/पृष्ठम्:सिद्धान्तकौमुदी_(बालमनोरमा_उत्तर-१).djvu/१४९": "29f2c2f72e8ce158110ed01e9f879041c4d469a0a70ea9c3ce6b3ffb906dc7cf",
+    "https://api.github.com/repos/ashtadhyayi-com/data/commits/1ad4bfdf66bf73763e4be689d37382e46288bfe4": "6332f8d744bd64f6439020522848ee01e758b29f40e27c965397e06c1b84d730",
+    "https://raw.githubusercontent.com/samsaadhanii/scl/1ec51dc4cbfecf271e4f3cb0bba41f25b5921572/dhaatupaatha/files/madhaviya_XAwuvqwwi_new.xml": "4562749571a7efe3b474b1c68f821cfc7271b07893e753ffc66e2fc7a4a79e76"
+  },
+  "file_pins": {
+    "kanva_and_kathaka_foot_formulas/STATE.json": "87d79bb6fe0ef8b290d0655b3ae944f06d833823",
+    "kasika_lang_edit_and_reader_copies/STATE.json": "b0b69c29ff2005b7f8a7d6ae21ab5da0e81e698f",
+    "nisam_futures_blessings_and_spoken_word/PARADIGMS.md": "85b2b6826f5a754e655d489fcc4b8f4450b7178a",
+    "two_ma_roots_shared_futures_and_blessings/PARADIGMS.md": "64596a569fca789d4131fc8c44b8e0b5d73b07d7",
+    "SUTRAPATHA.tsv": "1840f3b5349b21112ac05a7efaa59705fd4efee0",
+    "grammar_construction/NATIVE_OPERATOR_LIFT.md": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b"
+  },
+  "finite": {
+    "root": "01.1043 guhū̃ saṃvaraṇe",
+    "preverbs": [],
+    "agency": "kartari",
+    "padas": [
+      "P",
+      "A (kartṛ-abhiprāya)"
+    ],
+    "lakara": "luṭ",
+    "register": "README.md, 3 persons × 3 numbers × 2 padas",
+    "accepted": [
+      "iṭ and ū under 6.4.89",
+      "no iṭ and guṇa, followed by ḍh contraction"
+    ],
+    "competing": [
+      "earlier digital gauḍhā",
+      "Mādhavīya XML gāḍhā",
+      "modern 8.3.13 explanation gūḍhā"
+    ]
+  },
+  "execution": "Claude-deferred",
+  "open": [
+    "S3 exact 2023 intermediary and ordinary reader delivery",
+    "S1 variant-bearing manuscript and mood, S2 early donor, S4–S7 residuals",
+    "Other C2–C5 domains in the written backlog"
+  ]
+}
