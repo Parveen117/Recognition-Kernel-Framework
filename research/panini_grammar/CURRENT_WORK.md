@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG982
+# Pāṇini grammar · current written coverage at PG983
+
+PG983 · [Bhoja’s causer and the release adjective](bhojas_causer_and_the_release_adjective/README.md). The printed paraphrase mocayanti and lexical nakhamucāni have separate affix histories. Three finite positions/three readings and 71 nominal positions/73 readings. Census 55,513 finite positions, 27,437 nominal positions and 31,206 nominal readings.
 
 PG982 · [Raghu’s horse and the cast snakeskin](horse_and_the_cast_snakeskin/README.md). Raghuvaṃśa 3.65 identifies Mādhava’s horse quotation. Two poems distinguish the skin, pieces of skin and garlands. Four case registers add 95 nominal positions/98 readings. Census 55,510 finite positions, 27,366 nominal positions and 31,133 nominal readings.
 
