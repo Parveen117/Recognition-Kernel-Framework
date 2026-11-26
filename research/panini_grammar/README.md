@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG979 · [The birds in Jājali’s hair](the_birds_in_jajalis_hair/README.md). Two epic bird-duals and Yudhiṣṭhira’s singular distinguish confidence from received reassurance. Three masculine panels add 71 nominal positions/98 readings. Census 55,500 finite positions, 27,127 nominal positions and 30,839 nominal readings.
+
 PG978 · [Trust in Vidura’s counsel and reassurance in Laṅkā](trust_and_reassurance_in_two_optative_traditions/README.md). Two prints establish the disputed post-blessing aśvasat. Bhaṭṭi’s 19.21 variant has competing verbal and denominal analyses. Four finite positions/five readings. Census 55,500 finite positions, 27,056 nominal positions and 30,741 nominal readings.
 
 PG977 · [Why Rāma’s sigh is an aorist](sighing_in_two_past_categories/README.md). The singular at Bhaṭṭi 6.34 is resolved by the print and compared with the plural at 3.17. The two ni + śvas past categories add 18 finite positions and 20 readings. Census 55,496 finite positions, 27,056 nominal positions and 30,741 nominal readings.

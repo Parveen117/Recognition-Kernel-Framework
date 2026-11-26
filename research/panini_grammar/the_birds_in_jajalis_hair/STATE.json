@@ -1,0 +1,70 @@
+{
+  "stage": "PG979",
+  "date": "2026-11-26",
+  "publication_parent": "44f3068a6fb7b8559562aa7aa43e8ff21c3a6d1a",
+  "baseline": "../trust_and_reassurance_in_two_optative_traditions/STATE.json",
+  "finite_positions": 55500,
+  "nominal_positions": 27127,
+  "nominal_readings": 30839,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 71,
+  "new_nominal_readings": 98,
+  "new_morphology_constructions": 3,
+  "new_morphology_interfaces": 71,
+  "new_syntax_constructions": 1,
+  "new_syntax_interfaces": 3,
+  "new_source_policy_decisions": 3,
+  "decisions": [
+    "Two bird-duals have different ordered preverbs, affix histories and roles",
+    "Book 14 supplies the causal participle with expressed plural agents",
+    "Attribute the two simple ā + śvas niṣṭhā branches to their named sources"
+  ],
+  "direct_credited_positions": 3,
+  "formal_extensions": 68,
+  "register": "FORMS.tsv",
+  "root": 1020064,
+  "stems": {
+    "pari_vi_simple": [
+      "pariviśvast"
+    ],
+    "aa_causal": [
+      "āśvāsit"
+    ],
+    "aa_simple": [
+      "āśvast",
+      "āśvasit"
+    ]
+  },
+  "source_lemma_withheld": "aa_simple/Nominative/sg",
+  "pins": {
+    "anga_affix_abhyasa/SOURCE_EXCERPTS.json": "5deccfa3a413c5721d902714f4c3de35891cadae",
+    "bhedita_causal_kta_and_it_before_nic_lopa/DERIVATION_AND_NATIVE_RECOVERY.md": "01a36eedb31a583ecf3caa5a98e8144f7950a8a8",
+    "four_negated_properties_in_the_gita/STATE.json": "5153043953487e89995e059c165f12e625e1a5eb",
+    "grammar_construction/NATIVE_OPERATOR_LIFT.md": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+    "trust_and_reassurance_in_two_optative_traditions/STATE.json": "549331661ed646232d23c63f498a5ad729f1a319"
+  },
+  "sources": {
+    "https://archive.org/download/in.ernet.dli.2015.369319/2015.369319.Maadhaviyaadhatuvarittii_text.pdf": {
+      "locus": "Benares p.264, PDF leaf 283",
+      "sha256": "888602b53eb0e713bc88f0a605454f6139e05ddb13ed163c903e96e80b3fcd8a"
+    },
+    "https://bombay.indology.info/mahabharata/text/UD/MBh12.txt": {
+      "locus": "12253020–26",
+      "sha256": "6a05be4209fd2676fc62edceed64ae21d1f96ae5b706e4e633f73cf6f54bf72c"
+    },
+    "https://www.sanskritlibrary.org/Sanskrit/Vyakarana/Dhatupatha/mdhvscan/MDhVjpg/madhaviyahdhatuv00sayauoft_bw_0430.jpg": {
+      "locus": "Shastri, p.376",
+      "sha256": "d0e5e472b1b4e335d2997789f7dd0f45bd13400de0240a09a0e054b201448a78"
+    },
+    "https://bombay.indology.info/mahabharata/text/UD/MBh14.txt": {
+      "sha256": "21640297028d944008fae9b0eef007a984932e472f171ccb93d74918fd784fdc",
+      "locus": "14014006–7"
+    }
+  },
+  "open": [
+    "Feminine and neuter cases, wider lexical distribution, accent, direct attestations",
+    "C2–C5 and the source gates S1–S7"
+  ],
+  "execution": "Claude-deferred"
+}
