@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG920
+# Pāṇini grammar · current written coverage at PG921
+
+PG921 · [The imperfect of √rudh and the reported siege](rudh_imperfect_and_the_reported_siege/README.md). Eighteen finite positions and 27 readings. Census 52,549 finite, 26,426 nominal and 30,094 nominal readings.
 
 PG920 · [The editor’s laṅ correction and the reader copies](kasika_lang_edit_and_reader_copies/README.md). S3 now has the exact upstream correction commit. All three observed reader routes still carry luṅ. Census 52,531 finite, 26,426 nominal and 30,094 nominal readings.
 

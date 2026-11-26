@@ -1,0 +1,208 @@
+{
+  "stage": "PG921",
+  "date": "2026-11-26",
+  "publication_parent": "69d5dbed65fe41cac2ec7927c2fce66e08270736",
+  "baseline": "../kasika_lang_edit_and_reader_copies/STATE.json",
+  "finite_positions": 52549,
+  "nominal_positions": 26426,
+  "nominal_readings": 30094,
+  "new_finite_positions": 18,
+  "new_finite_readings": 27,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 0,
+  "new_morphology_constructions": 2,
+  "new_morphology_interfaces": 18,
+  "new_syntax_constructions": 0,
+  "new_syntax_interfaces": 1,
+  "root": {
+    "id": "1070001",
+    "sense": "āvaraṇa",
+    "preverb": null,
+    "voice": "kartari",
+    "lakara": "laṅ",
+    "derived_suffix": null,
+    "class_marker": "śnam"
+  },
+  "rows": [
+    {
+      "slot": "3sg",
+      "pada": "P",
+      "words": [
+        "aruṇat",
+        "aruṇad"
+      ]
+    },
+    {
+      "slot": "3sg",
+      "pada": "A",
+      "words": [
+        "arunddha",
+        "arundha"
+      ]
+    },
+    {
+      "slot": "3du",
+      "pada": "P",
+      "words": [
+        "arunddhām",
+        "arundhām"
+      ]
+    },
+    {
+      "slot": "3du",
+      "pada": "A",
+      "words": [
+        "arundhātām"
+      ]
+    },
+    {
+      "slot": "3pl",
+      "pada": "P",
+      "words": [
+        "arundhan"
+      ]
+    },
+    {
+      "slot": "3pl",
+      "pada": "A",
+      "words": [
+        "arundhata"
+      ]
+    },
+    {
+      "slot": "2sg",
+      "pada": "P",
+      "words": [
+        "aruṇaḥ",
+        "aruṇat",
+        "aruṇad"
+      ]
+    },
+    {
+      "slot": "2sg",
+      "pada": "A",
+      "words": [
+        "arunddhāḥ",
+        "arundhāḥ"
+      ]
+    },
+    {
+      "slot": "2du",
+      "pada": "P",
+      "words": [
+        "arunddham",
+        "arundham"
+      ]
+    },
+    {
+      "slot": "2du",
+      "pada": "A",
+      "words": [
+        "arundhāthām"
+      ]
+    },
+    {
+      "slot": "2pl",
+      "pada": "P",
+      "words": [
+        "arunddha",
+        "arundha"
+      ]
+    },
+    {
+      "slot": "2pl",
+      "pada": "A",
+      "words": [
+        "arunddhvam",
+        "arundhvam"
+      ]
+    },
+    {
+      "slot": "1sg",
+      "pada": "P",
+      "words": [
+        "aruṇadham"
+      ]
+    },
+    {
+      "slot": "1sg",
+      "pada": "A",
+      "words": [
+        "arundhi"
+      ]
+    },
+    {
+      "slot": "1du",
+      "pada": "P",
+      "words": [
+        "arundhva"
+      ]
+    },
+    {
+      "slot": "1du",
+      "pada": "A",
+      "words": [
+        "arundhvahi"
+      ]
+    },
+    {
+      "slot": "1pl",
+      "pada": "P",
+      "words": [
+        "arundhma"
+      ]
+    },
+    {
+      "slot": "1pl",
+      "pada": "A",
+      "words": [
+        "arundhmahi"
+      ]
+    }
+  ],
+  "source_observations": [
+    "two siege clauses under one rule qualification",
+    "Mādhava rudh 1039",
+    "AVG P laṅ",
+    "Dhātu-rūpāvalī 1644 A laṅ",
+    "editing file before December 2023 change",
+    "editing file after December 2023 change"
+  ],
+  "source_decisions": [
+    "publicly known event in speaker’s possible perception",
+    "distinct written P and A alternatives",
+    "editing branch transition postdates aggregate"
+  ],
+  "new_source_observations": 6,
+  "new_source_policy_decisions": 3,
+  "pins": {
+    "grammar_construction/NATIVE_OPERATOR_LIFT.md": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+    "kasika_lang_edit_and_reader_copies/STATE.json": "b0b69c29ff2005b7f8a7d6ae21ab5da0e81e698f",
+    "snam_lat/LEXICAL_ENTRIES.json": "ca9f1d2d6b6f1772f664e74bcd42b75fc0f866a1",
+    "snam_lat/README.md": "8116bb431398a04fd1081f904fbcf328d7036d05",
+    "athematic_modals/DOMAIN.md": "417c826c27d8792b20e72f0f956e606ee1527002",
+    "athematic_modals/PARADIGMS.md": "623356e24a76ce515ae0ec2015f6f98381b6f5de",
+    "bhid_imperfect_and_root_final_ru/PARADIGMS.md": "f953d91a61ff8b4141fef340f9800dbd548852d0",
+    "bhid_middle_imperfect_and_uniform_weak_query/PARADIGMS.md": "373bf14dbf4bc775dd5f8d192d10b4d82be68baf",
+    "dated_pushpa_transcription_and_two_displaced_kasika_fields/SOURCES.json": "6f54ddd96bd151b5f1bf072d273e43dad7e83238"
+  },
+  "external": {
+    "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA1039.html": "370597555ec5b35601be8ffca9697995277e2e571551f4d4f1bef3093c6d9123",
+    "https://whm.cdsharma.in/dhatu-rupavali?id=1644": "4a0b9cd09578c0180579a8dd07b630d368bc3c6ba574544ba7a1759f862414c3",
+    "https://avg-sanskrit.org/documents/उदाहरणानि-part-ii/": "0549b2dd0c0fba2c2fbf0dfc7d538e96ac0c567030700f5a9c353ee17db23129"
+  },
+  "historical_edit": {
+    "repo": "ashtadhyayi-com/data-edit",
+    "commit": "ea72465a026b8832ef00e2675968dc3139b7fc20",
+    "parent": "970c661ad91fe03d269b74fc02221c4344868404",
+    "path": "sutraani/kashika/3/2/32111.txt",
+    "parent_blob": "9967b8f5470e43f8ba3863577f1a9631e06261bd",
+    "child_blob": "10e56b321d5fa56412736cdad6ad402b035cf377",
+    "aggregate_commit": "cd9f92b000d46045f50419968497839e368f5c55"
+  },
+  "open": [
+    "historical file used for 2023 aggregate and S3 reader propagation",
+    "other verbal domains, remaining C2–C5 and S1–S7"
+  ],
+  "execution": "Claude-deferred"
+}

@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG921 · [The imperfect of √rudh and the reported siege](research/panini_grammar/rudh_imperfect_and_the_reported_siege/README.md). PG14 retains different ending histories through optional root-final ru and the dental-cluster forks.
+
 PG920 · [The editor’s laṅ correction and the reader copies](research/panini_grammar/kasika_lang_edit_and_reader_copies/README.md). The typed edit map recovers laṅ at the editing locus. Each aggregate has independent source history.
 
 PG919 · [The twelve-day observance and its nights and days](research/panini_grammar/ksapaha_and_the_twelve_day_observance/README.md). PG14 recovery retains the period noun’s a-stem or consonantal history across the case projections.

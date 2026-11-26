@@ -1,5 +1,7 @@
 # Written Pāṇini work session · 2026-11-26
 
+PG921 · [The imperfect of √rudh and the reported siege](rudh_imperfect_and_the_reported_siege/README.md). Parent 69d5dbed65fe41cac2ec7927c2fce66e08270736. Finite +18/+27 and nominal +0/+0. Two morphology constructions, 18 interfaces, one syntax interface, six source observations and three decisions. Census 52,549 finite, 26,426 nominal and 30,094 nominal readings. Claude retains execution.
+
 PG920 · [The editor’s laṅ correction and the reader copies](kasika_lang_edit_and_reader_copies/README.md). Parent 58e91459de83af160dd924159922a46a0f421777. S3 repair observed on data-edit at 2cce12380b2a7a10cb5980e019ddde933256ac57. Seven source observations and three decisions. Finite +0/+0, nominal +0/+0, no new grammatical construction. Census 52,531 finite, 26,426 nominal and 30,094 nominal readings. Claude retains execution.
 
 PG919 · [The twelve-day observance and its nights and days](ksapaha_and_the_twelve_day_observance/README.md). Parent 75c90dec9ffc970779b2b836a0993db812ef691d. Finite +0/+0, nominal +8/+9. One morphology construction with eight interfaces, two syntax interfaces, five source observations and three decisions. Census 52,531 finite, 26,426 nominal and 30,094 nominal readings. Claude retains execution.
