@@ -1,0 +1,59 @@
+{
+  "stage": "PG928",
+  "date": "2026-11-26",
+  "publication_parent": "5e3f01791334c389057917a5426aa7b67d5950d1",
+  "baseline": "../yuj_remaining_actor_categories/STATE.json",
+  "finite_positions": 53350,
+  "nominal_positions": 26426,
+  "nominal_readings": 30094,
+  "new_finite_positions": 63,
+  "new_finite_readings": 68,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 0,
+  "new_morphology_constructions": 7,
+  "new_morphology_interfaces": 7,
+  "new_syntax_constructions": 0,
+  "new_syntax_interfaces": 0,
+  "new_source_observations": 3,
+  "new_source_policy_decisions": 5,
+  "reading_counts": {
+    "laṅ/P": 11,
+    "lṛṭ/P": 9,
+    "luṭ/P": 9,
+    "liṭ/P": 9,
+    "luṅ/P": 10,
+    "āśīrliṅ/P": 10,
+    "lṛṅ/P": 10
+  },
+  "decisions": [
+    "the source-licensed actor range is P only",
+    "slash alternatives are readings at one typed key",
+    "lṛdit aṅ supplies the selected P aorist and no sic grid is inferred",
+    "the labelled-table nasal grid owns the constructed cells",
+    "the Madhaviya short weak forms remain an unresolved source grade, not an exclusion"
+  ],
+  "coverage": {
+    "laṭ": "PG7",
+    "loṭ and vidhiliṅ": "PG22",
+    "remaining seven simple unprefixed categories": "PG928",
+    "selected_unprefixed_P_kartari_positions_across_stages": 90
+  },
+  "pins": {
+    "grammar_construction/NATIVE_OPERATOR_LIFT.md": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+    "SUTRAPATHA.tsv": "1840f3b5349b21112ac05a7efaa59705fd4efee0",
+    "yuj_remaining_actor_categories/STATE.json": "9fe41af83b454000982a0616d6b04b5d2e641093",
+    "snam_lat/LEXICAL_ENTRIES.json": "ca9f1d2d6b6f1772f664e74bcd42b75fc0f866a1",
+    "athematic_modals/PARADIGMS.md": "623356e24a76ce515ae0ec2015f6f98381b6f5de"
+  },
+  "external_files": {
+    "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA1052.html": "be31fb81710ab829a9a87a4df2fee6ae0413d28cf3fdf63a17d7be139887448b",
+    "https://whm.cdsharma.in/dhatu-rupavali?id=1657": "fb91cfa825f64fc70d7f8b9a78ed794b2a44b823f06dfac6982070ec4c6e9ee3"
+  },
+  "open": [
+    "sis passive, karmakartṛ, prefixed, derived, accent, wider textual and other lexical-sense domains",
+    "critical ancestry and priority of Madhaviya short weak forms versus the labelled-table nasal forms",
+    "remaining written C2–C5 and source S1–S7 registers"
+  ],
+  "execution": "Claude-deferred"
+}
+

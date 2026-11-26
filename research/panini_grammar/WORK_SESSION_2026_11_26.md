@@ -1,5 +1,7 @@
 # Written Pāṇini work session · 2026-11-26
 
+PG928 · [The remaining actor categories of √śiṣ](sis_remaining_actor_categories/README.md). Parent 5e3f01791334c389057917a5426aa7b67d5950d1. Finite +63/+68, nominal +0/+0. Seven morphology constructions/interfaces, three source observations and five source-policy decisions. Census 53,350 finite, 26,426 nominal and 30,094 nominal readings. The Mādhavīya short weak forms remain an unresolved source grade; Claude retains execution.
+
 PG927 · [The remaining actor categories of √yuj](yuj_remaining_actor_categories/README.md). Parent 699d9e817614efc526b04c39b6ba52a32065c5bb. Finite +126/+141, nominal +0/+0. Seven morphology constructions, fourteen category/pada interfaces, two source observations and five source-policy decisions. Census 53,287 finite, 26,426 nominal and 30,094 nominal readings. PG90–91 keep the prefixed-profile credit; Claude retains execution.
 
 PG926 · [The remaining actor categories of √kṣud](ksud_remaining_actor_categories/README.md). Parent 5f245577bb2ec4158fda638e6a8a42687ea70098. Finite +126/+148, nominal +0/+0. Seven morphology constructions, fourteen category/pada interfaces, two source observations and four source-policy decisions. Census 53,161 finite, 26,426 nominal and 30,094 nominal readings. Claude retains execution.

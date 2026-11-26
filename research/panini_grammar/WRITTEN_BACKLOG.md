@@ -1,4 +1,6 @@
-# Written-development backlog at PG927
+# Written-development backlog at PG928
+
+PG928 · [The remaining actor categories of √śiṣ](sis_remaining_actor_categories/README.md). Closed the selected simple unprefixed P-kartari ten-category grid with PG7/22. The Mādhavīya short weak spelling, other voices, prefixed/derived roots, accent, wider text and other senses remain Open.
 
 PG927 · [The remaining actor categories of √yuj](yuj_remaining_actor_categories/README.md). Closed the selected simple unprefixed kartari ten-category grids with PG7/22. PG90–91's selected prefixed profiles remain separately closed; other voices, prefix conditions, derived roots, accent, wider text and other senses remain Open.
 
@@ -101,6 +103,11 @@ PG879 · [Vasu’s *munipadī* list slip and the correct foot-rule reference](va
 PG878 · [The *bhaikṣuka* life stage and its masculine cases](the_bhaiksuka_life_stage_and_its_masculine_cases/README.md). The selected masculine life-stage seven-case panel is closed on direct nominative/genitive evidence. Vocative, accent, historical affix/ellipsis development and wider textual distribution remain Open; none is converted into an exclusion. Claude owns execution.
 
 ## Current four-part register
+
+- **PG928 closed delta.** The simple unprefixed śiṣ 7.14 P-kartari grid now closes across PG7/22/928. No A actor grid or earlier key is invented or recredited.
+- **PG928 genuine unconstructed delta.** Śiṣ passive/karmakartṛ, prefixed, derived-root, accent, wider textual and other lexical-sense requests remain Open.
+- **PG928 unresolved-source delta.** The Mādhavīya transcript's short weak *aśiṣṭām/śiṣṭaḥ* versus PG7/table nasal *aśiṃṣṭām/śiṃṣṭaḥ* needs critical ancestry and priority. Neither grade is hidden or converted into an exclusion.
+- **PG928 execution delta.** Sanskrit generation, grammar execution and certificate replay remain Claude-deferred and receive no written-development credit.
 
 - **PG927 closed delta.** The simple unprefixed yuj 7.7 kartari grids now close across PG7/22/927. PG90–91 retain first ownership of the selected prefixed contextual profiles, so no key is recredited.
 - **PG927 genuine unconstructed delta.** Yuj passive/karmakartṛ, other prefix-conditioned fibres, derived-root, accent, wider textual and other lexical-sense requests remain Open. The contextual prefix licences are not generalized.

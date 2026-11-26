@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG928 · [The remaining actor categories of √śiṣ](sis_remaining_actor_categories/README.md). The seven new P constructions retain strong/weak śnam, *śekṣya/śeṣṭā*, *śiśiṣ* and lṛdit aṅ while keeping the Mādhavīya short weak grade Open.
+
 PG927 · [The remaining actor categories of √yuj](yuj_remaining_actor_categories/README.md). The seven new simple unprefixed constructions retain strong/weak śnam, *yokṣya/yoktā*, *yuyuj*, aṅ/sic and separate P/A blessing histories without recrediting PG90–91.
 
 PG926 · [The remaining actor categories of √kṣud](ksud_remaining_actor_categories/README.md). The seven new category constructions retain strong/weak śnam, *kṣotsya/kṣottā*, *cukṣud*, aṅ/sic and separate P/A blessing histories.
