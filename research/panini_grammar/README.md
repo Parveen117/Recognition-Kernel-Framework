@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG937 · [The selected passive ten-category grid of √dā](da_selected_passive_ten_category_grid/README.md). Eight full karmaṇi categories plus the unowned luṅ cells retain patient control, yaK/zero-grade, perfect, two future/periphrastic bases, blessing and aorist alternatives; PG33/34 first-owner credits are not repeated.
+
 PG936 · [The selected passive ten-category grid of √dhā](dha_selected_passive_ten_category_grid/README.md). Ten karmaṇi constructions retain patient control, yaK/zero-grade, perfect, two future/periphrastic bases, blessing and aorist alternatives without merging identical actor-middle words.
 
 PG935 · [The remaining actor categories of √dhā](dha_remaining_actor_categories/README.md). Seven P/A constructions preserve weak-junction bhaṣ, P sic-luk versus A i-kit and the long/short benedictive source split without repeating PG9/22 or prefixed stages.

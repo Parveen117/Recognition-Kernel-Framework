@@ -1,0 +1,115 @@
+{
+  "stage": "PG937",
+  "date": "2026-11-26",
+  "publication_parent": "25150c26d67cf4079b798f30383c3f1caf196a79",
+  "baseline": "../dha_selected_passive_ten_category_grid/STATE.json",
+  "finite_positions": 54087,
+  "nominal_positions": 26426,
+  "nominal_readings": 30094,
+  "new_finite_positions": 80,
+  "new_finite_readings": 117,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 0,
+  "source_grid_positions": 90,
+  "source_grid_readings": 136,
+  "inherited_positions": 10,
+  "inherited_readings": 19,
+  "new_morphology_constructions": 9,
+  "new_morphology_interfaces": 80,
+  "new_syntax_constructions": 1,
+  "new_syntax_interfaces": 80,
+  "new_source_observations": 11,
+  "new_source_policy_decisions": 8,
+  "reading_counts": {
+    "laṭ": {
+      "source": 9,
+      "new": 9
+    },
+    "liṭ": {
+      "source": 9,
+      "new": 9
+    },
+    "luṭ": {
+      "source": 18,
+      "new": 18
+    },
+    "lṛṭ": {
+      "source": 18,
+      "new": 18
+    },
+    "loṭ": {
+      "source": 9,
+      "new": 9
+    },
+    "laṅ": {
+      "source": 9,
+      "new": 9
+    },
+    "vidhiliṅ": {
+      "source": 9,
+      "new": 9
+    },
+    "āśīrliṅ": {
+      "source": 19,
+      "new": 19
+    },
+    "luṅ": {
+      "source": 18,
+      "new": 17
+    },
+    "lṛṅ": {
+      "source": 18,
+      "new": 0
+    }
+  },
+  "inherited_credits": [
+    {
+      "stage": "PG33",
+      "domain": "complete dā basic-karma lṛṅ, both routes",
+      "positions": 9,
+      "readings": 18
+    },
+    {
+      "stage": "PG34",
+      "domain": "dā basic-karma luṅ 3sg actual ciṇ adāyi",
+      "positions": 1,
+      "readings": 1
+    }
+  ],
+  "decisions": [
+    "the same lexical root and giving sense are selected under empty preverb and karmaṇi voice",
+    "the expressed patient, not the external giver, controls person and number",
+    "passive A endings are not an actor A-pada lexical selection",
+    "equal actor-middle and passive words remain distinct voice/controller positions",
+    "slash alternatives are readings at one typed key",
+    "PG33 retains first ownership of all nine lṛṅ keys and eighteen readings",
+    "PG34 retains first ownership of luṅ 3sg adāyi",
+    "other senses, prefixes, voices, derivations and critical priority remain Open"
+  ],
+  "pins": {
+    "grammar_construction/NATIVE_OPERATOR_LIFT.md": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+    "grammar_construction/STATE_AND_COMPOSITION.md": "593f548f92c6398508db1fa943352fbe23cb51c9",
+    "SUTRAPATHA.tsv": "1840f3b5349b21112ac05a7efaa59705fd4efee0",
+    "dha_selected_passive_ten_category_grid/STATE.json": "6aa8a1779a13c5aec6e6fdda9cab445158cac2b7",
+    "da_remaining_actor_categories/STATE.json": "5f28b0f78641feca4cd152a0e53df1b3593d3792",
+    "conditional_voice/COVERAGE.json": "438d973486f236bf988efc8b9816046247340ff4",
+    "conditional_voice/PARADIGMS.md": "273d1e043449895513e8ffc320605ccdedc79dad",
+    "cin_aorist/COVERAGE.json": "9524a0d7326350c3bd5ea8bdea8b39bf3e01f1c2",
+    "cin_aorist/PARADIGMS.md": "1934900b29f9ca5fc45846f3cb33e5373a6c2b37"
+  },
+  "external_files": {
+    "https://samsaadhanii-concordance.vipran.in/dhatu/1618-duxAF-xAne-xA3": "3bc9e48dfd91b1cbdc2a8c67b4e1844e71c90beedccfeb874a4f3e0e73d51d99"
+  },
+  "external_hash_policy": {
+    "samsaadhanii_1618": "raw response bytes retrieved 2026-11-26"
+  },
+  "open": [
+    "prefixed passive, bhava, causative and other derived-root requests",
+    "nonfinite agreement, accent, wider text and optional giving conditions",
+    "critical priority and distribution of the printed alternatives",
+    "six K139 and three extended Vasu139 lexical meanings",
+    "remaining K128, patradatam, C2-C5 and source S1-S7 registers"
+  ],
+  "execution": "Claude-deferred"
+}
+

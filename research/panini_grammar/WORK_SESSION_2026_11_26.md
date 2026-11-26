@@ -1,5 +1,7 @@
 # Written Pāṇini work session · 2026-11-26
 
+PG937 · [The selected passive ten-category grid of √dā](da_selected_passive_ten_category_grid/README.md). Parent 25150c26d67cf4079b798f30383c3f1caf196a79. Source grid 90/136; inherited PG33/34 credit 10/19; finite new +80/+117, nominal +0/+0. Nine morphology constructions/80 interfaces, one patient-controller syntax construction/80 interfaces, eleven source observations and eight decisions. Census 54,087 finite, 26,426 nominal and 30,094 nominal readings. Prefixed/derived/critical work stays Open and execution remains with Claude.
+
 PG936 · [The selected passive ten-category grid of √dhā](dha_selected_passive_ten_category_grid/README.md). Parent ad9d1ce4a8706d26d0d35dce412a5d4eb8d61975. Finite +90/+136, nominal +0/+0. Ten morphology constructions/90 interfaces, one patient-controller syntax construction/90 interfaces, eleven source observations and seven decisions. Census 54,007 finite, 26,426 nominal and 30,094 nominal readings. Actor homographs remain separate keys; prefixed/derived/critical work stays Open and execution remains with Claude.
 
 PG935 · [The remaining actor categories of √dhā](dha_remaining_actor_categories/README.md). Parent 657537a97bbccccf6196dc1d19eddf6aa81e803a. Finite +126/+131, nominal +0/+0. Seven morphology constructions, fourteen category/pada interfaces, four source observations and six source-policy decisions. Census 53,917 finite, 26,426 nominal and 30,094 nominal readings. Electronic short *dhasīṣṭa* remains Open; Claude retains execution.
