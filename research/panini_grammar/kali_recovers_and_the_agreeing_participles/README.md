@@ -1,0 +1,21 @@
+# PG980 · Kālī regains consciousness
+
+In the Niryāvalikā edition with Ātmarām’s commentary, first varga §18, printed p. 35 ends with the Prakrit text. Kālī Devī has fallen unconscious on hearing about her son. After an interval she recovers, rises and addresses Mahāvīra. Printed p. 36 gives the Sanskrit chāyā (rendering) of her recovery. The mūla has **आसत्था समाणी**; the chāyā has **आश्वस्ता सती**. The following word gloss explains her return to consciousness. These are different linguistic witnesses on facing pages of the same edition. The chāyā supplies an actual Sanskrit feminine nominative singular of simple ā + śvas in its aniṭ formation. Recovery from a faint specifies the sense here. There is no grammatical causee or expressed causer in the participle, even though the wider narrative describes other people helping her up. The lexical alternative with iṭ in PG979 has no token in this line. [Niryāvalikā, PDF leaves 113–114, printed pp. 35–36](https://jainworld.jainworld.com/JWHindi/Books/Nirayavalika_Sutra_002208_STD.pdf#page=113)
+
+## Three agreeing properties
+
+Use PG979’s three inputs with supplied feminine or neuter controllers. The first has pari + vi and expresses having grown confident. The second has ā and ṇic and applies to the reassured participant. The third has ā and simple kta and applies to the recovered participant. The Kāśakṛtsna reading as reported in Mādhavīya and the Kāśikā example use the short radical and no iṭ; the Ātreya/Maitreya report also permits iṭ. The two alternatives share the same case request. Attribution attaches to the reading even when the controller is changed. [Affix and participant histories](../the_birds_in_jajalis_hair/README.md)
+
+| Input | Feminine nominative singular | Neuter nominative singular | Neuter nominative plural |
+|---|---|---|---|
+| pari + vi, simple | pariviśvastā | pariviśvastam | pariviśvastāni |
+| ā, causal | āśvāsitā | āśvāsitam | āśvāsitāni |
+| ā, simple | āśvastā / āśvasitā | āśvastam / āśvasitam | āśvastāni / āśvasitāni |
+
+In the feminine, ṭāp supplies the long ā of the derived stem. Take the complete feminine case schedule at PG972. In the neuter the direct duals and plurals share their forms across nominative, accusative and address; the grammatical requests remain distinct. Initial preverb ā, radical a or ā, the iṭ boundary and the final case ending have separate owners. The earlier r of pari cannot trigger retroflexion across ś and t. Select dental n in all four bases. The neuter is an adjective agreeing with a supplied neuter referent. An impersonal action noun in the neuter would require a different construction. The ablative singular voicing alternative affects the neuter panel. [Case and number schedule](../imperishable_water_and_the_four_adjective_genders/STATE.json) · [Complete written words](FORMS.tsv)
+
+The three feminine panels add 72 positions and 96 readings. The three neuter panels add 72 positions and 100 readings. Of these 144 positions, one has direct evidence in the cited Sanskrit chāyā, for one of its two allowed readings. Direct contextual evidence for the remaining 143 and the other reading of that first cell remains Open. No new masculine, finite, independent Prakrit, or subsidiary satī position is claimed.
+
+## Typed specialization
+
+Lift each PG979 stem history on PG14’s paired right modules through separate feminine and neuter agreement cuts. On the feminine cut adjoin the ṭāp history before the case operation. On the neuter cut retain the a-stem and select the appropriate ending and direct-case operations. Give the chāyā reading an evidence edge whose domain includes the edition, language, femininity, singular number and aniṭ policy. The Prakrit observation has its own grade. For an allowed edge h → k with coefficient 1+z, projecting e_k(1+z)b yields e_k ε(b). The corresponding classical agreement or evidence edge after input projection gives the same result. Outside each cut the two images vanish. Multiplicativity and preservation of dagger extend the equality to ordered compounds of edges and their adjoints. In particular the attestation edge is zero on the iṭ and neuter histories even though the case-construction edges on those histories are defined. [Full carrier](../grammar_construction/NATIVE_OPERATOR_LIFT.md)
