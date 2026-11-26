@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG997
+# Pāṇini grammar · current written coverage at PG998
+
+PG998 · [The 1898 print resolves the lṛṅ label](trivedi_print_for_the_conditional_and_two_cinvat_branches/README.md). Trivedī’s p. 290 prints lṛṅ and explicitly assigns both dṛś affix branches. The apparatus distinguishes c. from C. and restores D’s doubled c. Zero new word positions or readings. Census 56,398 finite positions, 27,539 nominal positions and 31,310 nominal readings.
 
 PG997 · [Speaking, praising and seeing in Bhaṭṭi XXI.3–5](bhatti_speaking_praising_and_seeing/README.md). Three active conditional grids add 27 finite positions/27 readings. Two attested dṛś patients independently confirm the ordinary and ciṇvat branches of PG33. Census 56,398 finite positions, 27,539 nominal positions and 31,310 nominal readings.
 

@@ -1,0 +1,61 @@
+{
+  "stage": "PG998",
+  "date": "2026-11-27",
+  "publication_parent": "f06adaca33a21730def4faf16d7485a026ec703e",
+  "baseline": "../bhatti_speaking_praising_and_seeing/STATE.json",
+  "finite_positions": 56398,
+  "nominal_positions": 27539,
+  "nominal_readings": 31310,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 0,
+  "new_morphology_constructions": 0,
+  "new_syntax_constructions": 0,
+  "new_source_observations": 6,
+  "new_source_policy_decisions": 5,
+  "file_pins": {
+    "bhatti_speaking_praising_and_seeing/STATE.json": "993f369793e96619f76835a21b31eb2f30325699",
+    "bhatti_speaking_praising_and_seeing/README.md": "57ea4716b102a133224ae4dbda89492e3fba4ec8",
+    "the_short_reproach_and_the_two_requests/STATE.json": "ff5efb7b0d5d72b1046d71d2f53ea73ccd1abcba",
+    "bhatti_the_reproach_and_the_fire_who_protects/STATE.json": "5d4bdf29d99a1b208a9c6a6bd4e9a64e21a12f5d",
+    "conditional_voice/CONSTRUCTION.md": "411bd85d97437ebb6bbb59511bf5466e110ea147",
+    "grammar_construction/NATIVE_OPERATOR_LIFT.md": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+    "SUTRAPATHA.tsv": "1840f3b5349b21112ac05a7efaa59705fd4efee0"
+  },
+  "source_sha256": {
+    "https://archive.org/download/in.ernet.dli.2015.326013/2015.326013.Bhatti-kavya-Or.pdf": "d2994db349f0642dbaaabdf8ec4c457ac50ae1f5c775bdf835be33df0f0d1515",
+    "https://vishvasa.github.io/rAmAyaNam/kAvyam/padyam/bhaTTiH/mallinAthaH/bhaTTikAvyam_dvitIyo_bhAgaH/": "a9c6e5b16d24fcadedefdd500c8b34e99aa82ffe27bcceaddcd8ce361fa1afca"
+  },
+  "print_edition": "Bombay 1898, Trivedī, vol. II, first edition, BSS LVII",
+  "render_command": "pdftoppm -jpeg -f 297 -l 299 -r 200",
+  "print_pages": {
+    "288": {
+      "pdf_page": 297,
+      "render_sha256": "8972296a3acbd44a69fdbd7108a713db6febded30fe40b16dd7113015b51241b"
+    },
+    "289": {
+      "pdf_page": 298,
+      "render_sha256": "a41a1495f7e6e3918b5ef0df4b847dfcaaddcd85a35d9fd5874b78bc249b9ed7"
+    },
+    "290": {
+      "pdf_page": 299,
+      "render_sha256": "129c01978f3b59731111f2f230500ac0fa0d946fdb28ef44df52e2128d9d176c"
+    }
+  },
+  "title_pdf_page": 2,
+  "decisions": {
+    "XXI.4": "printed lṛṅ resolves the transcript mismatch",
+    "XXI.5": "commentary explicitly owns both iṭ treatment paths",
+    "XXI.1 n1": "c. and C. are distinct report sigla",
+    "XXI.1 n2": "short initial positively attested in apparatus",
+    "XXI.3 n1": "D print favors active -yat at the junction; lexical licence Open"
+  },
+  "open": [
+    "D lexical/pada licence and witness identification",
+    "full diplomatic comparison of the abbreviated root vowel at XXI.1",
+    "S1 distinct passage VII.103",
+    "remaining C2–C5 and residual sources"
+  ],
+  "execution": "Claude-deferred"
+}
