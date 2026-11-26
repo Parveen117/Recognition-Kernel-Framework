@@ -1,0 +1,92 @@
+{
+  "stage": "PG974",
+  "publication_parent": "64cf39da1ee2013881d357c80dc933fb09440414",
+  "baseline": "../drying_and_falling_in_three_present_system_categories/STATE.json",
+  "date": "2026-11-26",
+  "finite_positions": 55468,
+  "nominal_positions": 27032,
+  "nominal_readings": 30717,
+  "new_finite_positions": 4,
+  "new_finite_readings": 4,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 0,
+  "common": {
+    "root": "1070001 rudh in āvaraṇa",
+    "construction": "karmakartṛ, cow itself",
+    "person": 3,
+    "number": "sg",
+    "pada": "A",
+    "formation": "simple"
+  },
+  "columns": [
+    "ordered_preverbs",
+    "category",
+    "source_form",
+    "policy"
+  ],
+  "rows": [
+    [
+      "∅",
+      "laṭ",
+      "रुद्ध्यते",
+      "Mādhavīya 1039"
+    ],
+    [
+      "∅",
+      "luṅ",
+      "अरुद्ध",
+      "Mādhavīya 1039"
+    ],
+    [
+      "anu",
+      "laṭ",
+      "अनुरुन्धे",
+      "Dvivedī I.144"
+    ],
+    [
+      "anu",
+      "luṅ",
+      "अन्वरुद्ध",
+      "Dvivedī I.144"
+    ]
+  ],
+  "new_morphology_constructions": 0,
+  "new_morphology_interfaces": 0,
+  "new_syntax_constructions": 1,
+  "new_syntax_interfaces": 3,
+  "new_source_observations": 4,
+  "new_source_policy_decisions": 4,
+  "sources": {
+    "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA1039.html": {
+      "locus": "1039",
+      "sha256": "370597555ec5b35601be8ffca9697995277e2e571551f4d4f1bef3093c6d9123"
+    },
+    "https://www.rarebooksocietyofindia.org/book_archive/196174216674_10154963396476675.pdf": {
+      "locus": "I.86, PDF 118",
+      "sha256": "3662d22128be971e1e6e91232e6e0f847fabe4f5bdc5b2f7e0f6435171fedffe"
+    },
+    "https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/html/sa_bhaTTi-rAvaNavadha.htm": {
+      "locus": "6.34",
+      "sha256": "ae9f98414a59fc0375801e033c3aea5989bca2d92eaad8930bf2c70b1a137105"
+    },
+    "https://archive.org/details/sringaraprakasabhojarewaprasadadwivedisantanasadashivakumaradwivedivol1ignca/page/n246/mode/1up": {
+      "locus": "I.144, PDF 247, _text.pdf",
+      "sha256": "76dc8644b350443d5d1231d84a6ea260c7b292d15b1e189fabe5f0431d05629a"
+    }
+  },
+  "pins": {
+    "drying_and_falling_in_three_present_system_categories/STATE.json": "a413095b5a5e72c20da4f4dcfbbb58dc3e82ba38",
+    "rudh_outer_lakaras_and_actor_grid/FINITE_FORMS.tsv": "57b7570560f6b7c717858c5bd58ba692e0132336",
+    "rudh_yuj_sis_pis_patient_grids/FINITE_FORMS.tsv": "ae7bccf735004c8088e28d2f25bb7102216329f1",
+    "compound_case_derivation/RULES_3_1_B.md": "76561e45b599118816bd4150ba44772aaf875667",
+    "compound_case_derivation/SOURCE_EXCERPTS.json": "5a569802d83a4e02f6d4c65bb44c6922fe8019cc",
+    "bhatti_verse_concordance/CONCORDANCE.tsv": "914614d32c0e99e02daf041485e108a2fc4c6d91",
+    "grammar_construction/NATIVE_OPERATOR_LIFT.md": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b"
+  },
+  "open": [
+    "Doubled cluster in the unprefixed present",
+    "Manuscript descent of the single and paired cow readings and of final ṇic",
+    "Other self-agent requests, K128, K139, Vasu139, patradatam, C2–C5, S1–S7"
+  ],
+  "execution": "Claude-deferred"
+}

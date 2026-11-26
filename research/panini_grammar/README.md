@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG974 · [Who confines the cow?](rudh_cow_and_the_expressed_agent/README.md). Mādhavīya and the Dvivedī print each give a present and an aorist. Four self-agent positions/four readings distinguish the unprefixed and anu frames. Two Bhoja prints retain ciṇ in the explanation and ṇic in the recap. Census 55,468 finite positions, 27,032 nominal positions and 30,717 nominal readings.
+
 PG973 · [The penalty that is to fall](drying_and_falling_in_three_present_system_categories/README.md). The epic command distinguishes the controlled penalty from the plural recipients. Six panels complete the selected four present-system categories of causal-passive śuṣ and pat, adding 54 finite positions/54 readings. Census 55,464 finite positions, 27,032 nominal positions and 30,717 nominal readings.
 
 PG972 · [Water that does not dry up](imperishable_water_and_the_four_adjective_genders/README.md). The lesson identifies a ṇyat analysis for akledya and Varāhamihira supplies neuter agreement. The remaining feminine and neuter panels add 192 nominal positions/196 readings. Census 55,410 finite positions, 27,032 nominal positions and 30,717 nominal readings.
