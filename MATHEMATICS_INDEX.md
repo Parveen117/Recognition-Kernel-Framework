@@ -1,5 +1,9 @@
 # Canonical Mathematics Index
 
+PG944 · [Eater and food in the two voice grids of √hu](research/panini_grammar/hu_eating_actor_and_patient/README.md). PG14 preserves the source sense and the eater/food controller cut across coincident words.
+
+PG943 · [The six remaining impersonal categories of √hu](research/panini_grammar/hu_impersonal_remaining_categories/README.md). The typed projection retains the two policies sharing āse, the source-table comparison and the distinction between actual ciṇ and ciṇ-like strengthening.
+
 PG942 · [Impersonal √hu with one or several offerers](research/panini_grammar/hu_incorporated_offering_bhava/README.md). PG14 preserves agent histories through a common 3sg action slot and four separately typed category outputs.
 
 PG941 · [When the offering controls agreement with √hu](research/panini_grammar/hu_offering_valency/README.md). The PG14 projection preserves both Vedic case histories. The offering-to-controller operator vanishes on the incorporated-offering input type.

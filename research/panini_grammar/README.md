@@ -1,5 +1,9 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG944 · [Eater and food in the two voice grids of √hu](hu_eating_actor_and_patient/README.md). Kṣīrataraṅgiṇī distinguishes eating from casting an offering. The agreement contrast selects eater or food across 180 written requests.
+
+PG943 · [The six remaining impersonal categories of √hu](hu_impersonal_remaining_categories/README.md). Actual ciṇ, optional ciṇ-like strengthening and the action-expressing perfect auxiliaries have distinct source and affix owners.
+
 PG942 · [Impersonal √hu with one or several offerers](hu_incorporated_offering_bhava/README.md). The same agent-number diagnostic holds for the present, imperative, imperfect and optative. PG938 owns the patient-controlled homographs.
 
 PG941 · [When the offering controls agreement with √hu](hu_offering_valency/README.md). The ordinary and Vedic actor case paths and PG938 passive agreement now carry the commentary policy that licenses the independent offering.

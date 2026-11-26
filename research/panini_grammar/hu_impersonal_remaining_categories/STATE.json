@@ -1,0 +1,66 @@
+{
+  "stage": "PG943",
+  "date": "2026-11-26",
+  "publication_parent": "91ea30a1ceed67e430e49328fa0ce98cf9e59714",
+  "baseline": "../hu_incorporated_offering_bhava/STATE.json",
+  "finite_positions": 54367,
+  "nominal_positions": 26426,
+  "nominal_readings": 30094,
+  "new_finite_positions": 6,
+  "new_finite_readings": 14,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 0,
+  "new_morphology_constructions": 3,
+  "new_morphology_interfaces": 6,
+  "new_syntax_constructions": 0,
+  "new_syntax_interfaces": 0,
+  "new_source_observations": 0,
+  "new_source_policy_decisions": 3,
+  "observations": [],
+  "decisions": [
+    "Apply the coupled ciṇvat/iṭ alternatives of 6.4.62 to the four eligible action requests.",
+    "Use actual ciṇ at original ta under 3.1.66.",
+    "Apply the 3sg action-expressing auxiliary policy, retaining H/I/S and the bhū copy-vowel decision separately from the record-1592 table."
+  ],
+  "pins": {
+    "grammar_construction/NATIVE_OPERATOR_LIFT.md": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+    "grammar_construction/VOICE_AND_PADA.md": "ab11db0e580fe7ca064b96890310e2a41caf851e",
+    "hu_dana_selected_passive_ten_category_grid/FINITE_FORMS.tsv": "e2aa07094b55e0709e9065fb5d86864513ac8045",
+    "hu_dana_selected_passive_ten_category_grid/STATE.json": "20929931ffda14877199ec4fb52f1874faec94e7",
+    "hu_offering_valency/STATE.json": "5299bec2b2a3e1c48d592cfba245b78f0f63c70e",
+    "derived_blessing_perfect/SOURCE_DECISIONS.md": "070182e241275326a8d5a1a72b4264daeac9a3d6",
+    "hu_incorporated_offering_bhava/STATE.json": "495b75226ff17ec266a92ab45873d18f66a1fbd4",
+    "hu_incorporated_offering_bhava/FINITE_FORMS.tsv": "ba3e9a43d067fc0b224d879cab03ece1bd637c5b",
+    "anga_affix_abhyasa/RULES_6_4_A.md": "6b54c4e8bdf02024f6d55a581a57928bf255cda8",
+    "cin_aorist/CONSTRUCTION.md": "cfa5fd62d7ad9d569d5719adbe7e98952f322670",
+    "independent_written_closure/RULES_C2.md": "c50b6fe649da089afdb1c18573fa602d07f54add",
+    "derived_blessing_perfect/SOURCE_EXCERPTS.json": "039b404eec679179f7b2760f513b3f7811371deb"
+  },
+  "external_files": {
+    "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA732.html": "1a4367434f90a40b7bb7bddab6aaf30be5bf8cc0e7d970dab2980bb00c4c9157",
+    "https://samsaadhanii-concordance.vipran.in/dhatu/1592-hu-xAne-hu1": "77e6a3876069456ddb4eb6da144b0f68771affdcd9f6c98dae74a955dde02440"
+  },
+  "execution": "Claude-deferred",
+  "constructions": [
+    "coupled ordinary/ciṇvat formation at four categories",
+    "actual ciṇ before original ta",
+    "simple and optional ām perfect with 3sg A auxiliaries"
+  ],
+  "reading_counts": {
+    "liṭ": 5,
+    "luṭ": 2,
+    "lṛṭ": 2,
+    "āśīrliṅ": 2,
+    "luṅ": 1,
+    "lṛṅ": 2
+  },
+  "scope_total": {
+    "positions": 10,
+    "readings": 18
+  },
+  "open": [
+    "direct attestation in this sense and voice",
+    "critical distribution of auxiliary policies",
+    "inherited C2–C5 and S1–S7"
+  ]
+}

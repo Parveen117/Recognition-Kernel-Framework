@@ -1,4 +1,11 @@
-# Written-development backlog at PG942
+# Written-development backlog at PG944
+
+PG943–944 · [The six remaining impersonal categories of √hu](hu_impersonal_remaining_categories/README.md) and [Eater and food in the two voice grids of √hu](hu_eating_actor_and_patient/README.md).
+
+- **Closed.** Four PG942 and six PG943 3sg A requests complete the ten-category incorporated-offering grid on the stated commentary policies. Both ten-category finite grids for record 1591 eating are closed under its named table policy. PG938 retains record 1592. The PG335 correction, PG340/346 actor grids, PG349–352 niṣṭhā, PG355–360 bhid grid and PG357–363 CLOSED results retain their ownership.
+- **Unconstructed.** Ordered preverbs and derived roots for eating, its nonfinite agreement, wider nominal and verbal classes, affix semantics and connected syntax remain in C2–C5. Six K139 and three extended-Vasu139 meanings, the K128 inner variants and the patradatam fork retain their named registers.
+- **Unresolved source readings.** Direct impersonal attestations, the short-a/long-ā textual distribution and the source of the electronic perfect's auxiliary convention remain Open. S2 still needs the early field reassignment. PG920 established the S3 editing correction; reader propagation and the exact bulk-edit input remain distinct questions. The other S1–S7 entries keep their evidence requirements.
+- **Claude-deferred execution.** Sanskrit generators, grammar execution, untouched old suites and certificate replay.
 
 PG942 · [Impersonal √hu with one or several offerers](hu_incorporated_offering_bhava/README.md). **Closed** for simple √hu on the incorporated-offering analysis: laṭ, loṭ, laṅ and vidhiliṅ bhāve, 3sg A. **Unconstructed** on this policy: the other six categories. The adjacent eating record, ordered preverbs and derived roots remain Open. **Unresolved sources** include direct attestations of these impersonal uses and the critical distribution of the policies. K139/Vasu139, K128, patradatam and C2–C5/S1–S7 retain their entries below. **Claude-deferred** work includes grammar execution, generators, old suites and replay.
 

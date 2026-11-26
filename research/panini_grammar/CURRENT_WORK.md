@@ -1,4 +1,8 @@
-# Pāṇini grammar · current written coverage at PG942
+# Pāṇini grammar · current written coverage at PG944
+
+PG944 · [Eater and food in the two voice grids of √hu](hu_eating_actor_and_patient/README.md). The selected record-1591 eating sense adds 90 actor positions/122 readings and 90 patient positions/164 readings. Census 54,547 finite, 26,426 nominal positions and 30,094 nominal readings.
+
+PG943 · [The six remaining impersonal categories of √hu](hu_impersonal_remaining_categories/README.md). Six 3sg A positions and fourteen readings complete the scoped impersonal grid at ten positions/eighteen readings across PG942–943. Census 54,367 finite.
 
 PG942 · [Impersonal √hu with one or several offerers](hu_incorporated_offering_bhava/README.md). The incorporated-offering policy supplies four impersonal 3sg A positions/four readings. Census 54,361 finite positions, 26,426 nominal positions and 30,094 nominal readings.
 
