@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG910 · [Feminine and neuter cases of indefinite *tva*](tva_feminine_and_neuter_pronominal_cases/README.md). Two formal panels distinguish the two long-śī dual operations, the neuter dental num and the feminine singular syāṭ policies. The table marks direct evidence separately.
+
 PG909 · [Vasu’s printed kalahaṃsapadī](vasu_printed_kalahamsapadi/README.md). Printed page 1030 fixes the internal anusvāra in kalahaṃsapadī and confirms the printed origin of the short i and rule pointer recorded in PG879.
 
 PG908 · [Vedic singular obliques of *viśva*](visva_vedic_singular_obliques/README.md). Segmented and continuous texts give the three oblique spellings. The neuter and masculine singular locatives survive as distinct histories through the PG14 observation map.

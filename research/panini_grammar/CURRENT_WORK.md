@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG909
+# Pāṇini grammar · current written coverage at PG910
+
+PG910 · [Feminine and neuter cases of indefinite *tva*](tva_feminine_and_neuter_pronominal_cases/README.md). Whitney’s ordinary declension supplies 38 new nominal positions and 39 readings. Two directly witnessed feminine keys were already in PG907. Census 52,531 finite, 26,386 nominal and 30,051 nominal readings.
 
 PG909 · [Vasu’s printed kalahaṃsapadī](vasu_printed_kalahamsapadi/README.md). The scan and PG629’s electronic source agree on कलहंसपदी. Correcting its Roman rendering preserves 24 existing case readings and all counts. The printed page also locates PG879’s two diplomatic discrepancies. Census 52,531 finite, 26,348 nominal and 30,012 nominal readings.
 
