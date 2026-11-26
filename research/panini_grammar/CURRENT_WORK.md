@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG953
+# Pāṇini grammar · current written coverage at PG955
+
+PG954–955 · [Two printed lists at 5.4.128](printed_dvidandi_lists_and_elephant_example/README.md) and [Counting ears and collections](shrautra_bodily_ear_and_collective_cases/README.md). K128 has a printed short inventory head beside a long worked example. The bodily and collective nouns now have their complete ordinary neuter case panels. Census 54,547 finite positions, 26,592 nominal positions and 30,264 nominal readings.
 
 PG953 · [The hearing faculty in the printed commentaries](hearing_faculty_in_the_printed_nyasa_and_padamanjari/README.md). The print supplies the missing r, identifies the hearing faculty, and attributes two readings of the citation endings. Census 54,547 finite, 26,552 nominal positions and 30,222 nominal readings.
 

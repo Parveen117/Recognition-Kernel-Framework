@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG954–955 · [Two printed lists at 5.4.128](printed_dvidandi_lists_and_elephant_example/README.md) and [Counting ears and collections](shrautra_bodily_ear_and_collective_cases/README.md). The printed lists distinguish member order, spelling and scope. The case panel counts ears or collections according to the original affix relation. Census 54,547 finite positions, 26,592 nominal positions and 30,264 nominal readings.
+
 PG953 · [The hearing faculty in the printed commentaries](hearing_faculty_in_the_printed_nyasa_and_padamanjari/README.md). Nyāsa prints śrotram and Padamañjarī names the indriya. The singular-citation restriction has a reported rival.
 
 PG952 · [The echo in two ritual lists](echo_in_the_ritual_lists_and_the_hearing_person/README.md). Two ritual lists identify one dative; a locative gloss explains the companion adjective in the Upaniṣad.

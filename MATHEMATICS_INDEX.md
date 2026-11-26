@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG954–955 · [Two printed lists at 5.4.128](research/panini_grammar/printed_dvidandi_lists_and_elephant_example/README.md) and [Counting ears and collections](research/panini_grammar/shrautra_bodily_ear_and_collective_cases/README.md). PG14 preserves the example/list grade, the counted referent and the three independent nasal histories. Census 54,547 finite positions, 26,592 nominal positions and 30,264 nominal readings.
+
 PG953 · [The hearing faculty in the printed commentaries](research/panini_grammar/hearing_faculty_in_the_printed_nyasa_and_padamanjari/README.md). The distinct sensory and bodily grades survive PG14 specialization.
 
 PG952 · [The echo in two ritual lists](research/panini_grammar/echo_in_the_ritual_lists_and_the_hearing_person/README.md). PG14 distinguishes the case history from junction and subsequent adjective formation.

@@ -1,4 +1,6 @@
-# Written-development backlog at PG953
+# Written-development backlog at PG955
+
+PG954–955 · [Two printed lists at 5.4.128](printed_dvidandi_lists_and_elephant_example/README.md) and [Counting ears and collections](shrautra_bodily_ear_and_collective_cases/README.md). **Closed** for the two ordinary śrautra noun panels, the K128 print-level example/list vowel pair, the Vasu parenthesis and item 21 membership. **Unconstructed** domains include the other prajñādi members, wider C2–C5 lexical, verbal and sentence domains. **Unresolved** are the extended K128 meanings, VCP readings and formation, the six K139 and three extended-Vasu139 meanings, patradatam, accent and S1–S7 evidence below. **Claude-deferred** execution retains its existing scope. Census 54,547 finite positions, 26,592 nominal positions and 30,264 nominal readings.
 
 PG953 · [The hearing faculty in the printed commentaries](hearing_faculty_in_the_printed_nyasa_and_padamanjari/README.md). **Closed** for the leaf-381 printed Nyāsa fallback, Padamañjarī’s explicit hearing-faculty contrast, and the attribution of two citation policies. **Unconstructed** are wider śrautra cases and the remaining PG578 lexical admissions. **Unresolved sources** include the digital transmission of the missing r, which citation policy governs broader usage, the six K139 and three extended-Vasu139 meanings, K128 variants, patradatam and S1–S7. C2–C5 remain open. **Claude-deferred** execution continues.
 

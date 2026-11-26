@@ -1,0 +1,59 @@
+{
+  "stage": "PG954",
+  "date": "2026-11-26",
+  "publication_parent": "31a79c0af86e879f30c39cdd3421a9614ad8999a",
+  "baseline": "../hearing_faculty_in_the_printed_nyasa_and_padamanjari/STATE.json",
+  "finite_positions": 54547,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_syntax_constructions": 0,
+  "new_syntax_interfaces": 0,
+  "execution": "Claude-deferred",
+  "nominal_positions": 26552,
+  "nominal_readings": 30222,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 0,
+  "new_morphology_constructions": 0,
+  "new_morphology_interfaces": 0,
+  "new_source_observations": 4,
+  "observations": [
+    "Two prohya vowel lengths on Shastri p.418.",
+    "Both prints have the danti pair in distinct positions.",
+    "Vasu p.1028 prints a parenthesis at item 17.",
+    "Vasu prints antevāsi at 21 after the end shared with the shorter list."
+  ],
+  "new_source_policy_decisions": 3,
+  "decisions": [
+    "Distinguish the inventory head from the elephant sentence on the same page.",
+    "Align the tooth and ear pairs by head before comparing their order.",
+    "Admit the extended Vasu membership and parenthetic formatting at print level."
+  ],
+  "open": [
+    "Diplomatic conjunct in Vasu item 17, extra member meanings, VCP tokens and textual descent",
+    "Selected C2–C5 and S1–S7 registers"
+  ],
+  "sources": [
+    {
+      "url": "https://archive.org/details/fPGT_kashika-vritti-with-nyasa-commentary-by-acharya-jinendra-buddhipada-and-padamanj/page/n447/mode/1up",
+      "file": "Kashika Vritti with Nyasa Commentary by Acharya Jinendra Buddhipada and Padamanjari Commentary by Haradatta Mishra Vol. 4 Ed. by Swami Dwarika Das Shastri Series No. 3 - Sudhi Publication_text.pdf",
+      "pdf_page": 448,
+      "printed_page": 418,
+      "sha256": "03e607d0f403a9fd27290ed5c336b273bf15c425e655876f500dfc2b1bb3d489"
+    },
+    {
+      "url": "https://www.wilbourhall.org/pdfs/chandravasu/book5.pdf#page=205",
+      "file": "book5.pdf",
+      "pdf_page": 205,
+      "printed_page": 1028,
+      "sha256": "c3289a3ab0775976f071e3ecc5aea65ecf574dad8d4227a2ea8934d2bd92f2b0"
+    }
+  ],
+  "pins": {
+    "hearing_faculty_in_the_printed_nyasa_and_padamanjari/STATE.json": "a1b1fadafff46fd30a7e72dd8b81a08867af8336",
+    "eight_padi_lexical_domains_and_resolved_named128_meanings/SOURCES.json": "43ea835fe553c10347220f73cf88602016a693cb",
+    "eight_padi_lexical_domains_and_resolved_named128_meanings/RELATION.json": "02169744059103d8c89b5758c1c724289552195b",
+    "named_both_member_combat_senses_and_positive_short_prohyapadi/DERIVATION_AND_NATIVE_RECOVERY.md": "dc5aaafc69a98e23d3443b3d89492cb37e5bb4b3",
+    "reciprocal_ic_named_action_frames_and_deleted_suffix_visibility/DERIVATION_AND_NATIVE_RECOVERY.md": "ed604c3c7789530d59ab88acc5d32d727be578ed",
+    "grammar_construction/NATIVE_OPERATOR_LIFT.md": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b"
+  }
+}
