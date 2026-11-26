@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG922
+# Pāṇini grammar · current written coverage at PG923
+
+PG923 · [The remaining actor categories of √chid](chid_remaining_actor_categories/README.md). The selected unprefixed actor grids now have 180 positions across PG7/22/923. Added 126 finite positions and 148 readings. Census 52,783 finite, 26,426 nominal and 30,094 nominal readings.
 
 PG922 · [The six outer categories of √rudh](rudh_outer_lakaras_and_actor_grid/README.md). The two selected ten-category kartari grids now have 180 positions across stages. Added 108 finite positions and 121 readings. Census 52,657 finite, 26,426 nominal and 30,094 nominal readings.
 

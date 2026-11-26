@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG923 · [The remaining actor categories of √chid](research/panini_grammar/chid_remaining_actor_categories/README.md). The PG14 lexical/pada/category cuts retain 126 typed requests and every alternative history; the full operator action specializes to the published word table without identifying equal surfaces.
+
 PG922 · [The six outer categories of √rudh](research/panini_grammar/rudh_outer_lakaras_and_actor_grid/README.md). The PG14 ir/P cut admits aṅ alongside sic. The independent A kit cut retains the short root vowel.
 
 PG921 · [The imperfect of √rudh and the reported siege](research/panini_grammar/rudh_imperfect_and_the_reported_siege/README.md). PG14 retains different ending histories through optional root-final ru and the dental-cluster forks.
