@@ -1,0 +1,72 @@
+{
+  "stage": "PG920",
+  "date": "2026-11-26",
+  "publication_parent": "58e91459de83af160dd924159922a46a0f421777",
+  "baseline": "../ksapaha_and_the_twelve_day_observance/STATE.json",
+  "finite_positions": 52531,
+  "nominal_positions": 26426,
+  "nominal_readings": 30094,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 0,
+  "new_morphology_constructions": 0,
+  "new_morphology_interfaces": 0,
+  "new_syntax_constructions": 0,
+  "new_syntax_interfaces": 0,
+  "source_observations": [
+    "editing parent field",
+    "edited field",
+    "reader bundle routes",
+    "CDN field",
+    "same-site field",
+    "editing Bāla 82025",
+    "editing Tattva 82025"
+  ],
+  "source_decisions": [
+    "S3 editorial correction observed",
+    "three distribution routes retain old reading on retrieval",
+    "editing correction is confined to 32111; S2 remains open"
+  ],
+  "new_source_observations": 7,
+  "new_source_policy_decisions": 3,
+  "pins": {
+    "grammar_construction/NATIVE_OPERATOR_LIFT.md": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+    "ksapaha_and_the_twelve_day_observance/STATE.json": "a1f6815210b08224e33238e5b9097e524c1ca66a",
+    "december_2018_api_exports_at_dhi_ca_and_anadyatana/STATE.json": "8063f238dadacd3bd5f819d5b7537b2714b0838e",
+    "dated_pushpa_transcription_and_two_displaced_kasika_fields/SOURCES.json": "6f54ddd96bd151b5f1bf072d273e43dad7e83238",
+    "anadyatana_direct_parent_lung_transition/SOURCES.json": "43015490bdcd3a4d37191022215eec95c15b6b0f"
+  },
+  "editorial": {
+    "repo": "ashtadhyayi-com/data-edit",
+    "author": "Neelesh Bodas",
+    "at": "2026-11-25T05:51:03Z",
+    "parent": "55d0a19450f21634860485ab0a9bac5e12c3cb2e",
+    "commit": "2cce12380b2a7a10cb5980e019ddde933256ac57",
+    "path": "sutraani/kashika/32111.txt",
+    "before_blob": "10e56b321d5fa56412736cdad6ad402b035cf377",
+    "after_blob": "460699a06bcae4fda201b685689a04a607173e73",
+    "controls": {
+      "sutraani/balamanorama/82025.txt": "d396aa3e373498fe9f53e8a35719072af3c1bf0a",
+      "sutraani/tattvabodhini/82025.txt": "dc7641025c989c27120fa18a124397da42fdeaa5"
+    }
+  },
+  "reader_master": {
+    "repo": "ashtadhyayi-com/data",
+    "commit": "db9a7f1dba06159e6bcd6efb92c9d01857939947",
+    "path": "sutraani/kashika.txt",
+    "blob": "33aee69f03d8c88d8406875c82b5d0fb1bec9b7d",
+    "key": "32111"
+  },
+  "web_files": {
+    "https://ashtadhyayi.com/ashtadhyayi-1795302344.js": "b82b07252fa9623c700ef3145c83c22b8c2352c78471472790b0565512f570aa",
+    "https://ashtadhyayi.com/jsondata/sutraani/kashika.txt": "ba201526587b19c4758bc693bb491a46bbab8403af78e6f1160d76684d7c449e",
+    "https://cdn.jsdelivr.net/gh/ashtadhyayi-com/data@latest/sutraani/kashika.txt": "78ccd0f548077c75ed582e82fd5a3ae629efb70a9e29ed018fb36c071ab62f2b"
+  },
+  "open": [
+    "S3 published aggregate propagation and exact 2023 intermediary",
+    "S2 pre-2018 reassignment evidence",
+    "remaining C2–C5 and S1–S7 domains"
+  ],
+  "execution": "Claude-deferred"
+}

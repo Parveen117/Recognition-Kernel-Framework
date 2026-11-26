@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG919
+# Pāṇini grammar · current written coverage at PG920
+
+PG920 · [The editor’s laṅ correction and the reader copies](kasika_lang_edit_and_reader_copies/README.md). S3 now has the exact upstream correction commit. All three observed reader routes still carry luṅ. Census 52,531 finite, 26,426 nominal and 30,094 nominal readings.
 
 PG919 · [The twelve-day observance and its nights and days](ksapaha_and_the_twelve_day_observance/README.md). The epic has a consonantal locative plural. Eight nominal positions and nine readings bring the census to 52,531 finite, 26,426 nominal and 30,094 nominal readings.
 

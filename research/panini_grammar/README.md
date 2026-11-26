@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG920 · [The editor’s laṅ correction and the reader copies](kasika_lang_edit_and_reader_copies/README.md). At 3.2.111 the editing workspace restores the imperfect in the prescription. The two imperfect examples and the separate later laṅ sentence are preserved.
+
 PG919 · [The twelve-day observance and its nights and days](ksapaha_and_the_twelve_day_observance/README.md). Mahābhārata 3.118.17 distinguishes the duration accusative from the nights and days on which the king performs ablutions. Wilson fixes both members of the short-a noun.
 
 PG918 · [Medhātithi on the night–day dual and the purpose of the fortnight](medhatithi_on_night_day_and_purpose/README.md). Manu 1.67 supplies a contracted electronic reading. At 1.66 Medhātithi distinguishes a proposed purpose dative from the verse locative.
