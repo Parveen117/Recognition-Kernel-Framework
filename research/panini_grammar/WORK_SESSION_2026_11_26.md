@@ -1,5 +1,7 @@
 # Written Pāṇini work session · 2026-11-26
 
+PG962 · [Four patients and two disputed blessing stems](rudh_yuj_sis_pis_patient_grids/README.md). Parent af9135f14f4bdfccdb5fd3108f04329790d97338. Finite +360 positions/+360 readings, nominal +0/+0. Ten morphology constructions/40 root-category interfaces and one controller construction/four interfaces. Four source observations and three decisions. All 180 shared cells agree. Eighteen blessing readings are rule-derived and have separately transcribed source forms. Census 55,298 finite positions, 26,641 nominal positions and 30,313 nominal readings.
+
 PG961 · [Other categories of the rope and the impersonal granary](rope_other_categories_and_granary_impersonal/README.md). Parent c0bfb961a0912a365168a0bd6a439e862c1e7016. Two morphology constructions/19 interfaces, one syntax construction/three interfaces, one source observation and two decisions. Finite +19/+19 and nominal +0/+0. The two neuter predicates have no new case credit. Census 54,938 finite positions, 26,641 nominal positions and 30,313 nominal readings.
 
 PG960 · [The rope breaking of itself](rope_breaking_of_itself/README.md). Parent 3b0142fb8679f4633d1cd75c9253701a15bec545. One morphology construction/12 interfaces, one syntax construction/three interfaces, two source observations and two decisions. Finite +12/+12 and nominal +0/+0. The source directly supplies the present singular and the other eleven readings are written extensions. Census 54,919 finite positions, 26,641 nominal positions and 30,313 nominal readings.

@@ -1,4 +1,6 @@
-# Written-development backlog at PG961
+# Written-development backlog at PG962
+
+PG962 · [Four patients and two disputed blessing stems](rudh_yuj_sis_pis_patient_grids/README.md). **Closed** for the four simple unprefixed patient grids on āvaraṇa, yoga, viśeṣaṇa and sañcūrṇana. **Unconstructed** domains include the injury use of piṣ, independent participant settings, remaining affix, nominal, verbal and syntax work. **Unresolved** are the provenance and independent attestation of the eighteen e-grade blessings, the remaining K128/K139/Vasu139 senses, patradatam and S1–S7. **Claude-deferred** execution retains its prior scope. Census 55,298 finite positions, 26,641 nominal positions and 30,313 nominal readings.
 
 PG961 · [Other categories of the rope and the impersonal granary](rope_other_categories_and_granary_impersonal/README.md). **Closed** for the complete third-person simple √chid rope grid (30 keys across PG960–961) and the separately attested √bhid bhāve present 3sg on the granary frame. PG355–360 and PG357–363 retain their prior closures. **Unconstructed** are other participant contexts, impersonal categories, prefixed/derived and broader C2–C5 domains. **Unresolved** are wider direct textual attestations, K128 variant senses, the six K139 and three Vasu139 meanings, patradatam and the remaining S1–S7 records. **Claude-deferred** execution retains its existing scope. Census 54,938 finite positions, 26,641 nominal positions and 30,313 nominal readings.
 

@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG962 · [Four patients and two disputed blessing stems](research/panini_grammar/rudh_yuj_sis_pis_patient_grids/README.md). The PG14 map keeps the reported vowel and the admitted blessing in distinct source grades. Census 55,298 finite positions, 26,641 nominal positions and 30,313 nominal readings.
+
 PG961 · [Other categories of the rope and the impersonal granary](research/panini_grammar/rope_other_categories_and_granary_impersonal/README.md). The original subject survives restricted transfer of object-like operations. Actual ciṇ still tests the original ending. Census 54,938 finite positions, 26,641 nominal positions and 30,313 nominal readings.
 
 PG960 · [The rope breaking of itself](research/panini_grammar/rope_breaking_of_itself/README.md). The PG14 construction retains the represented agent even when the finite output coincides with the expressed-patient grid. Census 54,919 finite positions, 26,641 nominal positions and 30,313 nominal readings.

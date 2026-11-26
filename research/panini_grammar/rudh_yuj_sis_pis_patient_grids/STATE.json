@@ -1,0 +1,60 @@
+{
+  "stage": "PG962",
+  "publication_parent": "af9135f14f4bdfccdb5fd3108f04329790d97338",
+  "baseline": "../rope_other_categories_and_granary_impersonal/STATE.json",
+  "date": "2026-11-26",
+  "finite_positions": 55298,
+  "nominal_positions": 26641,
+  "nominal_readings": 30313,
+  "new_finite_positions": 360,
+  "new_finite_readings": 360,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 0,
+  "new_morphology_constructions": 10,
+  "new_morphology_interfaces": 40,
+  "new_syntax_constructions": 1,
+  "new_syntax_interfaces": 4,
+  "new_source_observations": 4,
+  "observations": "Four newly used Concordance patient panels. CD Sharma, Mādhavīya and Kāśikā serve as controls.",
+  "new_source_policy_decisions": 3,
+  "decisions": [
+    "Use the expressed patient on the four specified lexical senses.",
+    "Use the 1.2.11 weak grade in the two disputed blessings and preserve all eighteen source e spellings.",
+    "Select actual ciṇ before original ta, then sic or ksa in the remaining cells according to root."
+  ],
+  "sources": {
+    "https://whm.cdsharma.in/dhatu-rupavali?id=1644": "4a0b9cd09578c0180579a8dd07b630d368bc3c6ba574544ba7a1759f862414c3",
+    "https://samsaadhanii-concordance.vipran.in/dhatu/2114-ruXizr-AvaraNe-ruX1": "372b984d9e2943943e00b2fb815a8371dfa6ccaa489647c794f231a6acf79287",
+    "https://whm.cdsharma.in/dhatu-rupavali?id=1650": "cbe97fcc791b729c93b42067ab3b01c8b956f1c21d4c4ac4f6d35ccc5354c97d",
+    "https://samsaadhanii-concordance.vipran.in/dhatu/2121-yujizr-yoge-yuj2": "87e0d1076f3424dc414af701f0b7887ae5bde452fac24da8704045c06baeacc4",
+    "https://whm.cdsharma.in/dhatu-rupavali?id=1657": "fb91cfa825f64fc70d7f8b9a78ed794b2a44b823f06dfac6982070ec4c6e9ee3",
+    "https://samsaadhanii-concordance.vipran.in/dhatu/2131-SiRLz-viSeRaNe-SiR2": "9d39ef3d448ef16a5df2fba63030cbb0502235a62a03f909fa51683d0ca9ad93",
+    "https://whm.cdsharma.in/dhatu-rupavali?id=1658": "5378af08a72d7ce256804645b1b5ffb8f9c5394c76ec8471b82e1bb639659fdc",
+    "https://samsaadhanii-concordance.vipran.in/dhatu/2132-piRLz-saFcUrNane-piR1": "0ef4488bf5d64354b0e6db5e4a276a7bfb3aee6c9241966204ffb15db9a49e40",
+    "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA1052.html": "be31fb81710ab829a9a87a4df2fee6ae0413d28cf3fdf63a17d7be139887448b"
+  },
+  "pins": {
+    "rope_other_categories_and_granary_impersonal/STATE.json": "11a57eab8fecb9d1ba1750c163f3a5da70ea9360",
+    "snam_lat/LEXICAL_ENTRIES.json": "ca9f1d2d6b6f1772f664e74bcd42b75fc0f866a1",
+    "grammar_construction/NATIVE_OPERATOR_LIFT.md": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+    "four_rudhadi_patient_grids/FINITE_FORMS.tsv": "8582f66d86baaf0da441acc66e129eec88028c68",
+    "bhid_passive_lut_blessing_and_selected_grid/DERIVATION_AND_NATIVE_RECOVERY.md": "7b79657873b09c4cdcbff9e8dfd14e8fcb6f2930",
+    "independent_written_closure/SOURCE_EXCERPTS.json": "3635d2caddce92f6ccf638dae28a0bf08fd23be8",
+    "anga_affix_abhyasa/RULES_6_4_A.md": "6b54c4e8bdf02024f6d55a581a57928bf255cda8",
+    "anga_affix_abhyasa/RULES_6_4_B.md": "e5ef6bc41ed31df4cce1e3bec0fd43ddb5490aca",
+    "rudh_outer_lakaras_and_actor_grid/STATE.json": "c6c0cac43c8b6d091047cf92c11b989706cf1110",
+    "rudh_outer_lakaras_and_actor_grid/FINITE_FORMS.tsv": "57b7570560f6b7c717858c5bd58ba692e0132336",
+    "yuj_remaining_actor_categories/STATE.json": "9fe41af83b454000982a0616d6b04b5d2e641093",
+    "yuj_remaining_actor_categories/FINITE_FORMS.tsv": "908eb61a8b74a4ff3b6817564fc4a2b49e095fbf",
+    "sis_remaining_actor_categories/STATE.json": "8d1f708012a4a9a4db56dbb5a9cf664504822747",
+    "sis_remaining_actor_categories/FINITE_FORMS.tsv": "ee1ad25ddac0d38ced65f6b55975271bfb5cf730",
+    "pis_remaining_actor_categories/STATE.json": "7c452ceda6658946a870bf66a223bd84ee1f4796",
+    "pis_remaining_actor_categories/FINITE_FORMS.tsv": "337c7e5b2997abe3f7ffe98540ed0f395123bfc7"
+  },
+  "open": [
+    "Ancestry and independent usage of the e-grade blessings",
+    "Injury use and the other sense/voice/preverb domains",
+    "Remaining C2–C5 and S1–S7"
+  ],
+  "execution": "Claude-deferred"
+}

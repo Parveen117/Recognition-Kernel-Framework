@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG962 · [Four patients and two disputed blessing stems](rudh_yuj_sis_pis_patient_grids/README.md). The written roots separate actual ciṇ, sic and ksa and preserve eighteen discrepant blessing spellings. Census 55,298 finite positions, 26,641 nominal positions and 30,313 nominal readings.
+
 PG961 · [Other categories of the rope and the impersonal granary](rope_other_categories_and_granary_impersonal/README.md). The instrumental granary and two neuter predicates test an omitted-object proposal in Padamañjarī. Census 54,938 finite positions, 26,641 nominal positions and 30,313 nominal readings.
 
 PG960 · [The rope breaking of itself](rope_breaking_of_itself/README.md). The rope itself gives way. Two printed grammar commentaries identify the role and distinguish it from deliberate reflexive action. Census 54,919 finite positions, 26,641 nominal positions and 30,313 nominal readings.
