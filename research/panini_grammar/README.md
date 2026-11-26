@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG978 · [Trust in Vidura’s counsel and reassurance in Laṅkā](trust_and_reassurance_in_two_optative_traditions/README.md). Two prints establish the disputed post-blessing aśvasat. Bhaṭṭi’s 19.21 variant has competing verbal and denominal analyses. Four finite positions/five readings. Census 55,500 finite positions, 27,056 nominal positions and 30,741 nominal readings.
+
 PG977 · [Why Rāma’s sigh is an aorist](sighing_in_two_past_categories/README.md). The singular at Bhaṭṭi 6.34 is resolved by the print and compared with the plural at 3.17. The two ni + śvas past categories add 18 finite positions and 20 readings. Census 55,496 finite positions, 27,056 nominal positions and 30,741 nominal readings.
 
 PG976 · [Three spellings in the foot lists and the calendar](visupadi_in_the_ganapatha_and_the_solar_pair/README.md). The §155 print gives viṣupadī between dvipadī and supadī. Its formal case panel adds 24 nominal positions/24 readings. Vasu’s viṣapadī and astronomical viṣṇupadī retain their owners. Census 55,478 finite positions, 27,056 nominal positions and 30,741 nominal readings.

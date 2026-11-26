@@ -1,0 +1,117 @@
+{
+  "stage": "PG978",
+  "date": "2026-11-26",
+  "publication_parent": "c4a1219e4905b30d3d718f259c454f3d71d7f969",
+  "baseline": "../sighing_in_two_past_categories/STATE.json",
+  "finite_positions": 55500,
+  "nominal_positions": 27056,
+  "nominal_readings": 30741,
+  "new_finite_positions": 4,
+  "new_finite_readings": 5,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 0,
+  "new_morphology_constructions": 1,
+  "new_syntax_constructions": 1,
+  "new_source_policy_decisions": 4,
+  "source_decisions": [
+    "aśvasat is in two printed editions",
+    "aśvasyāt and āśvasyāt differ between prints",
+    "vi trust and ati-vi excessive trust have distinct predicates",
+    "Bhaṭṭi's plural variant has two attributed morphological analyses"
+  ],
+  "register": [
+    {
+      "preverbs": [
+        "vi"
+      ],
+      "sense": "trust",
+      "slot": "3sg",
+      "readings": [
+        "viśvaset"
+      ]
+    },
+    {
+      "preverbs": [
+        "ati",
+        "vi"
+      ],
+      "sense": "excessive trust",
+      "slot": "3sg",
+      "readings": [
+        "ativiśvaset"
+      ]
+    },
+    {
+      "preverbs": [
+        "ā"
+      ],
+      "sense": "recover confidence",
+      "slot": "3sg",
+      "readings": [
+        "āśvasyāt"
+      ]
+    },
+    {
+      "preverbs": [
+        "ā"
+      ],
+      "sense": "recover confidence",
+      "slot": "3pl",
+      "readings": [
+        "āśvasyuḥ",
+        "āśvaseyuḥ"
+      ]
+    }
+  ],
+  "common": {
+    "root": "adādi śvas, śvasa prāṇane",
+    "voice": "kartari P",
+    "category": "ordinary vidhiliṅ",
+    "alternative_history": "āśvāsa with conduct kvip, reported only for the Bhaṭṭi plural variant"
+  },
+  "pins": {
+    "sighing_in_two_past_categories/README.md": "1ad8272f6b6ce22182792ebe213456f211e375ff",
+    "agent_noun_and_outer_middle/SOURCES.json": "69871363b0fa612fd8ebcd3edbe77a0904f0f4ec",
+    "grammar_construction/NATIVE_OPERATOR_LIFT.md": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+    "sighing_in_two_past_categories/STATE.json": "971758d94f620e3c838ad490e7da2690b77d6f81"
+  },
+  "sources": {
+    "https://archive.org/download/in.ernet.dli.2015.369319/2015.369319.Maadhaviyaadhatuvarittii_text.pdf": {
+      "locus": "Benares p.264, PDF leaf 283",
+      "sha256": "888602b53eb0e713bc88f0a605454f6139e05ddb13ed163c903e96e80b3fcd8a"
+    },
+    "https://raw.githubusercontent.com/samsaadhanii/scl/1ec51dc4cbfecf271e4f3cb0bba41f25b5921572/dhaatupaatha/files/madhaviya_XAwuvqwwi_new.xml": {
+      "locus": "entry id 719",
+      "sha256": "4562749571a7efe3b474b1c68f821cfc7271b07893e753ffc66e2fc7a4a79e76"
+    },
+    "https://bombay.indology.info/mahabharata/text/UD/MBh05.txt": {
+      "locus": "05038009a",
+      "sha256": "5df7c830fe5e90bdb51db337c60fb3de02aa1fe6d16a04360a88fdceb62e2731"
+    },
+    "https://bombay.indology.info/mahabharata/text/UD/MBh12.txt": {
+      "locus": "12137025a,c",
+      "sha256": "6a05be4209fd2676fc62edceed64ae21d1f96ae5b706e4e633f73cf6f54bf72c"
+    },
+    "https://archive.org/details/b3009303x/page/n414/mode/1up": {
+      "locus": "p.407, 19.21",
+      "sha256": "856b2ec967f024a50df155e934c5e39f2da17b01e86bba8a4260778a9d296162"
+    },
+    "https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/html/sa_bhaTTi-rAvaNavadha.htm": {
+      "locus": "19.21",
+      "sha256": "ae9f98414a59fc0375801e033c3aea5989bca2d92eaad8930bf2c70b1a137105"
+    },
+    "https://www.sanskritlibrary.org/Sanskrit/Vyakarana/Dhatupatha/mdhvscan/MDhVjpg/madhaviyahdhatuv00sayauoft_bw_0429.jpg": {
+      "locus": "Shastri, p.375",
+      "sha256": "53b5d4685e33376e5c840fd7bad12edf9f0acc5692f7afc11d556604e59ee9e2"
+    },
+    "https://www.sanskritlibrary.org/Sanskrit/Vyakarana/Dhatupatha/mdhvscan/MDhVjpg/madhaviyahdhatuv00sayauoft_bw_0430.jpg": {
+      "locus": "Shastri, p.376",
+      "sha256": "d0e5e472b1b4e335d2997789f7dd0f45bd13400de0240a09a0e054b201448a78"
+    }
+  },
+  "open": [
+    "Earlier manuscript transmission, short-initial optative analysis, and vowel history in the reported denominal variant",
+    "Inherited C2–C5 and S1–S7"
+  ],
+  "execution": "Claude-deferred"
+}
