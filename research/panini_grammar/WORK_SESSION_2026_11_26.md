@@ -1,5 +1,26 @@
 # Written Pāṇini work session · 2026-11-26
 
+## Review handoff for PG952–966
+
+Written scope remains open. From PG951 at `ef5eacbd1fa30ea62fc281e285e2ce570548e24d` through PG966 at `8961672c862113561da17be8d87137a011931182`, fifteen new stages added **752 unique finite positions with 752 readings, and 190 unique nominal positions with 196 readings**. The resulting published census is **55,299 finite positions, 26,718 nominal positions and 30,394 nominal readings**. The baseline does not expose a global total of finite readings. Across these stages the STATE increments give 35 morphology constructions/303 interfaces, 14 syntax/35, two semantic/four, one junction/one and one accent/two. There were 41 counted source observations and 34 source-policy decisions.
+
+| Stages | Published commit |
+|---|---|
+| PG952 | [177cd6b29ebab1f07d82348043e13d52cf84532b](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/177cd6b29ebab1f07d82348043e13d52cf84532b) |
+| PG953 | [31a79c0af86e879f30c39cdd3421a9614ad8999a](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/31a79c0af86e879f30c39cdd3421a9614ad8999a) |
+| PG954–PG955 | [2bde58d12338260fbcd3da54a0e4dbc4437ee18c](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/2bde58d12338260fbcd3da54a0e4dbc4437ee18c) |
+| PG956–PG957 | [d6427704153c13e01463e1cc354c795a7cde63cd](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/d6427704153c13e01463e1cc354c795a7cde63cd) |
+| PG958–PG959 | [3b0142fb8679f4633d1cd75c9253701a15bec545](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/3b0142fb8679f4633d1cd75c9253701a15bec545) |
+| PG960 | [c0bfb961a0912a365168a0bd6a439e862c1e7016](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/c0bfb961a0912a365168a0bd6a439e862c1e7016) |
+| PG961 | [af9135f14f4bdfccdb5fd3108f04329790d97338](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/af9135f14f4bdfccdb5fd3108f04329790d97338) |
+| PG962 | [82bb82313f96daa60243223aed379141737cd17e](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/82bb82313f96daa60243223aed379141737cd17e) |
+| PG963 | [84b28fd1736f800878febcaaf523a95423eabe09](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/84b28fd1736f800878febcaaf523a95423eabe09) |
+| PG964 | [599974e727799f0907bef892df041d5c5919c69b](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/599974e727799f0907bef892df041d5c5919c69b) |
+| PG965 | [e169d8bcfe7555f4906f1294b3e1821d76c9d17f](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/e169d8bcfe7555f4906f1294b3e1821d76c9d17f) |
+| PG966 | [8961672c862113561da17be8d87137a011931182](https://github.com/Parveen117/Recognition-Kernel-Framework/commit/8961672c862113561da17be8d87137a011931182) |
+
+The [working register](WRITTEN_BACKLOG.md#working-register-at-pg966) separates closed domains, work still constructible, evidence dependent on outside collections and Claude's execution queue. It records an identifiable manuscript to inspect for S1. The [upstream editor's reply](https://github.com/ashtadhyayi-com/data/issues/338#issuecomment-7154191818) confirms the two misassigned passages at 8.2.25 and names the Puṣpa-prati source for the 3.2.111 bulk edit. Exact citations for individual changes were not formally recorded. A dated copy showing a reading cannot identify who performed the reassignment. The register retains these uncertainties. Checks were limited to the new written evidence and counts under Python 3.12, with Sanskrit execution deferred.
+
 PG966 · [The Ṛbhus give and Agni bears or gives](dha_in_the_rbhu_request_and_agnis_superlative/README.md). Parent e169d8bcfe7555f4906f1294b3e1821d76c9d17f. Finite +1/+1, nominal +1/+1. Two morphology constructions/two interfaces, one syntax construction/two interfaces, one accent construction/two interfaces, three observations and three decisions. PG768 retains all its numeral and accent credits. Census 55,299 finite positions, 26,718 nominal positions and 30,394 nominal readings.
 
 PG965 · [One accented word, two case analyses](pashvah_in_two_shakala_hymns/README.md). Parent 599974e727799f0907bef892df041d5c5919c69b. Finite +0/+0, nominal +2/+2. One morphology construction/two interfaces, two syntax constructions/four interfaces, four source observations and two policy decisions. Two occurrences and one accented spelling serve two source-qualified grammatical positions. Census 55,298 finite positions, 26,717 nominal positions and 30,393 nominal readings.
