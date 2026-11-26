@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG991
+# Pāṇini grammar · current written coverage at PG992
+
+PG992 · [Having concealed and having embraced](guh_absolutives_and_the_lotus_stalk/README.md). The simple and causal absolutives differ in vowel length. Three directly witnessed accusatives anchor three case registers. Nine finite positions/nine readings and 72 nominal positions/74 readings added. Census 56,065 finite positions, 27,533 nominal positions and 31,304 nominal readings.
 
 PG991 · [Hiding with ni and embracing with upa](guh_hiding_and_embracing_prefixed_actor_grids/README.md). Two selected prefixed actor grids add 358 finite positions and 547 readings after deduction of the two earlier positions. Census 56,056 finite positions, 27,461 nominal positions and 31,230 nominal readings.
 
