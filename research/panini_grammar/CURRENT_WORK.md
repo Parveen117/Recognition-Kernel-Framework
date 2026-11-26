@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG993
+# Pāṇini grammar · current written coverage at PG994
+
+PG994 · [The outer passive categories and two poetic perfects](guh_patient_outer_categories_and_two_poetic_perfects/README.md). Six outer categories add 162 finite positions/321 readings and complete three selected ten-category patient grids. Two verses give direct contexts for existing actor perfects. Census 56,335 finite positions, 27,539 nominal positions and 31,310 nominal readings.
 
 PG993 · [The patient of concealing and the degrees of secrecy](guh_passive_and_degrees_of_secrecy/README.md). Three four-category patient grids add 108 finite positions/108 readings. Seven nominal occurrences in the epic and Gītā give six unique positions/six readings. Census 56,173 finite positions, 27,539 nominal positions and 31,310 nominal readings.
 
