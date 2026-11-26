@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG960
+# Pāṇini grammar · current written coverage at PG961
+
+PG961 · [Other categories of the rope and the impersonal granary](rope_other_categories_and_granary_impersonal/README.md). The twelve earlier self-acting rope cells and eighteen new ones complete its third-person ten-category grid. One separately credited √bhid impersonal is attested. Census 54,938 finite positions, 26,641 nominal positions and 30,313 nominal readings.
 
 PG960 · [The rope breaking of itself](rope_breaking_of_itself/README.md). The written karmakartṛ panel of √chid adds 12 finite positions/readings across four categories. Census 54,919 finite positions, 26,641 nominal positions and 30,313 nominal readings.
 

@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG961 · [Other categories of the rope and the impersonal granary](rope_other_categories_and_granary_impersonal/README.md). The instrumental granary and two neuter predicates test an omitted-object proposal in Padamañjarī. Census 54,938 finite positions, 26,641 nominal positions and 30,313 nominal readings.
+
 PG960 · [The rope breaking of itself](rope_breaking_of_itself/README.md). The rope itself gives way. Two printed grammar commentaries identify the role and distinguish it from deliberate reflexive action. Census 54,919 finite positions, 26,641 nominal positions and 30,313 nominal readings.
 
 PG958–959 · [The 1955 apparatus and two Vācaspatyam pages](sapadi_print_and_verse_apparatus/README.md) and [Two adjectives of the daughter](daughters_two_adjectives_in_kumarasambhava/README.md). A raised numeral in the print leads to a real apparatus alternative. The verse supplies two different feminine affix histories on one accusative controller. Census 54,907 finite positions, 26,641 nominal positions and 30,313 nominal readings.

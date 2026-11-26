@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG961 · [Other categories of the rope and the impersonal granary](research/panini_grammar/rope_other_categories_and_granary_impersonal/README.md). The original subject survives restricted transfer of object-like operations. Actual ciṇ still tests the original ending. Census 54,938 finite positions, 26,641 nominal positions and 30,313 nominal readings.
+
 PG960 · [The rope breaking of itself](research/panini_grammar/rope_breaking_of_itself/README.md). The PG14 construction retains the represented agent even when the finite output coincides with the expressed-patient grid. Census 54,919 finite positions, 26,641 nominal positions and 30,313 nominal readings.
 
 PG958–959 · [The 1955 apparatus and two Vācaspatyam pages](research/panini_grammar/sapadi_print_and_verse_apparatus/README.md) and [Two adjectives of the daughter](research/panini_grammar/daughters_two_adjectives_in_kumarasambhava/README.md). PG14 retains textual-level, external controller and affix identity on the two adjective paths. Census 54,907 finite positions, 26,641 nominal positions and 30,313 nominal readings.

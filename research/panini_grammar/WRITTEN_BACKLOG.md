@@ -1,4 +1,6 @@
-# Written-development backlog at PG960
+# Written-development backlog at PG961
+
+PG961 · [Other categories of the rope and the impersonal granary](rope_other_categories_and_granary_impersonal/README.md). **Closed** for the complete third-person simple √chid rope grid (30 keys across PG960–961) and the separately attested √bhid bhāve present 3sg on the granary frame. PG355–360 and PG357–363 retain their prior closures. **Unconstructed** are other participant contexts, impersonal categories, prefixed/derived and broader C2–C5 domains. **Unresolved** are wider direct textual attestations, K128 variant senses, the six K139 and three Vasu139 meanings, patradatam and the remaining S1–S7 records. **Claude-deferred** execution retains its existing scope. Census 54,938 finite positions, 26,641 nominal positions and 30,313 nominal readings.
 
 PG960 · [The rope breaking of itself](rope_breaking_of_itself/README.md). **Closed** for twelve third-person simple √chid karmakartṛ requests (laṭ, loṭ, laṅ and vidhiliṅ). PG956 owns the 90 simple passive positions. **Unconstructed** are the other six categories on the self-acting reading, other participants, preverbs, derived roots and wider C2–C5 domains. **Unresolved** are historical sources and critical readings in S1–S7, K128, K139/Vasu139 and patradatam. **Claude-deferred** execution retains its existing scope. Census 54,919 finite positions, 26,641 nominal positions and 30,313 nominal readings.
 
