@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG989 · [The third persons of √guh and the river’s embrace](research/panini_grammar/guh_third_persons_and_the_river_embrace/README.md). The printed aorist line has three middle singulars. The two blessing grades and the river’s finite upagūhati receive distinct histories. Forty unprefixed positions and one prefixed position add 56 readings. Census 55,613 finite positions, 27,461 nominal positions and 31,230 nominal readings.
+
 PG988 · [Concealing the ground, the directions and one’s openings](research/panini_grammar/concealing_the_ground_and_the_tortoise_comparison/README.md). Two Bhaṭṭi verses distinguish the same-day prediction from a completed act. Manu’s tortoise comparison supplies the ordinary optative. The future and optative panels and two further singulars add 38 finite positions/57 readings. Census 55,572 finite positions, 27,461 nominal positions and 31,230 nominal readings.
 
 PG987 · [The published laṅ correction and the two futures of √guh](research/panini_grammar/published_lang_and_the_two_futures_of_guh/README.md). The corrected 3.2.111 paragraph reached the upstream aggregate and revision-pinned CDN. Both ordinary reader copies still give luṅ. The same upstream commit corrects gauḍhā to goḍhā. The two-pada luṭ register adds 18 finite positions/36 readings. Census 55,534 finite positions, 27,461 nominal positions and 31,230 nominal readings.
