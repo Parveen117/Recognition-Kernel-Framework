@@ -1,5 +1,7 @@
 # Written Pāṇini work session · 2026-11-26
 
+PG931 · [The remaining actor categories of √hu](hu_remaining_actor_categories/README.md). Parent eb0cb9cb14c1d3973345206cff3258e45e898751. Finite +63/+97, nominal +0/+0. Seven morphology constructions/interfaces, three source observations and five source-policy decisions. Census 53,539 finite, 26,426 nominal and 30,094 nominal readings. Simple and optional ām-perfect branches remain distinct; Claude retains execution.
+
 PG930 · [The remaining actor categories of √hiṃs](hims_remaining_actor_categories/README.md). Parent a8741bdfa330bb727b71d6792d6f766fda3d4979. Finite +63/+69, nominal +0/+0. Seven morphology constructions/interfaces, three source observations and five source-policy decisions. Census 53,476 finite, 26,426 nominal and 30,094 nominal readings. Lexical num and śnam remain distinct; Claude retains execution.
 
 PG929 · [The remaining actor categories of √piṣ](pis_remaining_actor_categories/README.md). Parent 4cd7d10de6748923a4c393f9f1129b3c300b25b7. Finite +63/+68, nominal +0/+0. Seven morphology constructions/interfaces, four source observations and five source-policy decisions. Census 53,413 finite, 26,426 nominal and 30,094 nominal readings. The malformed Mādhavīya finite transcript remains Open; Claude retains execution.

@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG930
+# Pāṇini grammar · current written coverage at PG931
+
+PG931 · [The remaining actor categories of √hu](hu_remaining_actor_categories/README.md). The selected simple unprefixed P actor grid now has 90 positions across PG7/22/931. Added 63 finite positions and 97 readings; simple and optional ām-perfect alternatives retain distinct construction histories. Census 53,539 finite, 26,426 nominal and 30,094 nominal readings.
 
 PG930 · [The remaining actor categories of √hiṃs](hims_remaining_actor_categories/README.md). The selected simple unprefixed P actor grid now has 90 positions across PG7/22/930. Added 63 finite positions and 69 readings with lexical num and śnam ownership kept distinct. Census 53,476 finite, 26,426 nominal and 30,094 nominal readings.
 
