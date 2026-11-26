@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG951
+# Pāṇini grammar · current written coverage at PG952
+
+PG952 · [The echo in two ritual lists](echo_in_the_ritual_lists_and_the_hearing_person/README.md). 24 echo-noun positions/24 readings. Census 54,547 finite, 26,552 nominal positions and 30,222 nominal readings.
 
 PG951 · [Autumn and the hearing person](shrautri_autumn_and_the_hearing_person/README.md). Two Vedic adjectival positions and two readings. Cumulative 54,547 finite, 26,528 nominal positions and 30,198 nominal readings.
 

@@ -1,0 +1,282 @@
+{
+  "stage": "PG952",
+  "publication_parent": "ef5eacbd1fa30ea62fc281e285e2ce570548e24d",
+  "baseline": "../shrautri_autumn_and_the_hearing_person/STATE.json",
+  "date": "2026-11-26",
+  "finite_positions": 54547,
+  "nominal_positions": 26552,
+  "nominal_readings": 30222,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 24,
+  "new_nominal_readings": 24,
+  "new_morphology_constructions": 2,
+  "new_morphology_interfaces": 25,
+  "morphology": [
+    "echo case inflection",
+    "locative-derived echo adjective"
+  ],
+  "new_syntax_constructions": 1,
+  "new_syntax_interfaces": 2,
+  "new_junction_constructions": 1,
+  "new_junction_interfaces": 1,
+  "new_source_observations": 4,
+  "observations": [
+    "PWG 48623 two addresses",
+    "VS 24.32",
+    "VS 30.19 with commentary",
+    "BĀUBh 2.5.6 explicit locative"
+  ],
+  "new_source_policy_decisions": 3,
+  "decisions": [
+    "Separate sandhi from the underlying DATsg.",
+    "Use the commentary locative on the companion adjective.",
+    "Retain separate affix ownership in śrautra and prātiśrutka."
+  ],
+  "pins": {
+    "shrautri_autumn_and_the_hearing_person/STATE.json": "d5cb2a828b0dea68433e9bdb80ca7cb644139190",
+    "grammar_construction/NATIVE_OPERATOR_LIFT.md": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+    "compound_sound_accent/RULES_6_1_B.md": "2a3be1d583083b040bb9d6ce11ad511bd3d542a5",
+    "abhyasa_tripadi/RULES_8_3_A.md": "2487d912e8378c70b26932be491ddd80c0365f6b",
+    "anga_affix_abhyasa/RULES_7_3_C.md": "5b6e4bb6b4b17dca7731d4d9322a39f0d7f2c0b6",
+    "anga_affix_abhyasa/RULES_6_4_C.md": "5e850bc0797174b4c3c04fadebc86d771861906a",
+    "independent_written_closure/RULES_D2.md": "7e7bfbc4e3bd5d3aebfa7c61e511b48ecd56bd97",
+    "taddhita_relations/RULES_4_3_A.md": "292ea1326f36fc7188c60eb76daddcd2dfbdc916",
+    "eight_padi_lexical_domains_and_resolved_named128_meanings/SOURCES.json": "43ea835fe553c10347220f73cf88602016a693cb"
+  },
+  "sources": {
+    "https://sa.wikisource.org/w/index.php?oldid=341508": {
+      "revision_content_sha256_utf8": "021ecfc04b1d372dcbda8715966a94f962709e1cee8ddc92e010f82d322157bd"
+    },
+    "https://sa.wikisource.org/w/index.php?oldid=321120": {
+      "revision_content_sha256_utf8": "18a86490bd65273c98e8385fff5424117e96f2de9be196da530ffc0c64e21955"
+    },
+    "GRETIL brupsb_u.htm": {
+      "sha256": "eaaadf7644fedee1c1b9bba370908421ecb8030731b0466f7f5b0f9149fd44fc"
+    }
+  },
+  "nominal_register": [
+    {
+      "lemma": "pratiśrutkā",
+      "sense": "echo",
+      "gender": "F",
+      "case": "NOM",
+      "number": "sg",
+      "reading": "pratiśrutkā",
+      "evidence": "written inflection"
+    },
+    {
+      "lemma": "pratiśrutkā",
+      "sense": "echo",
+      "gender": "F",
+      "case": "NOM",
+      "number": "du",
+      "reading": "pratiśrutke",
+      "evidence": "written inflection"
+    },
+    {
+      "lemma": "pratiśrutkā",
+      "sense": "echo",
+      "gender": "F",
+      "case": "NOM",
+      "number": "pl",
+      "reading": "pratiśrutkāḥ",
+      "evidence": "written inflection"
+    },
+    {
+      "lemma": "pratiśrutkā",
+      "sense": "echo",
+      "gender": "F",
+      "case": "ACC",
+      "number": "sg",
+      "reading": "pratiśrutkām",
+      "evidence": "written inflection"
+    },
+    {
+      "lemma": "pratiśrutkā",
+      "sense": "echo",
+      "gender": "F",
+      "case": "ACC",
+      "number": "du",
+      "reading": "pratiśrutke",
+      "evidence": "written inflection"
+    },
+    {
+      "lemma": "pratiśrutkā",
+      "sense": "echo",
+      "gender": "F",
+      "case": "ACC",
+      "number": "pl",
+      "reading": "pratiśrutkāḥ",
+      "evidence": "written inflection"
+    },
+    {
+      "lemma": "pratiśrutkā",
+      "sense": "echo",
+      "gender": "F",
+      "case": "INS",
+      "number": "sg",
+      "reading": "pratiśrutkayā",
+      "evidence": "written inflection"
+    },
+    {
+      "lemma": "pratiśrutkā",
+      "sense": "echo",
+      "gender": "F",
+      "case": "INS",
+      "number": "du",
+      "reading": "pratiśrutkābhyām",
+      "evidence": "written inflection"
+    },
+    {
+      "lemma": "pratiśrutkā",
+      "sense": "echo",
+      "gender": "F",
+      "case": "INS",
+      "number": "pl",
+      "reading": "pratiśrutkābhiḥ",
+      "evidence": "written inflection"
+    },
+    {
+      "lemma": "pratiśrutkā",
+      "sense": "echo",
+      "gender": "F",
+      "case": "DAT",
+      "number": "sg",
+      "reading": "pratiśrutkāyai",
+      "evidence": "VS 24.32 and 30.19"
+    },
+    {
+      "lemma": "pratiśrutkā",
+      "sense": "echo",
+      "gender": "F",
+      "case": "DAT",
+      "number": "du",
+      "reading": "pratiśrutkābhyām",
+      "evidence": "written inflection"
+    },
+    {
+      "lemma": "pratiśrutkā",
+      "sense": "echo",
+      "gender": "F",
+      "case": "DAT",
+      "number": "pl",
+      "reading": "pratiśrutkābhyaḥ",
+      "evidence": "written inflection"
+    },
+    {
+      "lemma": "pratiśrutkā",
+      "sense": "echo",
+      "gender": "F",
+      "case": "ABL",
+      "number": "sg",
+      "reading": "pratiśrutkāyāḥ",
+      "evidence": "written inflection"
+    },
+    {
+      "lemma": "pratiśrutkā",
+      "sense": "echo",
+      "gender": "F",
+      "case": "ABL",
+      "number": "du",
+      "reading": "pratiśrutkābhyām",
+      "evidence": "written inflection"
+    },
+    {
+      "lemma": "pratiśrutkā",
+      "sense": "echo",
+      "gender": "F",
+      "case": "ABL",
+      "number": "pl",
+      "reading": "pratiśrutkābhyaḥ",
+      "evidence": "written inflection"
+    },
+    {
+      "lemma": "pratiśrutkā",
+      "sense": "echo",
+      "gender": "F",
+      "case": "GEN",
+      "number": "sg",
+      "reading": "pratiśrutkāyāḥ",
+      "evidence": "written inflection"
+    },
+    {
+      "lemma": "pratiśrutkā",
+      "sense": "echo",
+      "gender": "F",
+      "case": "GEN",
+      "number": "du",
+      "reading": "pratiśrutkayoḥ",
+      "evidence": "written inflection"
+    },
+    {
+      "lemma": "pratiśrutkā",
+      "sense": "echo",
+      "gender": "F",
+      "case": "GEN",
+      "number": "pl",
+      "reading": "pratiśrutkānām",
+      "evidence": "written inflection"
+    },
+    {
+      "lemma": "pratiśrutkā",
+      "sense": "echo",
+      "gender": "F",
+      "case": "LOC",
+      "number": "sg",
+      "reading": "pratiśrutkāyām",
+      "evidence": "BĀUBh 2.5.6"
+    },
+    {
+      "lemma": "pratiśrutkā",
+      "sense": "echo",
+      "gender": "F",
+      "case": "LOC",
+      "number": "du",
+      "reading": "pratiśrutkayoḥ",
+      "evidence": "written inflection"
+    },
+    {
+      "lemma": "pratiśrutkā",
+      "sense": "echo",
+      "gender": "F",
+      "case": "LOC",
+      "number": "pl",
+      "reading": "pratiśrutkāsu",
+      "evidence": "written inflection"
+    },
+    {
+      "lemma": "pratiśrutkā",
+      "sense": "echo",
+      "gender": "F",
+      "case": "VOC",
+      "number": "sg",
+      "reading": "pratiśrutke",
+      "evidence": "written inflection"
+    },
+    {
+      "lemma": "pratiśrutkā",
+      "sense": "echo",
+      "gender": "F",
+      "case": "VOC",
+      "number": "du",
+      "reading": "pratiśrutke",
+      "evidence": "written inflection"
+    },
+    {
+      "lemma": "pratiśrutkā",
+      "sense": "echo",
+      "gender": "F",
+      "case": "VOC",
+      "number": "pl",
+      "reading": "pratiśrutkāḥ",
+      "evidence": "written inflection"
+    }
+  ],
+  "open": [
+    "lexical inner derivation",
+    "recensional priority and accent",
+    "other K139/Vasu139, K128, patradatam and C2–C5/S1–S7 work"
+  ],
+  "execution": "Claude-deferred"
+}

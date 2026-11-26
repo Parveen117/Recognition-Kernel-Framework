@@ -1,4 +1,6 @@
-# Written-development backlog at PG951
+# Written-development backlog at PG952
+
+PG952 · [The echo in two ritual lists](echo_in_the_ritual_lists_and_the_hearing_person/README.md). **Closed** for ordinary echo-noun inflection and the selected locative-derived adjective analysis. **Unconstructed** are the inner lexical derivation and other PG951/PG950 nominal domains. **Unresolved** are exact recensional priority, distributed accent, K139/Vasu139 meanings, K128, patradatam and the remaining S1–S7 readings. Wider C2–C5 work stays open. **Claude-deferred** execution continues.
 
 PG951 · [Autumn and the hearing person](shrautri_autumn_and_the_hearing_person/README.md). **Closed** for the two adjectival controller readings and PWG’s three citation addresses under the named witnesses. **Unconstructed** are remaining śrautra cases and wider C2–C5 domains. **Unresolved** are the 3.9.13 variant ancestry, precise rule allocation, K139/Vasu139 meanings, K128, patradatam and S1–S7. **Claude-deferred** execution continues.
 
