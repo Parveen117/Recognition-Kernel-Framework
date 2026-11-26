@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG985
+# Pāṇini grammar · current written coverage at PG986
+
+PG986 · [The Kāṇva mantra and the shorter Kāṭhaka formula](kanva_and_kathaka_foot_formulas/README.md). The Kāṇva mantra prints prathantām where a commentary quotes prayantām. Kāṭhaka stops at four feet. Mahīdhara identifies ānañja as a perfect. One finite position/one reading and 23 nominal positions/23 readings bring the census to 55,516 finite positions, 27,461 nominal positions and 31,230 nominal readings.
 
 PG985 · [Eight-footed speech and the sacrificial dam](eight_footed_speech_and_the_sacrificial_dam/README.md). RV 8.76.12 supplies a first-person perfect under verbal pari. VS 8.30 distinguishes the plural command from the prose causative. ŚBM 4.5.2.12 contrasts two instrumental forms. Two new finite positions/two readings and one nominal position/one reading bring the census to 55,515 finite positions, 27,438 nominal positions and 31,207 nominal readings.
 

@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG986 · [The Kāṇva mantra and the shorter Kāṭhaka formula](research/panini_grammar/kanva_and_kathaka_foot_formulas/README.md). The Kāṇva mantra prints prathantām where a commentary quotes prayantām. Kāṭhaka stops at four feet. Mahīdhara identifies ānañja as a perfect. One finite position/one reading and 23 nominal positions/23 readings bring the census to 55,516 finite positions, 27,461 nominal positions and 31,230 nominal readings.
+
 PG985 · [Eight-footed speech and the sacrificial dam](research/panini_grammar/eight_footed_speech_and_the_sacrificial_dam/README.md). RV 8.76.12 supplies a first-person perfect under verbal pari. VS 8.30 distinguishes the plural command from the prose causative. ŚBM 4.5.2.12 contrasts two instrumental forms. Two new finite positions/two readings and one nominal position/one reading bring the census to 55,515 finite positions, 27,438 nominal positions and 31,207 nominal readings.
 
 PG984 · [The three additional foot compounds and their source](research/panini_grammar/kumbhapadi_suffix_and_the_unnamed_book/README.md). Shastri IV p. 423 attributes three Vasu heads to another book. Its text and subcommentaries distinguish two feminine marker spellings and two histories for the long ā in aṣṭāpadī. Three source decisions, zero new positions or readings. Census 55,513 finite positions, 27,437 nominal positions and 31,206 nominal readings.
