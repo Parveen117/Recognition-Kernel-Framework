@@ -1,0 +1,119 @@
+{
+  "stage": "PG973",
+  "date": "2026-11-26",
+  "publication_parent": "6206c3b2ef5cf0af2885ea459c702e8a7095ab35",
+  "baseline": "../imperishable_water_and_the_four_adjective_genders/STATE.json",
+  "finite_positions": 55464,
+  "nominal_positions": 27032,
+  "nominal_readings": 30717,
+  "new_finite_positions": 54,
+  "new_finite_readings": 54,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 0,
+  "finite_register": {
+    "roots": {
+      "1040080": {
+        "sense": "śoṣaṇe",
+        "R": "śoṣ"
+      },
+      "1010979": {
+        "sense": "gatau, falling",
+        "R": "pāt"
+      }
+    },
+    "common": {
+      "preverb": "∅",
+      "formation": "one ṇic",
+      "voice": "karmaṇi",
+      "pada": "A",
+      "controller": "expressed causee"
+    },
+    "columns": [
+      "loṭ",
+      "laṅ",
+      "vidhiliṅ"
+    ],
+    "rows": {
+      "3sg": [
+        "Ryatām",
+        "aRyata",
+        "Ryeta"
+      ],
+      "3du": [
+        "Ryetām",
+        "aRyetām",
+        "Ryeyātām"
+      ],
+      "3pl": [
+        "Ryantām",
+        "aRyanta",
+        "Ryeran"
+      ],
+      "2sg": [
+        "Ryasva",
+        "aRyathāḥ",
+        "Ryethāḥ"
+      ],
+      "2du": [
+        "Ryethām",
+        "aRyethām",
+        "Ryeyāthām"
+      ],
+      "2pl": [
+        "Ryadhvam",
+        "aRyadhvam",
+        "Ryedhvam"
+      ],
+      "1sg": [
+        "Ryai",
+        "aRye",
+        "Ryeya"
+      ],
+      "1du": [
+        "Ryāvahai",
+        "aRyāvahi",
+        "Ryevahi"
+      ],
+      "1pl": [
+        "Ryāmahai",
+        "aRyāmahi",
+        "Ryemahi"
+      ]
+    },
+    "evidence": "54 written physical-frame cells. The Rāmāyaṇa figurative application directly attests the pātyatām inflection."
+  },
+  "new_morphology_constructions": 6,
+  "new_morphology_interfaces": 54,
+  "new_syntax_constructions": 1,
+  "new_syntax_interfaces": 2,
+  "new_source_observations": 2,
+  "new_source_policy_decisions": 2,
+  "decisions": [
+    "Align the same epic command at the two distinct verse addresses.",
+    "Keep the singular penalty, plural recipients and relative agents in their separate roles."
+  ],
+  "sources": {
+    "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/2_epic/ramayana/ram_05_u.htm": {
+      "locus": "5.50.10",
+      "sha256": "69bc61e709398ce906755971ec804bcfcfcc903b60764d7853da9484cbc23b5e"
+    },
+    "https://satsangdhara.net/vara/k5s052.htm": {
+      "locus": "5.52.20",
+      "sha256": "d1d1c8c0ef63e2d417c89e0d79f9c0fe085d9c10f330140dcff153341f37fcab"
+    }
+  },
+  "pins": {
+    "imperishable_water_and_the_four_adjective_genders/STATE.json": "4103a4d65071e040ac65e423c14cea7fa61843ee",
+    "drying_and_falling_in_the_vamana_purana/STATE.json": "71c8c8640f5da2a4e029d0c886f337e04e0a3463",
+    "bhid_causative_passive_present_system_completion/DERIVATION_AND_NATIVE_RECOVERY.md": "c4cd03c619f7383769ee071312b96bf184d7a400",
+    "bhid_causative_passive_present_system_completion/PARADIGMS.md": "f06ed14b9b7e1d1b37fcaa3fe3bdbd3aed93fc8b",
+    "kasika_lang_edit_and_reader_copies/STATE.json": "b0b69c29ff2005b7f8a7d6ae21ab5da0e81e698f",
+    "four_negated_properties_in_the_gita/STATE.json": "5153043953487e89995e059c165f12e625e1a5eb",
+    "grammar_construction/NATIVE_OPERATOR_LIFT.md": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b"
+  },
+  "open": [
+    "Other causal-passive categories and actual attestations of physical uses in the three new categories",
+    "K128, K139/extended Vasu, patradatam, C2–C5 and S1–S7"
+  ],
+  "execution": "Claude-deferred"
+}
