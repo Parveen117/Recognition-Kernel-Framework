@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG980
+# Pāṇini grammar · current written coverage at PG981
+
+PG981 · [The self-acting cows and calves](cows_and_calves_acting_on_themselves/README.md). Two prints preserve the cow's doubled dental. The calf's two san stems have coupled grade and copy histories. Ten dual/plural finite positions add fourteen readings. Census 55,510 finite positions, 27,271 nominal positions and 31,035 nominal readings.
 
 PG980 · [Kālī regains consciousness](kali_recovers_and_the_agreeing_participles/README.md). The Sanskrit chāyā gives āśvastā for Kālī. Six feminine and neuter panels add 144 nominal positions/196 readings. Census 55,500 finite positions, 27,271 nominal positions and 31,035 nominal readings.
 

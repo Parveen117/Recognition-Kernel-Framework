@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG981 · [The self-acting cows and calves](cows_and_calves_acting_on_themselves/README.md). Two prints preserve the cow's doubled dental. The calf's two san stems have coupled grade and copy histories. Ten dual/plural finite positions add fourteen readings. Census 55,510 finite positions, 27,271 nominal positions and 31,035 nominal readings.
+
 PG980 · [Kālī regains consciousness](kali_recovers_and_the_agreeing_participles/README.md). The Sanskrit chāyā gives āśvastā for Kālī. Six feminine and neuter panels add 144 nominal positions/196 readings. Census 55,500 finite positions, 27,271 nominal positions and 31,035 nominal readings.
 
 PG979 · [The birds in Jājali’s hair](the_birds_in_jajalis_hair/README.md). Two epic bird-duals and Yudhiṣṭhira’s singular distinguish confidence from received reassurance. Three masculine panels add 71 nominal positions/98 readings. Census 55,500 finite positions, 27,127 nominal positions and 30,839 nominal readings.
