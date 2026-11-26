@@ -1,5 +1,7 @@
 # Written Pāṇini work session · 2026-11-26
 
+PG934 · [The remaining actor categories of √dā](da_remaining_actor_categories/README.md). Parent 31fa9e300451f534a350f1a4c1c2643f2f0fbd05. Finite +126/+131, nominal +0/+0. Seven morphology constructions, fourteen category/pada interfaces, three source observations and six source-policy decisions. Census 53,791 finite, 26,426 nominal and 30,094 nominal readings. PG9/22 and PG253–255 retain first ownership; Claude retains execution.
+
 PG933 · [The remaining actor categories of √as](as_remaining_actor_categories/README.md). Parent 9e555618884ca018e472ebf927249994b0219144. Finite +63/+67, nominal +0/+0. Seven morphology constructions/interfaces, three source observations and five source-policy decisions. Census 53,665 finite, 26,426 nominal and 30,094 nominal readings. Suppletive √bhū surfaces retain √as request ownership; Claude retains execution.
 
 PG932 · [The remaining actor categories of √ad](ad_remaining_actor_categories/README.md). Parent 43070a76d0dda163741796c09f0af9d1cd123d2f. Finite +63/+77, nominal +0/+0. Seven morphology constructions/interfaces, three source observations and five source-policy decisions. Census 53,602 finite, 26,426 nominal and 30,094 nominal readings. The ad/ghas competition remains typed; Claude retains execution.

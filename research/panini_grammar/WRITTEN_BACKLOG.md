@@ -1,4 +1,6 @@
-# Written-development backlog at PG933
+# Written-development backlog at PG934
+
+PG934 · [The remaining actor categories of √dā](da_remaining_actor_categories/README.md). Closed the selected simple unprefixed P/A kartari ten-category grids with PG9/22. PG253–255 keep the ordered prefixed profiles; passive/karma, bhāva, other prefixes, derived roots, accent, wider text, other senses and source-policy history remain Open.
 
 PG933 · [The remaining actor categories of √as](as_remaining_actor_categories/README.md). Closed the selected simple unprefixed P-kartari ten-category grid with PG7/22. Passive/bhāva, prefixed, derived, accent, wider text, other senses and non-suppletive outer-category evidence remain Open.
 
@@ -113,6 +115,11 @@ PG879 · [Vasu’s *munipadī* list slip and the correct foot-rule reference](va
 PG878 · [The *bhaikṣuka* life stage and its masculine cases](the_bhaiksuka_life_stage_and_its_masculine_cases/README.md). The selected masculine life-stage seven-case panel is closed on direct nominative/genitive evidence. Vocative, accent, historical affix/ellipsis development and wider textual distribution remain Open; none is converted into an exclusion. Claude owns execution.
 
 ## Current four-part register
+
+- **PG934 closed delta.** The simple unprefixed dā 3.10 P/A kartari grids now close across PG9/22/934. PG253–255 retain first ownership of all ordered *pra/pari + ni* keys, and passive/causal records are not recredited.
+- **PG934 genuine unconstructed delta.** Dā passive/karma, bhāva, other prefix-conditioned fibres, derived roots, accent, wider textual and other lexical-sense requests remain Open.
+- **PG934 unresolved-source delta.** Historical priority of the labelled table’s final t/d readings and wider distribution of the A semantic condition remain Open; neither is converted into an exclusion.
+- **PG934 execution delta.** Sanskrit generation, grammar execution and certificate replay remain Claude-deferred and receive no written-development credit.
 
 - **PG933 closed delta.** The simple unprefixed as 2.60 P-kartari grid now closes across PG7/22/933. The imperfect retains as; source-explicit bhū suppletion keeps the as request owner and does not recredit independent bhū keys.
 - **PG933 genuine unconstructed delta.** As passive/bhāva, prefixed, derived-root, accent, wider textual and other lexical-sense requests remain Open.

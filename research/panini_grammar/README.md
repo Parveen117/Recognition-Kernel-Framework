@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG934 · [The remaining actor categories of √dā](da_remaining_actor_categories/README.md). Seven P/A constructions retain empty-preverb ownership, pada-conditioned meaning, P sic-luk versus A i-kit aorists and the perfect/boundary forks without repeating PG9/22 or PG253–255.
+
 PG933 · [The remaining actor categories of √as](as_remaining_actor_categories/README.md). The seven new P constructions retain √as imperfect against source-explicit √bhū futures, perfect, aorist, blessing and conditional suppletion.
 
 PG932 · [The remaining actor categories of √ad](ad_remaining_actor_categories/README.md). The seven new P constructions retain augment coalescence, *atsya/attā*, original-root versus ghas perfects and the ghas+aṅ aorist.

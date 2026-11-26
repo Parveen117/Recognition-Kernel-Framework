@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG933
+# Pāṇini grammar · current written coverage at PG934
+
+PG934 · [The remaining actor categories of √dā](da_remaining_actor_categories/README.md). The selected simple unprefixed P/A actor grids now have 180 positions across PG9/22/934; PG253–255 keep the ordered prefixed keys. Added 126 finite positions and 131 readings; P sic-luk and A i-kit aorists remain distinct. Census 53,791 finite, 26,426 nominal and 30,094 nominal readings.
 
 PG933 · [The remaining actor categories of √as](as_remaining_actor_categories/README.md). The selected simple unprefixed P actor grid now has 90 positions across PG7/22/933. Added 63 finite positions and 67 readings; √as imperfect and source-explicit √bhū suppletion remain one typed lexical history. Census 53,665 finite, 26,426 nominal and 30,094 nominal readings.
 

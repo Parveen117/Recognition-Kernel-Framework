@@ -1,0 +1,64 @@
+{
+  "stage": "PG934",
+  "date": "2026-11-26",
+  "publication_parent": "31fa9e300451f534a350f1a4c1c2643f2f0fbd05",
+  "baseline": "../as_remaining_actor_categories/STATE.json",
+  "finite_positions": 53791,
+  "nominal_positions": 26426,
+  "nominal_readings": 30094,
+  "new_finite_positions": 126,
+  "new_finite_readings": 131,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 0,
+  "new_morphology_constructions": 7,
+  "new_morphology_interfaces": 14,
+  "new_syntax_constructions": 0,
+  "new_syntax_interfaces": 0,
+  "new_source_observations": 3,
+  "new_source_policy_decisions": 6,
+  "reading_counts": {
+    "laṅ/P": 10, "lṛṭ/P": 9, "luṭ/P": 9, "liṭ/P": 10,
+    "luṅ/P": 10, "āśīrliṅ/P": 10, "lṛṅ/P": 10,
+    "laṅ/A": 9, "lṛṭ/A": 9, "luṭ/A": 9, "liṭ/A": 9,
+    "luṅ/A": 9, "āśīrliṅ/A": 9, "lṛṅ/A": 9
+  },
+  "decisions": [
+    "the source-licensed actor range contains P and A but their semantic conditions remain distinct",
+    "the empty-preverb grid is distinct from the ordered pra or pari plus ni profiles in PG253-PG255",
+    "slash alternatives are readings at one typed key",
+    "the P aorist retains sic-luk while the A aorist retains the i-kit middle route",
+    "passive or karma, causative and nonfinite records retain their earlier owners",
+    "the labelled-page hash removes only its live time span while the Madhaviya hash remains raw"
+  ],
+  "coverage": {
+    "laṭ": "PG9",
+    "loṭ and vidhiliṅ": "PG22",
+    "remaining seven simple unprefixed categories": "PG934",
+    "selected_unprefixed_kartari_positions_across_stages": 180,
+    "ordered_prefixed_controls_not_recredited": "PG253-PG255"
+  },
+  "pins": {
+    "grammar_construction/NATIVE_OPERATOR_LIFT.md": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+    "SUTRAPATHA.tsv": "1840f3b5349b21112ac05a7efaa59705fd4efee0",
+    "as_remaining_actor_categories/STATE.json": "52fcf7d609b5a11291ddef4a8d5294145179a57a",
+    "abhyasa_lat/LEXICAL_ENTRIES.json": "00a5cb15a07661483dbabacdb3b24f6173b67ddf",
+    "athematic_modals/PARADIGMS.md": "623356e24a76ce515ae0ec2015f6f98381b6f5de",
+    "ordered_ni_ghu_donation_and_placement/STATE.json": "11f495d66cf3f865395ec8cbfc4815c4e724e0ad",
+    "ordered_ghu_futures_and_two_blessing_grades/STATE.json": "06b3a2cb4986f65e8b5d89ea77c777dd25df14be",
+    "ordered_ghu_aorist_pada_and_perfect/STATE.json": "9780d9fe416f31a12ec671aebb0f4377e69475bb"
+  },
+  "external_files": {
+    "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA740.html": "66522fe64fda5ae7253bac84ddae720d52ac5c86383002ad372d4d5807d5cbb7",
+    "https://whm.cdsharma.in/dhatu-rupavali?id=1252": "65faa7b5f5f8db6295510895c1b7f545e6cc8f3a3a89a7fed848766f7641186f"
+  },
+  "external_hash_policy": {
+    "mA740": "raw response bytes",
+    "table_1252": "replace only the liveDatetimeStrip span with DYNAMIC_TIMESTAMP_REMOVED before SHA-256"
+  },
+  "open": [
+    "da passive or karma, bhava, other prefix-conditioned fibres, derived roots, accent, wider textual and other lexical-sense domains",
+    "historical priority of final t or d table readings and wider distribution of the A semantic condition",
+    "remaining written C2-C5 and source S1-S7 registers"
+  ],
+  "execution": "Claude-deferred"
+}
