@@ -1,0 +1,78 @@
+{
+  "stage": "PG985",
+  "date": "2026-11-26",
+  "publication_parent": "201581bc4c1b8ee1a4904b2c250e5e2321191cb3",
+  "baseline": "../kumbhapadi_suffix_and_the_unnamed_book/STATE.json",
+  "finite_positions": 55515,
+  "nominal_positions": 27438,
+  "nominal_readings": 31207,
+  "new_finite_positions": 2,
+  "new_finite_readings": 2,
+  "new_nominal_positions": 1,
+  "new_nominal_readings": 1,
+  "new_compound_constructions": 1,
+  "new_syntax_constructions": 2,
+  "new_source_observations": 4,
+  "new_source_policy_decisions": 3,
+  "source_sha256": {
+    "https://vishvasa.github.io/vedAH_Rk/shAkalam/saMhitA/sarva-prastutiH/01/164/": "6178a5dd57202212c7d03689d4f3c0d6321ce208e85a9f2c447309642298ca9c",
+    "https://vishvasa.github.io/vedAH_Rk/shAkalam/saMhitA/sarva-prastutiH/08/076/": "b4e40a5992441e45d760c111063864e07fb5d35c0db76687606646e49989f4b8",
+    "https://vishvasa.github.io/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/sarva-prastutiH/08/": "762a6eae663e4407d4a8c8845d01a095532c4246f38f0506040428caa638aa38",
+    "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/1_veda/2_bra/satapath/sb_04_u.htm": "1f2e326390e38fb7af75a30d2c4e49c576a4a4eac69a1698cbc4533bbcdf2420",
+    "https://raw.githubusercontent.com/samsaadhanii/scl/1ec51dc4cbfecf271e4f3cb0bba41f25b5921572/dhaatupaatha/files/madhaviya_XAwuvqwwi_new.xml": "4562749571a7efe3b474b1c68f821cfc7271b07893e753ffc66e2fc7a4a79e76"
+  },
+  "file_pins": {
+    "kumbhapadi_suffix_and_the_unnamed_book/STATE.json": "a91396206b818ebb58e25f6f0066660948628a1b",
+    "kumbhapadi_suffix_and_the_unnamed_book/README.md": "d8bf44afecc784a7c55c718d91645fe1ba0ef073",
+    "two_ma_roots_perfect_aorist_and_coverage/PARADIGMS.md": "a2dd6ae8baf12e18321193ad3869c545fa2bc785",
+    "fifteen_named_padī_feminine_case_fibres_and_blocked_natva/NOMINAL_FORMS.tsv": "7e2f9adc35dcd7ea4f55a7aa4ee78e807f81d90e",
+    "SUTRAPATHA.tsv": "1840f3b5349b21112ac05a7efaa59705fd4efee0",
+    "grammar_construction/NATIVE_OPERATOR_LIFT.md": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b"
+  },
+  "finite": [
+    [
+      "RV 8.76.12",
+      "pari",
+      "mā-1",
+      "measuring",
+      "actor",
+      "middle",
+      "liṭ",
+      "1sg",
+      "mame"
+    ],
+    [
+      "VS M 8.30",
+      "anu",
+      "prath",
+      "becoming known",
+      "actor",
+      "middle",
+      "loṭ",
+      "3pl",
+      "prathantām"
+    ]
+  ],
+  "nominal": [
+    [
+      "ŚBM 4.5.2.12",
+      "anaṣṭāpadī",
+      "F",
+      "INS",
+      "SG",
+      "anaṣṭāpadyā"
+    ]
+  ],
+  "inherited_positive_cases": "PG630",
+  "policies": {
+    "RV 8.76.12": "aham controls first person under verbal pari. VedaWeb tags third singular. Postpositional attachment remains a competing analysis.",
+    "VS M 8.30": "Plural worlds control anu prathantām. The prose causative and cited Kāṇva prayantām have independent histories.",
+    "ŚBM 4.5.2.12": "Positive instrumental before iṣṭvā and a privative instrumental in the comparison."
+  },
+  "execution": "Claude-deferred",
+  "open": [
+    "Independent Kāṇva mantra text and parsing",
+    "Other cases of the negated compound and direct verse contexts",
+    "S1–S7 residuals and C2–C5, including independent accent"
+  ]
+}

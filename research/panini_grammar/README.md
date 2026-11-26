@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG985 · [Eight-footed speech and the sacrificial dam](eight_footed_speech_and_the_sacrificial_dam/README.md). RV 8.76.12 supplies a first-person perfect under verbal pari. VS 8.30 distinguishes the plural command from the prose causative. ŚBM 4.5.2.12 contrasts two instrumental forms. Two new finite positions/two readings and one nominal position/one reading bring the census to 55,515 finite positions, 27,438 nominal positions and 31,207 nominal readings.
+
 PG984 · [The three additional foot compounds and their source](kumbhapadi_suffix_and_the_unnamed_book/README.md). Shastri IV p. 423 attributes three Vasu heads to another book. Its text and subcommentaries distinguish two feminine marker spellings and two histories for the long ā in aṣṭāpadī. Three source decisions, zero new positions or readings. Census 55,513 finite positions, 27,437 nominal positions and 31,206 nominal readings.
 
 PG983 · [Bhoja’s causer and the release adjective](bhojas_causer_and_the_release_adjective/README.md). The printed paraphrase mocayanti and lexical nakhamucāni have separate affix histories. Three finite positions/three readings and 71 nominal positions/73 readings. Census 55,513 finite positions, 27,437 nominal positions and 31,206 nominal readings.
