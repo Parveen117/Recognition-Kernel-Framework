@@ -1,5 +1,7 @@
 # Written Pāṇini work session · 2026-11-26
 
+PG914 · [Day and night in Manu](manu_day_night_in_two_member_orders/README.md). Parent 58ac39316fb7c8f109512bda8cafa9827f86dbc1. Finite +0/+0, nominal +1/+1. One morphology construction/interface, three source observations, two decisions. Census 52,531 finite, 26,389 nominal and 30,054 nominal readings. Wider gates Open. Claude retains execution.
+
 PG913 · [The command in the 1757 Chinmaya manuscript of Bhaṭṭi](chinmaya_manuscript_bhatti_seventh_canto_command/README.md). Parent d495ab351a77a413fd43db1e9499456b73ce5e9c. Four observations and two source decisions. Finite and nominal +0 positions/+0 readings, no new constructions. Census 52,531 finite, 26,388 nominal and 30,053 nominal readings. The 1757 witness supports the positive imperative. S1 still needs the separate reading and its mood in an identifiable source.
 
 PG912 · [Vedic temporal adverbs from *tva* and *viśva*](vedic_temporal_adverbs_tva_visva_danim/README.md). Parent c913da691ae8b9c57b1bfa4b6a3e3e0dfa87eb41. One adverb construction, two lexical interfaces, three new source observations and three decisions. Finite +0/+0. PG808’s convention credits the two indeclinables as nominal +2/+2. Inflected case positions +0. Census 52,531 finite, 26,388 nominal and 30,053 nominal readings. The exact Pāṇinian extension, additional manuscript readings and Claude’s execution are pending.

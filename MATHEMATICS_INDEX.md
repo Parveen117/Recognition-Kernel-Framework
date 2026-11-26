@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG914 · [Day and night in Manu](research/panini_grammar/manu_day_night_in_two_member_orders/README.md). The ordered-member cut retains which stem receives śī after zero-specialization.
+
 PG913 · [The command in the 1757 Chinmaya manuscript of Bhaṭṭi](research/panini_grammar/chinmaya_manuscript_bhatti_seventh_canto_command/README.md). Augmentation preserves the source and split token coordinates through word reassembly and the causal versus prohibitive root cut.
 
 PG912 · [Vedic temporal adverbs from *tva* and *viśva*](research/panini_grammar/vedic_temporal_adverbs_tva_visva_danim/README.md). The PG14 word observation identifies contextual final m/ṃ while preserving lexical base, suffix, token and clause polarity.

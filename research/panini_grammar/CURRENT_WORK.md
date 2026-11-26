@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG913
+# Pāṇini grammar · current written coverage at PG914
+
+PG914 · [Day and night in Manu](manu_day_night_in_two_member_orders/README.md). One new neuter nominative dual position and reading. Census 52,531 finite, 26,389 nominal and 30,054 nominal readings.
 
 PG913 · [The command in the 1757 Chinmaya manuscript of Bhaṭṭi](chinmaya_manuscript_bhatti_seventh_canto_command/README.md). Two manuscript sides establish *modayadhvam* in the verse and the preceding *mā ca* reading. S1 still lacks a manuscript for the separate prohibition. Census 52,531 finite, 26,388 nominal and 30,053 nominal readings.
 
