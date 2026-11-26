@@ -1,0 +1,284 @@
+{
+  "stage": "PG972",
+  "date": "2026-11-26",
+  "publication_parent": "afe8133702766e8b0654a134b71e6fa3df4002d3",
+  "baseline": "../four_negated_properties_in_the_gita/STATE.json",
+  "finite_positions": 55410,
+  "nominal_positions": 27032,
+  "nominal_readings": 30717,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 192,
+  "new_nominal_readings": 196,
+  "nominal_register": {
+    "stems": [
+      "acchedya",
+      "adāhya",
+      "akledya",
+      "aśoṣya"
+    ],
+    "bases": [
+      "acchedy",
+      "adāhy",
+      "akledy",
+      "aśoṣy"
+    ],
+    "N_by_stem": {
+      "acchedya": "n",
+      "adāhya": "n",
+      "akledya": "n",
+      "aśoṣya": "ṇ"
+    },
+    "suffixes": {
+      "F": {
+        "Nominative": {
+          "sg": [
+            "ā"
+          ],
+          "du": [
+            "e"
+          ],
+          "pl": [
+            "āḥ"
+          ]
+        },
+        "Accusative": {
+          "sg": [
+            "ām"
+          ],
+          "du": [
+            "e"
+          ],
+          "pl": [
+            "āḥ"
+          ]
+        },
+        "Instrumental": {
+          "sg": [
+            "ayā"
+          ],
+          "du": [
+            "ābhyām"
+          ],
+          "pl": [
+            "ābhiḥ"
+          ]
+        },
+        "Dative": {
+          "sg": [
+            "āyai"
+          ],
+          "du": [
+            "ābhyām"
+          ],
+          "pl": [
+            "ābhyaḥ"
+          ]
+        },
+        "Ablative": {
+          "sg": [
+            "āyāḥ"
+          ],
+          "du": [
+            "ābhyām"
+          ],
+          "pl": [
+            "ābhyaḥ"
+          ]
+        },
+        "Genitive": {
+          "sg": [
+            "āyāḥ"
+          ],
+          "du": [
+            "ayoḥ"
+          ],
+          "pl": [
+            "āNām"
+          ]
+        },
+        "Locative": {
+          "sg": [
+            "āyām"
+          ],
+          "du": [
+            "ayoḥ"
+          ],
+          "pl": [
+            "āsu"
+          ]
+        },
+        "Vocative": {
+          "sg": [
+            "e"
+          ],
+          "du": [
+            "e"
+          ],
+          "pl": [
+            "āḥ"
+          ]
+        }
+      },
+      "N": {
+        "Nominative": {
+          "sg": [
+            "am"
+          ],
+          "du": [
+            "e"
+          ],
+          "pl": [
+            "āNi"
+          ]
+        },
+        "Accusative": {
+          "sg": [
+            "am"
+          ],
+          "du": [
+            "e"
+          ],
+          "pl": [
+            "āNi"
+          ]
+        },
+        "Instrumental": {
+          "sg": [
+            "eNa"
+          ],
+          "du": [
+            "ābhyām"
+          ],
+          "pl": [
+            "aiḥ"
+          ]
+        },
+        "Dative": {
+          "sg": [
+            "āya"
+          ],
+          "du": [
+            "ābhyām"
+          ],
+          "pl": [
+            "ebhyaḥ"
+          ]
+        },
+        "Ablative": {
+          "sg": [
+            "āt",
+            "ād"
+          ],
+          "du": [
+            "ābhyām"
+          ],
+          "pl": [
+            "ebhyaḥ"
+          ]
+        },
+        "Genitive": {
+          "sg": [
+            "asya"
+          ],
+          "du": [
+            "ayoḥ"
+          ],
+          "pl": [
+            "āNām"
+          ]
+        },
+        "Locative": {
+          "sg": [
+            "e"
+          ],
+          "du": [
+            "ayoḥ"
+          ],
+          "pl": [
+            "eṣu"
+          ]
+        },
+        "Vocative": {
+          "sg": [
+            "a"
+          ],
+          "du": [
+            "e"
+          ],
+          "pl": [
+            "āNi"
+          ]
+        }
+      }
+    },
+    "direct_case": [
+      "aśoṣya",
+      "N",
+      "Nominative",
+      "sg"
+    ],
+    "genitive_plural_gender": "unresolved from the ending"
+  },
+  "new_morphology_constructions": 2,
+  "new_morphology_interfaces": 192,
+  "new_source_observations": 6,
+  "new_source_policy_decisions": 3,
+  "observations": [
+    "Vyoma lesson, affix and paraphrase",
+    "1872 dictionary gender schedule",
+    "Varāhamihira 53.14",
+    "53.75",
+    "45.46",
+    "96.05"
+  ],
+  "decisions": [
+    "Record ṇyat for klid under the teaching policy and keep the VCP policies separately.",
+    "Identify neuter nominative water in the predication with bhavati.",
+    "Leave the plural gender unresolved by the genitive ending."
+  ],
+  "sources": {
+    "varaha": {
+      "url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/html/sa_varAhamihira-bRhatsaMhitA.htm",
+      "sha256": "0f0bd366f1e5318942a42c716da97cd403ab2f47c28ddb3e4ad76cf1b3caae84",
+      "loci": [
+        "53.14",
+        "53.75",
+        "45.46",
+        "96.05"
+      ]
+    },
+    "vyoma": {
+      "url": "https://sanskritfromhome.in/wp-content/uploads/bhagavadgeeta/chapter2/ch2pdf/034_VSP_geetha_22March2012_C2S181920.pdf",
+      "sha256": "84f7cf99d17669727808243d027c6b8626db38f72ffe80fbd96b8b456b33540a",
+      "pages": [
+        28,
+        30
+      ]
+    },
+    "mw72": {
+      "repo": "sanskrit-lexicon/csl-orig",
+      "commit": "776f75662b804497939e179f2ae1468b83ad55a7",
+      "path": "v02/mw72/mw72.txt",
+      "blob": "c3bce912ca14f5b250bc53fb5e44e84791ee8d0e",
+      "records": [
+        152,
+        415,
+        1015,
+        7228
+      ]
+    }
+  },
+  "pins": {
+    "four_negated_properties_in_the_gita/STATE.json": "5153043953487e89995e059c165f12e625e1a5eb",
+    "bhinna_feminine_tap_and_neuter_num/DERIVATION_AND_NATIVE_RECOVERY.md": "1a4567b074ae0478909e5c02eacdc6cf3bfa6e29",
+    "shrautra_bodily_ear_and_collective_cases/README.md": "72d1ad64419fb78a68db43fa2fa15998b2144fd6",
+    "grammar_construction/NATIVE_OPERATOR_LIFT.md": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b"
+  },
+  "open": [
+    "Historical reconciliation of technical affix policies",
+    "Further direct gender attestations and accent",
+    "C2–C5 and S1–S7"
+  ],
+  "execution": "Claude-deferred"
+}
