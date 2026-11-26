@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG917 · [The day-and-night collective and its predicate](ahar_nisa_collective_and_predicate/README.md). Two member endings undergo luk. Shortening and the r/ru decision have separate owners.
+
 PG916 · [The ordinary aharniśa case panel](ahar_nisa_whole_day_nominal_cases/README.md). The ordinary neuter paradigm distinguishes three sources of dental n and two inherited singular readings.
 
 PG915 · [Time measures and their knowers](measured_day_night_and_its_knowers/README.md). Five Manu passages and Gītā 8.17 distinguish measured duration, temporal adverb and people with knowledge of the cycle.

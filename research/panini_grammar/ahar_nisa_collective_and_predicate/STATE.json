@@ -1,0 +1,60 @@
+{
+  "stage": "PG917",
+  "publication_parent": "0bab94c9fd227976c1839bb18dcab03b936fca76",
+  "date": "2026-11-26",
+  "baseline": "../ahar_nisa_whole_day_nominal_cases/STATE.json",
+  "finite_positions": 52531,
+  "nominal_positions": 26416,
+  "nominal_readings": 30082,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 0,
+  "new_morphology_constructions": 1,
+  "new_morphology_interfaces": 1,
+  "new_syntax_constructions": 0,
+  "new_syntax_interfaces": 1,
+  "new_source_observations": 5,
+  "new_source_policy_decisions": 3,
+  "observations": [
+    "VCP 6120",
+    "sutrartha 82069.sd example 2",
+    "Kāśikā 82068",
+    "Kāśikā 82069",
+    "BhP_03.11.011"
+  ],
+  "decisions": [
+    "Collective compound and final shortening",
+    "luk visibility and r winning over ru before niśā",
+    "Located predicate NOM sg and retained discrepant lexicon locus"
+  ],
+  "pins": {
+    "grammar_construction/NATIVE_OPERATOR_LIFT.md": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+    "SUTRAPATHA.tsv": "1840f3b5349b21112ac05a7efaa59705fd4efee0",
+    "ahar_nisa_whole_day_nominal_cases/STATE.json": "f8df4b57b12110895e18ac5bd55c15614d05bcc1",
+    "ahar_nisa_whole_day_nominal_cases/README.md": "1ff8dff0566bcf902f1103ea4e6d0b3b27086387",
+    "measured_day_night_and_its_knowers/STATE.json": "27d348e41a02b723249b540333fa3bfc16334865"
+  },
+  "external_sources": {
+    "ashtadhyayi-com/data": {
+      "commit": "db9a7f1dba06159e6bcd6efb92c9d01857939947",
+      "sutraani/sutrartha.txt": "f1bf1043c352d4ca2a577e3e0f1bff9c2de6cf53",
+      "sutraani/kashika.txt": "33aee69f03d8c88d8406875c82b5d0fb1bec9b7d"
+    },
+    "sanskrit-lexicon/csl-orig": {
+      "commit": "cf53a4240ac83c8f7dfd275533ebd0a0639e6b57",
+      "v02/vcp/vcp.txt": "2514e49be65b6fc8675e1f172194ca07778232df"
+    },
+    "GRETIL sa_bhAgavatapurANa.htm": {
+      "sha256": "65c39c2a84ac6693e3db4c97a37aea5e9738c58cef957ad4ed27fc208251c74e",
+      "locus": "BhP_03.11.011"
+    }
+  },
+  "open": [
+    "Accent, attested non-singulars and vocatives",
+    "Historical reason for the skandha citation",
+    "kṣapāha inner compound",
+    "Wider C2–C5 and S1–S7"
+  ],
+  "execution": "Claude-deferred"
+}

@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG917 · [The day-and-night collective and its predicate](research/panini_grammar/ahar_nisa_collective_and_predicate/README.md). PG14 augmentation preserves the different visibility of luk for designation and r-substitution.
+
 PG916 · [The ordinary aharniśa case panel](research/panini_grammar/ahar_nisa_whole_day_nominal_cases/README.md). Intervening ś and each ending’s nasal owner survive PG14 augmentation.
 
 PG915 · [Time measures and their knowers](research/panini_grammar/measured_day_night_and_its_knowers/README.md). PG14 augmentation retains the silent kvip and the category distinction in two identical aharniśam surfaces.

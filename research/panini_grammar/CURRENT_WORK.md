@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG916
+# Pāṇini grammar · current written coverage at PG917
+
+PG917 · [The day-and-night collective and its predicate](ahar_nisa_collective_and_predicate/README.md). The collective stem and a Bhāgavata nominative are sourced. Census 52,531 finite, 26,416 nominal and 30,082 nominal readings.
 
 PG916 · [The ordinary aharniśa case panel](ahar_nisa_whole_day_nominal_cases/README.md). Twenty-two new nominal positions and 23 readings. Census 52,531 finite, 26,416 nominal and 30,082 nominal readings.
 
