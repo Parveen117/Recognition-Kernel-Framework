@@ -1,0 +1,53 @@
+{
+  "stage": "PG932",
+  "date": "2026-11-26",
+  "publication_parent": "43070a76d0dda163741796c09f0af9d1cd123d2f",
+  "baseline": "../hu_remaining_actor_categories/STATE.json",
+  "finite_positions": 53602,
+  "nominal_positions": 26426,
+  "nominal_readings": 30094,
+  "new_finite_positions": 63,
+  "new_finite_readings": 77,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 0,
+  "new_morphology_constructions": 7,
+  "new_morphology_interfaces": 7,
+  "new_syntax_constructions": 0,
+  "new_syntax_interfaces": 0,
+  "new_source_observations": 3,
+  "new_source_policy_decisions": 5,
+  "reading_counts": {
+    "laṅ/P": 10, "lṛṭ/P": 9, "luṭ/P": 9, "liṭ/P": 19,
+    "luṅ/P": 10, "āśīrliṅ/P": 10, "lṛṅ/P": 10
+  },
+  "decisions": [
+    "the source-licensed actor range is P only",
+    "the simple unprefixed root is separate from the earlier derived causative record",
+    "slash alternatives are readings at one typed key",
+    "original ad and substituted ghas perfects retain distinct root and reduplication histories",
+    "the selected aorist uses ghas plus lrdit ang and no sic grid is inferred"
+  ],
+  "coverage": {
+    "laṭ": "PG7",
+    "loṭ and vidhiliṅ": "PG22",
+    "remaining seven simple unprefixed categories": "PG932",
+    "selected_unprefixed_P_kartari_positions_across_stages": 90
+  },
+  "pins": {
+    "grammar_construction/NATIVE_OPERATOR_LIFT.md": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+    "SUTRAPATHA.tsv": "1840f3b5349b21112ac05a7efaa59705fd4efee0",
+    "hu_remaining_actor_categories/STATE.json": "9f3d028cc2d9405e84a0090925bd0a5058f365e8",
+    "vikarana_lat/LEXICAL_ENTRIES.json": "71d66c43dd5296cbd9b46e4962b487854c3e40fe",
+    "athematic_modals/PARADIGMS.md": "623356e24a76ce515ae0ec2015f6f98381b6f5de"
+  },
+  "external_files": {
+    "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA661.html": "4810c1b5664b86ecf6c7bd8cc4fa0286a46e9bf32626748a0e2469825ae4629c",
+    "https://whm.cdsharma.in/dhatu-rupavali?id=1166": "19d41356cddc6b1ebb5fefa4116ae15bc370c06c12527b4b53c79144dc63c4a6"
+  },
+  "open": [
+    "ad passive, karmakartr, prefixed, derived, accent, wider textual and other lexical-sense domains",
+    "historical and critical priority of the original-root and ghas perfect alternatives",
+    "remaining written C2-C5 and source S1-S7 registers"
+  ],
+  "execution": "Claude-deferred"
+}

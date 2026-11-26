@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG932 · [The remaining actor categories of √ad](ad_remaining_actor_categories/README.md). The seven new P constructions retain augment coalescence, *atsya/attā*, original-root versus ghas perfects and the ghas+aṅ aorist.
+
 PG931 · [The remaining actor categories of √hu](hu_remaining_actor_categories/README.md). The seven new P constructions retain strong/weak present grade, *hoṣya/hotā*, sic aorist and distinct simple versus optional ām-perfect histories.
 
 PG930 · [The remaining actor categories of √hiṃs](hims_remaining_actor_categories/README.md). The seven new P constructions retain lexical num versus śnam, seṭ *hiṃsiṣya/hiṃsitā*, *jihiṃs* and sic aorist histories.
