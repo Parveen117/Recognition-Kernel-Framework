@@ -1,4 +1,6 @@
-# Written-development backlog at PG932
+# Written-development backlog at PG933
+
+PG933 · [The remaining actor categories of √as](as_remaining_actor_categories/README.md). Closed the selected simple unprefixed P-kartari ten-category grid with PG7/22. Passive/bhāva, prefixed, derived, accent, wider text, other senses and non-suppletive outer-category evidence remain Open.
 
 PG932 · [The remaining actor categories of √ad](ad_remaining_actor_categories/README.md). Closed the selected simple unprefixed P-kartari ten-category grid with PG7/22. Passive/karmakartṛ, prefixed, derived, accent, wider text, other senses and perfect-source priority remain Open.
 
@@ -111,6 +113,11 @@ PG879 · [Vasu’s *munipadī* list slip and the correct foot-rule reference](va
 PG878 · [The *bhaikṣuka* life stage and its masculine cases](the_bhaiksuka_life_stage_and_its_masculine_cases/README.md). The selected masculine life-stage seven-case panel is closed on direct nominative/genitive evidence. Vocative, accent, historical affix/ellipsis development and wider textual distribution remain Open; none is converted into an exclusion. Claude owns execution.
 
 ## Current four-part register
+
+- **PG933 closed delta.** The simple unprefixed as 2.60 P-kartari grid now closes across PG7/22/933. The imperfect retains as; source-explicit bhū suppletion keeps the as request owner and does not recredit independent bhū keys.
+- **PG933 genuine unconstructed delta.** As passive/bhāva, prefixed, derived-root, accent, wider textual and other lexical-sense requests remain Open.
+- **PG933 unresolved-source delta.** Historical and critical distribution of non-suppletive as in outer categories remains Open; it is not converted into an exclusion.
+- **PG933 execution delta.** Sanskrit generation, grammar execution and certificate replay remain Claude-deferred and receive no written-development credit.
 
 - **PG932 closed delta.** The simple unprefixed ad 2.1 P-kartari grid now closes across PG7/22/932. The derived causative record retains first ownership; original ad and substituted ghas paths stay distinct.
 - **PG932 genuine unconstructed delta.** Ad passive/karmakartṛ, prefixed, derived-root, accent, wider textual and other lexical-sense requests remain Open.

@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG933 · [The remaining actor categories of √as](research/panini_grammar/as_remaining_actor_categories/README.md). PG14 retains as/bhū owner, suppletion site, sic-luk and vuk histories; typed zero-specialization recovers 63 requests without merging suppletive surfaces with independent √bhū keys.
+
 PG932 · [The remaining actor categories of √ad](research/panini_grammar/ad_remaining_actor_categories/README.md). PG14 retains augment, root/substitute, reduplication, aṅ and junction histories; typed zero-specialization recovers 63 requests without identifying ad and ghas paths.
 
 PG931 · [The remaining actor categories of √hu](research/panini_grammar/hu_remaining_actor_categories/README.md). PG14 retains sense, grade, reduplication, optional ām and auxiliary histories; typed zero-specialization recovers 63 requests without identifying simple and periphrastic perfect paths.

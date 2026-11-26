@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG933 · [The remaining actor categories of √as](as_remaining_actor_categories/README.md). The seven new P constructions retain √as imperfect against source-explicit √bhū futures, perfect, aorist, blessing and conditional suppletion.
+
 PG932 · [The remaining actor categories of √ad](ad_remaining_actor_categories/README.md). The seven new P constructions retain augment coalescence, *atsya/attā*, original-root versus ghas perfects and the ghas+aṅ aorist.
 
 PG931 · [The remaining actor categories of √hu](hu_remaining_actor_categories/README.md). The seven new P constructions retain strong/weak present grade, *hoṣya/hotā*, sic aorist and distinct simple versus optional ām-perfect histories.

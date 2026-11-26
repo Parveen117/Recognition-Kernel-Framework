@@ -1,0 +1,53 @@
+{
+  "stage": "PG933",
+  "date": "2026-11-26",
+  "publication_parent": "9e555618884ca018e472ebf927249994b0219144",
+  "baseline": "../ad_remaining_actor_categories/STATE.json",
+  "finite_positions": 53665,
+  "nominal_positions": 26426,
+  "nominal_readings": 30094,
+  "new_finite_positions": 63,
+  "new_finite_readings": 67,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 0,
+  "new_morphology_constructions": 7,
+  "new_morphology_interfaces": 7,
+  "new_syntax_constructions": 0,
+  "new_syntax_interfaces": 0,
+  "new_source_observations": 3,
+  "new_source_policy_decisions": 5,
+  "reading_counts": {
+    "laṅ/P": 10, "lṛṭ/P": 9, "luṭ/P": 9, "liṭ/P": 9,
+    "luṅ/P": 10, "āśīrliṅ/P": 10, "lṛṅ/P": 10
+  },
+  "decisions": [
+    "the source-licensed actor range is P only",
+    "the simple root is separate from earlier desiderative and derived records",
+    "slash alternatives are readings at one typed key",
+    "ardhadhatuka categories use source-explicit bhu suppletion while lang retains as",
+    "the selected suppletive aorist retains sic-luk and vuk rather than an ang analysis"
+  ],
+  "coverage": {
+    "laṭ": "PG7",
+    "loṭ and vidhiliṅ": "PG22",
+    "remaining seven simple unprefixed categories": "PG933",
+    "selected_unprefixed_P_kartari_positions_across_stages": 90
+  },
+  "pins": {
+    "grammar_construction/NATIVE_OPERATOR_LIFT.md": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+    "SUTRAPATHA.tsv": "1840f3b5349b21112ac05a7efaa59705fd4efee0",
+    "ad_remaining_actor_categories/STATE.json": "ecafc23d4c654778014fa92ba9a25ab040ef9c59",
+    "vikarana_lat/LEXICAL_ENTRIES.json": "71d66c43dd5296cbd9b46e4962b487854c3e40fe",
+    "athematic_modals/PARADIGMS.md": "623356e24a76ce515ae0ec2015f6f98381b6f5de"
+  },
+  "external_files": {
+    "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA715.html": "b026075ca21cc98b2ad9a6aa899b369229142f55ef4be5bb49adae0a5a19f22a",
+    "https://whm.cdsharma.in/dhatu-rupavali?id=1225": "5d109e436dabb38b3c5bd5c4163766ed1b5f43b4d9cbb2f24b9714068b3ea41a"
+  },
+  "open": [
+    "as passive or bhava, prefixed, derived, accent, wider textual and other lexical-sense domains",
+    "historical and critical distribution of non-suppletive as in outer categories",
+    "remaining written C2-C5 and source S1-S7 registers"
+  ],
+  "execution": "Claude-deferred"
+}
