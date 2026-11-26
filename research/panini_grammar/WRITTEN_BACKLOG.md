@@ -1,4 +1,6 @@
-# Written-development backlog at PG962
+# Written-development backlog at PG963
+
+PG963 · [From grinding grain to making a flour animal](flour_animal_and_case_of_the_patient/README.md). **Closed** for the three explicit piṣ case contexts and the three attested effigy accusatives. **Unconstructed** are the other cases for these senses and wider verbal, affix and sentence domains. **Unresolved** are the remaining independent manuscript, commentary and lexical readings in K128/K139/Vasu139, patradatam and S1–S7. **Claude-deferred** execution remains separate. Census 55,298 finite positions, 26,644 nominal positions and 30,316 nominal readings.
 
 PG962 · [Four patients and two disputed blessing stems](rudh_yuj_sis_pis_patient_grids/README.md). **Closed** for the four simple unprefixed patient grids on āvaraṇa, yoga, viśeṣaṇa and sañcūrṇana. **Unconstructed** domains include the injury use of piṣ, independent participant settings, remaining affix, nominal, verbal and syntax work. **Unresolved** are the provenance and independent attestation of the eighteen e-grade blessings, the remaining K128/K139/Vasu139 senses, patradatam and S1–S7. **Claude-deferred** execution retains its prior scope. Census 55,298 finite positions, 26,641 nominal positions and 30,313 nominal readings.
 

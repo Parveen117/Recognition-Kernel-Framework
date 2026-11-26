@@ -1,5 +1,7 @@
 # Written Pāṇini work session · 2026-11-26
 
+PG963 · [From grinding grain to making a flour animal](flour_animal_and_case_of_the_patient/README.md). Parent 82bb82313f96daa60243223aed379141737cd17e. Finite +0/+0, nominal +3/+3. One morphology construction/three interfaces, two syntax constructions/six interfaces, three source observations and two decisions. The already credited actor forms and the genitive and accusative controls receive zero word credit. Census 55,298 finite positions, 26,644 nominal positions and 30,316 nominal readings.
+
 PG962 · [Four patients and two disputed blessing stems](rudh_yuj_sis_pis_patient_grids/README.md). Parent af9135f14f4bdfccdb5fd3108f04329790d97338. Finite +360 positions/+360 readings, nominal +0/+0. Ten morphology constructions/40 root-category interfaces and one controller construction/four interfaces. Four source observations and three decisions. All 180 shared cells agree. Eighteen blessing readings are rule-derived and have separately transcribed source forms. Census 55,298 finite positions, 26,641 nominal positions and 30,313 nominal readings.
 
 PG961 · [Other categories of the rope and the impersonal granary](rope_other_categories_and_granary_impersonal/README.md). Parent c0bfb961a0912a365168a0bd6a439e862c1e7016. Two morphology constructions/19 interfaces, one syntax construction/three interfaces, one source observation and two decisions. Finite +19/+19 and nominal +0/+0. The two neuter predicates have no new case credit. Census 54,938 finite positions, 26,641 nominal positions and 30,313 nominal readings.

@@ -1,0 +1,90 @@
+{
+  "stage": "PG963",
+  "date": "2026-11-26",
+  "publication_parent": "82bb82313f96daa60243223aed379141737cd17e",
+  "baseline": "../rudh_yuj_sis_pis_patient_grids/STATE.json",
+  "finite_positions": 55298,
+  "nominal_positions": 26644,
+  "nominal_readings": 30316,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 3,
+  "new_nominal_readings": 3,
+  "nominal_register": [
+    {
+      "stem": "ghṛtapaśu",
+      "gender": "M",
+      "case": "ACC",
+      "number": "sg",
+      "witness": "ghṛtapaśuṃ",
+      "accepted": "घृतपशुम्",
+      "governor": "kuryāt"
+    },
+    {
+      "stem": "piṣṭapaśu",
+      "gender": "M",
+      "case": "ACC",
+      "number": "sg",
+      "witness": "piṣṭapaśuṃ",
+      "accepted": "पिष्टपशुम्",
+      "governor": "kuryāt"
+    },
+    {
+      "stem": "piṣṭamayapaśupratikṛti",
+      "gender": "F",
+      "case": "ACC",
+      "number": "sg",
+      "witness": "piṣṭamayapaśupratikṛtiṃ",
+      "accepted": "पिष्टमयपशुप्रतिकृतिम्",
+      "governor": "kṛtvā"
+    }
+  ],
+  "new_morphology_constructions": 1,
+  "new_morphology_interfaces": 3,
+  "new_syntax_constructions": 2,
+  "new_syntax_interfaces": 6,
+  "new_source_observations": 3,
+  "observations": [
+    "Mādhavīya contrasts the injury genitive and two accusative uses at 1053.",
+    "Manu supplies the two material compounds at 5.37.",
+    "Medhātithi supplies the long effigy head and the alternative flour instrumental."
+  ],
+  "new_source_policy_decisions": 2,
+  "decisions": [
+    "Preserve cora/caura and each witness’s verb.",
+    "Restrict explicit mayaṭ to the commentary word and distinguish its alternative interpretation."
+  ],
+  "sources": {
+    "https://www.wisdomlib.org/hinduism/book/manusmriti-with-manubhashya-sanskrit/d/doc1646480.html": {
+      "sha256": "92b9b25b3866571c0b6ab4785ffa9ec6bc6be68eb95af7fc678cf397ea6c1e78",
+      "tokens": [
+        "ghṛtapaśuṃ",
+        "piṣṭapaśuṃ",
+        "piṣṭamayapaśupratikṛtiṃ",
+        "piṣṭena",
+        "puroḍāśādi"
+      ]
+    },
+    "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA1053.html": {
+      "sha256": "42ab7b20b64c9f70613a6d4c7c0e7b13f07ae112b2347efb237ada188442b85f",
+      "tokens": [
+        "चोरस्य पिनष्टि",
+        "चोरं पिनष्टि",
+        "धानाः पिनष्टीति"
+      ]
+    }
+  },
+  "pins": {
+    "rudh_yuj_sis_pis_patient_grids/STATE.json": "bc4c1306bf62c227f165ea79c9b452c2a52a084e",
+    "pis_remaining_actor_categories/STATE.json": "7c452ceda6658946a870bf66a223bd84ee1f4796",
+    "taddhita_relations/SOURCE_EXCERPTS.json": "e3ecba28651099cb4606408311f86845ea5f10b8",
+    "compound_case_derivation/SOURCE_EXCERPTS.json": "5a569802d83a4e02f6d4c65bb44c6922fe8019cc",
+    "grammar_construction/NATIVE_OPERATOR_LIFT.md": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b"
+  },
+  "open": [
+    "Further nominal cases of these effigy words",
+    "Extension to other material compounds and commentary policies",
+    "Remaining C2–C5 and S1–S7"
+  ],
+  "execution": "Claude-deferred"
+}

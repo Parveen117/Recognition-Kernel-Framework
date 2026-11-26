@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG962
+# Pāṇini grammar · current written coverage at PG963
+
+PG963 · [From grinding grain to making a flour animal](flour_animal_and_case_of_the_patient/README.md). Three attested nominal positions/readings follow the different case-bearing heads in Manu and Medhātithi. Census 55,298 finite positions, 26,644 nominal positions and 30,316 nominal readings.
 
 PG962 · [Four patients and two disputed blessing stems](rudh_yuj_sis_pis_patient_grids/README.md). Four ten-category patient grids add 360 positions/360 readings. Census 55,298 finite positions, 26,641 nominal positions and 30,313 nominal readings.
 

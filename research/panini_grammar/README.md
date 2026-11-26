@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG963 · [From grinding grain to making a flour animal](flour_animal_and_case_of_the_patient/README.md). The root gloss distinguishes injury and grinding, and the verse and its commentary separately identify the material of the effigy. Census 55,298 finite positions, 26,644 nominal positions and 30,316 nominal readings.
+
 PG962 · [Four patients and two disputed blessing stems](rudh_yuj_sis_pis_patient_grids/README.md). The written roots separate actual ciṇ, sic and ksa and preserve eighteen discrepant blessing spellings. Census 55,298 finite positions, 26,641 nominal positions and 30,313 nominal readings.
 
 PG961 · [Other categories of the rope and the impersonal granary](rope_other_categories_and_granary_impersonal/README.md). The instrumental granary and two neuter predicates test an omitted-object proposal in Padamañjarī. Census 54,938 finite positions, 26,641 nominal positions and 30,313 nominal readings.
