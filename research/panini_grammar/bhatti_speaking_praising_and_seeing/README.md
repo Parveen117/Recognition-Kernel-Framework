@@ -1,0 +1,33 @@
+# PG997 · Speaking cruelly, praising one's fortune and seeing Sītā's conduct
+
+Monty · 27 November 2026
+
+## Three actor constructions in Bhaṭṭi XXI.3–4
+
+| Verse | Surface junction and recovered word | Admitted actor frame |
+|---|---|---|
+| XXI.3 | *jātv avadiṣyac ca* → *jātu avadiṣyat ca* | Bare *vad* 01.1164, seṭ, P, articulate utterance. Rāvaṇa speaks cruel words. *Krūram* characterizes what is said. The speech is neither the specialized śāstra-bhāṣaṇa of PG81 nor a collective exchange. |
+| XXI.3 | *jātv astoṣyac chriyam* → *jātu astoṣyat śriyam* | Bare *stu* 02.0038, aniṭ, selected P, praising. The object is his own fortune, expressed by *śriyaṃ svakām*. The possessive modifies the object. It does not by itself determine the principal beneficiary of the act under 1.3.72. |
+| XXI.4 | *avāpsyas tvam* → *avāpsyaḥ tvam* | *ava + āp* 05.0016, aniṭ, P, obtaining, with Rāma addressed in the second person. The object is anger, with Sītā as its occasion. Note 1181 reports *mṛṣāmarṣa°* in four sigla beside the base text's *satyāmarṣam*. The object differs across witnesses while the same finite key is retained. |
+
+The two *jātu* contacts apply 6.1.77 to the particle's u before past aṭ. The first recovered final t reaches c at the following ca. In the second, 8.4.40 and 8.4.63 account for the contact with ś; the word has t at pause. In XXI.4 the pausal visarga corresponds to s before t of *tvam* under 8.3.15 and 8.3.34. Neither vedic accent nor cross-word spelling is an extra finite reading. [GRETIL XXI.3–5](https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/html/sa_bhaTTi-rAvaNavadha.htm#Bhk_21.3) · [Mallinātha transcription and note 1181](https://vishvasa.github.io/rAmAyaNam/kAvyam/padyam/bhaTTiH/mallinAthaH/bhaTTikAvyam_dvitIyo_bhAgaH/#fn:1181)
+
+For *vad* use aṭ + vad + iṭ + sya. For *stu* the aniṭ sya branch gives guṇa *sto* before ṣya. PG872's exceptional active iṭ belongs to **sic** under 7.2.72. There is no sic in these three conditionals. For *ava + āp* the initial past augment is āṭ (6.4.72), the root's long ā remains and the prefix's a coalesces with the augmented ā. Final p of the root precedes sya. These histories deliver the three bases *avadiṣya-*, *astoṣya-* and *avāpsya-*. Select the ordinary secondary P endings under the declared lṛṅ request. [Pinned Dhātupāṭha](https://github.com/ashtadhyayi-com/data/blob/1ad4bfdf66bf73763e4be689d37382e46288bfe4/dhatu/data.txt) · [Pinned Kāśikā](https://github.com/ashtadhyayi-com/data/blob/1ad4bfdf66bf73763e4be689d37382e46288bfe4/sutraani/kashika.txt)
+
+| Person | Bare vad, sg / du / pl | Bare stu, sg / du / pl | ava + āp, sg / du / pl |
+|---|---|---|---|
+| Third | avadiṣyat / avadiṣyatām / avadiṣyan | astoṣyat / astoṣyatām / astoṣyan | avāpsyat / avāpsyatām / avāpsyan |
+| Second | avadiṣyaḥ / avadiṣyatam / avadiṣyata | astoṣyaḥ / astoṣyatam / astoṣyata | avāpsyaḥ / avāpsyatam / avāpsyata |
+| First | avadiṣyam / avadiṣyāva / avadiṣyāma | astoṣyam / astoṣyāva / astoṣyāma | avāpsyam / avāpsyāva / avāpsyāma |
+
+Mallinātha reads the two *jātu* clauses through *anavakḷpti*, supplying the negative judgments in his prose, then extends the interpretation to past non-occurrence through 3.3.139–140. His point of departure is *jātuyador liṅ* 3.3.147, with the inherited *anavakḷpti/amarṣa* reading of 3.3.145. His earlier explanation of PG996's emphatic *api* belongs to the request clause. At XXI.4 he supplies *amarṣa* for both clauses and *anavakḷpti* for the first. The transcription ends this gloss with a literal **luṅ** label. Preserve it as a pending source reading. The verse's overt *sya*, conditional context and neighboring commentary support the written lṛṅ analysis. A scan or independently identifying edition is needed for the exact final commentary label. The *kṛ* data of XXI.4 give a literary context to the existing bare *akariṣyat* position of PG31.
+
+## Two patient branches in one verse
+
+XXI.5 gives **adrakṣyata** with *śīlam* (conduct) as the singular patient, and **adarśiṣyanta** with *ceṣṭāḥ* (actions) as the plural patient. Fire addresses the person who lived with her. *Tvayā* is instrumental, and *saṃvasatā* agrees with that understood agent. Sītā's genitive belongs to her conduct and actions. Person and number on the two verbs follow their own patients. The two words already belong to PG33's ordinary and ciṇvat pairs. Mallinātha explicitly assigns the first to the iṭ-absent ciṇvat comparison branch and identifies the question about her actions separately. PG33 supplies the second form's affirmative ciṇvat derivation. In the first the consonant-initial sya continuation preserves the am history (6.1.58); in the second ciṇvat iṭ intervenes, and the admitted guṇa history gives *darśiṣya*. Keep those two derivation conditions with their respective occurrences. [PG33 written construction](../conditional_voice/CONSTRUCTION.md) · [Bhaṭṭi XXI.5 and commentary](https://vishvasa.github.io/rAmAyaNam/kAvyam/padyam/bhaTTiH/mallinAthaH/bhaTTikAvyam_dvitIyo_bhAgaH/)
+
+## Typed specialization
+
+Use PG14's paired right modules over its full free involutive residue algebra (B). Extend history labels by verse versus commentary, condition owner, prefix, root, affix and iṭ origin, semantic controller, lakāra, person, number and contact type. Select the reading by a coordinate cut. Keep its complement, including the literal luṅ label, within the native carrier. On an admitted edge (h\to k), let (T_{e,\lambda}(e_h b)=e_k(1+z_e)b); on other blocks use zero. The domain and target have their respective PG14 projections, so (\pi_k T_{e,\lambda}(e_h b)=e_k\epsilon(b)=T_{e,0}\pi_h(e_h b)). Each complementary projection commutes with specialization by its coordinate definition. Finite ordered products, adjoints and the original pairing descend by the multiplicativity and involution of (\epsilon). A shared surface s cannot identify the former final t, final s or internal affix. Each ordinary readout retains its path and documentary layer.
+
+Three morphology constructions add 27 positions and readings. Three syntax constructions separate the two *jātu* predicates, the anger intended by the address and the two patient controllers. Five observations record the two *jātu* forms, the *āp* clause and apparatus, the final commentary label and the two *dṛś* contexts. Four decisions concern the different iṭ owners, *ava* and the discourse object, the scope of the past conditional and the patient split. Zero nominal increment. Direct attestations for the 24 additional active cells, the witness genealogy and the conflicting commentary label remain open. [State and exact source pins](STATE.json)

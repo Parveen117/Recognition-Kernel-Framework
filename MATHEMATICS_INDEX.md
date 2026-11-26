@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG997 · [Speaking, praising and seeing in Bhaṭṭi XXI.3–5](research/panini_grammar/bhatti_speaking_praising_and_seeing/README.md). Three active conditional grids add 27 finite positions/27 readings. Two attested dṛś patients independently confirm the ordinary and ciṇvat branches of PG33. Census 56,398 finite positions, 27,539 nominal positions and 31,310 nominal readings.
+
 PG996 · [The short reproach and the two requests](research/panini_grammar/the_short_reproach_and_the_two_requests/README.md). Note 1175 assigns the short opening to T3, T4 and Com. The bare and pra requesting conditionals add 18 finite positions/18 readings. Census 56,371 finite positions, 27,539 nominal positions and 31,310 nominal readings.
 
 PG995 · [The two divisions of Bhaṭṭi and Fire’s reproach](research/panini_grammar/bhatti_the_reproach_and_the_fire_who_protects/README.md). The NAK catalogue identifies the XX/XXI transition. Two differently witnessed conditional second singulars support bare and ā-prefixed śaṅk grids, 18 finite positions/18 readings. Census 56,353 finite positions, 27,539 nominal positions and 31,310 nominal readings.

@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG996
+# Pāṇini grammar · current written coverage at PG997
+
+PG997 · [Speaking, praising and seeing in Bhaṭṭi XXI.3–5](bhatti_speaking_praising_and_seeing/README.md). Three active conditional grids add 27 finite positions/27 readings. Two attested dṛś patients independently confirm the ordinary and ciṇvat branches of PG33. Census 56,398 finite positions, 27,539 nominal positions and 31,310 nominal readings.
 
 PG996 · [The short reproach and the two requests](the_short_reproach_and_the_two_requests/README.md). Note 1175 assigns the short opening to T3, T4 and Com. The bare and pra requesting conditionals add 18 finite positions/18 readings. Census 56,371 finite positions, 27,539 nominal positions and 31,310 nominal readings.
 
