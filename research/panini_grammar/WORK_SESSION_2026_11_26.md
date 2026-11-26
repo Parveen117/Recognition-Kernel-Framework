@@ -1,5 +1,7 @@
 # Written Pāṇini work session · 2026-11-26
 
+PG916 · [The ordinary aharniśa case panel](ahar_nisa_whole_day_nominal_cases/README.md). Parent 68bc25fe57a4107684c94bf43ab2095e40a47857. One morphology construction and 22 new interfaces. Finite +0/+0, nominal +22/+23. No new source units. Census 52,531 finite, 26,416 nominal and 30,082 nominal readings. Execution remains with Claude.
+
 PG915 · [Time measures and their knowers](measured_day_night_and_its_knowers/README.md). Parent 0643162295774a6592c9217471d2f3584a62e403. Finite +0/+0, nominal +5/+5. One morphology construction/interface and one syntax construction/two interfaces. Nine source observations and three decisions. Census 52,531 finite, 26,394 nominal and 30,059 nominal readings. Claude owns execution.
 
 PG914 · [Day and night in Manu](manu_day_night_in_two_member_orders/README.md). Parent 58ac39316fb7c8f109512bda8cafa9827f86dbc1. Finite +0/+0, nominal +1/+1. One morphology construction/interface, three source observations, two decisions. Census 52,531 finite, 26,389 nominal and 30,054 nominal readings. Wider gates Open. Claude retains execution.

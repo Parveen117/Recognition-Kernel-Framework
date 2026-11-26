@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG915
+# Pāṇini grammar · current written coverage at PG916
+
+PG916 · [The ordinary aharniśa case panel](ahar_nisa_whole_day_nominal_cases/README.md). Twenty-two new nominal positions and 23 readings. Census 52,531 finite, 26,416 nominal and 30,082 nominal readings.
 
 PG915 · [Time measures and their knowers](measured_day_night_and_its_knowers/README.md). Four inflected case keys and one temporal indeclinable add five nominal readings. Census 52,531 finite, 26,394 nominal and 30,059 nominal readings.
 

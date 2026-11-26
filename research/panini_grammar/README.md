@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG916 · [The ordinary aharniśa case panel](ahar_nisa_whole_day_nominal_cases/README.md). The ordinary neuter paradigm distinguishes three sources of dental n and two inherited singular readings.
+
 PG915 · [Time measures and their knowers](measured_day_night_and_its_knowers/README.md). Five Manu passages and Gītā 8.17 distinguish measured duration, temporal adverb and people with knowledge of the cycle.
 
 PG914 · [Day and night in Manu](manu_day_night_in_two_member_orders/README.md). The sun governs an accusative pair in 1.65. Reversed member order gives a nominative pair in 1.66–67.

@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG916 · [The ordinary aharniśa case panel](research/panini_grammar/ahar_nisa_whole_day_nominal_cases/README.md). Intervening ś and each ending’s nasal owner survive PG14 augmentation.
+
 PG915 · [Time measures and their knowers](research/panini_grammar/measured_day_night_and_its_knowers/README.md). PG14 augmentation retains the silent kvip and the category distinction in two identical aharniśam surfaces.
 
 PG914 · [Day and night in Manu](research/panini_grammar/manu_day_night_in_two_member_orders/README.md). The ordered-member cut retains which stem receives śī after zero-specialization.
