@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG913 · [The command in the 1757 Chinmaya manuscript of Bhaṭṭi](chinmaya_manuscript_bhatti_seventh_canto_command/README.md). The photographed line break, the imperative’s object and the following negative clause identify the reading despite different verse numbers in the editions.
+
 PG912 · [Vedic temporal adverbs from *tva* and *viśva*](vedic_temporal_adverbs_tva_visva_danim/README.md). Three text tokens establish two temporal indeclinables. Each keeps its base, suffix, quantification and accent evidence.
 
 PG911 · [Honorific *bhavat* in the Gītā and Dhruva dialogues](bhavat_in_gita_and_dhruva_dialogues/README.md). One addressee can be named by a third-person controller and resumed by a second-person pronoun in another clause. The verb and its controller are identified in each passage.

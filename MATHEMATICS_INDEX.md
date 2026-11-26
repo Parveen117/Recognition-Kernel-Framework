@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG913 · [The command in the 1757 Chinmaya manuscript of Bhaṭṭi](research/panini_grammar/chinmaya_manuscript_bhatti_seventh_canto_command/README.md). Augmentation preserves the source and split token coordinates through word reassembly and the causal versus prohibitive root cut.
+
 PG912 · [Vedic temporal adverbs from *tva* and *viśva*](research/panini_grammar/vedic_temporal_adverbs_tva_visva_danim/README.md). The PG14 word observation identifies contextual final m/ṃ while preserving lexical base, suffix, token and clause polarity.
 
 PG911 · [Honorific *bhavat* in the Gītā and Dhruva dialogues](research/panini_grammar/bhavat_in_gita_and_dhruva_dialogues/README.md). A referent shared between clauses preserves separate case and finite-agreement cuts under the PG14 augmentation.

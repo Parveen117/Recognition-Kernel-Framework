@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG912
+# Pāṇini grammar · current written coverage at PG913
+
+PG913 · [The command in the 1757 Chinmaya manuscript of Bhaṭṭi](chinmaya_manuscript_bhatti_seventh_canto_command/README.md). Two manuscript sides establish *modayadhvam* in the verse and the preceding *mā ca* reading. S1 still lacks a manuscript for the separate prohibition. Census 52,531 finite, 26,388 nominal and 30,053 nominal readings.
 
 PG912 · [Vedic temporal adverbs from *tva* and *viśva*](vedic_temporal_adverbs_tva_visva_danim/README.md). MS 4.2.2 distinguishes alternating occasions and RV 6.52.5 expresses all occasions. The Vedic suffix and the classical rule’s named bases have distinct source support. Census 52,531 finite, 26,388 nominal and 30,053 nominal readings.
 

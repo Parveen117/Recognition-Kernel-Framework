@@ -1,5 +1,7 @@
 # Written Pāṇini work session · 2026-11-26
 
+PG913 · [The command in the 1757 Chinmaya manuscript of Bhaṭṭi](chinmaya_manuscript_bhatti_seventh_canto_command/README.md). Parent d495ab351a77a413fd43db1e9499456b73ce5e9c. Four observations and two source decisions. Finite and nominal +0 positions/+0 readings, no new constructions. Census 52,531 finite, 26,388 nominal and 30,053 nominal readings. The 1757 witness supports the positive imperative. S1 still needs the separate reading and its mood in an identifiable source.
+
 PG912 · [Vedic temporal adverbs from *tva* and *viśva*](vedic_temporal_adverbs_tva_visva_danim/README.md). Parent c913da691ae8b9c57b1bfa4b6a3e3e0dfa87eb41. One adverb construction, two lexical interfaces, three new source observations and three decisions. Finite +0/+0. PG808’s convention credits the two indeclinables as nominal +2/+2. Inflected case positions +0. Census 52,531 finite, 26,388 nominal and 30,053 nominal readings. The exact Pāṇinian extension, additional manuscript readings and Claude’s execution are pending.
 
 PG911 · [Honorific *bhavat* in the Gītā and Dhruva dialogues](bhavat_in_gita_and_dhruva_dialogues/README.md). Parent 91a58be646946b6b857cfdee780b402a4c984f72. Six honorific tokens in five verses, three source decisions and one discourse construction with five interfaces. Finite and nominal position/reading deltas all zero. Census 52,531 finite, 26,386 nominal and 30,051 nominal readings. Remaining literary, critical and written gates and Claude’s execution work are in WRITTEN_BACKLOG.
