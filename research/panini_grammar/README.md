@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG966 · [The Ṛbhus give and Agni bears or gives](dha_in_the_rbhu_request_and_agnis_superlative/README.md). Sāyaṇa glosses the giving command and records both accent explanations. Nirukta 7.15 supports the giver reading of the epithet. Census 55,299 finite positions, 26,718 nominal positions and 30,394 nominal readings.
+
 PG965 · [One accented word, two case analyses](pashvah_in_two_shakala_hymns/README.md). RV 4.2.18 and 8.41.1 distinguish the singular genitive annotations and the plural object read by Sāyaṇa. Census 55,298 finite positions, 26,717 nominal positions and 30,393 nominal readings.
 
 PG964 · [The flour animal as an independent noun and an inner member](effigy_paradigms_and_two_vishvagunadarsha_compounds/README.md). Verse 182 embeds the flour animal before ādara. Bālakṛṣṇa supplies its independent genitive and a second compound. Census 55,298 finite positions, 26,715 nominal positions and 30,391 nominal readings.

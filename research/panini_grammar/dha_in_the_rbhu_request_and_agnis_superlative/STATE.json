@@ -1,0 +1,92 @@
+{
+  "stage": "PG966",
+  "publication_parent": "e169d8bcfe7555f4906f1294b3e1821d76c9d17f",
+  "baseline": "../pashvah_in_two_shakala_hymns/STATE.json",
+  "date": "2026-11-26",
+  "finite_positions": 55299,
+  "nominal_positions": 26718,
+  "nominal_readings": 30394,
+  "new_finite_positions": 1,
+  "new_finite_readings": 1,
+  "new_nominal_positions": 1,
+  "new_nominal_readings": 1,
+  "finite_register": [
+    {
+      "root_id": "1030011",
+      "sense": "dāna",
+      "preverb": "∅",
+      "formation": "simple",
+      "voice": "kartari",
+      "pada": "P",
+      "lakara": "loṭ",
+      "person": 2,
+      "number": "pl",
+      "recension": "Śākala",
+      "reading": "धत्तन"
+    }
+  ],
+  "nominal_register": [
+    {
+      "stem": "ratnadhātama",
+      "gender": "M",
+      "case": "ACC",
+      "number": "sg",
+      "recension": "Śākala",
+      "reading": "ratnadhā́tamam",
+      "semantic_policies": [
+        "giver",
+        "bearer",
+        "nourisher"
+      ]
+    }
+  ],
+  "new_morphology_constructions": 2,
+  "new_morphology_interfaces": 2,
+  "new_syntax_constructions": 1,
+  "new_syntax_interfaces": 2,
+  "new_accent_constructions": 1,
+  "new_accent_interfaces": 2,
+  "new_source_observations": 3,
+  "observations": [
+    "Ṛbhu command and the two attributed imperative paraphrases",
+    "Agni epithet with its compound and degree analysis",
+    "Independent Nirukta 7.15 giver gloss"
+  ],
+  "new_source_policy_decisions": 3,
+  "decisions": [
+    "Admit the direct giving command for the supplied participants.",
+    "Keep Nirukta’s giver and the additional Sāyaṇa glosses.",
+    "Keep alternative accent explanations on a single heard epithet."
+  ],
+  "sources": {
+    "https://vishvasa.github.io/vedAH_Rk/shAkalam/saMhitA/sarva-prastutiH/01/020/": {
+      "sha256": "e544550e9111b199e1336d3634b02884c49addbf64c8edc3cfe0ad16e11106f8",
+      "locus": "RV 1.20.7"
+    },
+    "https://vishvasa.github.io/vedAH_Rk/shAkalam/saMhitA/sarva-prastutiH/01/001/": {
+      "sha256": "b17191bbec20fa17b091a5a6b9ed1fdd1e27497db280c87321908d7e8d2a1faf",
+      "locus": "RV 1.1.1"
+    },
+    "https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/html/sa_yAska-nirukta.htm": {
+      "sha256": "ac116797b926d80dae05e40e1691f562ca371378525b4c9c2b2c309282316a84",
+      "locus": "7.15"
+    },
+    "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA741.html": {
+      "sha256": "2769c4fc41810c4aad385b9c213e92f9f8b1696f89786791b89a8ff049d58efd",
+      "locus": "741"
+    }
+  },
+  "pins": {
+    "pashvah_in_two_shakala_hymns/STATE.json": "4105c3378b7b2af5a67f5759b07fae2093d30d23",
+    "grammar_construction/NATIVE_OPERATOR_LIFT.md": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+    "three_sevens_and_accent_in_the_rbhu_hymn/STATE.json": "28af61ecbd5cb9925c30b514c9264704ec841c0b",
+    "dha_remaining_actor_categories/STATE.json": "0c1f352574fa1a56dbf353495a0fed06e3241e90",
+    "dha_selected_passive_ten_category_grid/STATE.json": "6aa8a1779a13c5aec6e6fdda9cab445158cac2b7"
+  },
+  "open": [
+    "Identity of the teachers in Mādhavīya 741",
+    "Giving-sense distribution beyond these attested uses",
+    "Remaining C2–C5 and S1–S7"
+  ],
+  "execution": "Claude-deferred"
+}

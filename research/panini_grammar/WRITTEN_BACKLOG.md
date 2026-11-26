@@ -1,4 +1,6 @@
-# Written-development backlog at PG965
+# Written-development backlog at PG966
+
+PG966 · [The Ṛbhus give and Agni bears or gives](dha_in_the_rbhu_request_and_agnis_superlative/README.md). **Closed** for the giving sense at RV 1.20.7 and the source-qualified RV 1.1.1 epithet. PG935 and the selected passive grid own their holding/nourishing results. **Unconstructed** are wider giving-sense voice and category distributions, C2–C5 and wider accent domains. **Unresolved** are the teacher identity at 741, K128/K139/Vasu139, patradatam and S1–S7. **Claude-deferred** execution remains separate. Census 55,299 finite positions, 26,718 nominal positions and 30,394 nominal readings.
 
 PG965 · [One accented word, two case analyses](pashvah_in_two_shakala_hymns/README.md). **Closed** for the two cited pada/saṃhitā comparisons and their source-qualified case analyses. **Unconstructed** are the other Vedic cases, recensions and broader C2–C5. **Unresolved** are historical allomorph distribution and the inherited K128/K139/Vasu139, patradatam and S1–S7 readings. **Claude-deferred** execution remains separate. Census 55,298 finite positions, 26,717 nominal positions and 30,393 nominal readings.
 

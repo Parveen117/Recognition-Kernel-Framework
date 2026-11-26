@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG965
+# Pāṇini grammar · current written coverage at PG966
+
+PG966 · [The Ṛbhus give and Agni bears or gives](dha_in_the_rbhu_request_and_agnis_superlative/README.md). The Ṛbhu gift request and Agni epithet add one finite position/reading and one nominal position/reading. Census 55,299 finite positions, 26,718 nominal positions and 30,394 nominal readings.
 
 PG965 · [One accented word, two case analyses](pashvah_in_two_shakala_hymns/README.md). Two Śākala case positions and two readings share one accented pada spelling. Census 55,298 finite positions, 26,717 nominal positions and 30,393 nominal readings.
 
