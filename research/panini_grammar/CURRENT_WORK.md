@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG959
+# Pāṇini grammar · current written coverage at PG960
+
+PG960 · [The rope breaking of itself](rope_breaking_of_itself/README.md). The written karmakartṛ panel of √chid adds 12 finite positions/readings across four categories. Census 54,919 finite positions, 26,641 nominal positions and 30,313 nominal readings.
 
 PG958–959 · [The 1955 apparatus and two Vācaspatyam pages](sapadi_print_and_verse_apparatus/README.md) and [Two adjectives of the daughter](daughters_two_adjectives_in_kumarasambhava/README.md). Page 73 settles the 1955 reading of sapadi. The paired daughter adjectives add 48 nominal positions/48 readings. Census 54,907 finite positions, 26,641 nominal positions and 30,313 nominal readings.
 

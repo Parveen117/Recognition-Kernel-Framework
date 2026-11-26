@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG960 · [The rope breaking of itself](rope_breaking_of_itself/README.md). The rope itself gives way. Two printed grammar commentaries identify the role and distinguish it from deliberate reflexive action. Census 54,919 finite positions, 26,641 nominal positions and 30,313 nominal readings.
+
 PG958–959 · [The 1955 apparatus and two Vācaspatyam pages](sapadi_print_and_verse_apparatus/README.md) and [Two adjectives of the daughter](daughters_two_adjectives_in_kumarasambhava/README.md). A raised numeral in the print leads to a real apparatus alternative. The verse supplies two different feminine affix histories on one accusative controller. Census 54,907 finite positions, 26,641 nominal positions and 30,313 nominal readings.
 
 PG956–957 · [Four rudhādi patient grids](four_rudhadi_patient_grids/README.md) and [The rope and the lion](rope_and_lion_under_kurac/README.md). The patient controls finite agreement. The cited lion has the agent role under Ātreya’s distinct kurac policy. Census 54,907 finite positions, 26,593 nominal positions and 30,265 nominal readings.
