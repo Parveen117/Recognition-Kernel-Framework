@@ -1,0 +1,64 @@
+{
+  "stage": "PG935",
+  "date": "2026-11-26",
+  "publication_parent": "657537a97bbccccf6196dc1d19eddf6aa81e803a",
+  "baseline": "../da_remaining_actor_categories/STATE.json",
+  "finite_positions": 53917,
+  "nominal_positions": 26426,
+  "nominal_readings": 30094,
+  "new_finite_positions": 126,
+  "new_finite_readings": 131,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 0,
+  "new_morphology_constructions": 7,
+  "new_morphology_interfaces": 14,
+  "new_syntax_constructions": 0,
+  "new_syntax_interfaces": 0,
+  "new_source_observations": 4,
+  "new_source_policy_decisions": 6,
+  "reading_counts": {
+    "laṅ/P": 10, "lṛṭ/P": 9, "luṭ/P": 9, "liṭ/P": 10,
+    "luṅ/P": 10, "āśīrliṅ/P": 10, "lṛṅ/P": 10,
+    "laṅ/A": 9, "lṛṭ/A": 9, "luṭ/A": 9, "liṭ/A": 9,
+    "luṅ/A": 9, "āśīrliṅ/A": 9, "lṛṅ/A": 9
+  },
+  "decisions": [
+    "the source-licensed actor range contains P and A under distinct semantic conditions",
+    "the empty-preverb grid is distinct from the ordered pra or pari plus ni profiles in PG253-PG255",
+    "slash alternatives are readings at one typed key",
+    "the P aorist retains sic-luk while the A aorist retains the i-kit middle route",
+    "the table and printed-scan policy supply long dhasiista while electronic Madhaviya short dhasiista remains an unresolved source grade",
+    "passive or karma, causative, derived and nonfinite records retain their earlier owners"
+  ],
+  "coverage": {
+    "laṭ": "PG9",
+    "loṭ and vidhiliṅ": "PG22",
+    "remaining seven simple unprefixed categories": "PG935",
+    "selected_unprefixed_kartari_positions_across_stages": 180,
+    "ordered_prefixed_controls_not_recredited": "PG253-PG255"
+  },
+  "pins": {
+    "grammar_construction/NATIVE_OPERATOR_LIFT.md": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+    "SUTRAPATHA.tsv": "1840f3b5349b21112ac05a7efaa59705fd4efee0",
+    "da_remaining_actor_categories/STATE.json": "5f28b0f78641feca4cd152a0e53df1b3593d3792",
+    "abhyasa_lat/LEXICAL_ENTRIES.json": "00a5cb15a07661483dbabacdb3b24f6173b67ddf",
+    "athematic_modals/PARADIGMS.md": "623356e24a76ce515ae0ec2015f6f98381b6f5de",
+    "ordered_ni_ghu_donation_and_placement/STATE.json": "11f495d66cf3f865395ec8cbfc4815c4e724e0ad",
+    "ordered_ghu_futures_and_two_blessing_grades/STATE.json": "06b3a2cb4986f65e8b5d89ea77c777dd25df14be",
+    "ordered_ghu_aorist_pada_and_perfect/STATE.json": "9780d9fe416f31a12ec671aebb0f4377e69475bb"
+  },
+  "external_files": {
+    "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA741.html": "2769c4fc41810c4aad385b9c213e92f9f8b1696f89786791b89a8ff049d58efd",
+    "https://whm.cdsharma.in/dhatu-rupavali?id=1253": "b55ad80cd6315b75ea5a5548fc30cb0174f0f80ecfe93e646ed3cfedd4268f27"
+  },
+  "external_hash_policy": {
+    "mA741": "raw response bytes",
+    "table_1253": "replace only the liveDatetimeStrip span with DYNAMIC_TIMESTAMP_REMOVED before SHA-256"
+  },
+  "open": [
+    "dha passive or karma, bhava, other prefix-conditioned fibres, derived roots, accent, wider textual and other lexical-sense domains including optional giving",
+    "electronic Madhaviya short-a benedictive and historical priority of boundary alternatives",
+    "remaining written C2-C5 and source S1-S7 registers"
+  ],
+  "execution": "Claude-deferred"
+}
