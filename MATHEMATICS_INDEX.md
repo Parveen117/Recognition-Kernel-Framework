@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG929 · [The remaining actor categories of √piṣ](research/panini_grammar/pis_remaining_actor_categories/README.md). PG14 retains empty versus *ni* preverb, grinding/violence sense and transcript-grade histories; typed zero-specialization recovers 63 new requests without promoting malformed source text.
+
 PG928 · [The remaining actor categories of √śiṣ](research/panini_grammar/sis_remaining_actor_categories/README.md). PG14 retains the table/Mādhavīya nasal-source cut with lexical, category and boundary histories; typed zero-specialization recovers 63 new P requests without deleting the unresolved short grade.
 
 PG927 · [The remaining actor categories of √yuj](research/panini_grammar/yuj_remaining_actor_categories/README.md). PG14 retains empty-preverb versus PG90–91 prefixed histories, semantic guards, category and junction choices; typed zero-specialization recovers 126 new requests without merging equal surfaces.

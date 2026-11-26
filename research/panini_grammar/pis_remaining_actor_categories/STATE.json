@@ -1,0 +1,55 @@
+{
+  "stage": "PG929",
+  "date": "2026-11-26",
+  "publication_parent": "4cd7d10de6748923a4c393f9f1129b3c300b25b7",
+  "baseline": "../sis_remaining_actor_categories/STATE.json",
+  "finite_positions": 53413,
+  "nominal_positions": 26426,
+  "nominal_readings": 30094,
+  "new_finite_positions": 63,
+  "new_finite_readings": 68,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 0,
+  "new_morphology_constructions": 7,
+  "new_morphology_interfaces": 7,
+  "new_syntax_constructions": 0,
+  "new_syntax_interfaces": 0,
+  "new_source_observations": 4,
+  "new_source_policy_decisions": 5,
+  "reading_counts": {
+    "laṅ/P": 11, "lṛṭ/P": 9, "luṭ/P": 9, "liṭ/P": 9,
+    "luṅ/P": 10, "āśīrliṅ/P": 10, "lṛṅ/P": 10
+  },
+  "decisions": [
+    "the source-licensed actor range is P only",
+    "the empty-preverb fibre is distinct from all earlier ni-plus-pis keys",
+    "slash alternatives are readings at one typed key",
+    "lṛdit aṅ supplies the selected P aorist and no sic grid is inferred",
+    "the malformed Madhaviya finite token remains source evidence, not an accepted form"
+  ],
+  "coverage": {
+    "laṭ": "PG7",
+    "loṭ and vidhiliṅ": "PG22",
+    "ni-prefixed schedules": "prefix_ni, prefix_ni_modals and prefix_ni_aorist",
+    "remaining seven simple unprefixed categories": "PG929",
+    "selected_unprefixed_P_kartari_positions_across_stages": 90
+  },
+  "pins": {
+    "grammar_construction/NATIVE_OPERATOR_LIFT.md": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+    "SUTRAPATHA.tsv": "1840f3b5349b21112ac05a7efaa59705fd4efee0",
+    "sis_remaining_actor_categories/STATE.json": "8d1f708012a4a9a4db56dbb5a9cf664504822747",
+    "snam_lat/LEXICAL_ENTRIES.json": "ca9f1d2d6b6f1772f664e74bcd42b75fc0f866a1",
+    "athematic_modals/PARADIGMS.md": "623356e24a76ce515ae0ec2015f6f98381b6f5de"
+  },
+  "external_files": {
+    "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA1053.html": "42ab7b20b64c9f70613a6d4c7c0e7b13f07ae112b2347efb237ada188442b85f",
+    "https://whm.cdsharma.in/dhatu-rupavali?id=1658": "5378af08a72d7ce256804645b1b5ffb8f9c5394c76ec8471b82e1bb639659fdc"
+  },
+  "open": [
+    "pis passive, karmakartṛ, other prefixed, derived, accent, wider textual and other lexical-sense domains",
+    "critical ancestry and repair of the malformed Madhaviya finite transcript",
+    "remaining written C2–C5 and source S1–S7 registers"
+  ],
+  "execution": "Claude-deferred"
+}
+

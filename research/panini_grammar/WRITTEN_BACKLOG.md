@@ -1,4 +1,6 @@
-# Written-development backlog at PG928
+# Written-development backlog at PG929
+
+PG929 · [The remaining actor categories of √piṣ](pis_remaining_actor_categories/README.md). Closed the selected simple unprefixed P-kartari ten-category grid with PG7/22. The *ni+piṣ* stages retain separate ownership; other voices, prefixes, derived roots, accent, wider text, other senses and transcript repair remain Open.
 
 PG928 · [The remaining actor categories of √śiṣ](sis_remaining_actor_categories/README.md). Closed the selected simple unprefixed P-kartari ten-category grid with PG7/22. The Mādhavīya short weak spelling, other voices, prefixed/derived roots, accent, wider text and other senses remain Open.
 
@@ -103,6 +105,11 @@ PG879 · [Vasu’s *munipadī* list slip and the correct foot-rule reference](va
 PG878 · [The *bhaikṣuka* life stage and its masculine cases](the_bhaiksuka_life_stage_and_its_masculine_cases/README.md). The selected masculine life-stage seven-case panel is closed on direct nominative/genitive evidence. Vocative, accent, historical affix/ellipsis development and wider textual distribution remain Open; none is converted into an exclusion. Claude owns execution.
 
 ## Current four-part register
+
+- **PG929 closed delta.** The simple unprefixed piṣ 7.15 P-kartari grid now closes across PG7/22/929. The existing *ni+piṣ* finite stages retain first ownership of their prefix-typed keys.
+- **PG929 genuine unconstructed delta.** Piṣ passive/karmakartṛ, other prefix-conditioned fibres, derived-root, accent, wider textual and other lexical-sense requests remain Open.
+- **PG929 unresolved-source delta.** The malformed Mādhavīya finite token and compressed analogical phrase require critical ancestry or repair. They are retained as evidence and not converted into accepted forms or exclusions.
+- **PG929 execution delta.** Sanskrit generation, grammar execution and certificate replay remain Claude-deferred and receive no written-development credit.
 
 - **PG928 closed delta.** The simple unprefixed śiṣ 7.14 P-kartari grid now closes across PG7/22/928. No A actor grid or earlier key is invented or recredited.
 - **PG928 genuine unconstructed delta.** Śiṣ passive/karmakartṛ, prefixed, derived-root, accent, wider textual and other lexical-sense requests remain Open.

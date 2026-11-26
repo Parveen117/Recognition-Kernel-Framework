@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG928
+# Pāṇini grammar · current written coverage at PG929
+
+PG929 · [The remaining actor categories of √piṣ](pis_remaining_actor_categories/README.md). The selected simple unprefixed P actor grid now has 90 positions across PG7/22/929; the three *ni+piṣ* stages retain their own prefix-typed credit. Added 63 finite positions and 68 readings. Census 53,413 finite, 26,426 nominal and 30,094 nominal readings.
 
 PG928 · [The remaining actor categories of √śiṣ](sis_remaining_actor_categories/README.md). The selected simple unprefixed P actor grid now has 90 positions across PG7/22/928. Added 63 finite positions and 68 readings; the Mādhavīya short weak grade remains Open. Census 53,350 finite, 26,426 nominal and 30,094 nominal readings.
 
