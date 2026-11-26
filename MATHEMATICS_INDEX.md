@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG976 · [Three spellings in the foot lists and the calendar](research/panini_grammar/visupadi_in_the_ganapatha_and_the_solar_pair/README.md). The §155 print gives viṣupadī between dvipadī and supadī. Its formal case panel adds 24 nominal positions/24 readings. Vasu’s viṣapadī and astronomical viṣṇupadī retain their owners. Census 55,478 finite positions, 27,056 nominal positions and 30,741 nominal readings.
+
 PG975 · [When anger arises in Bhaṭṭi 6.34](research/panini_grammar/anger_arises_in_bhatti/README.md). Jayamaṅgalā identifies the impersonal aorist and applies muhuḥ to all four predicates. The sam + √bhū event grid adds ten positions/fourteen readings. Census 55,478 finite positions, 27,032 nominal positions and 30,717 nominal readings.
 
 PG974 · [Who confines the cow?](research/panini_grammar/rudh_cow_and_the_expressed_agent/README.md). Mādhavīya and the Dvivedī print each give a present and an aorist. Four self-agent positions/four readings distinguish the unprefixed and anu frames. Two Bhoja prints retain ciṇ in the explanation and ṇic in the recap. Census 55,468 finite positions, 27,032 nominal positions and 30,717 nominal readings.

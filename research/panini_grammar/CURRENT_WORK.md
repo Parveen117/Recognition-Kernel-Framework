@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG975
+# Pāṇini grammar · current written coverage at PG976
+
+PG976 · [Three spellings in the foot lists and the calendar](visupadi_in_the_ganapatha_and_the_solar_pair/README.md). The §155 print gives viṣupadī between dvipadī and supadī. Its formal case panel adds 24 nominal positions/24 readings. Vasu’s viṣapadī and astronomical viṣṇupadī retain their owners. Census 55,478 finite positions, 27,056 nominal positions and 30,741 nominal readings.
 
 PG975 · [When anger arises in Bhaṭṭi 6.34](anger_arises_in_bhatti/README.md). Jayamaṅgalā identifies the impersonal aorist and applies muhuḥ to all four predicates. The sam + √bhū event grid adds ten positions/fourteen readings. Census 55,478 finite positions, 27,032 nominal positions and 30,717 nominal readings.
 

@@ -1,0 +1,50 @@
+{
+  "stage": "PG976",
+  "date": "2026-11-26",
+  "publication_parent": "f7e897e6ef87a0c49dce8016e7fc145c737ba14d",
+  "baseline": "../anger_arises_in_bhatti/STATE.json",
+  "finite_positions": 55478,
+  "nominal_positions": 27056,
+  "nominal_readings": 30741,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 24,
+  "new_nominal_readings": 24,
+  "new_morphology_constructions": 1,
+  "new_morphology_interfaces": 24,
+  "new_source_observations": 2,
+  "new_source_policy_decisions": 2,
+  "stem": "viṣupadī",
+  "gender": "F",
+  "register": "FORMS.tsv",
+  "direct": 1,
+  "formal_extensions": 23,
+  "decisions": [
+    "Record §155’s exact u-bearing head independently of Vasu item 41.",
+    "Attribute the calendar meaning to the ṇ-bearing head and dvaya to the outer neuter."
+  ],
+  "open": [
+    "Sense and transmission of the u-bearing gaṇa head",
+    "Independent gloss of Vasu viṣapadī, sūcīpadī, kalahaṃsapadī and the six K139 heads",
+    "The other K128, patradatam, C2–C5 and S1–S7 obligations"
+  ],
+  "execution": "Claude-deferred",
+  "pins": {
+    "vasu_printed_kalahamsapadi/README.md": "9e22230d191d7c803808cdfb17d5ad960033ae0f",
+    "three_extended_vasu139_formal_feminine_case_fibres/NOMINAL_FORMS.tsv": "119350b5b65bf25e455be4f2cb70bbfab4cfe984",
+    "four_extended_padi_domains_and_distinct_vishnupadi_source_path/DERIVATION_AND_NATIVE_RECOVERY.md": "3d917be090c78439a271afc11f5309acde746105",
+    "grammar_construction/NATIVE_OPERATOR_LIFT.md": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+    "anger_arises_in_bhatti/STATE.json": "97e8f375b5ec819f6b419d17d839858993865e36",
+    "four_extended_padi_domains_and_distinct_vishnupadi_source_path/SOURCES.json": "52b63d77c438258f121fda06bb50e54e16b49801"
+  },
+  "sources": {
+    "https://s3.us-east-2.wasabisys.com/jainqq-hq/be2c9aeea3ff366af0f6efd90ef73e622522ced12a9f24b31f4b08c64f3b34f3.jpg": {
+      "locus": "020015 leaf 60, printed page 51, §155",
+      "sha256": "5bc0abdc4e5353e81b9992c65d33702ac71d53c1bf4ea88559bca95c98f65551"
+    },
+    "https://msrvvp.ac.in/skill_course/textbook/textbook3.0/joytish-sahayak.pdf": {
+      "locus": "printed p. 36, PDF 46, quotation of Mānādhyāya 14.7–8",
+      "sha256": "d51044cf99d032158744c4a02024d9c09f1038191fdc2e7bfaccef6767c62d18"
+    }
+  }
+}
