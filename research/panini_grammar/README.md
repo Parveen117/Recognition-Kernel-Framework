@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG953 · [The hearing faculty in the printed commentaries](hearing_faculty_in_the_printed_nyasa_and_padamanjari/README.md). Nyāsa prints śrotram and Padamañjarī names the indriya. The singular-citation restriction has a reported rival.
+
 PG952 · [The echo in two ritual lists](echo_in_the_ritual_lists_and_the_hearing_person/README.md). Two ritual lists identify one dative; a locative gloss explains the companion adjective in the Upaniṣad.
 
 PG951 · [Autumn and the hearing person](shrautri_autumn_and_the_hearing_person/README.md). The feminine qualifies autumn in VS 13.57. The masculine qualifies the hearing person. BĀU 3.9.13 preserves a separate textual spelling question.

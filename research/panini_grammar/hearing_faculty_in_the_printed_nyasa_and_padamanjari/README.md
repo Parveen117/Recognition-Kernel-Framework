@@ -1,0 +1,17 @@
+# PG953 · The hearing faculty in the printed commentaries
+
+At 5.4.38 the two commentary blocks on scan leaf 381 of Shastri's Kāśikāvṛtti, vol. IV, distinguish the bodily referent from the faculty of hearing. The Padamañjarī block reads **अन्यत्र श्रोत्रमिन्द्रियम्**. The Nyāsa block below it reads **अन्यत्र श्रोत्रम्**. In both, the r of śr is visible. PG578's electronic Nyāsa field has **अन्यत्र शोत्रम्**. The scan resolves the reading of this printed witness. The OCR of the Nyāsa line gives yet another first syllable, भो; the page image supplies the transcription. Record the electronic and printed forms separately. Their transmission history remains Open. [Scan, vol. IV, leaf 381](https://archive.org/details/fPGT_kashika-vritti-with-nyasa-commentary-by-acharya-jinendra-buddhipada-and-padamanj/page/n381/mode/1up) · [Electronic fields](../prajna_affix_gender_contrast_and_clay_owned_i_after_luk/SOURCES.json)
+
+|Requested meaning with śrotra|Selection on the printed policy|Word and ownership|
+|---|---|---|
+|The bodily ear itself|The qualified prajñādi member admits self-sense aṇ. Its ṇ licenses first-vowel vṛddhi o → au. The PG950 analysis gives śrautra- and the neuter citation śrautram.|PG950 owns the control.|
+|The faculty by which one hears|Padamañjarī names the indriya explicitly. This request fails the bodily self-sense condition. Preserve the inherited o in the unextended stem. The neuter citation is śrotram.|Printed interpretation of the PG950 fallback. No new nominal credit.|
+|One collection of ears|A collection request has its own 4.2.38 edge. External singular counts collections. The same spelling śrautram can occur here.|PG950 owns this independent construction.|
+
+The restriction concerns what the speaker asks the word to denote. An occurrence in a sentence about someone with a body cannot decide between the organ and its faculty. On neither request does the missing r in the electronic fallback prescribe a sound change.
+
+**A different ambiguity on the same page.** Padamañjarī identifies *vidan* and *ṣoḍan* as citation forms with case endings. On the first interpretation their mode of listing signals an intention to express singularity (*ekatvavivakṣā*). The report introduced by *ity anye* explains it as variation in the manner of citation (*vaicitrya*). Retain two policies on the evidence that the ending supplies. Under the first, a number guard is meaningful. Under the second, the citation alone cannot enforce that guard. Neither account here derives all number forms or identifies every eligible lexical member. PG578's separate śatṛ/vasu source question does not disappear. [PG578 relation](../prajna_affix_gender_contrast_and_clay_owned_i_after_luk/RELATION.json)
+
+## Typed recovery
+
+Use PG14's paired finite-support right modules over the free cut-path algebra B. Keep witness, commentary, lemma, intended referent, citation ending, selected number policy and suffix history in the basis grade. On an admitted edge h→k, send e_h b to e_k(1+z_e)b. Applying the target projection gives e_k ε(b), equal to applying the corresponding classical edge to e_h ε(b). On the hearing-faculty grade the bodily aṇ edge and its classical image both vanish; the unextended-noun edge remains admitted. Dropping the singular guard under the second commentary policy does not add an edge on a lexical grade that was never constructed. PG14's multiplicativity and dagger law give the same compatibility on ordered paths and their paired adjoints. [PG14](../grammar_construction/NATIVE_OPERATOR_LIFT.md)

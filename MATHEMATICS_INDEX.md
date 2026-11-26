@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG953 · [The hearing faculty in the printed commentaries](research/panini_grammar/hearing_faculty_in_the_printed_nyasa_and_padamanjari/README.md). The distinct sensory and bodily grades survive PG14 specialization.
+
 PG952 · [The echo in two ritual lists](research/panini_grammar/echo_in_the_ritual_lists_and_the_hearing_person/README.md). PG14 distinguishes the case history from junction and subsequent adjective formation.
 
 PG951 · [Autumn and the hearing person](research/panini_grammar/shrautri_autumn_and_the_hearing_person/README.md). PG14 preserves controller, witness and recitation boundary at the feminine glide and the divergent masculine text.

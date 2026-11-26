@@ -1,4 +1,6 @@
-# Written-development backlog at PG952
+# Written-development backlog at PG953
+
+PG953 · [The hearing faculty in the printed commentaries](hearing_faculty_in_the_printed_nyasa_and_padamanjari/README.md). **Closed** for the leaf-381 printed Nyāsa fallback, Padamañjarī’s explicit hearing-faculty contrast, and the attribution of two citation policies. **Unconstructed** are wider śrautra cases and the remaining PG578 lexical admissions. **Unresolved sources** include the digital transmission of the missing r, which citation policy governs broader usage, the six K139 and three extended-Vasu139 meanings, K128 variants, patradatam and S1–S7. C2–C5 remain open. **Claude-deferred** execution continues.
 
 PG952 · [The echo in two ritual lists](echo_in_the_ritual_lists_and_the_hearing_person/README.md). **Closed** for ordinary echo-noun inflection and the selected locative-derived adjective analysis. **Unconstructed** are the inner lexical derivation and other PG951/PG950 nominal domains. **Unresolved** are exact recensional priority, distributed accent, K139/Vasu139 meanings, K128, patradatam and the remaining S1–S7 readings. Wider C2–C5 work stays open. **Claude-deferred** execution continues.
 

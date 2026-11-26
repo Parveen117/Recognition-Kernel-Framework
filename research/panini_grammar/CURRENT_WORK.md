@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG952
+# Pāṇini grammar · current written coverage at PG953
+
+PG953 · [The hearing faculty in the printed commentaries](hearing_faculty_in_the_printed_nyasa_and_padamanjari/README.md). The print supplies the missing r, identifies the hearing faculty, and attributes two readings of the citation endings. Census 54,547 finite, 26,552 nominal positions and 30,222 nominal readings.
 
 PG952 · [The echo in two ritual lists](echo_in_the_ritual_lists_and_the_hearing_person/README.md). 24 echo-noun positions/24 readings. Census 54,547 finite, 26,552 nominal positions and 30,222 nominal readings.
 

@@ -1,5 +1,7 @@
 # Written Pāṇini work session · 2026-11-26
 
+PG953 · [The hearing faculty in the printed commentaries](hearing_faculty_in_the_printed_nyasa_and_padamanjari/README.md). Parent 177cd6b29ebab1f07d82348043e13d52cf84532b. One semantic construction/two interfaces, three source observations and three policy decisions. Finite and nominal +0/+0 each. Census 54,547 finite, 26,552 nominal positions and 30,222 nominal readings. The image resolves the printed fallback. Its digital ancestry stays open.
+
 PG952 · [The echo in two ritual lists](echo_in_the_ritual_lists_and_the_hearing_person/README.md). Parent ef5eacbd1fa30ea62fc281e285e2ce570548e24d. Finite +0/+0, nominal +24/+24. Two morphology constructions/25 interfaces, one syntax construction/two interfaces, one junction construction/one interface, four observations and three decisions. Census 54,547 finite and 26,552 nominal positions with 30,222 nominal readings. The two dative witnesses count once. Execution stays with Claude.
 
 PG951 · [Autumn and the hearing person](shrautri_autumn_and_the_hearing_person/README.md). Parent ecbe12e95e1cd927ad06a064d3063ac6ed0f5a6b. Finite +0/+0 and nominal +2/+2. One morphology construction/two interfaces, two syntax constructions/two interfaces, five observations and three decisions. Cumulative 54,547 finite, 26,528 nominal positions and 30,198 nominal readings. The two editions at 3.9.13 retain distinct spelling records. Their priority remains Open. Execution stays with Claude.

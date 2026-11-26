@@ -1,0 +1,53 @@
+{
+  "stage": "PG953",
+  "date": "2026-11-26",
+  "publication_parent": "177cd6b29ebab1f07d82348043e13d52cf84532b",
+  "baseline": "../echo_in_the_ritual_lists_and_the_hearing_person/STATE.json",
+  "finite_positions": 54547,
+  "nominal_positions": 26552,
+  "nominal_readings": 30222,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 0,
+  "new_morphology_constructions": 0,
+  "new_syntax_constructions": 0,
+  "new_semantic_constructions": 1,
+  "new_semantic_interfaces": 2,
+  "new_source_observations": 3,
+  "observations": [
+    "Nyāsa printed fallback",
+    "Padamañjarī explicit indriya contrast",
+    "Padamañjarī on two nominative citation forms"
+  ],
+  "new_source_policy_decisions": 3,
+  "decisions": [
+    "Register printed and digital Nyāsa readings separately.",
+    "Distinguish the faculty from the bodily referent on the explicit gloss.",
+    "Keep both interpretations of the citation ending."
+  ],
+  "print_source": {
+    "archive_id": "fPGT_kashika-vritti-with-nyasa-commentary-by-acharya-jinendra-buddhipada-and-padamanj",
+    "file": "Kashika Vritti with Nyasa Commentary by Acharya Jinendra Buddhipada and Padamanjari Commentary by Haradatta Mishra Vol. 4 Ed. by Swami Dwarika Das Shastri Series No. 3 - Sudhi Publication_text.pdf",
+    "sha256": "03e607d0f403a9fd27290ed5c336b273bf15c425e655876f500dfc2b1bb3d489",
+    "pdf_page_one_based": 382,
+    "leaf_zero_based": 381,
+    "sutra": "5.4.38",
+    "nyasa": "अन्यत्र श्रोत्रम्",
+    "padamanjari": "अन्यत्र श्रोत्रमिन्द्रियम्",
+    "digital_nyasa": "अन्यत्र शोत्रम्"
+  },
+  "pins": {
+    "echo_in_the_ritual_lists_and_the_hearing_person/STATE.json": "26c57dfc85c49a8ae65e937516e28219753e0b4c",
+    "prajna_affix_gender_contrast_and_clay_owned_i_after_luk/SOURCES.json": "d09a2a5394455b4adbc79987d450027fb359237c",
+    "prajna_affix_gender_contrast_and_clay_owned_i_after_luk/RELATION.json": "a201a2efb0e1c11442bae184b0745d2673bd170f",
+    "shrautra_ear_and_collection/STATE.json": "d667df80c437b0a2241a8c1ceb2855e99a3e062e",
+    "grammar_construction/NATIVE_OPERATOR_LIFT.md": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b"
+  },
+  "open": [
+    "digital error ancestry and manuscript priority",
+    "citation-policy distribution for vidan and ṣoḍan",
+    "C2–C5/S1–S7 and remaining backlog"
+  ],
+  "execution": "Claude-deferred"
+}
