@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG917
+# Pāṇini grammar · current written coverage at PG918
+
+PG918 · [Medhātithi on the night–day dual and the purpose of the fortnight](medhatithi_on_night_day_and_purpose/README.md). Two new nominal cases and three readings. Census 52,531 finite, 26,418 nominal and 30,085 nominal readings.
 
 PG917 · [The day-and-night collective and its predicate](ahar_nisa_collective_and_predicate/README.md). The collective stem and a Bhāgavata nominative are sourced. Census 52,531 finite, 26,416 nominal and 30,082 nominal readings.
 

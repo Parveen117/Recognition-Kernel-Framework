@@ -1,0 +1,97 @@
+{
+  "stage": "PG918",
+  "date": "2026-11-26",
+  "publication_parent": "355c38b676f78d0e1c74971c4cc785afc0249eb4",
+  "baseline": "../ahar_nisa_collective_and_predicate/STATE.json",
+  "finite_positions": 52531,
+  "nominal_positions": 26418,
+  "nominal_readings": 30085,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 2,
+  "new_nominal_readings": 3,
+  "new_morphology_constructions": 0,
+  "new_morphology_interfaces": 1,
+  "new_syntax_constructions": 1,
+  "new_syntax_interfaces": 2,
+  "readings": [
+    {
+      "stem": "rātryahan",
+      "gender": "N",
+      "case": "NOM",
+      "number": "du",
+      "word": "rātryahnī",
+      "source": "Olivelle electronic verse 1.67",
+      "new_position": false
+    },
+    {
+      "stem": "karmaceṣṭā",
+      "gender": "F",
+      "case": "LOC",
+      "number": "pl",
+      "word": "karmaceṣṭāsu",
+      "source": "verse 1.66",
+      "new_position": true
+    },
+    {
+      "stem": "karmaceṣṭā",
+      "gender": "F",
+      "case": "DAT",
+      "number": "pl",
+      "word": "karmaceṣṭābhyaḥ",
+      "source": "commentary proposal on 1.66",
+      "new_position": true
+    }
+  ],
+  "observations": [
+    "1.66 verse",
+    "1.66 proposal and explanation",
+    "1.67 verse collation",
+    "1.68 measure gloss",
+    "1.74 sibilant collation"
+  ],
+  "decisions": [
+    "short dual in electronic verse; longer Jha print",
+    "purpose dative proposed, domain locative transmitted",
+    "identification of the measured period",
+    "retain electronic ṣ as diplomatic"
+  ],
+  "new_source_observations": 5,
+  "new_source_policy_decisions": 4,
+  "pins": {
+    "grammar_construction/NATIVE_OPERATOR_LIFT.md": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+    "SUTRAPATHA.tsv": "1840f3b5349b21112ac05a7efaa59705fd4efee0",
+    "manu_day_night_in_two_member_orders/README.md": "f55a2d1ab40d46212955d4aa01c125a7f260921b",
+    "manu_day_night_in_two_member_orders/STATE.json": "aa9d7516353b1cb68f310eb68a624658b4e3463b",
+    "measured_day_night_and_its_knowers/README.md": "b285441bebe23c12148606c03d4fee31d251cbf1",
+    "ahar_nisa_collective_and_predicate/STATE.json": "aa57a6475457c6af074f9940ff3155f3c8767308"
+  },
+  "external_files": [
+    {
+      "url": "https://docs.google.com/document/d/1Kn8oAXFeOXVPiG660vmrT3ltKamn5FbvEZ7vh7UjdfE/export?format=txt",
+      "sha256": "65d8fe8aaf86cec6a67d21a8859c85fb09bbcf3885ca0af53cfd5c6ef332852c",
+      "editor": "Patrick Olivelle, May 2021"
+    },
+    {
+      "url": "https://archive.org/download/manusmritiwiththemanubhashyaofmedhatithivolumeitextedgjhacalcutta1932600dpilossless_202003_236_X/Manusmriti-With-the-Manubhashya-of-Medhatithi-Volume-I-Text-Ed-G-jha-Calcutta-1932-600dpi-Lossless_text.pdf",
+      "sha256": "681bf1b25aaaf999e09bf7059dbcad15d8dc5aba7b5e2fdd46d0961f051904da",
+      "pdf_page_one_based": [
+        41,
+        42,
+        44
+      ],
+      "edition": "Jha, Calcutta 1932, volume I"
+    },
+    {
+      "url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/html/sa_manusmRti.htm",
+      "sha256": "6124da0c159226052138988ddd7358ba742a0e925ba5fce28135e50bae432918"
+    }
+  ],
+  "open": [
+    "print or manuscript ancestor of the two differing electronic readings",
+    "karmaceṣṭā internal formation",
+    "kṣapāha inner compound and other cases",
+    "wider C2–C5 and S1–S7"
+  ],
+  "execution": "Claude-deferred"
+}

@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG918 · [Medhātithi on the night–day dual and the purpose of the fortnight](medhatithi_on_night_day_and_purpose/README.md). Manu 1.67 supplies a contracted electronic reading. At 1.66 Medhātithi distinguishes a proposed purpose dative from the verse locative.
+
 PG917 · [The day-and-night collective and its predicate](ahar_nisa_collective_and_predicate/README.md). Two member endings undergo luk. Shortening and the r/ru decision have separate owners.
 
 PG916 · [The ordinary aharniśa case panel](ahar_nisa_whole_day_nominal_cases/README.md). The ordinary neuter paradigm distinguishes three sources of dental n and two inherited singular readings.

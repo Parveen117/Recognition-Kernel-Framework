@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG918 · [Medhātithi on the night–day dual and the purpose of the fortnight](research/panini_grammar/medhatithi_on_night_day_and_purpose/README.md). The full source-labelled PG14 maps recover a single dual key with two readings and keep the proposed dative outside the verse fibre.
+
 PG917 · [The day-and-night collective and its predicate](research/panini_grammar/ahar_nisa_collective_and_predicate/README.md). PG14 augmentation preserves the different visibility of luk for designation and r-substitution.
 
 PG916 · [The ordinary aharniśa case panel](research/panini_grammar/ahar_nisa_whole_day_nominal_cases/README.md). Intervening ś and each ending’s nasal owner survive PG14 augmentation.
