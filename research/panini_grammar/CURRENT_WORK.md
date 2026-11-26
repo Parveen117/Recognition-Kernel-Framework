@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG937
+# Pāṇini grammar · current written coverage at PG938
+
+PG938 · [The selected passive ten-category grid of √hu in giving](hu_dana_selected_passive_ten_category_grid/README.md). Concordance record 1592 supplies 90 patient-controlled karmaṇi positions and 164 readings, including a 37-reading perfect with simple and three periphrastic auxiliary histories. The adjacent eating record stays Open and separate. Census 54,177 finite, 26,426 nominal and 30,094 nominal readings.
 
 PG937 · [The selected passive ten-category grid of √dā](da_selected_passive_ten_category_grid/README.md). The exact karmaṇi source supplies 90 patient-controlled cells and 136 readings. PG33 retains first ownership of all nine lṛṅ cells/two routes, and PG34 retains luṅ 3sg *adāyi*, so the auditable new delta is 80 finite positions/117 readings. Census 54,087 finite, 26,426 nominal and 30,094 nominal readings.
 

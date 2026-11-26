@@ -1,4 +1,11 @@
-# Written-development backlog at PG937
+# Written-development backlog at PG938
+
+PG938 · [The selected passive ten-category grid of √hu in giving](hu_dana_selected_passive_ten_category_grid/README.md). Closed the selected simple empty-preverb record-1592 giving karmaṇi grid: 90 patient-controlled keys/164 readings. PG931 retains kartari ownership; the adjacent eating record is not merged.
+
+- **Already closed targets.** The selected √hu giving-sense karmaṇi grid is CLOSED at PG938, √dā karmaṇi is CLOSED across PG33/34/937, and √dhā karmaṇi remains CLOSED at PG936. PG7/9/22/931/934–935 retain kartari grids; PG253–255 retain ordered prefixed requests. PG335 and PG357–363 remain historical CLOSED results.
+- **Genuine unconstructed domains.** The adjacent √hu eating record, wider giving/taking sense boundary, prefixed passive, bhāva, karmakartṛ, causative and other derived-root requests, nonfinite agreement, accent and wider text remain Open. Corresponding √dā/√dhā extensions remain Open. The six K139 and three extended-Vasu139 meanings, K128 recensional/inner variants, patradatam fork and broader C2–C5 domains retain concrete entries.
+- **Unresolved source readings.** Critical priority and distribution of √hu’s simple/periphrastic perfect and future, blessing and aorist alternatives remain Open, as do the corresponding √dā/√dhā questions. No absent witness is treated as an exclusion. S1–S7 and inherited local source questions retain their registers.
+- **Claude-deferred execution.** Sanskrit generators, grammar execution, untouched old suites and certificate replay remain outside written-development credit.
 
 PG937 · [The selected passive ten-category grid of √dā](da_selected_passive_ten_category_grid/README.md). Closed the selected simple empty-preverb giving karmaṇi grid across PG33/34/937: 90 patient-controlled keys/136 readings. PG937 newly credits 80/117 after preserving PG33 lṛṅ and PG34 luṅ 3sg first ownership.
 

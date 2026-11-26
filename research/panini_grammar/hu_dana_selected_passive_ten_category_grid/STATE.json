@@ -1,0 +1,65 @@
+{
+  "stage": "PG938",
+  "date": "2026-11-26",
+  "publication_parent": "1528628938cadd3b1d6fbd5cd8a1b82e994e887a",
+  "baseline": "../da_selected_passive_ten_category_grid/STATE.json",
+  "finite_positions": 54177,
+  "nominal_positions": 26426,
+  "nominal_readings": 30094,
+  "new_finite_positions": 90,
+  "new_finite_readings": 164,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 0,
+  "new_morphology_constructions": 10,
+  "new_morphology_interfaces": 90,
+  "new_syntax_constructions": 1,
+  "new_syntax_interfaces": 90,
+  "new_source_observations": 11,
+  "new_source_policy_decisions": 8,
+  "reading_counts": {
+    "laṭ": 9,
+    "liṭ": 37,
+    "luṭ": 18,
+    "lṛṭ": 18,
+    "loṭ": 9,
+    "laṅ": 9,
+    "vidhiliṅ": 9,
+    "āśīrliṅ": 19,
+    "luṅ": 18,
+    "lṛṅ": 18
+  },
+  "decisions": [
+    "concordance record 1592 hu dane is selected; adjacent record 1591 hu adane is not silently merged",
+    "the page-bounded giving or ritual-offering sense is selected under empty preverb and karmaṇi voice",
+    "the expressed patient, not the external offerer, controls person and number",
+    "the actor record's P-only label does not block passive A endings",
+    "equal actor and passive words remain distinct voice/controller positions",
+    "slash alternatives are readings at one typed key",
+    "simple and three periphrastic-perfect auxiliary histories remain labelled alternatives",
+    "other senses, prefixes, voices, derivations and critical priority remain Open"
+  ],
+  "pins": {
+    "grammar_construction/NATIVE_OPERATOR_LIFT.md": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+    "grammar_construction/STATE_AND_COMPOSITION.md": "593f548f92c6398508db1fa943352fbe23cb51c9",
+    "SUTRAPATHA.tsv": "1840f3b5349b21112ac05a7efaa59705fd4efee0",
+    "da_selected_passive_ten_category_grid/STATE.json": "f35b2c28b8fad22a02b0e83f740706cd3b185c86",
+    "hu_remaining_actor_categories/STATE.json": "9f3d028cc2d9405e84a0090925bd0a5058f365e8",
+    "hu_remaining_actor_categories/FINITE_FORMS.tsv": "3b9f8a08e43727817c372291f2213549d1123f52"
+  },
+  "external_files": {
+    "https://samsaadhanii-concordance.vipran.in/dhatu/1592-hu-xAne-hu1": "77e6a3876069456ddb4eb6da144b0f68771affdcd9f6c98dae74a955dde02440"
+  },
+  "external_hash_policy": {
+    "samsaadhanii_1592": "raw response bytes retrieved 2026-11-26"
+  },
+  "open": [
+    "adjacent hu eating record and wider giving-taking sense boundary",
+    "prefixed passive, bhava, karmakartr, causative and other derived-root requests",
+    "nonfinite agreement, accent and wider text",
+    "critical priority and distribution of the simple and periphrastic perfect and other alternatives",
+    "six K139 and three extended Vasu139 lexical meanings",
+    "remaining K128, patradatam, C2-C5 and source S1-S7 registers"
+  ],
+  "execution": "Claude-deferred"
+}
+

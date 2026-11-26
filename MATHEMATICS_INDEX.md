@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG938 · [The selected passive ten-category grid of √hu in giving](research/panini_grammar/hu_dana_selected_passive_ten_category_grid/README.md). PG14 retains source-record, sense, voice, controller, perfect-construction, auxiliary, future-base and alternative histories; typed zero-specialization recovers 90 patient-controlled requests without merging the adjacent eating record or PG931 actor keys.
+
 PG937 · [The selected passive ten-category grid of √dā](research/panini_grammar/da_selected_passive_ten_category_grid/README.md). PG14 retains lexical, voice, controller, yaK, augment, perfect, future-base, iṭ/ciṇ, alternative and first-credit histories; typed zero-specialization recovers 80 new patient-controlled requests while preserving PG33/34 ownership of 10 source cells.
 
 PG936 · [The selected passive ten-category grid of √dhā](research/panini_grammar/dha_selected_passive_ten_category_grid/README.md). PG14 retains lexical, voice, controller, yaK, augment, perfect, future-base, iṭ/ciṇ and alternative histories; typed zero-specialization recovers 90 patient-controlled requests without identifying actor-middle homographs.
