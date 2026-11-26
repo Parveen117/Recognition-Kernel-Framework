@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG990
+# Pāṇini grammar · current written coverage at PG991
+
+PG991 · [Hiding with ni and embracing with upa](guh_hiding_and_embracing_prefixed_actor_grids/README.md). Two selected prefixed actor grids add 358 finite positions and 547 readings after deduction of the two earlier positions. Census 56,056 finite positions, 27,461 nominal positions and 31,230 nominal readings.
 
 PG990 · [The dental condition in the middle aorist](guh_dental_condition_and_remaining_actor_cells/README.md). Kāśikā 7.3.73 distinguishes first dual from first plural and directly gives two ni + guh readings. The 84 outstanding unprefixed cells complete the selected 180-position actor grid. Including the prefixed pair, 85 new finite positions/129 readings bring the census to 55,698 finite positions, 27,461 nominal positions and 31,230 nominal readings.
 
