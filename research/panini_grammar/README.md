@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG924 · [The remaining actor categories of √ric](ric_remaining_actor_categories/README.md). The seven new category constructions retain root-final c’s k/g/j/kṣ readouts, strong/weak śnam, aṅ/sic and separate P/A semantic guards.
+
 PG923 · [The remaining actor categories of √chid](chid_remaining_actor_categories/README.md). The seven new category constructions retain śnam, aniṭ future, reduplication, aṅ/sic, blessing and conditional histories separately across the two semantically guarded padas.
 
 PG922 · [The six outer categories of √rudh](rudh_outer_lakaras_and_actor_grid/README.md). The P aorist has aṅ and sic continuations. The A aorist and blessing retain u, with independent suffix histories.

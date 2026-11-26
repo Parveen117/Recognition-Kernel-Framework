@@ -1,0 +1,64 @@
+{
+  "stage": "PG924",
+  "date": "2026-11-26",
+  "publication_parent": "c6cb8dd52cdeb8076b62aa4498b1eb308c977e08",
+  "baseline": "../chid_remaining_actor_categories/STATE.json",
+  "finite_positions": 52909,
+  "nominal_positions": 26426,
+  "nominal_readings": 30094,
+  "new_finite_positions": 126,
+  "new_finite_readings": 141,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 0,
+  "new_morphology_constructions": 7,
+  "new_morphology_interfaces": 14,
+  "new_syntax_constructions": 0,
+  "new_syntax_interfaces": 0,
+  "new_source_observations": 2,
+  "new_source_policy_decisions": 4,
+  "reading_counts": {
+    "laṅ/P": 11,
+    "laṅ/A": 9,
+    "lṛṭ/P": 9,
+    "lṛṭ/A": 9,
+    "luṭ/P": 9,
+    "luṭ/A": 9,
+    "liṭ/P": 9,
+    "liṭ/A": 9,
+    "luṅ/P": 20,
+    "luṅ/A": 9,
+    "āśīrliṅ/P": 10,
+    "āśīrliṅ/A": 9,
+    "lṛṅ/P": 10,
+    "lṛṅ/A": 9
+  },
+  "decisions": [
+    "kartari A is guarded by the actor-principal-result premise and P retains the residual actor request",
+    "slash-separated outputs are readings at one typed key rather than extra roots or positions",
+    "the ir-conditioned aṅ option belongs to the P aorist while A retains its sic-kit history",
+    "identical spellings preserve their source, pada, person, ending and semantic ownership"
+  ],
+  "coverage": {
+    "laṭ": "PG7",
+    "loṭ and vidhiliṅ": "PG22",
+    "remaining seven named categories": "PG924",
+    "selected_kartari_positions_across_stages": 180
+  },
+  "pins": {
+    "grammar_construction/NATIVE_OPERATOR_LIFT.md": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+    "SUTRAPATHA.tsv": "1840f3b5349b21112ac05a7efaa59705fd4efee0",
+    "chid_remaining_actor_categories/STATE.json": "23a7ec53a1c698e1371bce7141bd4ac001c00e6c",
+    "snam_lat/LEXICAL_ENTRIES.json": "ca9f1d2d6b6f1772f664e74bcd42b75fc0f866a1",
+    "athematic_modals/PARADIGMS.md": "623356e24a76ce515ae0ec2015f6f98381b6f5de"
+  },
+  "external_files": {
+    "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA1042.html": "a09603b9fba6afc7842b3cca573b5e01f4ac7a68ddf0399fc45466dce62e27df",
+    "https://whm.cdsharma.in/dhatu-rupavali?id=1647": "8041df7801f2f5fcc8683340828cbd67e458df174f79effde093dda31c117aba"
+  },
+  "open": [
+    "ric passive, karmakartṛ, prefixed, derived, accent, wider textual and other lexical-sense domains",
+    "historical and critical priority of the recorded alternatives",
+    "remaining written C2–C5 and source S1–S7 registers"
+  ],
+  "execution": "Claude-deferred"
+}

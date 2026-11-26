@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG923
+# Pāṇini grammar · current written coverage at PG924
+
+PG924 · [The remaining actor categories of √ric](ric_remaining_actor_categories/README.md). The selected unprefixed actor grids now have 180 positions across PG7/22/924. Added 126 finite positions and 141 readings. Census 52,909 finite, 26,426 nominal and 30,094 nominal readings.
 
 PG923 · [The remaining actor categories of √chid](chid_remaining_actor_categories/README.md). The selected unprefixed actor grids now have 180 positions across PG7/22/923. Added 126 finite positions and 148 readings. Census 52,783 finite, 26,426 nominal and 30,094 nominal readings.
 

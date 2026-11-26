@@ -1,5 +1,7 @@
 # Written Pāṇini work session · 2026-11-26
 
+PG924 · [The remaining actor categories of √ric](ric_remaining_actor_categories/README.md). Parent c6cb8dd52cdeb8076b62aa4498b1eb308c977e08. Finite +126/+141, nominal +0/+0. Seven morphology constructions, fourteen category/pada interfaces, two source observations and four source-policy decisions. Census 52,909 finite, 26,426 nominal and 30,094 nominal readings. PG7/22 retain the earlier 54 positions; Claude retains execution.
+
 PG923 · [The remaining actor categories of √chid](chid_remaining_actor_categories/README.md). Parent ce49396b8a15569531586603c95e74cf06a6749b. Finite +126/+148, nominal +0/+0. Seven morphology constructions, fourteen category/pada interfaces, two source observations and four source-policy decisions. Census 52,783 finite, 26,426 nominal and 30,094 nominal readings. PG7/22 keep their 54 earlier positions; Claude retains execution.
 
 PG922 · [The six outer categories of √rudh](rudh_outer_lakaras_and_actor_grid/README.md). Parent 4913fe4230b556ade7c68ef2c291f9ab9f8a0e6b. Finite +108/+121, nominal +0/+0. Six category constructions, twelve category/pada interfaces, zero new source observations and two branch-policy decisions. Census 52,657 finite, 26,426 nominal and 30,094 nominal readings. Claude retains execution.
