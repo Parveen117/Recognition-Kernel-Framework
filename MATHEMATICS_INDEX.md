@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG1000 · [Two more printed foot-compound lists](research/panini_grammar/foot_compound_lists_in_sakatayana_and_the_gujarati_lexicon/README.md). The prints distinguish retroflex kuṇi and dental kuni and attest the shorter supadī. They positively corroborate long ī in munipadī. Zero new word positions/readings. Census 56,425 finite positions, 27,540 nominal positions and 31,311 nominal readings.
+
 PG999 · [Three pra + artha grids and the request for cloth](research/panini_grammar/pra_artha_three_grids_and_the_recited_request/README.md). Kaumudī’s retained outer ṇic supplies a source-qualified active route. Three grids add 27 finite positions/27 readings, and one active participle adds one nominal position/reading. Census 56,425 finite positions, 27,540 nominal positions and 31,311 nominal readings.
 
 PG998 · [The 1898 print resolves the lṛṅ label](research/panini_grammar/trivedi_print_for_the_conditional_and_two_cinvat_branches/README.md). Trivedī’s p. 290 prints lṛṅ and explicitly assigns both dṛś affix branches. The apparatus distinguishes c. from C. and restores D’s doubled c. Zero new word positions or readings. Census 56,398 finite positions, 27,539 nominal positions and 31,310 nominal readings.

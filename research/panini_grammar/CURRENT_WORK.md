@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG999
+# Pāṇini grammar · current written coverage at PG1000
+
+PG1000 · [Two more printed foot-compound lists](foot_compound_lists_in_sakatayana_and_the_gujarati_lexicon/README.md). The prints distinguish retroflex kuṇi and dental kuni and attest the shorter supadī. They positively corroborate long ī in munipadī. Zero new word positions/readings. Census 56,425 finite positions, 27,540 nominal positions and 31,311 nominal readings.
 
 PG999 · [Three pra + artha grids and the request for cloth](pra_artha_three_grids_and_the_recited_request/README.md). Kaumudī’s retained outer ṇic supplies a source-qualified active route. Three grids add 27 finite positions/27 readings, and one active participle adds one nominal position/reading. Census 56,425 finite positions, 27,540 nominal positions and 31,311 nominal readings.
 
