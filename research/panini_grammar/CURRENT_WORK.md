@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG921
+# Pāṇini grammar · current written coverage at PG922
+
+PG922 · [The six outer categories of √rudh](rudh_outer_lakaras_and_actor_grid/README.md). The two selected ten-category kartari grids now have 180 positions across stages. Added 108 finite positions and 121 readings. Census 52,657 finite, 26,426 nominal and 30,094 nominal readings.
 
 PG921 · [The imperfect of √rudh and the reported siege](rudh_imperfect_and_the_reported_siege/README.md). Eighteen finite positions and 27 readings. Census 52,549 finite, 26,426 nominal and 30,094 nominal readings.
 

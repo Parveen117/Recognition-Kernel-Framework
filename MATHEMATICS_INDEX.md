@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG922 · [The six outer categories of √rudh](research/panini_grammar/rudh_outer_lakaras_and_actor_grid/README.md). The PG14 ir/P cut admits aṅ alongside sic. The independent A kit cut retains the short root vowel.
+
 PG921 · [The imperfect of √rudh and the reported siege](research/panini_grammar/rudh_imperfect_and_the_reported_siege/README.md). PG14 retains different ending histories through optional root-final ru and the dental-cluster forks.
 
 PG920 · [The editor’s laṅ correction and the reader copies](research/panini_grammar/kasika_lang_edit_and_reader_copies/README.md). The typed edit map recovers laṅ at the editing locus. Each aggregate has independent source history.

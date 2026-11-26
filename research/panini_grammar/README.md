@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG922 · [The six outer categories of √rudh](rudh_outer_lakaras_and_actor_grid/README.md). The P aorist has aṅ and sic continuations. The A aorist and blessing retain u, with independent suffix histories.
+
 PG921 · [The imperfect of √rudh and the reported siege](rudh_imperfect_and_the_reported_siege/README.md). The two imperfect padas retain strong and weak śnam, dental alternatives and a ru branch confined to P 2sg.
 
 PG920 · [The editor’s laṅ correction and the reader copies](kasika_lang_edit_and_reader_copies/README.md). At 3.2.111 the editing workspace restores the imperfect in the prescription. The two imperfect examples and the separate later laṅ sentence are preserved.
