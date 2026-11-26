@@ -1,0 +1,447 @@
+{
+  "stage": "PG959",
+  "date": "2026-11-26",
+  "publication_parent": "d6427704153c13e01463e1cc354c795a7cde63cd",
+  "baseline": "../sapadi_print_and_verse_apparatus/STATE.json",
+  "finite_positions": 54907,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "execution": "Claude-deferred",
+  "nominal_positions": 26641,
+  "nominal_readings": 30313,
+  "new_nominal_positions": 48,
+  "new_nominal_readings": 48,
+  "new_morphology_constructions": 2,
+  "new_morphology_interfaces": 48,
+  "morphology": [
+    "Feminine bodily-eye bahuvrīhi with ṣac and ṅīṣ",
+    "Feminine anu-kamp ṇyat adjective with ā"
+  ],
+  "new_syntax_constructions": 2,
+  "new_syntax_interfaces": 3,
+  "syntax": [
+    "Two descriptive adjectives on one daughter",
+    "Temporal adverb attached to taking up"
+  ],
+  "new_source_observations": 2,
+  "new_source_policy_decisions": 2,
+  "observations": [
+    "Mallinātha’s two grammatical analyses on p.73",
+    "Prakāśikā at 3.76"
+  ],
+  "decisions": [
+    "Choose ṣac/ṅīṣ and ṇyat respectively under the gloss.",
+    "Follow Prakāśikā’s explicit sapadi–ādāya attachment."
+  ],
+  "nominal_register": [
+    {
+      "stem": "mukulitākṣī",
+      "gender": "F",
+      "case": "NOM",
+      "number": "sg",
+      "reading": "mukulitākṣī",
+      "evidence": "written case extension"
+    },
+    {
+      "stem": "mukulitākṣī",
+      "gender": "F",
+      "case": "NOM",
+      "number": "du",
+      "reading": "mukulitākṣyau",
+      "evidence": "written case extension"
+    },
+    {
+      "stem": "mukulitākṣī",
+      "gender": "F",
+      "case": "NOM",
+      "number": "pl",
+      "reading": "mukulitākṣyaḥ",
+      "evidence": "written case extension"
+    },
+    {
+      "stem": "anukampyā",
+      "gender": "F",
+      "case": "NOM",
+      "number": "sg",
+      "reading": "anukampyā",
+      "evidence": "written case extension"
+    },
+    {
+      "stem": "anukampyā",
+      "gender": "F",
+      "case": "NOM",
+      "number": "du",
+      "reading": "anukampye",
+      "evidence": "written case extension"
+    },
+    {
+      "stem": "anukampyā",
+      "gender": "F",
+      "case": "NOM",
+      "number": "pl",
+      "reading": "anukampyāḥ",
+      "evidence": "written case extension"
+    },
+    {
+      "stem": "mukulitākṣī",
+      "gender": "F",
+      "case": "ACC",
+      "number": "sg",
+      "reading": "mukulitākṣīm",
+      "evidence": "verse and commentary"
+    },
+    {
+      "stem": "mukulitākṣī",
+      "gender": "F",
+      "case": "ACC",
+      "number": "du",
+      "reading": "mukulitākṣyau",
+      "evidence": "written case extension"
+    },
+    {
+      "stem": "mukulitākṣī",
+      "gender": "F",
+      "case": "ACC",
+      "number": "pl",
+      "reading": "mukulitākṣīḥ",
+      "evidence": "written case extension"
+    },
+    {
+      "stem": "anukampyā",
+      "gender": "F",
+      "case": "ACC",
+      "number": "sg",
+      "reading": "anukampyām",
+      "evidence": "verse and commentary"
+    },
+    {
+      "stem": "anukampyā",
+      "gender": "F",
+      "case": "ACC",
+      "number": "du",
+      "reading": "anukampye",
+      "evidence": "written case extension"
+    },
+    {
+      "stem": "anukampyā",
+      "gender": "F",
+      "case": "ACC",
+      "number": "pl",
+      "reading": "anukampyāḥ",
+      "evidence": "written case extension"
+    },
+    {
+      "stem": "mukulitākṣī",
+      "gender": "F",
+      "case": "INS",
+      "number": "sg",
+      "reading": "mukulitākṣyā",
+      "evidence": "written case extension"
+    },
+    {
+      "stem": "mukulitākṣī",
+      "gender": "F",
+      "case": "INS",
+      "number": "du",
+      "reading": "mukulitākṣībhyām",
+      "evidence": "written case extension"
+    },
+    {
+      "stem": "mukulitākṣī",
+      "gender": "F",
+      "case": "INS",
+      "number": "pl",
+      "reading": "mukulitākṣībhiḥ",
+      "evidence": "written case extension"
+    },
+    {
+      "stem": "anukampyā",
+      "gender": "F",
+      "case": "INS",
+      "number": "sg",
+      "reading": "anukampyayā",
+      "evidence": "written case extension"
+    },
+    {
+      "stem": "anukampyā",
+      "gender": "F",
+      "case": "INS",
+      "number": "du",
+      "reading": "anukampyābhyām",
+      "evidence": "written case extension"
+    },
+    {
+      "stem": "anukampyā",
+      "gender": "F",
+      "case": "INS",
+      "number": "pl",
+      "reading": "anukampyābhiḥ",
+      "evidence": "written case extension"
+    },
+    {
+      "stem": "mukulitākṣī",
+      "gender": "F",
+      "case": "DAT",
+      "number": "sg",
+      "reading": "mukulitākṣyai",
+      "evidence": "written case extension"
+    },
+    {
+      "stem": "mukulitākṣī",
+      "gender": "F",
+      "case": "DAT",
+      "number": "du",
+      "reading": "mukulitākṣībhyām",
+      "evidence": "written case extension"
+    },
+    {
+      "stem": "mukulitākṣī",
+      "gender": "F",
+      "case": "DAT",
+      "number": "pl",
+      "reading": "mukulitākṣībhyaḥ",
+      "evidence": "written case extension"
+    },
+    {
+      "stem": "anukampyā",
+      "gender": "F",
+      "case": "DAT",
+      "number": "sg",
+      "reading": "anukampyāyai",
+      "evidence": "written case extension"
+    },
+    {
+      "stem": "anukampyā",
+      "gender": "F",
+      "case": "DAT",
+      "number": "du",
+      "reading": "anukampyābhyām",
+      "evidence": "written case extension"
+    },
+    {
+      "stem": "anukampyā",
+      "gender": "F",
+      "case": "DAT",
+      "number": "pl",
+      "reading": "anukampyābhyaḥ",
+      "evidence": "written case extension"
+    },
+    {
+      "stem": "mukulitākṣī",
+      "gender": "F",
+      "case": "ABL",
+      "number": "sg",
+      "reading": "mukulitākṣyāḥ",
+      "evidence": "written case extension"
+    },
+    {
+      "stem": "mukulitākṣī",
+      "gender": "F",
+      "case": "ABL",
+      "number": "du",
+      "reading": "mukulitākṣībhyām",
+      "evidence": "written case extension"
+    },
+    {
+      "stem": "mukulitākṣī",
+      "gender": "F",
+      "case": "ABL",
+      "number": "pl",
+      "reading": "mukulitākṣībhyaḥ",
+      "evidence": "written case extension"
+    },
+    {
+      "stem": "anukampyā",
+      "gender": "F",
+      "case": "ABL",
+      "number": "sg",
+      "reading": "anukampyāyāḥ",
+      "evidence": "written case extension"
+    },
+    {
+      "stem": "anukampyā",
+      "gender": "F",
+      "case": "ABL",
+      "number": "du",
+      "reading": "anukampyābhyām",
+      "evidence": "written case extension"
+    },
+    {
+      "stem": "anukampyā",
+      "gender": "F",
+      "case": "ABL",
+      "number": "pl",
+      "reading": "anukampyābhyaḥ",
+      "evidence": "written case extension"
+    },
+    {
+      "stem": "mukulitākṣī",
+      "gender": "F",
+      "case": "GEN",
+      "number": "sg",
+      "reading": "mukulitākṣyāḥ",
+      "evidence": "written case extension"
+    },
+    {
+      "stem": "mukulitākṣī",
+      "gender": "F",
+      "case": "GEN",
+      "number": "du",
+      "reading": "mukulitākṣyoḥ",
+      "evidence": "written case extension"
+    },
+    {
+      "stem": "mukulitākṣī",
+      "gender": "F",
+      "case": "GEN",
+      "number": "pl",
+      "reading": "mukulitākṣīṇām",
+      "evidence": "written case extension"
+    },
+    {
+      "stem": "anukampyā",
+      "gender": "F",
+      "case": "GEN",
+      "number": "sg",
+      "reading": "anukampyāyāḥ",
+      "evidence": "written case extension"
+    },
+    {
+      "stem": "anukampyā",
+      "gender": "F",
+      "case": "GEN",
+      "number": "du",
+      "reading": "anukampyayoḥ",
+      "evidence": "written case extension"
+    },
+    {
+      "stem": "anukampyā",
+      "gender": "F",
+      "case": "GEN",
+      "number": "pl",
+      "reading": "anukampyānām",
+      "evidence": "written case extension"
+    },
+    {
+      "stem": "mukulitākṣī",
+      "gender": "F",
+      "case": "LOC",
+      "number": "sg",
+      "reading": "mukulitākṣyām",
+      "evidence": "written case extension"
+    },
+    {
+      "stem": "mukulitākṣī",
+      "gender": "F",
+      "case": "LOC",
+      "number": "du",
+      "reading": "mukulitākṣyoḥ",
+      "evidence": "written case extension"
+    },
+    {
+      "stem": "mukulitākṣī",
+      "gender": "F",
+      "case": "LOC",
+      "number": "pl",
+      "reading": "mukulitākṣīṣu",
+      "evidence": "written case extension"
+    },
+    {
+      "stem": "anukampyā",
+      "gender": "F",
+      "case": "LOC",
+      "number": "sg",
+      "reading": "anukampyāyām",
+      "evidence": "written case extension"
+    },
+    {
+      "stem": "anukampyā",
+      "gender": "F",
+      "case": "LOC",
+      "number": "du",
+      "reading": "anukampyayoḥ",
+      "evidence": "written case extension"
+    },
+    {
+      "stem": "anukampyā",
+      "gender": "F",
+      "case": "LOC",
+      "number": "pl",
+      "reading": "anukampyāsu",
+      "evidence": "written case extension"
+    },
+    {
+      "stem": "mukulitākṣī",
+      "gender": "F",
+      "case": "VOC",
+      "number": "sg",
+      "reading": "mukulitākṣi",
+      "evidence": "written case extension"
+    },
+    {
+      "stem": "mukulitākṣī",
+      "gender": "F",
+      "case": "VOC",
+      "number": "du",
+      "reading": "mukulitākṣyau",
+      "evidence": "written case extension"
+    },
+    {
+      "stem": "mukulitākṣī",
+      "gender": "F",
+      "case": "VOC",
+      "number": "pl",
+      "reading": "mukulitākṣyaḥ",
+      "evidence": "written case extension"
+    },
+    {
+      "stem": "anukampyā",
+      "gender": "F",
+      "case": "VOC",
+      "number": "sg",
+      "reading": "anukampye",
+      "evidence": "written case extension"
+    },
+    {
+      "stem": "anukampyā",
+      "gender": "F",
+      "case": "VOC",
+      "number": "du",
+      "reading": "anukampye",
+      "evidence": "written case extension"
+    },
+    {
+      "stem": "anukampyā",
+      "gender": "F",
+      "case": "VOC",
+      "number": "pl",
+      "reading": "anukampyāḥ",
+      "evidence": "written case extension"
+    }
+  ],
+  "same_commit_baseline_blob": "3e08d2ae31b305f56304cbc41a48ad28d4b626db",
+  "sources": {
+    "https://upload.wikimedia.org/wikisource/sa/8/83/%E0%A4%95%E0%A5%81%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A4%B8%E0%A4%AE%E0%A5%8D%E0%A4%AD%E0%A4%B5%E0%A4%AE%E0%A5%8D_%28%E0%A4%A8%E0%A4%BF%E0%A4%B0%E0%A5%8D%E0%A4%A3%E0%A4%AF%E0%A4%B8%E0%A4%BE%E0%A4%97%E0%A4%B0%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D-%E0%A5%A7%E0%A5%AF%E0%A5%AB%E0%A5%AB%29.pdf?utm_source=sa.wikisource.org&utm_campaign=imageinfo&utm_content=original": {
+      "sha256": "ecb733460dabb29103cd4b31017453c796ec39a8aa033f408b139ef9a813199e",
+      "commons_or_local": "Sanskrit Wikisource local file",
+      "mediawiki_sha1": "0418dccec0b5b5d5e05a1e1e4659eaff288cf3b7",
+      "pdf_page": 119,
+      "printed_page": 73
+    },
+    "https://vishvasa.github.io/purANam/shaivam/kAvyam/padyam/kAlidAsaH_kumAra-sambhavam/TIkAH/nArAyaNaH/kumArasambhavaH_dvitIyaH_sampuTaH/": {
+      "sha256": "36aaa55c65cf50c484408e105423ae9d1ecbc710658fc812279ce24df5634ac1"
+    }
+  },
+  "open": [
+    "Direct evidence for additional inflected cells, accent, Vedic alternatives, manuscript priority",
+    "Other C2–C5 and S1–S7 obligations"
+  ],
+  "pins": {
+    "sapadi_kumarasambhava_primary_token_and_vcp_ocr_resolution/RELATION.json": "82f8d182ca0e7ba1f3256ac504305ef17e22507a",
+    "compound_sound_accent/RULES_5_4.md": "1a9109a8efc8a61ecf72527c1ba29c6a2f8d320e",
+    "independent_written_closure/RULES_D2.md": "7e7bfbc4e3bd5d3aebfa7c61e511b48ecd56bd97",
+    "juhvati_feminine_offering_participle/STATE.json": "29ea4dcb824b9914a0f0bcec9a402f70a28bd2ab",
+    "echo_in_the_ritual_lists_and_the_hearing_person/STATE.json": "26c57dfc85c49a8ae65e937516e28219753e0b4c",
+    "grammar_construction/NATIVE_OPERATOR_LIFT.md": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b"
+  }
+}

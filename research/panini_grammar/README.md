@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG958–959 · [The 1955 apparatus and two Vācaspatyam pages](sapadi_print_and_verse_apparatus/README.md) and [Two adjectives of the daughter](daughters_two_adjectives_in_kumarasambhava/README.md). A raised numeral in the print leads to a real apparatus alternative. The verse supplies two different feminine affix histories on one accusative controller. Census 54,907 finite positions, 26,641 nominal positions and 30,313 nominal readings.
+
 PG956–957 · [Four rudhādi patient grids](four_rudhadi_patient_grids/README.md) and [The rope and the lion](rope_and_lion_under_kurac/README.md). The patient controls finite agreement. The cited lion has the agent role under Ātreya’s distinct kurac policy. Census 54,907 finite positions, 26,593 nominal positions and 30,265 nominal readings.
 
 PG954–955 · [Two printed lists at 5.4.128](printed_dvidandi_lists_and_elephant_example/README.md) and [Counting ears and collections](shrautra_bodily_ear_and_collective_cases/README.md). The printed lists distinguish member order, spelling and scope. The case panel counts ears or collections according to the original affix relation. Census 54,547 finite positions, 26,592 nominal positions and 30,264 nominal readings.

@@ -1,0 +1,22 @@
+# PG959 · Two feminine adjectives agreeing with the daughter
+
+In Kumārasambhava 3.76 the mountain takes his daughter in his two arms. Both *mukulitākṣīm* and *anukampyām* qualify the accusative singular *duhitaram*. The two arms furnish an instrumental dual. Their number does not control either adjective. The Prakāśikā explicitly attaches *sapadi* to *ādāya*, so in that account it is the taking up that happens immediately. Preserve the proximity of *sapadi* to the preceding edge of the first adjective in the transmitted line. The new material is the derivation of both adjectives, their agreement and the commentary's attachment. PG647 owns the adverb citation. [Prakāśikā, canto III, verse 76](https://vishvasa.github.io/purANam/shaivam/kAvyam/padyam/kAlidAsaH_kumAra-sambhavam/TIkAH/nArAyaNaH/kumArasambhavaH_dvitIyaH_sampuTaH/) · [Printed verse and Sanjīvinī](../sapadi_print_and_verse_apparatus/README.md)
+
+*Eyes closed.* Start with supplied *mukulita* and bodily *akṣi*, eyes belonging to the daughter. The bahuvrīhi designates their possessor. On this body-part construction the commentary explicitly selects ṣac at 5.4.113. In *mukulita + akṣi* the adjacent a vowels give ā. The samāsānta yields *mukulitākṣa-* with the right member in -akṣa. The ṣ-marker licenses ṅīṣ at 4.1.41 on the feminine external controller. The stem-final a is lost before ī. The printed gloss uses *nimīlitanetrām*. The two eyes internal to the analysis do not call for a dual case on the girl. [5.4.113](../compound_sound_accent/RULES_5_4.md) · [4.1.41](../independent_written_closure/RULES_D2.md)
+
+*Deserving compassion.* Mallinātha glosses the second adjective with *anukampitum arhām* and cites 3.1.124 for ṇyat after the consonant-final root. Here *anu* belongs to √kamp. The root's nasal-stop cluster precedes the suffix, the marked elements disappear, and the sounded ya supplies the kṛtya stem *anukampya-*. The ordinary feminine in ā gives *anukampyā-*. The eligibility to receive compassion qualifies the daughter, whereas the father controls the taking up. In the verse the second adjective stands before *adriḥ* in the connected sequence. The first adjective's final m appears as anusvāra before *rudra-*. Both case readings are given in isolation in the panel.
+
+|Case|mukulitākṣī singular|dual|plural|anukampyā singular|dual|plural|
+|---|---|---|---|---|---|---|
+|NOM|mukulitākṣī|mukulitākṣyau|mukulitākṣyaḥ|anukampyā|anukampye|anukampyāḥ|
+|ACC|mukulitākṣīm|mukulitākṣyau|mukulitākṣīḥ|anukampyām|anukampye|anukampyāḥ|
+|INS|mukulitākṣyā|mukulitākṣībhyām|mukulitākṣībhiḥ|anukampyayā|anukampyābhyām|anukampyābhiḥ|
+|DAT|mukulitākṣyai|mukulitākṣībhyām|mukulitākṣībhyaḥ|anukampyāyai|anukampyābhyām|anukampyābhyaḥ|
+|ABL|mukulitākṣyāḥ|mukulitākṣībhyām|mukulitākṣībhyaḥ|anukampyāyāḥ|anukampyābhyām|anukampyābhyaḥ|
+|GEN|mukulitākṣyāḥ|mukulitākṣyoḥ|mukulitākṣīṇām|anukampyāyāḥ|anukampyayoḥ|anukampyānām|
+|LOC|mukulitākṣyām|mukulitākṣyoḥ|mukulitākṣīṣu|anukampyāyām|anukampyayoḥ|anukampyāsu|
+|VOC|mukulitākṣi|mukulitākṣyau|mukulitākṣyaḥ|anukampye|anukampye|anukampyāḥ|
+
+These paradigms extend the two attested accusative singulars on the ordinary feminine policies. Compare GEN plural *-ākṣīṇām*, where ṣ triggers ṇ across ī, with *-pyānām*, where the nasal stays dental. The ī-stem instrumental singular *-ākṣyā* and the ā-stem *-pyayā* retain different histories. Vocative singular also distinguishes *-ākṣi* from *-pye*. Accent, Vedic options and direct attestations for the additional cases remain Open. [Feminine inflection](../juhvati_feminine_offering_participle/README.md) · [Ā-stem case control](../echo_in_the_ritual_lists_and_the_hearing_person/README.md)
+
+Use PG14's paired free-algebra history modules. Grade a basis by the possessed body parts or the object of compassion, root and preverb where present, compound-ending versus kṛtya, feminine affix, external controller and suP. In both derivations a compatible step h→k has coefficient (1+z_e). Projecting its value on e_h b gives e_k ε(b), exactly the corresponding classical step after projection. A dual selected on the basis of the arms alone has zero image on the daughter's singular agreement grade on both sides. The specialization respects ordered products and adjoints, while the two independent paths retain their different suffix and nasal histories. [PG14](../grammar_construction/NATIVE_OPERATOR_LIFT.md) · [Case register and source pins](STATE.json)

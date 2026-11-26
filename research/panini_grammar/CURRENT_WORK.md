@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG957
+# Pāṇini grammar · current written coverage at PG959
+
+PG958–959 · [The 1955 apparatus and two Vācaspatyam pages](sapadi_print_and_verse_apparatus/README.md) and [Two adjectives of the daughter](daughters_two_adjectives_in_kumarasambhava/README.md). Page 73 settles the 1955 reading of sapadi. The paired daughter adjectives add 48 nominal positions/48 readings. Census 54,907 finite positions, 26,641 nominal positions and 30,313 nominal readings.
 
 PG956–957 · [Four rudhādi patient grids](four_rudhadi_patient_grids/README.md) and [The rope and the lion](rope_and_lion_under_kurac/README.md). Four unprefixed patient grids add 360 positions/360 readings. The lion quotation adds one nominal position/reading. Census 54,907 finite positions, 26,593 nominal positions and 30,265 nominal readings.
 

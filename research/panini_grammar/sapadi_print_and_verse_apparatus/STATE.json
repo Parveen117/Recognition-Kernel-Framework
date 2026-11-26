@@ -1,0 +1,59 @@
+{
+  "stage": "PG958",
+  "date": "2026-11-26",
+  "publication_parent": "d6427704153c13e01463e1cc354c795a7cde63cd",
+  "baseline": "../rope_and_lion_under_kurac/STATE.json",
+  "finite_positions": 54907,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "execution": "Claude-deferred",
+  "nominal_positions": 26593,
+  "nominal_readings": 30265,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 0,
+  "new_morphology_constructions": 0,
+  "new_syntax_constructions": 0,
+  "new_source_observations": 3,
+  "observations": [
+    "1955 Nirṇayasāgara print p.73 verse, lemma and apparatus",
+    "VCP 5220, temporal adverb and citation",
+    "VCP 3819, two daṇḍi list members and antevāsi"
+  ],
+  "new_source_policy_decisions": 3,
+  "decisions": [
+    "Read the raised १ as an apparatus call and retain अथ स. as a reported variant.",
+    "The sapAda discrepancy is downstream of the VCP printed citation.",
+    "Retain the VCP printed daṇḍi pair and the distinct danti witnesses."
+  ],
+  "sources": {
+    "https://upload.wikimedia.org/wikisource/sa/8/83/%E0%A4%95%E0%A5%81%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A4%B8%E0%A4%AE%E0%A5%8D%E0%A4%AD%E0%A4%B5%E0%A4%AE%E0%A5%8D_%28%E0%A4%A8%E0%A4%BF%E0%A4%B0%E0%A5%8D%E0%A4%A3%E0%A4%AF%E0%A4%B8%E0%A4%BE%E0%A4%97%E0%A4%B0%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%B0%E0%A4%A3%E0%A4%AE%E0%A5%8D-%E0%A5%A7%E0%A5%AF%E0%A5%AB%E0%A5%AB%29.pdf?utm_source=sa.wikisource.org&utm_campaign=imageinfo&utm_content=original": {
+      "sha256": "ecb733460dabb29103cd4b31017453c796ec39a8aa033f408b139ef9a813199e",
+      "commons_or_local": "Sanskrit Wikisource local file",
+      "mediawiki_sha1": "0418dccec0b5b5d5e05a1e1e4659eaff288cf3b7",
+      "pdf_page": 119,
+      "printed_page": 73
+    },
+    "https://www.sanskrit-lexicon.uni-koeln.de/scans/VCPScan/VCPScanpdf/pg3819.pdf": {
+      "sha256": "840d7d1428091c228776b7f33eea941cdd9f5508baa5e7991285c6c21fd1da83",
+      "printed_page": 3819
+    },
+    "https://www.sanskrit-lexicon.uni-koeln.de/scans/VCPScan/VCPScanpdf/pg5220.pdf": {
+      "sha256": "d951de9e815613517dd8850e4b63e0532e3df0aacfcd3d9cc64efaa80c1f6939",
+      "printed_page": 5220
+    }
+  },
+  "open": [
+    "Manuscript priority and source of the 1955 transcription error",
+    "VCP variant senses, precise item 17 alignment, K139/Vasu139 meanings and remaining C2–C5/S1–S7"
+  ],
+  "pins": {
+    "rope_and_lion_under_kurac/STATE.json": "cc3acdb1fbce15ebbe578f741b41ec461ab12e63",
+    "grammar_construction/NATIVE_OPERATOR_LIFT.md": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+    "printed_dvidandi_lists_and_elephant_example/STATE.json": "c54459888f9764abeb5c71ab121dea46530bc338",
+    "sapadi_kumarasambhava_primary_token_and_vcp_ocr_resolution/SOURCES.json": "3ea06348b9351ff977c352dae459d43b64b994e1",
+    "sapadi_full_vcp_lexicalized_avyaya_and_productive_rule_block/STATE.json": "9950fef97d1c560cc73d1b9cbf9c16922f21a4b9",
+    "antevasi_named_adverb_and_unmerged_neuter_hypothesis/STATE.json": "dbf39e0cea7a919488e9005dc68b3b626612b1ab",
+    "acyapadi_haim_action_reading_and_unmerged_paninian_variant/STATE.json": "520df82d65eec963e7ef2f38027ab595352fe26f",
+    "antevasi_spatial_ic_and_distinct_pupil_agent_history/STATE.json": "1b0d4d3d87dfca675fd386020b04ca027bd7697c"
+  }
+}

@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG958–959 · [The 1955 apparatus and two Vācaspatyam pages](research/panini_grammar/sapadi_print_and_verse_apparatus/README.md) and [Two adjectives of the daughter](research/panini_grammar/daughters_two_adjectives_in_kumarasambhava/README.md). PG14 retains textual-level, external controller and affix identity on the two adjective paths. Census 54,907 finite positions, 26,641 nominal positions and 30,313 nominal readings.
+
 PG956–957 · [Four rudhādi patient grids](research/panini_grammar/four_rudhadi_patient_grids/README.md) and [The rope and the lion](research/panini_grammar/rope_and_lion_under_kurac/README.md). The PG14 specialization keeps lexical and controller identity and the two short-a junction observations distinct. Census 54,907 finite positions, 26,593 nominal positions and 30,265 nominal readings.
 
 PG954–955 · [Two printed lists at 5.4.128](research/panini_grammar/printed_dvidandi_lists_and_elephant_example/README.md) and [Counting ears and collections](research/panini_grammar/shrautra_bodily_ear_and_collective_cases/README.md). PG14 preserves the example/list grade, the counted referent and the three independent nasal histories. Census 54,547 finite positions, 26,592 nominal positions and 30,264 nominal readings.
