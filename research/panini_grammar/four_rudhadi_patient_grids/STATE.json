@@ -1,0 +1,83 @@
+{
+  "stage": "PG956",
+  "publication_parent": "2bde58d12338260fbcd3da54a0e4dbc4437ee18c",
+  "baseline": "../shrautra_bodily_ear_and_collective_cases/STATE.json",
+  "date": "2026-11-26",
+  "execution": "Claude-deferred",
+  "finite_positions": 54907,
+  "nominal_positions": 26592,
+  "nominal_readings": 30264,
+  "new_finite_positions": 360,
+  "new_finite_readings": 360,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 0,
+  "new_morphology_constructions": 10,
+  "new_morphology_interfaces": 40,
+  "morphology": "Ten category constructions across four root/sense interfaces each.",
+  "new_syntax_constructions": 1,
+  "new_syntax_interfaces": 4,
+  "syntax": "Expressed patient controls agreement on four transitive lexical readings.",
+  "new_source_observations": 5,
+  "observations": [
+    "Four addressed karmaṇi sections, compared against the five-category panels in CD Sharma.",
+    "Separate c and j record assignments in the Concordance index."
+  ],
+  "new_source_policy_decisions": 3,
+  "decisions": [
+    "Use karmaṇi on the transitive sense, including vic.",
+    "Retain record 2118 separately from 2119.",
+    "Separate ten source spellings lacking short-a tuk from the admitted junction."
+  ],
+  "sources": {
+    "https://samsaadhanii-concordance.vipran.in/dhatupatha.json": "f77ae464a5331c9e7121df7768b82f76afd9df2359c204efe96766d676a68a1d",
+    "https://samsaadhanii-concordance.vipran.in/dhatu/2116-Cixizr-xvEXIkaraNe-Cix1": "e3b1f7bf0c522f756d79cf3e0e696b830b44fa3370633a213c07135f9104376c",
+    "https://whm.cdsharma.in/dhatu-rupavali?id=1646": "28625b13c010f4eaea33a0da5eb149385c8ee398d9b6fce94fe2806e75b4f340",
+    "https://samsaadhanii-concordance.vipran.in/dhatu/2117-ricizr-virecane-ric1": "1331ca2f85389c8c274da6ba5148cbf1b3ef24b5f24f6fcba1ed439a39c8914e",
+    "https://whm.cdsharma.in/dhatu-rupavali?id=1647": "8041df7801f2f5fcc8683340828cbd67e458df174f79effde093dda31c117aba",
+    "https://samsaadhanii-concordance.vipran.in/dhatu/2119-vicizr-pqWagBAve-vic1": "2ebba10b0c2f68437f91c889b916d27514c781966efd89a1933c91009ea98f19",
+    "https://whm.cdsharma.in/dhatu-rupavali?id=1648": "8433afa2cec0c77b8139b882bed3b6ff660c8fdad44f8c3b508f2a5706c12646",
+    "https://samsaadhanii-concordance.vipran.in/dhatu/2120-kRuxizr-sampeRaNe-kRux1": "0927b90ae743050360d1d54e9489cb46b578b9d7997996bf934d9c0a63a90163",
+    "https://whm.cdsharma.in/dhatu-rupavali?id=1649": "747b4d9c9caa73f7571d69a2d73bbd097b24077c7e983df91524d9c87d2f8edd"
+  },
+  "counts_by_root": {
+    "chid": {
+      "positions": 90,
+      "readings": 90
+    },
+    "ric": {
+      "positions": 90,
+      "readings": 90
+    },
+    "vic": {
+      "positions": 90,
+      "readings": 90
+    },
+    "ksud": {
+      "positions": 90,
+      "readings": 90
+    }
+  },
+  "open": [
+    "Intransitive, karmakartṛ, prefixed and derived-root distributions",
+    "Independent attestations and transmission of the ten raw junction spellings",
+    "K128/K139, patradatam, remaining C2–C5 and S1–S7"
+  ],
+  "pins": {
+    "shrautra_bodily_ear_and_collective_cases/STATE.json": "fe9b600d1a8f14541278f1836a112d768343eaa8",
+    "snam_lat/LEXICAL_ENTRIES.json": "ca9f1d2d6b6f1772f664e74bcd42b75fc0f866a1",
+    "grammar_construction/NATIVE_OPERATOR_LIFT.md": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+    "anga_affix_abhyasa/RULES_6_4_A.md": "6b54c4e8bdf02024f6d55a581a57928bf255cda8",
+    "anga_affix_abhyasa/RULES_6_4_B.md": "e5ef6bc41ed31df4cce1e3bec0fd43ddb5490aca",
+    "abhyasa_tripadi/RULES_8_4_B.md": "d3bb95fd97ba11c6cfbd7bc6548cbb0f14edbb51",
+    "compound_sound_accent/RULES_6_1_B.md": "2a3be1d583083b040bb9d6ce11ad511bd3d542a5",
+    "bhid_passive_lut_blessing_and_selected_grid/DERIVATION_AND_NATIVE_RECOVERY.md": "7b79657873b09c4cdcbff9e8dfd14e8fcb6f2930",
+    "chid_remaining_actor_categories/STATE.json": "23a7ec53a1c698e1371bce7141bd4ac001c00e6c",
+    "chid_remaining_actor_categories/FINITE_FORMS.tsv": "2a66958c7f110fd1c9420ed5310236a60f79604e",
+    "ric_remaining_actor_categories/STATE.json": "ce473a87160c16ea21fa384c087158a9e42dd2a6",
+    "ric_remaining_actor_categories/FINITE_FORMS.tsv": "00f10f740c59da9a6069c2a39f16119554f95d7f",
+    "vic_remaining_actor_categories/STATE.json": "d507700de3ec1bcc7a11b68badabfe6bc6dded6e",
+    "vic_remaining_actor_categories/FINITE_FORMS.tsv": "26bcb71b5cf009d80e79960825ab1a619a686db5",
+    "ksud_remaining_actor_categories/STATE.json": "74636b4126d67ede882f19656c5bba245003c608",
+    "ksud_remaining_actor_categories/FINITE_FORMS.tsv": "341b822a7f1d015dcb68727269ef82581effb428"
+  }
+}

@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG956–957 · [Four rudhādi patient grids](four_rudhadi_patient_grids/README.md) and [The rope and the lion](rope_and_lion_under_kurac/README.md). The patient controls finite agreement. The cited lion has the agent role under Ātreya’s distinct kurac policy. Census 54,907 finite positions, 26,593 nominal positions and 30,265 nominal readings.
+
 PG954–955 · [Two printed lists at 5.4.128](printed_dvidandi_lists_and_elephant_example/README.md) and [Counting ears and collections](shrautra_bodily_ear_and_collective_cases/README.md). The printed lists distinguish member order, spelling and scope. The case panel counts ears or collections according to the original affix relation. Census 54,547 finite positions, 26,592 nominal positions and 30,264 nominal readings.
 
 PG953 · [The hearing faculty in the printed commentaries](hearing_faculty_in_the_printed_nyasa_and_padamanjari/README.md). Nyāsa prints śrotram and Padamañjarī names the indriya. The singular-citation restriction has a reported rival.

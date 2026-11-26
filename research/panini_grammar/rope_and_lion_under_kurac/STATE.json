@@ -1,0 +1,51 @@
+{
+  "stage": "PG957",
+  "publication_parent": "2bde58d12338260fbcd3da54a0e4dbc4437ee18c",
+  "baseline": "../four_rudhadi_patient_grids/STATE.json",
+  "date": "2026-11-26",
+  "execution": "Claude-deferred",
+  "finite_positions": 54907,
+  "nominal_positions": 26593,
+  "nominal_readings": 30265,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 1,
+  "new_nominal_readings": 1,
+  "nominal_register": [
+    {
+      "stem": "karīndradarpacchidura",
+      "sense": "lion breaking the pride of an elephant lord",
+      "gender": "M",
+      "case": "ACC",
+      "number": "sg",
+      "reading": "करीन्द्रदर्पच्छिदुरम्",
+      "witness_surface": "करीन्द्रदर्पच्छिदुरं मृगेन्द्रं"
+    }
+  ],
+  "new_semantic_constructions": 1,
+  "new_semantic_interfaces": 2,
+  "semantics": "Two role assignments for habitual breaking on the two named policies.",
+  "new_syntax_constructions": 1,
+  "new_syntax_interfaces": 1,
+  "syntax": "One internal object with a distinct outer masculine accusative controller.",
+  "new_source_observations": 1,
+  "new_source_policy_decisions": 1,
+  "decision": "Attribute the habitual restriction and its agentive exception separately in the cited kurac example.",
+  "sources": {
+    "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA1041.html": "9f96e4daa8d1a1999cf7a5d260e6cd74784cb1848ac3a142f6958174e23d537c"
+  },
+  "same_commit_baseline_blob": "edbcdb53906f963fbbbc89f3f327b94abc1c0756",
+  "open": [
+    "Independent literary location of the lion quotation",
+    "Productivity and finite karmakartṛ for chid",
+    "Remaining C2–C5 and S1–S7"
+  ],
+  "pins": {
+    "krt_temporal_relations/RULES_B2.md": "20c65f67b3bbf04aa924166f58a110592d1a7feb",
+    "krt_temporal_relations/SOURCE_EXCERPTS.json": "e643ab85689e0805320565c5fb2c9f78dc609234",
+    "chid_remaining_actor_categories/STATE.json": "23a7ec53a1c698e1371bce7141bd4ac001c00e6c",
+    "compound_sound_accent/RULES_6_1_B.md": "2a3be1d583083b040bb9d6ce11ad511bd3d542a5",
+    "abhyasa_tripadi/RULES_8_3_A.md": "2487d912e8378c70b26932be491ddd80c0365f6b",
+    "grammar_construction/NATIVE_OPERATOR_LIFT.md": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b"
+  }
+}
