@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG907
+# Pāṇini grammar · current written coverage at PG908
+
+PG908 · [Vedic singular obliques of *viśva*](visva_vedic_singular_obliques/README.md). Four Ṛgvedic passages establish a nominal-type dative, ablative and two locatives of viśva. Dative gender remains source-dependent. Added three readings on existing keys. Census 52,531 finite positions, 26,348 nominal positions and 30,012 nominal readings.
 
 PG907 · [Two feminine cases of *tva* and the neuter source split](tva_two_feminine_cases_and_neuter_source_split/README.md). RV 5.61.6 and 10.54.1 close two feminine indefinite readings, nominative *tvā* and dative *tvasyai*. The neuter receives a source decision with competing stem assignments. Census 52,531 finite positions, 26,348 nominal positions and 30,009 nominal readings.
 

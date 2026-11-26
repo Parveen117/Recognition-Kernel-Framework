@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG908 · [Vedic singular obliques of *viśva*](visva_vedic_singular_obliques/README.md). Segmented and continuous texts give the three oblique spellings. The neuter and masculine singular locatives survive as distinct histories through the PG14 observation map.
+
 PG907 · [Two feminine cases of *tva* and the neuter source split](tva_two_feminine_cases_and_neuter_source_split/README.md). Two verse-owned feminine forms distinguish indefinite *tva* from second-person *tvā*. A neuter word in two further verses receives separate lexicographic and commentarial analyses.
 
 PG906 · [The dental nasals of *tva* and *viśva*](dental_nasals_of_tva_and_visva/README.md). Case-pattern transport carries the ending recipe. PG906 tests the nasal against the recipient stem, distinguishes ina from num and identifies the exact case supported by each Ṛgvedic witness.

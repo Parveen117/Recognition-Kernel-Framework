@@ -1,0 +1,41 @@
+{
+  "stage": "PG908",
+  "date": "2026-11-26",
+  "publication_parent": "4a7843e146b9b43550954ded1311131051258623",
+  "baseline": "../tva_two_feminine_cases_and_neuter_source_split/STATE.json",
+  "finite_positions": 52531,
+  "nominal_positions": 26348,
+  "nominal_readings": 30012,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 3,
+  "new_morphology_constructions": 1,
+  "new_morphology_interfaces": 4,
+  "new_syntax_constructions": 0,
+  "new_syntax_interfaces": 0,
+  "new_source_observations": 4,
+  "new_source_policy_decisions": 3,
+  "pins_relative_to_grammar_at_publication_parent": {
+    "tva_two_feminine_cases_and_neuter_source_split/STATE.json": "8b3a4ad2e2c1479021ebd200898004ab36cb1280",
+    "grammar_construction/NATIVE_OPERATOR_LIFT.md": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+    "visva_complete_nonvocative_cases/NOMINAL_FORMS.tsv": "4638e15033447448fd2b78c5d42873ceeee6c1dd",
+    "dental_nasals_of_tva_and_visva/CORRECTIONS.tsv": "63ce3a31f42d74c468a2628aab0056cbbd4b4b30",
+    "krt_temporal_relations/RULES_D2.md": "115eeada12db9878e3c08a6880b8b536197ef948",
+    "SUTRAPATHA.tsv": "1840f3b5349b21112ac05a7efaa59705fd4efee0"
+  },
+  "grassmann": {
+    "commit": "cf53a4240ac83c8f7dfd275533ebd0a0639e6b57",
+    "path": "v02/gra/gra.txt",
+    "blob": "248415a386a473c3c3305e48a736c0d76ebb5e7c",
+    "entry": 8151
+  },
+  "source_register": "READINGS.tsv",
+  "open_obligations": [
+    "Dative gender attribution at RV 1.50.1",
+    "Historical distribution of nominal/pronominal inflection and Macdonell's locative count",
+    "Remaining written domains and S1–S7 in WRITTEN_BACKLOG"
+  ],
+  "protected_registers": "PG335 and historical closed scopes inherited from PG905",
+  "runtime_policy": "Claude-deferred"
+}
