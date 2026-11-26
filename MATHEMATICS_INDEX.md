@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG977 · [Why Rāma’s sigh is an aorist](research/panini_grammar/sighing_in_two_past_categories/README.md). The singular at Bhaṭṭi 6.34 is resolved by the print and compared with the plural at 3.17. The two ni + śvas past categories add 18 finite positions and 20 readings. Census 55,496 finite positions, 27,056 nominal positions and 30,741 nominal readings.
+
 PG976 · [Three spellings in the foot lists and the calendar](research/panini_grammar/visupadi_in_the_ganapatha_and_the_solar_pair/README.md). The §155 print gives viṣupadī between dvipadī and supadī. Its formal case panel adds 24 nominal positions/24 readings. Vasu’s viṣapadī and astronomical viṣṇupadī retain their owners. Census 55,478 finite positions, 27,056 nominal positions and 30,741 nominal readings.
 
 PG975 · [When anger arises in Bhaṭṭi 6.34](research/panini_grammar/anger_arises_in_bhatti/README.md). Jayamaṅgalā identifies the impersonal aorist and applies muhuḥ to all four predicates. The sam + √bhū event grid adds ten positions/fourteen readings. Census 55,478 finite positions, 27,032 nominal positions and 30,717 nominal readings.

@@ -1,0 +1,64 @@
+{
+  "stage": "PG977",
+  "date": "2026-11-26",
+  "publication_parent": "785a793838575bc76a1c32a983787c85fed971e1",
+  "baseline": "../visupadi_in_the_ganapatha_and_the_solar_pair/STATE.json",
+  "finite_positions": 55496,
+  "nominal_positions": 27056,
+  "nominal_readings": 30741,
+  "new_finite_positions": 18,
+  "new_finite_readings": 20,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 0,
+  "new_morphology_constructions": 2,
+  "new_morphology_interfaces": 18,
+  "new_source_observations": 4,
+  "new_source_policy_decisions": 3,
+  "observations": [
+    "3.17 plural",
+    "6.34 joined singular",
+    "15.24 singular before k",
+    "5.16 unprefixed control"
+  ],
+  "decisions": [
+    "Align 6.34 by its attested sandhi and Jayamaṅgalā’s sic context.",
+    "Keep the unprefixed electronic post-blessing aśvasat source-specific.",
+    "Distinguish laṅ and luṅ under the shared 3sg and 2sg spellings."
+  ],
+  "register": "FORMS.tsv",
+  "direct_positions": 2,
+  "written_extensions": 16,
+  "open": [
+    "Direct attestations for 16 extensions",
+    "Transmission of the post-blessing aśvasat",
+    "Inherited C2–C5 and S1–S7"
+  ],
+  "pins": {
+    "anger_arises_in_bhatti/README.md": "809943f32bb67a57daffa25ccfebf4ea220830b2",
+    "bhatti_verse_concordance/CONCORDANCE.tsv": "914614d32c0e99e02daf041485e108a2fc4c6d91",
+    "anga_affix_abhyasa/SOURCE_EXCERPTS.json": "5deccfa3a413c5721d902714f4c3de35891cadae",
+    "unadi_root_aorist_constructions/PARADIGMS.md": "7afe21316921ca23512548a6320be161cbbe7d19",
+    "anga_affix_abhyasa/RULES_7_3_C.md": "5b6e4bb6b4b17dca7731d4d9322a39f0d7f2c0b6",
+    "grammar_construction/NATIVE_OPERATOR_LIFT.md": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+    "visupadi_in_the_ganapatha_and_the_solar_pair/STATE.json": "e0ed34092aa5df8add71c65a5a19f57d51ffae3a"
+  },
+  "sources": {
+    "https://archive.org/details/b3009303x/page/n118/mode/1up": {
+      "locus": "1887 Bāpaṭa, printed p. 111, canto 6 v.34",
+      "sha256": "856b2ec967f024a50df155e934c5e39f2da17b01e86bba8a4260778a9d296162"
+    },
+    "https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/html/sa_bhaTTi-rAvaNavadha.htm": {
+      "locus": "3.16–17, 5.16, 6.34, 15.21–24",
+      "sha256": "ae9f98414a59fc0375801e033c3aea5989bca2d92eaad8930bf2c70b1a137105"
+    },
+    "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA719.html": {
+      "locus": "mA719 imperfect and post-blessing series",
+      "sha256": "dc17e27eb8b0941f50356df9e94957a690fa4aaf8f000d95d2aa608540e25650"
+    },
+    "https://vyakaranam.wordpress.com/2009/02/03/श्वस्-अ०-सेट्-प०-श्वसँ-प्र/": {
+      "locus": "3 February 2009, śvas 2.64, laṅ",
+      "sha256": "1f18b0b990e585318d4ec53d447bb7b76fe7070c935384985c8fd914a2a3257b"
+    }
+  },
+  "execution": "Claude-deferred"
+}
