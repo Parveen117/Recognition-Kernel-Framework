@@ -1,0 +1,66 @@
+{
+  "stage": "PG945",
+  "date": "2026-11-26",
+  "publication_parent": "daffe2387507e77c3eea45144a4185490c757fb4",
+  "baseline": "../hu_eating_actor_and_patient/STATE.json",
+  "finite_positions": 54547,
+  "nominal_positions": 26430,
+  "nominal_readings": 30098,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 4,
+  "new_nominal_readings": 4,
+  "new_morphology_constructions": 0,
+  "new_morphology_interfaces": 0,
+  "new_syntax_constructions": 1,
+  "new_syntax_interfaces": 4,
+  "new_source_observations": 5,
+  "new_source_policy_decisions": 2,
+  "observations": [
+    "placement in Drāhyāyaṇa",
+    "taking the ladle in the prayoga",
+    "taking up material with it",
+    "preparing a layer in it",
+    "addressing it"
+  ],
+  "decisions": [
+    "The two accusative contexts share one request.",
+    "The short vocative is licensed at the cited address without a general recensional or accent decision."
+  ],
+  "pins": {
+    "hu_eating_actor_and_patient/STATE.json": "2928a9b51028eec7e8ee994b3af28b1b9d544fcb",
+    "grammar_construction/NATIVE_OPERATOR_LIFT.md": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+    "krt_temporal_relations/SOURCE_EXCERPTS.json": "e643ab85689e0805320565c5fb2c9f78dc609234",
+    "krt_temporal_relations/RULES_B2.md": "20c65f67b3bbf04aa924166f58a110592d1a7feb",
+    "anga_affix_abhyasa/RULES_6_4_A.md": "6b54c4e8bdf02024f6d55a581a57928bf255cda8",
+    "anga_affix_abhyasa/RULES_7_3_C.md": "5b6e4bb6b4b17dca7731d4d9322a39f0d7f2c0b6",
+    "compound_sound_accent/RULES_6_1_B.md": "2a3be1d583083b040bb9d6ce11ad511bd3d542a5",
+    "hu_offering_valency/STATE.json": "5299bec2b2a3e1c48d592cfba245b78f0f63c70e"
+  },
+  "external_files": {
+    "https://samsaadhanii-concordance.vipran.in/dhatu/1591-hu-axane-hu1": "4d5806a5eae161f9b9d3409597ffb4a213eb14b9e357a8da02d575086e20218c",
+    "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA732.html": "1a4367434f90a40b7bb7bddab6aaf30be5bf8cc0e7d970dab2980bb00c4c9157"
+  },
+  "witnesses": [
+    {
+      "title": "कल्पः/श्रौतसूत्राणि/द्राह्यायणश्रौतसूत्रम्/पटलः २३",
+      "url": "https://sa.wikisource.org/w/index.php?oldid=269550",
+      "revision": 269550,
+      "timestamp": "2020-08-16T13:42:03Z",
+      "utf8_wikitext_sha256": "fc8bc956f30659b1d67f0f0b3a204ffa2353540b64b2ae1fdedc2316fb0d00e9"
+    },
+    {
+      "title": "आपस्तम्बीय श्रौतप्रयोगः/दर्शपूर्णमासप्रयोगः/ द्वितीयोऽध्यायः",
+      "url": "https://sa.wikisource.org/w/index.php?oldid=339525",
+      "revision": 339525,
+      "timestamp": "2022-06-28T18:13:44Z",
+      "utf8_wikitext_sha256": "8941142bccc9fba0ee47530285e6bb7806ea4021600e6da0b7289c8bd0c6b325"
+    }
+  ],
+  "open": [
+    "remaining case domain and competing locative/genitive policies",
+    "critical accent, recensional variation and wider direct uses",
+    "other inherited C2–C5 and S1–S7 obligations"
+  ],
+  "execution": "Claude-deferred"
+}

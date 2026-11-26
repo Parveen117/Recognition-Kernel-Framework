@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG945 · [The juhū ladle in four ritual case roles](research/panini_grammar/juhu_ladle_in_ritual_clauses/README.md). The typed PG14 case edge preserves the named witness, role, ending and internal or external junction at specialization.
+
 PG944 · [Eater and food in the two voice grids of √hu](research/panini_grammar/hu_eating_actor_and_patient/README.md). PG14 preserves the source sense and the eater/food controller cut across coincident words.
 
 PG943 · [The six remaining impersonal categories of √hu](research/panini_grammar/hu_impersonal_remaining_categories/README.md). The typed projection retains the two policies sharing āse, the source-table comparison and the distinction between actual ciṇ and ciṇ-like strengthening.

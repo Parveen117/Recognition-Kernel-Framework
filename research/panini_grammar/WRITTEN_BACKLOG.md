@@ -1,4 +1,6 @@
-# Written-development backlog at PG944
+# Written-development backlog at PG945
+
+PG945 · [The juhū ladle in four ritual case roles](juhu_ladle_in_ritual_clauses/README.md). **Closed** for four singular case readings in this ritual material. **Unconstructed** are the remaining independent ladle case requests and wider nominal domains. **Unresolved sources** include critical accent, recensional distribution, and direct use beyond the selected clauses. The PG944 backlog below retains the K139/Vasu139, K128, patradatam and C2–C5/S1–S7 entries. **Claude-deferred** execution retains its prior scope.
 
 PG943–944 · [The six remaining impersonal categories of √hu](hu_impersonal_remaining_categories/README.md) and [Eater and food in the two voice grids of √hu](hu_eating_actor_and_patient/README.md).
 

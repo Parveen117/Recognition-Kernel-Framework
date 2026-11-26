@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG944
+# Pāṇini grammar · current written coverage at PG945
+
+PG945 · [The juhū ladle in four ritual case roles](juhu_ladle_in_ritual_clauses/README.md). Four new singular nominal positions/four readings. Two pinned ritual texts distinguish the object, instrument, receptacle and addressee. Census 54,547 finite, 26,430 nominal positions and 30,098 nominal readings.
 
 PG944 · [Eater and food in the two voice grids of √hu](hu_eating_actor_and_patient/README.md). The selected record-1591 eating sense adds 90 actor positions/122 readings and 90 patient positions/164 readings. Census 54,547 finite, 26,426 nominal positions and 30,094 nominal readings.
 

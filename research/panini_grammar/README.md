@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG945 · [The juhū ladle in four ritual case roles](juhu_ladle_in_ritual_clauses/README.md). The two accusative contexts share one position. A single joined word distinguishes the internal instrumental ending from external ā + u sandhi.
+
 PG944 · [Eater and food in the two voice grids of √hu](hu_eating_actor_and_patient/README.md). Kṣīrataraṅgiṇī distinguishes eating from casting an offering. The agreement contrast selects eater or food across 180 written requests.
 
 PG943 · [The six remaining impersonal categories of √hu](hu_impersonal_remaining_categories/README.md). Actual ciṇ, optional ciṇ-like strengthening and the action-expressing perfect auxiliaries have distinct source and affix owners.
