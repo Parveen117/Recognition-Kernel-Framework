@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG968
+# Pāṇini grammar · current written coverage at PG969
+
+PG969 · [The grindstone and the act of grinding](shilapesha_lexicon_and_cases/README.md). The 1872 dictionary resolves the later abbreviated action gloss. The case panel adds 22 nominal positions/23 readings beyond PG967. Census 55,392 finite positions, 26,742 nominal positions and 30,419 nominal readings.
 
 PG968 · [Requests to Indra and the Aśvins](dha_requests_to_indra_and_ashvins/README.md). Three new finite positions/three readings distinguish sam … dhehi, dhehi and the giving use of dhattam. RV 1.47.6 supplies a placement control. Census 55,392 finite positions, 26,720 nominal positions and 30,396 nominal readings.
 

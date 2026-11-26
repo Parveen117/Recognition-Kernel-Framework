@@ -1,0 +1,170 @@
+{
+  "stage": "PG969",
+  "date": "2026-11-26",
+  "publication_parent": "03a6aacbbe548a20042dd4788d6d85f17f9b9c78",
+  "baseline": "../dha_requests_to_indra_and_ashvins/STATE.json",
+  "finite_positions": 55392,
+  "nominal_positions": 26742,
+  "nominal_readings": 30419,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 22,
+  "new_nominal_readings": 23,
+  "nominal_register": {
+    "stem": "śilāpeṣa",
+    "gender": "M",
+    "case_panel": {
+      "Nominative": {
+        "sg": [
+          "śilāpeṣaḥ"
+        ],
+        "du": [
+          "śilāpeṣau"
+        ],
+        "pl": [
+          "śilāpeṣāḥ"
+        ]
+      },
+      "Accusative": {
+        "sg": [
+          "śilāpeṣam"
+        ],
+        "du": [
+          "śilāpeṣau"
+        ],
+        "pl": [
+          "śilāpeṣān"
+        ]
+      },
+      "Instrumental": {
+        "sg": [
+          "śilāpeṣeṇa"
+        ],
+        "du": [
+          "śilāpeṣābhyām"
+        ],
+        "pl": [
+          "śilāpeṣaiḥ"
+        ]
+      },
+      "Dative": {
+        "sg": [
+          "śilāpeṣāya"
+        ],
+        "du": [
+          "śilāpeṣābhyām"
+        ],
+        "pl": [
+          "śilāpeṣebhyaḥ"
+        ]
+      },
+      "Ablative": {
+        "sg": [
+          "śilāpeṣāt",
+          "śilāpeṣād"
+        ],
+        "du": [
+          "śilāpeṣābhyām"
+        ],
+        "pl": [
+          "śilāpeṣebhyaḥ"
+        ]
+      },
+      "Genitive": {
+        "sg": [
+          "śilāpeṣasya"
+        ],
+        "du": [
+          "śilāpeṣayoḥ"
+        ],
+        "pl": [
+          "śilāpeṣāṇām"
+        ]
+      },
+      "Locative": {
+        "sg": [
+          "śilāpeṣe"
+        ],
+        "du": [
+          "śilāpeṣayoḥ"
+        ],
+        "pl": [
+          "śilāpeṣeṣu"
+        ]
+      },
+      "Vocative": {
+        "sg": [
+          "śilāpeṣa"
+        ],
+        "du": [
+          "śilāpeṣau"
+        ],
+        "pl": [
+          "śilāpeṣāḥ"
+        ]
+      }
+    },
+    "inherited_positions": [
+      [
+        "Instrumental",
+        "pl"
+      ],
+      [
+        "Locative",
+        "sg"
+      ]
+    ]
+  },
+  "new_morphology_constructions": 1,
+  "new_morphology_interfaces": 24,
+  "new_source_observations": 3,
+  "new_source_policy_decisions": 2,
+  "source_observations": [
+    "MW72 unabridged action gloss",
+    "MW99 printed page, both glosses and neighbour",
+    "MW99 machine expansion of the print abbreviation"
+  ],
+  "decisions": [
+    "Keep the MārkP implement attribution separate from the lexicographic action gloss.",
+    "Read stone in the abbreviated action gloss, preserving storax in the electronic expansion layer."
+  ],
+  "sources": {
+    "repo": "sanskrit-lexicon/csl-orig",
+    "commit": "776f75662b804497939e179f2ae1468b83ad55a7",
+    "files": {
+      "v02/mw/mw.txt": {
+        "blob": "e72bbf56f93897b7967dbec0a882ce1489720b7c",
+        "records": [
+          217329,
+          217330,
+          217331
+        ]
+      },
+      "v02/mw72/mw72.txt": {
+        "blob": "c3bce912ca14f5b250bc53fb5e44e84791ee8d0e",
+        "records": [
+          46725
+        ]
+      }
+    },
+    "scan": {
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/MWScanpdf/mw1073-ziromukha.pdf",
+      "page_column": "1073, 2",
+      "sha256": "1cbc29e40e61517606d0ffdccc38e88b22890011fb8673837d85e572914cba36"
+    }
+  },
+  "pins": {
+    "dha_requests_to_indra_and_ashvins/STATE.json": "593d668b552367a4f11f9e236a5910e544445782",
+    "injury_patient_of_pis/STATE.json": "8d26d5b0eba99da23c1f7fd9d301af368f1fd317",
+    "krt_temporal_relations/RULES_D3.md": "9817aeb456a42041a5ec8dfdab091078841b2545",
+    "krt_temporal_relations/SOURCE_EXCERPTS.json": "e643ab85689e0805320565c5fb2c9f78dc609234",
+    "nanj_akac_partial_lopa_and_masculine_case_owners/DERIVATION_AND_NATIVE_RECOVERY.md": "a06defe9d36b3e80b3063728470b931634e735f8",
+    "grammar_construction/NATIVE_OPERATOR_LIFT.md": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b"
+  },
+  "open": [
+    "Vāmana 12.28 sense discrimination",
+    "Internal derivational affix",
+    "Remaining C2–C5 and S1–S7"
+  ],
+  "execution": "Claude-deferred"
+}
