@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG935
+# Pāṇini grammar · current written coverage at PG936
+
+PG936 · [The selected passive ten-category grid of √dhā](dha_selected_passive_ten_category_grid/README.md). The exact karmaṇi source supplies 90 patient-controlled positions and 136 readings across all ten categories. Actor-middle homographs remain separate voice/controller keys, and every longer future, blessing and aorist route stays an accepted labelled reading. Census 54,007 finite, 26,426 nominal and 30,094 nominal readings.
 
 PG935 · [The remaining actor categories of √dhā](dha_remaining_actor_categories/README.md). The selected simple unprefixed P/A actor grids now have 180 positions across PG9/22/935; PG253–255 keep the ordered prefixed keys. Added 126 finite positions and 131 readings; printed long and electronic short A-benedictive grades remain explicit. Census 53,917 finite, 26,426 nominal and 30,094 nominal readings.
 

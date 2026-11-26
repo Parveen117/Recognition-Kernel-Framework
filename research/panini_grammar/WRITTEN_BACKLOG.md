@@ -1,4 +1,11 @@
-# Written-development backlog at PG935
+# Written-development backlog at PG936
+
+PG936 · [The selected passive ten-category grid of √dhā](dha_selected_passive_ten_category_grid/README.md). Closed the selected simple empty-preverb holding/nourishing karmaṇi grid: 90 patient-controlled keys/136 readings. PG935 retains actor ownership, including equal liṭ/future surfaces.
+
+- **Already closed target.** The selected √dhā karmaṇi ten-category grid is CLOSED at PG936; PG9/22/935 keep the kartari grid and PG253–255 keep ordered prefixed requests. PG335 and PG357–363 remain historical CLOSED results.
+- **Genuine unconstructed domains.** √dhā prefixed passive, bhāva, causative and other derived-root requests, nonfinite agreement, accent, wider text and optional giving remain Open. The six K139 and three extended-Vasu139 lexical meanings, K128 recensional/inner variants, patradatam fork and the broader C2–C5 grammar domains retain concrete backlog entries.
+- **Unresolved source readings.** Critical priority and distribution of √dhā's two future/periphrastic, blessing and aorist routes remain Open. No absent witness is treated as an exclusion. S1–S7 and the inherited local source questions retain their own registers.
+- **Claude-deferred execution.** Sanskrit generators, grammar execution, untouched old suites and certificate replay remain outside written-development credit.
 
 PG935 · [The remaining actor categories of √dhā](dha_remaining_actor_categories/README.md). Closed the selected simple unprefixed P/A kartari ten-category grids with PG9/22. PG253–255 keep ordered prefixed profiles; electronic short *dhasīṣṭa*, other senses/voices/prefixes/derivations, accent and wider text remain Open.
 
