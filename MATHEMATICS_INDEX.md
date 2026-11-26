@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG995 · [The two divisions of Bhaṭṭi and Fire’s reproach](research/panini_grammar/bhatti_the_reproach_and_the_fire_who_protects/README.md). The NAK catalogue identifies the XX/XXI transition. Two differently witnessed conditional second singulars support bare and ā-prefixed śaṅk grids, 18 finite positions/18 readings. Census 56,353 finite positions, 27,539 nominal positions and 31,310 nominal readings.
+
 PG994 · [The outer passive categories and two poetic perfects](research/panini_grammar/guh_patient_outer_categories_and_two_poetic_perfects/README.md). Six outer categories add 162 finite positions/321 readings and complete three selected ten-category patient grids. Two verses give direct contexts for existing actor perfects. Census 56,335 finite positions, 27,539 nominal positions and 31,310 nominal readings.
 
 PG993 · [The patient of concealing and the degrees of secrecy](research/panini_grammar/guh_passive_and_degrees_of_secrecy/README.md). Three four-category patient grids add 108 finite positions/108 readings. Seven nominal occurrences in the epic and Gītā give six unique positions/six readings. Census 56,173 finite positions, 27,539 nominal positions and 31,310 nominal readings.
