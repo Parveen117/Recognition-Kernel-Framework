@@ -1,0 +1,48 @@
+{
+  "stage": "PG964",
+  "date": "2026-11-26",
+  "publication_parent": "84b28fd1736f800878febcaaf523a95423eabe09",
+  "baseline": "../flour_animal_and_case_of_the_patient/STATE.json",
+  "finite_positions": 55298,
+  "nominal_positions": 26715,
+  "nominal_readings": 30391,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 71,
+  "new_nominal_readings": 75,
+  "new_morphology_constructions": 3,
+  "new_morphology_interfaces": 72,
+  "new_syntax_constructions": 1,
+  "new_syntax_interfaces": 3,
+  "new_source_observations": 2,
+  "observations": [
+    "Verse 182 compounds paśu with ādara.",
+    "Bālakṛṣṇa exposes the genitive and supplies a second compound with an action noun."
+  ],
+  "new_source_policy_decisions": 2,
+  "decisions": [
+    "Use the Classical u/i patterns for the three paradigms with four optional feminine oblique singulars.",
+    "Distinguish the external genitive and the two internal zero-case material nouns."
+  ],
+  "sources": {
+    "https://gretil.sub.uni-goettingen.de/gretil_elib/Whi889__Whitney_SanskritGrammar.pdf": {
+      "sha256": "d290ab72551d23ff1fd8f25e2c00502a485dbb5ae7a1a805a062fb73187c7ebe",
+      "locus": "§§339 and 341"
+    },
+    "https://vishvasa.github.io/kAvyam/laxyam/champUH/vishva-guNAdarshaH/14_karNATadeshavarNanam/": {
+      "sha256": "9f5d3c12b04021d5c345c356a5f8d8fc4cf050a331a5f30a29a8d49a91b78c8a",
+      "locus": "182, mūla and Bālakṛṣṇa"
+    }
+  },
+  "pins": {
+    "flour_animal_and_case_of_the_patient/STATE.json": "8987d08031e9cb8dc81db6bc44544b2ce59a7cd9",
+    "grammar_construction/NATIVE_OPERATOR_LIFT.md": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+    "juhvat_participle_and_antelope/STATE.json": "ad54df8583d590a9169ea8f19b67c035df1a92cf"
+  },
+  "open": [
+    "Independent direct uses beyond the cited case tokens",
+    "Vedic and accent histories, wider compound productivity",
+    "Remaining C2–C5 and S1–S7"
+  ],
+  "execution": "Claude-deferred"
+}

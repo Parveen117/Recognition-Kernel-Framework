@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG964 · [The flour animal as an independent noun and an inner member](research/panini_grammar/effigy_paradigms_and_two_vishvagunadarsha_compounds/README.md). The PG14 projection preserves the independent genitive, both internal sup boundaries and the four optional feminine oblique slots. Census 55,298 finite positions, 26,715 nominal positions and 30,391 nominal readings.
+
 PG963 · [From grinding grain to making a flour animal](research/panini_grammar/flour_animal_and_case_of_the_patient/README.md). The PG14 history preserves the root-sense case gate, material member, outer head and commentator’s alternative. Census 55,298 finite positions, 26,644 nominal positions and 30,316 nominal readings.
 
 PG962 · [Four patients and two disputed blessing stems](research/panini_grammar/rudh_yuj_sis_pis_patient_grids/README.md). The PG14 map keeps the reported vowel and the admitted blessing in distinct source grades. Census 55,298 finite positions, 26,641 nominal positions and 30,313 nominal readings.

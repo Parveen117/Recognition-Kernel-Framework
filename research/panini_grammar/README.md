@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG964 · [The flour animal as an independent noun and an inner member](effigy_paradigms_and_two_vishvagunadarsha_compounds/README.md). Verse 182 embeds the flour animal before ādara. Bālakṛṣṇa supplies its independent genitive and a second compound. Census 55,298 finite positions, 26,715 nominal positions and 30,391 nominal readings.
+
 PG963 · [From grinding grain to making a flour animal](flour_animal_and_case_of_the_patient/README.md). The root gloss distinguishes injury and grinding, and the verse and its commentary separately identify the material of the effigy. Census 55,298 finite positions, 26,644 nominal positions and 30,316 nominal readings.
 
 PG962 · [Four patients and two disputed blessing stems](rudh_yuj_sis_pis_patient_grids/README.md). The written roots separate actual ciṇ, sic and ksa and preserve eighteen discrepant blessing spellings. Census 55,298 finite positions, 26,641 nominal positions and 30,313 nominal readings.

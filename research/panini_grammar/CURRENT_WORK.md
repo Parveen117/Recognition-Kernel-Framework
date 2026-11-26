@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG963
+# Pāṇini grammar · current written coverage at PG964
+
+PG964 · [The flour animal as an independent noun and an inner member](effigy_paradigms_and_two_vishvagunadarsha_compounds/README.md). Three ordinary paradigms and two contextual compounds add 71 nominal positions/75 readings. Census 55,298 finite positions, 26,715 nominal positions and 30,391 nominal readings.
 
 PG963 · [From grinding grain to making a flour animal](flour_animal_and_case_of_the_patient/README.md). Three attested nominal positions/readings follow the different case-bearing heads in Manu and Medhātithi. Census 55,298 finite positions, 26,644 nominal positions and 30,316 nominal readings.
 
