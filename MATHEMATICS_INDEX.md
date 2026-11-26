@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG909 · [Vasu’s printed kalahaṃsapadī](research/panini_grammar/vasu_printed_kalahamsapadi/README.md). The source-glyph cut corrects the first-member rendering across 24 existing histories. Lemma, suffix and semantic-evidence coordinates remain distinct under the PG14 augmentation.
+
 PG908 · [Vedic singular obliques of *viśva*](research/panini_grammar/visva_vedic_singular_obliques/README.md). A locus- and agreement-conditioned nominal-ending cut precedes the pada and continuous-text observations. Both locative histories and both dative attributions survive zero-specialization.
 
 PG907 · [Two feminine cases of *tva* and the neuter source split](research/panini_grammar/tva_two_feminine_cases_and_neuter_source_split/README.md). A case-labelled āp/syāṭ adapter and distinct neuter policy summands descend under PG14 augmentation. Equal displayed words retain their source and grammatical owners.

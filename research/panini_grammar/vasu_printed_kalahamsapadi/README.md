@@ -1,0 +1,17 @@
+# PG909 · The anusvāra in Vasu’s fortieth *kumbhapadī* entry
+
+On printed page 1030 of Book V, rule 5.4.139, Vasu's numbered list gives **40 कलहंसपदी**. The mark above ह is anusvāra, followed by स. PG629 preserves exactly those Devanāgarī characters in its electronic source field. Its analytic list writes *kalahamsapadī*, and PG655 carries the plain m into the stem and all its inflected outputs. The error can therefore be localized between the already correct source transcription and the repository's Roman head. The source-faithful IAST head is **kalahaṃsapadī**. [Vasu, p. 1030, PDF leaf 207](https://www.wilbourhall.org/pdfs/chandravasu/book5.pdf#page=207) · [PG629 electronic source field](../kunipadi_positive_reading_and_three_nonmerged_gana_witnesses/SOURCES.json)
+
+## Extent of the correction
+
+Apply the [factored correction](CORRECTION.json) only to the PG655 rows keyed by this exact source head. Retain the individual gender, case, number, word suffix and original credit. Thus NOM sg is *kalahaṃsapadī*, INS sg *kalahaṃsapadyā*, GEN pl *kalahaṃsapadīnām* and VOC sg *kalahaṃsapadi*. The nasal is internal to the first member. The right member keeps its pāda/pad history, final feminine ṅīp and PG634 case endings. In particular the dental n in the genitive plural belongs to a different event. Root, preverb, pada and voice are absent. The 24 affected case keys consist of one inherited NOM sg and 23 first credited in PG655. All remain owned by those stages. This is a spelling correction on existing readings.
+
+The print also locates two PG879 decisions. Item 5 prints *munipadi* with short final i, and the prose above the list cites **IV. 4. 130**. Both readings already occur on this printed page. PG879 supplies the grammatical head *munipadī* and the operation at 6.4.130. The scan settles whether the digital transcription introduced either discrepancy. The page also prints *sūcīpadī* at 32 and *viṣapadī* at 41. These numbered entries supply no lexical gloss. In particular a glossary entry under the shorter *haṃsapadī* alone cannot identify the referent of *kalahaṃsapadī*. The six K139 and three extended-Vasu139 meanings remain Open.
+
+## Typed recovery
+
+In the pinned PG14 right history modules over the free involutive cut-path algebra, use grades for the printed glyphs, the electronic witness, the repository Roman rendering, the grammatical stem and the previously admitted ending. A source-reading edge appends the list address. Its exact-head cut selects item 40. The transliteration edge maps its visible ं to ṃ and preserves the independent s and every later suffix event. The complementary cut retains the other heads. The original m-rendering is kept in the diplomatic history of PG629/655. Witness identity, spelling and lexical interpretation have separate output coordinates.
+
+For an admitted edge from h to h′, T_e(h·b)=h′·(1+z_e)b, and is zero outside its selected type. Since ε(1+z_e)=1, π_target T_e(h·b)=h′·ε(b)=T_e,0 π_source(h·b). Cut membership depends only on source, item and observed glyphs. It and its complement therefore descend. Multiplicativity gives the equality through the unchanged ending history, and the dagger property gives the coordinate pairing after specialization. The lexical sense stays Open at both levels.
+
+Five print observations (items 5, 32, 40, 41 and the rule pointer), two source decisions (correct Roman layer and printed provenance of the two PG879 discrepancies), zero new grammatical constructions, interfaces, positions or readings. [File and scan pins](STATE.json)

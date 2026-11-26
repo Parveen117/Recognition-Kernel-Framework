@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG909 · [Vasu’s printed kalahaṃsapadī](vasu_printed_kalahamsapadi/README.md). Printed page 1030 fixes the internal anusvāra in kalahaṃsapadī and confirms the printed origin of the short i and rule pointer recorded in PG879.
+
 PG908 · [Vedic singular obliques of *viśva*](visva_vedic_singular_obliques/README.md). Segmented and continuous texts give the three oblique spellings. The neuter and masculine singular locatives survive as distinct histories through the PG14 observation map.
 
 PG907 · [Two feminine cases of *tva* and the neuter source split](tva_two_feminine_cases_and_neuter_source_split/README.md). Two verse-owned feminine forms distinguish indefinite *tva* from second-person *tvā*. A neuter word in two further verses receives separate lexicographic and commentarial analyses.

@@ -1,0 +1,40 @@
+{
+  "stage": "PG909",
+  "date": "2026-11-26",
+  "publication_parent": "effec5e5f74fc3a3533d45bba82720bf855da351",
+  "baseline": "../visva_vedic_singular_obliques/STATE.json",
+  "finite_positions": 52531,
+  "nominal_positions": 26348,
+  "nominal_readings": 30012,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 0,
+  "nominal_readings_corrected": 24,
+  "new_morphology_constructions": 0,
+  "new_morphology_interfaces": 0,
+  "new_syntax_constructions": 0,
+  "new_syntax_interfaces": 0,
+  "new_source_observations": 5,
+  "new_source_policy_decisions": 2,
+  "scan": {
+    "url": "https://www.wilbourhall.org/pdfs/chandravasu/book5.pdf",
+    "sha256": "c3289a3ab0775976f071e3ecc5aea65ecf574dad8d4227a2ea8934d2bd92f2b0",
+    "bytes": 10168410,
+    "leaf_one_based": 207,
+    "printed_page": 1030
+  },
+  "pins_relative_to_grammar_at_publication_parent": {
+    "visva_vedic_singular_obliques/STATE.json": "a07b5408ce2554ea672f43f360fa58bb4616ce37",
+    "kunipadi_positive_reading_and_three_nonmerged_gana_witnesses/SOURCES.json": "a829ed8a4412f5bbce92e2640ad3e27010e87cd4",
+    "kunipadi_positive_reading_and_three_nonmerged_gana_witnesses/RELATION.json": "dd740de5d8dbf3315e448f64fa838e1d183b82bd",
+    "three_extended_vasu139_formal_feminine_case_fibres/NOMINAL_FORMS.tsv": "119350b5b65bf25e455be4f2cb70bbfab4cfe984",
+    "vasu_munipadi_and_the_correct_foot_rule_reference/README.md": "2ed8c2d5301349d2d06be4edd22eebdb84ef158f",
+    "grammar_construction/NATIVE_OPERATOR_LIFT.md": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b"
+  },
+  "open_obligations": [
+    "Meaning of each of the six K139 and three extended-Vasu139 heads including kalahaṃsapadī",
+    "Wider manuscript descent, provenance and C2–C5/S1–S7 obligations in WRITTEN_BACKLOG"
+  ],
+  "runtime_policy": "Claude-deferred"
+}

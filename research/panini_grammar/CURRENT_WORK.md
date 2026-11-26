@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG908
+# Pāṇini grammar · current written coverage at PG909
+
+PG909 · [Vasu’s printed kalahaṃsapadī](vasu_printed_kalahamsapadi/README.md). The scan and PG629’s electronic source agree on कलहंसपदी. Correcting its Roman rendering preserves 24 existing case readings and all counts. The printed page also locates PG879’s two diplomatic discrepancies. Census 52,531 finite, 26,348 nominal and 30,012 nominal readings.
 
 PG908 · [Vedic singular obliques of *viśva*](visva_vedic_singular_obliques/README.md). Four Ṛgvedic passages establish a nominal-type dative, ablative and two locatives of viśva. Dative gender remains source-dependent. Added three readings on existing keys. Census 52,531 finite positions, 26,348 nominal positions and 30,012 nominal readings.
 
