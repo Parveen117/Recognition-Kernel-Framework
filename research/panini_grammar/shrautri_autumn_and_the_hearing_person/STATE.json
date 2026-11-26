@@ -1,0 +1,82 @@
+{
+  "stage": "PG951",
+  "date": "2026-11-26",
+  "publication_parent": "ecbe12e95e1cd927ad06a064d3063ac6ed0f5a6b",
+  "baseline": "../shrautra_ear_and_collection/STATE.json",
+  "finite_positions": 54547,
+  "nominal_positions": 26528,
+  "nominal_readings": 30198,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 2,
+  "new_nominal_readings": 2,
+  "new_morphology_constructions": 1,
+  "new_morphology_interfaces": 2,
+  "new_syntax_constructions": 2,
+  "new_syntax_interfaces": 2,
+  "new_source_observations": 5,
+  "new_source_policy_decisions": 3,
+  "observations": [
+    "PWG 101998 citation addresses",
+    "VS 13.57 with Mahīdhara",
+    "ŚB 14.5.5.8",
+    "BĀU 2.5.6 with commentary",
+    "BĀU 3.9.13 paired electronic readings"
+  ],
+  "decisions": [
+    "Attribute the feminine to autumn in the source sequence.",
+    "Count the masculine key once across overlapping witnesses.",
+    "Retain the 3.9.13 spelling difference without promoting it to a paradigm alternative."
+  ],
+  "pins": {
+    "shrautra_ear_and_collection/STATE.json": "d667df80c437b0a2241a8c1ceb2855e99a3e062e",
+    "eight_padi_lexical_domains_and_resolved_named128_meanings/SOURCES.json": "43ea835fe553c10347220f73cf88602016a693cb",
+    "independent_written_closure/RULES_D2.md": "7e7bfbc4e3bd5d3aebfa7c61e511b48ecd56bd97",
+    "grammar_construction/NATIVE_OPERATOR_LIFT.md": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b"
+  },
+  "external_files": {
+    "https://sa.wikisource.org/w/index.php?oldid=369793": {
+      "revision": 369793,
+      "sha256_api_response": "8d121cb67f2de4087864da227873e147d47bc8d3bfc26d080a0d69a01644574c"
+    },
+    "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/1_veda/2_bra/satapath/sb_14_u.htm": "9f73353884835f2bda82ea6d3b6a5d4e4e15ea7186e5a52891358cfe2ab53c3a",
+    "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/1_veda/4_upa/brupsb_u.htm": "eaaadf7644fedee1c1b9bba370908421ecb8030731b0466f7f5b0f9149fd44fc",
+    "https://advaitasharada.sringeri.net/listing/brihadaranyaka-bhashya/anukramanika/": "ffbf56a7628131d02740d30f4e31c9bd82eede0a536ded660a2a98515179bbd6"
+  },
+  "nominal_register": [
+    {
+      "lemma": "śrautra",
+      "relation": "arising from hearing",
+      "gender": "F",
+      "case": "NOM",
+      "number": "sg",
+      "readings": [
+        "श्रौत्री"
+      ]
+    },
+    {
+      "lemma": "śrautra",
+      "relation": "pertaining to hearing",
+      "gender": "M",
+      "case": "NOM",
+      "number": "sg",
+      "readings": [
+        "श्रौत्रः"
+      ]
+    }
+  ],
+  "source_only": [
+    {
+      "address": "BĀU 3.9.13",
+      "gretil": "śrautaḥ",
+      "sringeri": "śrautraḥ",
+      "lexical_priority": "Open"
+    }
+  ],
+  "open": [
+    "Exact allocation of the relational affix rules across readings",
+    "Genealogy and priority at BĀU 3.9.13",
+    "Remaining written and source domains"
+  ],
+  "execution": "Claude-deferred"
+}

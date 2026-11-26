@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG951 · [Autumn and the hearing person](shrautri_autumn_and_the_hearing_person/README.md). The feminine qualifies autumn in VS 13.57. The masculine qualifies the hearing person. BĀU 3.9.13 preserves a separate textual spelling question.
+
 PG949 · [Feminine offering participle](juhvati_feminine_offering_participle/README.md). Whitney §449 supports the nonnasal feminine. Its eight cases add 24 positions and 24 readings.
 
 PG950 · [The ear and the collection of ears](shrautra_ear_and_collection/README.md). Two noun derivations give the same neuter word. Seven new positions and seven readings distinguish the ear from a collection. Census 54,547 finite positions, 26,526 nominal positions and 30,196 nominal readings.

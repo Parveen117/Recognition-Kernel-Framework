@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG950
+# Pāṇini grammar · current written coverage at PG951
+
+PG951 · [Autumn and the hearing person](shrautri_autumn_and_the_hearing_person/README.md). Two Vedic adjectival positions and two readings. Cumulative 54,547 finite, 26,528 nominal positions and 30,198 nominal readings.
 
 PG949 · [Feminine offering participle](juhvati_feminine_offering_participle/README.md). Whitney §449 supports the nonnasal feminine. Its eight cases add 24 positions and 24 readings.
 

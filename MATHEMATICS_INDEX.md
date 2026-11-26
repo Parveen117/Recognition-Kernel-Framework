@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG951 · [Autumn and the hearing person](research/panini_grammar/shrautri_autumn_and_the_hearing_person/README.md). PG14 preserves controller, witness and recitation boundary at the feminine glide and the divergent masculine text.
+
 PG949–950 · [Feminine offering participle](research/panini_grammar/juhvati_feminine_offering_participle/README.md) and [The ear and the collection of ears](research/panini_grammar/shrautra_ear_and_collection/README.md). Typed projection preserves the source of ī in the feminine/dual collision and the distinct number of a collection versus its members.
 
 PG948 · [The sacrificing participle and the black antelope](research/panini_grammar/juhvat_participle_and_antelope/README.md). The PG14 typed projection preserves śatṛ, num and outer aṇ across both group segmentations.
