@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG969
+# Pāṇini grammar · current written coverage at PG970
+
+PG970 · [Being dried and being made to fall](drying_and_falling_in_the_vamana_purana/README.md). Gita Press p. 64 resolves its reading of the stone locative and supplies both causal passives. Two laṭ grids add 18 finite positions/18 readings. Two instrumental agents add two nominal positions/two readings. Census 55,410 finite positions, 26,744 nominal positions and 30,421 nominal readings.
 
 PG969 · [The grindstone and the act of grinding](shilapesha_lexicon_and_cases/README.md). The 1872 dictionary resolves the later abbreviated action gloss. The case panel adds 22 nominal positions/23 readings beyond PG967. Census 55,392 finite positions, 26,742 nominal positions and 30,419 nominal readings.
 

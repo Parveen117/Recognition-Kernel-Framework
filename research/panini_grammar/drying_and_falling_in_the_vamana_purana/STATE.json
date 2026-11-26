@@ -1,0 +1,126 @@
+{
+  "stage": "PG970",
+  "date": "2026-11-26",
+  "publication_parent": "848a254a386753d582e635d079a6ae220b1486dd",
+  "baseline": "../shilapesha_lexicon_and_cases/STATE.json",
+  "new_finite_positions": 18,
+  "new_finite_readings": 18,
+  "new_nominal_positions": 2,
+  "new_nominal_readings": 2,
+  "finite_positions": 55410,
+  "nominal_positions": 26744,
+  "nominal_readings": 30421,
+  "finite_register": {
+    "common": {
+      "preverb": "∅",
+      "formation": "single ṇic",
+      "voice": "karmaṇi",
+      "pada": "A",
+      "lakara": "laṭ",
+      "agreement": "affected causee"
+    },
+    "root_senses": {
+      "1040080": "śoṣaṇe, becoming dry",
+      "1010979": "gatau, falling"
+    },
+    "words": {
+      "1040080": {
+        "3sg": "śoṣyate",
+        "3du": "śoṣyete",
+        "3pl": "śoṣyante",
+        "2sg": "śoṣyase",
+        "2du": "śoṣyethe",
+        "2pl": "śoṣyadhve",
+        "1sg": "śoṣye",
+        "1du": "śoṣyāvahe",
+        "1pl": "śoṣyāmahe"
+      },
+      "1010979": {
+        "3sg": "pātyate",
+        "3du": "pātyete",
+        "3pl": "pātyante",
+        "2sg": "pātyase",
+        "2du": "pātyethe",
+        "2pl": "pātyadhve",
+        "1sg": "pātye",
+        "1du": "pātyāvahe",
+        "1pl": "pātyāmahe"
+      }
+    },
+    "direct": {
+      "1040080/3pl": [
+        "12.28"
+      ],
+      "1010979/3pl": [
+        "12.29",
+        "12.32",
+        "12.34"
+      ]
+    }
+  },
+  "nominal_register": [
+    {
+      "stem": "śoṣaka",
+      "gender": "M",
+      "case": "INS",
+      "number": "pl",
+      "reading": "śoṣakaiḥ",
+      "verse": "12.28"
+    },
+    {
+      "stem": "yamakiṅkara",
+      "gender": "M",
+      "case": "INS",
+      "number": "pl",
+      "reading": "yamakiṅkaraiḥ",
+      "verse": "12.34"
+    }
+  ],
+  "new_morphology_constructions": 2,
+  "new_morphology_interfaces": 18,
+  "new_syntax_constructions": 1,
+  "new_syntax_interfaces": 2,
+  "new_source_observations": 4,
+  "new_source_policy_decisions": 3,
+  "decisions": [
+    "Gita Press interprets the Vāmana locative as physical stones.",
+    "The printed second passive at 12.28 supplies śoṣyante beside electronic śoṣyanate.",
+    "Retain one falling-patient slot across three distinct oblique frames."
+  ],
+  "sources": {
+    "print": {
+      "url": "https://thevyasa.in/granth/vaman-puran-gita-press/img/0074.avif",
+      "sha256": "472172d895b50111001edfd7075a317c373abd993482fdac881335e81e135585",
+      "locus": "Gita Press p. 64, Vāmana 12.28–34"
+    },
+    "electronic_chapter": "See PG967 sources, Vāmana 12",
+    "lexicon": {
+      "repo": "sanskrit-lexicon/csl-orig",
+      "commit": "776f75662b804497939e179f2ae1468b83ad55a7",
+      "blob": "e72bbf56f93897b7967dbec0a882ce1489720b7c",
+      "path": "v02/mw/mw.txt",
+      "entries": [
+        219943,
+        221675
+      ]
+    }
+  },
+  "pins": {
+    "shilapesha_lexicon_and_cases/STATE.json": "a5ba89921698093e69c671f5f2228dba0c8bf5f2",
+    "injury_patient_of_pis/STATE.json": "8d26d5b0eba99da23c1f7fd9d301af368f1fd317",
+    "nic_original_agent/SOURCE_DECISIONS.md": "aa674a1efc027749796748530a98759d1f0ffaa8",
+    "nic_original_agent/STATE.json": "e70b60c7c467abb16348bb5288de1970c1106416",
+    "nested_pat_lyap_long_root_and_owned_lopa/SOURCES.json": "20d24aaa65a5156627b83a5bc038756b4dc9b66f",
+    "nested_pat_lyap_long_root_and_owned_lopa/DERIVATION_AND_NATIVE_RECOVERY.md": "c50d75eeed2e98ff354d40c404f02241ea37e47c",
+    "causative_passive/DOMAIN_AND_KARMAN.md": "ec7abe2264db324419e5ff043eaa7702865906da",
+    "bhid_causative_passive_present_and_retained_grade/DERIVATION_AND_NATIVE_RECOVERY.md": "c94979f20c13383a7d9a2164bd9e8c67ba3e2352",
+    "bhid_causative_passive_present_and_retained_grade/PARADIGMS.md": "505a0cab11320bc673e5280d6c7bc65575bd60e0",
+    "grammar_construction/NATIVE_OPERATOR_LIFT.md": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b"
+  },
+  "open": [
+    "Earlier Vāmana witnesses and independent attestations of the other sixteen cells",
+    "Other causative-passive categories",
+    "C2–C5 and S1–S7"
+  ],
+  "execution": "Claude-deferred"
+}

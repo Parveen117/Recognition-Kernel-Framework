@@ -1,0 +1,25 @@
+# PG970 · Being dried and being made to fall
+
+The Hindi translation printed beside Vāmanapurāṇa 12.28 on Gita Press p. 64 interprets the sufferers as being ground **on stones**. It then identifies fire, the sun and the like as what dries them. This supplies a concrete location reading in this edition for the locative left open at PG969. Its Hindi plural belongs to the translation. The Sanskrit *śilāpeṣe* is singular. Both obliques in PG967 retain their original case counts. [Facsimile, image 74, printed p. 64](https://thevyasa.in/granth/vaman-puran-gita-press/img/0074.avif) · [PG969 dictionary and cases](../shilapesha_lexicon_and_cases/README.md)
+
+**Two single-causative passive presents.** For √śuṣ select the divādi drying root 1040080 and an original intransitive event in which the affected person dries. The further participant causes that drying. Rule 3.1.26 introduces ṇic and the causal stem has śoṣ-, as in the independently recorded *śoṣayati*. The divādi present stem *śuṣya-* belongs to the simple root's own formation. The verse's second predicate has o and expresses the affected group through the ending. For bhvādi √pat 1010979 take the intransitive falling use: a person falls, another participant causes the fall. The upadhā a takes vṛddhi before ṇic under 7.2.116. Preserve pāt-. Both inputs are unprefixed. These forms have one causative layer. The ordered preverb and second layer in PG412 have no place in these clauses. [Drying root and older actor profiles](../nic_original_agent/SOURCE_DECISIONS.md) · [Falling root and grade operation](../nested_pat_lyap_long_root_and_owned_lopa/DERIVATION_AND_NATIVE_RECOVERY.md)
+
+In both frames the original agent of the intransitive event becomes the causative karman under 1.4.52. Express that participant by the ending under 3.4.69. Select yaK under 3.1.67, the middle endings under 1.3.13, and loss of the causative vowel before the non-iṭ suffix under 6.4.51. The audible y belongs to yaK. The causal event, grade and distinct causer survive. The śoṣaka in 12.28 and Yama's servants in 12.34 stand in the instrumental plural. The affected group's number controls both verbs. The locative in 12.29 names the destination or setting, while 12.34 names the mountain peak as the source of the fall. Read the number from the finite form. The first half of 12.34 opens with singular *tyāgī* in the print. [PG15 on the causee](../causative_passive/DOMAIN_AND_KARMAN.md) · [PG364 on ṇic-lopa and retained grade](../bhid_causative_passive_present_and_retained_grade/DERIVATION_AND_NATIVE_RECOVERY.md)
+
+| Expressed patient | Being dried | Being made to fall |
+|---|---|---|
+| 3sg | śoṣyate | pātyate |
+| 3du | śoṣyete | pātyete |
+| 3pl | śoṣyante | pātyante |
+| 2sg | śoṣyase | pātyase |
+| 2du | śoṣyethe | pātyethe |
+| 2pl | śoṣyadhve | pātyadhve |
+| 1sg | śoṣye | pātye |
+| 1du | śoṣyāvahe | pātyāvahe |
+| 1pl | śoṣyāmahe | pātyāmahe |
+
+The two 3pl cells have direct support. The drying form occurs in 12.28, the falling form in 12.29, 32 and 34. The other sixteen cells are written inflections conditional on the corresponding patient being the speaker, addressee or third person in the stated number. The three falling clauses share one finite credit. PG114 owns the grain-drying **actor** paradigms. The selected constructions here express the affected causee. No precative or impersonal is added.
+
+**Readings at the printed line.** The print at 12.28 gives the sandhied sequence *śoṣyante ’pi* and instrumental *śoṣakaiḥ*. The previously pinned electronic text writes शोष्यनते. Keep that spelling in its source record. The print supplies a grammatical plural without a conjectural repair to the electronic witness. In 12.34 the form corresponding to *yamakiṅkaraiḥ* receives the instrumental of the outer head *kiṅkara*. The edition's nasal spelling and the electronic homorganic nasal can be recorded diplomatically alongside one normalized reading. The print's Hindi names Yama's messengers. The indefinite drying agents in Sanskrit 12.28 and the named group in 12.34 are separate positions. [Electronic chapter](https://vishvasa.github.io/purANam/shaivam/vAmana-purANam/laghu-pAThaH/12/)
+
+**Recovery.** Use the paired PG14 right modules, retaining root ID, semantic frame, original agent, causer, expressed karman, preverb, causative history, grade, affix owner, voice, ending and textual layer. The grade transition is licensed on the lexical causative input. Lopa has the causative vowel as its target. The agreement edge reads the expressed causee's features. Each licensed transition h → j sends h b to j (1+zₑ)b, so projecting at the target gives j ε(b), just as applying the corresponding classical transition to h ε(b) does. If agreement is requested from the causer's instrumental or the simple-root y is requested on the single-ṇic history, both composites vanish. The augmentation respects products and dagger, hence the typed identity holds through grade, deletion, ending attachment and their pairings. Diplomatic and normalized text retain their source tags. [PG14](../grammar_construction/NATIVE_OPERATOR_LIFT.md) · [State and pins](STATE.json)
