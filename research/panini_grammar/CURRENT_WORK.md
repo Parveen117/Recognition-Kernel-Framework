@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG966
+# Pāṇini grammar · current written coverage at PG967
+
+PG967 · [The injury patient of √piṣ](injury_patient_of_pis/README.md). The two poems agree on the plural passive and differ in the oblique case. The selected domain adds 90 finite positions/90 readings and two nominal positions/two readings. Census 55,389 finite positions, 26,720 nominal positions and 30,396 nominal readings.
 
 PG966 · [The Ṛbhus give and Agni bears or gives](dha_in_the_rbhu_request_and_agnis_superlative/README.md). The Ṛbhu gift request and Agni epithet add one finite position/reading and one nominal position/reading. Census 55,299 finite positions, 26,718 nominal positions and 30,394 nominal readings.
 

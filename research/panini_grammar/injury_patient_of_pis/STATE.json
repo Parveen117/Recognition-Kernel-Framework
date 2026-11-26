@@ -1,0 +1,77 @@
+{
+  "stage": "PG967",
+  "date": "2026-11-26",
+  "publication_parent": "79807dcbead159d39e14ef7b525305686e5216f6",
+  "baseline": "../dha_in_the_rbhu_request_and_agnis_superlative/STATE.json",
+  "finite_positions": 55389,
+  "nominal_positions": 26720,
+  "nominal_readings": 30396,
+  "new_finite_positions": 90,
+  "new_finite_readings": 90,
+  "new_nominal_positions": 2,
+  "new_nominal_readings": 2,
+  "finite_register": {
+    "table": "../rudh_yuj_sis_pis_patient_grids/FINITE_FORMS.tsv",
+    "select": {
+      "root_id": "1070015",
+      "sense": "sañcūrṇana"
+    },
+    "replace": {
+      "sense": "hiṃsā"
+    },
+    "formation": "simple",
+    "licensed_frame": "expressed injury patient",
+    "surface": "accepted_reading",
+    "direct_verse_slot": [
+      "laṭ",
+      3,
+      "pl"
+    ]
+  },
+  "nominal_register": [
+    {
+      "stem": "śilāpeṣa",
+      "gender": "M",
+      "case": "INS",
+      "number": "pl",
+      "reading": "शिलापेषैः",
+      "locus": "MarkP 14.72"
+    },
+    {
+      "stem": "śilāpeṣa",
+      "gender": "M",
+      "case": "LOC",
+      "number": "sg",
+      "reading": "शिलापेषे",
+      "locus": "Vāmana 12.28"
+    }
+  ],
+  "new_syntax_constructions": 1,
+  "new_syntax_interfaces": 2,
+  "new_morphology_constructions": 0,
+  "inherited_finite_interfaces": 90,
+  "new_source_observations": 2,
+  "new_source_policy_decisions": 2,
+  "decisions": [
+    "Admit the injury patient via the attested direct-object frame.",
+    "Keep the two oblique cases distinct while counting the shared finite slot once."
+  ],
+  "pins": {
+    "dha_in_the_rbhu_request_and_agnis_superlative/STATE.json": "cdfccf4636f6d2ebf66b2bac53091d83220469e6",
+    "rudh_yuj_sis_pis_patient_grids/FINITE_FORMS.tsv": "ae7bccf735004c8088e28d2f25bb7102216329f1",
+    "rudh_yuj_sis_pis_patient_grids/STATE.json": "bc4c1306bf62c227f165ea79c9b452c2a52a084e",
+    "flour_animal_and_case_of_the_patient/STATE.json": "8987d08031e9cb8dc81db6bc44544b2ce59a7cd9",
+    "grammar_construction/NATIVE_OPERATOR_LIFT.md": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+    "compound_case_derivation/SOURCE_EXCERPTS.json": "5a569802d83a4e02f6d4c65bb44c6922fe8019cc"
+  },
+  "sources": {
+    "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/3_purana/mkp1-93u.htm": "b6bb0e6f55c0704d2783bbdfa53147bae654685bbcdc8d2a936a145cec28fd85",
+    "https://vishvasa.github.io/purANam/shaivam/vAmana-purANam/laghu-pAThaH/12/": "ec05c008198c74c23fdcbea6dd291505ddbf33264aa1e424aacad3fdc3b15e98"
+  },
+  "execution": "Claude-deferred",
+  "open": [
+    "Other senses, voices and preverbs",
+    "Direct attestations beyond present third plural",
+    "C2–C5 and S1–S7"
+  ]
+}

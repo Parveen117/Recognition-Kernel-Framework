@@ -1,11 +1,15 @@
-# Written-development backlog at PG966
+# Written-development backlog at PG967
 
-## Working register at PG966
+PG967 · [The injury patient of √piṣ](injury_patient_of_pis/README.md). The two poems agree on the plural passive and differ in the oblique case. The selected domain adds 90 finite positions/90 readings and two nominal positions/two readings. Census 55,389 finite positions, 26,720 nominal positions and 30,396 nominal readings.
+
+<a id="working-register-at-pg966"></a>
+
+## Working register through PG967
 
 | Status | Exact scope and remaining evidence |
 |---|---|
 | Closed for the stated input | PG335’s correction and the PG357–363 historical closure stand. PG340/346 own their actor grids, PG349–352 their selected niṣṭhā forms and PG355–360 their selected √bhid passive. PG956/962 now own eight simple unprefixed transitive patient grids. PG960–961 own all 30 third-person self-acting rope requests and one independent impersonal granary token. PG963–965 distinguish case controls, Classical compounds and two Śākala case policies. PG966 closes two specific giving-sense witnesses. |
-| Written work still constructible | The unsolved scopes include additional licensed first/second-person self-agent contexts, other impersonal categories on their own frames, and wider verb/preverb, nonfinite, nominal, syntax and accent domains. A productive next target is a distinct attested giving-sense use of √dhā beyond the Ṛbhu command and Agni epithet. A second is the injury patient of √piṣ, admitted through evidence for that frame rather than inheriting the grinding sense. The older PG934/935 notes reserve passive √dā/√dhā. Their [selected dā](da_selected_passive_ten_category_grid/STATE.json) and [selected dhā](dha_selected_passive_ten_category_grid/STATE.json) grids have since been constructed. |
+| Written work still constructible | The unsolved scopes include additional licensed first/second-person self-agent contexts, other impersonal categories on their own frames, and wider verb/preverb, nonfinite, nominal, syntax and accent domains. A productive next target is a distinct attested giving-sense use of √dhā beyond the Ṛbhu command and Agni epithet. PG967 now closes the selected direct injury-patient grid of √piṣ. Firsthand attestations of its other 89 slots remain open. The older PG934/935 notes reserve passive √dā/√dhā. Their [selected dā](da_selected_passive_ten_category_grid/STATE.json) and [selected dhā](dha_selected_passive_ten_category_grid/STATE.json) grids have since been constructed. |
 | Textual evidence still needed | For K139, mālāpadī, munipadī, kuṇapadī, sūpapadī, arvapadī and stanapadī still need individual meanings. Extended Vasu139 adds sūcīpadī, kalahaṃsapadī and viṣapadī. PG654/655 already own the formal cases. K128 still has unaligned variant heads and senses. Patradatam still needs a source identifying the referent and gender or licensing masculine nuṃ omission. S1 needs a manuscript carrying the separate command and evidence for its mood. S2 needs the pre-December-2018 reassignment provenance. S3 needs the 2023 transfer intermediary and the corrected reader distribution. S4 retains 45 Pāṇinian middle-san perfect licences, S5 four Uṇādi 4.105 lexical assignments, S6 the independent effect of k at 5.56, and S7 the outstanding attributed reading and manuscript-policy reconciliations. |
 | Execution assigned to Claude | Sanskrit generation, grammar execution, unresolved implementation comparisons, old suites and certificate replay. These have no written-coverage credit. |
 

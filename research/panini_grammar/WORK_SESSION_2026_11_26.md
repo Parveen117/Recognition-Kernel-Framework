@@ -1,5 +1,7 @@
 # Written Pāṇini work session · 2026-11-26
 
+PG967 · [The injury patient of √piṣ](injury_patient_of_pis/README.md). The two poems agree on the plural passive and differ in the oblique case. The selected domain adds 90 finite positions/90 readings and two nominal positions/two readings. Census 55,389 finite positions, 26,720 nominal positions and 30,396 nominal readings. Parent 79807dcbead159d39e14ef7b525305686e5216f6. One syntax construction/two interfaces, 90 reused finite interfaces, two source observations and two policy decisions. Other written domains, source gates and Claude’s execution queue remain open.
+
 ## Review handoff for PG952–966
 
 Written scope remains open. From PG951 at `ef5eacbd1fa30ea62fc281e285e2ce570548e24d` through PG966 at `8961672c862113561da17be8d87137a011931182`, fifteen new stages added **752 unique finite positions with 752 readings, and 190 unique nominal positions with 196 readings**. The resulting published census is **55,299 finite positions, 26,718 nominal positions and 30,394 nominal readings**. The baseline does not expose a global total of finite readings. Across these stages the STATE increments give 35 morphology constructions/303 interfaces, 14 syntax/35, two semantic/four, one junction/one and one accent/two. There were 41 counted source observations and 34 source-policy decisions.

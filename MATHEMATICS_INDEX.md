@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG967 · [The injury patient of √piṣ](research/panini_grammar/injury_patient_of_pis/README.md). The two poems agree on the plural passive and differ in the oblique case. The selected domain adds 90 finite positions/90 readings and two nominal positions/two readings. Census 55,389 finite positions, 26,720 nominal positions and 30,396 nominal readings.
+
 PG966 · [The Ṛbhus give and Agni bears or gives](research/panini_grammar/dha_in_the_rbhu_request_and_agnis_superlative/README.md). The PG14 construction keeps the Vedic imperative replacement, superlative affix, alternative senses and accent owners typed. Census 55,299 finite positions, 26,718 nominal positions and 30,394 nominal readings.
 
 PG965 · [One accented word, two case analyses](research/panini_grammar/pashvah_in_two_shakala_hymns/README.md). Two source-qualified case histories project to one accented word, so the surface cannot invert the case map. Census 55,298 finite positions, 26,717 nominal positions and 30,393 nominal readings.
