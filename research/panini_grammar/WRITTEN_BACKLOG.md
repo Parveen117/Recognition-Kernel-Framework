@@ -1,4 +1,11 @@
-# Written-development backlog at PG938
+# Written-development backlog at PG939
+
+PG939 · [The selected passive ten-category grid of √ad in eating](ad_bhaksana_selected_passive_ten_category_grid/README.md). Closed the selected simple empty-preverb record-1500 eating karmaṇi grid: 90 patient-controlled keys/99 readings. PG932 retains kartari ownership; the distinct bhvādi binding root is not merged.
+
+- **Already closed targets.** The selected √ad eating-sense karmaṇi grid is CLOSED at PG939; √hu giving-sense karmaṇi is CLOSED at PG938, √dā karmaṇi across PG33/34/937 and √dhā karmaṇi at PG936. Earlier kartari and ordered-prefix owners remain unchanged. PG335 and PG357–363 remain historical CLOSED results.
+- **Genuine unconstructed domains.** The distinct bhvādi binding root, √ad prefixed passive, karmakartṛ, causative and other derived-root requests, nonfinite agreement, accent and wider text remain Open. The corresponding √hu/√dā/√dhā extensions remain Open. Six K139 and three extended-Vasu139 meanings, K128 variants, patradatam and broader C2–C5 domains retain concrete entries.
+- **Unresolved source readings.** Critical priority and distribution of √ad’s original-root and *ghas* perfects remain Open, along with the √hu/√dā/√dhā alternative questions. No absent witness is treated as an exclusion. S1–S7 and inherited local source questions retain their registers.
+- **Claude-deferred execution.** Sanskrit generators, grammar execution, untouched old suites and certificate replay remain outside written-development credit.
 
 PG938 · [The selected passive ten-category grid of √hu in giving](hu_dana_selected_passive_ten_category_grid/README.md). Closed the selected simple empty-preverb record-1592 giving karmaṇi grid: 90 patient-controlled keys/164 readings. PG931 retains kartari ownership; the adjacent eating record is not merged.
 

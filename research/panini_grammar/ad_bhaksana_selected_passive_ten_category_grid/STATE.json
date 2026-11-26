@@ -1,0 +1,65 @@
+{
+  "stage": "PG939",
+  "date": "2026-11-26",
+  "publication_parent": "e7d86dff3b0a34d37de6b0a739b4c5cc96d06caf",
+  "baseline": "../hu_dana_selected_passive_ten_category_grid/STATE.json",
+  "finite_positions": 54267,
+  "nominal_positions": 26426,
+  "nominal_readings": 30094,
+  "new_finite_positions": 90,
+  "new_finite_readings": 99,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 0,
+  "new_morphology_constructions": 10,
+  "new_morphology_interfaces": 90,
+  "new_syntax_constructions": 1,
+  "new_syntax_interfaces": 90,
+  "new_source_observations": 11,
+  "new_source_policy_decisions": 8,
+  "reading_counts": {
+    "laṭ": 9,
+    "liṭ": 18,
+    "luṭ": 9,
+    "lṛṭ": 9,
+    "loṭ": 9,
+    "laṅ": 9,
+    "vidhiliṅ": 9,
+    "āśīrliṅ": 9,
+    "luṅ": 9,
+    "lṛṅ": 9
+  },
+  "decisions": [
+    "record 1500 ad bhaksane is selected; the distinct bhvadi binding root is not merged",
+    "the eating sense is selected under empty preverb and karmaṇi voice",
+    "the expressed patient, not the eater, controls person and number",
+    "the actor record's P-only label does not block passive A endings",
+    "actor and passive words remain distinct voice/controller positions",
+    "original ad and substituted ghas perfects are readings at one typed request with distinct root histories",
+    "the aorist ghas-ghats history remains distinct from present adya",
+    "other roots, prefixes, voices, derivations and critical priority remain Open"
+  ],
+  "pins": {
+    "grammar_construction/NATIVE_OPERATOR_LIFT.md": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+    "grammar_construction/STATE_AND_COMPOSITION.md": "593f548f92c6398508db1fa943352fbe23cb51c9",
+    "SUTRAPATHA.tsv": "1840f3b5349b21112ac05a7efaa59705fd4efee0",
+    "hu_dana_selected_passive_ten_category_grid/STATE.json": "20929931ffda14877199ec4fb52f1874faec94e7",
+    "ad_remaining_actor_categories/STATE.json": "ecafc23d4c654778014fa92ba9a25ab040ef9c59",
+    "ad_remaining_actor_categories/FINITE_FORMS.tsv": "d5d5b03102a7b84f289ac55af8443a0da8ccdf03"
+  },
+  "external_files": {
+    "https://samsaadhanii-concordance.vipran.in/dhatu/1500-axaz-BakRaNe-ax2": "7b264ea3e82772dd7f6c0204c1f4a8d75f57b134daa15db7b4fed63a6370bb29"
+  },
+  "external_hash_policy": {
+    "samsaadhanii_1500": "raw response bytes retrieved 2026-11-26"
+  },
+  "open": [
+    "distinct bhvadi binding root and other lexical-sense domains",
+    "prefixed passive, karmakartr, causative and other derived-root requests",
+    "nonfinite agreement, accent and wider text",
+    "critical priority and distribution of ad and ghas perfect readings",
+    "six K139 and three extended Vasu139 lexical meanings",
+    "remaining K128, patradatam, C2-C5 and source S1-S7 registers"
+  ],
+  "execution": "Claude-deferred"
+}
+
