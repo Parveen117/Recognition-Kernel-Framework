@@ -1,4 +1,11 @@
-# Written-development backlog at PG946
+# Written-development backlog at PG948
+
+PG947–948 · [The ordinary case panel of the offering ladle](juhu_ladle_remaining_cases/README.md) and [The sacrificing participle and the black antelope](juhvat_participle_and_antelope/README.md).
+
+- **Closed.** Ordinary unaccented feminine ladle inflection, selected masculine/neuter offering-participle case readings, and the two source-relative prajñādi parsings for juhvat. PG945–946 retain their previously identified requests. The PG335 correction, PG340/346 actor grids, PG349–352 niṣṭhā and PG355–360 bhid grid retain first ownership. PG357–363 remain CLOSED historical results.
+- **Unconstructed.** Feminine offering-participle inflection, the other sense-qualified cases and remaining PG578 members stay on the written queue. C2–C5 retain wider affix, nominal, verbal and sentence domains.
+- **Unresolved readings.** Independent use of the nasal neuter plural, the critical distribution of Nyāsa’s two segmentations, Vedic ladle variants and accent remain Open. The six K139 and three extended-Vasu139 meanings, K128 and patradatam retain their separate questions, alongside S1–S7.
+- **Claude-deferred.** Sanskrit generators, grammar execution, untouched suites and certificate replay.
 
 PG946 · [One instrumental plural in two Ṛgvedic hymns](juhu_tongues_and_ladles_in_two_hymns/README.md). **Closed** for the two instrumental-plural roles and the single Uṇādi locator. **Unconstructed** are the other sense-qualified case domains and wider inherited classes. **Unresolved sources** include global numbering, direct attribution of the impersonal finite request, and other critical/recensional readings. The K139/Vasu139, K128, patradatam and C2–C5/S1–S7 entries below retain their scope. **Claude-deferred** execution continues.
 

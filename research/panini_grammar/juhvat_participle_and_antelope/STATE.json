@@ -1,0 +1,54 @@
+{
+  "stage": "PG948",
+  "date": "2026-11-26",
+  "publication_parent": "86ad4fde163c67a76a4869739a7214a533df2b1f",
+  "baseline": "../juhu_ladle_remaining_cases/STATE.json",
+  "finite_positions": 54547,
+  "nominal_positions": 26495,
+  "nominal_readings": 30165,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 46,
+  "new_nominal_readings": 48,
+  "new_morphology_constructions": 2,
+  "new_morphology_interfaces": 50,
+  "morphology": [
+    "masculine and neuter inflection of offering śatṛ",
+    "aṇ selection on the two reported prajñādi segmentations"
+  ],
+  "new_syntax_constructions": 0,
+  "new_syntax_interfaces": 0,
+  "new_source_observations": 2,
+  "observations": [
+    "Whitney §447 M/N table",
+    "Whitney §447a–b alternative and attestation qualification"
+  ],
+  "new_source_policy_decisions": 3,
+  "decisions": [
+    "Distinguish abhyasta śatṛ from kvip and from intensive johvat.",
+    "Preserve the grammatical nasal option in N direct plural independently of direct usage.",
+    "Attach the black-antelope restriction to the member selected by each Nyāsa parsing."
+  ],
+  "pins": {
+    "prajna_affix_gender_contrast_and_clay_owned_i_after_luk/RELATION.json": "a201a2efb0e1c11442bae184b0745d2673bd170f",
+    "prajna_affix_gender_contrast_and_clay_owned_i_after_luk/SOURCES.json": "d09a2a5394455b4adbc79987d450027fb359237c",
+    "possession_adverbials/RULES_5_4_A.md": "c5c5494fc2a88ad54bf9c9e1b2c452702c64f908",
+    "anga_affix_abhyasa/RULES_7_2_C.md": "58b8246e37c9ca50fc9cb53e77396db744c5ea14",
+    "anga_affix_abhyasa/RULES_7_1_B.md": "341b0b74ed77549c29c6be10e7d4b42ab4702753",
+    "anga_affix_abhyasa/RULES_6_4_A.md": "6b54c4e8bdf02024f6d55a581a57928bf255cda8",
+    "independent_written_closure/RULES_D1.md": "fe3b53810ac1800956d4530d8ac22314d3c194ae",
+    "grammar_construction/NATIVE_OPERATOR_LIFT.md": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+    "juhu_ladle_remaining_cases/STATE.json": "75a92fba1569efc1d1a4ab651f9286f537dc60e7"
+  },
+  "external_files": {
+    "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA732.html": "1a4367434f90a40b7bb7bddab6aaf30be5bf8cc0e7d970dab2980bb00c4c9157",
+    "https://gretil.sub.uni-goettingen.de/gretil_elib/Whi889__Whitney_SanskritGrammar.pdf": "d290ab72551d23ff1fd8f25e2c00502a485dbb5ae7a1a805a062fb73187c7ebe"
+  },
+  "open": [
+    "feminine participle",
+    "direct use of the optional nasal plural",
+    "critical priority and wider uses of the two group parsings",
+    "other PG578 members and C2–C5/S1–S7"
+  ],
+  "execution": "Claude-deferred"
+}

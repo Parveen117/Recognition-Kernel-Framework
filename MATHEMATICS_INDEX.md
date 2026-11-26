@@ -1,5 +1,9 @@
 # Canonical Mathematics Index
 
+PG948 · [The sacrificing participle and the black antelope](research/panini_grammar/juhvat_participle_and_antelope/README.md). The PG14 typed projection preserves śatṛ, num and outer aṇ across both group segmentations.
+
+PG947 · [The ordinary case panel of the offering ladle](research/panini_grammar/juhu_ladle_remaining_cases/README.md). The recorded case and number survive projection at syncretic duals.
+
 PG946 · [One instrumental plural in two Ṛgvedic hymns](research/panini_grammar/juhu_tongues_and_ladles_in_two_hymns/README.md). The typed projection retains referent, sense and Uṇādi address through a shared instrumental plural.
 
 PG945 · [The juhū ladle in four ritual case roles](research/panini_grammar/juhu_ladle_in_ritual_clauses/README.md). The typed PG14 case edge preserves the named witness, role, ending and internal or external junction at specialization.

@@ -1,4 +1,8 @@
-# Pāṇini grammar · current written coverage at PG946
+# Pāṇini grammar · current written coverage at PG948
+
+PG948 · [The sacrificing participle and the black antelope](juhvat_participle_and_antelope/README.md). The 48 masculine/neuter requests yield 51 readings, including optional num in the three neuter direct plurals. After two controls the new credit is 46 positions/48 readings. Census 54,547 finite, 26,495 nominal positions and 30,165 nominal readings.
+
+PG947 · [The ordinary case panel of the offering ladle](juhu_ladle_remaining_cases/README.md). Seven inherited requests and 17 new nominal positions/readings complete the ordinary 24-key ladle panel.
 
 PG946 · [One instrumental plural in two Ṛgvedic hymns](juhu_tongues_and_ladles_in_two_hymns/README.md). Two sense-qualified instrumental plurals, two readings, one shared spelling. Census 54,547 finite positions, 26,432 nominal positions and 30,100 nominal readings.
 
