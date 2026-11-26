@@ -1,0 +1,61 @@
+{
+  "stage": "PG927",
+  "date": "2026-11-26",
+  "publication_parent": "699d9e817614efc526b04c39b6ba52a32065c5bb",
+  "baseline": "../ksud_remaining_actor_categories/STATE.json",
+  "finite_positions": 53287,
+  "nominal_positions": 26426,
+  "nominal_readings": 30094,
+  "new_finite_positions": 126,
+  "new_finite_readings": 141,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 0,
+  "new_morphology_constructions": 7,
+  "new_morphology_interfaces": 14,
+  "new_syntax_constructions": 0,
+  "new_syntax_interfaces": 0,
+  "new_source_observations": 2,
+  "new_source_policy_decisions": 5,
+  "reading_counts": {
+    "laṅ/P": 11, "laṅ/A": 9,
+    "lṛṭ/P": 9, "lṛṭ/A": 9,
+    "luṭ/P": 9, "luṭ/A": 9,
+    "liṭ/P": 9, "liṭ/A": 9,
+    "luṅ/P": 20, "luṅ/A": 9,
+    "āśīrliṅ/P": 10, "āśīrliṅ/A": 9,
+    "lṛṅ/P": 10, "lṛṅ/A": 9
+  },
+  "decisions": [
+    "PG91 prefixed contextual profiles retain first ownership and are not recredited",
+    "the current fibre is simple unprefixed yujir yoge only",
+    "A is actor-result guarded and P retains the residual actor request",
+    "slash alternatives are readings at one typed key",
+    "the ir-conditioned aṅ option is confined to P while A retains sic-kit history"
+  ],
+  "coverage": {
+    "laṭ": "PG7",
+    "loṭ and vidhiliṅ": "PG22",
+    "selected prefixed contextual profiles": "PG90–PG91",
+    "remaining seven simple unprefixed categories": "PG927",
+    "selected_unprefixed_kartari_positions_across_stages": 180
+  },
+  "pins": {
+    "grammar_construction/NATIVE_OPERATOR_LIFT.md": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+    "SUTRAPATHA.tsv": "1840f3b5349b21112ac05a7efaa59705fd4efee0",
+    "ksud_remaining_actor_categories/STATE.json": "74636b4126d67ede882f19656c5bba245003c608",
+    "snam_lat/LEXICAL_ENTRIES.json": "ca9f1d2d6b6f1772f664e74bcd42b75fc0f866a1",
+    "athematic_modals/PARADIGMS.md": "623356e24a76ce515ae0ec2015f6f98381b6f5de",
+    "yuj_ksnu_final_continuations/STATE.json": "aca4dcfed4af043426d3569915c08187f70c4679"
+  },
+  "external_files": {
+    "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA1045.html": "4c1fb7620a04aa256fc557954e1445dbe100f74af77e63f38e417dd3dde466bb",
+    "https://whm.cdsharma.in/dhatu-rupavali?id=1650": "cbe97fcc791b729c93b42067ab3b01c8b956f1c21d4c4ac4f6d35ccc5354c97d"
+  },
+  "open": [
+    "yuj passive, karmakartṛ, other prefixed, derived, accent, wider textual and other lexical-sense domains",
+    "historical and critical priority of the recorded alternatives",
+    "remaining written C2–C5 and source S1–S7 registers"
+  ],
+  "execution": "Claude-deferred"
+}
+
