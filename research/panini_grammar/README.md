@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG940 · [The selected passive ten-category grid of √hiṃs](hims_selected_passive_ten_category_grid/README.md). Ten karmaṇi constructions preserve record-2137 sense ownership, patient control, passive A endings and distinct lexical-num, present-śnam and passive-yaK histories.
+
 PG939 · [The selected passive ten-category grid of √ad in eating](ad_bhaksana_selected_passive_ten_category_grid/README.md). Ten karmaṇi constructions preserve record-1500 sense ownership, patient control, passive A endings and distinct original-*ad*, substituted-*ghas* and aorist junction histories.
 
 PG938 · [The selected passive ten-category grid of √hu in giving](hu_dana_selected_passive_ten_category_grid/README.md). Ten karmaṇi constructions preserve record-1592 sense ownership, patient control, passive A endings, simple/periphrastic perfect auxiliaries and the source’s future, blessing and aorist alternatives.

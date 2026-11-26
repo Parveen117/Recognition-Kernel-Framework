@@ -1,4 +1,11 @@
-# Written-development backlog at PG939
+# Written-development backlog at PG940
+
+PG940 · [The selected passive ten-category grid of √hiṃs](hims_selected_passive_ten_category_grid/README.md). Closed the selected simple empty-preverb record-2137 injury karmaṇi grid: 90 patient-controlled keys/readings. PG930 retains kartari ownership; lexical num, śnam and yaK are not merged.
+
+- **Already closed targets.** The selected √hiṃs injury-sense karmaṇi grid is CLOSED at PG940; √ad at PG939, √hu at PG938, √dā across PG33/34/937 and √dhā at PG936 remain CLOSED. Earlier kartari/prefix owners remain unchanged. PG335 and PG357–363 remain historical CLOSED results.
+- **Genuine unconstructed domains.** √hiṃs karmakartṛ, prefixed passive, causative/other derived roots, nonfinite agreement, accent, wider text and other senses remain Open. Corresponding earlier-root extensions remain Open. Six K139 and three extended-Vasu139 meanings, K128 variants, patradatam and broader C2–C5 domains retain concrete entries.
+- **Unresolved source readings.** √hiṃs critical boundary history and alternatives outside record 2137 remain Open; one reading in each selected cell is not a general exclusion. Earlier root-alternative questions likewise stay Open. S1–S7 and inherited local source questions retain their registers.
+- **Claude-deferred execution.** Sanskrit generators, grammar execution, untouched old suites and certificate replay remain outside written-development credit.
 
 PG939 · [The selected passive ten-category grid of √ad in eating](ad_bhaksana_selected_passive_ten_category_grid/README.md). Closed the selected simple empty-preverb record-1500 eating karmaṇi grid: 90 patient-controlled keys/99 readings. PG932 retains kartari ownership; the distinct bhvādi binding root is not merged.
 

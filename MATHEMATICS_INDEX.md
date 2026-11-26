@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG940 · [The selected passive ten-category grid of √hiṃs](research/panini_grammar/hims_selected_passive_ten_category_grid/README.md). PG14 retains source-record, sense, voice, controller, lexical-num, present-śnam and passive-yaK histories; typed zero-specialization recovers 90 patient-controlled requests without collapsing the three nasal owners.
+
 PG939 · [The selected passive ten-category grid of √ad in eating](research/panini_grammar/ad_bhaksana_selected_passive_ten_category_grid/README.md). PG14 retains source-record, sense, voice, controller, original-root/substitute and aorist-junction histories; typed zero-specialization recovers 90 patient-controlled requests without merging the bhvādi binding root or PG932 actor keys.
 
 PG938 · [The selected passive ten-category grid of √hu in giving](research/panini_grammar/hu_dana_selected_passive_ten_category_grid/README.md). PG14 retains source-record, sense, voice, controller, perfect-construction, auxiliary, future-base and alternative histories; typed zero-specialization recovers 90 patient-controlled requests without merging the adjacent eating record or PG931 actor keys.

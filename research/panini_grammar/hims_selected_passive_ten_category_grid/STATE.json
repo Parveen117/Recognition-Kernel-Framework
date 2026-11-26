@@ -1,0 +1,65 @@
+{
+  "stage": "PG940",
+  "date": "2026-11-26",
+  "publication_parent": "f44c876a32b91c9436c12470aab01a0abae6af24",
+  "baseline": "../ad_bhaksana_selected_passive_ten_category_grid/STATE.json",
+  "finite_positions": 54357,
+  "nominal_positions": 26426,
+  "nominal_readings": 30094,
+  "new_finite_positions": 90,
+  "new_finite_readings": 90,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 0,
+  "new_morphology_constructions": 10,
+  "new_morphology_interfaces": 90,
+  "new_syntax_constructions": 1,
+  "new_syntax_interfaces": 90,
+  "new_source_observations": 11,
+  "new_source_policy_decisions": 8,
+  "reading_counts": {
+    "laṭ": 9,
+    "liṭ": 9,
+    "luṭ": 9,
+    "lṛṭ": 9,
+    "loṭ": 9,
+    "laṅ": 9,
+    "vidhiliṅ": 9,
+    "āśīrliṅ": 9,
+    "luṅ": 9,
+    "lṛṅ": 9
+  },
+  "decisions": [
+    "record 2137 hisi himsayam is selected under lexical ID 1070019",
+    "the injury sense is selected under empty preverb and karmaṇi voice",
+    "the expressed affected patient, not the injurer, controls person and number",
+    "the actor record's P-only label does not block passive A endings",
+    "actor and passive words remain distinct voice/controller positions",
+    "lexical idit num, present-system snam and passive yaK retain distinct ownership",
+    "one printed reading per cell is recorded without excluding uninspected alternatives elsewhere",
+    "other senses, prefixes, voices, derivations and critical history remain Open"
+  ],
+  "pins": {
+    "grammar_construction/NATIVE_OPERATOR_LIFT.md": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+    "grammar_construction/STATE_AND_COMPOSITION.md": "593f548f92c6398508db1fa943352fbe23cb51c9",
+    "SUTRAPATHA.tsv": "1840f3b5349b21112ac05a7efaa59705fd4efee0",
+    "ad_bhaksana_selected_passive_ten_category_grid/STATE.json": "a1d86f27f2250a0af61df75597d316f4f35be7d2",
+    "hims_remaining_actor_categories/STATE.json": "8e4fbb4a6e74da1e22fc3cf568b851bf01d27933",
+    "hims_remaining_actor_categories/FINITE_FORMS.tsv": "0dbd1fdd672856bcc5ac8d4140d4053153c1f10a"
+  },
+  "external_files": {
+    "https://samsaadhanii-concordance.vipran.in/dhatu/2137-hisiz-hiMsAyAm-his1": "4e166ebfedcfe3d5d27be6ea417837c5b98a4f3ed4574a700fd00e155b6f8415"
+  },
+  "external_hash_policy": {
+    "samsaadhanii_2137": "raw response bytes retrieved 2026-11-26"
+  },
+  "open": [
+    "karmakartr and other voice-controller domains",
+    "prefixed passive, causative and other derived-root requests",
+    "nonfinite agreement, accent, wider text and other senses",
+    "critical boundary history and uninspected alternatives outside the selected page",
+    "six K139 and three extended Vasu139 lexical meanings",
+    "remaining K128, patradatam, C2-C5 and source S1-S7 registers"
+  ],
+  "execution": "Claude-deferred"
+}
+

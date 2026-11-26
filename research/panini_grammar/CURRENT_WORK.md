@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG939
+# Pāṇini grammar · current written coverage at PG940
+
+PG940 · [The selected passive ten-category grid of √hiṃs](hims_selected_passive_ten_category_grid/README.md). Concordance record 2137 supplies 90 patient-controlled karmaṇi positions/readings. Lexical idit-num, present śnam and passive yaK retain distinct ownership; absence of source-page alternatives is not promoted into a general exclusion. Census 54,357 finite, 26,426 nominal and 30,094 nominal readings.
 
 PG939 · [The selected passive ten-category grid of √ad in eating](ad_bhaksana_selected_passive_ten_category_grid/README.md). Concordance record 1500 supplies 90 patient-controlled karmaṇi positions and 99 readings. Nine additional perfect readings preserve original *ad* and substituted *ghas* histories without merging PG932 actor keys. Census 54,267 finite, 26,426 nominal and 30,094 nominal readings.
 
