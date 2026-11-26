@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG911
+# Pāṇini grammar · current written coverage at PG912
+
+PG912 · [Vedic temporal adverbs from *tva* and *viśva*](vedic_temporal_adverbs_tva_visva_danim/README.md). MS 4.2.2 distinguishes alternating occasions and RV 6.52.5 expresses all occasions. The Vedic suffix and the classical rule’s named bases have distinct source support. Census 52,531 finite, 26,388 nominal and 30,053 nominal readings.
 
 PG911 · [Honorific *bhavat* in the Gītā and Dhruva dialogues](bhavat_in_gita_and_dhruva_dialogues/README.md). Five verses supply direct evidence for M NOM, ACC and GEN singular and three instances of third-person agreement. Census 52,531 finite, 26,386 nominal and 30,051 nominal readings.
 

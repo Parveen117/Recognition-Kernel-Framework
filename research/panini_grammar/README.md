@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG912 · [Vedic temporal adverbs from *tva* and *viśva*](vedic_temporal_adverbs_tva_visva_danim/README.md). Three text tokens establish two temporal indeclinables. Each keeps its base, suffix, quantification and accent evidence.
+
 PG911 · [Honorific *bhavat* in the Gītā and Dhruva dialogues](bhavat_in_gita_and_dhruva_dialogues/README.md). One addressee can be named by a third-person controller and resumed by a second-person pronoun in another clause. The verb and its controller are identified in each passage.
 
 PG910 · [Feminine and neuter cases of indefinite *tva*](tva_feminine_and_neuter_pronominal_cases/README.md). Two formal panels distinguish the two long-śī dual operations, the neuter dental num and the feminine singular syāṭ policies. The table marks direct evidence separately.

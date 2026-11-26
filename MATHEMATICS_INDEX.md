@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG912 · [Vedic temporal adverbs from *tva* and *viśva*](research/panini_grammar/vedic_temporal_adverbs_tva_visva_danim/README.md). The PG14 word observation identifies contextual final m/ṃ while preserving lexical base, suffix, token and clause polarity.
+
 PG911 · [Honorific *bhavat* in the Gītā and Dhruva dialogues](research/panini_grammar/bhavat_in_gita_and_dhruva_dialogues/README.md). A referent shared between clauses preserves separate case and finite-agreement cuts under the PG14 augmentation.
 
 PG910 · [Feminine and neuter cases of indefinite *tva*](research/panini_grammar/tva_feminine_and_neuter_pronominal_cases/README.md). The source, case and evidence cuts descend on the PG14 history modules. Equal dual words keep their gender-specific operations.

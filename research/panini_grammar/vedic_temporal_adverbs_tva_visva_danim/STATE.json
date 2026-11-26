@@ -1,0 +1,74 @@
+{
+  "stage": "PG912",
+  "date": "2026-11-26",
+  "publication_parent": "c913da691ae8b9c57b1bfa4b6a3e3e0dfa87eb41",
+  "baseline": "../bhavat_in_gita_and_dhruva_dialogues/STATE.json",
+  "finite_positions": 52531,
+  "nominal_positions": 26388,
+  "nominal_readings": 30053,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 2,
+  "new_nominal_readings": 2,
+  "new_morphology_constructions": 1,
+  "new_morphology_interfaces": 2,
+  "new_syntax_constructions": 0,
+  "new_syntax_interfaces": 0,
+  "new_source_observations": 3,
+  "new_source_policy_decisions": 3,
+  "analytic_MS": {
+    "file": "maitrs_au.htm",
+    "edition": "Leopold von Schroeder, Leipzig 1881–1886; electronic text Makoto Fushimi 2015, TITUS Jost Gippert 2016-05-05",
+    "sha256": "0ab4eedb96b2dcba8c0b0b8687dd222e36caee98c72a68ea712521eb63db1a70",
+    "bytes": 1242670,
+    "locus": "MS_4,2.2",
+    "tokens": [
+      "tvadānīṃ",
+      "tvadānīm"
+    ]
+  },
+  "rigveda": {
+    "revision": 200265,
+    "locus": "6.52.5",
+    "pada": "विश्वऽदानीम्",
+    "gloss": "सर्वदा"
+  },
+  "whitney": {
+    "503b": 13777079,
+    "1103c": 13777093
+  },
+  "kashika": {
+    "5.3.18–20": 90402
+  },
+  "open": [
+    "Exact Pāṇinian licence for the Vedic bases with dānīm",
+    "Wider production, accent and critical history",
+    "Remaining C2–C5 and S1–S7 register"
+  ],
+  "runtime_policy": "Claude-deferred",
+  "pins_relative_to_grammar_at_publication_parent": {
+    "bhavat_in_gita_and_dhruva_dialogues/STATE.json": "9fe7c26b8c374fff44cf23fdace0a91561a8f25f",
+    "SUTRAPATHA.tsv": "1840f3b5349b21112ac05a7efaa59705fd4efee0",
+    "grammar_construction/NATIVE_OPERATOR_LIFT.md": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+    "tva_feminine_and_neuter_pronominal_cases/STATE.json": "2613cb152648931fb8d4e08729cffd1ad6ab535b",
+    "visva_complete_nonvocative_cases/STATE.json": "6e0ec4b411ab65c0eb2d4972935cc89183765895",
+    "tva_two_feminine_cases_and_neuter_source_split/STATE.json": "8b3a4ad2e2c1479021ebd200898004ab36cb1280",
+    "time_nipatanas_and_manner_cause_adverbs/RELATION.json": "8938ae906f187a6519e81ce8ef57d6106285f22f",
+    "time_nipatanas_and_manner_cause_adverbs/STATE.json": "e828e399d9d4f78cc32ef6857c657e8c9b246ee3"
+  },
+  "new_inflected_nominal_positions": 0,
+  "credited_indeclinables": [
+    {
+      "stem": "tva",
+      "sense": "at one time or another",
+      "affix": "dānīm",
+      "reading": "tvadānīm"
+    },
+    {
+      "stem": "viśva",
+      "sense": "always",
+      "affix": "dānīm",
+      "reading": "viśvadā́nīm"
+    }
+  ]
+}
