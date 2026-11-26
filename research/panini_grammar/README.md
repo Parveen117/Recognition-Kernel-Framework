@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG968 · [Requests to Indra and the Aśvins](dha_requests_to_indra_and_ashvins/README.md). Three new finite positions/three readings distinguish sam … dhehi, dhehi and the giving use of dhattam. RV 1.47.6 supplies a placement control. Census 55,392 finite positions, 26,720 nominal positions and 30,396 nominal readings.
+
 PG967 · [The injury patient of √piṣ](injury_patient_of_pis/README.md). The two poems agree on the plural passive and differ in the oblique case. The selected domain adds 90 finite positions/90 readings and two nominal positions/two readings. Census 55,389 finite positions, 26,720 nominal positions and 30,396 nominal readings.
 
 PG966 · [The Ṛbhus give and Agni bears or gives](dha_in_the_rbhu_request_and_agnis_superlative/README.md). Sāyaṇa glosses the giving command and records both accent explanations. Nirukta 7.15 supports the giver reading of the epithet. Census 55,299 finite positions, 26,718 nominal positions and 30,394 nominal readings.

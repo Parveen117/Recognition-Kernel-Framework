@@ -1,5 +1,7 @@
 # Written Pāṇini work session · 2026-11-26
 
+PG968 · [Requests to Indra and the Aśvins](dha_requests_to_indra_and_ashvins/README.md). Three new finite positions/three readings distinguish sam … dhehi, dhehi and the giving use of dhattam. RV 1.47.6 supplies a placement control. Census 55,392 finite positions, 26,720 nominal positions and 30,396 nominal readings. Published PG967 parent `dedd2f7426427ff7513783c5ddfc75742ee042a1`. PG968 adds one syntax construction/three interfaces, four verse observations and two decisions. Its nominal increment is zero.
+
 PG967 · [The injury patient of √piṣ](injury_patient_of_pis/README.md). The two poems agree on the plural passive and differ in the oblique case. The selected domain adds 90 finite positions/90 readings and two nominal positions/two readings. Census 55,389 finite positions, 26,720 nominal positions and 30,396 nominal readings. Parent 79807dcbead159d39e14ef7b525305686e5216f6. One syntax construction/two interfaces, 90 reused finite interfaces, two source observations and two policy decisions. Other written domains, source gates and Claude’s execution queue remain open.
 
 ## Review handoff for PG952–966

@@ -1,0 +1,102 @@
+{
+  "stage": "PG968",
+  "date": "2026-11-26",
+  "publication_parent": "dedd2f7426427ff7513783c5ddfc75742ee042a1",
+  "baseline": "../injury_patient_of_pis/STATE.json",
+  "finite_positions": 55392,
+  "nominal_positions": 26720,
+  "nominal_readings": 30396,
+  "new_finite_positions": 3,
+  "new_finite_readings": 3,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 0,
+  "finite_register": [
+    {
+      "root_id": "1030011",
+      "sense": "dāna",
+      "formation": "simple",
+      "voice": "kartari",
+      "pada": "P",
+      "lakara": "loṭ",
+      "person": 2,
+      "recension": "Śākala",
+      "preverb": "sam",
+      "number": "sg",
+      "reading": "sám … dhehi",
+      "locus": "1.9.7"
+    },
+    {
+      "root_id": "1030011",
+      "sense": "dāna",
+      "formation": "simple",
+      "voice": "kartari",
+      "pada": "P",
+      "lakara": "loṭ",
+      "person": 2,
+      "recension": "Śākala",
+      "preverb": "∅",
+      "number": "sg",
+      "reading": "dhehi",
+      "locus": "1.9.8"
+    },
+    {
+      "root_id": "1030011",
+      "sense": "dāna",
+      "formation": "simple",
+      "voice": "kartari",
+      "pada": "P",
+      "lakara": "loṭ",
+      "person": 2,
+      "recension": "Śākala",
+      "preverb": "∅",
+      "number": "du",
+      "reading": "dhattam",
+      "locus": "8.9.2"
+    }
+  ],
+  "new_syntax_constructions": 1,
+  "new_syntax_interfaces": 3,
+  "new_source_observations": 4,
+  "new_source_policy_decisions": 2,
+  "control": {
+    "locus": "1.47.6",
+    "policy": "Sāyaṇa, placement in us",
+    "credit": 0
+  },
+  "sources": {
+    "https://vishvasa.github.io/vedAH_Rk/shAkalam/saMhitA/sarva-prastutiH/01/009/": {
+      "sha256": "42855ffeec6be971ad9cf8c7fb42e0c122d59a157a3931ebe17b0d7843f4c1e3",
+      "verses": [
+        7,
+        8
+      ]
+    },
+    "https://vishvasa.github.io/vedAH_Rk/shAkalam/saMhitA/sarva-prastutiH/08/009/": {
+      "sha256": "97c88e053834ea2c35638886b9a6d9a738cfafa26a15ba6ded5defd54827a519",
+      "verses": [
+        2
+      ]
+    },
+    "https://vishvasa.github.io/vedAH_Rk/shAkalam/saMhitA/sarva-prastutiH/01/047/": {
+      "sha256": "5e9e790465ac429489e3bcd939a167dc5e2167351a2d5bf1c80b16a624815fd8",
+      "verses": [
+        6
+      ]
+    }
+  },
+  "pins": {
+    "injury_patient_of_pis/STATE.json": "8d26d5b0eba99da23c1f7fd9d301af368f1fd317",
+    "dha_in_the_rbhu_request_and_agnis_superlative/STATE.json": "cdfccf4636f6d2ebf66b2bac53091d83220469e6",
+    "athematic_modals/HI_AND_VISIBILITY.md": "46689bfab971a25a3f4039543fc9f2e908cdbcf5",
+    "athematic_modals/PARADIGMS.md": "623356e24a76ce515ae0ec2015f6f98381b6f5de",
+    "dha_remaining_actor_categories/STATE.json": "0c1f352574fa1a56dbf353495a0fed06e3241e90",
+    "ordered_ni_ghu_donation_and_placement/STATE.json": "11f495d66cf3f865395ec8cbfc4815c4e724e0ad",
+    "grammar_construction/NATIVE_OPERATOR_LIFT.md": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b"
+  },
+  "execution": "Claude-deferred",
+  "open": [
+    "Mādhavīya 741 teacher attribution",
+    "Other giving categories and voices",
+    "C2–C5, S1–S7 and the lexical source registers"
+  ]
+}
