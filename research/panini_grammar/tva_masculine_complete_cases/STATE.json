@@ -1,0 +1,38 @@
+{
+  "stage": "PG905",
+  "date": "2026-11-26",
+  "publication_parent": "aca23b625eba47f906e8da0de44cf2bd17bb7c8d",
+  "baseline": "../visva_complete_nonvocative_cases/STATE.json",
+  "finite_positions": 52531,
+  "nominal_positions": 26346,
+  "nominal_readings": 30007,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 24,
+  "new_nominal_readings": 25,
+  "new_surface_strings": 17,
+  "new_morphology_constructions": 1,
+  "new_morphology_interfaces": 24,
+  "new_syntax_constructions": 1,
+  "new_syntax_interfaces": 3,
+  "new_source_observations": 12,
+  "new_source_policy_decisions": 5,
+  "local_closure": "The ordinary unaccented masculine vowel-final tva surface paradigm is CLOSED at 24 positions and 25 readings; accent, F/N and historical rivalry remain Open.",
+  "accepted": [
+    "twenty-four masculine NOM-VOC gender-case-number keys",
+    "twenty-five readings including the ablative-singular pause fork",
+    "seventeen globally new terminal word spellings",
+    "one ordinary unaccented surface projection retaining both accent source grades"
+  ],
+  "open_obligations": [
+    "Feminine/neuter paradigms, exact accent allocation and vowel-final versus t-final historical priority remain Open.",
+    "Direct literary uses, compounds, Vedic/critical variants, six K139 and three extended-139 meanings, residual K128 variants, other pronoun domains and C2-C5/S1-S7 remain Open.",
+    "No source gap is converted into an exclusion."
+  ],
+  "protected_registers": {
+    "PG335": "-9 finite positions and -12 readings already applied",
+    "PG340/346, PG349-352, PG355-360, PG357-363": "CLOSED on registered scopes",
+    "PG899-902": "selected t-final tvat paradigms remain CLOSED and separately owned"
+  },
+  "runtime_policy": "Written derivation only. Claude owns execution, generators, untouched suites and certificate replay."
+}

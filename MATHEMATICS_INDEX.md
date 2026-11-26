@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG905 · [Complete masculine cases of vowel-final *tva* ‘other’](research/panini_grammar/tva_masculine_complete_cases/README.md). Vowel-final source admission, ordinary-surface projection, case/address transport and realization commute with typed zero-specialization while udātta/anudātta source grades, t-final `tvat`, yuṣmad `tvam`, suffix ownership and absent F/N/textual grades remain distinct.
+
 PG904 · [Complete non-vocative M/F/N cases of free *viśva*](research/panini_grammar/visva_complete_nonvocative_cases/README.md). PG893 lexical/pattern admission, gender/case-number selection, PG420 row transport and realization commute with typed zero-specialization while M/N homographs, feminine `ā`, neuter `num`, `suṭ`, pause alternatives and absent textual/accent grades remain distinct.
 
 PG903 · [Complete non-vocative M/F/N cases of honorific *bhavat*](research/panini_grammar/bhavat_three_gender_nonvocative_cases/README.md). PG897 lexical/register decision import, gender/case-number selection, three named-pattern transports and realization commute with typed zero-specialization while equal M/N words, feminine vowel routes, finite homographs and absent textual/accent grades remain distinct.

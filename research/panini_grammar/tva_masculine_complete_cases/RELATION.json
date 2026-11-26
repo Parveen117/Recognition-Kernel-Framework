@@ -1,0 +1,82 @@
+{
+  "schema": "rkf.panini.pg905.relation.v1",
+  "stage": "PG905",
+  "input": {
+    "lemma": "tva",
+    "sense": "other",
+    "stem_policy": "vowel-final",
+    "register": "ordinary-unaccented-surface",
+    "roots": null,
+    "preverbs": [],
+    "verbal_pada": null,
+    "voice": null,
+    "verbal_affix": null,
+    "gender": "M",
+    "numbers": ["sg", "du", "pl"],
+    "cases": ["NOM", "ACC", "INS", "DAT", "ABL", "GEN", "LOC", "VOC"]
+  },
+  "source_ownership": {
+    "lexeme_and_sense": "Śabdamañjarī demonstrative list and Kāśikā 1.1.27",
+    "masculine_pattern": "Śabdamañjarī entry 91 explicit sarva extension",
+    "nonvocative_rows": "PG420 typed masculine sarva table",
+    "vocative_rows": "PG887 reviewed masculine sarva address adapter",
+    "accent_and_t_final_rivalry": "Kāśikā 1.1.27, retained Open"
+  },
+  "construction": {
+    "morphology": "vowel-final tva through masculine sarva rows",
+    "address": "three PG887 masculine address interfaces",
+    "interfaces": 24,
+    "positions": 24,
+    "readings": 25,
+    "distinct_terminal_surfaces": 18,
+    "new_terminal_surfaces": 17,
+    "prior_surface_control": "yuṣmad NOMsg tvam"
+  },
+  "source_policy_decisions": [
+    "Admit vowel-final masculine tva only in the source's other sense.",
+    "Project one ordinary unaccented surface reading per history while retaining both reported accent grades as Open.",
+    "Keep t-final tvat under PG899-902 ownership and do not merge, exclude or reprioritize it.",
+    "Do not infer feminine or neuter paradigms from the explicitly masculine extension.",
+    "Keep yuṣmad tvam and the abstract tva suffix separate from the tva lexeme's terminal surfaces."
+  ],
+  "controls": [
+    {
+      "id": "TWO_ACCENT_HISTORIES",
+      "status": "Open_retained",
+      "reason": "Kāśikā reports udātta and anudātta list histories; PG905 does not manufacture accented outputs."
+    },
+    {
+      "id": "T_FINAL_TVAT",
+      "status": "Closed_elsewhere_not_recredited",
+      "reason": "PG899-902 own the selected t-final paradigms; their critical relation to tva stays Open."
+    },
+    {
+      "id": "YUSMAD_TVAM",
+      "status": "Accepted_distinct_history",
+      "reason": "Same surface, different lemma, gender system, case and source ownership."
+    },
+    {
+      "id": "ABSTRACT_TVA_SUFFIX",
+      "status": "Accepted_distinct_owner",
+      "reason": "An affix label in older TSV registers is not a terminal word surface."
+    },
+    {
+      "id": "FEMININE_NEUTER_TEXT_ACCENT_VEDIC",
+      "status": "Open",
+      "reason": "The masculine pattern statement does not supply those domains."
+    }
+  ],
+  "counts": {
+    "new_finite_positions": 0,
+    "new_finite_readings": 0,
+    "new_nominal_positions": 24,
+    "new_nominal_readings": 25,
+    "new_surface_strings": 17,
+    "new_morphology_constructions": 1,
+    "new_morphology_interfaces": 24,
+    "new_syntax_constructions": 1,
+    "new_syntax_interfaces": 3,
+    "new_source_observations": 12,
+    "new_source_policy_decisions": 5
+  }
+}

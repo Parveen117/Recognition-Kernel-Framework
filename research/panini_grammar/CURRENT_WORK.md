@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG904
+# Pāṇini grammar · current written coverage at PG905
+
+PG905 · [Complete masculine cases of vowel-final *tva* ‘other’](tva_masculine_complete_cases/README.md). Śabdamañjarī's explicit masculine `sarva`-pattern assignment supplies 24 NOM–VOC positions/25 readings, while Kāśikā's two accent histories and competing t-final tradition stay typed Open. Seventeen terminal spellings are new; `tvam` remains a yuṣmad homograph and abstract suffix `tva` a different owner. The ordinary unaccented masculine surface panel is closed; F/N, accent, historical priority and textual/Vedic/critical evidence remain Open. Census 52,531 finite, 26,346 nominal positions and 30,007 nominal readings.
 
 PG904 · [Complete non-vocative M/F/N cases of free *viśva*](visva_complete_nonvocative_cases/README.md). PG893's positive free all/universal ownership and three explicit `sarva`-pattern assignments now transport PG420's complete typed rows to 63 new positions/65 readings. Twenty-four surface spellings are globally new; M/N homographs, feminine `ā`, neuter `num`, `suṭ` and two ABLsg pause forks retain separate histories. The selected ordinary paradigm is complete at 72 positions/74 readings across PG893/904; compounds, names, other senses and textual/accent/Vedic/critical evidence remain Open. Census 52,531 finite, 26,322 nominal positions and 29,982 nominal readings.
 

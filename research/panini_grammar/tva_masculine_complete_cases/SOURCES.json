@@ -1,0 +1,83 @@
+{
+  "project_dependencies": [
+    {
+      "commit": "aca23b625eba47f906e8da0de44cf2bd17bb7c8d",
+      "path": "research/panini_grammar/visva_complete_nonvocative_cases/STATE.json",
+      "git_blob_sha": "6e0ec4b411ab65c0eb2d4972935cc89183765895",
+      "bytes": 1733,
+      "sha256": "bcb1aeb12a83f863f73b4410b852f391b95b9811f4367b63ce5804453c7b9dc4",
+      "use": "PG904 cumulative baseline"
+    },
+    {
+      "commit": "ccfe8d52d487d8f3e7f1fdfa8320fac0eee16a32",
+      "path": "research/panini_grammar/visva_vocative_panels/WITNESS_EXCERPTS.txt",
+      "git_blob_sha": "703f683a91e6ea0d2a9c9452274e228690af07e2",
+      "bytes": 2157,
+      "sha256": "fbed9a965fafb4f358aaa0031817bff1dc914f6cc9fed42e1fddf157a4f76ccc",
+      "use": "Śabdamañjarī demonstrative list and entry 91 tva pattern statement"
+    },
+    {
+      "commit": "10c6c94401d4ff3178bc4738469ce8d63087cc02",
+      "path": "research/panini_grammar/sarva_three_genders_shi_sut_and_nasal_owners/SOURCES.json",
+      "git_blob_sha": "5f64d17cfb9a6f51a4f7d48918b7f1bcc00f4cec",
+      "bytes": 51077,
+      "sha256": "20b8448db8964a7b01860ed0d244f2215ca92b3f1275207e9dee4ac3a7e165d2",
+      "use": "Pinned Kāśikā 1.1.27 tva meaning, two accent histories and t-final competing tradition"
+    },
+    {
+      "commit": "10c6c94401d4ff3178bc4738469ce8d63087cc02",
+      "path": "research/panini_grammar/sarva_three_genders_shi_sut_and_nasal_owners/NOMINAL_FORMS.tsv",
+      "git_blob_sha": "79a893197865f4b65d136df16d3fd3dddfd0702f",
+      "bytes": 2415,
+      "sha256": "d5f9f519958bf4a1d82aec9712e717fdc90bda88041532643d3feb1455b0f715",
+      "use": "Complete masculine non-vocative sarva pattern rows"
+    },
+    {
+      "commit": "4eb9c1fcf4b87746b9a85838bef9d08580daedf5",
+      "path": "research/panini_grammar/sarva_vocative_panels/VOCATIVE_FORMS.tsv",
+      "git_blob_sha": "8dcb7d3796996bff0a45dc9f0569c5947cd13110",
+      "bytes": 869,
+      "sha256": "0619b362625df93b4436dcf34517057533fed7a106f98f0146c86e255eae51cd",
+      "use": "Reviewed three-interface masculine address adapter"
+    },
+    {
+      "commit": "10c6c94401d4ff3178bc4738469ce8d63087cc02",
+      "path": "research/panini_grammar/asmad_yusmad_full_cases_and_post_pada_clitics/NOMINAL_FORMS.tsv",
+      "git_blob_sha": "979a7367abd728db583f057cf0ab0d7056fa189f",
+      "bytes": 3680,
+      "sha256": "56f2a7edca096d76410c01c763ab884c57dc125372cf0692a95f66bd3f3993a4",
+      "use": "First-owned yuṣmad NOMsg tvam homograph control"
+    },
+    {
+      "commit": "10c6c94401d4ff3178bc4738469ce8d63087cc02",
+      "path": "research/panini_grammar/grammar_construction/NATIVE_OPERATOR_LIFT.md",
+      "git_blob_sha": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+      "bytes": 11855,
+      "sha256": "f52e7f5cf539ef56859b890669ef738848491e4005e73be75baa49c899b5dafd",
+      "use": "PG14 full operator/history carrier and typed zero-specialization"
+    }
+  ],
+  "external_witnesses": [
+    {
+      "work": "Śabdamañjarī, demonstrative classification and entry 91",
+      "host": "Veda Vijñāna Viṣṭaram",
+      "url": "https://vedavishtaram.in/sanskrit/s05_shabda_manjari.html",
+      "retrieved": "2026-11-25",
+      "use": "tva other and explicit masculine sarva-pattern extension"
+    },
+    {
+      "work": "Kāśikā at 1.1.27 in the PG420 pinned snapshot",
+      "upstream_commit": "5744762f010d677cfb43f347a42d02796cf615d6",
+      "field": "11027",
+      "use": "other sense, two accent histories and competing t-final reading tradition"
+    }
+  ],
+  "local_excerpt": {
+    "path": "research/panini_grammar/tva_masculine_complete_cases/WITNESS_EXCERPTS.txt",
+    "bytes": 1569,
+    "sha256": "754b938eae88702d14190472d95c33ceba8f701746044858361d474986affade",
+    "retrieved": "2026-11-26"
+  },
+  "source_observations_new": 12,
+  "source_policy_decisions_new": 5
+}

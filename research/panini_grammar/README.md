@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG905 · [Complete masculine cases of vowel-final *tva* ‘other’](tva_masculine_complete_cases/README.md). Source/sense and vowel-final selection, ordinary-surface projection, case/address transport and realization form a 24-interface construction whose typed zero-specialization preserves the two accent grades, t-final rival, yuṣmad homograph and suffix owner without admitting them into this panel.
+
 PG904 · [Complete non-vocative M/F/N cases of free *viśva*](visva_complete_nonvocative_cases/README.md). PG893 lexical/pattern admission and PG420's typed `sarva` rows form a 63-interface construction whose typed zero-specialization preserves gender, case, number, `śī/śi`, `num`, `suṭ`, nasal and pause histories without recrediting vocatives or importing unlicensed senses.
 
 PG903 · [Complete non-vocative M/F/N cases of honorific *bhavat*](bhavat_three_gender_nonvocative_cases/README.md). PG897 decision import, gender/case-number selection and exact `dhīmat/nadī/jagat` row transport form a 63-interface construction whose typed zero-specialization preserves strong/weak, glide, long-vowel, consonant and equal-surface histories without repeating vocative or agreement credit.
