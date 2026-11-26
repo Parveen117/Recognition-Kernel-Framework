@@ -1,0 +1,57 @@
+{
+  "stage": "PG926",
+  "date": "2026-11-26",
+  "publication_parent": "5f245577bb2ec4158fda638e6a8a42687ea70098",
+  "baseline": "../vic_remaining_actor_categories/STATE.json",
+  "finite_positions": 53161,
+  "nominal_positions": 26426,
+  "nominal_readings": 30094,
+  "new_finite_positions": 126,
+  "new_finite_readings": 148,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 0,
+  "new_morphology_constructions": 7,
+  "new_morphology_interfaces": 14,
+  "new_syntax_constructions": 0,
+  "new_syntax_interfaces": 0,
+  "new_source_observations": 2,
+  "new_source_policy_decisions": 4,
+  "reading_counts": {
+    "laṅ/P": 15, "laṅ/A": 12,
+    "lṛṭ/P": 9, "lṛṭ/A": 9,
+    "luṭ/P": 9, "luṭ/A": 9,
+    "liṭ/P": 9, "liṭ/A": 9,
+    "luṅ/P": 20, "luṅ/A": 9,
+    "āśīrliṅ/P": 10, "āśīrliṅ/A": 9,
+    "lṛṅ/P": 10, "lṛṅ/A": 9
+  },
+  "decisions": [
+    "A is actor-result guarded and P retains the residual actor request",
+    "slash alternatives are readings at one typed key",
+    "the ir-conditioned aṅ option is confined to the P aorist",
+    "equal surfaces preserve source, pada, person, ending and history ownership"
+  ],
+  "coverage": {
+    "laṭ": "PG7",
+    "loṭ and vidhiliṅ": "PG22",
+    "remaining seven named categories": "PG926",
+    "selected_kartari_positions_across_stages": 180
+  },
+  "pins": {
+    "grammar_construction/NATIVE_OPERATOR_LIFT.md": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+    "SUTRAPATHA.tsv": "1840f3b5349b21112ac05a7efaa59705fd4efee0",
+    "vic_remaining_actor_categories/STATE.json": "d507700de3ec1bcc7a11b68badabfe6bc6dded6e",
+    "snam_lat/LEXICAL_ENTRIES.json": "ca9f1d2d6b6f1772f664e74bcd42b75fc0f866a1",
+    "athematic_modals/PARADIGMS.md": "623356e24a76ce515ae0ec2015f6f98381b6f5de"
+  },
+  "external_files": {
+    "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA1044.html": "85fca3efc393433536a0677c507399a74117f30c70787aa907846f24495de2ce",
+    "https://whm.cdsharma.in/dhatu-rupavali?id=1649": "747b4d9c9caa73f7571d69a2d73bbd097b24077c7e983df91524d9c87d2f8edd"
+  },
+  "open": [
+    "ksud passive, karmakartṛ, prefixed, derived, accent, wider textual and other lexical-sense domains",
+    "historical and critical priority of the recorded alternatives",
+    "remaining written C2–C5 and source S1–S7 registers"
+  ],
+  "execution": "Claude-deferred"
+}

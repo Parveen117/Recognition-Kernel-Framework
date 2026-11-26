@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG926 · [The remaining actor categories of √kṣud](research/panini_grammar/ksud_remaining_actor_categories/README.md). PG14 retains semantic, category, dental-junction and alternative-branch histories; typed zero-specialization recovers 126 new requests without merging identical surfaces.
+
 PG925 · [The remaining actor categories of √vic](research/panini_grammar/vic_remaining_actor_categories/README.md). PG14 retains the c/j source cut along with semantic, category and junction histories; typed zero-specialization recovers the c-series without silently deleting the competing heading.
 
 PG924 · [The remaining actor categories of √ric](research/panini_grammar/ric_remaining_actor_categories/README.md). PG14 retains lexical, semantic, category, junction and boundary histories on the full operator carrier; the zero-specialization recovers 126 typed finite outputs without merging equal spellings.
