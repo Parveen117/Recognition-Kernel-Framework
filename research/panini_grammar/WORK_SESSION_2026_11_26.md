@@ -1,5 +1,7 @@
 # Written Pāṇini work session · 2026-11-26
 
+PG941 · [When the offering controls agreement with √hu](hu_offering_valency/README.md). Parent 70672a29a3aae78be8635f71944994fbed2b517d. One syntax construction with four interfaces and two source decisions. Previously archived witnesses, zero new source observations. Finite +0 positions/+0 readings and nominal +0/+0. Census 54,357 finite positions, 26,426 nominal positions and 30,094 nominal readings. Bhāva and the critical distribution of the competing readings remain Open. Execution stays with Claude.
+
 PG940 · [The selected passive ten-category grid of √hiṃs](hims_selected_passive_ten_category_grid/README.md). Parent f44c876a32b91c9436c12470aab01a0abae6af24. Finite +90/+90, nominal +0/+0. Ten morphology constructions/90 interfaces, one patient-controller syntax construction/90 interfaces, eleven source observations and eight decisions. Census 54,357 finite, 26,426 nominal and 30,094 nominal readings. Karmakartṛ/derived/critical work stays Open; execution remains with Claude.
 
 PG939 · [The selected passive ten-category grid of √ad in eating](ad_bhaksana_selected_passive_ten_category_grid/README.md). Parent e7d86dff3b0a34d37de6b0a739b4c5cc96d06caf. Finite +90/+99, nominal +0/+0. Ten morphology constructions/90 interfaces, one patient-controller syntax construction/90 interfaces, eleven source observations and eight decisions. Census 54,267 finite, 26,426 nominal and 30,094 nominal readings. Binding-root, derived and critical work stays Open; execution remains with Claude.

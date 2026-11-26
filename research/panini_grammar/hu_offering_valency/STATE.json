@@ -1,0 +1,55 @@
+{
+  "stage": "PG941",
+  "date": "2026-11-26",
+  "publication_parent": "70672a29a3aae78be8635f71944994fbed2b517d",
+  "baseline": "../hims_selected_passive_ten_category_grid/STATE.json",
+  "finite_positions": 54357,
+  "nominal_positions": 26426,
+  "nominal_readings": 30094,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 0,
+  "new_nominal_readings": 0,
+  "new_morphology_constructions": 0,
+  "new_morphology_interfaces": 0,
+  "new_syntax_constructions": 1,
+  "new_syntax_interfaces": 4,
+  "new_source_observations": 0,
+  "new_source_policy_decisions": 2,
+  "interfaces": [
+    "ordinary actor",
+    "Vedic actor",
+    "patient-controlled passive",
+    "incorporated offering"
+  ],
+  "decisions": [
+    "An independent offering-karman licenses the PG938 patient-controller projection under the casting analysis.",
+    "The reported incorporated-offering analysis blocks that projection and is preserved as a separate policy."
+  ],
+  "pins": {
+    "grammar_construction/NATIVE_OPERATOR_LIFT.md": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+    "compound_case_derivation/RULES_2_3_A.md": "fd1ab992dfab07a1771583d28b56d21a5c6c02aa",
+    "compound_case_derivation/SOURCE_EXCERPTS.json": "5a569802d83a4e02f6d4c65bb44c6922fe8019cc",
+    "hu_remaining_actor_categories/STATE.json": "9f3d028cc2d9405e84a0090925bd0a5058f365e8",
+    "hu_dana_selected_passive_ten_category_grid/STATE.json": "20929931ffda14877199ec4fb52f1874faec94e7",
+    "hu_dana_selected_passive_ten_category_grid/FINITE_FORMS.tsv": "e2aa07094b55e0709e9065fb5d86864513ac8045",
+    "hims_selected_passive_ten_category_grid/STATE.json": "93b171430c4270507888641c419f9df50b034aae",
+    "huve_vedic_calling_root_and_owned_present_ending/SOURCES.json": "2da03a5abed07c120bfdda7f2ec2d20901119c01"
+  },
+  "source_edition": {
+    "repository": "ashtadhyayi-com/data",
+    "commit": "5744762f010d677cfb43f347a42d02796cf615d6",
+    "file": "sutraani/kashika.txt",
+    "key": "23003"
+  },
+  "external_files": {
+    "https://sanskrit.uohyd.ac.in/scl/dhaatupaatha/files/mA732.html": "1a4367434f90a40b7bb7bddab6aaf30be5bf8cc0e7d970dab2980bb00c4c9157"
+  },
+  "open": [
+    "impersonal bhāva",
+    "adjacent eating record and extended senses",
+    "critical distribution of the two policy readings",
+    "inherited C2–C5 and S1–S7"
+  ],
+  "execution": "Claude-deferred"
+}

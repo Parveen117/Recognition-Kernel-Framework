@@ -1,4 +1,11 @@
-# Written-development backlog at PG940
+# Written-development backlog at PG941
+
+PG941 · [When the offering controls agreement with √hu](hu_offering_valency/README.md).
+
+- **Closed.** The giving-sense offering/controller decision has four written interfaces. PG43 owns the case alternation and PG938 retains all 90 passive positions and 164 readings. Historical closures and the PG335 correction carry forward.
+- **Unconstructed.** √hu impersonal bhāva, the eating record, prefixed and derived-root uses remain Open alongside the named K139/Vasu139, K128, patradatam and C2–C5 entries below.
+- **Unresolved sources.** Critical distribution of the incorporated and independent offering analyses stays Open. The prior S1–S7 source registers carry forward.
+- **Claude-deferred.** Sanskrit generators, grammar execution, old suites and certificate replay.
 
 PG940 · [The selected passive ten-category grid of √hiṃs](hims_selected_passive_ten_category_grid/README.md). Closed the selected simple empty-preverb record-2137 injury karmaṇi grid: 90 patient-controlled keys/readings. PG930 retains kartari ownership; lexical num, śnam and yaK are not merged.
 

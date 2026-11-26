@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG940
+# Pāṇini grammar · current written coverage at PG941
+
+PG941 · [When the offering controls agreement with √hu](hu_offering_valency/README.md). Mādhavīya 732 admits an independent offering on its casting analysis. The rival intransitive analysis blocks the offering as controller. One syntax construction, four interfaces, two source decisions. Census 54,357 finite positions, 26,426 nominal positions and 30,094 nominal readings.
 
 PG940 · [The selected passive ten-category grid of √hiṃs](hims_selected_passive_ten_category_grid/README.md). Concordance record 2137 supplies 90 patient-controlled karmaṇi positions/readings. Lexical idit-num, present śnam and passive yaK retain distinct ownership; absence of source-page alternatives is not promoted into a general exclusion. Census 54,357 finite, 26,426 nominal and 30,094 nominal readings.
 
