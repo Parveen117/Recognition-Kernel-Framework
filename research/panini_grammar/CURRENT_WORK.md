@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG995
+# Pāṇini grammar · current written coverage at PG996
+
+PG996 · [The short reproach and the two requests](the_short_reproach_and_the_two_requests/README.md). Note 1175 assigns the short opening to T3, T4 and Com. The bare and pra requesting conditionals add 18 finite positions/18 readings. Census 56,371 finite positions, 27,539 nominal positions and 31,310 nominal readings.
 
 PG995 · [The two divisions of Bhaṭṭi and Fire’s reproach](bhatti_the_reproach_and_the_fire_who_protects/README.md). The NAK catalogue identifies the XX/XXI transition. Two differently witnessed conditional second singulars support bare and ā-prefixed śaṅk grids, 18 finite positions/18 readings. Census 56,353 finite positions, 27,539 nominal positions and 31,310 nominal readings.
 
