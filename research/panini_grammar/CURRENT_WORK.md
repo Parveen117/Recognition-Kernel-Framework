@@ -1,4 +1,8 @@
-# Pāṇini grammar · current written coverage at PG948
+# Pāṇini grammar · current written coverage at PG950
+
+PG949 · [Feminine offering participle](juhvati_feminine_offering_participle/README.md). Whitney §449 supports the nonnasal feminine. Its eight cases add 24 positions and 24 readings.
+
+PG950 · [The ear and the collection of ears](shrautra_ear_and_collection/README.md). Two noun derivations give the same neuter word. Seven new positions and seven readings distinguish the ear from a collection. Census 54,547 finite positions, 26,526 nominal positions and 30,196 nominal readings.
 
 PG948 · [The sacrificing participle and the black antelope](juhvat_participle_and_antelope/README.md). The 48 masculine/neuter requests yield 51 readings, including optional num in the three neuter direct plurals. After two controls the new credit is 46 positions/48 readings. Census 54,547 finite, 26,495 nominal positions and 30,165 nominal readings.
 

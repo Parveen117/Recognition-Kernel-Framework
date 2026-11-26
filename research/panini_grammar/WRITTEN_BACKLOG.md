@@ -1,4 +1,11 @@
-# Written-development backlog at PG948
+# Written-development backlog at PG950
+
+PG949–950 · [Feminine offering participle](juhvati_feminine_offering_participle/README.md) and [The ear and the collection of ears](shrautra_ear_and_collection/README.md).
+
+- **Closed.** Ordinary feminine case inflection for the simple offering participle and eight named self-sense/collection requests for śrautra. PG948 owns the neuter dual, PG578 supplies the ear citation, and P43 owns the separate śrotriya derivative.
+- **Unconstructed.** The other śrautra cases, the adjectival construction, and PG578's vidan/vidvas and further named members. Wider C2–C5 domains remain on the registers below.
+- **Unresolved sources.** Nyāsa's anomalous fallback spelling, exact VS and ŚBr adjectival contexts, corpus support for the nasal neuter plural, six K139 and three extended-Vasu139 meanings, K128, patradatam and remaining S1–S7 obligations.
+- **Claude-deferred.** Sanskrit generators, grammar execution, untouched suites and certificate replay.
 
 PG947–948 · [The ordinary case panel of the offering ladle](juhu_ladle_remaining_cases/README.md) and [The sacrificing participle and the black antelope](juhvat_participle_and_antelope/README.md).
 

@@ -1,5 +1,9 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG949 · [Feminine offering participle](juhvati_feminine_offering_participle/README.md). Whitney §449 supports the nonnasal feminine. Its eight cases add 24 positions and 24 readings.
+
+PG950 · [The ear and the collection of ears](shrautra_ear_and_collection/README.md). Two noun derivations give the same neuter word. Seven new positions and seven readings distinguish the ear from a collection. Census 54,547 finite positions, 26,526 nominal positions and 30,196 nominal readings.
+
 PG948 · [The sacrificing participle and the black antelope](juhvat_participle_and_antelope/README.md). Mādhavīya and Whitney distinguish the participle’s ordinary and nasal neuter plurals. Nyāsa assigns the antelope condition differently under two list readings.
 
 PG947 · [The ordinary case panel of the offering ladle](juhu_ladle_remaining_cases/README.md). Root-owned ū gives a glide or a retained long vowel according to the case ending.
