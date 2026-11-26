@@ -1,0 +1,301 @@
+{
+  "stage": "PG982",
+  "date": "2026-11-26",
+  "publication_parent": "67513d55198c9fd7abbca3ddc25cbd7d19548543",
+  "baseline": "../cows_and_calves_acting_on_themselves/STATE.json",
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 95,
+  "new_nominal_readings": 98,
+  "finite_positions": 55510,
+  "nominal_positions": 27366,
+  "nominal_readings": 31133,
+  "new_morphology_constructions": 4,
+  "new_morphology_interfaces": 96,
+  "new_syntax_constructions": 2,
+  "new_syntax_interfaces": 4,
+  "new_source_observations": 5,
+  "new_source_policy_decisions": 3,
+  "readings_policy": "Both inherited masculine ablative-singular pause endings",
+  "case_register": {
+    "bases": [
+      [
+        "amocy",
+        "M",
+        "n"
+      ],
+      [
+        "nirmok",
+        "M",
+        "ṇ"
+      ],
+      [
+        "nirmokapaṭṭ",
+        "M",
+        "n"
+      ],
+      [
+        "sarpanirmokamāl",
+        "F",
+        "n"
+      ]
+    ],
+    "case_endings_M_F": {
+      "Nominative": [
+        [
+          [
+            "aḥ"
+          ],
+          [
+            "au"
+          ],
+          [
+            "āḥ"
+          ]
+        ],
+        [
+          [
+            "ā"
+          ],
+          [
+            "e"
+          ],
+          [
+            "āḥ"
+          ]
+        ]
+      ],
+      "Accusative": [
+        [
+          [
+            "am"
+          ],
+          [
+            "au"
+          ],
+          [
+            "ān"
+          ]
+        ],
+        [
+          [
+            "ām"
+          ],
+          [
+            "e"
+          ],
+          [
+            "āḥ"
+          ]
+        ]
+      ],
+      "Instrumental": [
+        [
+          [
+            "eNa"
+          ],
+          [
+            "ābhyām"
+          ],
+          [
+            "aiḥ"
+          ]
+        ],
+        [
+          [
+            "ayā"
+          ],
+          [
+            "ābhyām"
+          ],
+          [
+            "ābhiḥ"
+          ]
+        ]
+      ],
+      "Dative": [
+        [
+          [
+            "āya"
+          ],
+          [
+            "ābhyām"
+          ],
+          [
+            "ebhyaḥ"
+          ]
+        ],
+        [
+          [
+            "āyai"
+          ],
+          [
+            "ābhyām"
+          ],
+          [
+            "ābhyaḥ"
+          ]
+        ]
+      ],
+      "Ablative": [
+        [
+          [
+            "āt",
+            "ād"
+          ],
+          [
+            "ābhyām"
+          ],
+          [
+            "ebhyaḥ"
+          ]
+        ],
+        [
+          [
+            "āyāḥ"
+          ],
+          [
+            "ābhyām"
+          ],
+          [
+            "ābhyaḥ"
+          ]
+        ]
+      ],
+      "Genitive": [
+        [
+          [
+            "asya"
+          ],
+          [
+            "ayoḥ"
+          ],
+          [
+            "āNām"
+          ]
+        ],
+        [
+          [
+            "āyāḥ"
+          ],
+          [
+            "ayoḥ"
+          ],
+          [
+            "ānām"
+          ]
+        ]
+      ],
+      "Locative": [
+        [
+          [
+            "e"
+          ],
+          [
+            "ayoḥ"
+          ],
+          [
+            "eṣu"
+          ]
+        ],
+        [
+          [
+            "āyām"
+          ],
+          [
+            "ayoḥ"
+          ],
+          [
+            "āsu"
+          ]
+        ]
+      ],
+      "Vocative": [
+        [
+          [
+            "a"
+          ],
+          [
+            "au"
+          ],
+          [
+            "āḥ"
+          ]
+        ],
+        [
+          [
+            "e"
+          ],
+          [
+            "e"
+          ],
+          [
+            "āḥ"
+          ]
+        ]
+      ]
+    },
+    "numbers": [
+      "sg",
+      "du",
+      "pl"
+    ],
+    "direct": [
+      [
+        "amocy",
+        "Accusative",
+        "sg",
+        "amocyam"
+      ],
+      [
+        "nirmok",
+        "Accusative",
+        "sg",
+        "nirmokam"
+      ],
+      [
+        "nirmokapaṭṭ",
+        "Nominative",
+        "pl",
+        "nirmokapaṭṭāḥ"
+      ],
+      [
+        "sarpanirmokamāl",
+        "Instrumental",
+        "pl",
+        "sarpanirmokamālābhiḥ"
+      ]
+    ],
+    "reserved": [
+      "nirmok",
+      "Nominative",
+      "sg"
+    ]
+  },
+  "source_decisions": [
+    "Raghu's horse reveals the controller of the necessity judgment and the patient of release.",
+    "The armour and the discarded snake skin occupy different sides of the comparison.",
+    "Outer paṭṭa and mālā govern independent cases while nirmoka is internal."
+  ],
+  "file_pins": {
+    "cows_and_calves_acting_on_themselves/STATE.json": "dd1828f2a768b092ef34a6f8a1f2c9271445aa23",
+    "anga_affix_abhyasa/RULES_7_3_B.md": "a3444d8243e1a3f65eb9f292862830ad0e0ec242",
+    "cows_and_calves_acting_on_themselves/README.md": "59021c4d6dee0f6f49824cc5f691c6ad300c9bf1",
+    "shilapesha_lexicon_and_cases/README.md": "79a2dc114df4a724cd0559fea160255b6a94c436",
+    "grammar_construction/NATIVE_OPERATOR_LIFT.md": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b"
+  },
+  "source_sha256": {
+    "https://archive.org/download/in.ernet.dli.2015.369319/2015.369319.Maadhaviyaadhatuvarittii_text.pdf": "888602b53eb0e713bc88f0a605454f6139e05ddb13ed163c903e96e80b3fcd8a",
+    "https://raw.githubusercontent.com/samsaadhanii/scl/1ec51dc4cbfecf271e4f3cb0bba41f25b5921572/dhaatupaatha/files/madhaviya_XAwuvqwwi_new.xml": "4562749571a7efe3b474b1c68f821cfc7271b07893e753ffc66e2fc7a4a79e76",
+    "https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/5_poetry/2_kavya/kragh_iu.htm": "85e0bfdff12561694ffad8b15e3656a3eacf2a7373901498f14cbc8cad3a33da",
+    "https://github.com/sanskrit-lexicon/csl-orig/blob/cf53a4240ac83c8f7dfd275533ebd0a0639e6b57/v02/mw/mw.txt": "e4641dc4384de459408368a9b34b2a13c90a19b0ecd4671f92c055b7578d0129",
+    "https://bombay.indology.info/mahabharata/text/UD/MBh07.txt": "5994ea0fe5cccb5782706b4909398d22c44960d42d4593c4f782a9fbb65d4518",
+    "https://bombay.indology.info/mahabharata/text/UD/MBh12.txt": "6a05be4209fd2676fc62edceed64ae21d1f96ae5b706e4e633f73cf6f54bf72c"
+  },
+  "open": [
+    "Direct contextual witnesses for other cases",
+    "Editorial ancestry of Mādhava's necessity reading",
+    "Wider sense and accent domains and S1–S7"
+  ],
+  "execution": "Claude-deferred"
+}

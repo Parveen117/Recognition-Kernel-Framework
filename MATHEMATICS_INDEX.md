@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG982 · [Raghu’s horse and the cast snakeskin](research/panini_grammar/horse_and_the_cast_snakeskin/README.md). Raghuvaṃśa 3.65 identifies Mādhava’s horse quotation. Two poems distinguish the skin, pieces of skin and garlands. Four case registers add 95 nominal positions/98 readings. Census 55,510 finite positions, 27,366 nominal positions and 31,133 nominal readings.
+
 PG981 · [The self-acting cows and calves](research/panini_grammar/cows_and_calves_acting_on_themselves/README.md). Two prints preserve the cow's doubled dental. The calf's two san stems have coupled grade and copy histories. Ten dual/plural finite positions add fourteen readings. Census 55,510 finite positions, 27,271 nominal positions and 31,035 nominal readings.
 
 PG980 · [Kālī regains consciousness](research/panini_grammar/kali_recovers_and_the_agreeing_participles/README.md). The Sanskrit chāyā gives āśvastā for Kālī. Six feminine and neuter panels add 144 nominal positions/196 readings. Census 55,500 finite positions, 27,271 nominal positions and 31,035 nominal readings.

@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG981
+# Pāṇini grammar · current written coverage at PG982
+
+PG982 · [Raghu’s horse and the cast snakeskin](horse_and_the_cast_snakeskin/README.md). Raghuvaṃśa 3.65 identifies Mādhava’s horse quotation. Two poems distinguish the skin, pieces of skin and garlands. Four case registers add 95 nominal positions/98 readings. Census 55,510 finite positions, 27,366 nominal positions and 31,133 nominal readings.
 
 PG981 · [The self-acting cows and calves](cows_and_calves_acting_on_themselves/README.md). Two prints preserve the cow's doubled dental. The calf's two san stems have coupled grade and copy histories. Ten dual/plural finite positions add fourteen readings. Census 55,510 finite positions, 27,271 nominal positions and 31,035 nominal readings.
 
