@@ -1,5 +1,7 @@
 # Canonical Mathematics Index
 
+PG915 · [Time measures and their knowers](research/panini_grammar/measured_day_night_and_its_knowers/README.md). PG14 augmentation retains the silent kvip and the category distinction in two identical aharniśam surfaces.
+
 PG914 · [Day and night in Manu](research/panini_grammar/manu_day_night_in_two_member_orders/README.md). The ordered-member cut retains which stem receives śī after zero-specialization.
 
 PG913 · [The command in the 1757 Chinmaya manuscript of Bhaṭṭi](research/panini_grammar/chinmaya_manuscript_bhatti_seventh_canto_command/README.md). Augmentation preserves the source and split token coordinates through word reassembly and the causal versus prohibitive root cut.

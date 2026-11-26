@@ -1,0 +1,50 @@
+{
+  "stage": "PG915",
+  "date": "2026-11-26",
+  "publication_parent": "0643162295774a6592c9217471d2f3584a62e403",
+  "baseline": "../manu_day_night_in_two_member_orders/STATE.json",
+  "finite_positions": 52531,
+  "nominal_positions": 26394,
+  "nominal_readings": 30059,
+  "new_finite_positions": 0,
+  "new_finite_readings": 0,
+  "new_nominal_positions": 5,
+  "new_nominal_readings": 5,
+  "new_morphology_constructions": 1,
+  "new_morphology_interfaces": 1,
+  "new_syntax_constructions": 1,
+  "new_syntax_interfaces": 2,
+  "new_source_observations": 9,
+  "new_source_policy_decisions": 3,
+  "open": [
+    "Internal derivations of the two time nouns",
+    "Other gender and case fibres",
+    "Critical, accent and C2–C5/S1–S7 obligations"
+  ],
+  "execution": "Claude-deferred",
+  "keys": [
+    "kṣapāha N GEN sg",
+    "aharniśa N GEN sg",
+    "aharniśa N ACC sg",
+    "aharniśam INDECL time",
+    "ahorātravid M NOM pl"
+  ],
+  "external": {
+    "manu_sha256": "6124da0c159226052138988ddd7358ba742a0e925ba5fce28135e50bae432918",
+    "gita_sha256": "8363efed896f8e1fde8ec7c0acd907b4bb8b92deb2fb5f86947cba26348326ef",
+    "mw_file": "cf53a4240ac83c8f7dfd275533ebd0a0639e6b57:v02/mw/mw.txt",
+    "mw_blob": "e72bbf56f93897b7967dbec0a882ce1489720b7c",
+    "mw_entries": [
+      21731,
+      21732,
+      59022
+    ]
+  },
+  "pins": {
+    "manu_day_night_in_two_member_orders/STATE.json": "aa9d7516353b1cb68f310eb68a624658b4e3463b",
+    "grammar_construction/NATIVE_OPERATOR_LIFT.md": "fe8be7b246a385bad2fea3bd2eb4ae1adc90cb0b",
+    "SUTRAPATHA.tsv": "1840f3b5349b21112ac05a7efaa59705fd4efee0",
+    "time_nipatanas_and_manner_cause_adverbs/STATE.json": "e828e399d9d4f78cc32ef6857c657e8c9b246ee3",
+    "ahoratra_register_gender_and_dual_plural_cases/NOMINAL_FORMS.tsv": "4a111bdf1dc34dad32cf12b56debc54bc1c69bd9"
+  }
+}

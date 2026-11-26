@@ -1,5 +1,7 @@
 # PG1 — Pāṇini: grammar before implementation
 
+PG915 · [Time measures and their knowers](measured_day_night_and_its_knowers/README.md). Five Manu passages and Gītā 8.17 distinguish measured duration, temporal adverb and people with knowledge of the cycle.
+
 PG914 · [Day and night in Manu](manu_day_night_in_two_member_orders/README.md). The sun governs an accusative pair in 1.65. Reversed member order gives a nominative pair in 1.66–67.
 
 PG913 · [The command in the 1757 Chinmaya manuscript of Bhaṭṭi](chinmaya_manuscript_bhatti_seventh_canto_command/README.md). The photographed line break, the imperative’s object and the following negative clause identify the reading despite different verse numbers in the editions.

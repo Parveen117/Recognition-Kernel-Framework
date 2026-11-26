@@ -1,4 +1,6 @@
-# Pāṇini grammar · current written coverage at PG914
+# Pāṇini grammar · current written coverage at PG915
+
+PG915 · [Time measures and their knowers](measured_day_night_and_its_knowers/README.md). Four inflected case keys and one temporal indeclinable add five nominal readings. Census 52,531 finite, 26,394 nominal and 30,059 nominal readings.
 
 PG914 · [Day and night in Manu](manu_day_night_in_two_member_orders/README.md). One new neuter nominative dual position and reading. Census 52,531 finite, 26,389 nominal and 30,054 nominal readings.
 

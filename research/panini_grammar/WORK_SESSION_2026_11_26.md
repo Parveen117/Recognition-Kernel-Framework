@@ -1,5 +1,7 @@
 # Written Pāṇini work session · 2026-11-26
 
+PG915 · [Time measures and their knowers](measured_day_night_and_its_knowers/README.md). Parent 0643162295774a6592c9217471d2f3584a62e403. Finite +0/+0, nominal +5/+5. One morphology construction/interface and one syntax construction/two interfaces. Nine source observations and three decisions. Census 52,531 finite, 26,394 nominal and 30,059 nominal readings. Claude owns execution.
+
 PG914 · [Day and night in Manu](manu_day_night_in_two_member_orders/README.md). Parent 58ac39316fb7c8f109512bda8cafa9827f86dbc1. Finite +0/+0, nominal +1/+1. One morphology construction/interface, three source observations, two decisions. Census 52,531 finite, 26,389 nominal and 30,054 nominal readings. Wider gates Open. Claude retains execution.
 
 PG913 · [The command in the 1757 Chinmaya manuscript of Bhaṭṭi](chinmaya_manuscript_bhatti_seventh_canto_command/README.md). Parent d495ab351a77a413fd43db1e9499456b73ce5e9c. Four observations and two source decisions. Finite and nominal +0 positions/+0 readings, no new constructions. Census 52,531 finite, 26,388 nominal and 30,053 nominal readings. The 1757 witness supports the positive imperative. S1 still needs the separate reading and its mood in an identifiable source.
