@@ -20,6 +20,14 @@ Read the [native primitive order](operator_foundation/theory/NATIVE_PRIMITIVE_OR
 
 The [canonical-home declaration](operator_foundation/CANONICAL_HOME.json), [source index](operator_foundation/SOURCE_INDEX.md), and [master certificate](operator_foundation/audit/MASTER_CERTIFICATE.json) bind this route. The public source archive at `operator_foundation/sources/rkf_reference` includes the corrected T50/T54 edition and full Morphic/Pāṇinian source directories. Use that corrected source where the older root version differs. This does not silently overwrite old source-pinned files.
 
+## Operator catalogue
+
+The [operator catalogue](research/operators/README.md) describes 107 families from a
+review of five research folders and the framework. Each entry gives an input,
+action, worked example and source. The [carrier and specialization examples](research/operators/framework-reading.md)
+develop a two-sided observation probe and a finite seam Green inverse. The
+[source register](research/operators/sources.md) lists the 181 research records.
+
 ## SP1: cyclic return, transported Smriti and observable event count
 
 [SP1](research/spanda_recognition/README.md) develops a supplied full-family
