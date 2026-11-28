@@ -63,12 +63,13 @@ records textual integrity separately from finite computation.
 ## Tamil and Hebrew recognition seams
 
 The [cross-linguistic benchmark](research/cross_linguistic_seams/README.md)
-uses T24 and MR-04–MR-06 on two source-backed fixtures. A Tamil noun gives
-an order-sensitive guarded transition. Three Hebrew histories share one
-printed form and require one additional linear channel for an unpointed
-plural target, or two for a pointed target. The packet gives the full
-ordered operator lift, the zero-specialization identity and the direct
-Python 3.12 calibration for these domains.
+uses T24 and MR-04–MR-06 on source-backed fixtures. Two Tamil noun classes
+give four order-sensitive guarded transitions across accusative and locative.
+Three Hebrew histories share one printed form. A supplied noun context cuts
+the additional channels from 1 to 0 for an unpointed plural and from 2 to 1
+for a pointed plural. The packet includes the ordered operator lift, the
+zero-specialization proof, the direct Python 3.12 check and a pinned local
+cue audit on the Hebrew Treebank.
 
 ## Śaiva sources and the sūtra as an instruction: Theorems 78–80
 

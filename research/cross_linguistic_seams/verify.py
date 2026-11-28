@@ -1,8 +1,12 @@
 """Check the declared Tamil and Hebrew fixtures with exact recognition tools."""
 
+from argparse import ArgumentParser
+from collections import Counter
 from fractions import Fraction
+from hashlib import sha256
 from itertools import combinations
-from unicodedata import category, normalize
+from pathlib import Path
+from unicodedata import normalize
 
 from proof_lab.morphic_recognition.guarded import (
     GuardedSystem,
@@ -13,37 +17,45 @@ from proof_lab.morphic_recognition.guarded import (
 )
 from proof_lab.morphic_recognition.memory import Matrix, identity, rank, seam_repair
 
+from .hebrew_context import (
+    ABSOLUTE_FORMS,
+    CONSTRUCT_FORMS,
+    contextual_readings,
+    plural_outcomes,
+    unpoint,
+)
+
+
+def tamil_noun(
+    singular: str, plural: str, singular_oblique: str
+) -> GuardedSystem:
+    forms = {"singular": singular, "plural": plural}
+    transitions = {("singular", "PL"): "plural"}
+    for number, oblique in (("singular", singular_oblique), ("plural", plural)):
+        for case, mark in (("ACC", "ை"), ("LOC", "ில்")):
+            state = f"{number} {case}"
+            forms[state] = oblique.removesuffix("்") + mark
+            transitions[number, case] = state
+    return GuardedSystem(tuple(forms), ("PL", "ACC", "LOC"), forms, transitions)
+
 
 def check_tamil() -> None:
-    singular = "மரம்"
-    stem = singular.removesuffix("ம்")
-    plural = stem + "ங்கள்"
-    singular_accusative = stem + "த்தை"
-    plural_accusative = plural.removesuffix("ள்") + "ளை"
-    system = GuardedSystem(
-        ("singular", "plural", "singular accusative", "plural accusative"),
-        ("PL", "ACC"),
-        {
-            "singular": singular,
-            "plural": plural,
-            "singular accusative": singular_accusative,
-            "plural accusative": plural_accusative,
-        },
-        {
-            ("singular", "PL"): "plural",
-            ("singular", "ACC"): "singular accusative",
-            ("plural", "ACC"): "plural accusative",
-        },
-    )
-    assert observe_word(system, "singular", ("PL",)) == (True, "மரங்கள்")
-    assert observe_word(system, "singular", ("ACC",)) == (True, "மரத்தை")
-    assert observe_word(system, "singular", ("PL", "ACC")) == (True, "மரங்களை")
-    assert observe_word(system, "singular", ("ACC", "PL")) == (False, None)
-
-
-def unpoint(form: str) -> str:
-    # The fixture contains Hebrew letters plus combining points only.
-    return "".join(char for char in normalize("NFD", form) if category(char) != "Mn")
+    # The two lexically scoped stem changes precede the common case endings.
+    tree = "மரம்"
+    house = "வீடு"
+    tree_stem = tree.removesuffix("ம்")
+    house_stem = house.removesuffix("டு")
+    for system, expected in (
+        (tamil_noun(tree, tree_stem + "ங்கள்", tree_stem + "த்த்"),
+         ("மரம்", "மரங்கள்", "மரத்தை", "மரத்தில்", "மரங்களை", "மரங்களில்")),
+        (tamil_noun(house, house + "கள்", house_stem + "ட்ட்"),
+         ("வீடு", "வீடுகள்", "வீட்டை", "வீட்டில்", "வீடுகளை", "வீடுகளில்")),
+    ):
+        words = ((), ("PL",), ("ACC",), ("LOC",), ("PL", "ACC"), ("PL", "LOC"))
+        for word, form in zip(words, expected, strict=True):
+            assert observe_word(system, "singular", word) == (True, form)
+        for case in ("ACC", "LOC"):
+            assert observe_word(system, "singular", (case, "PL")) == (False, None)
 
 
 def class_projector(labels: tuple[str, ...]) -> Matrix:
@@ -64,9 +76,9 @@ def difference(left: Matrix, right: Matrix) -> Matrix:
 
 
 def check_hebrew() -> None:
-    analyses = ("verb", "script", "reporter")
-    singulars = tuple(normalize("NFC", word) for word in ("כָּתַב", "כְּתָב", "כַּתָּב"))
-    plurals = tuple(normalize("NFC", word) for word in ("כָּתְבוּ", "כְּתָבִים", "כַּתָּבִים"))
+    analyses = tuple(ABSOLUTE_FORMS)
+    singulars = tuple(normalize("NFC", pair[0]) for pair in ABSOLUTE_FORMS.values())
+    plurals = plural_outcomes(analyses, pointed=True)
     unpointed_inputs = tuple(map(unpoint, singulars))
     unpointed_plurals = tuple(map(unpoint, plurals))
     assert len(set(singulars)) == 3
@@ -128,11 +140,105 @@ def check_hebrew() -> None:
         assert rank(residue) == expected_memory
 
 
+def check_hebrew_context() -> None:
+    pooled = contextual_readings("כתב")
+    nouns = contextual_readings("כתב", slot="noun")
+    verb = contextual_readings("כתב", following=("את",))
+    script = contextual_readings("כתב", following=("העת",))
+    reporter = contextual_readings("כתב", previous="מדווח", following=("העיתון",))
+    assert pooled == ("verb", "script", "reporter")
+    assert nouns == ("script", "reporter")
+    assert verb == ("verb",) and script == ("script",) and reporter == ("reporter",)
+    assert contextual_readings("כתב", following=("יד",)) == script
+    assert contextual_readings("כתב", following=("העיתון", "מדווח")) == reporter
+    assert contextual_readings("כתב", following=("העיתון",)) == pooled
+    assert contextual_readings("כתב", following=("אישום",)) == pooled
+    assert contextual_readings("כתב", following=("את",), slot="noun") == ()
+    assert contextual_readings("מכתב", following=("את",)) == ()
+    assert plural_outcomes((), pointed=False) == ()
+    assert plural_outcomes(nouns, pointed=False) == ("כתבים",)
+    assert tuple(unpoint(pair[0]) for pair in CONSTRUCT_FORMS.values()) == ("כתב", "כתב")
+    assert plural_outcomes(nouns, pointed=False, construct=True) == ("כתבי",)
+    assert tuple(map(unpoint, plural_outcomes(nouns, pointed=True, construct=True))) == ("כתבי", "כתבי")
+
+    for readings, construct, expected_channels in (
+        (pooled, False, (1, 2)),
+        (nouns, False, (0, 1)),
+        (nouns, True, (0, 1)),
+        (verb, False, (0, 0)),
+        (script, True, (0, 0)),
+        (reporter, True, (0, 0)),
+    ):
+        count = len(readings)
+        for pointed, expected in zip((False, True), expected_channels, strict=True):
+            target_labels = tuple(plural_outcomes((reading,), pointed=pointed, construct=construct)[0]
+                                  for reading in readings)
+            target = Matrix(
+                (tuple(int(label == output) for label in target_labels)
+                 for output in dict.fromkeys(target_labels)),
+                count,
+            )
+            repair = seam_repair(Matrix([[1] * count], count), target, identity(count))
+            assert repair.minimum_channels == expected
+            assert len(plural_outcomes(readings, pointed=pointed, construct=construct)) == expected + 1
+
+
+def audit_htb(directory: Path) -> None:
+    # Read surface tokens, including original fused spellings in multiword rows.
+    # The target POS tag is read only when scoring an already selected candidate.
+    sources = {
+        "dev": ("4c7fcc2df3eeec7e0e06841cd2027d2c6f0fe7519758f56a8775ba0a5c6c6640", 1, {}),
+        "test": ("026fcebd2e953776fe9e954ae5506a2c9d1a7449266ce0cbe76b3297ed793ce7", 12,
+                 {"script": 8}),
+        "train": ("85438a480ff81ddc78cbfc14813b4670ea25b98286990a9211cff382f1eb58d7", 23,
+                  {"verb": 1, "script": 1, "reporter": 2}),
+    }
+    for split, (digest, expected_total, expected_hits) in sources.items():
+        data = (directory / f"he_htb-ud-{split}.conllu").read_bytes()
+        assert sha256(data).hexdigest() == digest, f"unexpected HTB {split} revision"
+        total = 0
+        hits: Counter[str] = Counter()
+        for sentence in data.decode().split("\n\n"):
+            surface = []
+            fused_through = 0
+            for line in sentence.splitlines():
+                if not line or line.startswith("#"):
+                    continue
+                columns = line.split("\t")
+                token_id, form = columns[:2]
+                if "-" in token_id:
+                    fused_through = int(token_id.split("-")[1])
+                elif not token_id.isdecimal() or int(token_id) <= fused_through:
+                    continue
+                if form not in {"-", "־"}:
+                    surface.append((form, columns[3]))
+            for index, (form, gold_pos) in enumerate(surface):
+                if form != "כתב":
+                    continue
+                total += 1
+                previous = surface[index - 1][0] if index else ""
+                following = tuple(word for word, _ in surface[index + 1:index + 3])
+                readings = contextual_readings(form, previous=previous, following=following)
+                if len(readings) == 1:
+                    reading, = readings
+                    assert gold_pos == ("VERB" if reading == "verb" else "NOUN")
+                    hits[reading] += 1
+        assert total == expected_total and hits == expected_hits
+        print(f"HTB {split}: {hits.total()}/{total} resolved, {total - hits.total()} open.")
+
+
 if __name__ == "__main__":
     if not __debug__:
         raise RuntimeError("Run the benchmark without optimization so assertions execute")
+    parser = ArgumentParser(description=__doc__)
+    parser.add_argument("--htb", type=Path, help="optional checkout of the pinned Hebrew treebank")
+    args = parser.parse_args()
     check_tamil()
     check_hebrew()
-    print("Tamil: plural then accusative passes, reverse order fails its guard.")
+    check_hebrew_context()
+    print("Tamil: 12 forms and 4 reverse-order refusals across two nouns and two cases.")
     print("Hebrew: 2 unpointed classes / 1 channel, 3 pointed classes / 2 channels.")
     print("Hebrew: exact T24 residue ranks 1 unpointed and 2 pointed.")
+    print("Hebrew: noun context reduces additional channels to 0 unpointed / 1 pointed.")
+    if args.htb is not None:
+        audit_htb(args.htb)

@@ -2,10 +2,11 @@
 
 Author: Monty Dabas
 
-Two source-backed fixtures instantiate the clock-free transition and memory
-contracts. Tamil supplies a guarded order experiment. Modern Hebrew supplies
-an information-loss experiment whose minimum Smriti depends on the requested
-output. The mathematical lineage is [T24](../../theorum/24_clock_free_recognition_seam_cut_calculus.md),
+The clock-free transition and memory contracts apply to two Tamil noun
+paradigms and three Modern Hebrew lexical readings. Tamil supplies guarded
+order experiments across two stem classes and two cases. The Hebrew
+experiment measures how local context and output spelling jointly determine
+the minimum Smriti. The mathematical lineage is [T24](../../theorum/24_clock_free_recognition_seam_cut_calculus.md),
 [MR-04](../../theorum/morphic_recognition/04_future_complete_linear_recognition.md),
 [MR-05](../../theorum/morphic_recognition/05_seam_memory_gluing.md) and
 [MR-06](../../theorum/morphic_recognition/06_guarded_lopa_future_equivalence.md).
@@ -23,6 +24,23 @@ second singular form, which lies outside the selected fixture. Shulman gives
 the bare-to-plural-to-accusative sequence in *Tamil: A Biography*, “Tamil
 Syntax: What It Feels Like to Live in Tamil”.
 [Figure 1](https://aclanthology.org/W12-5611.pdf) · [Shulman](https://www.hup.harvard.edu/books/9780674059924)
+
+The extension adds `LOC` and a second lexeme, `வீடு` (*vīṭu*, house). For
+the tree lexeme, plural formation changes the join and the singular oblique
+uses `maratt-`. For the house lexeme, the bare plural takes `-kaḷ` and the
+singular oblique uses `vīṭṭ-`. Each case reads the correct base for its number.
+Case provenance for the tree is Ramasamy, Bojar and Žabokrtský, Figure 1.
+The Tamil Virtual Academy supplies both bare plurals in lesson 8. The Chicago
+grammar gives both singular obliques and the house accusative. The house case
+panel has a separate [declension source](https://en.wiktionary.org/wiki/வீடு#Declension).
+[Tamil Virtual Academy](https://www.tamilvu.org/coresite/download/ABC_Tamil.pdf) · [Chicago case grammar](https://tamilcourse.uchicago.edu/node/115)
+
+| Lexeme | Number | Bare | Accusative | Locative |
+|---|---|---|---|---|
+| Tree | Singular | மரம் | மரத்தை | மரத்தில் |
+| Tree | Plural | மரங்கள் | மரங்களை | மரங்களில் |
+| House | Singular | வீடு | வீட்டை | வீட்டில் |
+| House | Plural | வீடுகள் | வீடுகளை | வீடுகளில் |
 
 **Modern Hebrew.** The finite input list uses two masculine absolute nouns
 and one third-person masculine singular past verb from the root כ־ת־ב. The
@@ -42,7 +60,8 @@ the broader ambiguity of `כתב` documented in Goldberg and Elhadad (2013),
 ## Full ordered carrier and its zero-reading
 
 Admit exactly the Tamil transitions listed above and the Hebrew paths
-`pointed input → unpointed input with retained analysis → plural with retained analysis`.
+`pointed input → unpointed input with retained analysis → context-compatible input → plural with retained analysis`.
+The earlier pooled experiment omits the context step.
 Each Hebrew path keeps its lexical ID, root, template, original pointing and
 source. Each Tamil path keeps its stem, number, case, join and source. Tamil
 prefix histories are represented by distinct basis labels. Hebrew has three
@@ -83,8 +102,12 @@ The word `(ACC, PL)` is disabled on its second step even though singular
 `(1+z_ACC,pl)(1+z_PL)`, whose augmentation is `1`. The other path is absent
 at both levels. In the linear extension the difference `ACC·PL − PL·ACC`
 therefore has the nonzero target coordinate `மரங்களை` after specialization.
-The grammatical witness is the guard asymmetry. It proves order sensitivity
-on this fixture and supplies no general Tamil precedence scheme.
+The same guard calculation holds for `LOC` on the tree and for `ACC` and
+`LOC` on the house. The four first paths remain morphologically distinct.
+For the house in particular, singular gemination belongs to the singular
+oblique branch. The selected plural case paths use the ordinary house plural
+base before adding case. The grammatical witness is the guard asymmetry on
+each of these two selected paradigms.
 
 ## Hebrew recognition, Smriti and composition residue
 
@@ -127,13 +150,87 @@ at both levels. The rank claims concern the rational zero-reading, and the
 full-family residue is nonzero in both cases by specialization. Keeping the
 same input and changing only the target explains the difference in Smriti.
 
+## Hebrew context and construct state
+
+[`hebrew_context.py`](hebrew_context.py) starts from the unpointed token and
+admits three candidate histories. The input does not specify which is actual.
+An independently supplied noun slot retains script and reporter. The raw
+adapter also evaluates three bounded lexical cues on written neighbors,
+without using the target token's part-of-speech tag as input.
+
+| Written cue in this fixture | Retained reading |
+|---|---|
+| `את` immediately follows | Pa'al verb |
+| `יד`, `עת`, or `העת` immediately follows | Script lexeme in a construct expression |
+| `העיתון` follows and `מדווח` precedes the target or follows that noun | Reporter lexeme in a construct expression |
+
+Without a listed cue, the adapter preserves every candidate compatible with
+any independently supplied slot. Conflicting evidence returns an empty
+candidate set. These are bounded pattern decisions. Neighbor patterns are
+heuristics, with no claim that they uniquely resolve the token in unrestricted
+sentences or that the three readings exhaust the language. The Academy of
+the Hebrew Language supplies pointed manuscript and periodical constructions
+and the reporter term. The lexicon records each distinct construct plural.
+[Academy manuscript and periodical entries](https://terms.hebrew-academy.org.il/munnah?kodErekhIvrit=9509) · [Periodical definition](https://terms.hebrew-academy.org.il/Ktaim/ShowKtaim?kodErekhIvrit=16942) · [Reporter term](https://terms.hebrew-academy.org.il/munnah/28710_2/correspondent)
+
+| Noun | Singular construct head | Plural construct head | Unpointed plural head |
+|---|---|---|---|
+| [Script](https://www.pealim.com/dict/3052-ktav/) | כְּתַב | כִּתְבֵי | כתבי |
+| [Reporter](https://www.pealim.com/dict/6084-katav/) | כַּתַּב | כַּתָּבֵי | כתבי |
+
+The construct target inflects the noun head while its complement remains
+outside the probe. In particular, the pointed periodical construction uses
+`כִּתְבֵי`, distinct from the reporter's `כַּתָּבֵי`. The common unpointed
+construct head `כתבי` can be returned while the lexical analysis stays open.
+
+For a fixed admissible context `c`, let `H_c` be its surviving nonempty set
+of histories and `E_c` their coordinate inclusion into the pooled module.
+The full-carrier aperture is `E_c E_c*`. Taking the admitted context arrow to
+append its source evidence with the ordered edge coefficient `1+z_e` gives
+the same augmentation law as before, because membership in `H_c` is decided
+by the declared cue independently of coefficients. Context applies to the
+spelling fiber, and the retained source still carries its lexical analysis.
+
+At the zero-reading the present observation on `H_c` has the single row of
+ones. The requested target has one indicator row per distinct plural output
+on `H_c`. Those rows have disjoint nonempty supports and sum to the present
+row. If there are `k` outputs, the joint row rank is `k` and the present rank
+is `1`. MR-05 therefore gives exactly `k−1` additional linear channels. An
+explicit repair stores any `k−1` output-class totals and recovers the last
+from the present sum. In the deterministic reading, output-class membership
+is the minimum record within that context fiber because all admitted histories
+have the same remaining probe and then terminate. This measures the residual
+memory given context. It does not charge or estimate the cost of acquiring
+that context.
+
+| Evidence available before plural probe | Additional channels, unpointed target | Additional channels, pointed target |
+|---|---:|---:|
+| Pooled readings, absolute noun or finite verb target | 1 | 2 |
+| Noun slot, absolute or construct target | 0 | 1 |
+| One retained reading from a specific cue | 0 | 0 |
+
+The optional audit uses [UD Hebrew HTB at `9c6125f`](https://github.com/UniversalDependencies/UD_Hebrew-HTB/tree/9c6125f816a5f94e9db7f7e700197b1362e300d0).
+It scans all surface tokens exactly equal to `כתב` in the three pinned files,
+uses original multiword-token forms for adjacent words and permits hyphenated
+joins. It finds singleton cues for **12 of 36** occurrences. Counts as
+resolved/total are train 4/23, dev 0/1 and test 8/12. All 12 agree with the
+corpus verb-versus-noun tag. The corpus has no gold sense distinction for
+the two nouns here. The lexical readings use the manually inspected local
+contexts and the dictionary evidence above. The cue patterns were developed
+from the inspected material, so these are coverage counts on the fixed
+corpus rather than held-out accuracy. The eight test-file matches all use
+the periodical cue. The verb anchor is train sentence 1815, token 3. The
+reporter anchors are train 2108/3 and 2110/1. The 24 remaining occurrences keep
+their lexical choice open.
+
 ## Reproduce the finite checks
 
 From the repository root, run `python3.12 -m research.cross_linguistic_seams.verify`.
 The check reuses MR-06 for guarded paths and behavioral quotients, and MR-05
 for exact linear repair. It verifies the pointed and unpointed forms,
 distinguishing futures, minimum channel counts, and cut-residue identities.
-The full-carrier construction above has a written algebraic proof. The
-benchmark assumes a known lexical analysis before erasure and says how much
-of it must survive for a specified later probe. Open work includes obtaining
-analyses from context and extending the source inventories and rule domains.
+To audit the pinned treebank locally, run
+`python3.12 -m research.cross_linguistic_seams.verify --htb /path/to/UD_Hebrew-HTB`.
+The full-carrier construction above has a written algebraic proof. Broader
+context acquisition and expansion of the lexical and rule inventories remain
+open.
